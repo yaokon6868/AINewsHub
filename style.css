@@ -63,6 +63,18 @@ main {
   font-size: 14px;
 }
 
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.filter-label {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 12px;
+}
+
 .source-filters {
   display: flex;
   flex-wrap: wrap;

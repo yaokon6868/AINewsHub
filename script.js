@@ -1,6 +1,7 @@
 const state = {
   items: [],
   activeCategory: "all",
+  activeSource: "all",
   query: "",
 };
 
@@ -11,15 +12,24 @@ const CATEGORY_LABELS = {
   google: "Gemini",
   other_big: "其他大厂",
   breakthrough: "重大进展",
+  tools_apps: "工具应用",
+  image_video: "图像视频",
+  local_model: "本地模型",
+  open_source: "开源社区",
+  chips: "芯片算力",
   other: "其他",
 };
-const CATEGORY_ORDER = ["all", "anthropic", "openai", "google", "other_big", "breakthrough", "other"];
+const CATEGORY_ORDER = [
+  "all", "anthropic", "openai", "google", "other_big", "breakthrough",
+  "tools_apps", "image_video", "local_model", "open_source", "chips", "other",
+];
 
 const listEl = document.getElementById("news-list");
 const emptyEl = document.getElementById("empty-state");
 const updatedEl = document.getElementById("updated-at");
 const searchEl = document.getElementById("search");
-const filtersEl = document.getElementById("source-filters");
+const categoryFiltersEl = document.getElementById("category-filters");
+const sourceFiltersEl = document.getElementById("source-filters");
 
 function formatTime(iso) {
   try {
@@ -30,20 +40,25 @@ function formatTime(iso) {
   }
 }
 
+function itemCategories(it) {
+  return it.categories && it.categories.length ? it.categories : ["other"];
+}
+
 function render() {
   const q = state.query.trim().toLowerCase();
   const filtered = state.items.filter((it) => {
-    const categories = it.categories && it.categories.length ? it.categories : ["other"];
+    const categories = itemCategories(it);
     const matchCategory = state.activeCategory === "all" || categories.includes(state.activeCategory);
+    const matchSource = state.activeSource === "all" || it.source === state.activeSource;
     const matchQuery = !q || it.title.toLowerCase().includes(q);
-    return matchCategory && matchQuery;
+    return matchCategory && matchSource && matchQuery;
   });
 
   listEl.innerHTML = "";
   emptyEl.hidden = filtered.length > 0;
 
   for (const it of filtered) {
-    const categories = it.categories && it.categories.length ? it.categories : ["other"];
+    const categories = itemCategories(it);
     const tags = categories
       .filter((c) => c !== "other")
       .map((c) => `<span class="news-tag${c === "breakthrough" ? " news-tag-hot" : ""}">${CATEGORY_LABELS[c] || c}</span>`)
@@ -64,34 +79,45 @@ function render() {
   }
 }
 
-function renderFilters() {
-  const present = new Set();
-  for (const it of state.items) {
-    const categories = it.categories && it.categories.length ? it.categories : ["other"];
-    for (const c of categories) present.add(c);
-  }
-  filtersEl.innerHTML = "";
+function renderCategoryFilters() {
+  categoryFiltersEl.innerHTML = "";
   for (const key of CATEGORY_ORDER) {
-    if (key !== "all" && !present.has(key)) continue;
     const chip = document.createElement("span");
     chip.className = "source-chip" + (state.activeCategory === key ? " active" : "");
     chip.textContent = CATEGORY_LABELS[key];
     chip.addEventListener("click", () => {
       state.activeCategory = key;
-      renderFilters();
+      renderCategoryFilters();
       render();
     });
-    filtersEl.appendChild(chip);
+    categoryFiltersEl.appendChild(chip);
+  }
+}
+
+function renderSourceFilters() {
+  const sources = ["all", ...new Set(state.items.map((it) => it.source))];
+  sourceFiltersEl.innerHTML = "";
+  for (const src of sources) {
+    const chip = document.createElement("span");
+    chip.className = "source-chip" + (state.activeSource === src ? " active" : "");
+    chip.textContent = src === "all" ? "全部" : src;
+    chip.addEventListener("click", () => {
+      state.activeSource = src;
+      renderSourceFilters();
+      render();
+    });
+    sourceFiltersEl.appendChild(chip);
   }
 }
 
 async function load() {
   try {
-    const res = await fetch("data/news.json", { cache: "no-store" });
+    const res = await fetch(`data/news.json?v=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
     state.items = data.items || [];
     updatedEl.textContent = "最后更新：" + formatTime(data.updated_at);
-    renderFilters();
+    renderCategoryFilters();
+    renderSourceFilters();
     render();
   } catch (e) {
     updatedEl.textContent = "加载失败，请稍后刷新";

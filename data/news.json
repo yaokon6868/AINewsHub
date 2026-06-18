@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T13:26:18.934693+00:00",
+  "updated_at": "2026-06-18T13:32:10.379379+00:00",
   "items": [
     {
       "title": "谷歌时隔6年再发智能音箱，Gemini上桌，售价不到700元 - 智东西",
@@ -38,7 +38,8 @@
       "published": "2026-06-18T11:55:06+00:00",
       "summary": "小米MIX Fold 5首发！澎湃OS 4深度集成AI智能体：一句话完成复杂任务  新浪网",
       "categories": [
-        "other_big"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -58,7 +59,7 @@
       "published": "2026-06-18T11:47:48+00:00",
       "summary": "港股承压，三大指数创新低 AI大模型与半导体逆势狂飙  同花顺",
       "categories": [
-        "other"
+        "chips"
       ]
     },
     {
@@ -68,7 +69,8 @@
       "published": "2026-06-18T11:46:13+00:00",
       "summary": "GPT‑5.4+化学智能体，OpenAI让AI自主优化药物反应，同步上线生命科学基准LifeSciBench  Sohu",
       "categories": [
-        "openai"
+        "openai",
+        "tools_apps"
       ]
     },
     {
@@ -88,7 +90,7 @@
       "published": "2026-06-18T11:17:00+00:00",
       "summary": "海信视像：公司自研星海大模型已推出多款自有AI应用落地显示端  Sohu",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -98,7 +100,7 @@
       "published": "2026-06-18T11:06:00+00:00",
       "summary": "金融监管总局发布银行业保险业人工智能安全开发应用的指导意见  经济频道",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -128,7 +130,7 @@
       "published": "2026-06-18T10:39:45+00:00",
       "summary": "企业智能体的下半场，如何让智能体越用越聪明？  53AI",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -148,7 +150,7 @@
       "published": "2026-06-18T10:22:12+00:00",
       "summary": "信通院正式发布2026智能体十大关键词  安全内参",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -179,7 +181,7 @@
       "published": "2026-06-18T10:09:04+00:00",
       "summary": "“智能体数量并非重点”，陆家嘴论坛农行、中行、浦发高管共议AI实践  Sohu",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -189,7 +191,7 @@
       "published": "2026-06-18T09:58:41+00:00",
       "summary": "自主智能体遇阻：数据库成最大挑战  Infoq.cn",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -219,7 +221,8 @@
       "published": "2026-06-18T09:50:51+00:00",
       "summary": "小艺智能体全面接入华为支付，对话中即可完成下单与支付  凤凰网科技",
       "categories": [
-        "other_big"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -229,7 +232,8 @@
       "published": "2026-06-18T09:48:37+00:00",
       "summary": "JetBrains 开源 Mellum2，尝试 Claude Code 无法涉足的领域  Infoq.cn",
       "categories": [
-        "anthropic"
+        "anthropic",
+        "open_source"
       ]
     },
     {
@@ -239,7 +243,7 @@
       "published": "2026-06-18T09:31:03+00:00",
       "summary": "AI大模型集体押注世界杯，谁最懂球？_精彩视频为您呈现_36氪  36 Kr",
       "categories": [
-        "other"
+        "image_video"
       ]
     },
     {
@@ -259,7 +263,7 @@
       "published": "2026-06-18T09:00:00+00:00",
       "summary": "人工智能+生态大会|Skywork Super Agents：Agent范式正在重构Token经济  Sohu",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -289,7 +293,7 @@
       "published": "2026-06-18T07:59:37+00:00",
       "summary": "SoulAgent首次亮相智源大会， 专属智能体帮你听会和“克隆”专家  新浪财经",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -339,7 +343,7 @@
       "published": "2026-06-18T02:23:29+00:00",
       "summary": "微信支付发布AI专属卡，智能体WorkBuddy率先接入  Sohu",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -349,8 +353,8 @@
       "published": "2026-06-18T00:12:23+00:00",
       "summary": "京东健康发布国内首个AI“疤痕诊疗智能体”  观点网",
       "categories": [
-        "other",
-        "breakthrough"
+        "breakthrough",
+        "tools_apps"
       ]
     },
     {

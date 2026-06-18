@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI 日报 - AI News Hub</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
 <header>
@@ -16,7 +16,14 @@
 <main>
   <div class="controls">
     <input id="search" type="text" placeholder="搜索标题...">
-    <div id="source-filters" class="source-filters"></div>
+    <div class="filter-row">
+      <span class="filter-label">分类</span>
+      <div id="category-filters" class="source-filters"></div>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">来源</span>
+      <div id="source-filters" class="source-filters"></div>
+    </div>
   </div>
   <div id="news-list" class="news-list"></div>
   <p id="empty-state" class="empty-state" hidden>没有匹配的新闻</p>
@@ -26,6 +33,6 @@
   <p>数据来源：Google News / TechCrunch / VentureBeat / Hacker News，由 GitHub Actions 定时抓取</p>
 </footer>
 
-<script src="script.js"></script>
+<script src="script.js?v=2"></script>
 </body>
 </html>

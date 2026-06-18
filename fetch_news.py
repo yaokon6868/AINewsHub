@@ -59,21 +59,56 @@ BREAKTHROUGH_KEYWORDS = [
     "收购", "acquisition", "acquire", "发布会", "重大",
 ]
 
+TOPIC_KEYWORDS = {
+    "tools_apps": [
+        "插件", "app", "应用", "工具", "上架", "extension", "浏览器扩展",
+        "生产力工具", "效率工具", "agent", "智能体", "助手",
+    ],
+    "image_video": [
+        "图像", "视频", "文生图", "文生视频", "sora", "midjourney",
+        "stable diffusion", "runway", "suno", "图片生成", "视频生成",
+        "image generation", "video generation", "text-to-image",
+        "text-to-video", "绘画", "ai绘画", "ai视频", "数字人",
+    ],
+    "local_model": [
+        "本地模型", "local model", "开源权重", "ollama", "llama.cpp",
+        "量化", "gguf", "本地部署", "端侧", "on-device", "离线运行",
+        "手机端", "端侧模型",
+    ],
+    "open_source": [
+        "开源", "huggingface", "hugging face", "开放权重", "open source",
+        "开源模型", "开源项目", "开放源代码", "github",
+    ],
+    "chips": [
+        "芯片", "gpu", "算力", "tpu", "显卡", "半导体", "chip", "compute",
+        "h100", "h200", "blackwell", "昇腾", "寒武纪", "晶圆", "光刻",
+    ],
+}
+
 
 def classify(title, summary):
     text = f"{title} {summary}".lower()
+    categories = []
+
     company = None
     for key, kws in COMPANY_KEYWORDS.items():
         if any(kw in text for kw in kws):
             company = key
             break
-    if not company and any(kw.lower() in text for kw in OTHER_BIG_KEYWORDS):
-        company = "other_big"
-    if not company:
-        company = "other"
-    categories = [company]
+    if company:
+        categories.append(company)
+    elif any(kw.lower() in text for kw in OTHER_BIG_KEYWORDS):
+        categories.append("other_big")
+
     if any(kw.lower() in text for kw in BREAKTHROUGH_KEYWORDS):
         categories.append("breakthrough")
+
+    for topic, kws in TOPIC_KEYWORDS.items():
+        if any(kw.lower() in text for kw in kws):
+            categories.append(topic)
+
+    if not categories:
+        categories.append("other")
     return categories
 
 
