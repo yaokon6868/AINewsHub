@@ -27,9 +27,10 @@ const CATEGORY_ORDER = [
 const listEl = document.getElementById("news-list");
 const emptyEl = document.getElementById("empty-state");
 const updatedEl = document.getElementById("updated-at");
+const debugEl = document.getElementById("debug-line");
 const searchEl = document.getElementById("search");
-const categoryFiltersEl = document.getElementById("category-filters");
-const sourceFiltersEl = document.getElementById("source-filters");
+const categoryFiltersEl = document.getElementById("categoryFilters");
+const sourceFiltersEl = document.getElementById("sourceFilters");
 
 function formatTime(iso) {
   try {
@@ -41,7 +42,9 @@ function formatTime(iso) {
 }
 
 function itemCategories(it) {
-  return it.categories && it.categories.length ? it.categories : ["other"];
+  if (it.categories && it.categories.length) return it.categories;
+  if (it.category) return [it.category];
+  return ["other"];
 }
 
 function render() {
@@ -59,19 +62,18 @@ function render() {
 
   for (const it of filtered) {
     const categories = itemCategories(it);
-    const tags = categories
-      .filter((c) => c !== "other")
-      .map((c) => `<span class="news-tag${c === "breakthrough" ? " news-tag-hot" : ""}">${CATEGORY_LABELS[c] || c}</span>`)
+    const badges = categories
+      .map((c) => `<span class="category-badge${c === "breakthrough" ? " category-badge-hot" : ""}">${CATEGORY_LABELS[c] || c}</span>`)
       .join("");
     const card = document.createElement("div");
     card.className = "news-card";
     card.innerHTML = `
       <a href="${it.link}" target="_blank" rel="noopener noreferrer">${it.title}</a>
+      <div class="category-badges">${badges}</div>
       <div class="news-meta">
         <span>${it.source}</span>
         <span>${formatTime(it.published)}</span>
         ${it.translated ? '<span title="机器翻译">机翻</span>' : ""}
-        ${tags}
       </div>
       ${it.summary ? `<div class="news-summary">${it.summary}</div>` : ""}
     `;
@@ -83,7 +85,7 @@ function renderCategoryFilters() {
   categoryFiltersEl.innerHTML = "";
   for (const key of CATEGORY_ORDER) {
     const chip = document.createElement("span");
-    chip.className = "source-chip" + (state.activeCategory === key ? " active" : "");
+    chip.className = "filter-chip" + (state.activeCategory === key ? " active" : "");
     chip.textContent = CATEGORY_LABELS[key];
     chip.addEventListener("click", () => {
       state.activeCategory = key;
@@ -92,6 +94,7 @@ function renderCategoryFilters() {
     });
     categoryFiltersEl.appendChild(chip);
   }
+  return CATEGORY_ORDER.length;
 }
 
 function renderSourceFilters() {
@@ -99,7 +102,7 @@ function renderSourceFilters() {
   sourceFiltersEl.innerHTML = "";
   for (const src of sources) {
     const chip = document.createElement("span");
-    chip.className = "source-chip" + (state.activeSource === src ? " active" : "");
+    chip.className = "filter-chip" + (state.activeSource === src ? " active" : "");
     chip.textContent = src === "all" ? "全部" : src;
     chip.addEventListener("click", () => {
       state.activeSource = src;
@@ -108,6 +111,7 @@ function renderSourceFilters() {
     });
     sourceFiltersEl.appendChild(chip);
   }
+  return sources.length;
 }
 
 async function load() {
@@ -116,11 +120,13 @@ async function load() {
     const data = await res.json();
     state.items = data.items || [];
     updatedEl.textContent = "最后更新：" + formatTime(data.updated_at);
-    renderCategoryFilters();
-    renderSourceFilters();
+    const categoryCount = renderCategoryFilters();
+    const sourceCount = renderSourceFilters();
+    debugEl.textContent = `分类数量：${categoryCount} ・ 来源数量：${sourceCount}`;
     render();
   } catch (e) {
     updatedEl.textContent = "加载失败，请稍后刷新";
+    debugEl.textContent = "分类数量：加载出错 ・ 来源数量：加载出错";
     console.error(e);
   }
 }

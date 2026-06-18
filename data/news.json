@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T13:32:10.379379+00:00",
+  "updated_at": "2026-06-18T13:40:37.581186+00:00",
   "items": [
     {
       "title": "谷歌时隔6年再发智能音箱，Gemini上桌，售价不到700元 - 智东西",
@@ -277,16 +277,6 @@
       ]
     },
     {
-      "title": "今天起，Claude Design要把设计师和程序员变成同一种人了 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0pWWU1pdkdkYzdjQkVDQ0w1dzJIRGN5RzBWYk9sWjUzaElWRkU2eE9sMGRwUVJaZkg5Qjk2djl1MUM4THFJeWNiZlJPemtla2k4RWV4Mk12VHVwZ1pqZUM5dnZ5Wk1HeXlYZWhPNXhKY3RVcDNsdno4dTN4RVU4b2Q5RDFyX2Ix?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-18T08:20:12+00:00",
-      "summary": "今天起，Claude Design要把设计师和程序员变成同一种人了  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "SoulAgent首次亮相智源大会， 专属智能体帮你听会和“克隆”专家 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbXUwWHhlalVhUUdpWU0zRFZOMDI3cUI0U092bS0yTG1tbzVRa1VldFBxXzItUjZMcnN3MV9Bd1otc0ZnLUR4WVVsNndpUE1LV1l3TDdkNHFqdjE3TWR2N19JVzF6ZUZPZVYzTnpzRnFJVGZoSkp1ZTc2bEY3ajdBR3hBLWJLZ2dhODRPWWpXM2s2WUg1ZUlZZk1zWkZNSGs4WUx4SE92NExwQy1CRWFsN1RPOTBwN2NwMi0yNmRjZnRDbzU2TWFnOEdsS1NBeDJWb1B6N1pqci12eTZSRVBoUjFlNWdSNHpnT2hzaV9SekV6amlGLS1KRXd2U1NuOEdlS1E?oc=5",
       "source": "Google News - AI(中文)",
@@ -365,6 +355,16 @@
       "summary": "Gemini联合负责人出走OpenAI：谷歌缘何总令AI天才感到挫败？  36 Kr",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "工信部等七部门：引导平台企业加强通用大模型、行业大模型和智能体等人工智能领域创新布局 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z2puYXVsMEVQNlNMRkNSQkZVUVRTc0lPdmthWFV5VWlRT3ZTbXkwY1pHSHdoODZmNmVsbjhfeVhOajYxTUIySHVycHh3eGttdHdXaTRLZDk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-17T16:18:00+00:00",
+      "summary": "工信部等七部门：引导平台企业加强通用大模型、行业大模型和智能体等人工智能领域创新布局  36 Kr",
+      "categories": [
+        "tools_apps"
       ]
     }
   ]

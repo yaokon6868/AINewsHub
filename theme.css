@@ -36,6 +36,12 @@ header h1 {
   font-size: 13px;
 }
 
+.debug-line {
+  color: #ffcc66;
+  font-size: 12px;
+  margin-top: 4px;
+}
+
 main {
   max-width: 760px;
   margin: 0 auto;
@@ -75,13 +81,13 @@ main {
   font-size: 12px;
 }
 
-.source-filters {
+.filters {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
-.source-chip {
+.filter-chip {
   padding: 5px 12px;
   border-radius: 999px;
   border: 1px solid var(--border);
@@ -92,9 +98,14 @@ main {
   user-select: none;
 }
 
-.source-chip.active {
+.filter-chip.active {
   border-color: var(--accent);
   color: var(--accent);
+}
+
+.category-filters .filter-chip.active {
+  border-color: #ffcc66;
+  color: #ffcc66;
 }
 
 .news-list {
@@ -129,6 +140,13 @@ main {
   color: var(--accent);
 }
 
+.category-badges {
+  margin-top: 8px;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
 .news-meta {
   margin-top: auto;
   padding-top: 8px;
@@ -139,7 +157,7 @@ main {
   color: var(--muted);
 }
 
-.news-tag {
+.category-badge {
   padding: 2px 8px;
   border-radius: 999px;
   background: rgba(110, 168, 254, 0.15);
@@ -147,7 +165,7 @@ main {
   font-size: 11px;
 }
 
-.news-tag-hot {
+.category-badge-hot {
   background: rgba(255, 122, 89, 0.18);
   color: #ff8a66;
 }
