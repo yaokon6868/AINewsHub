@@ -1,8 +1,19 @@
 const state = {
   items: [],
-  activeSource: "all",
+  activeCategory: "all",
   query: "",
 };
+
+const CATEGORY_LABELS = {
+  all: "全部",
+  anthropic: "Claude",
+  openai: "OpenAI",
+  google: "Gemini",
+  other_big: "其他大厂",
+  breakthrough: "重大进展",
+  other: "其他",
+};
+const CATEGORY_ORDER = ["all", "anthropic", "openai", "google", "other_big", "breakthrough", "other"];
 
 const listEl = document.getElementById("news-list");
 const emptyEl = document.getElementById("empty-state");
@@ -22,15 +33,21 @@ function formatTime(iso) {
 function render() {
   const q = state.query.trim().toLowerCase();
   const filtered = state.items.filter((it) => {
-    const matchSource = state.activeSource === "all" || it.source === state.activeSource;
+    const categories = it.categories && it.categories.length ? it.categories : ["other"];
+    const matchCategory = state.activeCategory === "all" || categories.includes(state.activeCategory);
     const matchQuery = !q || it.title.toLowerCase().includes(q);
-    return matchSource && matchQuery;
+    return matchCategory && matchQuery;
   });
 
   listEl.innerHTML = "";
   emptyEl.hidden = filtered.length > 0;
 
   for (const it of filtered) {
+    const categories = it.categories && it.categories.length ? it.categories : ["other"];
+    const tags = categories
+      .filter((c) => c !== "other")
+      .map((c) => `<span class="news-tag${c === "breakthrough" ? " news-tag-hot" : ""}">${CATEGORY_LABELS[c] || c}</span>`)
+      .join("");
     const card = document.createElement("div");
     card.className = "news-card";
     card.innerHTML = `
@@ -39,6 +56,7 @@ function render() {
         <span>${it.source}</span>
         <span>${formatTime(it.published)}</span>
         ${it.translated ? '<span title="机器翻译">机翻</span>' : ""}
+        ${tags}
       </div>
       ${it.summary ? `<div class="news-summary">${it.summary}</div>` : ""}
     `;
@@ -47,14 +65,19 @@ function render() {
 }
 
 function renderFilters() {
-  const sources = ["all", ...new Set(state.items.map((it) => it.source))];
+  const present = new Set();
+  for (const it of state.items) {
+    const categories = it.categories && it.categories.length ? it.categories : ["other"];
+    for (const c of categories) present.add(c);
+  }
   filtersEl.innerHTML = "";
-  for (const src of sources) {
+  for (const key of CATEGORY_ORDER) {
+    if (key !== "all" && !present.has(key)) continue;
     const chip = document.createElement("span");
-    chip.className = "source-chip" + (state.activeSource === src ? " active" : "");
-    chip.textContent = src === "all" ? "全部" : src;
+    chip.className = "source-chip" + (state.activeCategory === key ? " active" : "");
+    chip.textContent = CATEGORY_LABELS[key];
     chip.addEventListener("click", () => {
-      state.activeSource = src;
+      state.activeCategory = key;
       renderFilters();
       render();
     });

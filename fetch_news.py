@@ -33,6 +33,49 @@ NEGATIVE_KEYWORDS = [
     "校招", "招聘", "毕业", "stock price", "shares", "dividend", "nasdaq",
 ]
 
+COMPANY_KEYWORDS = {
+    "anthropic": ["claude", "anthropic"],
+    "openai": [
+        "openai", "chatgpt", "gpt-5", "gpt5", "gpt-4", "gpt4", "sora",
+        "dall-e", "dalle", "altman", "奥特曼",
+    ],
+    "google": ["gemini", "deepmind", "谷歌", "google"],
+}
+
+OTHER_BIG_KEYWORDS = [
+    "meta", "llama", "microsoft", "copilot", "微软", "grok", "xai", "马斯克",
+    "mistral", "deepseek", "阿里", "百度", "腾讯", "字节跳动", "字节", "智谱",
+    "月之暗面", "kimi", "文心一言", "通义千问", "qwen", "baidu", "tencent",
+    "bytedance", "nvidia", "英伟达", "amazon", "亚马逊", "华为", "huawei",
+    "小米", "xiaomi", "三星", "samsung", "cohere", "perplexity", "runway",
+    "suno", "midjourney", "stability", "stable diffusion", "minimax",
+    "零一万物", "苹果", "apple",
+]
+
+BREAKTHROUGH_KEYWORDS = [
+    "突破", "重磅", "里程碑", "震惊", "全球首", "首个", "新纪录", "超越",
+    "登顶", "breakthrough", "milestone", "unveils", "unveiled", "announces",
+    "announced", "funding round", "valuation", "估值", "融资", "ipo",
+    "收购", "acquisition", "acquire", "发布会", "重大",
+]
+
+
+def classify(title, summary):
+    text = f"{title} {summary}".lower()
+    company = None
+    for key, kws in COMPANY_KEYWORDS.items():
+        if any(kw in text for kw in kws):
+            company = key
+            break
+    if not company and any(kw.lower() in text for kw in OTHER_BIG_KEYWORDS):
+        company = "other_big"
+    if not company:
+        company = "other"
+    categories = [company]
+    if any(kw.lower() in text for kw in BREAKTHROUGH_KEYWORDS):
+        categories.append("breakthrough")
+    return categories
+
 
 def google_news_url(query, lang, country):
     params = {"q": query, "hl": lang, "gl": country, "ceid": f"{country}:{lang.split('-')[0]}"}
@@ -226,6 +269,9 @@ def curate(items):
             it["title"] = translate_to_zh(it["title"])
             it["summary"] = translate_to_zh(it.get("summary", ""))
             it["translated"] = True
+
+    for it in curated:
+        it["categories"] = classify(it["title"], it.get("summary", ""))
 
     curated.sort(key=parsed_date, reverse=True)
     return curated
