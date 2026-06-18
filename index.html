@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 日报 - AI News Hub</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>AI 日报</h1>
+  <p class="subtitle">自动聚合 AI 发展与 AI 工具新闻</p>
+  <p id="updated-at" class="updated-at">加载中...</p>
+</header>
+
+<main>
+  <div class="controls">
+    <input id="search" type="text" placeholder="搜索标题...">
+    <div id="source-filters" class="source-filters"></div>
+  </div>
+  <div id="news-list" class="news-list"></div>
+  <p id="empty-state" class="empty-state" hidden>没有匹配的新闻</p>
+</main>
+
+<footer>
+  <p>数据来源：Google News / TechCrunch / VentureBeat / Hacker News，由 GitHub Actions 定时抓取</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
