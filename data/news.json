@@ -1,6 +1,100 @@
 {
-  "updated_at": "2026-06-22T16:18:42.922563+00:00",
+  "updated_at": "2026-06-22T22:28:19.324259+00:00",
   "items": [
+    {
+      "title": "“全球首款动态数据流AI芯片”理想马赫M100发布 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwMUt6NjBaU192WXpDa0lrZzRhbVd1TWpSeTRqNUFlZU1xeUhJTWpJNWJPYU1Ucm1OTWtPdjZtMnE3NnpvLV9DWlpDZ0pXMkVDR0lXMkg1SGdSQkk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T21:57:27+00:00",
+      "summary": "“全球首款动态数据流AI芯片”理想马赫M100发布  汽车之家",
+      "categories": [
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "农行董事长谷澍：各银行在汇报AI应用成果时差异非常大，主要源于智能体的定义和规范标准尚未统一 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LUkhtb3RzT0k0OXpEdEI0TjRvR1pScmE5dm5TLVRQRm1sOVNqWDd2WENWbENmdnRKWG9nZVphTk16eS1BQ3F6UVMyOG91Q083QTIxSVk1LUdhMUNTcDFGNXJfdUN4a0ZYSWhBc25aWVBxbmItS3I0NWxFZ3hGQlU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T21:43:47+00:00",
+      "summary": "农行董事长谷澍：各银行在汇报AI应用成果时差异非常大，主要源于智能体的定义和规范标准尚未统一  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI称人工智能已突破网络安全防线 如今欲用人工智能修复该问题 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaUZsN2dXRjNBQzZONWtCWEo4djVEblhPYi1HNjBiNDdYTUFRWGhIb0t3TWdqOWJLMlJfSDB3VUVLQ0llVE9vemJub29XdUxEcXE3RV9faHM1VXJQZFVkS2lYYzN5Q1hURHJabXRtWVpndm9XcVdqNEl3NW1FMWRteFln?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T20:21:45+00:00",
+      "summary": "OpenAI称人工智能已突破网络安全防线 如今欲用人工智能修复该问题  video.sina.com.cn",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "“AI风向”要变？微软CEO：“卷”大模型没用，选择和低价才是王道！ - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzMDVva0Q0UzZ6WU1URXZJeURoMEpBOUprMkgtZXVsMFJwR1IxRkV1OU9GTkJVNjdMTFoyMU1ja1JTRjJUOGFBWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T19:45:22+00:00",
+      "summary": "“AI风向”要变？微软CEO：“卷”大模型没用，选择和低价才是王道！  财联社",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Interactions API: our primary interface for Gemini models and agents - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NT3pkalJqWWtCWEt5cWkyZkNldHNxeUNXTTV2Z1B0eFdQSlFWMFRvd0ZYWVYtYU1HX1lwaGh6NlVNYlZjLVVqdQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T18:15:00+00:00",
+      "summary": "Interactions API: our primary interface for Gemini models and agents  智源社区",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "携手谷歌云推出Gemini智能体 诺基亚股价上涨 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEd0OUlEQ0JiTGJFby1BTkJ0VDRMbmpGeDI4dUtMaFNrQkJ1SkMzcTdzMVJkTlk0MC1pdGlyRFkxWXk0Z3hSUzB4UnE3am1hUi16c1pXUDRvMjVfM3ZXYll1QkwzdVBKRERzQnZsTlNxeXZwZl9pOHk2d28tMlFMMExB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T17:51:35+00:00",
+      "summary": "携手谷歌云推出Gemini智能体 诺基亚股价上涨  video.sina.com.cn",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "人工智能几乎令该股归零 一项OpenAI合作协议一日内推动其股价翻倍 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDdIc21jMk12VWY1YTBjakJGMkxhR1ZwdzhJcjJRWEVpWGNEWmpPSmZzX3g4RlUxOVNLdkNLY2Q4YldvR0REOEFWd2NDdXRmaXJTcHZnaEpLdWpCRS1BMGg4N2hScXloRkhuaUFQeXBOamo0Q1pmWlRYRWo3eXR4NGN3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T17:28:29+00:00",
+      "summary": "人工智能几乎令该股归零 一项OpenAI合作协议一日内推动其股价翻倍  video.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Blockmate融资100万美元 怀俄明州200兆瓦人工智能布局在交易落地前获推进 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTR5ZF9rOWd6LWxBMkZDMUtzdV85Q2NteTA1bks3eng3b1V2ZENpYU1xTURKMXQ2VEx3eUZFNWc2emdHWFVyZWltUEJCdGhvd2JFaC1GLVdpY2M2U001UjRMMFhlbTFpMzZaOTZ5SFRMWmp1eDM0Q0pXUUJWbkxSR3JR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T17:28:29+00:00",
+      "summary": "Blockmate融资100万美元 怀俄明州200兆瓦人工智能布局在交易落地前获推进  video.sina.com.cn",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "成都新增5款生成式AI大模型完成国家备案 全市备案总量达23款 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmxxMGpxdkNIdGU2dUhHanNUS203NnV4ZGMtVklCb2xfMF82eFpZTGJaTUowdHF0QTlYV2hCanlJYTMxMjRlcnNEb1Z0UDJ5LWh5MXpsNHFOVVZhSVFQOHZwVlUycGU1dWxyeXlMY0pWdzhFZHFMV2twcUJ3amFUZTV6SHZVWi1U?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T16:24:00+00:00",
+      "summary": "成都新增5款生成式AI大模型完成国家备案 全市备案总量达23款  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "京津冀贸促系统服务发布“人工智能+”产业行动倡议 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFZCWGlYR1lYdDhndUtMNXhGTHB4REFnd2lPeXhiQlFacU1mbTdNUFJ3d05OVFducHhYMU9zWmZodmloMnJCR29QRW5hOFBIRnI5TEM0R1FUN1o1NTRDVHVmS2dLM0luUXJXeWFacHlxc3BZd1l5Z2pvMEpFMEhMd1lSYW9kZXVKS0pTWA?oc=5",
@@ -9,6 +103,16 @@
       "summary": "京津冀贸促系统服务发布“人工智能+”产业行动倡议  搜狐网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "企业部署AI智能体：快速推进与谨慎把控如何兼顾 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzVIMXdBaVgxdW1VbW52RHl3MWtXN21jeHNfam5IcV9zZk1ncVU2ZnFiMGpHWWdIblRrc2N2MWduTUpBUE9rdDBNRHNOWUhfNmtPVlBXR1dnSnpHcEhhMVV2VHo5MURRVUl2VFd2R1NnQmNETXBTNTlNaUlEdUNRWE5PRld5eV9u?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T15:11:00+00:00",
+      "summary": "企业部署AI智能体：快速推进与谨慎把控如何兼顾  搜狐网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -63,28 +167,6 @@
       ]
     },
     {
-      "title": "英伟达发布Halos for Robotics为业界首个全栈物理人工智能安全系统 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRWxSRmllRTUwdUkzN29DeVpUd2t0LTZTQThqLTVZWEZoQzVQNjVkd2Z3dHJqbWh3QXQ5dWp3ZUhzUXRjdTFlSQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T13:55:36+00:00",
-      "summary": "英伟达发布Halos for Robotics为业界首个全栈物理人工智能安全系统  凤凰网",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "华数上线首个审核智能体“蒲鉴助手” - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idVppLVRmZUItLXBIQTV1VEZYTDZYVXI5RWZ3M2ZYUGZqT3lkLTRXZXU2UzVJbWY5SHdCcmtaSzBSZ3BmcDJmd1Zhc3FYbmRkc05nU0JhLUhjOTBtWEE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T13:54:53+00:00",
-      "summary": "华数上线首个审核智能体“蒲鉴助手”  同花顺",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "搭载谷歌大模型+双联屏，新款雷诺梅甘娜E-Tech官图正式发布 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NN25ncXd4TWV4RDBzbmQySUdxZko5eTAyZm90amVrNmNFODREN1ZtVExLa1FKVGxzTzBYQUU1QjBlRVc2OEhvZGtLZlFLN3FHRjlOS1Jsa1dlLU0?oc=5",
       "source": "Google News - AI(中文)",
@@ -95,12 +177,33 @@
       ]
     },
     {
-      "title": "百川发布新一代医疗增强大模型 M4：登顶 HealthBench - 手机新浪网",
+      "title": "百川发布新一代医疗增强大模型 M4：登顶 HealthBench - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkWnE0Qmx3UHRKR29KX2lhQjVUb0RhUjBoYndIRWlIVGVjMDc0MGNyVU05VTEtT3YxRXlTMkRPMVJiRDdKWW5fb3AzRW5JSDBVNWVqcXFFbEhKRWlrR0FzY08yUjF3akZoT0hpYVVUNE1XeWJN?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-06-22T13:39:38+00:00",
-      "summary": "百川发布新一代医疗增强大模型 M4：登顶 HealthBench  手机新浪网",
+      "summary": "百川发布新一代医疗增强大模型 M4：登顶 HealthBench  新浪网",
       "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "报道：美光与Anthropic达成协议，锁定内存长期供应 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ub0tpM1I3bjJyVnd0VlRXY1JYb3FmWVlWLWtxeWNIaWFrOV9xemJtUEVDeHdsU05oeWxxeUdNNkhaS2VpYWl1d2w0MFN1bW45WExr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T13:29:51+00:00",
+      "summary": "报道：美光与Anthropic达成协议，锁定内存长期供应  华尔街见闻",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "英伟达发布业界首个全栈物理人工智能安全系统，股价盘前翻红 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2Flc3YxUTVEWEx0eE9zLXJVNUYyZ3k4d0VFVmhlN0k4T1pwQlNMU2Iyemt4TVpUenltd0xmcGhHMVIxaExoM2xGeDJwazNEVEwwdl91SUJQTWVEZVhib3g3MElmZ0lUaXFNTVBCMFRzTXdYbGdLc3hHekNXekctSHpfVkJ4QktXdXJJSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T13:27:00+00:00",
+      "summary": "英伟达发布业界首个全栈物理人工智能安全系统，股价盘前翻红  搜狐网",
+      "categories": [
+        "other_big",
         "breakthrough"
       ]
     },
@@ -125,6 +228,17 @@
       ]
     },
     {
+      "title": "Claude Code破解3500年前死语言，74年来最大考古语言学突破- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyM05GWnpyd0VZVG5kbllvNGtSZkJnZldFLWlicmlZOFV4ZlVIbG9GOHlxdG9RTEVIM1d5MnhsU29CMzZKbVN6QVhBNHNLVzdyUlVQaV9n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-22T13:04:00+00:00",
+      "summary": "Claude Code破解3500年前死语言，74年来最大考古语言学突破- 产业链  光通信Pro",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
       "title": "产业观察|大模型厂商为何热衷于接入打车服务？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWtMUUJPWjVackt5SzdZbmRZbUFzQTZWVS11ajRUQ1JfMVh5dm1oaDhHQUlrVDhIUXNEUGxYMFAtNEdoTk94Sjd4V2Jibk5ka2lrZHJ4WmdBdlVkYldNOF95SzNqc25namttUWxQZHVaY3kxUWlwOFNrYmZaUzlYOHdROVZZY3RK?oc=5",
       "source": "Google News - AI(中文)",
@@ -135,13 +249,13 @@
       ]
     },
     {
-      "title": "诺基亚与谷歌云将把Gemini AI集成至网络软件 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVBhSVJmRWs1b2RybU4zTlkxMVkwaE9KTFR0Qzhwb0plV0VfTXJiSkI0ZTNiX1VubTNMVE5LY1RtVGtjcy1Gb0RjZUtnd0hlV1V3Z0pLY0FuaGxBMFVTVjNoeDVnVERnM2pjSzV0N2V6Yk9abmJIdHBBUjVtM1VMWFZn?oc=5",
+      "title": "评奖赛事｜2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSXRzQ2FweGY1aXJtQnRMT0o2a04wSnJfZDlhUTJtV1Rkc2JnN0lCdmJPLS1KQjJuMzZwZ1JJSS15cnZGdmFiSHNCejNwb1U3cWN2Znd3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-22T12:19:05+00:00",
-      "summary": "诺基亚与谷歌云将把Gemini AI集成至网络软件  video.sina.com.cn",
+      "published": "2026-06-22T11:58:51+00:00",
+      "summary": "评奖赛事｜2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布  光通信Pro",
       "categories": [
-        "google"
+        "other"
       ]
     },
     {
@@ -176,37 +290,6 @@
       ]
     },
     {
-      "title": "Claude Code破解3500年前死语言！74年来最大考古语言学突破 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWJoeVl0dEc1eDZsdUgxQTY0NEVKbE90MmFRajJ4dGNDYTBBVUtJcWV1alVvQU5hOTR5SjY1TkhjUDY4WG9HeUlFWlAyMGtoZ2xpalc2dUpsTTJTQ1F6cjUzUU9GbXdONkoydkY4MTFzTVk4TDJ4UkotZnBjcnltVWhlaS1VMk5L?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T11:36:04+00:00",
-      "summary": "Claude Code破解3500年前死语言！74年来最大考古语言学突破  搜狐网",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "一个大模型 千企一盘棋 - 齐鲁网",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85VU01VjdlWFpaeWxBRzZVa3ludUNvdmNUM1BKOE13V1UtOUFCN2FBRVhQT3EtQnAwT0RlOXAzVXRndUR5Qm5hdkNTZWdDSFpPcGxEZ0xSMHRhSHU0ZFVTQi1SeEtlREstQ0gxXzFQenViU0st?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T11:35:06+00:00",
-      "summary": "一个大模型 千企一盘棋  齐鲁网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "以1个胜场领先一众AI大模型，世界杯预测人机大赛榜首中移九天：准确率输赢从来不是AI猜球的全部意义 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMmx0QVMzcUZlX3pGOUwwM0FNdWJLcHJTbWFCMzNyUnlNR3UzV3dNdmdRcEU1MVB2b2otVUJYc0xQSklCUGlOVVJXTml5U1h1UU1zRTEyOHYwTDhJOVhWeklucmZReXZqYXhFRE9nUERZbjBjRlB4eVZMeVVMNzZzNFhZMGFScDdzQXFUcg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T11:32:45+00:00",
-      "summary": "以1个胜场领先一众AI大模型，世界杯预测人机大赛榜首中移九天：准确率输赢从来不是AI猜球的全部意义  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "百川发布新一代医疗增强大模型 M4：让 AI 像真人医生一样主动问诊 - DoNews",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92WloxNzFaN2tYNlphYkRuMU1XNmRwcGE3RU1qRGtsR2RKWGpMMUdKeU1UcXZ0ZGFaX3MybmsybUc4eGF2UDB5SHNIdkpRV192TVFmMWVrTkc0Q2R5dFE?oc=5",
       "source": "Google News - AI(中文)",
@@ -214,26 +297,6 @@
       "summary": "百川发布新一代医疗增强大模型 M4：让 AI 像真人医生一样主动问诊  DoNews",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "万亿智谱领衔，国产大模型集体跨坎 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEpsOURGS2d4a2J3aFdiZUx1WWNtcHlKQTFJRDV6RVBvdG0zdVRfb0lXQTNSNGdmS0ktdlpHQ3BLTHVGNHZERkdGaERLNzFCVXo2UVU3enNfYVpPb0FYQkxITXZDTEs1eVhQVzFmWE9BQkpJbUczaU9lOE5mdTJjS2h6bXpRY2xMb0hERQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T10:56:39+00:00",
-      "summary": "万亿智谱领衔，国产大模型集体跨坎  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "金融AI能力跃升：智能体规模化应用起步，效率革新之下多重挑战待解 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWhvXzZoWEdzTUR6VkNyUWU0T1VjLTBmZFdNbnhVdk8wX29TU3NvSkY1UUsxaDlVZlBoVUNaRG5HREtnTDI2RVVoUE53d1p5bHNZQ0VVcUw4YlJidllmR2VEQWYzaVdjaHlyUWJWODZiaGZzNWhwbHNpOHRSOXVSd3d1LTBQR3VTQmZxUlBUOVh1aHlvTGwtVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T10:52:30+00:00",
-      "summary": "金融AI能力跃升：智能体规模化应用起步，效率革新之下多重挑战待解  新浪财经",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -247,61 +310,11 @@
       ]
     },
     {
-      "title": "AI监管乱象丛生，Anthropic深陷舆论漩涡 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmtDQ2lqcExkTERSWW12WUFZVVh6b0w2QmE5RHlXM1hUVUJHWmZUQU9xVG5KaFp3VHNEckYtRXVwSDA2VWVWVkVuaFFUeXVYbzhnZHpjcWFkT3RJS1k1TVFiWUZzbFFoTmtWN0RCZXZtd2FKdzg5NVltTjRzTkFKRVBQVnlVWks3dEsyMg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T10:29:47+00:00",
-      "summary": "AI监管乱象丛生，Anthropic深陷舆论漩涡  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "基于Gemini 1.5长上下文能力，谷歌对话式医疗系统AMIE在100例多次就诊场景中达到全科医师的推理水平 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQX2l0amlhYWV1VklIV3RQY25SeWFkcVVnUHhUWVlMQVB2V0JZMUViV3dxSGdDSXQ0V2c3TzhHLTQzcVhsTGhSSw?oc=5",
+      "title": "通过AI agent+通用大模型，实现海量告警研判分析实践 - 安全内参",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WZF9yYTlBRlRtaENKYVQzWmZraWppWE5Ed3BqcW5CZ1gyaWRjdkpveTdUTjJoRzU1ekVvNFAwVEpZZUZpUm44MG13M0s0UQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-06-22T10:21:00+00:00",
-      "summary": "基于Gemini 1.5长上下文能力，谷歌对话式医疗系统AMIE在100例多次就诊场景中达到全科医师的推理水平  智源社区",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "苹果智能眼镜或于2027年发布，AI可穿戴市场竞争升温 - 千家网",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HblMyeTY0N3JjWnJZdUJlM25LQm84NEJqX2pJVGhkTlVfMW5aSFl1UWZ4aVFLb1J2andYWnhQOUZsVGR2U3NCLWRuemlWR2ZLTGZFLWJUU3ljOXVaMDlVRg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T10:05:48+00:00",
-      "summary": "苹果智能眼镜或于2027年发布，AI可穿戴市场竞争升温  千家网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "奇安信AI安全系列新品发布周启幕，首发威胁分析数字专家 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94LWRlVDl3dGxVcHI4VGdYYUUwUnJ3UkVKNmppTGhtZDZoQnF0aWZiOXp0eXRnNUo5eVViNkFrZWJJUjFZVXBsLUlnaU1ERjY1YlhRTkt4cU5PczhMM1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T09:39:12+00:00",
-      "summary": "奇安信AI安全系列新品发布周启幕，首发威胁分析数字专家  同花顺",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek缺人缺疯了…… DeepSeek Harness有多缺人？负责人崔添翼：每天面试，极度缺人，不惜“在各种地方贴小广告”……目前在招的有研究员、工程师、产品经理，感兴趣的快去帮帮人家～#AI新星计划 #前沿科技趋势发布月 #DeepSeek #Harness #崔添翼 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWJNdHRMUkN4OHdJVG9ETE5makNmODdqVV9vS0RMU2tGUWN3Q2JQc3lhV2kwaE9kYWpoMHhMY1YySnRoQlNrSzhNckNwOU8wQmJRT2lPUW9YNXUyUkdJYVhRNG1ncXhGUVE5RzVQQmk2T2pmQ2t3bmVtMnQyZzBDQWlfYTRkdXd3Y1dpWg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T09:27:01+00:00",
-      "summary": "DeepSeek缺人缺疯了…… DeepSeek Harness有多缺人？负责人崔添翼：每天面试，极度缺人，不惜“在各种地方贴小广告”……目前在招的有研究员、工程师、产品经理，感兴趣的快去帮帮人家～#AI新星计划 #前沿科技趋势发布月 #DeepSeek #Harness #崔添翼  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "从AI智能体到6G愿景，高通携生态伙伴创新合作成果亮相第四届链博会 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaE15N0hJeVFlMHJNbUxXU1FuTHBMM1JMNHFCUmxVVE5DTUNyVjU4MUZ6RkJSN2pNVU9VcXBGdjRoazY3UkxoOUZSdTZ6enJJVV9tUU1QNlR4TktJLUt5V3ZrNXVvUUNIWVpaUXNVT0I4ZjBESGZMaDlPS2g2V0U1Y2E4akRqTGhsRW5v?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T09:20:00+00:00",
-      "summary": "从AI智能体到6G愿景，高通携生态伙伴创新合作成果亮相第四届链博会  搜狐网",
+      "summary": "通过AI agent+通用大模型，实现海量告警研判分析实践  安全内参",
       "categories": [
         "tools_apps"
       ]
@@ -328,16 +341,6 @@
       ]
     },
     {
-      "title": "OpenAI史上最大部署！三星12万员工全面接入ChatGPT - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTRCSmtVc2VKZy1qMzVhU2xGNGFOU1VWX3VWOHM1UDdicGlnRGFJcEEzdENYOU5OZHBZbTZRbEhvMkw0V0x2Y0ROR2pIUlV5cnBkemE1UXBpb2VMQlZBRXBQSDl6a0lXV1dIM1Noc203N3dYZDJGREg4SWU5VUhySG9BZlZJeUQ2TXV4VA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-22T06:27:00+00:00",
-      "summary": "OpenAI史上最大部署！三星12万员工全面接入ChatGPT  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "探索智能体商务经济，Visa、OpenAI联手了！ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUF2YWRvT3BWZzgtbWM3NVJsejVVeEFuQzVicVBVTU85MWEzUUQwaDF4ZVhHNGcwNVpwWXNYVk9BRUJiMnNZamZKRDR0REROTnFocHdobmdOZUF6OV85X2V6S0NuVXNFSXJ3bFZvRDVqb053R3N1ZTZyakg1Y3Exbmt0MkFBU2Qz?oc=5",
       "source": "Google News - AI(中文)",
@@ -360,13 +363,14 @@
       ]
     },
     {
-      "title": "Getty Images与OpenAI达成合作 授权图库内容引入ChatGPT - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mNkw4c2VzbExtYzluT1ZPRU5meFY2VS1NNm90Zk1rS1FlTkRpZm91R2c2dXV6emVFektqczFyZjJ2aWxUbmpRVkl4UEdQdlBMeHdlX1ZDU1d3RkRiRGtCVmpB?oc=5",
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-22T00:50:23+00:00",
-      "summary": "Getty Images与OpenAI达成合作 授权图库内容引入ChatGPT  观点网",
+      "published": "2026-06-16T04:24:32+00:00",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
       "categories": [
-        "openai"
+        "other_big",
+        "tools_apps"
       ]
     }
   ]
