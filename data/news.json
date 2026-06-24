@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-06-24T18:13:17.424036+00:00",
+  "updated_at": "2026-06-24T22:51:09.295764+00:00",
   "items": [
+    {
+      "title": "OpenAI发布自研AI芯片‘哈拉佩尼奥’，降低对英伟达的依赖 - 亚洲日报",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MDhZZkJMN0cwdlRQZDd0LVZvR2xuMHdUenhHMi1McDM2dFE4THZPdG9fLXBicWt1Sm9VUU0xQXg2Q01QcXJ1d0ViS0piQzg1M0J5NzBMUjhsWFU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T22:16:00+00:00",
+      "summary": "OpenAI发布自研AI芯片‘哈拉佩尼奥’，降低对英伟达的依赖  亚洲日报",
+      "categories": [
+        "openai",
+        "chips"
+      ]
+    },
+    {
+      "title": "四川发布 139 项农业科技成果 - 四川日报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zY2N1RGlLNUw5V3c4RHhEcXc4Z2QtbFRzNHJEanl4NjlMYkhQamxIZDRBS0FiVFYzWkdmQ1hwZFZYODVhdlNGTHRycWZoQTZjLUxYWURWM3RjR3lOTk14UHNyOGJSeVhQVHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T19:37:43+00:00",
+      "summary": "四川发布 139 项农业科技成果  四川日报",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI更新ChatGPT模型 优化对话体验与购物推荐能力 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlpZWkxrdE5XNHBmNENfakZ1c2NoLTcyY1lKNlZheENVNlpGVk51UUt5SGNhRzZCZmNJZ0dFVUZlR2FfWEIyTHZiRjc2cDFjTEJjdzFVTkFsbkhrTVRTQ25LbXBOYUpXU09UM21wNkM4WHdWUVktUEgtSnMtUFRYREpR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T19:34:09+00:00",
+      "summary": "OpenAI更新ChatGPT模型 优化对话体验与购物推荐能力  video.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "高通发布人工智能数据中心处理器 签约Meta为首个主要客户 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb29Qb3FWN29LQ3dkWE9IVVZRVUFhLUwtQTJzRHhtZjhXcVNaLU00MVljaGFFb0FoUWp2MUh0aHh2RDBqX1kyVURKbVBqcGk0aHJqbThrejBNUUpESXI2dUR2ZEd1WUwyS1UwZEFaMXN5RmotRkRzOTJyOENFRzNBWFl3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T19:24:39+00:00",
+      "summary": "高通发布人工智能数据中心处理器 签约Meta为首个主要客户  video.sina.com.cn",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "对话周鸿祎：360安全卫士等传统软件，未来会降级为智能体可调用的工具|链路|创始人|客户端|主线|界面_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZkNjQkc4Zl9pNUE2cVl5c2FNMDB0d3VoSVlvaVRKSnhOY24zS1c2TkhhNndBR09tbDhuSjVTQ2dCNWdCTkZIck9KREw3QnN0UjAxU1VmWDQtejdkSkxtajNQbXhGRFRKYlRLNjZYeW5ZRWtkWHBLUm1mQWxaUkVwa09pVjVvZzk4NFB4eldVSnNaanJ0cmJiVlI3RjZwWUY0WkJSTHhQZmMtbzFSZV9UY0pVTlhQLTlRcTIwbm9JblFPRVZSM2xDZHFud1ltaHlMZGs3bGZzYU5WdFBtMTNjcTlLdkJjbU1Kcm90NU1ldHRMOTZrMUJkeVU5ZjRiN0I2eF9SeUE1UVhRSEhpUGduSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T19:22:17+00:00",
+      "summary": "对话周鸿祎：360安全卫士等传统软件，未来会降级为智能体可调用的工具|链路|创始人|客户端|主线|界面_手机新浪网  新浪财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌将Gemini 3.5 Pro模型发布时间推迟至7月 消息人士透露 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUxYczdtMk5SSTdZczgtQmRNRi1DVVN1RENSdVJJZjFvU1pCZldyUVo1MDBDSlRqQThuM1NUNC1ZLXJpYjVNUktqX0lqcl8xSUZ2ZlROa0FNekRTUi13MGprWWRwSnhPNTk1RWtwYjFhaWdDbkVSNDRqdGpoX1hpNE9n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T19:16:09+00:00",
+      "summary": "谷歌将Gemini 3.5 Pro模型发布时间推迟至7月 消息人士透露  video.sina.com.cn",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "实锤!特斯拉OTA接入豆包+DeepSeek 双 AI 分工，国产大模型双雄鼎立_技术_底层_数据 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuVTR4UWpPTnMtOTl6VVN0OEUzUzQ4MVZRbG0xbDlHM0FMNHFPRUprVmxRQ1k3NHJKbXFDbXk3ZFhxZjhtb28tQU5TbzFTdmJoMk4xNVRSTWNBUXFYbERRamREVURiTTJ2elNjSUc3V2NfUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T19:15:47+00:00",
+      "summary": "实锤!特斯拉OTA接入豆包+DeepSeek 双 AI 分工，国产大模型双雄鼎立_技术_底层_数据  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Gemini核心骨干跳槽至Anthropic 谷歌人才流失加剧 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTBuSU9HbFFvQXVhMU40Qml2ZW5CM1JmVzhlbnhNRjgwb3ctMFV4OHl4bUNpcWY4R1lzTThHaVdWamtxcjU0QjAxZTZ0b3FYQlBoaUVIN3ZlLW1ObFFQSU9YNFlqMXRZcnRjLWotVlQ0MlNUc2V2SE1waDVqSnBOZjZR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T18:55:05+00:00",
+      "summary": "Gemini核心骨干跳槽至Anthropic 谷歌人才流失加剧  video.sina.com.cn",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "刚刚，Claude进入美国版飞书，成了我的AI新同事 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFZlbjZIeG85cGdBT2FRODN5Ri16NVBMd2hXVEFEYXJWdlhkcS1yVjFIemlTSGtfcXVNREZYU01yUlljS3RtbV9SdWRQWmM2a1c4aDVHaVNydVV1VUNUX2tHcE9BVVJOREFzUlFjbUZEaUs2bzVZSnE2RTB2QlVWNXhnSk82NHc3LVJwR3JaOW9CNWpiMnJWeg?oc=5",
@@ -17,16 +99,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-06-24T17:47:01+00:00",
       "summary": "百余位企业家齐聚深圳，猛犸AI智能体增长训练营第16期圆满收官  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AWS 的老身份和新角色：做 Agentic AI 时代的基础设施 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hV1BKbmEwX09CcXcxLTJNZ3l0MG9mcXA4MHVOV3dNZEVvenJ6dnZLOVFuQ09SU0wtaWhIY2VBZEhOa1NyUkV2YWxERWtqOXBvdjh0MlUxWTQtS2xvR1ZxWWpramY0OF9IYUFqVWFpWUxNVHl3VWstdE9YdjVHZWM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T17:42:51+00:00",
-      "summary": "AWS 的老身份和新角色：做 Agentic AI 时代的基础设施  手机新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -53,11 +125,11 @@
       ]
     },
     {
-      "title": "OpenAI和博通开发首款定制化人工智能芯片 比传统GPU节省约50%成本 - sohu.com",
+      "title": "OpenAI和博通开发首款定制化人工智能芯片 比传统GPU节省约50%成本 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3kzQno2bGE3Qlk1OVZTUEtaak1mc29YV0tJMjhNQzVUS2hDUzF0QWpuTzlIU2pDSTlXRHJ1T0JSdUtFa0RNNWxzLVU1cDBPMWJMd0xWTHB3eU9mTkNzdzg4a2JiLUZIbWxEcm9HTXJGY3EyaldMbkNiNHF1RjREdjVCZVkwcEtnTmlMQw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-06-24T16:23:52+00:00",
-      "summary": "OpenAI和博通开发首款定制化人工智能芯片 比传统GPU节省约50%成本  sohu.com",
+      "summary": "OpenAI和博通开发首款定制化人工智能芯片 比传统GPU节省约50%成本  搜狐网",
       "categories": [
         "openai",
         "chips"
@@ -95,23 +167,13 @@
       ]
     },
     {
-      "title": "全球AI大模型每周Token调用榜 小米MiMo-V2.5升至第二 腾讯Hy3 preview近两个月来首次跌出前三 - sohu.com",
+      "title": "全球AI大模型每周Token调用榜 小米MiMo-V2.5升至第二 腾讯Hy3 preview近两个月来首次跌出前三 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0dxMjdlUENaOVlEVHVoVFV3MVQ3SENXbXJmR3BlNjlCMTUxUWI1Mmg2anRJWnQySVZGZVF0TlE2SE5YWldEVk9yWlRETS00QUNLamJpU3l6Q3ZMWVhLVDN4Zk5zSWZISHdlSmNjMVJkVmpOUDlnMHZRd2RyU3Z1Y0pJWmJvczN4?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-06-24T15:44:09+00:00",
-      "summary": "全球AI大模型每周Token调用榜 小米MiMo-V2.5升至第二 腾讯Hy3 preview近两个月来首次跌出前三  sohu.com",
+      "summary": "全球AI大模型每周Token调用榜 小米MiMo-V2.5升至第二 腾讯Hy3 preview近两个月来首次跌出前三  搜狐网",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "途观L混动智能科技升级，双AI大模型赋能交互体验更佳 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0JnZWl5d09PM0NhNm1zaDVKZG9ZYUNLVGRPR05heGgyR2FDeEY2MWRyYjRxNEhBZ3ZzRE1abmpDMExqaF93NURnb0R5emN0MFl5dzVDZnU0MzFkZS1JczJqb0JZY1JUcUxqbGFITWpDRkUxUGk0VlBLV29sWGg3NVJidWx6ZnpDMzlxeTdJQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T15:41:00+00:00",
-      "summary": "途观L混动智能科技升级，双AI大模型赋能交互体验更佳  手机新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -138,13 +200,13 @@
       ]
     },
     {
-      "title": "【科技新闻】OpenAI ChatGPT语音最大规模升级| 智能眼镜| AI模型 | 大型语言模型 - 希望之声",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TTHFmZVZJODljM1YwcGN1SFdrYXNMT1l3RENlVE12RXY5S09UdElSVExFZ3ZaV25mMXZGbHRSb1hGQkRHN0JPVGlLdVk1blVz?oc=5",
+      "title": "第十四届互联网安全大会在京开幕 “智能体颠覆安全”成核心议题 - 中国财富网",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6Rzl0cGh6R19WNXhob1M3a29Kc3U0V0s3UTk2N1pFODVFWVVacUNNUGZyeUNvOEs1R2dhcGp2SnRUUlQ5SDYwNWtldEkxSEFnV1l2VC1DVmVQS2sycnZkOTJhOEdKNkxjUXctdkY1c2JGNDg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-24T13:51:55+00:00",
-      "summary": "【科技新闻】OpenAI ChatGPT语音最大规模升级| 智能眼镜| AI模型 | 大型语言模型  希望之声",
+      "published": "2026-06-24T13:51:00+00:00",
+      "summary": "第十四届互联网安全大会在京开幕 “智能体颠覆安全”成核心议题  中国财富网",
       "categories": [
-        "openai"
+        "tools_apps"
       ]
     },
     {
@@ -158,13 +220,13 @@
       ]
     },
     {
-      "title": "从“App时代”走向“Agent时代” 终端厂商争夺下一个十年入口 - mrjjxw.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Vmd4TmF6OXNHSkUxN1N5YmZJT2gzN2hid19rVjEzczFBSnZ6V1U4Ni1Xamx4TXo4Mll2Z3hHOS02MEptYnlQVEZQRko1VnQ2bkdhbjFtMU56VnM0WEJMR24wTV9LQQ?oc=5",
+      "title": "ChatGPT语音最大规模升级：双向AI语音模型Bidi 1已上线测试 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84aktLU3FkcC1YN2Z6NHpybDZ6LVYtMUEwN1hmek1aclUwUzNlWlowUDZSQkhoT1NHRkFwMUNuWlJXNnJmRW1BVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-24T13:37:00+00:00",
-      "summary": "从“App时代”走向“Agent时代” 终端厂商争夺下一个十年入口  mrjjxw.com",
+      "published": "2026-06-24T13:22:38+00:00",
+      "summary": "ChatGPT语音最大规模升级：双向AI语音模型Bidi 1已上线测试  凤凰网",
       "categories": [
-        "tools_apps"
+        "openai"
       ]
     },
     {
@@ -178,35 +240,13 @@
       ]
     },
     {
-      "title": "Claude要把Cowork塞进手机，关掉App活儿照跑 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TSEhKdnVGRFdUT20xLVhXZUR1V2lzZFpic1BncUQxSTdxWDViZFpTdXhXUHJrUE9qMWFUalRQSlh6RW9uczRRQw?oc=5",
+      "title": "不造大模型不拼算力，马化腾雷军们却甘愿给它3亿美元- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yUm5TZm5MdzVmaU1vZWVHcjZlUUdweTJXcDF2YUMyZW5pcW5nM2lMQjJjT1RDTHNPQ05aZDdTakNBTGlBeE91Nm1FLUxVcWVZMG9mRlNR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-24T13:10:00+00:00",
-      "summary": "Claude要把Cowork塞进手机，关掉App活儿照跑  智源社区",
+      "published": "2026-06-24T13:16:37+00:00",
+      "summary": "不造大模型不拼算力，马化腾雷军们却甘愿给它3亿美元- 产业链  光通信Pro",
       "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CQjZOVHBZYVFBRk51SGFYSFZ4NEUyNkZLWVlnYUZNclV4SlpfN3JTbHN1UEdkcEN1WEd4VnloRGtEbTN5eXZjRExaQTRla1FBRUJjZmNlYjhkU1lNbEJDaXV2Sm5QbjFoeFowUllzSQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T13:03:26+00:00",
-      "summary": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。  金融界",
-      "categories": [
-        "openai",
         "chips"
-      ]
-    },
-    {
-      "title": "周鸿祎：智能体技术正在对传统网络安全行业形成降维打击 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeklaQV9KaHl6RWRxY0Jyb0J2TTZXM2ZFRFNkdFJqa0J3WWd3N01sWWEyR3ZsMnBTSzQ4XzNIbWR0WU4zV3hzaURZa3BzTXV4YXcyTVdSQlJsV2k3a0JsSTVVTUdQNkVZQ0R6UC1JNmljSmdMYnZpRmdidFZJTU1Sakxhd28zbWNCNlJnTmJlckN3aHNJREt6NkloX3FxMFJadzVZbklISUpQQll4cE1lYUdiaDdlUmR6SF9GSmt0NElZcnQ1MmZhc041THU4U016cFNpbFRWNENNX0RsWU1iYVZHYWhrNEFVbnlrUlJlYnNQaDgxekRqYU52RmQyTWFV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T12:56:10+00:00",
-      "summary": "周鸿祎：智能体技术正在对传统网络安全行业形成降维打击  新浪财经",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -220,6 +260,16 @@
       ]
     },
     {
+      "title": "世界经济论坛发布2026年十大新兴技术，AI正从“软件优先”转向“物理世界”I达沃斯观察 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mSWstaGxRY1ZuRFdmYWRrdW0yc3daZjM2LUU3WXF1QlVDakp3SmMyQTJZSTJMZHVybko4UlRXdGM1ZWxpazQwTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T12:14:00+00:00",
+      "summary": "世界经济论坛发布2026年十大新兴技术，AI正从“软件优先”转向“物理世界”I达沃斯观察  财联社",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "2000元！Meta三款自有品牌AI眼镜首发亮相，原生搭载自家大模型 - 智东西",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9lZ1RIYlloZ05ubEpyZW5RMlhNRmN1TUdTdGU4T2VndWtweVM5Z3VmNmRWVTA0aXhuaFdselpST1BIMW04b3c?oc=5",
       "source": "Google News - AI(中文)",
@@ -230,47 +280,6 @@
       ]
     },
     {
-      "title": "特斯拉OTA即将上线豆包语音大模型？客服回应 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjFOZk9XTE52dTByUzN5Y09VaHdMX29RZVpqNmFsYkQzYUhrTy1FTnFpck1SdjZGWjJ6bEVJRzVJSi1Weldsb2sweVdCWHdFN2dFeXhzb01oRE01ZUUwZmQ0RlljQnRZMVN6dENzczNOeHpoSndZSHJTaDNSUmhQUzV4Sl9sRTR2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T11:42:16+00:00",
-      "summary": "特斯拉OTA即将上线豆包语音大模型？客服回应  sohu.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "英特尔携AI家庭大脑亮相链博会，开启智能体家居新时代 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91ZXE3b0otQnl3bTVubFFfNkVHSXI4SU1hb281M2d6QVM4dnZyc0lkQ3pIYkN1djlSaE9IN0FOSU9HdEF1Zkd0aXlTaGFuMTBEY2RkWU81NUJ6aFczR3I2NlFlenBoUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T11:31:08+00:00",
-      "summary": "英特尔携AI家庭大脑亮相链博会，开启智能体家居新时代  三易生活",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI手机智能体实测成绩单出炉：中兴领跑商用赛道，端侧小模型集体遇阻 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmx4VnRkUHhPYkhXVm5UY2hhbXI0eTN6UzV3Tl9QX3ZrS25XMzRjN0JFYmFybHh6OHRUZGFfYVBYU2tOTkVDYzhCaTJpWHVqUXlHcFdWck1Vd0RGR08yRTR3TmhRUTE4cnkyTy10cW9LbVB6SElLYVdyei12SnZWYXlQOVpJNVZ6?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T11:07:00+00:00",
-      "summary": "AI手机智能体实测成绩单出炉：中兴领跑商用赛道，端侧小模型集体遇阻  sohu.com",
-      "categories": [
-        "tools_apps",
-        "local_model"
-      ]
-    },
-    {
-      "title": "“大模型免费午餐快吃完了”，豆包专业版正式开始收费，最高1年5088元，免费版服务将保持 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3phZHI0VGFvMWphWDB6emdOTHJZR2RYVC1kc0NvMzhmYUpJLWVvYjBBNUc4OVk5b24wc3pYMTYwOUUwZDQ5dE9NQ3BySHRNY181ZUpDTGREaC1fZHR0dFNpVHFHRjR0VzBqcEpHanpVMWpodFBSSzkyMFl6NWt6NVczR0tJMGp3V1FMRw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T11:00:42+00:00",
-      "summary": "“大模型免费午餐快吃完了”，豆包专业版正式开始收费，最高1年5088元，免费版服务将保持  sohu.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "OpenAI新活：让你家里的植物接入ChatGPT - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05emZEYlZDaE5QaGhsNUJIRUV2UjlrWk1XSjBaYjFteUdOR2RQTlUtbVlPUzMxM0QzUktYNjk0b2xJbkp6MWtLWUtKbDY?oc=5",
       "source": "Google News - AI(中文)",
@@ -278,16 +287,6 @@
       "summary": "OpenAI新活：让你家里的植物接入ChatGPT  凤凰网科技",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "#科技# 卡帕西站台！Claude打通Slack，以后真要和AI当同事了？ - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkFwV1VXSWJJZ1B1aGdJYWFVQnIwQkYxRFYzWEptUHpuR2c0SHpBMWlyU3NDT0dZb2taaGhtYUpjNGd0ZEJOVC1OOG5uVW5hNVlXT0hGZV82RmIzVktMVzlCUGNEMmJPb2F0d21scDBYb3F5aVg1VnpiTXRvVDZoX2NFeXNSY0d1?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T10:49:47+00:00",
-      "summary": "#科技# 卡帕西站台！Claude打通Slack，以后真要和AI当同事了？  sohu.com",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -312,6 +311,16 @@
       ]
     },
     {
+      "title": "仅需 @ 即可调用：Anthropic 推出 AI 虚拟团队成员 Claude Tag - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyanY1bTJJNnl0QUttY1RxSjI2OWdhOW13N0cxUjJTU2dONTZLNHU3MkU2Yl96OGxkXzVYOHlvaFR2Q0pVUVJTNHhNdVBBQy1PMGE2SnJB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-24T09:45:54+00:00",
+      "summary": "仅需 @ 即可调用：Anthropic 推出 AI 虚拟团队成员 Claude Tag  光通信Pro",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
       "title": "荣耀定义 Agentic OS：移动终端将从“应用容器”走向“智能体舞台” - 紫牛新闻",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyM3NQWnRSbG1PMXp2VS1MTWJtY0RmendDQUFyN1UyTmFRYkZSRWhzZk1OeTFha21NUDVvVTd0Rm9xSFRWVDEtRlFUUkotbENhN2MyMEhYZGNjZ1pFMnlLdk1JSDk2MTkz?oc=5",
       "source": "Google News - AI(中文)",
@@ -332,27 +341,6 @@
       ]
     },
     {
-      "title": "Anthropic 推出 Claude Tag：Slack 中的智能体 AI 协作新体验 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekZyWGxWMFRHZzJIVUtHTV9vUnJNYkctME04MEZvOXRZYnJ3Zk5QUEFRRGg2WGEyRWd1SzdBWmZZaWpIN0RsNTA5UDFuREFQRlJfT2Z1RjFEOVlaVnhWR19GMUxxRkllWXZWNXMxQzhsYW5ycDZFa2hlR0dSWktYbmJhN0xBRVRT?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T09:26:00+00:00",
-      "summary": "Anthropic 推出 Claude Tag：Slack 中的智能体 AI 协作新体验  sohu.com",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI为ChatGPT企业版新增费用管控与用量分析功能 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUxuSVdCNEVmeFJlMVE1aWpqaWxrUTl3cHc4Mk5iWE9pdGx3YndwR0xWRFAyaHF1bWJQcTZ6eDJqY2Rib1ZSZDlLdFh2OGg2djFrb0ZnRzUtaWFIandzVldkODZXYmxYc1phZGZUVm1tbjV4WThzYVVvdHdRWmZ2VXk4cDBRNXkx?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-24T09:21:00+00:00",
-      "summary": "OpenAI为ChatGPT企业版新增费用管控与用量分析功能  sohu.com",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "360发布“倚天屠龙”体系，以智能体路线应对AI安全挑战-公司动态 - 证券市场周刊",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yMWFTMTVmOUVzQTIycElLbDdWZmdzTUNvLWVnZ29GMDVDX1R5VFFKa01pdWVraUk0eElyQXF3bUMxb0pjY1lxZHRVRW1PM09CbjdiUUl5OVA4TUNVSlhiV3ZJV3BNUQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -363,13 +351,25 @@
       ]
     },
     {
-      "title": "Claude Code大升级，卡帕西：LLM第三次变革 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PMTA2TVZ0eVNiN3FGdExldDhMRW1rcVphckxmczFtUFplbjZ2bXB3bWQxOUFWWXlCVDBUYW9pb0pQc29DMGE4RA?oc=5",
+      "title": "Anthropic发布重大更新推出CC进化版Claude Tag，Karpathy：LLM第三次交互革命来了 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55STFLZXphSHdqaDhxZ0JvbFowel9FWTFibkJ5am5IMmYtTU8zUXV4RWpwcG9Sck5EM29neUkzNmd4NEhKaWZWX1o2UW5yTGtMT3FR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-24T01:48:06+00:00",
-      "summary": "Claude Code大升级，卡帕西：LLM第三次变革  凤凰网",
+      "published": "2026-06-24T06:14:56+00:00",
+      "summary": "Anthropic发布重大更新推出CC进化版Claude Tag，Karpathy：LLM第三次交互革命来了  华尔街见闻",
       "categories": [
-        "anthropic"
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-16T04:24:32+00:00",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     }
   ]
