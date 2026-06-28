@@ -1,12 +1,53 @@
 {
-  "updated_at": "2026-06-28T18:57:07.366855+00:00",
+  "updated_at": "2026-06-28T22:43:09.660403+00:00",
   "items": [
     {
-      "title": "万物一体，自我进化｜Create2026 AI 开发者大会盛大启幕，共探智能体时代新未来 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVW9aVGtHSzFNbGpnV0tOeHo1ZmpfNXZjSl9tWWlSVlI1Yl9HS21VMVBmYk91MzY3RFJnZlNvVWI5YUtyeTJ5WDhaVHRCRjFuNjA0bDJuN2xFQi02MUJIZzg1dU45Q0NMNWQ3QlNvVjdlblAzWUVKeGhlRHZwX3c?oc=5",
+      "title": "英伟达 元宇宙平台微软及开放人工智能研究中心与CoreWeave达成总规模990亿美元的人工智能基础设施合作协议 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzFTVk5fSkpGaDgzRHFxQm1uT3p0bkZ6NkhRa1BZaEFuVFU5bHJ3QUFFQWhsOEp1Rmp6a0hSeVRZWGcyanlVbW9NaTZ0QjhZY19ZNXVKa0E1UFBtOS1USFluTnhlTm11akExSEFvNk9aQWhtdW5MdGs0ckQ4VVZwNXhR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-28T17:54:00+00:00",
-      "summary": "万物一体，自我进化｜Create2026 AI 开发者大会盛大启幕，共探智能体时代新未来  新浪网",
+      "published": "2026-06-28T22:34:40+00:00",
+      "summary": "英伟达 元宇宙平台微软及开放人工智能研究中心与CoreWeave达成总规模990亿美元的人工智能基础设施合作协议  video.sina.com.cn",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "诺基亚与英伟达合作开发人工智能驱动的6G网络 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYm82cm9CRVUyZ1Fyd3ZCQnk3TUdnU3RQX01nNDFtcFQ3NURFd1FPR2szWFVJaTNrWUNrdHhWazVmc3lGWXZwY0l0UGZQNmlzLW5DZndyU2o0SkNHM29JaGREU1JQTEhieUFfRTBFZVJlTVdwbkNtcTk3Nk9fajloMDVB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-28T22:34:06+00:00",
+      "summary": "诺基亚与英伟达合作开发人工智能驱动的6G网络  video.sina.com.cn",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "马克·库班推测人工智能或将消亡 认为就业有望复苏 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzZvYXlrczhyVWxxYmJRTXA0S3Zla0V1WGVUeGs1NlpBX1RsRjZnSktzSnBHNmdrWDhndkFta1h2QlBEZVg0OWgtZ2JDalJPVTd6ZlRuanIzdEVxaDV4M1JfVVg3WkpFeGx1MTRLYy1oVjJPSWNHXzdGQWpEUUFOVmhR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-28T20:37:24+00:00",
+      "summary": "马克·库班推测人工智能或将消亡 认为就业有望复苏  video.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic警告开源人工智能构成生存风险 市场并不认同 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlBDX2J6OVlRTExuRDVNSUVNWUlOR0dSLXhFZkxYeVR3LVl5ZzRvUFp6NmVnaXl4SnJ5SnFSaUlTY2xLWnVkdVdIZFZRR0lBT2RzNkZNQ2NEN3lNbE9mUV9zZ0NXOGE2NDV4bThuQlFiVE0yaGVpYXN0RnpVeF95azRR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-28T18:57:39+00:00",
+      "summary": "Anthropic警告开源人工智能构成生存风险 市场并不认同  video.sina.com.cn",
+      "categories": [
+        "anthropic",
+        "open_source"
+      ]
+    },
+    {
+      "title": "中国信通院权威发布：网易四项成果入选国家级智能体创新汇编 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGo0LVdvdXVYQ2FYRnU5em54TW9tT1lBYy1iV2xDZHgwY3ZXMC05M3hicEdjcXVzRzNMYzF6NGUyZHlHWWZ6YmF3aFFpZVFCNEpVWUFpemViTC0tX1lLNlpJXy1sZVo0VkI0VktzTUVjemY5VnhfellnZEJpaFlvU0dWWlNLc044?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-28T14:29:27+00:00",
+      "summary": "中国信通院权威发布：网易四项成果入选国家级智能体创新汇编  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -54,16 +95,6 @@
       ]
     },
     {
-      "title": "Anthropic将向获批企业开放Claude Mythos 5 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URDFHMkNjdnlmQnUtVjZ1YnAtYkpzMS1nVWJ2a1ZmUkVHU3dZalpqX1BMUHctMWVBNkNnaFRVTGUyMUNVaVpBQ0lMSnNDS0Exd1dBRDBjeGhLUE1LLTFTd3pvY0pwdFNj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T10:07:30+00:00",
-      "summary": "Anthropic将向获批企业开放Claude Mythos 5  三易生活",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "把车间行话喂给大模型，温州借力AI升级制造业含金量 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUVBb2ZPcFkzZ0YzempINEpXejVCSzNoN1lSSWVFY1pTZFNJYVFsaVl2NUlpY184R3NsSmZSNlZEY3lqMUNLLVhydjFXb2tQM29OS2txYk9Pd3g3NjFKZlFYejQxQ0d6M19JRFRsTTlIcVo2WWtlckpPMGJtMHpmbzdKb3BSZDRW?oc=5",
       "source": "Google News - AI(中文)",
@@ -84,21 +115,11 @@
       ]
     },
     {
-      "title": "梁文锋署名DeepSeek最新论文：如何让大模型跑得更快？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemsxdFo5NXNwNEVvcWEzbzVVYm5xWGRKNWlqYWpfNGF2Wlp2NWF6T2FvS2xuQWNYZi1MVU8tQ1d5cEJ3LWVWNmlNSEhURC1YUTFMdTVWMnNxWmxoT2R4bnAyVExJdjFGS1FrV3BIQVZxelBUZnlJRlNsVW9odnBFdDBuZEtZV1JsVVltNA?oc=5",
+      "title": "需求过大供给跟不上，消息称谷歌限制了Meta的Gemini使用量 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EZ1dHRTZpQ2ZvZFFQV3Z0TDNJTS1ic1RnVkk0emRaYWpCYkp4bWVRRm5jMXlna0ZYNU9IRmQ4VS1Kbm1fZ2d1dQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-28T08:39:34+00:00",
-      "summary": "梁文锋署名DeepSeek最新论文：如何让大模型跑得更快？  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "消息称Meta需求过大，谷歌对其调用Gemini大模型作出限制 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zSjN1REZ5UXhBWkJHNFJtLUtKbElDRTNlbGo5eVRWOU5nNjdWaVh5YTFoWmdURmxWRXg1b2xFdzlaVXV1cE5HZUdzZjM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T08:27:35+00:00",
-      "summary": "消息称Meta需求过大，谷歌对其调用Gemini大模型作出限制  凤凰网科技",
+      "published": "2026-06-28T08:32:13+00:00",
+      "summary": "需求过大供给跟不上，消息称谷歌限制了Meta的Gemini使用量  凤凰网",
       "categories": [
         "google"
       ]
@@ -115,7 +136,7 @@
     },
     {
       "title": "亚马逊影业放弃人工智能OpenAI创始人传记片 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91eGlyVEJJNnhITWtnQVYtYjV2WjNmSnFZU2E3TkMyZ3ktdmN3U2tlSnlvcWRTNzdYd1BIbGVETUZkMVFkb2xFVk5TUk5wdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nS1haQzJNZ2ZwZm1HODZ5OXNSdXR4Z2xjUEtaT2F2ZVhDaDM2SDkzVURWM1c2WHpXazZJbHlIZkl2N20yOVJGbzVhb2d1b0QwRFQtS3ViRXBtM2p4emc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-06-28T07:43:00+00:00",
       "summary": "亚马逊影业放弃人工智能OpenAI创始人传记片  thepaper.cn",
@@ -124,22 +145,11 @@
       ]
     },
     {
-      "title": "大连理工大学“连小理”全场景AI学伴智能体正式发布，与腾讯云联手共建“AI智能体+AI知识库”双引擎 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVZsTTZoYk03NENPWGpUY0lMSzd5czRRQkxYb0k2cUVJVy1wNGgyZXZJcW8xdXZtaEU3SERYajZKTk9GREFyTW1LdVNVMW9jczhVX1RLdU9vSWRUaWVEZ2lLMEljTDdtZ3FDM3ZwZE9SOVRDU2ZuU0phQWtpSXI5NkYtZURpS3hj?oc=5",
+      "title": "活力中国调研行｜通用数据大模型进厂，传统石雕也用上AI设计⋯⋯实探工业AI如何在这里升级迭代 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XeEgxdFFWNVgxNFNsOG44d2g3T1owczREczQtUUtqN0p1a3Ftdm1RMHRiZU51RGlmTVJIZVN4XzBLZENFTnFxVg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-06-28T07:22:51+00:00",
-      "summary": "大连理工大学“连小理”全场景AI学伴智能体正式发布，与腾讯云联手共建“AI智能体+AI知识库”双引擎  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "活力中国调研行｜通用数据大模型进厂，传统石雕也用上AI设计⋯⋯实探工业AI如何在这里升级迭代 - mrjjxw.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90QU5NajVfV3paZmNFM2I3VG1YeHNYaDZ1bVJIR0xKYllnNmtqeE1jN0lKZnNncmd5VE9xVHkxSkUzZ1pHVVZqeTZ2dnJLWVIzVjJOMW5VSXZHa1NPUWxkRTNuR1c4QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T07:11:00+00:00",
-      "summary": "活力中国调研行｜通用数据大模型进厂，传统石雕也用上AI设计⋯⋯实探工业AI如何在这里升级迭代  mrjjxw.com",
+      "published": "2026-06-28T07:27:18+00:00",
+      "summary": "活力中国调研行｜通用数据大模型进厂，传统石雕也用上AI设计⋯⋯实探工业AI如何在这里升级迭代  凤凰网",
       "categories": [
         "other"
       ]
@@ -153,16 +163,6 @@
       "categories": [
         "other_big",
         "breakthrough"
-      ]
-    },
-    {
-      "title": "Wix 集成微软365 Copilot 该公司人工智能战略迎来转折点？ - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2xYM1lwWmFZYzh0YWRjSTBnYkpWd1E1aldUUmtoSkxFZTJCRW40Q1Vud3lIb1p4RUtSeUJGVkYzU1E5bTJKd1VoMjN1U2dtTVdXRi0zZEtmUHV3NVhhMHdkNkVWOXM3ci1VaG1meHdxUHF4UnFHM2htWnZSYWRWQUdn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T06:39:42+00:00",
-      "summary": "Wix 集成微软365 Copilot 该公司人工智能战略迎来转折点？  video.sina.com.cn",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -214,6 +214,18 @@
       "summary": "全新Momenta强化学习大模型上车,奥迪 E5 Sportback迎来重磅升级  汽车之家",
       "categories": [
         "breakthrough"
+      ]
+    },
+    {
+      "title": "Claude Code、Cursor集体转岗，组团给你做视频 Github持续霸榜第一的，是一个AI视频剪辑项目OpenMontage，短短几天狂揽2万星标，60秒皮克斯动画只需1.33刀。#人工智能 #AI视频 #AI剪辑 #前沿科技 #ai新星计划 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmQxNmZ5QW9HYzNpTGxDN1JLaDNKZWxEcWpyNjNhdzVVR0QyWVhBQlQwZnVybnZQeElkbFAwVlByTDIteTVJSmZYNFZGYzB6UExLS3pGMzhTYS1oLWE5SXpjTTVwWF9DX2dyYXB3MTNnQWo2NWdqUkdsWmdNZk5sMkxpc2lvNGRmZlgwWg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-28T04:30:52+00:00",
+      "summary": "Claude Code、Cursor集体转岗，组团给你做视频 Github持续霸榜第一的，是一个AI视频剪辑项目OpenMontage，短短几天狂揽2万星标，60秒皮克斯动画只需1.33刀。#人工智能 #AI视频 #AI剪辑 #前沿科技 #ai新星计划  搜狐网",
+      "categories": [
+        "anthropic",
+        "image_video",
+        "open_source"
       ]
     },
     {
@@ -298,26 +310,6 @@
       ]
     },
     {
-      "title": "大模型榜单，能不能信？ - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ySy1hQk92YXFPcUt6SU1GcVJfZk5OVFJDQlQ1ZkgxVUItYzNIdUhMTFI1VEptWWExb1JHZndEQkNBaVFFSGFXdVRwNDVDOEZUSGlXb3p6Vlh4clNiZUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T00:28:00+00:00",
-      "summary": "大模型榜单，能不能信？  thepaper.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "国家人工智能应用中试基地在厦发布22项创新成果 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tUXo4VHBjMV9NY091dk5ONlhBdW55dVlhR3ZuN3J2RnViQUNpdEQ3LWVpT05jMFdRZkYwellOUlpjX0R5d05mVXY5SWZyaE8xMGt4T3kwdi1PLWdyeDBQcXh0SEExR1ZUazJn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-27T22:48:25+00:00",
-      "summary": "国家人工智能应用中试基地在厦发布22项创新成果  央广网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "《人工智能 智能体互联》系列7项国家标准发布 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGJkSnc0QWkyaEFMRVlETm9hbmdNZHM3aXhjOXRGUW9hSTdvQlpSOVg5Sl8tNjF3alRURW5Sa21WU210UzZLa0ttWnU5Zkg5Qld5T25lUkNnU1BGZE9WUDJLTlpET3lpeFNRajJEWUFLTHVyZmhURm11RHdBWGwxTHB2TkJLZWJ2THpiN1JxMkRvd1JxUnJvSg?oc=5",
       "source": "Google News - AI(中文)",
@@ -367,6 +359,17 @@
       "categories": [
         "anthropic",
         "breakthrough"
+      ]
+    },
+    {
+      "title": "Claude Code Security发布，安全智能体实现从“助手”到“协作者”的范式跃迁 - International Data Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOVlE0NFNDdUhKVzRUOTV5TVAzamtuUWtGR3RMM0FzMWdodVpGMENTZkMtcFhmUzNBRERhZGFCdHBwV2M0RGtGNHFfZ01FQl85MUM4blNUQWpEaDkxczd3b3ItSGU0TkYzYkVlUUo1dGlBVDgxdnN6WXdxTTNYZmVBdVlrZzREYlE4eXNXS3BMeWRWOTV2dS10MjNEekxXeXRyQl9TWGRCUnVlcVNXektQRXJsckkyV2dYbXFsWUN4SzBxXzB0R3ItVW03a0VtSHE5R2pWVHZWa1h1cXlkTFlhSWhCakQzS1VfdVlXU19PQWQ1RHNjNmRBTzR3YzZ4UW1EQTFsOFZNRVFxaDMzSVA5S0ViZWdoNDNTT2MtMlNFN1JXLTNILXJkZW53Qm52ZUhUbE5ubFJHbkhLR3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-03-03T08:00:00+00:00",
+      "summary": "Claude Code Security发布，安全智能体实现从“助手”到“协作者”的范式跃迁  International Data Corporation",
+      "categories": [
+        "anthropic",
+        "tools_apps"
       ]
     }
   ]
