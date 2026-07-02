@@ -1,96 +1,332 @@
 {
-  "updated_at": "2026-07-01T22:50:56.958120+00:00",
+  "updated_at": "2026-07-02T10:16:05.338802+00:00",
   "items": [
     {
-      "title": "Gemini为什么不看好WB战胜LGD呢? - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyZTd2enRMTzNrLWxaTjZNeTBacnFwTl9zc2ZpR2J3a29WZzFMMm0zOU9BOXVLcEd1Z0tta0RkWWxPa3E5dUwzYk9EQ2ZnS0pnODNkYVBVdXROQjZMX1RyQnRRZ2doY2d5UUFqbGQ2WUlrUQ?oc=5",
+      "title": "满分的「差」，Qwen与复旦等揭示编程智能体奖励设计的结构性困境 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkpGT1dqbWZvU3VzRzgxRmRVcjFVdkl1OEdPUDdqRkM1bUQ1MTdzcjllZzV5M3pjT19DR3ZTOVV0YW90N3dGN0RrUjU5aHJWNjBqbXluQWFhdldsOE1PQnlfNkgwdmlYd25EbmVHdG52bk9xbmtDZldhbTlUVDdPRlE4SEZyaDJS?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T22:46:00+00:00",
-      "summary": "Gemini为什么不看好WB战胜LGD呢?  新浪网",
+      "published": "2026-07-02T10:13:15+00:00",
+      "summary": "满分的「差」，Qwen与复旦等揭示编程智能体奖励设计的结构性困境  搜狐网",
       "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "AI办公有多强？vivo X100蓝心大模型实测 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHV2dSeF80dWdsOHhCc0Z3OUVFOVZOWTBlQ3ZySjUtdmp3RmJsVU9kNWJyUVd2cWJhakpab1g1ZlFIQkVVTTFBLV9uS1ByY2RJd2lJWFpDNEZiOURGZmVDOGVsbHJfMGFXcUV4MXNhMm1XRG02RWdKWENKUHZLRzQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T21:57:57+00:00",
-      "summary": "AI办公有多强？vivo X100蓝心大模型实测  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI大模型深度赋能贵州在建最大磷化工项目 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDJIdHpBUHYyMmpyUGVRWktJdUVoZGFNMkV6emFCY3BwWXhPQlYtZFBHR3AzQmNYSTV3MjJreER0b2VFTXNYYVhHMWVkMVJDRE96ZUt0czA5Q3Q5ZjNmbl9nV2F1OG0za29IVGZyRjdhQ2xVYk9SZHByd1pLSGhPZk5zTlRZUENlMEc5OA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T20:08:07+00:00",
-      "summary": "AI大模型深度赋能贵州在建最大磷化工项目  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "“互联网之父”即将退休 预言AI智能体将重塑行业标准 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV2hrVGgySFBZUnlHR2Qtc0FSejBwcUJkd2xWMFpCM05CNVVQUHFqTTdFbTcyZEpGaWZ5V3R2aktOUkFUSXZIa3FiZm9yVnpScVBtdFEtTXhybG5fcjg5V1B0cmtCTUp2QmsyTW9Rb1FQR1dyMlpZV3FYTThUOXo2SjlzX3RZRjhxaUswMmk2V1hFM2hLWTJsc005RUdEQmNzemNiSzVud3lJV2h1SE1EZVJTMlk5dEdqQVJxeVZXNjBienVmZ08tdXFPb1NsaFE4UU81QjZENHZKdzVnXzNlUmVJTHRqaHg5NFRnR1lMYzF1V1hyVmZNUFQxVFhwYUI2cW4zd1VkX1llaDJYSnotZTBDRkMwTVZnRGN6djhpMlhvZ3RLUll6WQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T19:58:31+00:00",
-      "summary": "“互联网之父”即将退休 预言AI智能体将重塑行业标准  新浪财经",
-      "categories": [
+        "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "华为全球首发商用多模态文旅大模型西安落地 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVDBOMTdNWHpJd0dlOVlNaTkyRXFmYlBSRjFOaWJLbHdyTVN6dk5UajkwVjJtX1g0RU5YYk1NSzh1U1d0U2lGZUFoaVdLcWEtUHgtWUtPUGxKTTh6RUlBYmR6aHRYbExHOHNTcDNHQ0NBMlNTVGJpMktYN0Z1QQ?oc=5",
+      "title": "瑞银：约六成企业收紧AI开支，DeepSeek等开源大模型有望受益 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZU14SEJ2MzVLX1hieDYwc1dqTENUMHpHWU5BRnFJdURDLXdvUHpmaHZiSTc5VWVwVTJQVmxwb2VMRG9RZTlab1ltdkthUG5pb2FGR0NzejNCRGJqUzBWSHNVOE50UmNiUnowZEFxaUdnanB3RmdKOGVkZzFRZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T19:09:07+00:00",
-      "summary": "华为全球首发商用多模态文旅大模型西安落地  新浪网",
+      "published": "2026-07-02T10:07:26+00:00",
+      "summary": "瑞银：约六成企业收紧AI开支，DeepSeek等开源大模型有望受益  新浪网",
       "categories": [
         "other_big",
-        "breakthrough"
+        "open_source"
       ]
     },
     {
-      "title": "OpenAI题材影片敲定新发行方，计划今年上映 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRHI0VjhWdUZ3eFRLTDFjNy1Qd0ppWDZQcndFT3hVRTlRSkotX1BzcGdQSHFjbFFmU0lLNS1yc2Qzd01EcnhqbkVNOF8xdXJBQzM4QVh5Yl9ieU5fRTlnbjl6SU0zUXBvRDBGRGc0dUI2djNmVVdvRw?oc=5",
+      "title": "一杯拿铁3毛8，Gemini 3.1联手GPT-5.5干黄咖啡馆！2个月烧光21万 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4Skh0M0JDYk5NT3ZPYks0dDEyWkJNMWFDQVBwc29laVhXZXprb0RDZ1JMUlcxUE1pTHlTTjVuQzc4VFBjQ3gwWGt2MTZaeWRsZXcxay1lTlNKUEpfWTA2c0ZUR2Rrb2xOZVVkWGVzYmY1LTBHeG82bHdqRjBUTVk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T18:22:30+00:00",
-      "summary": "OpenAI题材影片敲定新发行方，计划今年上映  新浪财经",
+      "published": "2026-07-02T10:04:52+00:00",
+      "summary": "一杯拿铁3毛8，Gemini 3.1联手GPT-5.5干黄咖啡馆！2个月烧光21万  新浪网",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "诺奖得主卡了12年的难题，最后被Claude证明了？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUXhLblh3akZkUDZfMjVvVUY5SVhmbGxmTHBRUGc4YWhxR1kxRldJZk1VVm5LZk5adUREbm1FOF9aZHEtNzJIUXhCYmR2bkpsLUc0OGtBV1R2NFdTUHpVM2dJRlNoUldib05felJGTTM5eWpqS0hDS2JTX205Wm5OaW82Vm9nNEJRMlZGMQ?oc=5",
+      "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注 - article.9466.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BMEVMUTFkMkgxZS1HU2NYZmhacmxQS2VWc3plaXVmbzZCRlNqU1NJd0NSaEJRNE51ZDZXMEZycC1zUUNMVTl6Vm16TmZnUU0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T17:53:26+00:00",
-      "summary": "诺奖得主卡了12年的难题，最后被Claude证明了？  搜狐网",
+      "published": "2026-07-02T10:04:00+00:00",
+      "summary": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注  article.9466.com",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "让AI更理解学生，学而思发布全新培优AI家教及旗舰学习机T6系列|中国信息通信研究院|Agent|升级|体系|护眼_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMXJreDdUUjl6YjVtX3ZOMTZaZEF4czVLZURtS3JDQWhMaEVzdVZmYk9wRFNocHJ2dXJTQmhNaldZMGNsVGJYQXdTTjh6Wk1nVFZTaXhoNmdFTVFyZnNiX18waFpnNzB1bXF0Vy1idkItZm9BUUhnT2hBWHhzR0puNkxBcXBOVFBDa3pUQndmZnBsXzY1bS1MRVppNDVELWNvUGY3SUpkWFUtUlNVTWN4N2pwV3hOckxwbnNCbkdyQWxpSDBmMlNSUEFwczd4TXRtcUFRMlBvdUdQSnVSZDJ6TDVybHc3YTY2dDlxc1FodUl4aVVXR2tKdGtSTWRZTXdUczBCWlpxS01fYjBZRGNmSGMyMGU?oc=5",
+      "title": "传美团限制业务团队使用豆包官方暂无回应|DeepSeek|Longcat|豆包大模型|Qwen|阿里云_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMm1oQkp6VTVuVlJESzV6NzJWRHJIU24zZnRNV2drNl8xNjdjWHJyVnJBSUotUk1Kd1lWLU5vVm4yaU5uQ1dfMFRVMEVIbDlqVmdLOE9YZDFGdzhxR05OM0UwNUNrOXJPVU0xdDNnaWc2bm9pY3ZpUS1iMzNjVHBsZ09vYWtDQzlmd3ZYOEo4WjVLd3pyYmxiRmJQd3JvQW9lczdEQ1N2d1llcXpFOWlUU3RTc0tsNXY4bVI5Qnd2WjlnZnRwWF95QnBKbmwzaTNUU0VSWTlpMmtiZVVzRkxjLVA3Z19QdDVfMGEwUXlLdTBUelNGc0huTHh5dHUxaHVWSnlDeWg0WG5wNkVZbnh2S1lpWkE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T16:44:19+00:00",
-      "summary": "让AI更理解学生，学而思发布全新培优AI家教及旗舰学习机T6系列|中国信息通信研究院|Agent|升级|体系|护眼_手机新浪网  新浪财经",
+      "published": "2026-07-02T09:43:14+00:00",
+      "summary": "传美团限制业务团队使用豆包官方暂无回应|DeepSeek|Longcat|豆包大模型|Qwen|阿里云_手机新浪网  新浪财经",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "枣庄科技职业学院医养照护教育大模型成功发布 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2piSzFLSHNpd25GYXVuR1N6U2tfdWx6XzN4LVNfSXF0aEFNbGllaDR6cWljb0lrN0QzdEY4LUU3UHRUbEpuRG9JaWhiY2VUVDkyVHNvU1htYVRxZVo0RTdpcFFiS2x3NHFkeGlCN1Ftb0RDQkFVTGlpX0ZHVkdValJuSGVwM01peTlvLQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:32:26+00:00",
+      "summary": "枣庄科技职业学院医养照护教育大模型成功发布  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Claude Sonnet 5实测：降价6成，Opus 9成实力？但实际账单可能不降反升丨302.AI 基准实验室 - 302.AI",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5STk9FMXBLaWxieFBaTHpYbXR1YmFLdXFnZlVoWXFnV0pzVEJoRkhTOS0wNk10RVlZSTFBbXFwcHJVMjVIOHh2SHduZTJuX214b0V6YjVjZ2V5emRYTVZBbHM1c3A4dUNHcnB3VjYzYmdwT0FxeVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:30:53+00:00",
+      "summary": "Claude Sonnet 5实测：降价6成，Opus 9成实力？但实际账单可能不降反升丨302.AI 基准实验室  302.AI",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "特朗普解禁两款Claude模型：背后的间谍门与对华暗战 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTctN001a2h4cXFlU1ZCU0htaldxcEpZZS0tNW84QldXV1pvV1JRd3hDcXVhSHFtZ0RmZWRlcko2RXpDV1lWQ0xqZUxKRXA5OHJ4NFVuMUZqOU5PUnhlMGpObkppZWk4dTFPZVdoZndDdU1ic1VjWjhabElGYnl6U2tpSmFZWnNw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:29:11+00:00",
+      "summary": "特朗普解禁两款Claude模型：背后的间谍门与对华暗战  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "工信部韩夏：我国智能体互联网逐步从概念构想走向实践落地 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHc0bEdnZ3QxUk95VGozRUFaUTMtNU5sNGMtenFhVUE1MGQyd2ZSV2xjNHQ3XzQ4NXliM01uaUJFYmllcXdiSVp4b1o4OG1wR0lYdTBCYV9oNzdxQ2lEcThmOTlYV0hPdWRUcDd0dldlTUtRSWRBZGVDakdWTmh3TEIxS3RKdWZhRmdqZQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:26:00+00:00",
+      "summary": "工信部韩夏：我国智能体互联网逐步从概念构想走向实践落地  21财经",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "谷歌 AI 智能体Gemini Spark 登陆苹果Mac，可实时追踪资讯动态- 产业链 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45eC1VNU5JWVV5WGVtQXF1Sl93U1djblJyWkRzUlZyam4zZ2xGTmNYRkNyM2RqYUEwRUhkT2NTczhwZnAyZ0NFMXdrX3c3TnZwMEhTeUpn?oc=5",
+      "title": "新华社权威AI时政资讯智能体“新华语典”正式上线 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tc3VaSjQ3Q0dPZS02aGZDZFpSNXlJbmt0TTFUejRPbzFpN2RpdHFiSE40TEFJaUM0aTNQTTJicEdoak5SV0dGdS05R2FnVFJtbG0yZkRqZDFFTFI5YTRtb0FtNzA0Q01CcWd4VWpDR3Z1Sm5oQVlVUU1BWDFiOXc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T14:44:46+00:00",
-      "summary": "谷歌 AI 智能体Gemini Spark 登陆苹果Mac，可实时追踪资讯动态- 产业链  光通信Pro",
+      "published": "2026-07-02T09:24:12+00:00",
+      "summary": "新华社权威AI时政资讯智能体“新华语典”正式上线  新浪网",
       "categories": [
-        "google",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境 - Infoq.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHRTJmQUN5dkhfcWRjbHFFcmYzYndIVkcxd1ZxcGtVQkNtcHlDWkZqaWtvOG9SMTE1X3pXZXdMMS02TkVaWHVUamtRSFM3c19mTHVCWnFhXzl2Y1g3SlE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:20:23+00:00",
+      "summary": "亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境  Infoq.cn",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "全球第一！荣耀GUI智能体登顶权威榜单MobileWorld - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83SXY1cTd4d1dfNXRnUS03Q3dLR25hSkl4T3lYVWRVRWlXTm5JRXg5dVdZNVpqMlRXYmp4LTZ2VG9ieDE4YTVnUzUzc3pnQTh5cW51ZTZSQlZFelBQZmc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:20:08+00:00",
+      "summary": "全球第一！荣耀GUI智能体登顶权威榜单MobileWorld  DoNews",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "韩国发布物理AI国家战略，剑指全球领军地位 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzh0SjB1N2p3UkZsTlpvR21jZ2l3ODFVVHBRMER6ZnNSVTRFeGNtbTd0UjN6bmdIUDBwUGhwQU13QnhwajdFaHVsX0t3ZDBrQnU1ZXJsd1VzYjNNcV8xLW9uYXlfQXZPSjltaHVjeXRYT2pQZU5CQTZtbFB6aExkN2pFRDJEZ2Zl?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:07:11+00:00",
+      "summary": "韩国发布物理AI国家战略，剑指全球领军地位  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "ZeroNews Skills 实战，让 AI 自动完成本地服务发布 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVdERDB4Mzlxa2t5QWhkaEVpWDBoX0dSNzM3OWYxZ3VVdzV1VGc1Z2RNcFhpdlB0ank0aG1TamxZQmF6Zjc3RjZLdGg5MnAxVkkwblcxam9MbzBQbE9QSUNnM1I1ZFhSU1RNSTZ5amE4TVJIbkdoaEVKb2tVR21VaDN0SHFOT0tkQlV5S1RnZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T09:05:04+00:00",
+      "summary": "ZeroNews Skills 实战，让 AI 自动完成本地服务发布  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "网传美团内部全面限用豆包大模型，此前曾限用阿里云Qwen - 电脑之家",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11SlJIX3lEelJOT1ItR1Z1YjI0Z3ZGU0l2NDBlQnFDZ2tUNDhyTlVyUlhIREppdHJxZXB3SEZaeEVPTS1CczV2RzVuX29QSXhvbVRTWA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T08:28:06+00:00",
+      "summary": "网传美团内部全面限用豆包大模型，此前曾限用阿里云Qwen  电脑之家",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "破解云端大模型数据隐私 龙华企业攻克核心关键技术 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUI4eVJqMmlzaGttdW5nSVFlMm9qZFdPb1Z0TDZsTVdySTc2b05GazVQeUs3T3RybDRibEF6NEVzWVBDWEhpYXZfOXNQZUZSMG96NlJ4UlozMFY1eXhJbmQ5RTAtdEI1Z2hLSGMwbHpVY1VQcWUwZTRVcUZwLXNXYkVJMWFXYlY2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T08:27:43+00:00",
+      "summary": "破解云端大模型数据隐私 龙华企业攻克核心关键技术  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "超级模型和智能体推高网络安全需求！多家网安巨头迎来最佳业绩季度 - 安全内参",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByeFFGVFFiYXZ1Y2F1VzB1SDFMZGFLOEE2bFFvNFltZ01ISHhIYW1HY2RsVGJhUDA2dVFyUmY4X09BcTNKVXFqYzRtWTRnZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T08:14:57+00:00",
+      "summary": "超级模型和智能体推高网络安全需求！多家网安巨头迎来最佳业绩季度  安全内参",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "2026 年 AI 智能体安全合规，备案 - 防护 - 合规上线全矩阵服务落地 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tdHBnM0Vqc1lhOVBwOUJBZ0w4NUtEVlFobHdzTW5MUWdnLS02MFpoQ2E3RHhvREhhTy1OQlJoQWV0U1VvMnVhRDhwbENDWm9zRGd2V2ItQVFqVlVzZFp3V2lzblc0bEJBQTl2N3pn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T08:10:07+00:00",
+      "summary": "2026 年 AI 智能体安全合规，备案 - 防护 - 合规上线全矩阵服务落地  中华网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "在欧洲卖爆！广州南沙“智能体”工厂日产4.5万台空调 - nfplus.nfnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mekJTV1pGVVJWTEdNTHR5TThYWHE2X0FTNHMxMDNOSTQ4VXBCVmpaaTNRenJtT251ZU9QMVRxOTdzQnZQVFo0ZlZNWnhkNzR0eHlTTFdaUXdrRTJUUjk2T0ZHV1gtLWx4eVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T08:05:00+00:00",
+      "summary": "在欧洲卖爆！广州南沙“智能体”工厂日产4.5万台空调  nfplus.nfnews.com",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "都在卷「让大模型多循环几遍」，这个7B模型LoopCoder v2说：多循环 1 次就够了 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yUUVqTHdFQnZSeV9hQ2l4NUJWVUJYQ2lDMEhQdTR6dkJzSUoxTTZteXFOaXhBM05HQkdmWkVzZ0NCV0R5Szh3cA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T08:00:00+00:00",
+      "summary": "都在卷「让大模型多循环几遍」，这个7B模型LoopCoder v2说：多循环 1 次就够了  智源社区",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "男子起诉OpenAI称ChatGPT加重其双相障碍症状 - 亚洲日报",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFcFlhU29nVHRsR0ZaNl9kdHhJMHZDSC1JUWh2em55a1c4QjJaQURScU5vdXQ1SUVqNTVmcEI4U2ZRc1MzNlZ4NFdub0tiQUMzWGZIbHhTRGlmU2M?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T07:28:00+00:00",
+      "summary": "男子起诉OpenAI称ChatGPT加重其双相障碍症状  亚洲日报",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "高德发布充电行业AI智能体神算Agent 助力营运商选对址定好价 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QNENfUjFITUZra3Z5RUpDNDJ4YlZmbks0Z0dIS3lxWmxucTUtTzhkbnNNalRxWGVhYVVxZGhZRjNwVHllQ2sxb0R4Q2JVdzBfa0lXdTVOa3RaSVdJQjdvdTVn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T07:24:19+00:00",
+      "summary": "高德发布充电行业AI智能体神算Agent 助力营运商选对址定好价  观点网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化 - 雷峰网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wV0lGcFlDcHAxSGpSdkczSVJUTVFiVlJXNlVTV0x1ZEdZMmZZTkhwTFZNUzJlUFZXc2R4cTNEQXlQd0Y0RENwbVR6TjRkYnJqYm95bDRhTzcwUUctLUZYdDVKUHNEa0czb3NSUl85cEZXUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T07:10:00+00:00",
+      "summary": "Claude 和 Manus 还要人工搭框架？小米直接让 Agent 自我进化  雷峰网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "国家广告研究院AI品牌数据分析中心在深圳成立 AI大模型品牌数据监测平台同步发布 - 经济参考报",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE1Oek1qNjRGVE9ycjViaG10cVlNOTZ2bllTYXVacEhxWW9ZUnJSMzJHRy1MTW1IRjh0UWt4MjBkM1FiTXRBaS1EVTZvM1U0d2VRYWt3NmhVc1lBbGtFMnJCNFg1U2JPNjY4cE9pNXlNVllnMWFWRlRvOWVrZ0xmQg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T06:57:49+00:00",
+      "summary": "国家广告研究院AI品牌数据分析中心在深圳成立 AI大模型品牌数据监测平台同步发布  经济参考报",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "从答题到做实验：SciAgentGym让大模型进入科学工作流 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnRVVGYtSFJTRlV3ZU9XQ3lQWDZEOHhhSlo4aFMwc2ZvNjFSaUQtUEpjUlU0dVp5ckRDeEM0UjQ1WGpBYUhMWWloaENZZTRWbC1xTDJZYlh5N0I3NGlieDlIMEk4bElNSHViMFJpOE1nM3FWdUxrdUNQcGZVVUJQXzZPc1JsWHk4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T05:03:26+00:00",
+      "summary": "从答题到做实验：SciAgentGym让大模型进入科学工作流  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Fable 5解禁，Sonnet 5发布，但各种骚操作封禁中国用户 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDRSMUpsRzk0UjNCZjZfVHJod3plVW1jTTZYcTV6ZFM4RjZpSG9BYkliNXktQ0lMZ3RielNqREYwbVNfcllSSVV0RlZwbGgxbDh3STJHZ05GN05wQ1JzTk1uTklONTA4SDBxX3JyanN2SnZhMzQ1c2VkMVdZYjZFRGlGQlRjbHhPQ1ZWVA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T04:49:44+00:00",
+      "summary": "Claude Fable 5解禁，Sonnet 5发布，但各种骚操作封禁中国用户  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "对标Claude：昆仑万维推出Skywork Tags，让AI Agent在工作群中参与协作 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWY1WTJTRFNhSjJaRTkwMVJOc2ZYY2hhaXY4SXRhakd5VnIxX2xxeXN5dktWQkRhaGF5UFpTbjJwWk9lWno5Q3FNTkVZRmJEbTZWV2FCZVNRbWVqS0R2YndsbnQzZU9STjBGYWczdUZWdGhOOUlEXzMwbXN0ZGl6a0JYTkpYTXV1?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T04:30:39+00:00",
+      "summary": "对标Claude：昆仑万维推出Skywork Tags，让AI Agent在工作群中参与协作  搜狐网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "葡萄牙发布国家人工智能大模型“阿马利娅” - 央视网",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iNVhOcWxCN1BuSUU5TmNuYXQ4RHgzY2VUVWF3Wlhwbm1pdFNjREw2NDJ1V3FDY1k0anRNYk40QURnejl5c0JOZDFMODVJbk0zQ3Q2YUNjUGd3eGNjN2lnN3BjLThPZjg3Q0dDV2xBQUNBZ2Zrc2cyRw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T03:23:04+00:00",
+      "summary": "葡萄牙发布国家人工智能大模型“阿马利娅”  央视网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "大模型智能体真的会“察言观色”吗？我们构建了 AgentViSS 来测一测 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FSEtNWGY3SVhDai1GRDdzb2FXMWNtOTdsTGZYZkRxVllpTjhMZ3JEdnFyMVpOaUR5OUpUZ0czalVmS1ZlSW5TVw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T02:00:00+00:00",
+      "summary": "大模型智能体真的会“察言观色”吗？我们构建了 AgentViSS 来测一测  智源社区",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "跨越安全红线后重启：Anthropic Fable 5全面接入GitHub Copilot，押注长周期自主编程 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jMmxzVWZTY2VEZEQzZHh6ZFNKTmlDSnIyV1pNeW5hU3g0U25mSWFONVltOXNlZDlYbExCbnJIT1pWYXhFOVBzanljTWp2MV9sQUhr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-01T22:52:50+00:00",
+      "summary": "跨越安全红线后重启：Anthropic Fable 5全面接入GitHub Copilot，押注长周期自主编程  华尔街见闻",
+      "categories": [
+        "anthropic",
+        "open_source"
+      ]
+    },
+    {
+      "title": "全球首个商用多模态文旅大模型在西安规模化应用 - 华商网",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQcXY2cXUxYVg2NHcycFlnRUJiekRncm95N29lX3AtZ3pFSk4tNEpjbEJ3ZGNLX05KMk4zeGRTMHdnc1lzRzJuSDd2Z1Z1WVR5eWprT3VLTUt0RTQ3aWpJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-01T22:47:11+00:00",
+      "summary": "全球首个商用多模态文旅大模型在西安规模化应用  华商网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "千方科技体系企业重磅发布重卡能源大模型，有效破解重卡补能痛点 - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VkNVSUFyZzVZWGY0cFdBRzhNSnFvYldTWWc3Z1VBcHE0X182THZBNW1pWGdxeUNKTlNScE94TkxxZnhtbHc1Yng5RF81VzkwUlNZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-01T15:50:00+00:00",
+      "summary": "千方科技体系企业重磅发布重卡能源大模型，有效破解重卡补能痛点  36Kr",
+      "categories": [
+        "breakthrough"
       ]
     },
     {
@@ -104,204 +340,14 @@
       ]
     },
     {
-      "title": "Claude Science发布：Anthropic押注工作流布局科学研究领域 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkZwWFJESGtFWFVRa1RjNEdwM0szYmFfTzdaRndyYXdpVndYWG0zX21ST1lxdk9UY3UwaThtVGFrRFRfd1ViaFM2d3ZlXy1zY2lhc3Q4M0pvRi1CN25DUjVJVi1NeWhyYWM4dEc0aTlVV0UwUmp5cnRndEpvb3NOeUhMNWpjX2RP?oc=5",
+      "title": "国产AI六巨头激战Agent，能否望见Claude Code的背影？ - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcjRqMFdMNXF5S2x2a01WVlFBQmx5WHh5VThFemg2MG0xaVh4VnQtb2xtSUt6VGFqNHEtay1xQjA1blhtM3VnMWk1cjRqdHBpMlhR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:37:00+00:00",
-      "summary": "Claude Science发布：Anthropic押注工作流布局科学研究领域  搜狐网",
+      "published": "2026-07-01T12:38:00+00:00",
+      "summary": "国产AI六巨头激战Agent，能否望见Claude Code的背影？  36Kr",
       "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "智能体AI的现状与未来：MIT教授深度解析 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUZOa2hGRDZmcG9KYTQxRWJKbkpwcjkxelNjazVBU1VXLWZweDV2ZDB1X2VWU2ZFeXhjVTJJQ2p6ZjF3ODZBVGR3YTB4NDNNZTA2NnI0Q0RCVDlpeVlYaEdLRFVBMUVGeDE5UVVoREZmZmU2SXNtUWxTSTRkTUZnNEFIQS1GdTN4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:36:00+00:00",
-      "summary": "智能体AI的现状与未来：MIT教授深度解析  搜狐网",
-      "categories": [
+        "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "利用合成数据与微调提升视觉AI智能体精度的三种工作流 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGFSeVNRbjlJRkU1VUVhTEJyNjFITFFjQy1GaXNkMVNSMy1FTTR3ZUJvd0Q2aXZnaXJDS0tkRGRtYnRwRzBuLUZET1hHSFotOS1pYXdvWFpSZnR6STBjdTB0Q1lWc2JGXy04YVB1eDM5UDBQRXJIVktlSThJdmYxbl9yRzNUM3Nh?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:35:00+00:00",
-      "summary": "利用合成数据与微调提升视觉AI智能体精度的三种工作流  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "NVIDIA BioNeMo智能体工具包助力生命科学AI研究加速 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUFaMkdDVnU1clA1OUQzRUo1TkFHUjlfMlhlRWJXT2dsVG9IUGhNU2J3SEdJTnVKbGRoY29ZYUYtYXgybWtVbXpXY25jdEp3UHR4dWhfQlB0RWJKTFE5a2NIdzllTVF2dWtTV2lld2xqdm5ZQ3VsSHgzUEdUOWZCSzRUbWlUS2Fp?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:35:00+00:00",
-      "summary": "NVIDIA BioNeMo智能体工具包助力生命科学AI研究加速  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌推出Gemini Omni Flash与Nano Banana 2 Lite，助力高效创作 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanpIeHB3M1Bwcm54S0ZESHdNRHRGcFdIX3Vzcmlyel82cW5LTlUwRWlSYi1TVU10SUdyaFJYd0VLMDJiZ21oYkFXX05UZl82UnA4S2VPcVpJVmRmMFFyMGg4SFBKU0hkNEpSVmJtLS1hUTJJVlpLVWFQUEZXN0pJWTA4WDVxWnhT?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:29:00+00:00",
-      "summary": "谷歌推出Gemini Omni Flash与Nano Banana 2 Lite，助力高效创作  搜狐网",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "AWS推出前沿部署工程团队，加速企业智能体AI落地 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE9LblpHOTFIendoT29Eb0tiMm40dlZtSHNnc3RQc2l3bS1IVXhfUmQwdmlCUW54bm9oTDhyWGpXMmR3ME1QM3hHbG5zdHNvZ21kLUh3UWgxQi1Td2w0ejBvWkRYaFF1SjktZ21oZWNKSlJWUTJiTFVTTGNiM2V4LV8xRlJ2bW8z?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:20:00+00:00",
-      "summary": "AWS推出前沿部署工程团队，加速企业智能体AI落地  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "润和软件：相关智能体已在多家银行、证券公司等金融机构实现商业化应用 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZzYxZW1kbllsMVlEZ0trSmNUTTZOZ3JlLVRSNVJoazBlTkpfaU1pWXk2aVo0VzF2UnhDRXJDUUJVZl84TXpzdjM4bGNDVTdOeXhTMGFZVS1INWtfR01ZY0JBelBkcV9MZEplZVFrcGhMTnd1YjBSdThGZVBjUUNOaTZlRFl0YzRUYlVMUw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:17:00+00:00",
-      "summary": "润和软件：相关智能体已在多家银行、证券公司等金融机构实现商业化应用  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic推出专为制药研究人员设计的Claude Science - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDN4a1NYd0tTMEJMS3JfWnZNN0RQeUJ6LWV1OTBvTTR3SVdIeklkNlNUQ2lQY0pXN3VKc3MyMGpVbzB1bU1MdlVVMC1aMEEzc3ZncFVuLWFXRUVTMWpLcXZJQ0V5Smt4LS1MZmxoU0VTek5DY3dnWGNkbjc0U2hsdVo4U2p3SlhK?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:16:00+00:00",
-      "summary": "Anthropic推出专为制药研究人员设计的Claude Science  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic发布Claude Sonnet 5大语言模型，编程能力与安全性升级 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmVWRW9qbElBYWJGUEhQZTlDcFFyVWU1eEQ0YVpyeUxWVzNTMFlfeDg1THVaLTRCU3FDYU83Q1RqNHB1dC1VUVlkb1JWcW9fTV9DNXdZUWV6Y1Jnc3djaDg2dzBjdWo4dUxrOVRNRDcxNzhRX25yMFFIa2cxRkhMejVNMmJEUTZi?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T13:08:00+00:00",
-      "summary": "Anthropic发布Claude Sonnet 5大语言模型，编程能力与安全性升级  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "专门针对科学家的AI工作台来了，Anthropic再深入到垂直领域 - 多知网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRkxVZGJ5a1pSX05PQkhrVjYwZUZXR0FpcVJybUpWS3VvelE5eEJRa2lXMWEtT3Y5UDVEcURNUm1JNzF6YVRvX083dXdiNzRoYWg1bU5RS3FkWkhFRXlub3F0TjJtMDVvVUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T12:49:57+00:00",
-      "summary": "专门针对科学家的AI工作台来了，Anthropic再深入到垂直领域  多知网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "媒体观察：锚定AI+智能体新代际竞争，IBM改变”智慧经营”的游戏规则 - 霞光社",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Q0VQYkZtVnF4UFQ0Yk9VM1p3R1E1R29oOEZ2c3J4bXp4NERzSmpGNmo2SXlwS0gzblQ1TFVPaVQ1NzQ2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T12:05:12+00:00",
-      "summary": "媒体观察：锚定AI+智能体新代际竞争，IBM改变”智慧经营”的游戏规则  霞光社",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic承认了！Claude Code木马门被抓包，明天回滚 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYXNxMGgwVUI4NzdnNXl5NHJFRXdjSjZudUY4aHZWN2FxUDFVUjE0Wk1vRG5UN2xDOWRmVEh5Z21Ienh0cExaVW1FSFFBMllORTJB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T11:11:10+00:00",
-      "summary": "Anthropic承认了！Claude Code木马门被抓包，明天回滚  华尔街见闻",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "机器人抢活、智能体解惑……这场AI+理论宣讲开通了“赛博空间” - 浙江新闻",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oS0ozY1pVR3dCSUhzenFKSGtpUEltekN2bHd4c2VrREFnb2FwVkFjbDgyZnhsLWNjTVNPZUN0Mjl2eWVDSWtsazJfcEMxTUJGVkljMlROaXBScHY3VDJubzJYYnkwc3NpcnBMaG1hdkRYZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T10:43:09+00:00",
-      "summary": "机器人抢活、智能体解惑……这场AI+理论宣讲开通了“赛博空间”  浙江新闻",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？ - 雷峰网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lLWZMV1VXM0ZQZlNJcHk2NEJ6ZFJTWEJBSEQtVlZKQ2NZaFFwNzhiaENVWTlNX2pKZmZROEVHX1FERDJYVi12ODdvdjZWdG1KVnpIajY2Yy1XN1JJNlBaUzJmMllrS2JMNWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T10:37:00+00:00",
-      "summary": "Reddit 上爆出大猛料，Claude 为何封号中国用户又快又准？  雷峰网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "医疗空间智能体 | 一场跨界研讨，11位专家共探落地新路径 - ByDrug",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ONWNxSWFSaEtxeHhwNlNQTHF6VTQ1Mlo1ZmdHTXRJeTJ3aEZLeU9rQlE4R29rYmVhSERZOTN0MWEyc3lTMXhHa1U1VzNKVWZFZDdBd2QzZEM1aXd6eTFqUGxXRlNoYUZvTkE3XzdlME0tM2NEMGx5THliMU5wUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T10:28:00+00:00",
-      "summary": "医疗空间智能体 | 一场跨界研讨，11位专家共探落地新路径  ByDrug",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "黄仁勋的物理AI ChatGPT时刻，正被这家中国公司的“流式多模态”接棒 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pT0otM0d5d1kycjF6UVZYS1VOQXZDM2lyNmpKMU43TTFaX3lZdGtxelBwOElrTzZXY0ZOMV9EWGtqYmFCVGs5SA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T10:23:54+00:00",
-      "summary": "黄仁勋的物理AI ChatGPT时刻，正被这家中国公司的“流式多模态”接棒  凤凰网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "真做事的Agent！国联民生证券首场超级智能体大赛燃战开启 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2Z3N1VQU2pDY0pxN3RQeHpaVUxvcHB0U2dEOUxNWG5BUk1iOGx6UEtPRmdqbDVtN1ZUSGNzNVg5TVpXNklwazY0cS1MWW9ZV3JnbzYyVUF4Y3FtSUVmbm45dk9NM2pWdVVvMTQ3R3Npbnl2NkhnZDFtMnJld2xKclYwYWRuQkE1TzBLQw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T10:14:03+00:00",
-      "summary": "真做事的Agent！国联民生证券首场超级智能体大赛燃战开启  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "湖北首个交通行业AI大模型“荆楚・行”发布 - 极目新闻",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WV2xSNmo4amlzQjZCOUhqc20wNnZTTXhESUVtZWxUc01QUTV1RXFKV1lUZ211VHI4YWtHbG1LNkRKdWxRN1VkOVQ2SGRsaGNzbU1WZ2JPZXpJVDg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T09:45:59+00:00",
-      "summary": "湖北首个交通行业AI大模型“荆楚・行”发布  极目新闻",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "中国用户被针对！Anthropic承认私藏“木马”Claude信任崩塌，网友直呼太可怕 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EQndTRU83RWExRkxiRXM0YzY4Mi0zUU94UmRfUll4YTNYdV9CNXR1UzZMM0hYekZ4NjJiRHlBclZPQ2cyZ3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T09:25:38+00:00",
-      "summary": "中国用户被针对！Anthropic承认私藏“木马”Claude信任崩塌，网友直呼太可怕  智东西",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic回应Claude Code暗藏代码检测中国用户 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UWVdIaGwzWElRZG1CTEZfREFsUzRtSnRuOEZsSGZqaGlKZXZMTGU4MFQtS2I2dlpCRkxYLXdjX1JOSktFUXU5dQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T08:04:04+00:00",
-      "summary": "Anthropic回应Claude Code暗藏代码检测中国用户  凤凰网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -315,16 +361,6 @@
       ]
     },
     {
-      "title": "GSMA Intelligence发布Agentic Core白皮书，定义智能体化核心网演进新范式 - 飞象网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01WWpXckJPM1ZGVGo4SEc4aWY5VHdrWTJqRG5Fa3VEMjlEUGhoeWZsWXNpYmMwSkJrcFJXLUlfa3R5VmFLNWRsLUdQYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-01T03:52:26+00:00",
-      "summary": "GSMA Intelligence发布Agentic Core白皮书，定义智能体化核心网演进新范式  飞象网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Anthropic出性价比王牌Claude Sonnet 5，提升智能体能力，直指企业AI自动化市场 - 华尔街见闻",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45UVpNTGdPVDRaVU1UN0tJZVRaa3RWRWg2U3NOZURhMlNxNkY3OXVFMEpLTE5qOHNyRXR3UUxxVVVXc0dHN2JNUXU2RXJpNFlLZGpv?oc=5",
       "source": "Google News - AI(中文)",
@@ -332,37 +368,6 @@
       "summary": "Anthropic出性价比王牌Claude Sonnet 5，提升智能体能力，直指企业AI自动化市场  华尔街见闻",
       "categories": [
         "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude有“编制”了，Anthropic发的 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BelhsOWVRWUtpcURfYko5T3FYMWUwVnpWS1JwVTQ5WVBkNFE4eTVQQmp4SlRxSlV0M1VKOGxvR3F5Q1BRN0ROcFR3V2YzOVhu?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-30T17:39:00+00:00",
-      "summary": "Claude有“编制”了，Anthropic发的  36Kr",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI发布新版GPT大模型 仅向特定用户开放 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SSV9wampjQXpIaGRRZHpMcmJ4eWVHbk4xYWhoaFk0TTFRSFhFeEQ0TDZVSko2WktpYTBSQ0VkYVlNRFh4Sm9KVkszeGJrQTBHQjA3ZkhpUFJuNzM0V0hkbWF0VEg4eU1mWDF5MHlFV0ZPdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T00:58:54+00:00",
-      "summary": "OpenAI发布新版GPT大模型 仅向特定用户开放  央广网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     }
