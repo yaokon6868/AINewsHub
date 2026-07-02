@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-02T17:02:34.120075+00:00",
+  "updated_at": "2026-07-02T20:47:03.559490+00:00",
   "items": [
+    {
+      "title": "Meta Platforms称，过去四个月里，AI智能体的开发并未“如我们预期的那样加速” - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZSVZ1NnFfaldtM2ExWTUzVlVHMU1ERXZzdllCS240U0I3OHJpS2FLUkFqNENYb1V4aU12blQxRWRWUW5xSkZMeHYzUDJJYS0zMHZV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T18:58:37+00:00",
+      "summary": "Meta Platforms称，过去四个月里，AI智能体的开发并未“如我们预期的那样加速”  华尔街见闻",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic 被曝自研 AI 芯片，三星有望代工 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmx4dXhlaTZEZU1UZDlFa3RmV0xSNkE5cTNUWHN3LWllSjF3NGk3OXNkQlRSUVFzLVJ0cHh4YVk3YmhYUDNzdlc4VHZqUHUteTlIVGlXR1RCWVhTMXczbzQ4Y2JVbkcyVklZMU9PempvX2N2V1lwU2RxRG9FTlZjOTlsTThONXJLcDhKUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T18:18:00+00:00",
+      "summary": "Anthropic 被曝自研 AI 芯片，三星有望代工  搜狐网",
+      "categories": [
+        "anthropic",
+        "chips"
+      ]
+    },
     {
       "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌12%，纳指100转跌超1% - 华尔街见闻",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UckdSM1ZoMlY4eU5YTEpYM0cxdWdkZ0o5Y3loSmNGUUNtMHBmOGpnZ2ZRZzFKS1h0Y1M3cGRIVHBuSGZVeWlveTdjWDYxUEpxOERN?oc=5",
@@ -67,14 +89,13 @@
       ]
     },
     {
-      "title": "Anthropic与三星洽谈定制AI芯片代工合作 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aRzJGdlpRcTd0MG5Qd2JzUkVpU0RxV3hzTjhYUGNjUXZDSTl3VE05YTlDbVdOVVpqdkdmczJwdUl4MkFnTTZUdmNSR3lDQ2lKTTY1U2tleFRmc2N1U0RmRER3?oc=5",
+      "title": "企业AI成本失控，消息称花旗、Adobe等纷纷限制员工使用大模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0xicFUzV0VqNXM3RUREdmppLU1JOGlPOFBySi1yZk9tX2ZwMkV0VXpob3V6bGNnbkp0QnhjSTYxWmdKblJjakNfd1VpcHp1VG91dndkcmNvbUJFVXg5ZGtxN2lKT1RVZkJ4cmJyNTJ1MXVzZzdmUVRUU3VtWFRvc0VMZlpWeV9N?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-02T14:35:39+00:00",
-      "summary": "Anthropic与三星洽谈定制AI芯片代工合作  观点网",
+      "published": "2026-07-02T14:22:49+00:00",
+      "summary": "企业AI成本失控，消息称花旗、Adobe等纷纷限制员工使用大模型  搜狐网",
       "categories": [
-        "anthropic",
-        "chips"
+        "other"
       ]
     },
     {
@@ -101,17 +122,6 @@
       ]
     },
     {
-      "title": "消息称Anthropic启动自研AI芯片早期开发，拟采用三星2纳米工艺 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0RnT2FsdDdGdmJpOE9FdW1SSVZjUzJPT3U5eE5pYUJqV1p4cGtqaVpTbHFwb3FHRHEtX0lWODEyVF9jMGlCWlFMMjViaF95N2NfRFVUUmpiMGZJRHV5MWxHQk44MWxkemxWRjNqbXNNZkU0YjVZYXNSNl9VUk9QaGYxT0swOWky?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-02T13:59:49+00:00",
-      "summary": "消息称Anthropic启动自研AI芯片早期开发，拟采用三星2纳米工艺  搜狐网",
-      "categories": [
-        "anthropic",
-        "chips"
-      ]
-    },
-    {
       "title": "浙江检察机关研发行刑反向衔接智能体 AI赋能监督全流程 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGxJeTJ3OWx6NlNPR0FteE5YVDQ1eFRfc2JiUXhxT0h3U3FLYUZKRnVuNXlJcExHVWNhVVduMlZtYUxyTGxkbVFPNExXUExqN0lRSjRuX0xmcnhxWjB1dzJKdF9GR0d4d3Q5YmM1T1h2QzQ1LTBERmVycnJUME80bmIxYW85YzNQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -122,13 +132,13 @@
       ]
     },
     {
-      "title": "江苏首创！南京这家工场，专业“手搓”AI政务智能体 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlBYV0pLd1pWN1lPeXd2N3FSaHRZTVFhMDg4MzVfQjhUYTRLc09IOHNxN0M0NEZhM2hGSUV5eEd3VGd4WWZCN0EwY0ZPSFNtN0VBWExkUy1TMlRYaVY1QlhDNmZ2ckY1eW43NEc2R1lGUmhINFp0Wm5JVno0MllCWUh0XzVhRWFy?oc=5",
+      "title": "ChatGPT 广告内测实录：三大核心洞察，帮你真正理解 AI Native 广告逻辑 - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55OVE1RU01SVg0Yy16VHdXamNBMWtDNGNwZnB2STJKQkdpcHFYUUJ2a05fVjJ0LWFVbnhCUXlYaHNGcU5vclVWUDhjZkRmV2kzZnlCSXFTZjNMdVR2bjVubGlR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-02T13:13:05+00:00",
-      "summary": "江苏首创！南京这家工场，专业“手搓”AI政务智能体  搜狐网",
+      "published": "2026-07-02T12:55:10+00:00",
+      "summary": "ChatGPT 广告内测实录：三大核心洞察，帮你真正理解 AI Native 广告逻辑  同花顺财经",
       "categories": [
-        "tools_apps"
+        "openai"
       ]
     },
     {
@@ -142,13 +152,23 @@
       ]
     },
     {
-      "title": "从红杉26年33笔AI投资，看懂智能体时代的下注逻辑 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTGZmZ29fS0Y1X3h4elVUQVc4WjVqMzdZUFFmUHVUNnJpLXhPLUdZYXA5T3pPNW9UUEJSVXlQSHBpeW5IdlRxSXo2TUVnRHR3?oc=5",
+      "title": "江苏首创！南京这家工场，专业“手搓”AI政务智能体 - 中国江苏网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHZiUksxT1c5dGMxR1U0alJZRmszTl80UVpOZnpYd0J6VzZiNTVtYjBkSDFwRVhnNFREZWs2U1lZNld5c2tIWW9iMzduMTVaY21PUkdqVkM1LWM1ZVF5d3JZQldTRklhSWFoLWctRTJtaHF2Z3lDbF8xbTFXQm9zSFFkLU1IWkE3dUxV?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-02T12:13:32+00:00",
-      "summary": "从红杉26年33笔AI投资，看懂智能体时代的下注逻辑  36 Kr",
+      "published": "2026-07-02T12:26:00+00:00",
+      "summary": "江苏首创！南京这家工场，专业“手搓”AI政务智能体  中国江苏网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "东风奕派007+全系推送城市NOA，端到端大模型+激光雷达实现无图智驾_网通社号 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVY085Q09yTWxsaWdoMWhtSEQ5aExIOHN1V1dLZS1wVlJFTGxRWDJwLTZ3RHZmSkN3Yzl3OFloOEkxSU5MUUEzNzk4LVhpZzRKYlkwaEZ6eW8xNDF4ejc2SkFVcHN5VTg5RUZ2N2NuU1pyUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T12:21:36+00:00",
+      "summary": "东风奕派007+全系推送城市NOA，端到端大模型+激光雷达实现无图智驾_网通社号  新浪网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -159,6 +179,17 @@
       "summary": "全球首个！“祝融·耐火智工”知识大模型在武汉发布- 湖北日报新闻客户端  湖北日报传媒集团",
       "categories": [
         "breakthrough"
+      ]
+    },
+    {
+      "title": "速递｜AI芯片初创Etched获10亿美元订单，累计融资8亿美元，估值50亿美元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGZWZHM0VW5jRjhUNTNmTkRGUXlWQkVmQ0dLR1VZZ3VWaVNzUVc2UjJjRE1ZWkYya20zYzRZVlkzQUZlTTBVOGJwTnhxSTNGbFl3cXNQVlk2RkR6cU00OUJZWlBlUUxXcHd1UUtkNTFTY1NUYUhTbTVkQlJmMWVCTDRIaUJfUVFLc2JybA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-02T11:46:01+00:00",
+      "summary": "速递｜AI芯片初创Etched获10亿美元订单，累计融资8亿美元，估值50亿美元  搜狐网",
+      "categories": [
+        "breakthrough",
+        "chips"
       ]
     },
     {
@@ -203,38 +234,6 @@
       ]
     },
     {
-      "title": "满分的「差」，Qwen与复旦等揭示编程智能体奖励设计的结构性困境 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkpGT1dqbWZvU3VzRzgxRmRVcjFVdkl1OEdPUDdqRkM1bUQ1MTdzcjllZzV5M3pjT19DR3ZTOVV0YW90N3dGN0RrUjU5aHJWNjBqbXluQWFhdldsOE1PQnlfNkgwdmlYd25EbmVHdG52bk9xbmtDZldhbTlUVDdPRlE4SEZyaDJS?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-02T10:13:15+00:00",
-      "summary": "满分的「差」，Qwen与复旦等揭示编程智能体奖励设计的结构性困境  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "瑞银：约六成企业收紧AI开支，DeepSeek等开源大模型有望受益 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZU14SEJ2MzVLX1hieDYwc1dqTENUMHpHWU5BRnFJdURDLXdvUHpmaHZiSTc5VWVwVTJQVmxwb2VMRG9RZTlab1ltdkthUG5pb2FGR0NzejNCRGJqUzBWSHNVOE50UmNiUnowZEFxaUdnanB3RmdKOGVkZzFRZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-02T10:07:26+00:00",
-      "summary": "瑞银：约六成企业收紧AI开支，DeepSeek等开源大模型有望受益  新浪网",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "传美团限制业务团队使用豆包官方暂无回应|DeepSeek|Longcat|豆包大模型|Qwen|阿里云_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMm1oQkp6VTVuVlJESzV6NzJWRHJIU24zZnRNV2drNl8xNjdjWHJyVnJBSUotUk1Kd1lWLU5vVm4yaU5uQ1dfMFRVMEVIbDlqVmdLOE9YZDFGdzhxR05OM0UwNUNrOXJPVU0xdDNnaWc2bm9pY3ZpUS1iMzNjVHBsZ09vYWtDQzlmd3ZYOEo4WjVLd3pyYmxiRmJQd3JvQW9lczdEQ1N2d1llcXpFOWlUU3RTc0tsNXY4bVI5Qnd2WjlnZnRwWF95QnBKbmwzaTNUU0VSWTlpMmtiZVVzRkxjLVA3Z19QdDVfMGEwUXlLdTBUelNGc0huTHh5dHUxaHVWSnlDeWg0WG5wNkVZbnh2S1lpWkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-02T09:43:14+00:00",
-      "summary": "传美团限制业务团队使用豆包官方暂无回应|DeepSeek|Longcat|豆包大模型|Qwen|阿里云_手机新浪网  新浪财经",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "开源强化学习训练系统AReaL 2.0发布，面向下一代智能体应用升级强化学习基础设施 - 智东西",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1abDV1ZzZHMzBhU1l5a053SEI0ek1LSnVwZVAwVkQ1TUpEYU1FajI5MWhrVU9oRF80ZWdVNVNxLTVjVEkxVmc?oc=5",
       "source": "Google News - AI(中文)",
@@ -243,16 +242,6 @@
       "categories": [
         "tools_apps",
         "open_source"
-      ]
-    },
-    {
-      "title": "当国民IP遇上AI大模型：《蛋仔派对》与火山引擎开启版权IP合作 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zY0NzaThLY08zNnRrbVBXQ0ppS0tpd1I4QXZTQ1RJblZDTVFhWjZjYmQ4SmZkbjhjdjN4WFZ3TjdodGdQN3dXdFVuWmFEOUpOZXd0UndabjExcVRUUEcyVjNXSFQ3TWVDRnJja3hB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-02T09:32:28+00:00",
-      "summary": "当国民IP遇上AI大模型：《蛋仔派对》与火山引擎开启版权IP合作  中华网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -284,16 +273,6 @@
       "summary": "国家广告研究院AI品牌数据分析中心在深圳成立 AI大模型品牌数据监测平台同步发布  经济参考报",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "从答题到做实验：SciAgentGym让大模型进入科学工作流 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnRVVGYtSFJTRlV3ZU9XQ3lQWDZEOHhhSlo4aFMwc2ZvNjFSaUQtUEpjUlU0dVp5ckRDeEM0UjQ1WGpBYUhMWWloaENZZTRWbC1xTDJZYlh5N0I3NGlieDlIMEk4bElNSHViMFJpOE1nM3FWdUxrdUNQcGZVVUJQXzZPc1JsWHk4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-02T05:03:26+00:00",
-      "summary": "从答题到做实验：SciAgentGym让大模型进入科学工作流  搜狐网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -339,6 +318,17 @@
       ]
     },
     {
+      "title": "跨越安全红线后重启：Anthropic Fable 5全面接入GitHub Copilot，押注长周期自主编程 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jMmxzVWZTY2VEZEQzZHh6ZFNKTmlDSnIyV1pNeW5hU3g0U25mSWFONVltOXNlZDlYbExCbnJIT1pWYXhFOVBzanljTWp2MV9sQUhr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-01T22:52:50+00:00",
+      "summary": "跨越安全红线后重启：Anthropic Fable 5全面接入GitHub Copilot，押注长周期自主编程  华尔街见闻",
+      "categories": [
+        "anthropic",
+        "open_source"
+      ]
+    },
+    {
       "title": "美团发布LongCat-2.0大模型 测试版本位列OpenRouter全球总调用量前三 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04OS1aNzZWYU5KbTRoUEVWZEdiRERTT2hvQUlzbmVuWjNBaldrQ0gzaldVYkJlMlRRUTlHdXl0b0VXenhQbWp3eUROYy1ZZ0NIekZuXzdneGFxQ2J4R0N5NFI1X0t6UQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -377,6 +367,17 @@
       "summary": "Anthropic出性价比王牌Claude Sonnet 5，提升智能体能力，直指企业AI自动化市场  华尔街见闻",
       "categories": [
         "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
+      "categories": [
+        "other_big",
         "tools_apps"
       ]
     }
