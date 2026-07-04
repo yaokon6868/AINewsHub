@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-07-04T11:58:22.119864+00:00",
+  "updated_at": "2026-07-04T15:47:27.152924+00:00",
   "items": [
+    {
+      "title": "阿里、Anthropic双向设限，AI高墙已经立起来了 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdEpPWFlac2o4amdldWZKNzVFT2NacDJ6dEUzNmhpN0FnMzU4ZjlUb2ZWOXhMTjdDRmpYT1N4SW9VdC1lNElNamY5SkhOS3UtbnZ0eTlnaG1KeDJQMlZtZkVMQzR5UWpDb0EzX0JvcWM1djNpbm11dUJ0eVBtV0k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T15:13:01+00:00",
+      "summary": "阿里、Anthropic双向设限，AI高墙已经立起来了  新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "国产巨头追赶Claude Code，阿里/腾讯/字节都聚齐了 - 创业邦",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5S05SaVVNTVpkZkZMbFZEbmxtbzNyV1N2Z0VaVFJvUnRnMTc0aHhmbE9mUmZiellzVS0xWHJLNU1MZVJoaXB3NXF3RkFZYV9C?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T14:45:27+00:00",
+      "summary": "国产巨头追赶Claude Code，阿里/腾讯/字节都聚齐了  创业邦",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "豆包：智能体功能将于7月15日下线 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV29tWWdIZjhXM3NyYXctT3JlU0xDVFBMeEVMRWFzY3NyMElRUlBBLURRc2kzMWdXcDJpd1lMam9CWG9UZ0QydDJJemk3XzFUSGpFTVhTanEweGVIb3VqcW11VTE4SDhpSjZsVnExMUtRam1Oa0NCMXl1OVJieFB3bVNvSVNZeXphSkFxbHVMMVF0RnFqckRxdTIySGJPZGZwbkFieDBXWjdvS00?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T13:54:26+00:00",
+      "summary": "豆包：智能体功能将于7月15日下线  新浪财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek新技术移植苹果芯片！Mac本地大模型加速60% - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iVHVFMm1meWo2ODhyRG9jQk9ueXJZQmE1WWE0SXo2ZlFEVVpXcVpKdWp6WFFZNUx2QlpCQTlzLWg5R0NKVi1KMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T13:00:00+00:00",
+      "summary": "DeepSeek新技术移植苹果芯片！Mac本地大模型加速60%  智源社区",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "硅仙人Jim Keller大赞中国大模型：成本降低5倍 美国AI没法微调 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rejBhQnFZNW9uUmFpZl9Zbnd1QzE1UEhFNE1MSWkxVlJhY3dJNTVYSEkzb1lYZ1ZzeHRDeWExUkhqMmhYaFNWSzFVVGFMaWxReUUyTzhBZXZKc1gzejloX2ZmOXNWVFRDa0QzME5oNmFUeVJh?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T12:55:09+00:00",
+      "summary": "硅仙人Jim Keller大赞中国大模型：成本降低5倍 美国AI没法微调  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "上汽奥迪E5 Sportback智驾升级：Momenta大模型赋能，多场景辅助驾驶再进化-人工智能-ITBear科技资讯 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XbmNyT0ZXLUcxbTUwME9OUzlJNnpjQ19mb2k4WVptLWdkNUdEc2xpckR0ZmxQN1dZNmlZNlN0elpGSl9aRGhUaGw0LXNzb2gySmh1alRGbTJDQ0tJNTYwTkJkSUtUZTFWN1R1OHdlR2p0Zw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T12:21:30+00:00",
+      "summary": "上汽奥迪E5 Sportback智驾升级：Momenta大模型赋能，多场景辅助驾驶再进化-人工智能-ITBear科技资讯  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "传阿里禁用Claude - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWnpHM243UEVMWmtqRDFtblRMeHV6TU0tOWY0OHpTRGlhcFJQXzREdXlDSUpwcVhubHpTTkd6ZE1HWVAtTG1HNTdYcmVudThyUkJpTjBscWFxc1FPMmc2NDFpazJqTXkwS1JLTXZZTDEya0RrVnJLdXdLVmYwRUxEbFdqOGdRT2hD?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T12:04:02+00:00",
+      "summary": "传阿里禁用Claude  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "第三届北京数字人才发展论坛举行，第三批典型案例发布 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rcDdKY1RNRGhrelNqSTd6SkdLX1BhM05RNHF0aXhnZnFYMW5vVXpMVDVLYmNfSHhJRUNwVkN4V0gybldwYWhBa1RIbHVkeVVHcHVLdE1zQ1JOR0JlTDJZMzh3elU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T12:04:00+00:00",
+      "summary": "第三届北京数字人才发展论坛举行，第三批典型案例发布  新京报",
+      "categories": [
+        "image_video"
+      ]
+    },
     {
       "title": "一兆瓦养活6万智能体！英伟达GB300碾压前代20倍|芯片|Token|Agent|系统|基准_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXpHSXNkQ1Back4xNDBtMGlIbUpWREwyNnpaMThoT0p2dm9tYzdMejJpdDZ1bDVyb3phT1BrVzAtTEFiSmRlOUdrTzhFUjNQaXVvcHBBREduYjNhVW5WWHhBdGZDcUg1NzFrNktIdzdBR2NKLUg3dWhtN2gtS1piQ3lkbHVWVVRrYkJwZG1JZm9JMTlmSWl2RA?oc=5",
@@ -24,36 +105,6 @@
       ]
     },
     {
-      "title": "AI出海合规卡点，这场沙龙全讲透了 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5SUZ3UHBSdnhJYUxIY0l2Y0JqTk0zZUtVN2VMUFRaRDFUTUJpVDdWblIzU1AxRTNCMUI0MmpKSFFsaVNNbjV1R3NhaVFpMFpOazNlaHhPYzB2cHpOOFVUd04wUXZRMnRCcUthcjJDbEpZOGVtcWhXd0ZBY2ZyTWs?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T11:40:04+00:00",
-      "summary": "AI出海合规卡点，这场沙龙全讲透了  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "能看懂工程图纸 沪企研发大模型填补图形AI垂直赛道空白 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3hhaFhYZTFNLWRZWWhFODh4TUpyRnk5bDVUSzRGbEszSmk4bWgxQXV2bEZNRF9LZloxT0pobHVpOFA0MWFDMlJnd0gtMHg2MUhWaWZ6dnh3TjI5T3JqZlFfMHotdlNMYTBIOEVscDNQaERScFVya0s0N1RIbDRGY2hrd0RUTG5Dc005cy1HYnU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T11:27:40+00:00",
-      "summary": "能看懂工程图纸 沪企研发大模型填补图形AI垂直赛道空白  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "穗智政·广州市政务人工智能中枢正式发布 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXFEQkVkQno5WnRvaTI0bnpadm1IRzFqNV9aMHg0bVdQTS1ZUWRidjhZa1hQanFnRWhNNzJhYXFlcjlkTVJMTnhLeUk4NEdQZm14R1VJNzRoSWtBSnd5TFZtWDJ1TDh2TFhwQ3hWWkpkZS01bTFWTlJrc2VoeF82LXBvckZSVHZRV0dHTmtB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T11:18:53+00:00",
-      "summary": "穗智政·广州市政务人工智能中枢正式发布  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "连 Claude Code 都开始砍成本了.... - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY015cXg1Z2pjd0dzMVZGdFNqRnlRSklwc1J1aWpFVTNXWEFRVjR6a3NWWXJPTGhzNFQ5NUNQdjVRNTR0eEpOajBZQ3lKMHlsQ2xxc3lOOXIxS1g2NjkwSmJxTXdGZmtrQkVLM3kzeUhmSFZlRzhFZ3F1c3AxV1pYTWlRblM0cHpqRW1ZeQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -64,13 +115,13 @@
       ]
     },
     {
-      "title": "宇树科技陈立谈具身智能的“ChatGPT时刻”：需达成两个80% - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ2ZsR1RURUZyQ0x5UkpMemZGX0tseUJDN1oyWUd4ckpQUjdjNVNwZW5kb25SMGllb2ZwVndVRUk2cGdlZjV4M3VLd0hvb19XQUhpNFk1UlduZHZ0ZFF3d3RjaC1KM3pYdWxxbUJNWThTbUJNVlZQb1JZT2kwSkhBbUVSaFJwNmtQV1VwQnlkOWUtakFGd3k1dDI1aS0ybXAwRFpycWEtYXpVLUJaUlJQWjNxT01hUjV2ZGtob3dDNW9EenNhWnNqcEFZMFhpNkIwOXprNWZXNXZrNkhuUnVPdG40a0dQNG05RjFjbWl1OXAtU2p4bzFOa21oZTVrSkV0OFhaWA?oc=5",
+      "title": "豆包、千问将同日下线智能体，用户需及时备份数据 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CN2lLUHJ0cUxQUmVReFBsS0c2N3VQTGNDTS10akd2OWkxVGNDOWpRbE9LX21ydGljR3RjMVdleXY5T0Q3N3hTc0V4cEcwa2hqNzNBbjZwSG95Mm56UE5pNQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-04T10:58:40+00:00",
-      "summary": "宇树科技陈立谈具身智能的“ChatGPT时刻”：需达成两个80%  新浪网",
+      "published": "2026-07-04T11:04:26+00:00",
+      "summary": "豆包、千问将同日下线智能体，用户需及时备份数据  东方财富",
       "categories": [
-        "openai"
+        "tools_apps"
       ]
     },
     {
@@ -84,11 +135,11 @@
       ]
     },
     {
-      "title": "【阜成门外】当硅谷企业也烧不起Token，中国大模型成新选项 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEpnQk9hMDR0aHk2VE1sTWZQbDF2UWtXalpXTk05alRSNEU4bWhWcWpCZzVQMWozSHppSVdwc1pzend4M3dJLVBPY2FIQlJ5OXo5ZGhTNGwxbjY5UXZ2aUF4cUFadkdtT2lwM1pFTm5PWTAzci1VbERiVHVSZXJlUFpuRWZaSE1JcWpjQw?oc=5",
+      "title": "穗智政·广州市政务人工智能中枢正式发布 - 新快网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sY194b2s2bWE0a09BZ2FySVRfaVcxS1Myc3RwVVRuWHJENXFibTFlcThTWGZKbGgxNHZCMkVkaFdBaFhpUHNJU0dYNkNkN2lmbzZmZVVn?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-04T10:56:16+00:00",
-      "summary": "【阜成门外】当硅谷企业也烧不起Token，中国大模型成新选项  搜狐网",
+      "published": "2026-07-04T10:52:00+00:00",
+      "summary": "穗智政·广州市政务人工智能中枢正式发布  新快网",
       "categories": [
         "other"
       ]
@@ -125,16 +176,6 @@
       ]
     },
     {
-      "title": "模型蒸馏对AI大模型智能体落地有什么意义？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YNXZJRHpEaWZXR2dUdjF6T2R0TEVVdXAwZWtIbXpkUUJpb2NTZFdjbVBCRFRYc0Y5Vml1SklVYWY1YjlFVWdZN2VTeFhXd3VHemh5MFBNZGxXZi1VMXd3T2ZoNjVvdVozOXIzZjFzSXVkX2g0ZXpGVWxEOFBYaTg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T10:31:22+00:00",
-      "summary": "模型蒸馏对AI大模型智能体落地有什么意义？  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "中国发文促进电影院多样化经营 提出引入AI智能体、卡拉OK - 早晨报",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nN0ZBb0VpU09ONG9nTnVjTmxvMTNSeXk2TGZOdGVpUDRDNVYyV3Rxc2RtNk52X2g0WEwybFYwVE1fTDhlckRIcHMtNHVaOFN5VjNvYWV4ZEJaejFkbEZpaHg4ZjlvZjhV?oc=5",
       "source": "Google News - AI(中文)",
@@ -152,6 +193,16 @@
       "summary": "豆包千问智能体功能7月15日下线 AI拟人化互动新规同日施行  新京报",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "宇树科技陈立：具身智能“ChatGPT时刻”需达成“两个80%”，2030年迎消费浪潮 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DQzJpdHljbXdpeGlSRFQ1eHdUa2dKQk5LT2JlQXBvM2hsVU5sZXVwNGJaRFdJRXRMeXU3cmUxdWx1a2hUcnlnaQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T08:27:00+00:00",
+      "summary": "宇树科技陈立：具身智能“ChatGPT时刻”需达成“两个80%”，2030年迎消费浪潮  财联社",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -175,11 +226,21 @@
       ]
     },
     {
-      "title": "豆包、千问双双砍掉智能体功能！7月15日下线 - 3DM",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmZnNySy1mVVJtRXMwV2pqQ2xhY2dzQm9yTzNZZXdwcW1kTEZKV3luTzJfNVk2bFZXRVAxYTl4U0hPcEY5UUl3WVVwdENnV0sxUmtqQ2lLaVd3R2JI?oc=5",
+      "title": "当硅谷企业也烧不起Token，中国大模型成新选项 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTZ6TENHWm9tUDA5ZUZjenJvbFRwQ0NDOFctN2xjSTAzLVozeUYxTTJQVXppbTM2QTVITDM2RGQ5SGJBUE9EcVIzXzJmeVZkQno3dTVnYjZlVmxzSDhHRE9xX3FyWUFpdThfN1NvbjdMTjQ5aUMtVlRLUTNTV1NoaUNSZWVQcDFY?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-04T07:43:49+00:00",
-      "summary": "豆包、千问双双砍掉智能体功能！7月15日下线  3DM",
+      "published": "2026-07-04T07:43:00+00:00",
+      "summary": "当硅谷企业也烧不起Token，中国大模型成新选项  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "豆包千问：智能体7月15日正式下线 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02aTNUeUF5Z2IyUUNITTR3bG9TeFhweXlxdDg0cWJtVWN1a2t3ZGlCb2oxdGliVmxrdDYyUjVQNWhIWHEwYnZCTXg2LVlaYWlmbUI4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T07:07:00+00:00",
+      "summary": "豆包千问：智能体7月15日正式下线  电子工程专辑",
       "categories": [
         "tools_apps"
       ]
@@ -190,6 +251,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-07-04T06:56:00+00:00",
       "summary": "智能体新变化！ 豆包、千问即将下线智能体功能！  电子工程专辑",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "看千问的也下架了， 是因为人工智能拟人化互动服务管理暂行办法，要实施了吧 #豆包智能体功能将下线# ​ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1SlJhOTljQjNMSkhDTUtFVjRybjhiNW9iTWdSRHpwZ251UExhQlFtVjZfSHY4N3JHWVdPMjBFaVhFeWJxQ2lWeVVLQzBqVjctRmtacy1WOTIyYldMTkdMSWJwZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-04T06:45:00+00:00",
+      "summary": "看千问的也下架了， 是因为人工智能拟人化互动服务管理暂行办法，要实施了吧 #豆包智能体功能将下线# ​  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -215,16 +286,6 @@
       ]
     },
     {
-      "title": "豆包、千问：智能体功能将下线 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmI3U0xHc1ZueWRpWW92d1Q1ekc1ZFNmdXRjRW16RWg0U3ZYRnpRZmJZQnZPdG9HOHBRbFdxMXllREtTRFo2cXNZbVl3bnJFZk5QYkxqeGNvTzhGeFpxWG81N2VsY0xXUzRrOXJBRWxYd2dwcEdKdHVTSlhsOGZoLWhJR2F5TTBPY2lybU5pZEh2eWFnM3BTNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T05:59:40+00:00",
-      "summary": "豆包、千问：智能体功能将下线  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据 - thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50dnBSU0piamx0c3RYNUhQQWZRZ2JlN0JsTlgxTm54c25fOFMtcTVNQ0dmZ0dzOFl5dmZKQWM4Q3ZCSXoyM1hfOHRXVUFCYlB1ZUNaWWVwWlA1TlFEUG9iaw?oc=5",
       "source": "Google News - AI(中文)",
@@ -235,33 +296,11 @@
       ]
     },
     {
-      "title": "AI走向“觉醒”！阿里智能体发现超导材料，已经开始搞科研了！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFNFYWtTUnloalV0X05PWUIyMEhEM0VmUGI4dG1JYkdHQmZtX3FwQUtIYm9lckR0TGxlMXkzUHVOQmRLUlNaX19aRzZqMk5yY053Z0pKRlhndGJaaDJlc3lsRkRXV2JqRXVSdGhGLWdac1ZCRkcxdldieUE1cE10SDdSc1N2MTBjWl9HTg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T05:22:29+00:00",
-      "summary": "AI走向“觉醒”！阿里智能体发现超导材料，已经开始搞科研了！  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "阿里千问：拟人化互动类智能体、用户自建智能体7月10日下线 - 凤凰网",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kWi1sN3VOZFZnQ3VYUnluLVkyN2wwSm1rcFlXLXhheVRMNHZjZ2EyUTZkUl95czJyRnZQYlVFSm5RaU5xZHcwaw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-04T05:15:43+00:00",
       "summary": "阿里千问：拟人化互动类智能体、用户自建智能体7月10日下线  凤凰网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "#豆包智能体功能将下线#豆包智能体功能将于2026年7月15日正式下线。届时，用户将无法新建智能体，已创建保存的智能体也将同步无法调用和运行。距离功能关闭，只剩下不到12天。 同一时间，千问（通义千问）也向用户推送\"千问智能体服务下线提醒\"。http://t.cn/AX - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mTkVlZVNRUUtubFFvbGUyR1Z6VTYwWTNKREhNb1hINmJLVjdhd3JPS01CdkF0WFJSQXpJQS0zYzhrZWsyanZfbmk3N1Q2VFRPWEMtTXdVd2VGU09rcFVYdTE0bw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T05:14:00+00:00",
-      "summary": "#豆包智能体功能将下线#豆包智能体功能将于2026年7月15日正式下线。届时，用户将无法新建智能体，已创建保存的智能体也将同步无法调用和运行。距离功能关闭，只剩下不到12天。 同一时间，千问（通义千问）也向用户推送\"千问智能体服务下线提醒\"。http://t.cn/AX  新浪网",
       "categories": [
         "other_big",
         "tools_apps"
@@ -278,42 +317,11 @@
       ]
     },
     {
-      "title": "黑湖科技肖哲：工业智能体本质上是对资深老师傅工艺经验的数字化传承 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWEVoS3BXdEpXaWFfMGlfajZTZ2Z4NWxmSjJCNGw4bGktd0lUOTc4MWgzOXNvY29HeWFWS3o0RjdCSWZKOVBaak92clVveEFUNXk1V3dlc3VDVS1WQmhkQjc5d1M3UkZwcS1Jd09vZUw4OVRrbVpERFV5RldzaHJMZ19XWS15ZjJ4SE9lOGt3VWI5Q1pJYUtPR2JYcjBiZ2c4aGk5SjhCSjlCOXhGbTZIVk8xTS1UMlNocllVVGJ5cTV4RGZJaVUta1VRVWdTb1ZCUnZKSGFTaklHcHZqejlwc0NHQ0VZbGVrNTlOSzZOZG1kNDhvSjNBM1FJMnlHSFN0eW1xSllfWUN2SE90aGc?oc=5",
+      "title": "豆包、千问下线智能体功能 调整迎接新规 - 中华网新闻",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LSVFiN2ZKcTBET3d6dmNvc0szRjNLSGlzZW9oOVIxUWZwMnNwZUhKUlhuQ21jT20zTWNjNGFwbFlkd0lRWlpWQlNESEdyam5DVG5WYjdRZHlRRUM3S1U5dHY2ZUNKaHlKbUIzcTNUN00?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-04T04:07:16+00:00",
-      "summary": "黑湖科技肖哲：工业智能体本质上是对资深老师傅工艺经验的数字化传承  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "突发！Anthropic拟全面封禁地下通道 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmpTYlZpM01mcmVmajJoRVZlTzd3eVc2ZDlKcjNVZjg1WDJwSmxOWXY2TnpCakdhc1VSQ0J5d3JyZTBreHZYcEYxbEN6RUJtbnM2SC1tRVRfWmxzMVV2R0Q5Um9qNUNwTndOMWcycFV4THVtYmdydXEzUmt1dDBHNTZDdGFUT2Jad0doa2x3NDZjNmgtS1p4WDJCVC1MZ2pNOG1z?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-04T02:18:59+00:00",
-      "summary": "突发！Anthropic拟全面封禁地下通道  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "被控进行模型蒸馏 阿里巴巴据报禁用Anthropic编程工具 - RFI",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZEEweG93cDhyWWZiZEZiTTNwNVVnQlF3YndVdTVlcTVWdXg3TDBOdFhsZDRaT2tqWFl5SGIxVTNmRDF0ZFhCRmRqNU1rNHduWVItQ0Y3U1hXM1BMOWpiemxoQnRFYmNHdHBZNEtHdWhIdHBTalpneFotblo3VzFuYmduMTVBTnhGZFRkTTNiWHlDVHJWbGJsRFVnN2FaZGVmZzFiTTFnWmU3Z0l3Z0ZsbXVudkVzOWp5SlBGZjdXRUpZaDUxM2E1Z082NVh0ZEc0cXZ2eU0wNGluX1QxbHhjLXZHZS1wb0pnX2p2TF9SeEF6WElkMnlsZmVJUk5yNF9CZHp2Vm5XY2E4RFYyVXBhemxncERiVU45LWxVWEZpSTVYbnZEMkZuLWlXSkI0cG8ya25BNEg4cEU5UWp2aGRDY1lIaEZEX3dYMmx2Uy00ZUdjckZ4X3VtWUY0Mno?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-03T21:35:55+00:00",
-      "summary": "被控进行模型蒸馏 阿里巴巴据报禁用Anthropic编程工具  RFI",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "豆包、千问同日宣布智能体功能下线，AI应用步入“收缩与聚焦”新阶段 - 环球网",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tMDZZaUFKQmpjTDI2RXF0TWxzZ2swNGpUUlNudTZ4cFo2ekJHelVQZkZXbEs2aGtpTHh5SXJocG9VaElUN1gzUEh0RHdlc244TzZhQXA4SQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-03T16:05:00+00:00",
-      "summary": "豆包、千问同日宣布智能体功能下线，AI应用步入“收缩与聚焦”新阶段  环球网",
+      "published": "2026-07-04T04:30:30+00:00",
+      "summary": "豆包、千问下线智能体功能 调整迎接新规  中华网新闻",
       "categories": [
         "tools_apps"
       ]
@@ -327,16 +335,6 @@
       "categories": [
         "other_big",
         "open_source"
-      ]
-    },
-    {
-      "title": "湖北首个交通行业AI大模型发布 三大数智场景畅行荆楚高速路 - hubei.gov.cn",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42dndFWmJRSEk5Tno1NWtUdkd0YjdOZGFBRmx1bVNlN1hleWhidlUzQnVjTG5XVzdLVTFGdlVDOEtoM05lcjZCQ0tzcW1VRGM5bGRFUHpCRFV2MmNlWVBLX0RiZGh1Z09fWnlpUHlab2drUjg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-03T02:16:00+00:00",
-      "summary": "湖北首个交通行业AI大模型发布 三大数智场景畅行荆楚高速路  hubei.gov.cn",
-      "categories": [
-        "breakthrough"
       ]
     },
     {
