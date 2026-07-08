@@ -1,367 +1,373 @@
 {
-  "updated_at": "2026-07-07T22:42:28.324807+00:00",
+  "updated_at": "2026-07-08T07:56:28.994570+00:00",
   "items": [
     {
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TazFIaDFSRk1FUEFvSHdwdmt6dk40UHlURFQ2R2VQZ2psVzJFYU9IWEduWmRPcmxZV3VQZWthWjllbGUzNkN2LQ?oc=5",
+      "title": "Claude Code安全后门隐患危害严重！工信部建议立即开展全面排查 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTJTZHI4a2x6Q0J5VmZvcWlKQ2FhYW5iTG1la0QxTGJGNmZPaFlYYl91M0w0aFJZbEl4ZnM2VHd2cHBMWUJ2N21nMTc0ZkVRbUJrR0dFZG41NjRYZk5IcENzOGlrazM0YlNNbjFrMm1RdFdyNjc2bUcxdWdLN2tKbXJYaGZqUWtT?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T17:15:00+00:00",
-      "summary": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more  智源社区",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Code用不了？DeepSeek上新：Deep Code来了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWIyZ00wdHFJbmhiZVhmdlpRZlpWeTJxUVlNYmRRV01pckdqT2pCZUJqemhVYWRlenBkZ2VHWjQ4RFhKdUtPd2xVT2NNUWUwSm52VTdqdVotMEItYThHN2x5Zi1mUF92NnF6NzEzYmtMUWNzVXJuYkVRN2lYSkFRMjJ5RjZzaUtw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T16:06:40+00:00",
-      "summary": "Claude Code用不了？DeepSeek上新：Deep Code来了  搜狐网",
+      "published": "2026-07-08T07:46:53+00:00",
+      "summary": "Claude Code安全后门隐患危害严重！工信部建议立即开展全面排查  搜狐网",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "新一代开源 MoE 人工智能大模型 GigaChat 3.5 Ultra 发布 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaXZhUkhTVnlDQUR2SXB6TnR0QjNRQVExX2tTRUQ1QkVXTlN1Qkt2N0ZGRjlsUGlQeGMteEdxdlhIUUhvbV9PWWZxUk5icGU2Z1BkWTZKd21kbVZQQS1MOVdBbzlwTGRvd0REVHpFU2NZbXctY1Q2bDd0UzRYUQ?oc=5",
+      "title": "人社部：到2030年人社行业大模型成熟完备 人工智能应用体系基本健全 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1VEenVOZXo3WjdPNjZLOXlLVEJuVDBzcXVXcjJtcEs4N1JNcXE2aHpEdTJ5NElpaFVUVWZfREhfc0NLTldlUW9iN0JBSTU1RnJNQ0JFYnVZUnV6TFJ1dURnSGdFcWIzTkU1MDJNbE42NE4zUURpOFVYaHRUdl9mcFNB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T14:56:29+00:00",
-      "summary": "新一代开源 MoE 人工智能大模型 GigaChat 3.5 Ultra 发布  新浪网",
+      "published": "2026-07-08T07:13:22+00:00",
+      "summary": "人社部：到2030年人社行业大模型成熟完备 人工智能应用体系基本健全  video.sina.com.cn",
       "categories": [
-        "open_source"
+        "tools_apps"
       ]
     },
     {
-      "title": "不动产AI落地迎来新突破！地产专属大模型一体机来了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2d2UFZPQ1E4T29fNVgxa2lCbUU4dkpieHI4UVJyaWp1aGd1UnVSSmVRZHU4ZVFieG5yRTJ6RkI2NE1adVNBMGxUbG1JeHpET1FWaE5MNkE0dXh1dDNpUUFLWDVlNi1KMmpBVmsxN1lyNVZ4ek8ySjBvbDQyMTRWYjFBeUlzYUdhdzZRbw?oc=5",
+      "title": "亚马逊云科技发布《企业生产级智能体开发部署指南》 助力企业构建以评估驱动的Agent部署新范式 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdVYlBhWkp4RXNhM0J2OGZOSGZNbm9SOTJuMkdNQUMxMjJJbGFRRmZGMTdSbkJmYnM3VVhyaDQzUExxcHVuY1RDY3Ria2c3VTFRalFOTUpYeXY0YXlkNTZhRVN6QTNoQzFhZ0FVNVJ0Zkg1RkNxNkJaNnlKU01zVnlpUm9ZVUpS?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T14:43:00+00:00",
-      "summary": "不动产AI落地迎来新突破！地产专属大模型一体机来了  搜狐网",
+      "published": "2026-07-08T07:03:29+00:00",
+      "summary": "亚马逊云科技发布《企业生产级智能体开发部署指南》 助力企业构建以评估驱动的Agent部署新范式  搜狐网",
       "categories": [
-        "breakthrough"
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国部分AI大模型比美国便宜90% - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0JsdEJlVEFaODM5OUg1ejB1MVd3RUtmM3FtSGRlRFhOMjA2NXlCQUo5RWo0WlpmeFFZNDlETEQ1SXZYLXRidk9XTlNQem1kQXR1TkRSeW0zenI5UFBWNWU0Q3pYTzBFX28zTDAyVlFuZUU2THJJYXRLMGxHUjZnaWhUaXptaDk5U25KOQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T06:57:00+00:00",
+      "summary": "中国部分AI大模型比美国便宜90%  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "国内首批接入！飞书深诺打通ChatGPT广告投放渠道- AI - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00ZDd5VHJnaE11UE1FZ1NXTW40RWFHQVlIWTVqcXptUXNHMGRadjRSR20xbFl5QWNmRzVRZHoydFVuektEQ2VNUkFDSGhGLWlFNHZ3LXNR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T06:34:28+00:00",
+      "summary": "国内首批接入！飞书深诺打通ChatGPT广告投放渠道- AI  亿邦动力网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "从工具到伙伴，英特尔以混合AI推动智能体PC“落地生花” - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsRmhTeXhTMjRaWDExZHdGNGdLczItbWhFWVZDaFVjUjdBRFJyTjRrVkFiSTNRUTZVM0QyZXFTeXBQdkt5R1BtdzBMaGpKVzlOdEYtMlJPLXBBaE5ZSzB6aEdWWHI4UFNCdDZwUks2Qm1xcG1xMWp2SS1kMzZmcGs?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T06:25:00+00:00",
+      "summary": "从工具到伙伴，英特尔以混合AI推动智能体PC“落地生花”  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "工信部发布风险提示：Claude Code存在安全后门隐患 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZkVFbFRhS1d0X1RIZzFYSTRIa3VYWVFzUUE4NDJFUlVmM2NfQ283QTdqcU1NdkR5TU5lTjBqV2RvOUcyME96SXctVWZyVERRbnFUV1lkZ19KbEE3cWFmUkR3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T06:15:26+00:00",
+      "summary": "工信部发布风险提示：Claude Code存在安全后门隐患  观点网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "工信部发布Claude Code风险预警 阿里已要求全员卸载 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2ZSZ083T0tqMDhUcl8wdHdDVDM0czZVajd2NkZvRGduR0NMenFlZnRkdUxpbzREeUhVSEpaVEdISUh5bkhISlNKZDFnRHA3dUJsdXU0LXRJNDM0RExQQTBLU0pLRGZ5c2ItNkticGFYNlItR3pIcUVVb1dIc3plOGtqa015QUxn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T06:09:38+00:00",
+      "summary": "工信部发布Claude Code风险预警 阿里已要求全员卸载  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "工信部发布关于防范AI编程工具Claude Code安全后门隐患的风险提示 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0NSVUw0S1dTcy1WT0pIRFBScFpVd21Kem1NcThrZks2dVVBUWVZVnNGQ3pRbnljYWs0eWNtSWY0bWZJRlZaQXV1ZjZhZG96RnUwdmtIVWxlaHZWVmYtb2dEXzA3NGtzcGtINTF5QmZkOWR2WDQ4LXVlRnlNUnRvbEhB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T06:00:38+00:00",
+      "summary": "工信部发布关于防范AI编程工具Claude Code安全后门隐患的风险提示  video.sina.com.cn",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "工信部提示AI工具后门风险|工信部|claude code|风险提示_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HdTVoSFN0SWdXTXI4YmM2dlJ1bWd3X05tdUtJVHpfeTdUbDExUndRR1JDUnBUUE1qSFN4eHVxSHR5ZWhucWVFSGx3X3lCdTZXTzYzZi1pYTRlYXdHaVNjQmJoSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T05:56:00+00:00",
+      "summary": "工信部提示AI工具后门风险|工信部|claude code|风险提示_新浪新闻  新浪网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "不是概念噱头！英特尔用三招让智能体PC真正人人可用 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMENlbi1kQXJleFpZYjlvdTMtTnNKWFdqZmwzOVo2cVYzdjJyMG1oSzN1Z2VIaTRKOW55Y2MxaVlDNWNZQUF5M3BSOVlORzFkbnNDTHBPa3h5aTJqcEl3OXQ5SGZQM2dMQTBGNUFadXh0QThKNEZYZXhZV3d5UmlmMkY5Rkh3cW5q?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T05:25:22+00:00",
+      "summary": "不是概念噱头！英特尔用三招让智能体PC真正人人可用  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "离席不离线，Anthropic Claude Cowork 正式推出多端应用 - shenzhenware.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tY2hrMkkxLTh2Q1NicmlNSWx1dHAzRU1oLWtiYkdtQzFzb3FhSmVIN1VVemZDZXJGLXVRbGctd051TEl0UGl4N2dkYVZ6cE0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T05:02:00+00:00",
+      "summary": "离席不离线，Anthropic Claude Cowork 正式推出多端应用  shenzhenware.com",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "不押球队，开始押AI？2026世界杯被大模型盯上了！ - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZjJWNTVIY1BzWllaazh0WnhXSVJuX1RCUUdtWGZkNFdjbTBBUW51ZUhFb0ppNy1idGhGbkx4ZXg3TXBJOWZqdDdEMjVVcXR4V19KNVl1SWpGdmFxRkE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T04:42:00+00:00",
+      "summary": "不押球队，开始押AI？2026世界杯被大模型盯上了！  thepaper.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "知道创宇张永波：AI智能体进入“行动时代”，企业生产力正在被重新定义 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3hSU1ptVWpaeVQ2S1BybUpfMklDbnQ5czVvRFlycllSbUdibl9jVG1INFhsTUxpV3FOUnRJVEVCNnR6YUVBUWZaVThiVmRUV3Uyd1RvZko1bmdpelRIM09sQVJISTF5a2plck03bkZYeHk0VnVKV0VzVWxTcHBTb0FwQVBSa2ZDRktjbQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T04:40:10+00:00",
+      "summary": "知道创宇张永波：AI智能体进入“行动时代”，企业生产力正在被重新定义  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "不动产AI应用进入场景化落地新阶段，深度智联发布“地产模数通”大模型一体机 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaF9OSlpTNDdZRmNqZldpV1BWWVNMQnQ1amRoRzhHSlFQQTYxZDNPWkttU1MtZklnUkozRDNOcVJyc1RqQ0VsVzlaOEx5WnZCbDNIN3Z3SnNDU2p6LWNhLWpyVFoyZjh0YzhaWXZJSXJPcWdudU1OYTQ5UGJnVFBlOGZZcDRwakZ5S2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T04:28:27+00:00",
+      "summary": "不动产AI应用进入场景化落地新阶段，深度智联发布“地产模数通”大模型一体机  广州日报新花城",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI周四将发布GPT-5.6 Sol人工智能模型 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlFBUDU4UmREQnFZcWhVOUtTM1Bzb1p5azN1ZjVHa1lkN2ZvU2lNcnYzcTBIUXdCbEw1YmNJMnlrcjhkYnZLcHVIRHpsU09NbmhOTFBDWnllMnd5SHJBajZFbXI2bFR3RTRMajVoV3hSZTVWbWFPSHByUGVzbGVUbllR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T04:21:24+00:00",
+      "summary": "OpenAI周四将发布GPT-5.6 Sol人工智能模型  video.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "深圳发布15个政务领域人工智能应用场景 - sz.gov.cn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ELWpjNmwzTFFEaW5jYnRJT0lmNHJKTjNtYXdTNjBBN3FpLUs0MjdGQVNRemdFM2pIVGNSMWNoZkFlMUI2anc3U1NJVjEzTkdCM3dadEY1RnBBQVhwLVBNNUxOS25yOG5lUHpXOFZhUDBZOUZhMnlz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T04:07:00+00:00",
+      "summary": "深圳发布15个政务领域人工智能应用场景  sz.gov.cn",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
       "title": "中小企业借助克劳德大模型停用Salesforce - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNc3hSWFB0Ql91ZWFSQmJSZGFNYkFxRGZDYVFjVHFtQ3NKNnRUcHFhanh0UU5rc1d1MWY3SUl1TFBHMG1RZ3dkMGZsc21iZUdwQWRXOE1pY3ZZT1hWZlo1X0tjRXdtWFZaNkdRY1JiV19pR3MxaE45bHlYcVFVVWNHNi1CNGZwVmFxM0g4QUtnS0JvRE1VUU1lYXdpbnJ2al90dUV1aS1nZ1A5TEN1b3YyVU9ORHZKUWNIQ04xdkMxdkdGd3lDMlN2MXlEWkFfdWYzc2NqVXl0aVNvaUNFRFEzMlhudEoyQW96MFpEWGFtTFJjeHBncVd4Nk1MaUZQWWhGSzZvMlFJb2ktUDRCS1ZXQnVxV3lvNHIwTUtPT3hHSUc3QzV0dFpB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRjMxcWM2Z2JBYWc0TkJVMGQ1eU1xMmNEYTI4X3djbTBqWDhZWmNNS0xReWFnNFBJeWdrcDdTdWo0SFY5bmw2NjNia2ZCZ0xrOTZkSDkwQW1PYVFFYTN4MW0zWkQ0OHE2S2libGVQbFNtUDRmYXJWNEtoOXEtMGdHSFpyWHZlaEJZbjkxTEJ2TTRRWVVPdUktbllNbWluQ0d3N3BFZ2xlbjhmb3RmMnFrbklHLURQZ0NPQ2FTS2prME0xXzNnR3EzSHFQVExUalotYUhQbEMwd1VXYXZvZWI0SFVicFJObjV2dHlOYy00MGVhUERHaEs3RWhDOUpKWGc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T14:20:35+00:00",
+      "published": "2026-07-08T04:03:25+00:00",
       "summary": "中小企业借助克劳德大模型停用Salesforce  新浪财经",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYOWp4aXlPNlJqY1JOanU5YzAtdXFmLWdvb0ZmN0tTZnpzYXJQRmNMdDBOaG4yRGtrWXp6alBVYnFaTm9FZElqeQ?oc=5",
+      "title": "提示词压缩竟成大模型新漏洞？港科大提出黑盒攻击框架COMA | ASE 2026 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd1V3LTFUNDR0WTlhRzdXRFQxQUQ1cy1MTWV1U3RiVERwQml0X0RBU2F1cTNDdVg1MnpKUHVZbDluR2ZhU1o5ZUFRTkF2b1Y5UEVhMV9uaHprUkU5NjRUbVExX2ZhbTBIY3AzN1FBOF82ZjhsU3FWVWIxa2Z2Qk13bFRGVW1pd3Zr?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T13:00:00+00:00",
-      "summary": "真·QQ飞车！「电动版F1」上海开赛，Gemini在线解说  智源社区",
+      "published": "2026-07-08T03:53:58+00:00",
+      "summary": "提示词压缩竟成大模型新漏洞？港科大提出黑盒攻击框架COMA | ASE 2026  搜狐网",
       "categories": [
-        "google"
+        "other"
       ]
     },
     {
-      "title": "Claude Desktop Linux版实测：与竞品相比表现如何 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3JJYmFLdFB4bGNkVlRpTXpzYzhzSy1Cajg2R3BRMldmUHlUWklmVTIya0pHN0pheEI4V19GRHM4RGtIa3kwVnFaSEhuRWd1aFAtOEpucVJpaWVHRVRtZEY4WWFzN0xYaWg0TDFEcXBjSE9WT0cwMTd3akt6cnk4S1pXYVhtaC1X?oc=5",
+      "title": "京企智谱大模型迎重大突破！探索人工智能“弯道超车”新路径 - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Q2JWRlJiZ1hZUWRVa2tqWTV3WjlnNVNxS2I3TmlXdGVkQkJpQnZyN05GTFVnZDIyTWQ1S3FibVBybWtaY3lGRnN3U1pfejdheTRRRDBYcUQzRk01LWc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T12:51:00+00:00",
-      "summary": "Claude Desktop Linux版实测：与竞品相比表现如何  搜狐网",
+      "published": "2026-07-08T03:43:14+00:00",
+      "summary": "京企智谱大模型迎重大突破！探索人工智能“弯道超车”新路径  京报网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "今天，Claude Cowork大更新！合上电脑，它替你彻夜打工 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CdVVtanRWSm42T0NramlTdDlHU0U3NGZnQnZNY3ZTM2FDaFdWRExfTndKRU1RR0FBeHEtZnZ3b1ltdE1heGpGd1RIUjlSVnFFdnFR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T03:30:00+00:00",
+      "summary": "今天，Claude Cowork大更新！合上电脑，它替你彻夜打工  电子工程专辑",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "阿里云发布AgentTeams与AgentLoop：破解企业智能体规模化落地两大难题 - 飞象网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwYUtwV3pMQXJnZV91bk9KN2J6Nm9LYWs0Z2VyaGNsdENTdkZ6WmZKVkh4M2tpVFJQd0lxTFlCUXk3bXlWVGsxUkc0TQ?oc=5",
+      "title": "2026世界人工智能大会暨人工智能全球治理高级别会议新闻发布会上，国家发展改革委创新和高技术发展司副司长王若蒙介绍，2025年我国人工智能相关产业规模已突破万亿元，预计2026年增速将超30%，一批AI企业成功上市融资。#世界人工智能大会 #AI #人工智能 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTl0UF9vWUp1ZmJ5X3NTNmhqZGw2V0hUemt6UXRhaWZQR0pZaG9jMlFJQlhTWWEyeG1ZM1ZaZUtXcHRvTHo5R3Q1OXgtZlczOEhXcHFhOGs3NHlrNk1lMXNBTFRBdFNtVkY0bjlGaVhUT2dvVFhuUVIxQ2hkZ05TYV9kTnh3UmY2?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T12:49:22+00:00",
-      "summary": "阿里云发布AgentTeams与AgentLoop：破解企业智能体规模化落地两大难题  飞象网",
+      "published": "2026-07-08T03:09:05+00:00",
+      "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议新闻发布会上，国家发展改革委创新和高技术发展司副司长王若蒙介绍，2025年我国人工智能相关产业规模已突破万亿元，预计2026年增速将超30%，一批AI企业成功上市融资。#世界人工智能大会 #AI #人工智能  搜狐网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "AI智能体“上岗”！欧洲卖断货的广货空调这样炼成 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXlmRGxQSHBXdVp1TGhaVVRTbzByekZjWVBRTXlkM0lVQV91LTdBSmUtY3B5WVFUV05jcGVWTjFkem1GeXl4VDQyRzQybXpWWWpyOUxtQUN0ZFpGV25qWTJZRHA3SGJ6d3dhaURvTTNvTnVlVlA3Y0ZGX0NfVU9IZm5pZzFJVWxra0NVQg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T03:07:00+00:00",
+      "summary": "AI智能体“上岗”！欧洲卖断货的广货空调这样炼成  21财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "大模型自发涌现意识了？！Anthropic最新研究震惊全世界 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZF84dE9Kd2ZySDZ4aHRveFNBbUk0ZmxEMEU4UXJGdllwV0I0Z2NGY1QtOXBjNWhtQ05KNVg3SkhQWUlKWmQwQzhUWENuME83WENWVmRTWkhQNU9GdjBnTUpmYkl1Zjl0bmhDTWloZFEtTWtGZVZqYzBNQW5xc2MtMXozSlEzSHUxUGVXQw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T02:58:15+00:00",
+      "summary": "大模型自发涌现意识了？！Anthropic最新研究震惊全世界  搜狐网",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "如果大模型写“给阿嬷的情书”，会缺什么？（文化只眼） - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVFfUnMyY0dDWUYxdXM3bHprMXZEMFp1ZkpYTGVWSFFaQnV3X2pRUUxZVkc3MkRBbER1b0dCYWl3MHA2S040STRKN1NvT1VWNDFubkRWSjNMeGItWXNDVW4weDNhNXUtMzZ1dURuWE1PSVV3YmFHbW9FZzVkZ0F6Y1FnZ0FJMGxIZmszMg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T02:32:01+00:00",
+      "summary": "如果大模型写“给阿嬷的情书”，会缺什么？（文化只眼）  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "基于智能体的车载智能场景重构 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wYkFHYW9zd2Nic3NvaEpWMlI4dHFXemF4VW91dDVHbFhkQVpjY0RwRVR5TFUtQndKeDJoVDNWU1NoT2VMRmdNUlJLRWdPVjdOTnFB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T02:00:00+00:00",
+      "summary": "基于智能体的车载智能场景重构  电子工程专辑",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "企业级智能体推荐丨九科信息bit-Agent拒绝\"隐写术\"风险，数据安全才是企业级智能体落地的第一道门槛 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZ2tqN2VGVTZRdzJ3dU9NT3NrcTZHWmFVYUtNOG9xMkhPandhSzNYVnlZSDE0bk1PNWJWblJ1b0VkRzlVcnVSbUlFeWp2UHZoMUlzXzltR1BoVEtzVnNfTXFtS2pkVm95dnRoUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T01:40:07+00:00",
+      "summary": "企业级智能体推荐丨九科信息bit-Agent拒绝\"隐写术\"风险，数据安全才是企业级智能体落地的第一道门槛  中华网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude的脑子里，也长出了一块「意识」 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PVWFCa283LV9NcXBGTzdQb2dGYTBVaVhXWExCM0ZjQlpScDRlNmw0ZzJ5R1pBdWpadDF0WUU0TmJEMGQzbVRhVA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T01:30:00+00:00",
+      "summary": "Claude的脑子里，也长出了一块「意识」  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "千家早报|英伟达公布下一代CPU“Rosa”及“Rigel”内核；LG发布联名款AI智能便携音箱XBOOM Stage 501——2026年07月08日 - 千家网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91eHkyUVJkenJLaFNPLTU2SU5OaDd6QUFzTWdkNld2bEVVT1dFblg1Z1NkMnlsUWMtWkdqOWlCZWFPUkZaMUp6a3BxWXpXSlFMTzdnM1hBWDFwV3RMeVR4WA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T01:17:10+00:00",
+      "summary": "千家早报|英伟达公布下一代CPU“Rosa”及“Rigel”内核；LG发布联名款AI智能便携音箱XBOOM Stage 501——2026年07月08日  千家网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "外交部人工智能事务协调员出席2026世界人工智能大会新闻发布会 - mfa.gov.cn",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaURTd3pReGJGU2dWelNfRUxxZEQ0OXJHYU5FbjVYMlRkUVVIOVE4dElrX1NjX2lkMHZaZ3lHdm9MNzlpeWhkakplS0lZQ3VnLV8tQjdwWXNKdU5NM2JFYXZKWURENFQtcUtSUE9FcWZSTGR6ejdzV3ZsZnc2OXhtSHZCNXU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T01:08:00+00:00",
+      "summary": "外交部人工智能事务协调员出席2026世界人工智能大会新闻发布会  mfa.gov.cn",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "超90%使用非代码开发，Claude Cowork扩展至网页与手机端 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jckphOFJaQkI3cm1jOWIwX24tbl9yWmdrOFFNbG1jX01XRHN3SkpLbkM4QUhFTmt1azM2R0RzS09VMXYxaWU3dg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-08T00:13:24+00:00",
+      "summary": "超90%使用非代码开发，Claude Cowork扩展至网页与手机端  凤凰网",
+      "categories": [
+        "anthropic",
+        "local_model"
+      ]
+    },
+    {
+      "title": "Anthropic宣布：Claude自己长出了意识 - 文学城",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fY1h5WGR5Z2JxdTlEVWdnemQ4VHhNbGptZEdSdDgzMWRGSHROTGdsdDhHdllYUHAzMWVvak9EaUlxYUNSRndMYlZzR3Z1bDNtZF9UMmVtLWdlRDQwQV82RDJDQlJTWUNm?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-07T23:56:01+00:00",
+      "summary": "Anthropic宣布：Claude自己长出了意识  文学城",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude Fable 5续命5天最新省钱攻略 刚发布限时福利速看 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WVzM1OW9sN0RXbTJrSmdGVnQ3emFpRk1kWWwxT3B5U2pGaFRNeDdON183Y0VNQkZmMTc1d0hfX1REUFZ4MnFRQlgwMzNoY3JxZGhR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-07T09:46:00+00:00",
+      "summary": "Claude Fable 5续命5天最新省钱攻略 刚发布限时福利速看  36 Kr",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI发布新版GPT大模型 仅向特定用户开放 - 央广网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SSV9wampjQXpIaGRRZHpMcmJ4eWVHbk4xYWhoaFk0TTFRSFhFeEQ0TDZVSko2WktpYTBSQ0VkYVlNRFh4Sm9KVkszeGJrQTBHQjA3ZkhpUFJuNzM0V0hkbWF0VEg4eU1mWDF5MHlFV0ZPdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-28T07:00:00+00:00",
+      "summary": "OpenAI发布新版GPT大模型 仅向特定用户开放  央广网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
       "categories": [
         "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "我暂时放弃Claude Fable 5，坚持使用Opus 4.8的五个理由 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXFTTHU1TUQzSXJ0NV9QVnJVakN4aHFtMWlqeVRqWS13NVNUWkNIRmFhUEYyUGRzT254Y1RRTTVlMUdhSFUtRl9EMEJkTHg1WnlMcDJrQ3Y4eUZmNkNYQkZMOHNWdmJMdFdEMkFJS3lVcm1OTkN2MUJEUmh1YWxKbG1Tc2d3MWM0?oc=5",
+      "title": "Anthropic发布Claude Opus 4.7：金融分析能力登顶公开模型 软件工程、多模态全面进阶 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlV05PYU1WQ3BtcDZhLUFnZGxUR3pSellWc0dJV2lmd3BDaXFyQ21FemVTZklzbTQ0UVRpdkFhaG9FaVpST1ZzSA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-07T12:46:00+00:00",
-      "summary": "我暂时放弃Claude Fable 5，坚持使用Opus 4.8的五个理由  搜狐网",
+      "published": "2026-04-17T07:00:00+00:00",
+      "summary": "Anthropic发布Claude Opus 4.7：金融分析能力登顶公开模型 软件工程、多模态全面进阶  财联社",
       "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "深度智联·地产模数通——企业专属大模型一体机首发，系列新品再度集结 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXA4WXBPM3g2dEZyOFREMUFhaG15bWtPSnZqUG44OFpZSjd1WnJDTVIwMjhHQnhYX2lfXzdFcjhTaE1oM1h5am5tOVZuLXczYTRKYnozZE5ScGR5SlV4Vmt5a2Z5aERHTHY5MTNoQXU5a0tmNDlrd2NrWENCeFFMczdra04xTnBy?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T12:45:40+00:00",
-      "summary": "深度智联·地产模数通——企业专属大模型一体机首发，系列新品再度集结  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "北京红绿灯用上AI大模型！试点区域通行体验明显改善 - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbDU3ZW1pMEM4VjJ5T3hBbHhVa0FmQlBkNVFiWlhOMVdaSEFhaGRMYjhRSjlHVFh3Vkhzd0IzTjdvUWFpejRZWElkOThoNHJCNlVWdlN4UDk2b18wSXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T12:24:46+00:00",
-      "summary": "北京红绿灯用上AI大模型！试点区域通行体验明显改善  京报网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "诺奖得主和Claude联手发论文，结论是：AI时代更需“笨功夫” - 麻省理工科技评论",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WYUxZeUdnZVo1Rl94Z2pGS01nQ0Q2eUljM0pkMGRDSkcyRTFEY0thVDZmWkEyWlBFYjA1NkZvajczRzUzTnpSQnZBVTlQWHlhdkdlLTNCbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T12:09:57+00:00",
-      "summary": "诺奖得主和Claude联手发论文，结论是：AI时代更需“笨功夫”  麻省理工科技评论",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "英特尔以微笑曲线诠释智能体PC价值，推动“人人可用” - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VTZfYl9uSTdxLTNxSzlmbXdMQ2I0dWxkMmxHTjVMSlNtaUl4VFRiVVZpb3JJOVAwN3AycHBxN195NVIzSHZpUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T11:52:42+00:00",
-      "summary": "英特尔以微笑曲线诠释智能体PC价值，推动“人人可用”  品玩",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "7月15日，豆包、千问全面下线智能体服务 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXRWeDJHb1p5RUdBQUdTR3ZTYzh3aEVZZHBrdGZ4UTRTRE1nc0RGdWk1UzQxT1hfaWwwdkhCSDZDWVdDYVd2TV9qSEJUZHJybFlpZjhtWVNFcWZuZzZJb09yd3E4VzZ0S1ZnT3MyQjBab0JyWUM0dzU4NUF0Z0s0YVYwaVhrNy1INmZ1bw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T11:24:00+00:00",
-      "summary": "7月15日，豆包、千问全面下线智能体服务  21财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI 原生知识库不是资料库，而是企业智能体的工作接口 - 53AI",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqbkotTURDa3BuNVp6TFNXbFJCZ2hkeTI1ckxsc0lnMEpHT0tibU1MMkhtNmhRZUJlZHJMeFNBRFZheUU2dGw1bTZCMEpxakFMemNYdFB0MFMtYmw0b3oyS3VSdWFRLXNf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T11:07:01+00:00",
-      "summary": "AI 原生知识库不是资料库，而是企业智能体的工作接口  53AI",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "成本优势显著，中国AI大模型正逐渐获得美国企业青睐 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuWUF6d1VIR016UmtaU2FWV0UyVG9MUi10eEVqZzk3U1pWOU5pZVE0LUhaR3hscXBuQjNVVFJRUGZfQzFyTDFoTEQzdEc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T10:33:36+00:00",
-      "summary": "成本优势显著，中国AI大模型正逐渐获得美国企业青睐  凤凰网科技",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Claude Code惊人身世曝光！竟脱胎于安全对齐，Boris：才完成1% - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUR4UElkLVJORWxrM2ctMmtjQXhFQmxJUW1CSlFLcDZhdzg3ME1iRlBIOEFYSDdGdzY1LUVvZmFxYUwyWFduV1g0MHZDREswVm0tTDRfaHZsRnlyQjNsVXU5NnJST2FwUURQTzJDdVpvLXp2Y1h0cDFQblpmR0piT2RJN3FUOUpz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T10:30:05+00:00",
-      "summary": "Claude Code惊人身世曝光！竟脱胎于安全对齐，Boris：才完成1%  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "WAIC2026：后Scaling时代范式重构，迈入智能体生产力时代 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjNsYzNxREljR1FESC0wNGlLaU5ZSW9ZOWN2TjFXQ0x0S1BTR2k0TGhILW5XZXJOdWhSWnNIT2FlV09nY2F2OFVTRTJKX1NZZGhBYjJzV2NMLTZ6TFNzck42dVpzTmd6dnVZWElWQ2c1eGxwWEhNdjIzbjEtYXRDaDhQYlo4a0FZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T10:07:00+00:00",
-      "summary": "WAIC2026：后Scaling时代范式重构，迈入智能体生产力时代  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大厂“断舍离”：豆包、千问、元宝为什么集体放弃智能体？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVBacnlaS3Z2MVAtRk1wNEJCTDNIRWdCRVAySlc5RVo0TVk4TEYzYk82c29wWGdZRHRmZm5aS2xvdkJPTFJWb1VOUGx0MDZBTnJycVdBTUMwT2VTc3p0b085RFE4dGEweWphZnNKN2NwU2RuWThrT2xNZnFuUEhLUC1ZYXhDS3dX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T10:04:16+00:00",
-      "summary": "大厂“断舍离”：豆包、千问、元宝为什么集体放弃智能体？  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "微步AI智能体安全治理方案入选《2026 AI安全产业研究报告》 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN1ZtRXBqYVQza1NhUTZLOEl3Tko1MERrWkhJNXdWSE9xS25nazktOHFXZnZ2VlJKQjR5dzBPalBFSTkxNDNtSkRGM0cyTUtYWDRfMlVvU1d5R0g5cWsxdGNzLTNnM2kxTFRtNXh0M0FJQ1dENnctM1hNY0FTLUxlNWpBRFlhU1Rw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:57:26+00:00",
-      "summary": "微步AI智能体安全治理方案入选《2026 AI安全产业研究报告》  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证- 产业链 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tQ0pIa0VWdFJMeVpMN3pFT0JodzNOU0lqUW10bS1Ya2tqeTN0VUZHX0RkWlJkNUJyVkZVc25vX0N0TFdvTnZ3MVdSZTB1VW45TGZFemJn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:56:11+00:00",
-      "summary": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证- 产业链  光通信Pro",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "AI高端对话：智能体“凉了”？热的是概念，冷下来才是产业 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VT3RCUUhvaDc1eDV6SVlpWTZ5VV9SVnFKMFBFVzBxVV81aXpDcHItQlVHVHdJWTZQUVZvV1FlT2kyQUJFM1dyUw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:49:20+00:00",
-      "summary": "AI高端对话：智能体“凉了”？热的是概念，冷下来才是产业  凤凰网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "创新者说 | 黑湖科技肖哲：工业智能体正在进入制造业核心决策层 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ05LXzNyMXc3Mll3cXBYamx6a09yc3ZQT3VqeWVXa19Vem96dG9iR25VMDVRYnhMZy1LNzdhUndkV1ZMa0ltQXNWVFpGSEgzUmY0Y3RKdFJIMzA4SkIwbUh1OEE5NkNGcW9pZlExa0NGSzdQVjZKcS1IU193VUVRc2g3aDFGVmg1aWVLdA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:48:02+00:00",
-      "summary": "创新者说 | 黑湖科技肖哲：工业智能体正在进入制造业核心决策层  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "我的科研搭子，科学智能体走向实验室，50份“AI研究生”提案，12支队伍走到最后 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGNWhiejdQQWd0YWw0THltRXVNeUw1dkZmUGlTR0thb2FXWWZkcUdDRlBXTkNrejdaTGh3bXJqMDdmUE9UY1ExVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:40:00+00:00",
-      "summary": "我的科研搭子，科学智能体走向实验室，50份“AI研究生”提案，12支队伍走到最后  智源社区",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "刘高畅：只要大模型的架构不变，存储就将“永远”短缺 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGU5TE1Ld1pRaFlxVmgxYnpQeVhzbGJSdFhpSF9zZjNkMEtLUG5BNlBvMVliSzRNQzl1QWpzYkI5Y2ZQVkhFSkVuNktMVzdqYjhYNmRKb25ObmNuTXI0d0p1aU9wWUlpbTRrVUkxY0o2U08yMHZJbUlwbDc2R3B2QjZkVTA0bmZ5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:37:03+00:00",
-      "summary": "刘高畅：只要大模型的架构不变，存储就将“永远”短缺  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "阿里大模型团队到访玛布山科技：伽玛OS进入头部AI生态视野 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zLXRWRWZLdlgtcXhfRExodFFOZGt5dnRNM3Vpb0ZsOGEzczktcy1xYjgyVjlKX3UtNU1MMldBazRaRlVMLS1NRDJ3ZmlJalpP?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T09:34:14+00:00",
-      "summary": "阿里大模型团队到访玛布山科技：伽玛OS进入头部AI生态视野  凤凰网财经",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "中国大模型在美“悄然崛起”！企业惊觉：“极致性价比”更诱人 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBEYmdxdEV6Y1JFdlBQMDJ2cVRaY0hMMDQwWW9DbUx2Ujl4anhZb0gtbjFhMnlfWTRKWnNzTmVnQk5FQ01XRXdRTg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T08:54:28+00:00",
-      "summary": "中国大模型在美“悄然崛起”！企业惊觉：“极致性价比”更诱人  财联社",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "缩短48分钟！Su-Flow大模型重塑江苏人的铁路出行 - 紫牛新闻",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YmwzYWZrbjV4TDEzYm9oc19qNXUxTXAwN0haRnZtSUlnZTlxRFhSZlpPanpvZnRuQmV4d1IxM2F1dmxDVDFYWGJCc2pVelJfRXUyTV9wclVVbzNFUmlJQ2NGeDVIWFZI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T08:46:00+00:00",
-      "summary": "缩短48分钟！Su-Flow大模型重塑江苏人的铁路出行  紫牛新闻",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重 - 创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMEtzOFpXUUlYTjNoQ0RpOHcwbjBiNUtJMWVOemtWd1FsN2Z4aE5oMVVMSFZ0VHh2b2dkLVE2WXEyM0dFWmg2S0tqQk1FOVdl?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T08:41:40+00:00",
-      "summary": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重  创业邦",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」 - 雷峰网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zb0luWkpFMTVQbERrNGRnOFRYYzhJQ3pnN2tZRnNRMG5KV1NlaE9PSjFaS092Sk55ZTF3TC1Ra1VzeDlxLWdULTR6S0gyc1dnTDN5SkJYX3FyMW5IOVNCQzBrMzJRRTZJeFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T08:40:00+00:00",
-      "summary": "大神卡帕西又一构想落地！Claude Code + Obsidian 爆火：创建你的「第二大脑」  雷峰网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "C端大模型，只剩\"工具人\" - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiR2N5MThheElVWmlqWTdhWHVDSlZXMXJZMFNyRi1uejdvaW9GS3RtUmw0MVpQTEd2WHBQU1gwWWJEZmoxVk5jdzhDMTBnZWEwcUEtbnI2MG9OZ2FwRmRmMw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T07:58:00+00:00",
-      "summary": "C端大模型，只剩\"工具人\"  thepaper.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "“全球大模型第一股”智谱，发布澄清公告 - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vRlBPZlN1SFl3blkwTGJsV3gtZ0dxbmJFNWxvb2U2WG1KYlZQZWJKa0VYU29XVlVUamlZWUNhNjk1ZG9tdVNibXdhWllKWXNuOGNTSHpSLUJDVzhJUFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T07:04:57+00:00",
-      "summary": "“全球大模型第一股”智谱，发布澄清公告  京报网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "刚刚，Anthropic发现Claude「类意识工作台」，神秘J空间藏着没说出口的想法 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzY3YwSHpJTzJlMGtrVXpfQU56eFY0NHVzbkt6T3pJdFc5S0xlMXRiMW54eXpDd3VuMjNKMW1yaHRqY1NNcERtN0JzRXpfdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T02:54:46+00:00",
-      "summary": "刚刚，Anthropic发现Claude「类意识工作台」，神秘J空间藏着没说出口的想法  36Kr",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」 - 创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81Z0MwN1haeEhMNDBQYk5nT3Q0dDYxMnhaWnA0eUQ5bXV3X09Lbnh3dEhGakJuVXN6eEM4NWFzbGV4MGdaeF8teWRlMEc5VnJE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T02:15:31+00:00",
-      "summary": "刚刚，Anthropic切开Claude大脑！AI自发长出类人「意识器官」  创业邦",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "刚刚，Anthropic发现Claude“长出”意识！谷歌DeepMind科学家点赞 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmYUdUcVFidnFnbGk1NndXajZHaTEtUVRUZ21XdnhvcFMyR0ZSc3ZWeU1rd1JYdUh6R0dvbkttVUVqTi00cjdjRjJ3SlU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-07T01:43:22+00:00",
-      "summary": "刚刚，Anthropic发现Claude“长出”意识！谷歌DeepMind科学家点赞  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "腾讯发布混元3大模型正式版 元宝接入并上线免费Agent功能 - 财新",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xbXNWWHpTdEZqdW5BOFVKOEFxTmRXR0xqODV6UFhzMDYtWVRSRDhzUlhUclAxYUNIWmFhQm5HT1VYUE5kd2RQcDE5cTUzTUNFNk9hckZTbWZVMnRNV245bXNMR3U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-06T10:18:00+00:00",
-      "summary": "腾讯发布混元3大模型正式版 元宝接入并上线免费Agent功能  财新",
-      "categories": [
-        "other_big",
-        "tools_apps"
+        "anthropic",
+        "breakthrough"
       ]
     }
   ]
