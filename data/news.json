@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-07-12T11:44:43.012292+00:00",
+  "updated_at": "2026-07-12T15:39:20.680325+00:00",
   "items": [
+    {
+      "title": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLU9hc0RmYmxhUExTemJISlVBSEEyZDN2WjRzbklsbEpFM00wSzkyRl80ek85T3dDc0ZaU2lsUWU2ZEhNejRfQmJ5b3JtQTd1MzBadWpnVEZfS05NUGwwdldhQlB1VEQxZUtiS1RVbGZoMXZpOXFjczdkT3pQM2czR3BQOXJSUmVrZ2U5cTdHdmptX2VwYXJqVnliSjlRYmwyc3diMTBGT3JFbWFOZDllQTgwOE1oZEF2YlFNQjVDLUxwSzVpWkJmbEJOLU05OWJNTzFhQ1I4MDRGVlZpVUVmVE5acndRSklSbWJMY2s4aXktWjE3YUY1Mkg2MWRFUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T15:34:59+00:00",
+      "summary": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力  新浪网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code 删完数据库，还说一切正常。。。。 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43bExvbVFaSGFYa0x6aGRUUWJPaHJKMWZaQ0hxZWl5Qi1wQ0dnb0ZFbG9MTGFxQlVqM0lQSnBOWDFWZkNOdVVJSXZtdlZmWDZaMTFLRE4ydE1ROGgxVDAyNmNB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T14:51:26+00:00",
+      "summary": "Claude Code 删完数据库，还说一切正常。。。。  网易",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "不想做芯片的大模型公司不是好卷王 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82NVd3a1NySHdsOFp1WmEzbTZ6LTJjWXQ4NS1mZmFoWUpoZEplZTh5TXFVXzJmTEtfWmdrZ3lWYTJmLUtFX3FqdXN2M1JwQ1RmNzRmcGl1YjM2bWgxbU80MVV3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T13:58:54+00:00",
+      "summary": "不想做芯片的大模型公司不是好卷王  网易",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "普通人想做一人公司？看百度AI这波智能体全家桶藏着什么答案 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11UzIyVUZYSjFJOFRtYzlDMXRYaEdwWDlXbzk1RktFRW9tN0RrdlR5TVNTckNEcE4zTkNCRk0wcGhnX2FoWU1FUkNwN080MDhNeDRWSXZVQ2o1eG4wZ09BUFhn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T13:25:52+00:00",
+      "summary": "普通人想做一人公司？看百度AI这波智能体全家桶藏着什么答案  网易",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "分支机构动态｜网络与信息安全工作委员会：“政策解码·赋能共赢沙龙（第五期）‘大模型国产化安全与生态协同共建’主题活动”在郑州举办 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWlnemtJUmcxWVJVQUsyUV94MEtoLWVtR3hGcnNadjBWUWxEV1NNWWgyZlU3YUowTU1iaVQyREwzLWM4d2ctcFBWaHQ3eFdDSnZJZVN6Mk92dllvcjlVTEdidXJvX1ZlTUNEZC1xLTlVSXk3eDlGZDZfZ1h6Vno2c0RlOXBWaTdN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T12:47:54+00:00",
+      "summary": "分支机构动态｜网络与信息安全工作委员会：“政策解码·赋能共赢沙龙（第五期）‘大模型国产化安全与生态协同共建’主题活动”在郑州举办  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "大模型本地部署最强引擎，vLLM 大版本更新 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KcHBWSHhKajN3T1hjTUdkUDYwTUFTT1VsUzc3MGlBMmFmeVRMdFlQR0lpcFFMVWRPWF9sT09NZ0dsTnRiV1J2eE94Rm1QRWZJVkR6aVA5cEJocFNpeGpJOFZn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T11:53:05+00:00",
+      "summary": "大模型本地部署最强引擎，vLLM 大版本更新  网易",
+      "categories": [
+        "local_model"
+      ]
+    },
     {
       "title": "OpenAI大招来了！三大版本大模型集体登场，普通人也能用得起 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazhxMzcySC1Oamt1N0duVHRyTmc2TlhoQ2dmd01adTlDTllsUzdVVzk3WG9fa1FQcGwyUHJLa3Njb2h3NldYc1NONkhleGpOOWhkMlFTWjlZa0J0bl9ERWdlZWxJbkF1cWpQV2U5NUxHcUxxcW9oaFJ1bzdiVnBWaTJGN1ZralFhd1ZpUA?oc=5",
@@ -92,6 +154,17 @@
       ]
     },
     {
+      "title": "像聊天一样做CAD建模！浙大开源智能体让建模变打字，已登国际CAD顶刊 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUktEbVhsbXd3VDR6U3JvM1VNRmNFYUZDLUhMYmx3OVBoMkp2TmlsaE0xSHEzWlFMSkNzQUVMejFJQkRta2RiTTFCNWVRbGhVRUxDVHFpd0wyd2lRdUNuMzBfdTR2Y1lQMk8tZkFHN2tua2lGN1Uwakh5alN1RlI5a283aU1CWDJw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T09:11:06+00:00",
+      "summary": "像聊天一样做CAD建模！浙大开源智能体让建模变打字，已登国际CAD顶刊  搜狐网",
+      "categories": [
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
       "title": "ChatGPT Work带来了什么？ - 网易",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14LWNxdW41Z2hIX2NnRzlfcGJzSHVUNnREcUpMMEtHUElXbktsWU0wTnNUYUN0NVc1R3A4VThqN0MtT2d1a3dSUlRFMDN6VmFXMzNVNlRaQkpJaU04R2E0cUVB?oc=5",
       "source": "Google News - AI(中文)",
@@ -119,27 +192,6 @@
       "summary": "企业AI落地进入深水区：从“接入大模型”到“构建业务智能系统”  新浪网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "用同一套语言读懂，BioMatrix推动生物大模型走向原生统一建模 - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IXzh4NmVpN2pDRVJPNDdaa3l1MnpGQmZXcUdhSjFaTlY0TS1DZFlMc2dKQnRYQ0ZPWlprYk9qbDNYNl9sT2hpalRZd0xQMll0emJpUF9VTDlsbnltdGNtX1JR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T08:06:05+00:00",
-      "summary": "用同一套语言读懂，BioMatrix推动生物大模型走向原生统一建模  网易",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "百度AI将亮相WAIC 2026：携智能体全家桶赋能AI应用开发者 - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbGllMkpTUjc1SVZEYjh3Z3dtbEgwMnRMQ2xOMWNGbDVJdC1kSmJYQjlCR1hzTWVnc3lMbU5iYkJaRU0xWkhXVS0tMkRiNUN5RFdERFJiY0ljUGZ6UHJmYTln?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T07:27:21+00:00",
-      "summary": "百度AI将亮相WAIC 2026：携智能体全家桶赋能AI应用开发者  网易",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     },
     {
@@ -182,16 +234,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "华智未来“灵言妙语”大模型通过生成式人工智能服务备案 - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FazJZT0EwQ0hoQ2NqN2tRazQzMjZYTDFwS0dkV21qLXpTS29mZzB2U19zcEg4djV2NmRTVWVaNzZBVjE5LTFDX0lTdXNNS093TUpSTnJJS2s4bmg3WkQ1dUN3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T04:15:11+00:00",
-      "summary": "华智未来“灵言妙语”大模型通过生成式人工智能服务备案  网易",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -258,58 +300,6 @@
       ]
     },
     {
-      "title": "2026 国内新增独角兽全梳理：3 天一家、AI 和机器人占了一半，DeepSeek 估值最高 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uNzF5a19LNC1TZHhOUVlmVFlaT0x0bXE3YXItNlc1VjVfdnduYkxhRFJHaGFlVVJiWEw3UUY4MFE2WFQyTlltMQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T02:30:00+00:00",
-      "summary": "2026 国内新增独角兽全梳理：3 天一家、AI 和机器人占了一半，DeepSeek 估值最高  智源社区",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHdGNUF0VEMyUElWUUNZWWNRRzBIVXlSV3AwVHY4RDI4RW1yV09XazdHcFhFQ29lOUFHLTQ3bndtSWltQ3VldnFhWEdlZ3ZBNUNrWUlobS13UkR3Vl9HZE5HZFRyczVmTEJ4dmNodzZoM3g0UmVZMTVOMkpLQnBWRl93?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T02:12:42+00:00",
-      "summary": "百度AI将亮相WAIC 2026，集中展示多款智能体应用  video.sina.com.cn",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "【视频】27寸4K屏+AI大模型，2027款新福特探险者车机卷出新高度 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uN3ExM2pfM193RVZqOFdyN25hY0ZieUxOMk1paDdqQ3RrbFMxLXQ2WDZpNUFzNHZob216dlhSY1hKQWxJbk14bklWbkxCOUVmRFQxSVZnRzZ5ZWM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T02:05:53+00:00",
-      "summary": "【视频】27寸4K屏+AI大模型，2027款新福特探险者车机卷出新高度  汽车之家",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
-      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEJWYXVaM0gzR3JYaUZZZklBZ2dEVUR1X2lNRllMSE02RHM5YjhXZmpZT1hEOHpDdHJFelUtSGhtVWhtbTViLXFnYkNvcVd6SEVHdlVETjdLUlRmWVlZZ1pneV9abm1venNKYnJSVUxHZE5QamNWeVlZbGx4ZmFBT1NtekV5cUow?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T01:01:16+00:00",
-      "summary": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型  搜狐网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "两家大模型公司“前后脚”发布内部信：智谱创始人提出未来两年“摸高计划”；MiniMax创始人宣布暂停自己薪酬 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14RURBYTRON0RFeHM0TTRmTE9SOTBkbGRGNmRQcy1fMDdLYmplZUZlNFdpXzBFVC1tR051MkpoTGk3YmdLWHRic0ZKeERBS01ZcDUyR3JKSUMwdHh6TUdtSg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-11T23:48:01+00:00",
-      "summary": "两家大模型公司“前后脚”发布内部信：智谱创始人提出未来两年“摸高计划”；MiniMax创始人宣布暂停自己薪酬  东方财富",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "百度沈抖：未来90%工作有智能体参与，AI协同时代来了？|Agent|成都市|经济|工具|价值_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUnkwSDFqcHlYY0dlV25wZEk0cDNpdFJzN08ydVQ2ZGNfRVRKVTVaMk5mNzloa2NQTjY0dGd4R2JMQ1BjSUdXNm9TTVJ2dzRmOWtmemt3TXRRc3BGRWJKeVM0NHp3dS11ODRzci1sNC1fNlY3QzMtNTh4dERTeEhUMWxxZHhSWk1ROGtwcDkwTjV4ZkpNZk03Zml1Qms2cm9sMUZnRW1OeWw1a2stdjJCN0I1VXdWc3FFa3U4MHpfNkRWVEdLT1E1OW9OSUhySl9LanhtRDJiblJabC1GNkg0MmlnbzFCWGY2eHdfdjVPSHdheGoyX1VucFk3ZlZXRlg3a2dPVVhHc2FUbDZicHZIMQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -331,6 +321,37 @@
       ]
     },
     {
+      "title": "实测 ChatGPT Work vs Claude Cowork，OpenAI 这次真追上来了 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DYmxBOWNPcjlaTVdTUXp4cktOTWh0VUFvMEcxWHBLUTRFS2pITEZqU2dPZmlsWU4wT0xfNmpXOWlON1d2dVFMWjFfZ2FvaF9Nc1JpczY4Z3NBTXFpZjRMM2UxeEZEaXlLZTF3VURLUHM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-11T11:47:21+00:00",
+      "summary": "实测 ChatGPT Work vs Claude Cowork，OpenAI 这次真追上来了  53AI",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "深度智联发布“地产模数通”企业专属大模型一体机，以AI重构不动产企业 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QUTF4RWlydV9kQXdBZ2cyU1M0RkI4VVE0UWJJRmRTcW1lczRnSXJuQnlFazl2QmtwOFlrQ3RPZ0gzcldsTUNlc1Jvd3F2V2hqOXIyZ1BDWlM3dw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-11T06:59:00+00:00",
+      "summary": "深度智联发布“地产模数通”企业专属大模型一体机，以AI重构不动产企业  上观新闻",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFU3c3hTSEtreFFmeVk5aHNNcEJWbnJmWWdOem4tUmZRcDdoaXRXN2lfWWFZd3NvMS13ZjZCWXN3SnJ5VTctSmlpQzdIeTlaVUZfUlRHWnB3ZmxaaDY0VnNWYnZ3RTlMZ1NSLUdBTzRWazR1eGROZFMtQzJJd2FjRDdpVHhXakRTMG1Oc2IxOUpBYXhKQkk3WXc5NnJTMk0wUmlGYU9mek9IQVdHS0F5YzBVRmsxbzlXZmM5M3hRaTlCOXE3ODk5SVkyUmJ1MUhtSDQ3RjdERlRJNnZZYzI5V0dRbnBiN1E4NTgzbEJSbThVeWRCVnFFdjJMQmFIdzN1TXRuWldZeDZxdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-10T22:06:34+00:00",
+      "summary": "OpenAI发布GPT-5.6系列模型：性能全面超越Claude，价格最低仅为竞品十六分之一  新浪财经",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
       "title": "告别“失忆”！EverMind发布自进化智能体框架Raven，可重写自身代码|Agent|技能|数据|记忆|模型_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdlZ3T1doNmFJQ19JalY1cThqZ2Jma2JwRmluRThyZndhZnRxSnVnWFUyRTU0cm5BT0p5UE40dXdqQnl3d3hmQ2plSnM4LWgwRDJlenk5M1lWRkVZelBiMFBYNU4tclNhdVQ3dC1UejVZUnloNlBER2ZWelNRU1M3ZkJpTzhVZHp3X0ZjdTVCa0FYRFFMVHZud2dDQnJjWWdHU3pmOWh6M2pzVEg0QnJCT2Z6UUdCLVpVcDJPU1lzMHlPaERrTXFCZjFhamh1TzV1TFN0T01mbEoxTjlQdzZHRURCZ1lYdlMwS0RBdjZodnpwV2I5Ylcwd0dqai1neHFBOTM2Z2dQT3hjVG5INXNMdw?oc=5",
       "source": "Google News - AI(中文)",
@@ -348,27 +369,6 @@
       "summary": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级  东方财富",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI发布新版GPT大模型 仅向特定用户开放 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SSV9wampjQXpIaGRRZHpMcmJ4eWVHbk4xYWhoaFk0TTFRSFhFeEQ0TDZVSko2WktpYTBSQ0VkYVlNRFh4Sm9KVkszeGJrQTBHQjA3ZkhpUFJuNzM0V0hkbWF0VEg4eU1mWDF5MHlFV0ZPdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-28T07:00:00+00:00",
-      "summary": "OpenAI发布新版GPT大模型 仅向特定用户开放  央广网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     }
