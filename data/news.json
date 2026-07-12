@@ -1,14 +1,118 @@
 {
-  "updated_at": "2026-07-12T15:39:20.680325+00:00",
+  "updated_at": "2026-07-12T19:57:16.908733+00:00",
   "items": [
     {
-      "title": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLU9hc0RmYmxhUExTemJISlVBSEEyZDN2WjRzbklsbEpFM00wSzkyRl80ek85T3dDc0ZaU2lsUWU2ZEhNejRfQmJ5b3JtQTd1MzBadWpnVEZfS05NUGwwdldhQlB1VEQxZUtiS1RVbGZoMXZpOXFjczdkT3pQM2czR3BQOXJSUmVrZ2U5cTdHdmptX2VwYXJqVnliSjlRYmwyc3diMTBGT3JFbWFOZDllQTgwOE1oZEF2YlFNQjVDLUxwSzVpWkJmbEJOLU05OWJNTzFhQ1I4MDRGVlZpVUVmVE5acndRSklSbWJMY2s4aXktWjE3YUY1Mkg2MWRFUQ?oc=5",
+      "title": "图灵奖得主辛顿说AI已有主观体验，几天后，Anthropic在Claude脑中找到了那间前厅 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mN2JZc080akJBdmVIMXFYRnBic1dNTkxnR3c1NGt6Sm4yN01iZUJiVC05ZDVMNnZ2SzNWOFNPNEpweGk3SEVwSlJ2c0JCTGJOWW80clNrMno5WXlhWkRHQnVB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-12T15:34:59+00:00",
+      "published": "2026-07-12T19:30:47+00:00",
+      "summary": "图灵奖得主辛顿说AI已有主观体验，几天后，Anthropic在Claude脑中找到了那间前厅  网易",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "全球40%的AI智能体项目将失败，问题出在任务交接的缝隙里 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vQkw2WFFCRkZCbDNJX0kwTDBzTnN6eTM4aExZQTFja3RTNEV4bkc1X1RoMkJfME53RnZmT1U1THhuWE4xbjFzRG1IRkNDWW9qeXFFZXo5UkdHWkpxMGttSk5n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T18:52:54+00:00",
+      "summary": "全球40%的AI智能体项目将失败，问题出在任务交接的缝隙里  网易",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "别再拿沙盒防黑客了，你的~/.claude/里藏着12个项目的污染 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Xck90MzFuRkZNMVF6bG5XT19GUVM1d1dMTnNJU0g4clFSX3AySlhiWG1HZERpbF9VSy1Hb0dBa3ZQcEctSldDSm9QMFB3Wl9PVGtGZV9zLTdiYjU0WDNYbDFn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T18:29:47+00:00",
+      "summary": "别再拿沙盒防黑客了，你的~/.claude/里藏着12个项目的污染  网易",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "199美元，ChatGPT加持的智能眼镜来了 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rNmtYbkQ2d1dIdUFQdk1xQkQ4RmVDM3VJV1FYXzdVdVczYy1MaHgwQzlvX1RpNlBtT1ViN2UxRzNlZi16bnhvcWNoX0stMmJ2aDJBelJqOXp6Y0plc2ktdnlR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T17:29:24+00:00",
+      "summary": "199美元，ChatGPT加持的智能眼镜来了  网易",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "89%折扣打脸订阅制：1minAI终身买断，ChatGPT+Gemini全家桶 - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1RGVCZ21kVnpTSkR3RmZ2Z203aEhHeXBkMlJQcXNuRkpycFpjUVFlbmU0TDhSbUhodmk1YU9XcFI1ZzkwREQzSUx6dUdkRkY1Rkw2dlhERllOUlFzSWN4cUJn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T16:57:43+00:00",
+      "summary": "89%折扣打脸订阅制：1minAI终身买断，ChatGPT+Gemini全家桶  网易",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "内置浏览器上线：Claude Code能自主点击网页了，安全么？ - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWDRlVVNBaGZ3UkRFcEtqbHh3WVpLUnlDX3diRGpYbUlvOHpELUU2MjRxTTVsMUg3aTVOT2lEMTJIYzdUWWw2OXNwNFpkeVpJb3p4WFpEOTJVdHBUcExYSFlR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T16:33:44+00:00",
+      "summary": "内置浏览器上线：Claude Code能自主点击网页了，安全么？  网易",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude出了个「防沉迷」，却可能让你更离不开它 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OZFR1YW4wWmxPeW5rOGM5dnY0SVdFaG1oOTRVLUVKUmlFeTgyV2ZzUHVfYkdHamRCQ28wNG01cVBXaExZZnlsRw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T16:20:00+00:00",
+      "summary": "Claude出了个「防沉迷」，却可能让你更离不开它  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMTdrY2xMdmJVd0FvdV93XzZLWnE3Mzk1QUszaGZJNlZ6S1VXT1Rwakl4N0d0NF9najZnM2pjMDY2TE5heWVMRHVSUHlLdl9nZVVZeTJXSFRzZDBlU3czeTNNU2t6eFpKcDNSTTlueGJiWnFzMnd1S3dzWEJHSV8wdElQVVd6M1NZd3FoSEc0TVNEd1VrTVAtbXBCdjZpVUotLVViUkxIRnNucE04bHc2bDN5Y0xfTjFLY3dhWkJpUlJRMXZCVnEyMWp4YlduSEVveHltRE1VX2dJSnlONmc5bDliaXJPaWx4UGJkUC1QclpUSmtpNWM3aW01eXpJZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T16:13:54+00:00",
       "summary": "Meta 发布多模态推理模型 Muse Spark 1.1，强化 AI 智能体任务能力  新浪网",
       "categories": [
         "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "问句查询网站流量：开源分析工具接入Claude - 网易",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fdXJGVU1SNl9KMWhrcDhFbkFoTDd1bFM5UzF0MTd6OUFmRjVTNk1wYnJmYVR2U3FSOGVOZmVpT1hrT0NQNTFPVGhDWFNFMkdCR2JSNldlYW10ZVBnMDhkQW1n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T16:09:16+00:00",
+      "summary": "问句查询网站流量：开源分析工具接入Claude  网易",
+      "categories": [
+        "anthropic",
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "努比亚AI智能体手机相比华为小米的AI体验有何不同？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKV205dFg4SG1Cc1doRFE0MGtHcVM0MXJScmxrX1FaMTVkLUV1S0hlRTdBUmJyWmtEdGdXYktLdWh4UEdvWlJRVkYzc1ZNZ0FHbkNaVTlKTDJubFRudTRhX2ZXMzY0UnFuaXFSTWYteVFLYU5JU0pfLWFHSXJKZm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T16:04:57+00:00",
+      "summary": "努比亚AI智能体手机相比华为小米的AI体验有何不同？  新浪网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "阿里禁用Claude Code：中国大厂对国外AI工具从“放开用”转向“全员禁” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTERaV0FYczh6TWV5OFlpWVo3eWFRanBvY2RsYWNGRDAyaHBlR21Za2VhdTczLVQzWmIxajNIOFJyZG9FaTlUTnlPbVJUOC01cEczNXI2WkRyVEFuQkt3empRQW1zZFRiTlpVSWkyWjJjakhNQXNpN3FXaG04eWdxUjBwVDJCeUtP?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T15:55:33+00:00",
+      "summary": "阿里禁用Claude Code：中国大厂对国外AI工具从“放开用”转向“全员禁”  搜狐网",
+      "categories": [
+        "anthropic",
         "tools_apps"
       ]
     },
@@ -54,16 +158,6 @@
       ]
     },
     {
-      "title": "大模型本地部署最强引擎，vLLM 大版本更新 - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KcHBWSHhKajN3T1hjTUdkUDYwTUFTT1VsUzc3MGlBMmFmeVRMdFlQR0lpcFFMVWRPWF9sT09NZ0dsTnRiV1J2eE94Rm1QRWZJVkR6aVA5cEJocFNpeGpJOFZn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T11:53:05+00:00",
-      "summary": "大模型本地部署最强引擎，vLLM 大版本更新  网易",
-      "categories": [
-        "local_model"
-      ]
-    },
-    {
       "title": "OpenAI大招来了！三大版本大模型集体登场，普通人也能用得起 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazhxMzcySC1Oamt1N0duVHRyTmc2TlhoQ2dmd01adTlDTllsUzdVVzk3WG9fa1FQcGwyUHJLa3Njb2h3NldYc1NONkhleGpOOWhkMlFTWjlZa0J0bl9ERWdlZWxJbkF1cWpQV2U5NUxHcUxxcW9oaFJ1bzdiVnBWaTJGN1ZralFhd1ZpUA?oc=5",
       "source": "Google News - AI(中文)",
@@ -105,9 +199,9 @@
     },
     {
       "title": "【视频】长征十号+新能源+大模型：中国换道超车的三张王牌！ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnbk9CR2pzRzRlWDdfLUt2bzJoOWpkUGhJdkh4TnhKX3hlS0VYV3dVbS1hbkZtMDRLaUwxc0JKbDdSODB3MG9NVDVObnhhTmUxQ0FNeGxZOGxEVmlUMmVsSVBtWENDcTVXN0pZ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRjNJMzN5NWJzR0JjU3ZxejVWYzRfUC1Ddnk1VzFGRWhTZ0VDZExpcy04UHJJc0ljejBiWW5sUWw4TTRvZmU4R2MwZm1UTTZUMXZDbXNLV2dscjQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-12T10:31:05+00:00",
+      "published": "2026-07-12T10:30:49+00:00",
       "summary": "【视频】长征十号+新能源+大模型：中国换道超车的三张王牌！  汽车之家",
       "categories": [
         "image_video"
@@ -115,12 +209,22 @@
     },
     {
       "title": "【视频】奥迪E5 Sportback新系统R6增强学习大模型升级后，辅助驾驶行不行 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQeDd0a1hCbFRvd3gzbDVLOXhWQXk5dVdSSUlJaXpLRjFfSlRMY3V2Z1ZBSy1NS3BVc2tyRkpFdkwxcUdQRmtQSGpQV2x4VTZFUFJHWkhwS3U2VnFKbTE1d3Q2Qmt3dVNCQTdz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10UTA5bDVBTmFhRGhEWUt0dlF0QTMxUDVkMVdjTU04eFpHTTZjUnQzV1Z0WTlWQm9fUTBnSzF0N0YxQUk4SXVtT0VIdTRwc2lxZUVFRFVXc2lRN0k?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-12T10:05:50+00:00",
+      "published": "2026-07-12T10:05:54+00:00",
       "summary": "【视频】奥迪E5 Sportback新系统R6增强学习大模型升级后，辅助驾驶行不行  汽车之家",
       "categories": [
         "image_video"
+      ]
+    },
+    {
+      "title": "杭师大“明师研训智能体”首次落地,让AI成为教师“成长合伙人” - chinafabu.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ORnFGSnVnTm1rYThNMV9WOHFlODlyR0Y4RUY2dnRGNzVONGJjUzVNeGwtcUdqNmw0ZEs4RFoxVkg1MmhPV3BybDVyazNrWVowMzE0Mm9abmQ2NkwzeFFDTzJwYlFadTJ6OXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-12T09:44:00+00:00",
+      "summary": "杭师大“明师研训智能体”首次落地,让AI成为教师“成长合伙人”  chinafabu.com",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -175,42 +279,11 @@
       ]
     },
     {
-      "title": "Claude Code砸的坑，蚂蚁安全在尝试填上 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTMwWW02c0lVVk5aM3NwTG9nVGZkMUN2dG1nenhidHZ3MmJWd0hyUFdEYmkyZURjYUFLc1o0Q0hNX2JwRDhSMU96YVNKMmx0ZFNtd1dKejFMS191b1I0UHAtQUlrNEVIcE45YnBSNTQwa0VWRGxhRG1XSC1Hc2tLNEIzWEkxWFZR?oc=5",
+      "title": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rYzFyaFV2UVZ6R0Q0dnNjYjI5R3FRZzV1YmQyNzlqVUJOdThYYU1La0Z1dDBCRUJORkN2dGRBLWF0UDJWVXdQYw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-12T09:05:26+00:00",
-      "summary": "Claude Code砸的坑，蚂蚁安全在尝试填上  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "企业AI落地进入深水区：从“接入大模型”到“构建业务智能系统” - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzVDYyOHNmQjVGSlZVMlhZZ004X0QtdEF0b0VxQ1lVblE1NnFzU0tMcVc0blo4VmJ6emF0MG5XaGtiMS1ab2hHRVNGV19zbjJ6c0cxdVZfT2hoc0RKOG1POHFBcUlaMk5HMm4wbDFJdHczeGdfV1pGeUpsaDVsUUk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T08:06:40+00:00",
-      "summary": "企业AI落地进入深水区：从“接入大模型”到“构建业务智能系统”  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "今年WAIC，百度AI给OPC准备了智能体全家桶 - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNUxMU1JvdjMzUkJLbDdNSXFJaktpOWVFbnVodG1iS1dvbEs3Vy1zUGphUzNXVnF5dThRWUkzV1o1V2NSbUhzV2JZMXRfbTRDNkpPeWhlTHJHRjVWOFV3Ukln?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T07:25:39+00:00",
-      "summary": "今年WAIC，百度AI给OPC准备了智能体全家桶  网易",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUlDcDMtUElZSENEb2lMOFJCcUZDeXZtQjAyOEZIcHZGc3J6R01oNmZneG1rVk5fQlo5T1lmZGNXTVJoRmpQS2RmLXdYX2N3MU1vdUphUXdfSzVmQzJNV1c1Z3JSblNTWm9qeUI3ZjBRMUtneHRfQ2phMnZ5NGowUnNQMHBkNC1x?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T06:03:46+00:00",
-      "summary": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍  搜狐网",
+      "published": "2026-07-12T05:51:28+00:00",
+      "summary": "AI打工大排行：Claude Fable 5自动赚钱的能力，是GPT-5.5的2.5倍  凤凰网",
       "categories": [
         "anthropic"
       ]
@@ -226,66 +299,14 @@
       ]
     },
     {
-      "title": "野路子全靠自学逆袭 Claude Code之父原来是个野路子，全靠自学逆袭！本科读经济学，却一路做到Meta首席工程师。谁能想到，后来最火的AI编程工具之一，竟源于他入职后的一个小项目。#ClaudeCode #AI编程 #程序员 #Anthropic #BorisCherny - 搜狐网",
+      "title": "野路子全靠自学逆袭Claude Code之父原来是个野路子，全靠自学逆袭！本科读经济学，却一路做到Meta首席工程师。谁能想到，后来最火的AI编程工具之一，竟源于他入职后的一个小项目。#ClaudeCode #AI编程 #程序员#Anthropic #BorisCherny - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEtINWsxRjF3UkpGOWtpRHFLMDE4UFJFMDlVLWp3dlF2aTllUElSdnpabFZBcFdxZmUyMkIxMUE3emE5N2ltLWdOX2xsOUdHR1BEbzgwMm5OTnl4SlVzMjNtOUJTdk1Vc0hxVHRUa2hxNk1LcGlyOFNpSnJsMlRmelNMRWViQjcwTjFzbA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-12T04:29:37+00:00",
-      "summary": "野路子全靠自学逆袭 Claude Code之父原来是个野路子，全靠自学逆袭！本科读经济学，却一路做到Meta首席工程师。谁能想到，后来最火的AI编程工具之一，竟源于他入职后的一个小项目。#ClaudeCode #AI编程 #程序员 #Anthropic #BorisCherny  搜狐网",
+      "summary": "野路子全靠自学逆袭Claude Code之父原来是个野路子，全靠自学逆袭！本科读经济学，却一路做到Meta首席工程师。谁能想到，后来最火的AI编程工具之一，竟源于他入职后的一个小项目。#ClaudeCode #AI编程 #程序员#Anthropic #BorisCherny  搜狐网",
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "百度AI将携智能体全家桶亮相WAIC 2026 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRl9VamNfY245VWZpUzlGc0F1TVdqcWlZeUJ6VjNmMTVuU1VWTXJkZ05CazNOaUhBRV9iaURiUXdURk9PS2FSWDZXQUV0LVdGVDg1SmVGbWFJS2dIODF6Nk82RkdlOFJ3Z3dQNG1fTnNzTlh2eWVrcldpc01EM3g0NUt0dnQ5aFNaR29lUg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T03:57:13+00:00",
-      "summary": "百度AI将携智能体全家桶亮相WAIC 2026  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI关闭Atlas浏览器，AI浏览功能并入ChatGPT Work - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiLVdEN1F0b0tvd0ZocWZyVGVLc01iQzk3QjI3NG92a0owUnB3V3dnUER3cGNVWU1NRE01T05CUXdpWDFKdDB0Zy1WeHc4ZkY3QlVNV1VlT3hjaFZ1SGpYZVRn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T03:55:44+00:00",
-      "summary": "OpenAI关闭Atlas浏览器，AI浏览功能并入ChatGPT Work  网易",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "努比亚倪飞谈AI 智能体手机，称下半场会从“功能叠加”走向“原生智能体”|中兴通讯|论坛|新高|隐私|旗舰机型_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQa0YwbExQdWExanE2Xzlia195VFo0N0hOQkpoNGxCVkVYOUw2TFhGczlETHRseTRnODdqZHYzVmtSV2FiTzVLdEkxVEkwd1UtLVo0OHF5QXY5THFXbTVWdDdsb1MydjJ1UVdWVURnVjF6eElBdFViWFdzZklncTJ3SjlaZXVVSXlKQ3MxT0dKMC1GQTgxUE1naDBhOWhRbFZLcWw3TC1IU1ZMMTRnUzA2VVdYalNPejVra1hNWm0ycHpCYUNTUlE3ZTFYQWVjb2dSUnVWUWlpLVZVRW05SmtTd2NXSHg2S0xWal9xQWt3c2RwVUFlWTJXdThxa0ZLNklrbFQyeS03cWJfdlZvZTI0LWI0QW9kNVJmRjlhTlhPb0pjZ2R5WUJtMkNqVUtHemFrSzdz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T03:26:18+00:00",
-      "summary": "努比亚倪飞谈AI 智能体手机，称下半场会从“功能叠加”走向“原生智能体”|中兴通讯|论坛|新高|隐私|旗舰机型_手机新浪网  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "百度沈抖：未来90%的工作将有智能体深度参与 - 电商派",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdGsyTTJRSDBORy1rYTFFLXpITzlnR0lneF90QWJuM1JGWE82aGVISkZoV0E2SFBkQW1jNnI1ay12bW9nTTJOemN2cGtUM3M5LW9NbXFjTW5tc2JNMXFnZg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T03:10:00+00:00",
-      "summary": "百度沈抖：未来90%的工作将有智能体深度参与  电商派",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "唐杰踏浪，智谱摸高，中国版Claude - 网易",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kRjRMbmJwZGE4MkNkenNHN1JNclM2OGIzeVlZT1VLTTdMMWdtaV9vRHN0ZjJKZ205R0Y3c3NIT084SnhxclBRM1h2N3ZSZlZZWHhGcjFZWWZtQnVXQkRRMnZB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-12T02:47:29+00:00",
-      "summary": "唐杰踏浪，智谱摸高，中国版Claude  网易",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -311,16 +332,6 @@
       ]
     },
     {
-      "title": "河洛文化大模型正式发布 千年文脉有了“数字大脑” - 大河网",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pR3dKbFA4cU9pLVJWNE4xRnd1bkJmV2tpWXVza1FCNXVwbS1nYVg4RDlDMjNVVXVoVFZXZVBrQmhsY1FIWVV0MW5RdFpNZHhL?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-11T13:01:29+00:00",
-      "summary": "河洛文化大模型正式发布 千年文脉有了“数字大脑”  大河网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "实测 ChatGPT Work vs Claude Cowork，OpenAI 这次真追上来了 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DYmxBOWNPcjlaTVdTUXp4cktOTWh0VUFvMEcxWHBLUTRFS2pITEZqU2dPZmlsWU4wT0xfNmpXOWlON1d2dVFMWjFfZ2FvaF9Nc1JpczY4Z3NBTXFpZjRMM2UxeEZEaXlLZTF3VURLUHM?oc=5",
       "source": "Google News - AI(中文)",
@@ -328,16 +339,6 @@
       "summary": "实测 ChatGPT Work vs Claude Cowork，OpenAI 这次真追上来了  53AI",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "深度智联发布“地产模数通”企业专属大模型一体机，以AI重构不动产企业 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QUTF4RWlydV9kQXdBZ2cyU1M0RkI4VVE0UWJJRmRTcW1lczRnSXJuQnlFazl2QmtwOFlrQ3RPZ0gzcldsTUNlc1Jvd3F2V2hqOXIyZ1BDWlM3dw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-11T06:59:00+00:00",
-      "summary": "深度智联发布“地产模数通”企业专属大模型一体机，以AI重构不动产企业  上观新闻",
-      "categories": [
-        "other"
       ]
     },
     {
