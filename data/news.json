@@ -1,6 +1,67 @@
 {
-  "updated_at": "2026-07-13T18:11:51.257748+00:00",
+  "updated_at": "2026-07-13T21:36:08.858034+00:00",
   "items": [
+    {
+      "title": "AI模型竞争进入成本战 OpenAI、Meta相继竞逐token性价比 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yYUhLekRYZE5KVDlCZ2lmdWVnalNzQzEyVUNyWjVzNWZPR3ZEamtYZlpqcEJXdmRNLUtHRHJPVk5QMHc5MDlTaQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T21:15:59+00:00",
+      "summary": "AI模型竞争进入成本战 OpenAI、Meta相继竞逐token性价比  财联社",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "从AI偷脸到大模型虚假输出，司法如何追赶技术 - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Scm9wQ2pFQVNjVVcyenlUblRzZmhkQTZScHZKM0tDTnNlRUYyMFBSa2JBZXEyWllmM05SeUJHZEFKTjdkRndUdHY2ZG1RaU16S0dkYXNTeWlMSVRMUk1HUzNXOFpHWUFCbmhpTklMblBObTJV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T21:00:00+00:00",
+      "summary": "从AI偷脸到大模型虚假输出，司法如何追赶技术  新浪新闻_手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "2026年买手机推荐哪个？AI智能体旗舰成主流，3大维度拆解+FAQ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWS03cTF4RXRMMnZOT1F2YTBzLW1oUUpQR0pUYWp4V3kxUHZlbmQxWmZZRDhYZ0xiUkdlbjJIZl9KaW81TEcyTlBZd2lRVjl6ckhGN1duajVJSEpaWW1aMENiSkhXODQ5b3k0alc5VDhSZ1pTckFVN0NaU2tkUjBjbg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T20:49:10+00:00",
+      "summary": "2026年买手机推荐哪个？AI智能体旗舰成主流，3大维度拆解+FAQ  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI把ChatGPT从“聊天框”拽进了办公室，它能干的不只是写邮件 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kS3EtMjRCbHdUVFo0Sm8zM1JVUklmMWlTZk42TmVCQVRrcHRpMXY5Wkd5aWlSOGhfVjhUMldRbUZQLWNac0ZnaU4xX0IzUDdad19jVHRaRGV2ZktMLU5zMUJ3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T20:44:02+00:00",
+      "summary": "OpenAI把ChatGPT从“聊天框”拽进了办公室，它能干的不只是写邮件  手机网易网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "31家企业联手，填补AI智能体隐私保护空白 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92VEt4aGhWOXdNazVFMGo1SlBiVWliYmpzV1FHTmFxNzZSSmJ4Tl9TZTVhWDFHMExCYl80cXQwMlBNNTVjcTA4aWlyOTF6UVlGdUJEbVBZY01FU3JwU0dxbVJB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T18:50:02+00:00",
+      "summary": "31家企业联手，填补AI智能体隐私保护空白  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "人大×小红书开源UnityMAS-O，多智能体实现联合强化学习 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RWFBxajNFem9nWldwNFlNZzhOZVIweDVMWXNMUVhiRTQ5LVoyenRDSndMLUJnbW9IUWdoMEdtQlYwMzIwX0Y1Q1lCUVNSNW45ZTl6Wm5vSl9idkxkMmxpSW9n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T18:11:07+00:00",
+      "summary": "人大×小红书开源UnityMAS-O，多智能体实现联合强化学习  手机网易网",
+      "categories": [
+        "tools_apps",
+        "open_source"
+      ]
+    },
     {
       "title": "小米MiMo大模型相比华为麒麟NPU有何优势？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VNDVrRVpLQllfZlBfb1VIWHdxYmg2TnU1eEpGSDdXNzhBWkpIbko4QjM3NlptSGR1QVZybDhqcDBHaks5dGpEN09Tckt3VTNkd25ZMjVxWjdfVnVqb0FuZnB0ZTc5VHhUVC1DckF6QUhMdw?oc=5",
@@ -114,6 +175,16 @@
       ]
     },
     {
+      "title": "东方算芯发布首颗基于软件定义+3D堆叠近存计算架构的AI芯片——DF1000 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWNUUGRBUW5yYnJQWTZsWFlDT1Z3M1BoeEJDdkM3TGF0emNTREY1SnFKc2pOY2gtQ2h1WFVMTnFuWi0yWHIxUHFJRnFoSnVqY0pmanJuUGQzZ3RXem9WQ3ByQVBZUy1OMk0tVXhrWWF6SWJ5UVhpanZGX0pNc3RUanh3NjBYMDRmM3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T14:22:00+00:00",
+      "summary": "东方算芯发布首颗基于软件定义+3D堆叠近存计算架构的AI芯片——DF1000  广州日报新花城",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
       "title": "当一家大模型公司，决定下场造终端 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjlZWXlBUmpZMFZDc0YzMC1feFdVSmRWU1ZnR1ZLV1FERGZ4bUZEWHVnbmFTUTg2WHJhOFZwakdWTEhHMzlqUlhoQWJuZTU4UHlWRVRsY2xyQXBXeUsteE5DNWlpckhHdWxXTVc4OWxQdzJiMnZzOTNXODBuV1RUTXVRRVBtQXA2?oc=5",
       "source": "Google News - AI(中文)",
@@ -145,6 +216,28 @@
       ]
     },
     {
+      "title": "传播大脑参编全国首个新闻行业智能体国家级标准正式立项 - guan.media",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnaDdpNTNZZ1Y1NnBuV2xVMV9NTEdFWmJVRDdEUFhaNmJVRVEtUmhJTHctbzhTMzYzbi01VXVIaENLSVpVbkdWck9VekVnLVZUT3hN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T13:30:00+00:00",
+      "summary": "传播大脑参编全国首个新闻行业智能体国家级标准正式立项  guan.media",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "阶跃发布全球首个智能体原生操作系统Step AOS 为智能体从零重构操作系统 - 电玩巴士",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91M3kwd0VQemRLOHVMVFNiUVFWVTJOM2hLSElKT3gyR2xxeVdSMGdOZ2NoZVhGbXJxalpnRkIwX0Z2MVd6SkZIVkN2M09OQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T13:26:00+00:00",
+      "summary": "阶跃发布全球首个智能体原生操作系统Step AOS 为智能体从零重构操作系统  电玩巴士",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "阶跃星辰发布STEPX终端品牌 全球首款大模型原生智能体手机同步亮相 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmRGVElHVnN4ejVJT2pTRGhjRHBhV1RFMEJZRlJhOV9fZzVxa1VKM0JxNUY2NTRWQ01leGtzdHF4b0dzVkFFcmNvazd3YzdONEUyNkktUjloMGNYcEhzclBUVVN2M0pKcmVrY1FVaDd6Z0NmTzJFU08zQkNtNTBmOFJhWnlCZnJyanJOSU9HWQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -152,47 +245,6 @@
       "summary": "阶跃星辰发布STEPX终端品牌 全球首款大模型原生智能体手机同步亮相  搜狐网",
       "categories": [
         "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "纳德拉疑似隔空开怼大模型头部玩家：只许自己爬数据，不许别人蒸馏模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOGNUSGtXZDREcnY1T290OVZySkU3QWpsVmZRRHZOVG5qekg1ZnZYWGlCVFlubU93bEViazh4em5yd01fUV9pRngxbFNmYlpZOGc5X1UzeXZTbU9URFhHMGIyZkdKbnBhRUhoNlF1Vm1jVm5mRm9BQW9nRmdWQjlVVjFDNEdkUnZl?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T13:06:51+00:00",
-      "summary": "纳德拉疑似隔空开怼大模型头部玩家：只许自己爬数据，不许别人蒸馏模型  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "荣耀 MagicOS 11再曝，支持自定义AI大模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXR6NVZOUXdpRjl3NjJ5TURXSkJzZmdCNTBKU3E1MmtYVWdGTFBIRDBISjFadjAxRTJLYlREUTN1LUxrd0xmX0thNlYxcjhXQllUMTB3MHhjcW5ZSTFXX3RLVkxpTVlEZEFSU2JNZjlLM0djbFgzajdSRkVlZndOUXRXb2llam81?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T13:00:00+00:00",
-      "summary": "荣耀 MagicOS 11再曝，支持自定义AI大模型  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkV3MUhUSjBHTFJPdW43eUJaQjRxbmtEaVVjUm9XSjNjNjBPd2JkRkp0dVBZeDhlRTFmcDc0cnprWTNEQ0doWDdSeWZvQ1MyeU9WZnloWTVuajJjQ05IRXhpWWJmWDJDektudDhGeFpqWXVWQ1pDeFNUamNVS1JFbWc2OWZHQjRX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T12:42:56+00:00",
-      "summary": "为智能体重新设计操作系统：全球首个智能体原生操作系统Step AOS发布  搜狐网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "阶跃首款智能体终端STEPX Neo亮相 印奇：智能体终端时代APP不会消失 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0k5cG80Q19qcTFhTzZoNFFzcWI2M1Qyak9rb0lIcUJHX1A5bU42eG8xQ0JqNXB3amdEaDlDSTFQdXJBVXE3dmZxZUI2ejUtRWQwbGxZNGJENG96ajE2c3hxdHNfMjA1c0ZsN1p1aS05bFNzODBfXzhmR1J2Q296Zzd4T1p3azln?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T12:33:00+00:00",
-      "summary": "阶跃首款智能体终端STEPX Neo亮相 印奇：智能体终端时代APP不会消失  搜狐网",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -217,26 +269,6 @@
       ]
     },
     {
-      "title": "阶跃与上海人工智能实验室发布《新一代智能体系统安全技术白皮书》 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfSklKRUx4bFQ2Wm5lRFhkcWxGWDVFbVdhdzAxUTFLSDN1T3RTLVVPMkZCYzUxUHViY1RXV0xKYmFvR2RDXzU3SVZfQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T11:51:57+00:00",
-      "summary": "阶跃与上海人工智能实验室发布《新一代智能体系统安全技术白皮书》  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "阶跃星辰首款AI智能体手机发布，定名STEPX Neo - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CcHIxeEhHLWd3R1NyT0pGSG9POG9talRrZkRNZXhGUVpyUTA1M19ZSWRZc0ozVlctZjBRVGlZS2Rxdm94c2RBLUthWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T11:45:17+00:00",
-      "summary": "阶跃星辰首款AI智能体手机发布，定名STEPX Neo  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "一夜之间，GPT-5.6 来了，Codex 没了，Claude 急了 - 爱范儿",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MZzlMekhoRmtBQW9yYkZHZ0l1ckY0bnFXZUwybWVZQ1pMTWFpRUQ0MllsUVpSSFhWVDg2Nk4xNHNOWVU?oc=5",
       "source": "Google News - AI(中文)",
@@ -244,16 +276,6 @@
       "summary": "一夜之间，GPT-5.6 来了，Codex 没了，Claude 急了  爱范儿",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "RTX Spark首秀BW2026：开启个人AI智能体PC新赛道-PChome - 电脑之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45YTN2S2M0TnlhYTBhSlQwOEpRdkpua09wMWloQktGeUZ2RGdnTEdtdzg0ODhJYm1yNXQyZXZVVEpyN3NjbGQ4VU9iNkFISVZTUVFmazRmSm92TTQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T10:28:22+00:00",
-      "summary": "RTX Spark首秀BW2026：开启个人AI智能体PC新赛道-PChome  电脑之家",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -267,38 +289,6 @@
       ]
     },
     {
-      "title": "Claude 又有意识了？不，它没有 - 创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DeExPaUpBanFPR1p2MFFkTnNvWDlHZk5kSHB3ak43ZERqeHhBNkdsb2NaeE9YenBxRkJvMUEzR1dOY2VWdHUwRXFlNEVuVGhZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T10:00:29+00:00",
-      "summary": "Claude 又有意识了？不，它没有  创业邦",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "项目卡了半年，毫无进展，Claude Fable 5只用一晚找到突破口 - qq.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UU3pfU0V6VTc1NXFFdDhEdWk4dmVpX0MweDUweHlkRW8xQmEwcGpSMk1RaWtCMGJIb20yb1ZIdnIwVlJvLXRlUHdXN2JLYmNoUG9sekRR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T09:35:00+00:00",
-      "summary": "项目卡了半年，毫无进展，Claude Fable 5只用一晚找到突破口  qq.com",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "为大模型与智能体套上“紧箍咒”蚂蚁集团连发两款开源安全模型 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qRXpRZGxuR3haSmRUZ1Z3VFN6OEJJTHpkX3N1bjhyZmlESkhCZFh6YXNSYVlwV2FTdmdfRE93VXowNnI2OElmcTFhUzd5emN6ZGJ6bE9uZml5eWFQMURjZU1R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-13T08:58:03+00:00",
-      "summary": "为大模型与智能体套上“紧箍咒”蚂蚁集团连发两款开源安全模型  手机网易网",
-      "categories": [
-        "tools_apps",
-        "open_source"
-      ]
-    },
-    {
       "title": "Keep发布自研AI智能体 已搭载200余项运动Skill - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1RTVITm9UX2dnblVZQklzajRHaXEyNHlfanJBcXhPU0lzc0o4UHJhdktrMlZEa0RkX19mT2R2cVJBaWV1ZGd4SU1PellhSFFCcEplTFE5UmpiR0ZLZ3ZCUkh3?oc=5",
       "source": "Google News - AI(中文)",
@@ -306,6 +296,17 @@
       "summary": "Keep发布自研AI智能体 已搭载200余项运动Skill  观点网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFFyMm5fR3ZXUFYySHRGUDlIRmtxX21qYVdHdkdBa1lRZzh5NC1VRnYtQWx4OEpYc05HbVh3ejViTS1wTm1ieWpBWFhrQ2J3MGt1S2FVSTdYRUF2b3lac2xVWXdNdHh4OE1DVDFjOHN3ZlZPU01nTG9hT0d0TngyaG53a0hZSUVCWlotRg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-13T07:51:10+00:00",
+      "summary": "蚂蚁集团连发两款开源安全模型，为大模型与智能体套上“紧箍咒”  搜狐网",
+      "categories": [
+        "tools_apps",
+        "open_source"
       ]
     },
     {
