@@ -1,15 +1,250 @@
 {
-  "updated_at": "2026-07-16T13:06:00.310650+00:00",
+  "updated_at": "2026-07-16T17:49:28.943576+00:00",
   "items": [
     {
-      "title": "世界人工智能大会：阿里巴巴展出多个智能体平台 面向千行百业和前沿科研 - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LMWlsN2hIUWVmOXhBUUtZMFN0QWFXNHNtc01JVHhjYWdGQmNCOUU0bEpMWHMzWFR3dzItbkFyNUloT2YtZldsag?oc=5",
+      "title": "上海将发布“AI+制造”专项措施 加快打造人工智能赋能新型工业化“高地” - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MU3JPTUVuWjZyRFdtR1kxeC13RnEwR2laSGMzZjJMTm9IdXBMMWZpUkg1ODNnLWFnWWFDUFR4M0hHS3pEekxaS0R2SHphSFozSFVWNkhuMGVHZlNaOWFYMm55UTc3VjVlSVNxNWctNG5oMG8wQUxSZ0Nwc0VlZE0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:59:45+00:00",
-      "summary": "世界人工智能大会：阿里巴巴展出多个智能体平台 面向千行百业和前沿科研  品玩",
+      "published": "2026-07-16T17:04:24+00:00",
+      "summary": "上海将发布“AI+制造”专项措施 加快打造人工智能赋能新型工业化“高地”  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "谷歌开源Agent神器！Claude Code自主完成开发到上线 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zcFZKQkhQbm1GVDNjaWVWQURUYXlVN3dtM0czQXBzTVBSMF9PR3l4RWYyQkJaV08wNGJrdWVSRTA1aGFDSUhZdGtzOE5udGk1WVFLZUpuZ3FrZzVwVU9XODRR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T17:00:39+00:00",
+      "summary": "谷歌开源Agent神器！Claude Code自主完成开发到上线  手机网易网",
+      "categories": [
+        "anthropic",
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "全球大模型世界杯决赛预测出炉：天禧AI、ChatGPT等力挺西班牙，仅DeepSeek、Manus、Grok支持阿根廷 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOckRTSHNrXzZ3U2gwaHFfNFNSbmkyTHFqazFxV1g3SnpIZWRSTjZ3cC1haEo4c29Od3ZaOVFBYV82aER1NFBtQkl2MEZQWUdoWTZ3NEt0M0JNRnJBRVh2c3VWSUR6c1NuZENpb3FKWlczVzdlbkpPV0FENW9Id3FjX1Z3TGNUS05sX0Z5NWtkTVdSWnV1SzRUSlN2bWNlbnc1XzN6VDR4bTQ5enZTYUNzb1Fwd3RORl9MLVhYOGV6aXZrU1M1QzBUQWZLQXRlUnQtR2p3bDNnb2hnUlVLQkRROFpMU0xkQTNyRU9tNG1CZXlMY2RyVHduS0dsLWdXUXotNVNSd0I1QnpsWEcwbXNWT3RMX1g0UlgyV29nQUZnVFl5OWUyX3M3TUdUbDA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:54:50+00:00",
+      "summary": "全球大模型世界杯决赛预测出炉：天禧AI、ChatGPT等力挺西班牙，仅DeepSeek、Manus、Grok支持阿根廷  新浪财经",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "蓝沃AI开源发布行业首个非标机加工工艺大模型沃土LevelField-1 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDVHcTd1VldTVlE0REk0aTVwU1lDQzZuOHZ6dXFPS3F0Q1VoTmxQVDVoaUN5cXYwN19xbDdwbEpxZ1NXR0NjNEdBbkx3aVZCbDJsNTZEa2FHNEEtNUNGcnI0VDNBbUNvbHFPZFZZdG40YkVNeDAyUnpIVkpSY3dzWFl3UU52alpr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:38:00+00:00",
+      "summary": "蓝沃AI开源发布行业首个非标机加工工艺大模型沃土LevelField-1  搜狐网",
+      "categories": [
+        "breakthrough",
+        "open_source"
+      ]
+    },
+    {
+      "title": "阿里千问大模型如何赋能苹果AI功能？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tVUZhS0lLSDRVeXAxdHRLSTExWGdFNUw5dTFoTENVNnc0TXFHWEh0QUpVZmg3R2gzTU5Cc2lmYXhFSVhOMFVyZlFid08tb3lnSUl3N0EyMmZ1MFdMZlVZbzBRMzBHZWlWWm9BWm4wdnhaSHhHanJwMmdMTzdUOGM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:27:54+00:00",
+      "summary": "阿里千问大模型如何赋能苹果AI功能？  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "世界人工智能大会：阿里巴巴展出多个智能体平台 面向千行百业和前沿科研 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNkhCcWQtb0dOQTlDdDdaWFpnQjdCUTJuQXZHeU51ZzV1bkZTYjNSOEtRTEtSMjJXM2pnQ05oVTdETFZCcU5UNExmUWJVejBXQ1ZDUXVKNnpkLXNPeExZMDY1U1YtOEVBbHhUNnJjbkhEaXYzYnpiVFpWLWdKNE5pUnhVSkx2WjhDMG13MlhlekdoMFRPU0U5SlJjaU9wdjMzeUJ3MGJuSFVENl8yOFFCMGRoWHBoOGdVXzNjVG5rejNvOEtENmhQYmNPdXhubFJpNVdaZ053cWtfTkdVME1YNU5WQXRORmNQY19lYV9rZnllV045WWxXdzhYZFhFZlpkZDR4c2NwYm9yM0x3TXc3LWdGcGpjenZlRXBQeGdB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:25:30+00:00",
+      "summary": "世界人工智能大会：阿里巴巴展出多个智能体平台 面向千行百业和前沿科研  新浪财经",
       "categories": [
         "other_big",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "半小时发现三个漏洞，AI智能体安全该升级了 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HNFEyVlVZWXJabGFyUU5rdEhsU1laWlhsOU9pMVZRbjVQclMwUlBBU1ZpYXFWSGdPenpPMlhTSVRtM0ZGV3lEQzlRUnViLVdjRjd2V2haRFVmamh1TG1WM2pn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:25:24+00:00",
+      "summary": "半小时发现三个漏洞，AI智能体安全该升级了  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "英伟达发布全新人工智能模型，并扩建日本实体人工智能产业生态 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZV9LSmY4RDdRa0ZjOFYwaHZiNnJ2eFk4MjBmbm8zbGZEdGdNSDhKS3dnb2t0NjJkZUVtS1llYVdpem9nU2FBN3N2clgxWFVsR1hoUFdiMUctWFYwdWxLc0FOYlFrbkpJQm1KeFJGWFpfMndhVG92d0QzRF9ac3hGN0NCQnpYbzZjME51MjZtMFpOVDBkbUhUZjBDMlhWc0IzVGlrSUVvZHZUVFl2di0teVhpUlNFT2JHNHBqWTJCZkdSVUE3RldzcmdGZnh0NkxUbEpfMWJYQU5jZ1JOT28xNEgwOVBQcTZIUmRsNGJrWUVqOEZTbUJmeHg1Z2tiZmlDSUdBNFNBak9sem8xUFNMeVgyVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:18:45+00:00",
+      "summary": "英伟达发布全新人工智能模型，并扩建日本实体人工智能产业生态  新浪财经",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "谷歌： Gemini......_7x24快讯_新浪财经 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iZ200MUM5LWN4UnRqUWVYeS1uR1lpOWcwLXNkWjNzOEFuQnFTNGhiTnNRNTZkb244RE52emJIUEo2bUNtT0I2X0lBVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:10:21+00:00",
+      "summary": "谷歌： Gemini......_7x24快讯_新浪财经  新浪财经",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "别再写提示词，Claude官方亲自教你用4种循环自动干活 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43dHNYekI5OUxkanZaQkVDQUpUbVdsWFF4ekhWRTA4UmM0Vkx3M0JNS1J1dG91M2lNdWh6T1d2UVlkRmJLSXVFVVMtWjdMelFTMDhGVEEyanBoMUdlN2FlQ1NR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T16:02:45+00:00",
+      "summary": "别再写提示词，Claude官方亲自教你用4种循环自动干活  手机网易网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "关于发布7款提供手机端侧生成式人工智能服务已备案信息的公告 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUlLR1lKMUhxeElvTTgxWjFyTHBnaHFhVklCMjFhb3FobVd5OEZQbkhURkJ1Rm1hME5rYW4wX2JiWFkyVjlzQUtfelpPMjI4TDhfVlB2RzFPSUhuRUpVeGx5c3BXS1MzLWg2YnRBcmVzd29kUEFrbnpDdHJMVGlyNVhXSl9RM1pZaS0tU0RRRUpFMklZVjJlSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T15:55:25+00:00",
+      "summary": "关于发布7款提供手机端侧生成式人工智能服务已备案信息的公告  新浪财经",
+      "categories": [
+        "local_model"
+      ]
+    },
+    {
+      "title": "智能体AI时代催生“超级消费者” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXZIQW9uN1VVMldIeUFsZl9qUkNESGN6MmtsLURHM2M4a3Q4NzBlX3JEOVp3dEZSWTRQalNFU2tCRF90UHJCQ0J2SlBhbnZjMEZfMGVkemR2M2pfN1NBRFRpMUxxUnlmeThjNFA0VTRzU1hac1VGbFR0N0huWGVIbTl3NHJEbEk1dllySi1tZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T15:27:43+00:00",
+      "summary": "智能体AI时代催生“超级消费者”  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "几百块芯片=一块芯片?中国\"超节点\"让大模型跑出加速度 | 未知之境 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjenMtQTZDbmxfSXhSOXRDUTRpWjdLVi0yUVJjQm9nbmJWMGs1SWpYU3d1VUZFVFpwVjJWOUtRT2U3NW1fdDlaMXFURUY0Wm1vaFlhRw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T15:19:34+00:00",
+      "summary": "几百块芯片=一块芯片?中国\"超节点\"让大模型跑出加速度 | 未知之境  第一财经",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "Claude 进军 K12，AI 巨头终于开始抢学校了 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIcmdvQXBqSERNdDVxYVRyUzU5VVVKdzFIUThEYUlhTVZ2ZXBtamFyVk9ZaGVwcjR0X2R0VWx5NEtkZUtuM1lEWVVma1JWaXRCWVRUTS05X0ZQUFFCb1Z6Sjd3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T15:11:14+00:00",
+      "summary": "Claude 进军 K12，AI 巨头终于开始抢学校了  手机网易网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "2026年，智能体实干元年？记者实地感受，“数字员工”可以帮忙打车下单了 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fQmFmcWhNLWc0S0lrVWpXbVI3YlM0X1ZaYWFvMG1NRTREWW1hRGRYTVpYRXRvVUtDSlRmb05lSThPOEVBOEFGS1RRRWFNUFFJX1hTX19OZnpDa0Q1Q09qRE5n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T15:09:25+00:00",
+      "summary": "2026年，智能体实干元年？记者实地感受，“数字员工”可以帮忙打车下单了  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "3508亿元！DeepSeek估值被“剧透” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGZ1dVAwVElZR3VuLUdaMk80U0ZwdUhxbnlna1NFV2VuQTJGY0RWb05sS1ExUmxzODRGV1dueEY0eGE0dEVKeDBERElNQWItSHVSVGVzUkxsVlJDSjYtaDRfZzMyWDZ3TkZ4dGFEaFZ0Y2xZTThOMGg1bjVjUWIzX3V4Y25OOEJ4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T14:45:40+00:00",
+      "summary": "3508亿元！DeepSeek估值被“剧透”  搜狐网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "DeepSeek估值曝光：超3500亿元，这家A股公司间接入股 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TaC14N2xvT2hxVjV5akNVX1RZUGpLanp4bTBIR1liUGFqN3VzcVhnLUxUd1J2ZmhMcnVqWms1a1RMRkgwMWZxeGpaeXBvNFpGQkRacm1LMjFST3FERWNxaVNn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T14:29:51+00:00",
+      "summary": "DeepSeek估值曝光：超3500亿元，这家A股公司间接入股  手机网易网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "IDC发布2025年中国金融大模型及智能体市场份额报告 蚂蚁数科位居第一 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqV1FNbktFWTF1WF9mM3VPQ2FLMDlTaFJDQk04ajdXTzhyM1FzcnYzYXhTcFNrZTdNTWxRSXkwbk81UkpNbC1UekJwMWRHdEMzekpmbHdYdnhTNXRIazhibXRR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T14:14:11+00:00",
+      "summary": "IDC发布2025年中国金融大模型及智能体市场份额报告 蚂蚁数科位居第一  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "世界人工智能大会提前探营：机器人“打工” 大模型“出圈” 这些“智能伙伴”已就位︱未来・️#WAIC2026 #科技未来观 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkNuRVAwc3N4NzF5MkhLU2pkV0V0RjVsUVNqeDVpa0hmTk5CQXR1dzFyc2pMSkoyYVk4aGFCc0U4WWdHZEQ5MkhUanMxZDdJbWk3dmhYVVhPb3NrODZaMUo4cTdtYzVjUlBSbjhjSUlsU19Eak4xem9wOUs3RUFCVGNDaG5YNHpO?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T14:11:42+00:00",
+      "summary": "世界人工智能大会提前探营：机器人“打工” 大模型“出圈” 这些“智能伙伴”已就位︱未来・️#WAIC2026 #科技未来观  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "梁正教授参加清华大学第43期文科沙龙并就智能体风险与治理展开跨学科对话 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFTGxFNGZ2R3lDTV9nQWsyMkplVUtfRWdMcGpjVU5qQ0hJemdGRTlzb0lwb3lodERHT2xZa3BMZWxFSjZWeTFDSA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T14:10:00+00:00",
+      "summary": "梁正教授参加清华大学第43期文科沙龙并就智能体风险与治理展开跨学科对话  智源社区",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "时代锐评|情感类智能体批量下架，用户的虚拟依恋不能一删了之 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzWk9NRk5wUGlDNllGc2d6ZUloU18yc29qOEFmeTVpYTA0eU5JUV92YjJmR2dPdXBzWHFzbk53QThTSk9FSWFMT2h3WHNudV80TGF3TkYtT3NKeXJDOUg4MmV3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T13:56:16+00:00",
+      "summary": "时代锐评|情感类智能体批量下架，用户的虚拟依恋不能一删了之  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "覆盖算力、机器人、大模型，江苏科技企业即将亮相2026世界人工智能大会 - ycnews.cn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96M0pJd1k4RTZqNFd1c2dGeHdaUzZTdk5TNmRIWDY5UTlxZk5PZEFiZUJxbGRQMmlkYlFNYlZjTXowM3AxZ0RDZzhaRnhrVGhCS3J2SnpiV2tNaEZ2Ri1GcS1qLUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T13:41:00+00:00",
+      "summary": "覆盖算力、机器人、大模型，江苏科技企业即将亮相2026世界人工智能大会  ycnews.cn",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "告别手动操作！AI 智能体手机来了 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tNjVLYl9xOUVLQXdINGtLMFNBMWtmT1RDdjlCeVV0dnl2aWEwNmZNTHNQdTZ0MDc4QVdxblk0eDg5NHhjMkl4eElQZUFYV0Vadzc4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T13:32:00+00:00",
+      "summary": "告别手动操作！AI 智能体手机来了  电子工程专辑",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Cowork干不了，这个国产AI全包了！6小时的活15分钟干完 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm9pQ2JvT05NVXlkZmZGQ2d6bWs0U29SZUZMdDRoRlVzYmVHa09rZWJtNHBSOFF3MkZoUGdiM3RqdUtJZDQ2NXY1cUtIUVNUMS16U2RacE1Qc3Q3djNRRTlDeG0tbEMzd2tHbk5aZDBfcVVrMlY4UEVjLUk5bmxHSFVmVlZNQzY2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-16T13:27:27+00:00",
+      "summary": "Claude Cowork干不了，这个国产AI全包了！6小时的活15分钟干完  搜狐网",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -23,128 +258,14 @@
       ]
     },
     {
-      "title": "社会科学研究如何用好智能体 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mZEVxWWdEZVctSERpNkpvZFBaY3JLd1N2UFJETml5Y1hMNFJIRy12N25ua3dnSy1aYUNmam9nenZzREU0RDc5RURUaWxsd2x2YWtHM0p0X2tGSzJXOVU2OEZ3?oc=5",
+      "title": "【#DeepSeek估值超3500亿#，#DeepSeek开启第二轮融资#】7月16日，开润股份16日晚间的一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。记者从接 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CclY3MUFHVWEySVR3SjlaNkFfQkVhSmZaR012NWZ6Z3BTUktiTkd3dnBuUWVtMU93ZjVwQ1hMQ21yLVlFYUh5V3hvWHRaM0lOS3RNYlhWREI2aS03ZjIxc2xKRQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:44:47+00:00",
-      "summary": "社会科学研究如何用好智能体  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "努比亚 NaviX Ultra 完整外观曝光，四款配色登场，首款商用 AI 智能体手机定档 WAIC - 电玩巴士",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UQzY5X0RranRZbjZpN2g0MDh2bUljYm1nNXE1WE1xc05wYnlnU2JLbHFXZ2RrUk1GZkk0aGY1ZGZFTHk3SXZJRk9TRTl4QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:44:00+00:00",
-      "summary": "努比亚 NaviX Ultra 完整外观曝光，四款配色登场，首款商用 AI 智能体手机定档 WAIC  电玩巴士",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek估值超3500亿元 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObDJyLS1sbi0yQjlLa1VPb3E0VmlhN3FES3MwZmZ1cTh5OHpKVld6RzBkVlZxeUE0OXYzSHkwYktnZVpxa24wZ0I3aTlYcmIwMmk1SDRreG5PczNHQzl3SjQ4VWJNMmh2c1BnNTlBYXJVaXpwUmxUM2J5TWJOUUw0djFPc3h3U05s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:41:05+00:00",
-      "summary": "DeepSeek估值超3500亿元  搜狐网",
+      "published": "2026-07-16T12:47:00+00:00",
+      "summary": "【#DeepSeek估值超3500亿#，#DeepSeek开启第二轮融资#】7月16日，开润股份16日晚间的一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。记者从接  新浪网",
       "categories": [
         "other_big",
         "breakthrough"
-      ]
-    },
-    {
-      "title": "拟人AI智能体全面下架 - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1idlI4bkVCWXFwLUxOOTY5enllMWhWS2NaMGx6d0dleGpRSUxHcTZPRGJVZzJMUzZHMzlSYTNLLXptZW9CVGY1bTdQNlFMWXNTaDBORDhVa3ZOc0ViYWFtS25ROFJBbTZtRzB4bUNRcXBpajV3T0hLQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:40:44+00:00",
-      "summary": "拟人AI智能体全面下架  新浪新闻_手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型原生智能体手机STEPX Neo将亮相WAIC - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHYkdMYTlHdnBpZlFOdE96S3o5eWZBYmk3bjlaUUJwendESWtITTZxS2dUcWpWUG43c1NsbEtVMFpmM3dRblRkRzNGNmpBb0dMZkw5ZjQ3aFYtTzluUzZxcTVR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:34:42+00:00",
-      "summary": "大模型原生智能体手机STEPX Neo将亮相WAIC  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "无锡“AI+软件”交流会 | 润和软件：开源鸿蒙与智能体，释放跨端全域场景新价值 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TenNJcFFMOUQ4bkt6Q1lMai1jb1YwbGl2VzJiak1sdEE5Ui1sb2xIclE4QXRQMzdyaGUyRkc1YUNsd1FOWE9tSWRUcUJhNnAyVHdfVWFHQzFMNHpPNk82SmF3N1lDaU5rZGFLS1B0em55akJXUmh5QVVjZTB1czg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:21:54+00:00",
-      "summary": "无锡“AI+软件”交流会 | 润和软件：开源鸿蒙与智能体，释放跨端全域场景新价值  新浪网",
-      "categories": [
-        "tools_apps",
-        "open_source"
-      ]
-    },
-    {
-      "title": "豆包 千问下线智能体 AI聊天搭子要没了? - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzQtQXpmOFNscUd3TFUtcUxCT1ZybFRCeUlyVVdUZ29XUWgya2V2Z1JGYnVKNV9USVdiZmpuNTVyY1FIMDJ2YTg5c25qT1lTZnFrbUozV1lvLU5kbFEzTnBnRld4VjV2dWJjYm9rYVZjblFid2ROYl9zVVNqbUtTNUhINjZwcXFpbVktYg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T12:12:26+00:00",
-      "summary": "豆包 千问下线智能体 AI聊天搭子要没了?  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "世界人工智能大会提前探营：机器人“打工” 大模型“出圈” 这些“智能伙伴”已就位︱未来・♾️ - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03ZmFsd1VIVUdyTGp6Rzk1Wm5ueW04SU01Q2RTVk1PbndSaHV1WUpNRWpxSzNVZzl5QllibmRvLTRtR3I0WlljeldRbWxDZV9OUmU3dw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T11:49:53+00:00",
-      "summary": "世界人工智能大会提前探营：机器人“打工” 大模型“出圈” 这些“智能伙伴”已就位︱未来・♾️  第一财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "聚焦WAIC｜“峰谷Token”，“虚拟细胞”……阿里巴巴多个智能体平台展区集中亮相 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM3J0SUdSUm13UURCQUxOYURPejhpeHNGWGktMTdwRWgxYjR2akZjXzROUUdUOVc0dm5VNG1UWkpqTjctbUZfVTNyVVotTUhabU5xVTQ0ek12RWlwQ2ExUEdsMWQ3bHhtZ2lucHhlT1VwdnNBWHhTMFM0NmNTejVCcFpzeHhVeDBfUnhmMw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T11:49:21+00:00",
-      "summary": "聚焦WAIC｜“峰谷Token”，“虚拟细胞”……阿里巴巴多个智能体平台展区集中亮相  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "阶跃星辰发布STEPX终端品牌 全球首款大模型原生智能体手机亮相 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BMzBXZDlNNG5xSUc5TzhzZXFYME9uUENSdFNBdF9EZEtiakpZdWszRVIteTNETm8zWEVkT282dV9vLXAzbTJvUVhVVVVRRnNnckw5RFZSbWF0N0xtbGo1Zi1R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T11:49:08+00:00",
-      "summary": "阶跃星辰发布STEPX终端品牌 全球首款大模型原生智能体手机亮相  手机网易网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智能体互联 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CTWlwclZOSHo1SHBwbW9QLW5ZOFJmVi1UbnAtUWZPQUN3aENOSGJ0U29EbGhEUzhsTTNuZUNGM3NHbC1uUjRSZFp5OVRURlVRcmtDaUwzZUlsTlhGRk1oQzln?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T11:40:46+00:00",
-      "summary": "智能体互联  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "努比亚全球首款AI智能体手机四色公布 幻梦粉最吸睛 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YclM0c2N0eGhnWEttbWVKYXB4ZndhaE1KMERQS3RyMUhQQkdjWFliR0d4ZWZ0TGg0RXpZWHBfMzJuNjd2N0dUSGNzNmJ0UjNpTjdn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T11:13:00+00:00",
-      "summary": "努比亚全球首款AI智能体手机四色公布 幻梦粉最吸睛  电子工程专辑",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
       ]
     },
     {
@@ -158,115 +279,13 @@
       ]
     },
     {
-      "title": "AI重塑上海文旅全场景！智能体、硅基讲解员、AI短剧齐上线 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKWWx3TVlVMVdET01MRHp6bEtUNFNNRVlpTmc2S05VQ3VuNXZidS1GYVlGNUpZaDRjekpaUDFUVGJfdGhJQ1B5aXZzd2dVZEt5OEozMHpKRVdtUQ?oc=5",
+      "title": "90后团队携手老师傅，让AI“读懂”工艺----非标机加工工艺大模型「沃土」 在沪开源发布 - 美通社",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qcnZZUENrSldldHFtbWp4d0t6dS1pSWo4bnUwcDBqNjdqbTdkN01RVmJmOExHSTZIejlJUGZOTjN5ajdTTzg3UWUzUTczM09odk95SGxLaw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:59:00+00:00",
-      "summary": "AI重塑上海文旅全场景！智能体、硅基讲解员、AI短剧齐上线  上观新闻",
+      "published": "2026-07-16T09:42:00+00:00",
+      "summary": "90后团队携手老师傅，让AI“读懂”工艺----非标机加工工艺大模型「沃土」 在沪开源发布  美通社",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "几百块芯片=一块芯片?中国\"超节点\"让大模型跑出加速度 | 未知之境 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjenMtQTZDbmxfSXhSOXRDUTRpWjdLVi0yUVJjQm9nbmJWMGs1SWpYU3d1VUZFVFpwVjJWOUtRT2U3NW1fdDlaMXFURUY0Wm1vaFlhRw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:47:34+00:00",
-      "summary": "几百块芯片=一块芯片?中国\"超节点\"让大模型跑出加速度 | 未知之境  第一财经",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "阿里千问首款AI智能体耳机将亮相WAIC - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQk1mcEZRT1prc2FzYUUwQ0EzeENTVUZCT0hxeFV0dFN0X2pDWkVhVG16dXN1ck1RRmlqc2xVbmQybjhCdWY3djhXcG03SE1iajhKZkNGUC14NW5nNVVXQWlUUjVyaWsxZXNMMm9ydTcyMEtwQlprWUgtcnBxVFlDTW05b2RicFNu?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:36:56+00:00",
-      "summary": "阿里千问首款AI智能体耳机将亮相WAIC  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "从“改壳子”到“三层重构”：悦积分 7.0 给 AI 智能体化升级立了一把标尺 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BUFVaZzFFZFBmYU0yMmI0SS1NOEVGYnJwQkQybVh4ZF9wTjl1YXA4ZTA0S0QwWTcwaWNkZTdnRHVNWmRyZ2UwSk5WUXlBZXZSQW9yZnJCOUFqVy14TEhhZ0NB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:36:51+00:00",
-      "summary": "从“改壳子”到“三层重构”：悦积分 7.0 给 AI 智能体化升级立了一把标尺  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "#豆包就是这样糊弄人的##反对豆包智能体一刀切下架[超话]# 我们用户并不是不理解合规调整，但一刀切下线自定义智能体交互功能，完全忽略了普通用户的情感需求和创作付出。就算允许我们导出数据备份，只能静态查看记录，不能再正常对话互动，这份陪伴也就彻 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkUlI5cVQtOVY2Wkx5UzFXNzFWQWlPZXFwU1ZRNWp5TTVFV1ZsSHg4Mi1ZT0ZxdTUzSzRzdG9LMDhJMC1Vb3VMeXViTVFUc3BZUk0zN0sxMjE3OTJhM292aURiUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:32:00+00:00",
-      "summary": "#豆包就是这样糊弄人的##反对豆包智能体一刀切下架[超话]# 我们用户并不是不理解合规调整，但一刀切下线自定义智能体交互功能，完全忽略了普通用户的情感需求和创作付出。就算允许我们导出数据备份，只能静态查看记录，不能再正常对话互动，这份陪伴也就彻  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "盖乐世AI通过大模型服务备案，三星再次抢跑 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sTG9ocm8zUTNyS2RLck1fd0pzbjFNOWpDcmVPLTllaUxMV3FsR0I1NHBWcDhGVzdwNVlpOUctQnBKRE0xQWNVSzBDT0ZvUUsyT25yaXNVd1haRDktZU9PR3F6dkpJUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:29:24+00:00",
-      "summary": "盖乐世AI通过大模型服务备案，三星再次抢跑  三易生活",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "对话式AI过时了？办公智能体开始卷“能交差”了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYm5oZTV5bjlfOWIzR2ptb0ZHQXREaF8ydXJNOUQ4QTgxXzhHUEUybGVyc3FWR3lCaVlnOUZiODhpWmNnaG9XRFZFd1lrNzlIc3l1U2dEc2dkOW1YSXJmeHBreC1Xeko5OFZZQXhJRVQwQkhvMlNyVDJZMHEtaWZwbkNQZ0R4VUJCTUdkZA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:21:06+00:00",
-      "summary": "对话式AI过时了？办公智能体开始卷“能交差”了  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "重磅发布《数据驱动的AI原生软件工程战略发展白皮书》 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XOV9wU1VIN3RuS0xnR2pfMlVQcU5qUm9pcFViSXYxSkVHZ3IwanFqUVJUWE43SjlmTkVwcHFiLXB2UzRWeWUtRDFvdVlNQ2FsTi1IM01UXzlLcVhGQjFIcXV3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:17:48+00:00",
-      "summary": "重磅发布《数据驱动的AI原生软件工程战略发展白皮书》  同花顺财经",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "华为云顾雪军：华为云Stack+盘古气象大模型，赋能清洁能源数智化 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGlyOU9zSXY5dzZjSktiRzN5S0FJQ2doaHhGc1VtVWNZb0xpQlphX2JtQkJ5aEhfeDZtUnJhcXRiLVo4UDYyNVdZY09qU3lWdVZVaGQzLTFxN3BPTm13VUkxNENQWExBT2VfZzlqTFBMdGx0c0cyS1BTRDJsT0N5LU5SQ3JaVmVnYTNDWg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:14:37+00:00",
-      "summary": "华为云顾雪军：华为云Stack+盘古气象大模型，赋能清洁能源数智化  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "全球大模型世界杯决赛预测出炉：天禧AI、ChatGPT等力挺西班牙，仅DeepSeek、Manus、Grok支持阿根廷 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0U3Ym9wSEJOQVo4M015WlUyX2FocXN2aDY4WWhjdGhHeFpsdDY0a2V1bUhibFZKdUhmcHUtMnIxb2wtMkVFVmhlT1dhWHpkcVl0OXdFd3NQd1lRRnhpUXFKVGUyLVZxc0hlQTFuMFp6RWxMd0hUa0ZFUVU1UV9DMHo3azk5QWZRZU9zbQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T10:11:28+00:00",
-      "summary": "全球大模型世界杯决赛预测出炉：天禧AI、ChatGPT等力挺西班牙，仅DeepSeek、Manus、Grok支持阿根廷  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "努比亚发布全球首款AI智能体手机NaviX Ultra - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5ajg2UEdZTFZXOTI0azNaUUhRVk9GbkxYOTd5alY5MnJhelFmYjcxWDdmcm5wNTBOLWpPNUJSRjFJclV5dnJOU1dUS0ZIZkU2bndnbDFEUjU4VGMteGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T09:46:03+00:00",
-      "summary": "努比亚发布全球首款AI智能体手机NaviX Ultra  DoNews",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
+        "open_source"
       ]
     },
     {
@@ -301,30 +320,20 @@
     },
     {
       "title": "雅砻江水风光一体化智慧运营大模型在蓉发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTkyc20xb0xNN1N0eDVlUVB3bTJ3Y3pUcHdvd05lcUE1UUFZdVVndEJ3Q1J2aUlLbEdhdmZTSGdPTTd1NDJ1RXZZRVMtVmJ0RXd1NVRnbkFCMGgwSHRsOHkybzZJT1FBZ05xUjFRQmI1SkNOUmNOaS1EYVd2VUdkODZQVXpSN0VX?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUE5tQnJKbUM2cUNFQ3A1UmpjME1GbnVKN21uRHNiUUFTdlNZbGlDbnFsOHZxYlN5b2psWms0LXhzMVRRM2Roa1JXOS1BRGtPeGhKaWs0VGt1M2ZtTDRxZ25sWnFZbmlxSm1XYmdJU00yaGdfUFYtbjJmVV9TM0JQeXVJWEZXMnktOWpsag?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-16T09:21:14+00:00",
+      "published": "2026-07-16T09:18:14+00:00",
       "summary": "雅砻江水风光一体化智慧运营大模型在蓉发布  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "IDC发布2025年中国金融大模型及智能体市场份额报告 蚂蚁数科位居第一 - 雷科技",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZSGRpTW9vaHVzSzFidTE4TmhaVzlvMHB1eFVKbGVwSFU2dDRJNlBzSTU2RXBjS2ZFQktrdERwZldaSTlFR1FOMVI3bkhLQQ?oc=5",
+      "title": "金山办公发布两款智能体 覆盖个人级与组织级两大场景 - 央广财经",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tcXdJWC1nYXFXQ1pfOVltQ2V2aE1pbGV3alB1TkNWMVVOZDk2Qmgtd0xTenVValhXMzljbmR5MldDWUc1dS1GeFpZVVk2R01zOUUtYlVQa0RKdWxLckFWMnlNWUVjbGZpV0VPdkN4SkVNTFU?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-16T08:21:57+00:00",
-      "summary": "IDC发布2025年中国金融大模型及智能体市场份额报告 蚂蚁数科位居第一  雷科技",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "金山办公发布两款智能体 覆盖个人级与组织级两大场景 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUIxZnNEX0NseWh1dlcwQkZpWUpPalJESHl1bUhhTzZWLW1hT1hZMlhiZ2RVMkdRanp6ampiUGtRbW95NnltN1Q4a2xETkdPS2VHYzJBWlBlZG8tSlpMajhwMjJPZDZ6QlRtaDRnMUtlLVJyMDd5OG9KOGlEOVE2aGIxS3ZDdWNF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T07:50:27+00:00",
-      "summary": "金山办公发布两款智能体 覆盖个人级与组织级两大场景  搜狐网",
+      "published": "2026-07-16T07:50:04+00:00",
+      "summary": "金山办公发布两款智能体 覆盖个人级与组织级两大场景  央广财经",
       "categories": [
         "tools_apps"
       ]
@@ -337,17 +346,6 @@
       "summary": "AI云厂商大模型中标半年成绩单发布 百度智能云金额第一  中国金融信息网",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "蓝沃 AI 开源发布行业首个非标机加工工艺大模型「沃土」LevelField-1，工业 AI 从\"数据智能\"迈向\"理解工业\" - 美通社",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KajJlMkgzRGc3SkMzeDZDTUhmMHRKcEhUTkU4RjY2eThkQk5hWnpmSUJkT0xPR1lDbGMyVjJJWjh6M29YanU2a24zampaZFB1SEQwNnlIbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-16T04:09:00+00:00",
-      "summary": "蓝沃 AI 开源发布行业首个非标机加工工艺大模型「沃土」LevelField-1，工业 AI 从\"数据智能\"迈向\"理解工业\"  美通社",
-      "categories": [
-        "breakthrough",
-        "open_source"
       ]
     },
     {
