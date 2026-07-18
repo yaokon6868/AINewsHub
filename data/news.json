@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-07-18T16:27:41.579896+00:00",
+  "updated_at": "2026-07-18T17:33:12.941769+00:00",
   "items": [
+    {
+      "title": "腾讯首秀具身智能全栈方案，多款基座模型与智能体发布 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsUHByWmFvb3YtV1FZLW12VWVlNXBVcDV2eDRleDZxVEZvTnVzZHp1ZzVlWko0S29kbXlidjVNeUI2dzY3OC1LRXI1MDQyUGhaWUVTZmJYeDRZQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T17:09:00+00:00",
+      "summary": "腾讯首秀具身智能全栈方案，多款基座模型与智能体发布  上观新闻",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTc3pLNUtmNGVJaGptQl9odjlJaEtMbGRMcGhVcjVpdGpudFVFNEtWSTJKOTJQVVVTbU94dU5FN3dEejlSQTJrbDlMQVZfR0tWN194TFVwalNNRUtGZU1oeVhaOEt0S2M1NXhxMWs3QUtjRXRfSDc4b2hmWnd1dm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T16:55:00+00:00",
+      "summary": "华为云WAIC“亮剑”企业AI，周跃峰拆解智能体规模化落地步骤  手机新浪网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BemJPZG1CNnluUG8zNXZwMXdrVE5BUXNMbXBBYjhRQUYyVDROU2ktOWtLanFYZjBCWnZraTJnT0h1eXpIbk5keA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T16:52:54+00:00",
+      "summary": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍  凤凰网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Cursor工程师：Claude Fable 5最核心的能力不是跑分高，而是处理那1%的未知难题 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FOV9PeEFTdkVvQWxwckdyZV9wUi0wODVsRDJfZUQxdW1KaFhsLS12VzVzRlhJS0ZiUTVDNVVGWGhWbUZBaUVWUEVlSkxydkZ3TXJkNVBNUE5IWk1kaDVqTzhR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T16:27:46+00:00",
+      "summary": "Cursor工程师：Claude Fable 5最核心的能力不是跑分高，而是处理那1%的未知难题  手机网易网",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "终于用上 AI 的公司，发现业务被大模型公司抢了 - 极客公园",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qQi1LYVd4VEhGZDU2blVxUTRiMGlOdFlxMF9WOEx4Q0ZEZFk5T1NURVZ4OXN1NUlQUnAya0dCZWRZdEJDeFBfQWxuenU?oc=5",
@@ -12,6 +55,17 @@
       ]
     },
     {
+      "title": "阿里云发布Agent Native Cloud：让智能体成为企业原生能力 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXpfTUp3enowTC16cnBNVVFqQ3pCMkRCLWFBa1VWMzQ2NGIzdm9JeHlfS2hVMndBY1U5NndMYUJNTjdoSmt6MnlqR1RNbG1QY3Qwdldad211TmloNmFlQ2lGX0xibmMzTndvVWN3V1JVc3B5akI5dmVIOWoyTEJSWlY5SDFTRkRO?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T16:08:00+00:00",
+      "summary": "阿里云发布Agent Native Cloud：让智能体成为企业原生能力  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "大模型头部玩家Minimax：模型“进化”仍需重金投入 已具备健康“造血”能力︱未来・️#WAIC2026 #科技未来观 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQ09rTVYxbjRoVHhJb0d6a21KUkhPaUhpc2xQTXl2NDUxZWs4eU1aOUxUWkZkeG9oN0FtMU4wUElxeTctdHdubzVRMGNOTzZvNUItZEFTTFBMRkJYNV9maE1RajVXRzg?oc=5",
       "source": "Google News - AI(中文)",
@@ -19,27 +73,6 @@
       "summary": "大模型头部玩家Minimax：模型“进化”仍需重金投入 已具备健康“造血”能力︱未来・️#WAIC2026 #科技未来观  搜狐网",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkRqNXZqUGUtSWpRUzVQc0p4V1N1d3JlWGN0LVp2LXAyYUphc3VUMWZ3Q0hzWVJtZ2FyV2Zna1ZlQlU0SjdpMnBFd1VQbkFyb2FCMVVQdTRjcjlVVkI3ZjZnVnp0U1lWN2dZajJpcUh0elJoYXhpZGNPenJJMHd3eDdjbHBMRF9N?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T15:55:12+00:00",
-      "summary": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "WAIC系列｜詹文龙院士领衔 AI for ADANES技术路线首次发布 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMzJvR1BsZ0lVYmNWT2NnYlNtVHJ0OHc1VHpNR1RkQlJIUVVnSnF3aWNhLUNQaVZ0bERIR1hNR1l3Um1rQjdLc1ZZdkw2ZjFtOTFDclpfcDFVd3diczJkX1A4eTFEX3FMZ1d3a0hPeTV5UVdmYmo0aE5Ic0NFdGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T15:55:05+00:00",
-      "summary": "WAIC系列｜詹文龙院士领衔 AI for ADANES技术路线首次发布  手机新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -63,13 +96,13 @@
       ]
     },
     {
-      "title": "“掌上机”驱动千亿参数大模型，后摩智能携多款AI终端亮相WAIC2026 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZVFZTM0JJY3pDc25ia1RJZ0hLU3BfQ240WUZpeWZnWUpnblNieWpmNjlpeGlOSzlSOXNqQXNVclNSODZWY1pQbG52ZjdFT3VEU1JzUkExYjhZVE1KU2xvM3FGc1hjdTVCS01FdFI5TVJXbUxEMzVTd1VkRDIya1k?oc=5",
+      "title": "AI向“实”生长，龙华街道AI智慧康养智能体WAIC现场首发 - shobserver.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTckhLTDNpX1Q5SHExa2tjRExhN1hZc0loME1XLWthZ3lKSHItNDl4YkJyS3ZycHlRRjZiOWR0WGk3dHREaEozMlh4TmJwbUtWS2RhOEFleFIxYUF2?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T15:25:53+00:00",
-      "summary": "“掌上机”驱动千亿参数大模型，后摩智能携多款AI终端亮相WAIC2026  手机新浪网",
+      "published": "2026-07-18T15:10:00+00:00",
+      "summary": "AI向“实”生长，龙华街道AI智慧康养智能体WAIC现场首发  shobserver.cn",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -115,11 +148,11 @@
       ]
     },
     {
-      "title": "模思智能从MOSS起步转向语音多模态，专注情境智能 - 虎嗅",
+      "title": "模思智能从MOSS起步转向语音多模态，专注情境智能 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pVDYyWGt3WmtCUy1xWHlrUVB5aTZOcEtDRzJVT2FxWG8xdnRxa3YtXzF0QlhCdlN6aU5aN3hUdElnMVhTeUZ3bTYzSDg0ajEyVF8wTA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-18T14:41:29+00:00",
-      "summary": "模思智能从MOSS起步转向语音多模态，专注情境智能  虎嗅",
+      "summary": "模思智能从MOSS起步转向语音多模态，专注情境智能  虎嗅网",
       "categories": [
         "other"
       ]
@@ -177,6 +210,16 @@
       ]
     },
     {
+      "title": "滴普科技(01384)正式开放DeepWorks企业智能体平台 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82dkhkRW84UTNSbjhaa3VEaTB2MWZXZ1dpOG1qU3p0NmdtWVRieXNXVGxxOTVYb1J2Ui0xdDNUSEZtTjhGZ0JPeGFQUF9jRUh0WWhZS0d4QjhDV0JKa25FM2Jn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T14:01:17+00:00",
+      "summary": "滴普科技(01384)正式开放DeepWorks企业智能体平台  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视 - 凤凰网",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTEJEUFFSZEFyMDhETzBuVExUU0lTdl9jNG5zMzFKS1dUTlBPc01oVEpscUJDS3V2OFRQeWRkVzNhSVFUeU9yQ2Q3MjA3NlE0?oc=5",
       "source": "Google News - AI(中文)",
@@ -227,21 +270,11 @@
       ]
     },
     {
-      "title": "大模型救人命！从罕见病到肿瘤病理诊断，上海交大5款垂域智能体路演WAIC - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yMEJoa3kyUjFoNlNiblk2MG9HR24yT2hwR0dHZ2p2em9nbmNVVF9zMWFfaHBDc1JaVjE0MVNzaGFuT3dkN1VQVG5zZTJsaTFvMXNJRS1R?oc=5",
+      "title": "大模型救人命！从罕见病到肿瘤病理诊断，上海交大5款垂域智能体路演WAIC - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MSE44Y2l3ZzdBb3REWGlialhOVzVadjlWbEVzemd2ci04Ulg2UG83NUNONGFrRDFkWThLMkVVWXdoc2ZFVXFKbjR3S3VWakRBR1lJWVk4ZGIzZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T13:16:20+00:00",
-      "summary": "大模型救人命！从罕见病到肿瘤病理诊断，上海交大5款垂域智能体路演WAIC  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "未来全球智能体如何建设良好生态？一起看中国方案→ - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45NUZxNHdwSDVrVlRPZnVwOGpHUF9WLW5McmdLQzNqYlE2ZmlsWnZDbXdMRHlCd1c4eGJfTGsydEpDSTNxcUkzQnktSEc4SjRyMVJId1M3d0VmR2dMUG5xYlV3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T13:14:12+00:00",
-      "summary": "未来全球智能体如何建设良好生态？一起看中国方案→  手机网易网",
+      "published": "2026-07-18T13:14:00+00:00",
+      "summary": "大模型救人命！从罕见病到肿瘤病理诊断，上海交大5款垂域智能体路演WAIC  上观新闻",
       "categories": [
         "tools_apps"
       ]
@@ -258,16 +291,6 @@
       ]
     },
     {
-      "title": "聚焦WAIC｜腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线 - 紫牛新闻",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tLVl1STRRTU16RWpLU0tVQ0VYOWVHTnRZSE5zM1hVOU1Fd1pWVUFZTS1SMGZoV0N2VVgzSUdWc2FTSUltUnB5Y1hiUmQtTUVIbGE5bjFnV25xb250UVZWbml6TTVybG5j?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T13:11:00+00:00",
-      "summary": "聚焦WAIC｜腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线  紫牛新闻",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "拿下 WAIC 镇馆之宝，这台「智能体手机」重新定义了什么？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcjBOWHFjX2hBWkJtU21nUTBTLXJJQWw0RGlHdE9BZXdNTi1UVEZKQ0lpUDZYNC1MSEtYS2FueVh6RGNyMm5vTGRRYUdqVFNtWXRSb0k0UXRTd1VaemhleExfcmktb0ZydTZINC1LNl9VWHk2aHp5eXFJa2F0LThaWnVqc1RfSUFhekpMdDQ5WXM2dUJyQ1ZwZHM1emplbEVPa29mS2tlZ0xtY2prQk5sQU9oa3Q2bnBtdWRqSUlJWTIyV1ZreGRiaHh5ek1YMzJhbGNyNnFsbzdlaFhseGVMSnU3NEVRbmlGMkMtdVBDTUxaamV1ZlhzM3o1VFhQXzJvem1mT0tfdFo?oc=5",
       "source": "Google News - AI(中文)",
@@ -278,33 +301,13 @@
       ]
     },
     {
-      "title": "WAIC2026“从大模型到智能体：迈向自主智能新纪元”论坛发布多项成果 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1teFlseU9rNVNLbnA4OVdXV3FrRUhRT3NXVlVnU1RmMEk3SkdTOEhaSDJETFpxMWRFVDd1M0RtOERlWU0tSnU1R2pVazZ6N094VUF6OE1ZX2ppUEx5N0xLaUJn?oc=5",
+      "title": "WAIC2026“从大模型到智能体：迈向自主智能新纪元”论坛发布多项成果 - shobserver.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IXzl2anUyRGdOcGF1U3lVYVYyMUw2Wkt6cFlYeWdRcWdtZ2NqMUN4QlF6bVBnMWR0d2pfRnNNejd2NmtURVpNUXc2QWtxeUhsTzRpMDFUZE9jeGwx?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T12:55:12+00:00",
-      "summary": "WAIC2026“从大模型到智能体：迈向自主智能新纪元”论坛发布多项成果  手机网易网",
+      "published": "2026-07-18T12:51:00+00:00",
+      "summary": "WAIC2026“从大模型到智能体：迈向自主智能新纪元”论坛发布多项成果  shobserver.cn",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "直击WAIC|智平方类脑大模型亮相，让机器人越来越会“干活”|2026世界人工智能大会|NeuroVLA|考验|环境|大脑_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcGhkWS11UW1GNXo1eEF0blBvUFNoVjRwZUF4b19uNElFNkNTaFBvaXFFeGtROUtQOGFDRjBvaVg1S2JKU1Z3UWNDLW9ZUWx5NTRqMkh2YlNmZmp4c0ROREF0MHl2bVlnMkJPeHFSUEthb0tNUDVvWkk3a3gzTmhIeXY4WGN0ak9sMG9ubTVxWExQcnZvVXRNeDhiZUhjTkI1aTB1dERzZHRxV3lWNWp6bHRWNGJVLWNTdzVEQjhiQ2I4TEh5QlZrMGR2LVNrY3F6QnA0QzVHek5pZFdKWHI3OHN3YlhoNF9Td05UaVQxbE1SUEZFOXRqRlVMY2hXR0I0aGwxcGhISW1wZFZGZkVXejUzLUJfNHFOeGhF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T12:53:46+00:00",
-      "summary": "直击WAIC|智平方类脑大模型亮相，让机器人越来越会“干活”|2026世界人工智能大会|NeuroVLA|考验|环境|大脑_手机新浪网  新浪财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "上海发布一批量子城市空间智能建设核心成果 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkVwVFZ3YzJkb3JjNUQxeDBnUmdmLW50dElvWW5pdHdPcWIxWkdRNTJEYWk5LWVYTG9YVGRXTHh0UHdtSFlqNXlpa21rVUxrM1hydkUtSGYzWkF4RVVfcjJEOTZ5azE1aEo4M1NJdnNTNXpnNUNtZW1lTzNxRGJLRW9oNHcxRG9H?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T12:45:06+00:00",
-      "summary": "上海发布一批量子城市空间智能建设核心成果  搜狐网",
-      "categories": [
-        "other"
       ]
     },
     {
