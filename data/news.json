@@ -1,32 +1,93 @@
 {
-  "updated_at": "2026-07-18T15:05:59.472060+00:00",
+  "updated_at": "2026-07-18T16:27:41.579896+00:00",
   "items": [
     {
-      "title": "从AI思考到智能体行动 产业智能体互联网重塑产业组织形态｜聚焦WAIC2026 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcGZKVjVPaF9ON0FCZWIwQU82am14TG1FV3hHaDdLaEJGckstcElRQVZGXzZ4NHFiUXRiQ1NlajQwV3NWdlVYSkJkdUl1NjdqX01sMkNvbDF4UGdPUHN2MGE1a0phNnRNVE9qb3Fsa1ZGVUFROFpYaFkxeFVLS3d4RDdoTFF1X0xaNTVqNUhTYkxNMDhZTmNidUs5QnNCRy1TQ3Jpczd2cG5nYm03YUtFWS15TVVQVEw0VkItVzc4OThCNWRQUkJSdVVyQW53TGNoV2ZseFF6cWhHZl9seEptSS1aTHBMamdsRFE?oc=5",
+      "title": "终于用上 AI 的公司，发现业务被大模型公司抢了 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qQi1LYVd4VEhGZDU2blVxUTRiMGlOdFlxMF9WOEx4Q0ZEZFk5T1NURVZ4OXN1NUlQUnAya0dCZWRZdEJDeFBfQWxuenU?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T15:05:36+00:00",
+      "published": "2026-07-18T16:15:14+00:00",
+      "summary": "终于用上 AI 的公司，发现业务被大模型公司抢了  极客公园",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "大模型头部玩家Minimax：模型“进化”仍需重金投入 已具备健康“造血”能力︱未来・️#WAIC2026 #科技未来观 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQ09rTVYxbjRoVHhJb0d6a21KUkhPaUhpc2xQTXl2NDUxZWs4eU1aOUxUWkZkeG9oN0FtMU4wUElxeTctdHdubzVRMGNOTzZvNUItZEFTTFBMRkJYNV9maE1RajVXRzg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T16:07:47+00:00",
+      "summary": "大模型头部玩家Minimax：模型“进化”仍需重金投入 已具备健康“造血”能力︱未来・️#WAIC2026 #科技未来观  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkRqNXZqUGUtSWpRUzVQc0p4V1N1d3JlWGN0LVp2LXAyYUphc3VUMWZ3Q0hzWVJtZ2FyV2Zna1ZlQlU0SjdpMnBFd1VQbkFyb2FCMVVQdTRjcjlVVkI3ZjZnVnp0U1lWN2dZajJpcUh0elJoYXhpZGNPenJJMHd3eDdjbHBMRF9N?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T15:55:12+00:00",
+      "summary": "对话腾讯云副总裁：企业智能体火了，今年平台使用量至少翻倍  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "WAIC系列｜詹文龙院士领衔 AI for ADANES技术路线首次发布 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GMzJvR1BsZ0lVYmNWT2NnYlNtVHJ0OHc1VHpNR1RkQlJIUVVnSnF3aWNhLUNQaVZ0bERIR1hNR1l3Um1rQjdLc1ZZdkw2ZjFtOTFDclpfcDFVd3diczJkX1A4eTFEX3FMZ1d3a0hPeTV5UVdmYmo0aE5Ic0NFdGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T15:55:05+00:00",
+      "summary": "WAIC系列｜詹文龙院士领衔 AI for ADANES技术路线首次发布  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "被调侃为北美大豆包 谷歌回应大模型Gemini 3.5 Pro不及预期 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSjlTd1RtYS1wWWg2cTVnMGdNNlBsbV8wVUtwS29MYjJoVjhmUWtCcFZwNFNqMkhlX29ZYjFpaFkzTXR2ZC1hZzNhaXhKMml4VFJZZl8wRjJtNHJvQUdWTDJvT3dJSUcyTWtrakdXOGMzX2xpVGNLdkVjY2lxejhWU043VzFmOUxmc1Q4ck8xM1B4TDhHbGRXbFBQTTBUbXFtYTlDVG1sVWFSaE9KdWxXMi1ZTmEwNk5hdTB1TFFyWFo4Wm9BbnJnN0ltQ3U2cFM2VEJvaVlNMnc5UWlHa1BUallHQ3RRVkZpSTFrRFVoSU43WjUxcGtGSDN3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T15:47:56+00:00",
+      "summary": "被调侃为北美大豆包 谷歌回应大模型Gemini 3.5 Pro不及预期  新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "大模型的第二次迁徙，走下云端 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BbmMtU05sRHIwWGthcUFFejJfTUNYUEJudVdURmx0akxxOXFCMnNUd1BicTl5a3hERGw1cEZQMlk5UFZ4S09sNHQyU2NGZHlwdUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T15:32:45+00:00",
+      "summary": "大模型的第二次迁徙，走下云端  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "“掌上机”驱动千亿参数大模型，后摩智能携多款AI终端亮相WAIC2026 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZVFZTM0JJY3pDc25ia1RJZ0hLU3BfQ240WUZpeWZnWUpnblNieWpmNjlpeGlOSzlSOXNqQXNVclNSODZWY1pQbG52ZjdFT3VEU1JzUkExYjhZVE1KU2xvM3FGc1hjdTVCS01FdFI5TVJXbUxEMzVTd1VkRDIya1k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T15:25:53+00:00",
+      "summary": "“掌上机”驱动千亿参数大模型，后摩智能携多款AI终端亮相WAIC2026  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "从AI思考到智能体行动 产业智能体互联网重塑产业组织形态｜聚焦WAIC2026 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWWRYVmlmYzNzWUV6LWJoTmdGbEZhX3VWSXlxRFUxRUxZalhEb0dtWE9HaGc5a3NLTUpuemlvN1RPa2tmM1NrVEpKRUhtSkh0SDBjV0puTXV4cTRIODFWd0g2NWRLdTdod29Wb19aYUFEUUFOdlJHQlBuRzkyb1JvNVNYWjFrc0JtQjRQamRCWEQyaThRQ2Q3Tk0xdUd6endWSjFpMXRNWnpvbE13WTdWSjRuYlA1d2Z1b2N1c3BSVnkyMDBiOWx2Q1MtQXE1VmZfSmU2ak5haTNQZW54QlV4V2gxRUdIQ09JUVZJVzAwZmZqOHFWaVJHdWVCN0RRUVZLMGRzSUxR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T15:09:41+00:00",
       "summary": "从AI思考到智能体行动 产业智能体互联网重塑产业组织形态｜聚焦WAIC2026  新浪网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "智慧眼亮相WAIC 2026，砭石多模态大模型赋能中医数智化新范式 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1lZTDhyZlc0aE93MkM2VW5sWV8wWHJkRGZ2X0JObHdxTFBhSmF1d25lcy1YS2haaGFSVWFJd0VTYW0tSDBva1FjdFFqaUdiUFEzaFNtSl9uTGhNYm9OekZmZ1Nob2JQS3VlNllQOHVzOTNwZVNuZVlSUlF4NE1ZanNucngzX1At?oc=5",
+      "title": "从智能体手机到机器人手机 多模态交互能否打开新一轮换机潮？ - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmxWMENDaDNuWEVoeGRBVUttMmE0SW8zWXpheFVPSXlYVjBUZjRvRk5fYjk5UER4d1BVMjBUYUpYazdlWVRHT2xzTnhpUThweTgtSWVNbGp4MG5aTld0dUV1U2doeUJLWE5rNmlKMmNkSV9QU1RHV2Nzc3llcy1wVkFKTnRfeWlNdUVNOQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T14:57:22+00:00",
-      "summary": "智慧眼亮相WAIC 2026，砭石多模态大模型赋能中医数智化新范式  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Agentic AI进场，壹沓科技构建供应链AI原生组织新未来 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qV3gxZ0lrRUI0YUREdkROOVZXQUNhaUhmVmhxY0xfUnpMQ29rdTlQN3VpM05vNXhsdnZ3aHM3Yy1tME1yMGx2RlkxbWpyQ2JLZkxpczV5b0Y0eWV6TXpQdGlqSC1MT0lRcnVxVFN0X1ZDSWkxb0k5NldtaThyYkk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T14:55:26+00:00",
-      "summary": "Agentic AI进场，壹沓科技构建供应链AI原生组织新未来  手机新浪网",
+      "published": "2026-07-18T14:59:00+00:00",
+      "summary": "从智能体手机到机器人手机 多模态交互能否打开新一轮换机潮？  21财经",
       "categories": [
         "tools_apps"
       ]
@@ -37,16 +98,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-07-18T14:51:37+00:00",
       "summary": "大模型，才是解决人形机器人大规模商业化问题的真正核心  第一财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "中船集团发布2026年度人工智能十大创新成果 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50UktXX0d4TElpZWFmNl9lQmVpQjZ2QWNNRXBRLS03a1FVY2FxRldMV1BUamVOMV9pTVhMWUp6ZGJOU3V0c0pRb1B0TEFmNFVlOWk5Y0l0ajR6c2JEeWg1WXlEOVBUc09uTWc1SDZfc3IxLUM1aFp4UnQySmVEbHM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T14:49:31+00:00",
-      "summary": "中船集团发布2026年度人工智能十大创新成果  手机新浪网",
       "categories": [
         "other"
       ]
@@ -84,11 +135,11 @@
       ]
     },
     {
-      "title": "文汇视讯｜城市伙伴，随问随答！AI SHANGHAI城市传播智能体发布 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2NHJzN1lQdW5iLU1pb19kdkF2WW85MnFwUUwzSmJ5cEJMbGlPMndFX3ZxZ09fTTFMdkhIRjR2WU5vV29jaTJ2WVY1SkkxcXYtWWpiTTFkT3Bpdw?oc=5",
+      "title": "文汇视讯｜城市伙伴，随问随答！AI SHANGHAI城市传播智能体发布 - shobserver.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wQVVQTDgtZWVsU3ZJRmRyUEJzc1FiS1phY2tEeVBTajBkbERmV1JvQmt5VnBGZ2h2alh2TW9oTE1QUHhoY000bS1zQlVXQm1KSjFnWFRwR3k1Snpy?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-18T14:24:00+00:00",
-      "summary": "文汇视讯｜城市伙伴，随问随答！AI SHANGHAI城市传播智能体发布  上观新闻",
+      "summary": "文汇视讯｜城市伙伴，随问随答！AI SHANGHAI城市传播智能体发布  shobserver.cn",
       "categories": [
         "tools_apps"
       ]
@@ -104,12 +155,13 @@
       ]
     },
     {
-      "title": "努比亚首款AI智能体手机亮相上海WAIC 即将上市！究竟有何独特？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUk9BSWpVQWZWc1FyVzRmVXZaNnNnazVESFJDbkYySU1FY3lGdkhoUlpfSUFVR1NXRU14Y29zSGh2Q3otOVgwdDBmQXgzdlFqcWR5RWpLbmFLNWwtT0NQLU0tNHY1d1lyNWFZRm5LeVlkcFFhb3Y2Rk8tSXp0TUU?oc=5",
+      "title": "华为云联合头部金融机构和行业伙伴 共建共享开放智能体生态 - 中华网科技频道",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jNkR6c1ByaWpyRk1hUlZXc1NzRjFBek5ockZydmtpXzdXeVF5dW5LWmxyRmx5Y0hQeXZWQVY2X3BxU0VXS04teWlpNHU1N1ZLdXRxc0F5dk0tZ19uU0s5SzVfNzlrZUFIZHZzNUZB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T14:10:14+00:00",
-      "summary": "努比亚首款AI智能体手机亮相上海WAIC 即将上市！究竟有何独特？  手机新浪网",
+      "published": "2026-07-18T14:17:08+00:00",
+      "summary": "华为云联合头部金融机构和行业伙伴 共建共享开放智能体生态  中华网科技频道",
       "categories": [
+        "other_big",
         "tools_apps"
       ]
     },
@@ -125,23 +177,12 @@
       ]
     },
     {
-      "title": "滴普科技(01384)正式开放DeepWorks企业智能体平台 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82dkhkRW84UTNSbjhaa3VEaTB2MWZXZ1dpOG1qU3p0NmdtWVRieXNXVGxxOTVYb1J2Ui0xdDNUSEZtTjhGZ0JPeGFQUF9jRUh0WWhZS0d4QjhDV0JKa25FM2Jn?oc=5",
+      "title": "蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jTEJEUFFSZEFyMDhETzBuVExUU0lTdl9jNG5zMzFKS1dUTlBPc01oVEpscUJDS3V2OFRQeWRkVzNhSVFUeU9yQ2Q3MjA3NlE0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T14:01:17+00:00",
-      "summary": "滴普科技(01384)正式开放DeepWorks企业智能体平台  手机网易网",
+      "published": "2026-07-18T13:58:15+00:00",
+      "summary": "蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视  凤凰网",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "从苹果换安卓推荐买哪款？荣耀Magic8 Pro深度体验：AI智能体+跨系统互联最香+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04TzlKZXdLeWd3bGk5cVNhaHVFbjFMMDFWVE91SnNPRmNocWtvVk5QTnF4RWw5WmhYTEpFd0J5QlFiVURLZVh0ck5JMFRvTXNvSjJzbFV3ck1VZDZ6TkhQVEk4eDJueTlaLVVHQy0xWG52aUJPeG9oVlBqM25LZHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T14:00:55+00:00",
-      "summary": "从苹果换安卓推荐买哪款？荣耀Magic8 Pro深度体验：AI智能体+跨系统互联最香+FAQ  手机新浪网",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     },
@@ -151,26 +192,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-07-18T13:55:18+00:00",
       "summary": "中国智能体手机阶段性爆发 多模态具身交互开启下一轮换机热潮｜聚焦WAIC2026  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "WAIC直击：AI不只活在云端，此芯科技让智能体走进每台设备 - 雷科技",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RSlVOQk1sQS1wb3RJaFdKd04zQ0kwbjJwTFQ0d3BuRXMtaVZlbWZSSjRyNnBsT0VpanV5ZGJTbEp5WHpSVEhmcEZieFlNZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T13:44:45+00:00",
-      "summary": "WAIC直击：AI不只活在云端，此芯科技让智能体走进每台设备  雷科技",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "蚂蚁携手20余家伙伴共建ASL生态，推动智能体可信互联 - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGdnhEM256T3JPYUlNSDB2bFVpT0VHVGJsQm1pUDZGUGc1VUpKZzZVbl9naTE2b1hQNEx2Z0FzNmgtdktTOGpaSg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T13:44:05+00:00",
-      "summary": "蚂蚁携手20余家伙伴共建ASL生态，推动智能体可信互联  品玩",
       "categories": [
         "tools_apps"
       ]
@@ -226,16 +247,6 @@
       ]
     },
     {
-      "title": "从追赶到“摸高”，中国大模型的AGI征途 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHgxQU54YllqdTk1MzJmRlpVVUFTUEczRWRXTXJDSk5hNHVmYVpMMmFIeWZ6UU5JdnJ5RzRpX1VVdUliYUx5TXpfNXlFcWJtSWdHdURWOWZQY3UtMjJWQk9lOE0wLTV4b2pQd195Umx4Xy0yZk5iVm9FeGJJMDc0bmZ6OXZlazl2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T13:14:09+00:00",
-      "summary": "从追赶到“摸高”，中国大模型的AGI征途  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "超越Gemini 3.1 Pro与GPT-5.5 high，TCL华星星智X-Intelligence大模型持续巩固显示领域全球领先优势 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajJtRm9FOXRqcjc5Unl4LV9jUXAyR2owcDQzUlJ1dGs1MUhXQkE2UWxtU0FHMXNaSDM3WUdMSE1xajJuMHo1RjEwaDRpTFYzZlN2NFBVeEJYcnpmLUpTVm51b0NhOFNFT1M2Z0pQMEpaRGFfLUJpeHJhaVJoTS04cjhWc0dtRE1k?oc=5",
       "source": "Google News - AI(中文)",
@@ -277,11 +288,21 @@
       ]
     },
     {
-      "title": "天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWd5SDJuVXZ2bW1uY3R5RC1POHhDaDA4N3IwS1ZRS0VFRmlPUkJuekgzQmFWWFBYOC12dVM2N3o0dDZDNFNxTTYzeU52S1BjNHJsLWpXM2RzM3FPbGZ6QmQ2eXdiVm1lTXZKekdrVXJ1QVdZY2RHUGRFemxkcU1tMHhhSkRvRWI3?oc=5",
+      "title": "直击WAIC|智平方类脑大模型亮相，让机器人越来越会“干活”|2026世界人工智能大会|NeuroVLA|考验|环境|大脑_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcGhkWS11UW1GNXo1eEF0blBvUFNoVjRwZUF4b19uNElFNkNTaFBvaXFFeGtROUtQOGFDRjBvaVg1S2JKU1Z3UWNDLW9ZUWx5NTRqMkh2YlNmZmp4c0ROREF0MHl2bVlnMkJPeHFSUEthb0tNUDVvWkk3a3gzTmhIeXY4WGN0ak9sMG9ubTVxWExQcnZvVXRNeDhiZUhjTkI1aTB1dERzZHRxV3lWNWp6bHRWNGJVLWNTdzVEQjhiQ2I4TEh5QlZrMGR2LVNrY3F6QnA0QzVHek5pZFdKWHI3OHN3YlhoNF9Td05UaVQxbE1SUEZFOXRqRlVMY2hXR0I0aGwxcGhISW1wZFZGZkVXejUzLUJfNHFOeGhF?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-18T12:14:54+00:00",
-      "summary": "天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家  搜狐网",
+      "published": "2026-07-18T12:53:46+00:00",
+      "summary": "直击WAIC|智平方类脑大模型亮相，让机器人越来越会“干活”|2026世界人工智能大会|NeuroVLA|考验|环境|大脑_手机新浪网  新浪财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "上海发布一批量子城市空间智能建设核心成果 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkVwVFZ3YzJkb3JjNUQxeDBnUmdmLW50dElvWW5pdHdPcWIxWkdRNTJEYWk5LWVYTG9YVGRXTHh0UHdtSFlqNXlpa21rVUxrM1hydkUtSGYzWkF4RVVfcjJEOTZ5azE1aEo4M1NJdnNTNXpnNUNtZW1lTzNxRGJLRW9oNHcxRG9H?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-18T12:45:06+00:00",
+      "summary": "上海发布一批量子城市空间智能建设核心成果  搜狐网",
       "categories": [
         "other"
       ]
@@ -318,16 +339,6 @@
       ]
     },
     {
-      "title": "申通发布快递智能体平台“SClaw”并启动AI生态计划 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YVXktZHdkWVM5dzRvNUJEQmczWkZ4Z1BuWHh6VGZmSnAyTWRBU1F6LTBNVkI3MkdZMVFmUlNhX3Y3eVkwU01nd1JZNlRJZUdrV0hSS3U3TnV5Vk1aT0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T09:54:03+00:00",
-      "summary": "申通发布快递智能体平台“SClaw”并启动AI生态计划  DoNews",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "WAIC上的三场发布会背后，蜜度给出了垂直场景Agent的新答案 - 上观新闻",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPUDBfQkJ6LWlka1BLMG03RHg2ZEVVV1UxQ0x0X0Zlby03aUg0YTdRbGlUTF92X0p4XzZ6NlZtNmI3ZnpMa1h1SktGaHFkZHFHNEVCcUpyU3JJQQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -335,16 +346,6 @@
       "summary": "WAIC上的三场发布会背后，蜜度给出了垂直场景Agent的新答案  上观新闻",
       "categories": [
         "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "让智能体拥有原生语言，蚂蚁密算WAIC发布HOP 3.0 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxWGx1Yl9ndEtIbjV4NkhpQl94SHgzWXpiZkhJUTg5dmxYWHRMZ05sQjZlNEtNT3VWdlFmemJIbnMtSDhSa04yRTVnV3JuN2Fh?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-18T09:19:22+00:00",
-      "summary": "让智能体拥有原生语言，蚂蚁密算WAIC发布HOP 3.0  凤凰网财经",
-      "categories": [
         "tools_apps"
       ]
     },
