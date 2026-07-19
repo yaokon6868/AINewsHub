@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-19T20:54:06.842188+00:00",
+  "updated_at": "2026-07-19T21:56:26.002350+00:00",
   "items": [
+    {
+      "title": "AI大模型公司护城河已不在大模型？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44Uk5WR2M4cTNFNnEzY1pXNGxaOXVFTUVua1ROWlRPWldTLWRnVFNNS2FaNDNEVFQ0eW5iUnJ1c0h5dk9tSU9ma0l5VzVhUlNVQkxoVWRFbW4tWDNsZ3Z3NXFweV9uZ1pDMnBzMkFVZm9CY19rMlVrM09SeFVuYWM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-19T21:18:00+00:00",
+      "summary": "AI大模型公司护城河已不在大模型？  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "中国大模型包揽OpenClaw月榜前三调用量碾压全球|开发者|flash|Step 3.5 Flash|Kimi K2.5|MiniMax-M2.5_新浪新闻 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjczBEc2ZyQ20xcjhQSHU4eW1JSXBES2lHdW5IMGVrQkpwRm9Hb3ZkbVk0ZUJRZ2xYMUUxM0pZcW9CeE1WUlp0UV9Ja1FjekxFeXFPS3ZZMjNmNTEzSkhCaU1tZHhHNEJ4Tm9UQWw4Z0RkZ1ZuM2p0eEY2MV93QQ?oc=5",
@@ -30,16 +40,6 @@
       "summary": "直击WAIC丨蚂蚁大安全CTO陈亮：智能体越强，信任风险越不容忽视  新浪网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "努比亚新发布的AI手机NaviX Ultra有哪些特色？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMEtJWFVyb19kNDhnVkFfOHJyZXlGSTNsSDF1dmVqTlNCdUV6RWJ5ZHMyZDZtN2hHaWhfZ0VrZ1R3NXF1aXJYTElaU1V0RURQRkktN3FrZlF2dFAxVzVhOHdKd3A4SzV5NnNpdXlRSFcyc3BCZnc1M05ic1BWNXM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-19T20:07:00+00:00",
-      "summary": "努比亚新发布的AI手机NaviX Ultra有哪些特色？  手机新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -101,18 +101,6 @@
       "summary": "大模型大脑能力进步的五个等级  第一财经",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "重磅发布｜光羽芯辰全球首发端侧大算力3D近存算AI芯片TC1000系列 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44U0h5NmVkcG56NnR4Ym14Y1VjcTlPVkRnYmZmR0ZNa3g1ck9vMmhwX2p1d2ZEdlM3bU43RWhyZkxLa1NrYlE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-19T15:45:51+00:00",
-      "summary": "重磅发布｜光羽芯辰全球首发端侧大算力3D近存算AI芯片TC1000系列  智东西",
-      "categories": [
-        "breakthrough",
-        "local_model",
-        "chips"
       ]
     },
     {
@@ -243,6 +231,16 @@
       "summary": "京东物流亮相WAIC，AI智能体已应用于供应链全链路超千个场景  品玩",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "直击WAIC 2026：大模型迈入万亿参数时代，国产AI超节点上演“群雄逐鹿” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUMtSkc4Wmk5eEZoTDd3S2pCN3hYaEp2U2xiTDNvVHRvc0ZzNlpURGt0MGMtMjdjWFF6eWtKNWE2bnR4dDE3LTZlajN0NVJ3MDNJaUZCN3RPVExYTkM3SElyNzl3LThYUHh6TkFhTTRybXdCVDVTZkk0ZFpOMHJ1OVV2a0lxdm9a?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-19T13:03:00+00:00",
+      "summary": "直击WAIC 2026：大模型迈入万亿参数时代，国产AI超节点上演“群雄逐鹿”  搜狐网",
+      "categories": [
+        "other"
       ]
     },
     {
