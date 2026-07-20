@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-20T17:03:26.270614+00:00",
+  "updated_at": "2026-07-20T19:13:47.133349+00:00",
   "items": [
+    {
+      "title": "Boomi研究发现：86%的企业已部署AI智能体，但仅有34% 信任它们 - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiT21fYzBrcWFoaHZrNndWeF9EbXowSTVfellQeFgxUzJlRmNleEdIbW05RG11VU84WDNzQS1TRFlJcmNGd2VLa1hHclNNS2haN2JZQU9KNGU4QkZpSXYyWjBMMEdHaWRudlBJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T17:02:00+00:00",
+      "summary": "Boomi研究发现：86%的企业已部署AI智能体，但仅有34% 信任它们  Business Wire",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "运动垂类大模型亮相WAIC 人工智能赋能运动健康服务升级 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Sdi14d3ZuSFgxUVBmWTEzZXRZeTE5SkNFTVVTblR5SWItbjhsMHowUld2U3lHWHlESVI1NUJpc19UVE5XM1JHTGkyQWRfbDhONG5QMlJBWWExb3Q5YUtKQjd4LVU5X1lmZXA5LTR2ZjFfQQ?oc=5",
@@ -24,6 +34,16 @@
       ]
     },
     {
+      "title": "TCL华星星智X-Intelligence大模型持续巩固显示领域全球领先优势 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtSVlsdEZZZlNuYkN2cV9EbGs5dlFxeUdpbGI0WXoxcUlyck12VGtCZ0UtX0tyMnVEOUtKTDdaZUh3dmp5S1VET25aX2x0c0V0Y2dn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T15:50:00+00:00",
+      "summary": "TCL华星星智X-Intelligence大模型持续巩固显示领域全球领先优势  电子工程专辑",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "端侧AI加速落地，智能体手机集中亮相，硬件产业链迎利好 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2xNV0htWGcwMDZxeW5hNGZTcTlRNU9CY0dmdU9jRzJnY1lKVWlHbXAtbHAyWklqVjUzMng5bDFOVTZQdUJYaGtNVnFlOXdfUmVQUHNrdGVURWREYmJidVhDMmloLVdiZjRrQjd6b19xZUZuSjN6SjVwclhONjhCUXV3a2ZYMDZWOUFhVg?oc=5",
       "source": "Google News - AI(中文)",
@@ -43,16 +63,6 @@
       "categories": [
         "google",
         "chips"
-      ]
-    },
-    {
-      "title": "TCL华星星智X-Intelligence大模型持续巩固显示领域全球领先优势 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2VtYmFIeGoyQjUtN0ZhUmNvQW8yN0NPLUJkdWs1YnZSVUdVR3pqRHlvLWtQajY1bUl1RjRjbHpYNUpQQU8zMVN4RjJnYnFrYVB5VkVJSmIyQVZ4cTJqamZQdEdkRjItNmp5aGxmX1ZST09ISWR6YjF6NFdZWkVfRWgzcE9hdzBK?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T14:06:37+00:00",
-      "summary": "TCL华星星智X-Intelligence大模型持续巩固显示领域全球领先优势  搜狐网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -116,6 +126,16 @@
       ]
     },
     {
+      "title": "Kimi新发模型K3暂停新用户订阅 其他大模型公司股价下挫 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtTWtfa0VuTHU1TFcwOElWTmpBUGxQY20zcnlzczRFSE1DVmx5a3dnQkwtRFBYVFpYYkpEZndxaVZPSUlWVGo2V1IwOVdjd01BRkZpRUoxRkhsMXhMYm5Sa0xTaXU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T13:00:00+00:00",
+      "summary": "Kimi新发模型K3暂停新用户订阅 其他大模型公司股价下挫  财新",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
       "title": "给大模型“打疫苗”它就不会胡说八道了 - 第一财经",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hV0xHR1lxM1ZUS2Z3bGJRWUFRMTRZSXpQU3doeklrQ0hZY1dGaUpTc2NYaXVkbUpLdnpHMTBPcUQwbjJOdGx1c1JQZkFjRmxHSlBEXw?oc=5",
       "source": "Google News - AI(中文)",
@@ -148,12 +168,53 @@
     },
     {
       "title": "世界杯AI预测成绩单出炉！全阶段数据盘点八大模型推演实力，天禧AI、Deepseek拿下第一 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUnpTSnVERTZ2WkZpUEVNRnVFWnJZQUQ1WmFLVEFqY3lGNTFad0JYVU5qUHk3ajk5LVZoWGZmY1h1SWlEQ3hseEp4QTA0MGxld0pWQ2E5SEJTMldJMjhtN19jS3dRY1Z0d3FIZUNEUGNydEFQSUlkc0NNbDFVUEJwajdFRVNsUTlTTkV3ZUk2akpBb0lnb0pJMHp6U2ItRlRpZjFzZWR4ZnlQV0pZR2xUdmtEWXp5TDVVVmFHYTFtNEVSOXZCQVViQzVsZmFaeTZudEdvc2p0Q3RiOXB3VFUxc1N6SGNuczZBWWh2dHNXTklnZm9WZFRreg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcFlNU0NWdFZLeTg2SnVybDlkSzJUSTRtMmNTdnYtcTk0a3JKU2NzMVR4Y1lhU19UMHJHcHJHMmctUk5FTlRiRmk1UHNMMWtzaXBObWFsVVhXblNJLXZaSmF1MG1LNXI0Ql95Y1oyclV0Q19LbnphLUROb0VUZmxtNWRRY0Nqa0hmUG9aZzVlTlhpQkRDT215dWNBdFpYcjFobUZOZVpoWWVNWldVOTV1ZndPSG1rZ2ZJdld1MGZUN2ZOSTI2X2xBMzFaS2JEOVZlajJKLTBNMVVTZHVuQ2RmcWV1SlI4cHl1b3VsUURiSFp1N3lWOWpZTlFnT0pSMDlfak81dnJvSVBzS2RNRkh0aHNPWmdHT1d5?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-20T12:13:34+00:00",
+      "published": "2026-07-20T12:03:30+00:00",
       "summary": "世界杯AI预测成绩单出炉！全阶段数据盘点八大模型推演实力，天禧AI、Deepseek拿下第一  新浪财经",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "WAIC 落幕：三年大模型参数竞赛终结，AI 全面进入智能体工业化落地周期 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWx0VzNJZDlvaXVDSnlvX0hWZmNSWFdZRzhNSlpxMVBidE9oSE5XWG41eFJWWnlESk10THBOaEVzTDkyb2xEeGhPTWhsMi12T0VpUjc5VWRMUEFvYlpBTHhzbVRnNzFkbkNVXzNzRzg2LVE2TEJiaGxrMndiQUFtRjFKVE1DS05v?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T12:03:12+00:00",
+      "summary": "WAIC 落幕：三年大模型参数竞赛终结，AI 全面进入智能体工业化落地周期  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "（经济观察）从DeepSeek到Kimi：中国AI大模型群星闪耀时 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDZ5RUc3cDgzTFpCa21jMEphYTVoV1V3QnQycmp5VnJyNThsVTdURWxRTnZyMnBkU3UxZlNHVXhJaVVSUnNnVkk2M2pPZWhwcEhYSzJyUHNiTHFkSHRCcklRR0p3bGhSQ1lMY3dyTUN4Mm9KS0h0bTNqcnktbTEzM0JFRFZ1dG5C?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T12:01:12+00:00",
+      "summary": "（经济观察）从DeepSeek到Kimi：中国AI大模型群星闪耀时  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "华为赋能城市智能体建设 构筑城市AI新图景 - gd.chinanews.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVGxLU2VsVzkydWNSRlJQWFpMUmNlVzk1aF84WF84OVc2cmV6aHBVNW1neGtHYlk5OEpZLS1ydm9VQVRfSUxYa3RZcWlqRHAxcDg2aFM2a2JvUFEwczJSTkhUSTc4X3pqQ2pr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T11:45:00+00:00",
+      "summary": "华为赋能城市智能体建设 构筑城市AI新图景  gd.chinanews.com.cn",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "WAIC 2026｜决策智能论坛三大主题报告精要：决策智能进展、AI+科学和AI安全大模型 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTUDQzVmozT1NIbjRNeHRzZkNpSmUtMm04YnZOaG9NUU0zRE4tS3oyNnl2ODVIbjhsTFZQYzlJV2tQM0E5M3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-20T11:38:29+00:00",
+      "summary": "WAIC 2026｜决策智能论坛三大主题报告精要：决策智能进展、AI+科学和AI安全大模型  智东西",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -178,16 +239,6 @@
       ]
     },
     {
-      "title": "【会员风采】中兴通讯发布新支点AIOS：构筑智能体时代操作系统，驱动产业智能化新引擎 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRC01R1lIRHlpdkRIZXV4SEFzSkZxc0FfN2FwTWk4SWVCdE0tVFhJb0xzekE4ZXo5c3dsSDl3VkJLRVh6eW9ZMzhROXJtRENUd1EwbDRybjF5SkpUbjlrbGtOcUhRaEVPX09USFVpbm5PWkJScV9Pc00talRkbGJ3QnlqRnhScTcyQUdNMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T11:03:15+00:00",
-      "summary": "【会员风采】中兴通讯发布新支点AIOS：构筑智能体时代操作系统，驱动产业智能化新引擎  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "AGI时代加速到来！智能体落地实体场景，国产大模型强势突围 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3BlVzZPQUlzZ0M3a0hrQVFmSUpub1U3a3daWGxUS3lYREdJaHQtME1WVWZtREVRUkdQYzkxVVhXUWdYMWYzTVc4NFh1TVZNV1NTSXRTRm5OcXluRXdJVHBsN2Q2VUJ6R3U2VVY1bWNYY0dsZ0k0bE11bU42X3BLN2taalgtVU13SWZ0Yw?oc=5",
       "source": "Google News - AI(中文)",
@@ -198,11 +249,11 @@
       ]
     },
     {
-      "title": "容联云发布企业Agent全栈战略，让智能体成为企业新生产力 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RMHY4bWxOY1dILUYxQzY2TGpKVk1MaVdKb0lhWjdmeDh1ZTRnaHExY0ltTWZzMmJ0aWt1WEVGdFg0N1lfeGJ2WGpwRUxSeUJjckpQR2VMengxZw?oc=5",
+      "title": "容联云发布企业Agent全栈战略，让智能体成为企业新生产力 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBteUhGNWlJNHZJSmRUS1RJY2lYUEVMdHhFVml0YUtseS0wTXc2RXZwSlhJNElmT2tteXM4SjkxSksxcm83UExEOGNRWFV4NGNfYmV3SFA3c3l4TC1TRUZSbXdTTXQxQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-20T10:11:00+00:00",
-      "summary": "容联云发布企业Agent全栈战略，让智能体成为企业新生产力  上观新闻",
+      "published": "2026-07-20T10:21:40+00:00",
+      "summary": "容联云发布企业Agent全栈战略，让智能体成为企业新生产力  东方财富",
       "categories": [
         "tools_apps"
       ]
@@ -224,17 +275,6 @@
       "published": "2026-07-20T09:43:00+00:00",
       "summary": "WAIC 2026人工智能法治论坛：智能体服务法治白皮书发布  上观新闻",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智象未来发布全球首款无限时长多模态智能体，短剧、vlog、电影都能拍 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oMzFYemN2d2EtX09tQzZpdXZMU1lKREVOVlpxaXVCak5xRjNSZFA0T1ppUnFsRV90akI5YWNwWWkyaXQtMVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T09:37:45+00:00",
-      "summary": "智象未来发布全球首款无限时长多模态智能体，短剧、vlog、电影都能拍  智东西",
-      "categories": [
-        "breakthrough",
         "tools_apps"
       ]
     },
@@ -270,42 +310,11 @@
       ]
     },
     {
-      "title": "城市传播智能体AI SHANGHAI在世界人工智能大会重磅发布 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oeUtvSms0Wl9Eamt1VjJGR0xkd2JNdjhzSG5iX2JnWGpLY091dnp4VWg1NmZqOGxSc190aXJiaEhMZ2ZSRWQzc0pwM2RhQTBvVFZnVg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T07:13:43+00:00",
-      "summary": "城市传播智能体AI SHANGHAI在世界人工智能大会重磅发布  第一财经",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "多模态大模型vs专用小模型，谁才是零售AI的真正主力？ - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2LUJpWlZ6UndtVXRKV3ZLU29QLVRsLW95NnRKTVhJdnZrWXNOOW1Tb1lqUng4MmRSOEJwXzIxY18yYzZYZGZwcHFvQ3NTQ1g3SlZDOHB2U1FGbFcwcmE1V1RB?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-20T06:30:18+00:00",
       "summary": "多模态大模型vs专用小模型，谁才是零售AI的真正主力？  同花顺财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "东方有线发布AI智能体“东东” 赋能家庭智慧康养 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YZW4xaENiOUhnbXAwTWh4UmFDcGJKV2F6N1ptekVMTFQ4WWxsaW9GZ1dxN2ExQTF0VEQ4OTVrS2ZTSFc5TnBYNlVIeXZxRHJiUEplNg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T04:15:59+00:00",
-      "summary": "东方有线发布AI智能体“东东” 赋能家庭智慧康养  第一财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "多模态大模型重塑医疗边界 产业加速共探“元医院”数智路径 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZFF4WWRnLUZNR29qdjdIcGZfZkxfZHZuNUYtbVFvYkhUZkl0SlV5SVJQUHlkMm9STkphLWNIdldpbS1id3BQN19kenRtcWxuUHVmZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T04:14:11+00:00",
-      "summary": "多模态大模型重塑医疗边界 产业加速共探“元医院”数智路径  第一财经",
       "categories": [
         "other"
       ]
@@ -318,16 +327,6 @@
       "summary": "文远知行发布物理AI大模型WITT，以物理事实重构AI认知  世界浙商网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "蚂蚁数科WAIC发布“商业智能体超级工厂”，开启全天候“AI生产力”时代 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15aDF6cmxXX2xtQkdMZDV1M01VWU55NjJoR1NNcGFsSjJ6RWd5NXNZUVpEZnkzUzdQa1AwRFRhOXlYc3ZsN0pzQXZiQ3hzLVU2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-20T01:58:26+00:00",
-      "summary": "蚂蚁数科WAIC发布“商业智能体超级工厂”，开启全天候“AI生产力”时代  凤凰网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
