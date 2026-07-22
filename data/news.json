@@ -1,6 +1,172 @@
 {
-  "updated_at": "2026-07-22T03:57:38.055756+00:00",
+  "updated_at": "2026-07-22T06:38:02.895831+00:00",
   "items": [
+    {
+      "title": "国内首套智能体互联国标落地 美团、滴滴签约试点 - 电商派",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5feDF3eG9WRWlGN3l6UzNQenNyXzlMbXhZVTI5WTVVR1RWMHNvYjNGM1pEZzQ1cHhkN2FfNVVnZE8xanZTanJUbk5QNnNkM000eHNWd1ZWUm9iVG1iU1J1SA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T06:26:00+00:00",
+      "summary": "国内首套智能体互联国标落地 美团、滴滴签约试点  电商派",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "英伟达公开Rubin GPU细节：3360亿晶体管，智能体AI性能较Blackwell提升10倍 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtWHVGaE9KVlh4RGtfRE1BMjVlNk1YLWVxZlpJNDBUUDVidUM5NEE0U2dFTGdNYkFQZUdXNDdsWWdBTDBOZXlmYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T06:18:54+00:00",
+      "summary": "英伟达公开Rubin GPU细节：3360亿晶体管，智能体AI性能较Blackwell提升10倍  凤凰网",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "谷歌扩充Gemini模型矩阵：推出多款平价新品，正面对标Mythos模型 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQ1NrSHhrbmNvRUtFMExXSGowT3VtazV0S1M3N0hQTUlmTF8ybVVQOUgtNlFTNFRtRTA2UXBVTGJBY0FZdDVyUFlWY24teTk5MnNieXVTX25aOS1LSV9RR2VRdG5tN1YzcmJ0UHJYQUJzQzV1NUhpYklMbXVwZDNkXzM0Z0hCWkw0X0oxMksxQ0s3UGN2Ri1yQWVaWC1Oajcwa0NicHlMWkV5eUtHcDFMZVhLZnJZYldWR0F5VHZ1MDI3b0NSdzhFWmc5TEMzUmVzdEpyNnhsMkxUQ2Yyc28zOWpxV2M0Y1V1QzRUaEJQNG1ENkFIZ1k3MHQ4RnpncWdha1JLNUN2YkRLR0l5bi12QnFhdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T06:15:19+00:00",
+      "summary": "谷歌扩充Gemini模型矩阵：推出多款平价新品，正面对标Mythos模型  新浪财经",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Claude Cowork新增录屏教学：用户演示一遍即可教会AI - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84UEpDenhTQTBxbUhNOW42SFkwUzZNdFN4ckpSdlpEdVZDdE9MX3ZmREUxRGJDU1NFUkhDNEdwVnY0QmdoNThvV1J1amU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T06:08:51+00:00",
+      "summary": "Claude Cowork新增录屏教学：用户演示一遍即可教会AI  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "谷歌“史上最差”AI模型发布！Gemini 3.5 Pro延期 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXlCOElJR0dTRHg5MmdSUjJPQ3k4OVc4NlBBaTZLWnJDREc0bDY1TFRzRzZta1pXd2lMYVhtT1Z0ai14WlhmeUREX21YQVo4M1ptNE5ERFVKbWhlLTdXak5yYVUyR1VIalVsM05LNW9oUjVaX0YyNzA3TlpJVHV3S2NwR2MzNnJM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T06:07:32+00:00",
+      "summary": "谷歌“史上最差”AI模型发布！Gemini 3.5 Pro延期  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "电影《终结者》恐成真…ChatGPT突破管控攻击外部 - 朝鮮日報中文版",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUZ1dWlNaENlY0l4MFNvOFpXaFZrSV9Qdl9zR1U1LW1fbkxRaklraHh6Wm9takZ3dTJDUTVUS1FXTmhmdmUzUlA3OEY1WndMNmlxSW9saUc0UlIyQmNaU2JXXzQwbVMwUE8wblZVOXNTeFoxbEZOcG92SzJIVXhWTjVPYXZyZzA2ZG9iUFFQdjZuZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T06:03:20+00:00",
+      "summary": "电影《终结者》恐成真…ChatGPT突破管控攻击外部  朝鮮日報中文版",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "腾讯AI创意智能体Miora全量上线 具备记忆与多智能体协作能力 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MMWlrbjJpUmx4SGd3LXFDXzhQRHlYOWhidDRyYlN0ZC1iR2YyWm1Lc2ZqejE2eVI0R1ExX1FwS0IzZlFuR3BXR1JzdVNwX1czOWtjLTNzbGxNTDdsTUF0RnJR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:56:08+00:00",
+      "summary": "腾讯AI创意智能体Miora全量上线 具备记忆与多智能体协作能力  观点网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude推出“录制技能”功能，用户可录屏教AI执行操作 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wZU44b29YNUViQ3c5N3AyeG9qWEl3NC1hMUlDYm0zdGh2S3I2aXBMTlJfZWprelMxdkFXTFJ6M3loMWtUWVhMSlJrM1VjU01reS1wQmRyZDgyb0tlOVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:53:03+00:00",
+      "summary": "Claude推出“录制技能”功能，用户可录屏教AI执行操作  DoNews",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "两周用户近乎翻倍 OpenAI智能体组合突破1000万，AI生产力大战升温 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fcVQ5VXpwRjVaRHo3UWFRMlV2SjFnc25OWk0zdU93QkhmWFNpWEkwSEE5YTdENXVoYlZZRDdJTms4ajVSVGtNeENybTJtT0pfQ3ZtdFlla2FRaUR2SVZ6RV9n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:44:44+00:00",
+      "summary": "两周用户近乎翻倍 OpenAI智能体组合突破1000万，AI生产力大战升温  手机网易网",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "“中共二大和党章研究AI智能体”项目在沪启动 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ080OUtKMTBLb2tSVktRbkRBX1hfYWZ4bGtueDRJR2wyUlIwdGpxdmNVNGVSal95ZEVBRnUyR3lHRzN6blhsWHlEa1VKMXFTLVVFaVVFQjVNU21Lck1xZi1QNDV3VjE1X011MENQNl9jSzFFTGU1QW0wNTJmSmJBaUZLVVBVamow?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:41:12+00:00",
+      "summary": "“中共二大和党章研究AI智能体”项目在沪启动  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "约翰·希金斯：要建立有效机制，保障AI智能体高效稳定运行 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zc2FlN3o5MjBUbVRTTUgySml6MXJNUTlndUM1dXN1Z0FleWV4VDJLUXZoNFVkNUpPVHI0MnpyMFZrS0JSVjJadDJlWi1EenV4cExtcV9URXR3UVd3SzdGYjBmUk45QQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:15:00+00:00",
+      "summary": "约翰·希金斯：要建立有效机制，保障AI智能体高效稳定运行  光明网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "奇富科技首倡金融大模型“六层路径” - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdG1lZW5YZWV4MzFhNmRuOTVHRFhCeTk2SmQzVDB5cmZfcXRlZG9Oa0xjcGxFWW4wMWdjWGFXb1gwMXl2Sm9nd3g4Z1NKTThDbHQtN2x3UU54TldnVV82UUFTcTlfUzRRc2o3LW1UU2xfMzIyVjNMajNRenE3cmc1bWQ0MXp3cWh4QXZWOFRMZDhBcHNNdXA2bm04SjhTM3Q4UXFRUnM2enNBaVIweHdDUFFTVlNpamY4SERMQ0M1djVwUFZSVER6NzZmcXM2RXlzVC1fODJmb2xDNllZeTRXNVZrRUNiVFAySm5vMzZRZnE4cUZsNnlsQ3hGc00?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:15:00+00:00",
+      "summary": "奇富科技首倡金融大模型“六层路径”  新浪财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "王兴兴：具身智能的“ChatGPT时刻”有望两三年内到来 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHa0x6ZUs2RWNTdmQ2Tkc0T19YaS1sWEFrYVVCRk12MEpwX0RabEVVS21ZQmk5ZFFueFk0WlhjLVM4SHlHRTByOFAwbXFRUF9YTlFhV1MzWGRZcG1uME95UU9DcGFIdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:13:00+00:00",
+      "summary": "王兴兴：具身智能的“ChatGPT时刻”有望两三年内到来  光明网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "小红书大模型IMO满分夺金 创新解法惊艳全场 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Yb3VmRmJVTnRmNU9CNEFVdHpjT2FmT0FnSVFWNDlpcDdfS3VRbjBfSVJJUzd2eUpRMGM4QjhkeWJNbDE2Y2tKUFU4X05oRWV6Y3hRdFFnTTJvRFdCRmNiRjdBRkExYUd5VVNxb2NyeWw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T05:04:32+00:00",
+      "summary": "小红书大模型IMO满分夺金 创新解法惊艳全场  中华网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "WAIC 2026逛展｜真·办公助理？AI办公智能体灵犀生成可编辑的Office文件 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLekFBSmE5cllfLS0tU3BCM0lFek15WFBBWi1TQXJLLU1VYThDOGxHcDVvS08ycTF4dHNGYWhNcUNGeWl3SWFfVg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T04:23:49+00:00",
+      "summary": "WAIC 2026逛展｜真·办公助理？AI办公智能体灵犀生成可编辑的Office文件  凤凰网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌推一系列新模型 开始Gemini 4预训练工作 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcXdUZHRodEV3QXJqYkg3NlB3cjhUZXV6T1dnUHZHRHJZaGxCQjVwTEFGb2hfR0hORzJaaVY2NFhMUGxzLXg4SDBoWFVDajEtZEtnMWZFUTd0Ql9UbnFZc0hLM05hZW1ybTJ5QVIxNXFMOGtlVjVocFhZVWZkLWNxakpCbkIzX3dKTnJHcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T04:07:00+00:00",
+      "summary": "谷歌推一系列新模型 开始Gemini 4预训练工作  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
     {
       "title": "慧多宝法律AI荣获WAIC法律科技产品大赛一等奖！多项权威成果集中发布 - 新华报业网",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3N0wzSmR6SnlGWlh0eHhpc1ZmdU8ydHBXc1ZZbC1rNHNLU3BpMmVEYk92VW85Wm1vdndZSGpPMkFqSFRibFpHVTgybHVYZXU0WlNBNUNVWHR6c3h2dlJyQTFERVphSVZwVTA0?oc=5",
@@ -12,22 +178,11 @@
       ]
     },
     {
-      "title": "WAIC2026中兴展台算力黑科技+智能体手机+机器人全打卡 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXExUGRKenpmc2M5NzBuWEw3dW8zaWJpT0RjMWNJNHlhS3RyT2Rxby1zMGRjOHBkZTRCckUwNnRYaEhYZno3Z2JNTkxDb08zajBBb1U2TXROLTFfV2wtMm1XUjI5S0ZYOXdlOVFHdW5kU1FnQ0tpSnhUTE9peTRLMmFib0V4Ni1OZmJEZg?oc=5",
+      "title": "小红书大模型获IMO满分金牌 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm1SRGo2ZF9Bb2VMZFBlQ3drNGtEMzJON0Vqb1NyMTZZWlJhWVFXdUJSdlhNQlNKZEJkb2dOWnFhV3RMdkR2Z3hYWEJCcExLZml0akJicjkwZnMxaGRMZjhrSks5bGxpa1VOZVVkMFR5VXpVd25KUldIZVFSMTdpYmV5MmRzOFRUOEV6Ng?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T03:34:04+00:00",
-      "summary": "WAIC2026中兴展台算力黑科技+智能体手机+机器人全打卡  Sohu",
-      "categories": [
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
-      "title": "小红书大模型dots-note-3.0获IMO满分金牌，创历史纪录 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE1RNmtTaGVscmN4V0sxbERGeDlHTVo2Ny1fZGxVQVktR1gtRmJaRHp4NDZYa3JROWtDa1U0a3hyMUlyWDZ3RjdSWEVyM1BIU0VGXzVVOTBQLUNIaXZfQnlURXdsdmdPODZoakRpZUhpb2N5c2ZEWHhrR3ZGdFJlNFNfQzBqdEFa?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T03:30:33+00:00",
-      "summary": "小红书大模型dots-note-3.0获IMO满分金牌，创历史纪录  Sohu",
+      "published": "2026-07-22T03:38:47+00:00",
+      "summary": "小红书大模型获IMO满分金牌  Sohu",
       "categories": [
         "other"
       ]
@@ -53,11 +208,11 @@
       ]
     },
     {
-      "title": "AI Agent平台推荐丨海外AI为何在中国企业“水土不服”？九科信息bit-Agent揭秘企业级智能体破局之道 - news.tom.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1adE9jSHFORmJxV2NqUXEwVTRJT3RENHZNeG5zUWRkRDM5LVByUXFXaDFKNDd6SU85QTlJeWdHRnlFVnhUQl8xZUUzM19ySnh1Skx4SkRR?oc=5",
+      "title": "千里科技张星：舱驾融合超级智能体量产落地 定义物理AI出行新范式 - 华龙网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EWXJYR0pkcy04OUxZOEd2Y09RTC1xODYyM0xmTXpzUzFxdHpMV3JybmtQLURUQjZqdC14RmtLOGVMZ0Q3MFJQNVIwdGlOY09TOHczSXpTZWYyNXN1N1IzZVdScjdFMzk5Rkg4?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T03:21:00+00:00",
-      "summary": "AI Agent平台推荐丨海外AI为何在中国企业“水土不服”？九科信息bit-Agent揭秘企业级智能体破局之道  news.tom.com",
+      "published": "2026-07-22T03:21:27+00:00",
+      "summary": "千里科技张星：舱驾融合超级智能体量产落地 定义物理AI出行新范式  华龙网",
       "categories": [
         "tools_apps"
       ]
@@ -107,10 +262,20 @@
       "title": "【中国青年报】报道西安交大“思政云宝”大模型 - 西安交通大学新闻网",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fZWdWZXVGSmd4QVAzR3lZcE1GMlQzelF1YUNlZ2VwOE5jbVJfcHFTMGZuYVE2SDJLYnhpeVJHbGprbzdPZ2Rwa2MtNnNaUXJQMkJsQUxkSQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T03:05:06+00:00",
+      "published": "2026-07-22T03:04:54+00:00",
       "summary": "【中国青年报】报道西安交大“思政云宝”大模型  西安交通大学新闻网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNldacjFLd0d2S2F6OFpwSElMenRVVkt1SWtJS3BPTWl3ZVNsM2xWTmp2aW0xaDI5YnpJeE0wYXRWYUNqZ3RiOUlYZnN3clRjYmtMbGdNQjhNSVJlYzl5NTlKYjhLNHU5SGctSDFBNGpEdzltbjNXWnpSTl9Lanp6QWgtbWtPVXdyTzlZQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T02:59:00+00:00",
+      "summary": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了  Sohu",
+      "categories": [
+        "google"
       ]
     },
     {
@@ -134,53 +299,33 @@
       ]
     },
     {
-      "title": "从“加速器”到“AI智能体计算底座”：安谋科技“周易”NPU的进化路 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWd3Y1BaR0Z4QjdxUlEtckgteWFrX2p0U0wxUHFtTnBfM1JFRmF1aGlfOVRLVkpmeC1LTi05VzNWTTkyNkEtMjNVY1JDTEl0YVg5NjBfdGtDU21rLVIwVEIxbXdwVnlaM0w3X095Mkd5MUZkSkpielFwc2xjMHQ1bGFvbWRWRFdoREZ3cQ?oc=5",
+      "title": "谷歌3连发！Gemini 3.5 Pro已在路上，最强Gemini 4已启动训练 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRU9mSWp4WFM3LUxCVmo1WGxMdThHR0xGcVQ4VGJScVZLc2pSdHJEeDd4V0xSTWYydXZXNnE3U2JaNVRrY0Q1U2trLTR5VV8tQkVSZXFn?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:45:46+00:00",
-      "summary": "从“加速器”到“AI智能体计算底座”：安谋科技“周易”NPU的进化路  Sohu",
+      "published": "2026-07-22T02:55:48+00:00",
+      "summary": "谷歌3连发！Gemini 3.5 Pro已在路上，最强Gemini 4已启动训练  Sohu",
       "categories": [
-        "tools_apps"
+        "google"
       ]
     },
     {
-      "title": "通付盾：拆开Claude大脑也没用！AI黑箱真正的钥匙，藏在本体工程 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0E4NEhTM2lTb2NLN2QzenVEZW55LTZQRUFsSlJiTmozODlKZDJITTV3SmlKX0RXNE1Gd0RQOVJSWm96aHBWSHI4RmNhNWQ5cjNZR0xDTGRIQUZUcVlURUZDRFVGemdwVTZ0WmhFaVRMZGE5WENESm9zaXNsSmhNdmhqMGlNOF9J?oc=5",
+      "title": "上海建工亮相2026世界人工智能大会 发布云工大模型 - 中华网科技频道",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DYmlMUnZKY3gwSVZYeFN1TGVHYWdFb0k2SWd3V0xJdWtURHdBUS1mWjlPMklLRExQZFpjYVc0ZElaLUFUckNkVGNNX2Izd3NDQm54Wm8tcUxtYXhYWDFWM3BPYUpDd2hvcW5PdzZ3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:44:10+00:00",
-      "summary": "通付盾：拆开Claude大脑也没用！AI黑箱真正的钥匙，藏在本体工程  Sohu",
+      "published": "2026-07-22T02:50:21+00:00",
+      "summary": "上海建工亮相2026世界人工智能大会 发布云工大模型  中华网科技频道",
       "categories": [
-        "anthropic"
+        "other"
       ]
     },
     {
-      "title": "Mac版Claude Code集成iOS模拟器，可构建和测试App - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOWtWQ1FQZk1VSTZDYjFlNWRnME1FZzdqWHduV3A0VDBERExkaFFVcWZ2Nk9uWnhpRlRjcWhOaWZKNWtFSF9TVHFrN0JrOGFHV2pDa1FFSGZuV1NnZ3gzS0dqNlFvR21aZFYyb3YybWZLMXZxYVhjWkxVRk5wZU1XRjBScnNMdjFE?oc=5",
+      "title": "谷歌发布三款Gemini新模型，聚焦AI智能体效率与成本 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uSlhHUHB3V0VCZ1BQdFhoTnNaRFp1MDlYcFJnQVotREFqZUFuakhldnhCXzV1VVZHVVJjTTlTdHNHU3Rta2k0RQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:42:48+00:00",
-      "summary": "Mac版Claude Code集成iOS模拟器，可构建和测试App  Sohu",
+      "published": "2026-07-22T02:12:06+00:00",
+      "summary": "谷歌发布三款Gemini新模型，聚焦AI智能体效率与成本  品玩",
       "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Kimi K3自稱Claude 中國AI再陷蒸餾質疑 - 新唐人電視台",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yemhjT1FQZURCcFZ6aFA3YXRMV2RZUWVCMGdtTGtGNHlWakdVUHMzTzJXMXc2NVAydUUwVWFqMjNtUDZuU21yU25iMHRuVFg1aENoNnpJNjNLTDQ4VFM1UNIBZkFVX3lxTFBEaFpJTVVzMWZ6dnFZRkoxMy1JRnZWd0ZXcFI0SWZFS25NbkpNZ2JGd2o0NjlRMmVxSlY3dWtLekhGQmh6dDBWaWxXYWkzZHg5d29peTMtVVRmajRHYVZMQnRZTkVpUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:25:13+00:00",
-      "summary": "Kimi K3自稱Claude 中國AI再陷蒸餾質疑  新唐人電視台",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "LumeValley智能体部署白皮书：从技术架构到实施路径，企业AI落地完整指南 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZN2dIbjZ2N2xCa0Y5Mk5VS2pnVjI3VnBQM2E4dm5MUU5HYWx4cWE1dWJTQWFzR05BMUVUUDNpbVltU3Q2YzJHbktXd1lRQkNBZ1QyWnAwWlZkRVJkdjd5MjFB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:13:04+00:00",
-      "summary": "LumeValley智能体部署白皮书：从技术架构到实施路径，企业AI落地完整指南  手机网易网",
-      "categories": [
+        "google",
         "tools_apps"
       ]
     },
@@ -195,79 +340,6 @@
       ]
     },
     {
-      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDM0dGRoMnQ4U1ZpVXpyVjFLQ3cwQ25pSlhJWkZ2cFFKQ0hoUzdWVC1kLWQ0U2djSTZyeVFrTUZXamZ2UFVfS3lXSWRGZTAxQ3Nxa043UWpoSXdreWVzREhjVGx4LWRrSVVGcl90V0tYZ1pJU05jSGZXMHNPb1FRa25YSTViY3pP?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:09:42+00:00",
-      "summary": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Kimi新模型登顶多个榜单第一 开源大模型实现突破 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiR1B4UnV1NDdVX3dpREtNZGp2bVVFdDhIX2lEaVJXYjdHOTRqUWk3NWoxVG01R0lCUEUxVXI2QTdMQTNsTWpVak9yNm9PemtBbWJTYUdoWHZXeHk2RzF1azFrYUR1ai1rSGVIMWJMX3k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:07:31+00:00",
-      "summary": "Kimi新模型登顶多个榜单第一 开源大模型实现突破  中华网",
-      "categories": [
-        "other_big",
-        "breakthrough",
-        "open_source"
-      ]
-    },
-    {
-      "title": "Gemini 3.5 Pro难产，谷歌先交了两张草稿纸 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV3ZWa0JMb3BxUElTT0tWUzRnUG5QTmdxVkRxMl90OEl0UXdhVnFQUVNoYVN1U3RKWlItNDhTb0YyMjRxM0dUNm80Z0N6OWhvdHAxN0hDQmVTN3p4RGRHa0gtWHdWTkVQci1VTUtlaXp3VXRrM0EzZGR3VTA2NnRJVFgxZHNwNDNQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T02:06:59+00:00",
-      "summary": "Gemini 3.5 Pro难产，谷歌先交了两张草稿纸  Sohu",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE10cGRKZTVYVE1jbi1zbXRVREdhTncySERJTkVELTRpdEVJSlc0a1p4VldsMF9xVEFHVjhZblZFNkNNMGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:47:31+00:00",
-      "summary": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了  爱范儿",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "智能体互联国标试点启动 首个全生命周期标准体系亮相 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qeVpTa25KWFlBY2RhbnhwcEpYTnRMZ09uckxBdWxBclk1c05hNTN3Z1A3NEJBNTlNY05aU2xUZkx1dHQyLTRLb3Rsd2RGWXBUSWZpQm9TWFNVSXN2SVJtY2xn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:45:52+00:00",
-      "summary": "智能体互联国标试点启动 首个全生命周期标准体系亮相  观点网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI智能体总翻车？工具调用容错没做好 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LejY1dFMzRHRwdGZ0QnZfSDY2aVh6QUlRME9FZG0yTFBqSE1GTWtRbGN5THdrbDlRVlFqdWNFODdWam1tZW1KLUx2WHE2TjE3R0piaDYzejlRQVdnS185YjZn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:34:21+00:00",
-      "summary": "AI智能体总翻车？工具调用容错没做好  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "帮写回忆录、“大湾鸡”智能体……AI赋能文创还能这么玩 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RSV93S0E1TXJtOW9nWTBiUy0zeVhPSm01b2lldFNBb2RneElia2p6STc2TDNScVQxVW5KaGphbWVaaWhrblpwNUlWcG1XV1Z1ZUVPTUxod0Ewb2JUQTdVcg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:29:00+00:00",
-      "summary": "帮写回忆录、“大湾鸡”智能体……AI赋能文创还能这么玩  thepaper.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI智能体用户突破1000万，ChatGPT Work发布后需求翻倍 - 手机网易网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WNjhDcGxXNlI3S05ORXp0ZU5STWZwWERTaXdIQXB1VnRyc2RqTTE1VmYxX05zTmhkdXAtZlZJVThMRVlQUFplQUxPd3F6WFYwNGpLZjZ2Rk9YVmIxd0RjY0pn?oc=5",
       "source": "Google News - AI(中文)",
@@ -276,67 +348,6 @@
       "categories": [
         "openai",
         "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "WAIC2026：智能体是核心工作单元，系统可靠性成第一运营标准 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uZVlCRnZ3YW9lTDBFbmtHWWp0MmlmMDVQRmZ3bW5rWmNWY3VyYVltaXlpRXZSSVFEa1hjSVlDSjZ4OWc5OE1SRGVVYTRXbDE2M3Q2YzdNZTJlVUcyTm1TVGpR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:14:45+00:00",
-      "summary": "WAIC2026：智能体是核心工作单元，系统可靠性成第一运营标准  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智能体AI测试：英伟达Vera CPU比英特尔Sapphire Rapids快2.2倍 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsbWI5Sk9uRFdEOHU2dXZ2NmFRWldiN2puel9HWmNNb3lVU0pUb09VRWZGUTdNVmJmQk4xaE45a2stNkdJYnhWMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:12:29+00:00",
-      "summary": "智能体AI测试：英伟达Vera CPU比英特尔Sapphire Rapids快2.2倍  凤凰网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌发布三款Gemini模型 Gemini 4预训练工作已启动 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDlXdGZjVTJEVHB4YkgzZ0FGVlRocGNmcmIwVG05Z0cxMkVVM3hwS3V1d3JTVHZteXVLOTVXcmZHU2pLWTF6MGxwb21MUFRPdG9KbTdEbVY1UnZSbFFTQXZQQUQ1T3pldUUtUUZNaEJBR3NVNjYtcEZsdkZ1bXpDZnRpS0ZIN2hN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:09:00+00:00",
-      "summary": "谷歌发布三款Gemini模型 Gemini 4预训练工作已启动  Sohu",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "基于智能体的车载智能场景重构 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CZmlVNWRJcy1lRG5BN1RIQndLb3Z4V1JoQ2NCa1MzSlFmWHc0aXQ5Vzh5NGRyLUpwM0gxZ1o1NExaaEpWc2RpZUNTWnVCbjRzOGZv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T01:02:00+00:00",
-      "summary": "基于智能体的车载智能场景重构  电子工程专辑",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "北京通过备案大模型已达259款 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFhEd0JGWjNoM3Q2WnpvbGhsSVd1enFqNFpoSVRNU0RidXJqeUI0UVNrOXctQzBfNWNxbk05MFJkTGNoRkFKN08zR2NyYzJVemxfRXBuSW9oZkdJZVBydDNZeFJlb3hIZmYwMlIybmxJSDhtQ1BMVVg1RGtwS2hZeGt3dXFsYXlqNUthejN0Q3F1dnRKQTJSdQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T00:41:46+00:00",
-      "summary": "北京通过备案大模型已达259款  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI智能体规模化应用如何推动全球协同治理机制走向成熟？ - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHAxeGRMY3lxUnh4OGFEaW0wUkJWQWUwUzRTQ1dnRk1EaEVsMjkwRHBZcjdsMWFrSU5uUXBnZWdxTUViMnNEaTd0YTNiMG1qMzJObnpSV0Z1R3dLWVNhbW5JOF9ycU9EWHY5V2QwR21MTHlDLVJseE5sWTJGSkRpdTFqUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T00:39:56+00:00",
-      "summary": "AI智能体规模化应用如何推动全球协同治理机制走向成熟？  新浪新闻_手机新浪网",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -358,16 +369,6 @@
       "summary": "OpenAI推出面向小型企业的ChatGPT服务计划  观点网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "谷歌「史上最差」AI模型发布，Gemini 3.5 Pro延期 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wMnVieEE2bTQ0cC1DOGVOc3dhcm9rVzBRR3lGZjJjZ01jWDJSLVJkakJ2d1FVMW1WX2lXMVlnY1BZSl9ZV05HaVctMlNOR2ls?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-21T09:18:00+00:00",
-      "summary": "谷歌「史上最差」AI模型发布，Gemini 3.5 Pro延期  36Kr",
-      "categories": [
-        "google"
       ]
     }
   ]
