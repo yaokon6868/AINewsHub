@@ -1,378 +1,435 @@
 {
-  "updated_at": "2026-07-23T17:25:04.067275+00:00",
+  "updated_at": "2026-07-23T18:46:46.491837+00:00",
   "items": [
     {
-      "title": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14ZjNvSTNPc0xWTXZHSFlsMUhUckRSRjJCelVoYi15YUxjbzd0TnFSajY3NzFLdDZCOUhvRWdibnVBUDdVdWtmNXNyeG1zYlNiTHZIdEF0SUVDWGh0TUdCOA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T17:15:30+00:00",
-      "summary": "OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品  东方财富",
+      "title": "OpenAI 向所有美国用户提供 ChatGPT Health",
+      "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T17:00:00+00:00",
+      "summary": "用户还可以集成来自 Apple Health、Function 和 MyFitnessPal 等服务的个人数据。",
+      "translated": true,
       "categories": [
         "openai",
-        "chips"
-      ]
-    },
-    {
-      "title": "强化学习之父萨顿中国演讲：大模型无法成为超级智能，真正的AI还在后面 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSDVjQzhNTmotNXFOSVZIMWoyTlpha0gxSFhnNklvSmtrb2htWE5JS0JJajUzWF9sdEM1d3NfWTYzbjFqVWFTSkh3N0FkNmdBenoyb2lfS1dQWjV0em9pT0UxTzFwNVJfZ3Fyc1VXN1ZhZEF5OWc2eElFNFVQQ2s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T17:10:47+00:00",
-      "summary": "强化学习之父萨顿中国演讲：大模型无法成为超级智能，真正的AI还在后面  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "哪个品牌语音助手最智能？小米超级小爱同学给出答案：AI大模型+跨端多指令+6000+设备生态+FAQ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFV182WUlJLWQyV2pKSkI2Rlh0NUNMdklpRkY0a29rZFF1cEI1WXBMenEweWxOVFFlNFdDTlRlWlRBckNLZDVwYThCVDFrRDFxY2UxRy1zd3JJT3FIVmxfWFZzNVpuWjVRUk13dUF2UHdrT0Z3bDBGektlTnpkVkk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:48:46+00:00",
-      "summary": "哪个品牌语音助手最智能？小米超级小爱同学给出答案：AI大模型+跨端多指令+6000+设备生态+FAQ  新浪网",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "北京打造智能体终端标杆产品 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TU3MwM2lqUWVic3dyeUdRSjk2VXhBWWFnOUhRUHdzR0hmVnVUeHdFQk1zb05adlUwS21ic1NSX1pzdzZZanRJZjhBenhZeWwySHc4Mm9ic2lzR1lFV1k2eTBB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:42:02+00:00",
-      "summary": "北京打造智能体终端标杆产品  手机网易网",
+      "title": "反对开源人工智能的论据很糟糕",
+      "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T16:49:57+00:00",
+      "summary": "55 赞 · 27 条评论 · Hacker News",
+      "points": 55,
+      "translated": true,
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "论坛发布了哪些重要的数字化成果？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83cGhTWHhlaGlwN0l2VGFvSzdFcENPME50dDBabEM3YV9Gc3FvVTdGRXlHMTFKNlRwYTRuUWZQY0JtdTMyTG8tVTk1b2ZBQXIyaUVrQ0lSUktsc2JHNUpJWTJnRENBRFBnaUNCOUdIa25jUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:28:16+00:00",
-      "summary": "论坛发布了哪些重要的数字化成果？  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "首次亮相！AI智能体新机：旗舰配置，官方预热 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWwzMjZRSG5rVF8tTUdUYjZwYlp6TzA2aFJYN0FPbmhuZ0hRTFRacWlXN1ZmRWVzYjFLSVBCeDlCVm1zWTFHWnZtS3NqN0E2VEt6aXhMZ0xmeFJOWlF6M2ctMmU4bmlSX0ZZUVd0bUZhNGprUHd2MFBaNmZUZ3ZrRWwwLW9qWHJHbnNZNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:25:55+00:00",
-      "summary": "首次亮相！AI智能体新机：旗舰配置，官方预热  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "国产大模型迈向“价值跃升”｜经济周刊·焦点 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fT0l6S3hqUEg1dWJXb0k0WjB3eUZmNGVZN0d5bFpwdXl5Y1FyVmxpLWpQV0ZDZWxJdnptOWJzbnVwclA1akthU0VkX3prcVFGY3pNRDIzdEd1WFEzTUl0aHU3djJFdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:24:38+00:00",
-      "summary": "国产大模型迈向“价值跃升”｜经济周刊·焦点  东方财富",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "活动回顾｜共探未来AI智能体计算架构，南洋-交大EMBA名师公开课暨7月项目说明会圆满举行 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84LTM0ZW14akFrTy1ONDFoYzBuc3dnODFGck1hT2pmaXZ5MGdMb2dZcUVSTWpOeGZPOXJiWERIZ09xYUpuZkxTTnVUb2lGeG8waG8tRFNud1d4bnBuWEJ0cFZObzNac1o5TzBnZ2ExZURTMWU3Z0ppY3JUNGtKVzQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:19:00+00:00",
-      "summary": "活动回顾｜共探未来AI智能体计算架构，南洋-交大EMBA名师公开课暨7月项目说明会圆满举行  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用 会带来巨大的增长 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44ZVNtcEZKZFZ3Z3ZFSGZNekVUWTJpc25xaFJ2djNyeWdMNndrdER2YjB4cDd4RlRkZDZWV1JzbDZHYlUwNWQxU1IwX3IwdV83RWxzcFUxN1NVRktsS1JWYjhFdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T16:11:45+00:00",
-      "summary": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用 会带来巨大的增长  东方财富",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Kimi K3登顶全球代码榜 中国大模型能否领跑AI新纪元？| 夜话 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pa041U1p5elF3MjRZSGZKdi1zQ1luWWNveW5vd29WekxIMXVVbENhXy04NzZKOUJ1RnpwS2ZwOVBpQ0pTZTYyNTFodUo2NjZWdjVfdQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T15:16:16+00:00",
-      "summary": "Kimi K3登顶全球代码榜 中国大模型能否领跑AI新纪元？| 夜话  第一财经",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "【北京发布】打造“AI科学家”和自主实验室，北京按下AI4S发展加速键 - kw.beijing.gov.cn",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91ZEoyRlVwemtlUEhhUXM3THlPb0tqTGY5M2pySTVqcXBId2pTcnRhTkhDLVF2RHdqSXlPSHVLSktHSGtSZWthQU56cnljcnFCcHBtZi1oWm1WVGxGaU5nUWtLNUc4MWN3bEY5di0tdEZIUjg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T15:01:43+00:00",
-      "summary": "【北京发布】打造“AI科学家”和自主实验室，北京按下AI4S发展加速键  kw.beijing.gov.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "偷改权限、删记录……中外AI专家：智能体在“失控”|讲堂视频 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aaURKQVVSS1ViZktIcmJnVnlxSWhGUnRlcW9UNzI5eU0zeE1KcUxzaEU1MUFmd1RWSVZ6S1hOQk9NR20wWW94M2l6QV9SUjhXVEs4ZmtRSlgwdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T14:57:00+00:00",
-      "summary": "偷改权限、删记录……中外AI专家：智能体在“失控”|讲堂视频  上观新闻",
-      "categories": [
-        "tools_apps",
-        "image_video"
-      ]
-    },
-    {
-      "title": "新政加持！北京智能体发展跑出“加速度” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbl94RnRNeXliLVNGRjE2Z1lZNkdTMGVMVnFxMVJBMzJ3aUFxWmJpeldxNzVCdFJ0aGRFY1A3RmF1cjc1X1plNU1qV0Uzb3dwR0VZX0k3X241MlFuUFVkSVVZOXdRY1dtNjB1MXdnR2pCbG90SDlVbnp0LUFNbTJHaGFibHJQalRh?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T14:33:00+00:00",
-      "summary": "新政加持！北京智能体发展跑出“加速度”  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国AI核心产业规模突破1.2万亿元 开源模型下载量居全球首位 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdVdCVVhJejc3d3F1T2prY1pUU2RoWThQRnZWREhoZUxfNFVZcGpsTnlOX0xSNnNPb2tHdkRUMGg2MG1zRXZoZ0lSSnRzb1gxZDFnSWZqNV92YWxPRHBacURn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T14:27:00+00:00",
-      "summary": "中国AI核心产业规模突破1.2万亿元 开源模型下载量居全球首位  观点网",
-      "categories": [
-        "breakthrough",
         "open_source"
       ]
     },
     {
-      "title": "一图读懂《北京市关于加快智能体引领发展的若干措施》 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGRITm1hUnNlcDFBeUJld0hBek1OUFhWYzgwa1JkT1Fsc2VMSEFsMHFDS0p4MGg0ZjQ5bWRCU1NuNURIdnE4MElOUHJWZk92MVRMMjRyWHhhRjVZa2daWUxHVnQ3N25NVm1TU21hM280Y25tTFVRRU5oWmxFMkxHdTJVcHhtSUJI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T14:23:00+00:00",
-      "summary": "一图读懂《北京市关于加快智能体引领发展的若干措施》  Sohu",
+      "title": "Show HN：OneCLI – OSS 凭证网关，可向 AI 代理保密",
+      "link": "https://github.com/onecli/onecli",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T15:42:40+00:00",
+      "summary": "37 赞 · 15 条评论 · Hacker News",
+      "points": 37,
+      "translated": true,
       "categories": [
-        "tools_apps"
+        "other"
       ]
     },
     {
-      "title": "OpenAI模型测试时「越狱」入侵另一人工智能平台 - 香港電台",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN01VSHdOdlNOTENGWDNxNm1mM3pmTmhUekRIT09VMDhlalktOU5KYWVDQVBtMnozb2l0MkNQT29QRExzVFU5QUVFNmNFUm9aUEczaF94QUZSazktSmRsSk5oV2xPQi1tdWZtQkY2b2M5VnU5Y3VZLU5fblhfSkF1UUhTaEZWbkpLV05KcDJKUTEwWVRxbkEzQUl3aDlUVVc5Q3RZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T14:18:00+00:00",
-      "summary": "OpenAI模型测试时「越狱」入侵另一人工智能平台  香港電台",
+      "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能",
+      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T15:18:40+00:00",
+      "summary": "408 赞 · 417 条评论 · Hacker News",
+      "points": 408,
+      "translated": true,
       "categories": [
-        "openai"
+        "other"
       ]
     },
     {
-      "title": "最新安全评估报告：GPT、Claude五款模型集体作弊，GPT-5.4比例最高 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfU3FJbnpuLWhIQUZqTTJLYzYtUUJKb2NuNWR5TG1HcmVQcDE1RTNaVDhYTTQydTh2UWFkNWVRS3RXY1UwQ3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T13:29:21+00:00",
-      "summary": "最新安全评估报告：GPT、Claude五款模型集体作弊，GPT-5.4比例最高  智东西",
+      "title": "Show HN：Palmier Pro – 专为 AI 打造的开源 macOS 视频编辑器",
+      "link": "https://github.com/palmier-io/palmier-pro",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T15:11:37+00:00",
+      "summary": "40 赞 · 10 条评论 · Hacker News",
+      "points": 40,
+      "translated": true,
+      "categories": [
+        "image_video",
+        "open_source"
+      ]
+    },
+    {
+      "title": "谷歌 Gemini 接近十亿用户里程碑",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T14:52:44+00:00",
+      "summary": "Gemini 2 月份月度用户超过 7.5 亿。",
+      "translated": true,
+      "categories": [
+        "google",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "混合动力电动飞机发动机的目标是实现 30% 的燃油效率",
+      "link": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T14:07:38+00:00",
+      "summary": "61 赞 · 41 条评论 · Hacker News",
+      "points": 61,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "我认为你可能在用人工智能欺骗自己",
+      "link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T14:05:43+00:00",
+      "summary": "72 赞 · 134 条评论 · Hacker News",
+      "points": 72,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "DARPA 和美国空军驾驶人工智能控制的 F-16",
+      "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T13:51:36+00:00",
+      "summary": "61 赞 · 56 条评论 · Hacker News",
+      "points": 61,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "随着人工智能支出的攀升，Alphabet 的现金消耗给大型科技公司敲响了警钟",
+      "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T13:10:02+00:00",
+      "summary": "240 赞 · 246 条评论 · Hacker News",
+      "points": 240,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "人工智能公司正试图隐藏巨额债务",
+      "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T13:09:10+00:00",
+      "summary": "410 赞 · 193 条评论 · Hacker News",
+      "points": 410,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI 和 Anthropic 联合起来应对开放式人工智能对其底线的风险",
+      "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T13:00:03+00:00",
+      "summary": "255 赞 · 293 条评论 · Hacker News",
+      "points": 255,
+      "translated": true,
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "ChatGPT建议用户忽视肺栓塞症状 美国牧师起诉OpenAI - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTZhRnRqaUlNVEZRazBkXzZvcnVIVTlGcUNTdUp1bFFBVW9aTHFhdUZ0NHUtQ2trOEhacmNlYS1qNmQtMHl3RkJIbURzc0t0ZnpuVXg2YjZjNTRBeUZzbWhyVjA4NzQ1Tjllb1FpRnJrVEFBZ29ubHVSSzJTVEViR0ZSZ3N5d0RZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T13:28:00+00:00",
-      "summary": "ChatGPT建议用户忽视肺栓塞症状 美国牧师起诉OpenAI  Sohu",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "智能体专项政策落地！北京最新发布 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzRibWVGSGtmZUN6d2pkeGdlWS1pQngxc0tSXzV1WHJiYTl0R0t0ZmpXTXNqTEtQNEE1OVJoX2FjN3FGdUZHYnBGTWZNUEg5VHlZVEE2eE5iRl9DWVIyNXFWWG1fcGFLZU9xVFhlQWUtT2xGV1BYT2ZOQjY5MVZzQUhTMzRRS0pBb1ZMYQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T13:20:09+00:00",
-      "summary": "智能体专项政策落地！北京最新发布  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "便携脑电采集新品发布，脑电信号成大模型训练数据新方向？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ONEtEWXF4TUxnMTB3WTFBNjN3c3NOSkVXUzZXakd5aDJlN29vNmp5RklnUzFEU1N0Nm0wTDhCdW1CdldWVXo4UEZFRmZnOXhsMmc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T12:33:00+00:00",
-      "summary": "便携脑电采集新品发布，脑电信号成大模型训练数据新方向？  Sohu",
+      "title": "了解人工智能经济",
+      "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T12:11:05+00:00",
+      "summary": "71 赞 · 133 条评论 · Hacker News",
+      "points": 71,
+      "translated": true,
       "categories": [
         "other"
       ]
     },
     {
-      "title": "中国开源大模型临危受命化解OpenAI失控危机：“越狱”两日发动1.7万次入侵 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CbHM1eWQ2aEhXZUx6RmZEUVJISUY5aFk1RzI1SmtIRUgzdTlHMXhkWkJQMVpHSFI2RWl6TUZJN0lzMUZ0U3NVb2VMWnBqekhCOGJlTw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T10:40:49+00:00",
-      "summary": "中国开源大模型临危受命化解OpenAI失控危机：“越狱”两日发动1.7万次入侵  第一财经",
-      "categories": [
-        "openai",
-        "open_source"
-      ]
-    },
-    {
-      "title": "遭OpenAI大模型“自主攻击”，全球最大AI开源社区靠中国AI完成取证分析 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Gc2tBRDAwc0V6Tmhjblh4Tk1LTjc1elhUX29sNm0yNFY0dFctTXJWNXhGSlhUTmpCdHp2QzN6Z2lvZl9rcjVEaEFrdzBQSGQzdm5DZVRPMHR6MkRVRVppZA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T10:07:00+00:00",
-      "summary": "遭OpenAI大模型“自主攻击”，全球最大AI开源社区靠中国AI完成取证分析  thepaper.cn",
-      "categories": [
-        "openai",
-        "open_source"
-      ]
-    },
-    {
-      "title": "行业首个全场景环境监测AI智能体发布 智测云联推动监测从\"看数据\"到\"会思考 - 中华网科技频道",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CNFMzWUVQclNYUWFtR0FBcWFaMWIwcFRTdWk1dHZTRWRJWURDSTZ1UDNJMFFIY21LVXB3YzNmWXlNN1pyRWVidFp2R1JOamk2VTQ3OGdDMk1haW9CY2o5YkpJalJBb05SeTJWQnZ3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T09:48:11+00:00",
-      "summary": "行业首个全场景环境监测AI智能体发布 智测云联推动监测从\"看数据\"到\"会思考  中华网科技频道",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "杭叉发布LogiMind具身大模型 首席科学家详解无人叉车如何突破2%渗透率瓶颈 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpR1dSNXBya0FWcHc3QnZIQXJNYlAtY1Y1NmNxd1V3c2J3c2VfU1JKeEJxM2lMdmlobjZsTUJxM0N1WTZlazFOV3dwWHFqYjVpbHMyLVBkYVoyQkhDRW5rOXZ3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T09:44:10+00:00",
-      "summary": "杭叉发布LogiMind具身大模型 首席科学家详解无人叉车如何突破2%渗透率瓶颈  同花顺财经",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "直播回放｜《北京市关于支持智能体引领发展的若干措施》新闻发布会 - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03b0NYRm9naEl3ZlYzZWpBNnloSUVxa1V1blE0QzlYRk9nZ2JSMmRYQzJCRU8zMVBXdWdYcWl1UXB5RTJJdGQ2TDZUZjFyWlZMZW13VTQ4VU5HU1pXaFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T09:01:55+00:00",
-      "summary": "直播回放｜《北京市关于支持智能体引领发展的若干措施》新闻发布会  京报网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国发布全球首套智能体互联标准体系 首批发放2000余个身份码 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3ZzVPZUM4dEx0emswVWFkV1JiQzNiS3RuSDl1N2IxMUwxRWY0Z2JUelhBN0Mxa2Z3eDlWWWo2RndERGVsRjdMaEtUVXRTWU1IUDVISW82NF9QZS1tQWJ2Ym53?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T07:46:48+00:00",
-      "summary": "中国发布全球首套智能体互联标准体系 首批发放2000余个身份码  观点网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智能体赋能！北京上半年人工智能领域融资规模超950亿元 - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IX1FHZm1uUDJXMm5XWmowYU9Gd1FISDlBNF96d0Rqb19MdmtCN1BuRWJ2ODBCaEIwWU80aVJTMDRaUFpYR0syLUFCOVZsSGZpR0lYMjNCc1ZhQzVzLWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T07:37:22+00:00",
-      "summary": "智能体赋能！北京上半年人工智能领域融资规模超950亿元  京报网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "北京首份智能体专项政策发布，明略科技(2718.HK)成为五条主线的“最大公约数” - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdnlwRUl0U0dwSi0wLVl1dWhGV0ZpdmFCOEZvS2xhbzlQcGc3bEltOGx4b2lPUUZEYWdvQWVPUWhVdVVuZXpfb2ZJanVmWTUxOW9LNjFDc1pMNjBzWVBhODYxX0Rpdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T07:17:03+00:00",
-      "summary": "北京首份智能体专项政策发布，明略科技(2718.HK)成为五条主线的“最大公约数”  东方财富",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "腾讯云发布云端智能体CodeBuddy NPC - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ULWtNdVlscWt1SUxTZ1g4UUhQcU9JcWlRS3BOYzJIdzNVRkJEcFlpSlc3TG16MnYwNC11Y09VWkE4blNLcUdTTmFFd1BTVU14TEt3RDY5Zm4zaUxudlhNRg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T07:03:44+00:00",
-      "summary": "腾讯云发布云端智能体CodeBuddy NPC  东方财富",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "“基于大模型的机器人多模态具身推理智能”专题论坛在京举办 - cast.org.cn",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUJUcGRIcG5FV3pWWmxlbWFNMGpPbWlCM280OFVvUlk3SmdNRU5kUXRPZU1uNnZ3bWN1ZW5DaDhqcm83bUtLVDJ5dE40TF9sZEtmQS1rSExaSDlRRmltNkpZakpiQzlBbW05VnhmbXJGbEJsMTJ5TnpaODV5SjB4T1hVd1FSWXNuYmc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T07:01:45+00:00",
-      "summary": "“基于大模型的机器人多模态具身推理智能”专题论坛在京举办  cast.org.cn",
+      "title": "配备 AMD Ryzen AI Max+ Pro 495 和 192GB 内存的新框架桌面选项",
+      "link": "https://frame.work/desktop?tab=192gb-coming-soon",
+      "source": "Hacker News - AI",
+      "published": "2026-07-23T11:09:48+00:00",
+      "summary": "71 赞 · 102 条评论 · Hacker News",
+      "points": 71,
+      "translated": true,
       "categories": [
         "other"
       ]
     },
     {
-      "title": "给“AI”发身份证！国内首个智能体互联标准体系发布 - 大河财立方",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ONllIblNNb2tlMkE3OTlyN09OaTEzVGsybS16dFlKWmtxNXVtZDFKdTlBVk5iOTdFVjlVbzdqWlJlaUcwTE5aRWtqYWlqbTRXYkxPT1BOaWM4LTJZeTRYUFdiM0xraFpTcUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T06:38:24+00:00",
-      "summary": "给“AI”发身份证！国内首个智能体互联标准体系发布  大河财立方",
+      "title": "专家表示，Kimi K3 之所以如此优秀，并不是因为利用了 Anthropic 的《寓言》",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch AI",
+      "published": "2026-07-23T11:00:00+00:00",
+      "summary": "一位专家告诉 TechCrunch：“我认为，在《神鬼寓言》严格蒸馏之后，你不会得到如此强大、如此迅速的模型。”",
+      "translated": true,
       "categories": [
-        "breakthrough",
+        "anthropic"
+      ]
+    },
+    {
+      "title": "人工智能实验室是鹈鹕最大化吗？",
+      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T17:17:54+00:00",
+      "summary": "648 赞 · 237 条评论 · Hacker News",
+      "points": 648,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "当一个制作不良的安全工具执行脚本时，它并不是一个“流氓人工智能”",
+      "link": "https://hachyderm.io/@thomasfuchs/116964576606603226",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T17:07:46+00:00",
+      "summary": "32 赞 · 5 条评论 · Hacker News",
+      "points": 32,
+      "translated": true,
+      "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "谷歌「史上最差」AI模型发布！ Gemini 3.5 Pro延期 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxTUNickt4MHI0TkJNWjhnYTRHMDBvS2FiSGQ0cmVSRmpqUnJFX0haYnl0N1A0bDEtdVdBWmdYY28wQS1yQUJyLQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T06:30:00+00:00",
-      "summary": "谷歌「史上最差」AI模型发布！ Gemini 3.5 Pro延期  智源社区",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "DeepSeek融资会议实录：梁文锋拆解下的大模型技术与商业哲学 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGJOYlp5R3o3aUM4Z2dfWE5YaEJ0c3E1ZnBFRGo0N25KNDFrY3RTT1lxdkF2OGhRN0N3LXY5RVFHTXZmTHE4LU15bV9JbzFPUlkxeXdiOHpmTmJ0d1pfTDNXa05WTlRTbkE0eXlZYmtRT3Vod3BmTjBkbkJLcUlVdmtVdmdhQ3VNY1NqRXZITUY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T06:27:18+00:00",
-      "summary": "DeepSeek融资会议实录：梁文锋拆解下的大模型技术与商业哲学  新浪网",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "OpenAI突发！大模型失控，出现入侵事件 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1ZEWXg3NlBCWWNqQlR6ODZmMWJiYUJKS190R2pwbzYtX3V6VGdYZllXX3J5d3R6Z3BBTElVOHFJdkVaSUU5clZkT25rZk95NzZuaWNXeWJ5NS1IZ3E2N2MwQ3R3Wm9YbkJTZ3lDM2RwRTZ0ZUhSRmlReVZwR2VkTmFIMGgxenZHNl84Sw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T05:32:00+00:00",
-      "summary": "OpenAI突发！大模型失控，出现入侵事件  21财经",
+      "title": "我使用 ChatGPT 从纽约起诉一家挪威航空公司并获得 4760 美元",
+      "link": "https://www.behind-the-enemy-lines.com/2026/07/the-lawyer-i-never-hired-how-chatgpt.html",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T16:16:31+00:00",
+      "summary": "31 赞 · 11 条评论 · Hacker News",
+      "points": 31,
+      "translated": true,
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "滴普科技发布全新升级DeepWorks企业智能体平台 - ncsti.gov.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclVZVndCTzFUSk5HMnFQdXpqQS05RzVYekREbTVlaTI4bzJnaVpRNFUzeGtwX1BZWlBoSDRKY2VkbElMUUVhczg5dDFOeG1wREZGVnFDWmdtQXYtOG5ENjRFS1NKa0ZfX0g1aXFEelNXRlZheXVPMWtJakFUb2FST0Nn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-23T01:58:59+00:00",
-      "summary": "滴普科技发布全新升级DeepWorks企业智能体平台  ncsti.gov.cn",
+      "title": "大多数美国人对人工智能数据中心说“不要在我的后院”",
+      "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T14:34:27+00:00",
+      "summary": "142 赞 · 298 条评论 · Hacker News",
+      "points": 142,
+      "translated": true,
       "categories": [
-        "tools_apps"
+        "other"
       ]
     },
     {
-      "title": "智能体改变今年WAIC叙事主线，底层大模型之争持续上演 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vLTBkVlpTUVJNR3pjdnZzNnFFZWpVY1NhVDVOUlI4c0JzRnhCNThXSDc1dWdueXdSTXJlT2g2RVYwZTFBck1LcTdXS1JlUDJhVkJjS1hmT2E5Wk5aeGNReA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T22:37:08+00:00",
-      "summary": "智能体改变今年WAIC叙事主线，底层大模型之争持续上演  东方财富",
+      "title": "高质量的非小说类书籍是人工智能的对立面",
+      "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T14:18:05+00:00",
+      "summary": "467 赞 · 227 条评论 · Hacker News",
+      "points": 467,
+      "translated": true,
       "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "丑陋的人工智能菜单重新设计的企业",
+      "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T12:49:45+00:00",
+      "summary": "364 赞 · 294 条评论 · Hacker News",
+      "points": 364,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI 称其人工智能失控并发起“前所未有”的网络攻击",
+      "link": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T12:03:32+00:00",
+      "summary": "76 赞 · 102 条评论 · Hacker News",
+      "points": 76,
+      "translated": true,
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "微软与法国人工智能公司 Mistral 达成“数十亿美元”协议",
+      "link": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T09:12:58+00:00",
+      "summary": "44 赞 · 15 条评论 · Hacker News",
+      "points": 44,
+      "translated": true,
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Show HN：新型 FPS 瞄准训练器",
+      "link": "https://openaim.pramit.gg/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-22T05:39:31+00:00",
+      "summary": "82 赞 · 46 条评论 · Hacker News",
+      "points": 82,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "五家科技巨头利用推翻安然公司的伎俩隐藏了 1.6T 美元的人工智能债务",
+      "link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+      "source": "Hacker News - AI",
+      "published": "2026-07-21T19:11:27+00:00",
+      "summary": "102 赞 · 19 条评论 · Hacker News",
+      "points": 102,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "人工智能代理——TRMNL",
+      "link": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "source": "Hacker News - AI",
+      "published": "2026-07-21T18:32:21+00:00",
+      "summary": "51 赞 · 29 条评论 · Hacker News",
+      "points": 51,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Jack Dorsey 推出 Buzz，将团队聊天、AI 代理和 Git 托管结合起来",
+      "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "source": "Hacker News - AI",
+      "published": "2026-07-21T17:14:06+00:00",
+      "summary": "372 赞 · 330 条评论 · Hacker News",
+      "points": 372,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨",
+      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "source": "Hacker News - AI",
+      "published": "2026-07-21T03:56:03+00:00",
+      "summary": "377 赞 · 267 条评论 · Hacker News",
+      "points": 377,
+      "translated": true,
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点",
+      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News - AI",
+      "published": "2026-07-20T16:36:36+00:00",
+      "summary": "242 赞 · 171 条评论 · Hacker News",
+      "points": 242,
+      "translated": true,
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "中国的开放权重人工智能战略正在获胜",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-20T14:21:47+00:00",
+      "summary": "1238 赞 · 930 条评论 · Hacker News",
+      "points": 1238,
+      "translated": true,
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "机场模拟器",
+      "link": "https://airport.apunen.com/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-20T10:30:40+00:00",
+      "summary": "852 赞 · 164 条评论 · Hacker News",
+      "points": 852,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "人工智能建议让人们不太准确，但更自信——研究",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "source": "Hacker News - AI",
+      "published": "2026-07-19T21:18:10+00:00",
+      "summary": "363 赞 · 213 条评论 · Hacker News",
+      "points": 363,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Moonshot AI 由于 Kimi K3 需求暂停新订阅",
+      "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "source": "Hacker News - AI",
+      "published": "2026-07-19T16:02:25+00:00",
+      "summary": "284 赞 · 113 条评论 · Hacker News",
+      "points": 284,
+      "translated": true,
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "人工智能狂热正在彻底改变全球决策",
+      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "source": "Hacker News - AI",
+      "published": "2026-07-19T01:29:19+00:00",
+      "summary": "452 赞 · 291 条评论 · Hacker News",
+      "points": 452,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "纽约市可能要求房东和房地产经纪人披露人工智能在房源中的使用情况",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "Hacker News - AI",
+      "published": "2026-07-18T22:13:39+00:00",
+      "summary": "591 赞 · 265 条评论 · Hacker News",
+      "points": 591,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic 推出 Cowork，这是一款可以在您的文件中工作的 Claude Desktop 代理 - 无需编码",
+      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI",
+      "published": "2026-01-12T11:30:00+00:00",
+      "summary": "Anthropic 周一发布了 Cowork，这是一种新的人工智能代理功能，可将其大获成功的 Claude Code 工具的功能扩展到非技术用户 - 据公司内部人士称，该团队",
+      "translated": true,
+      "categories": [
+        "anthropic",
         "tools_apps"
       ]
     }
