@@ -1,76 +1,107 @@
 {
-  "updated_at": "2026-07-22T22:33:39.582259+00:00",
+  "updated_at": "2026-07-23T00:02:15.397348+00:00",
   "items": [
     {
-      "title": "AI大模型开源能节省多少具体成本？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LQlVfNmRpRzdnaDdaXzNMeWZvOHQzTmF1aE5KT0wtaFQ3VzBnanBXQmY4YU1sRWpYaWpvTDRwVkxyS0FqclRHaVNQNTVRLWZqNzk5b3lYdzJpWndXWWpad3ZIVFZ1c2VWVTA3THJpdG1SVnBqc3B1dHYxeG8zSW8?oc=5",
+      "title": "OpenAI的重大突破事件对人工智能行业有哪些影响？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRHBBQUU0cklCX29hVnJfTExWZjh4RjIwY1piS1loNmRyN1VJR3hPRUVTWmFiWmpaS09PQzZRR1Q1TXdFWU5taTJQOWlvV1pxV2RBTTJJbjZPajgwcWdRenVTbHA3TnpsQVpvYnVBNW9kOFh0ejdENEJ6eGJ3N1U?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:50:05+00:00",
-      "summary": "AI大模型开源能节省多少具体成本？  新浪网",
+      "published": "2026-07-22T23:57:57+00:00",
+      "summary": "OpenAI的重大突破事件对人工智能行业有哪些影响？  新浪网",
       "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "谷歌AI产品Gemini的商业化进展如何，能否持续支撑业绩？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZ2hCcVJGamZHdk1fZ2tWckJha0kxaEpvRHZIZlpvdS02dmtYbmMyZVdZY1RPZGxoNjVtQXpVeG5fWEdwZ1ZsMXh2V05kSURKS1pGcHVxZHpYUENDd1o2aGd3dUJpVndhUG1hUmVzRjZ5UUNyZ2pFTHg4bDc2MHM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T23:48:39+00:00",
+      "summary": "谷歌AI产品Gemini的商业化进展如何，能否持续支撑业绩？  新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "“Gemini，谁啊？”谷歌前沿AI模型迟迟未发布，竞争对手“群嘲” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOU51anBHUXU5aUZPelhrVWo5R21wRzlmV3RvT2YzVXhVRThGSS02VjNEVGdQVDl4SF9vMzJucWVHNE5GN1VkY1IyYTNySEZBRVFXWEZlcm5BOHM5eDJZTjJLZGJQM3ZZLW5MN0Q1RVRZOGRmOVdQVnNTbHFjZGNkd2ZZeE9UdktV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T23:25:14+00:00",
+      "summary": "“Gemini，谁啊？”谷歌前沿AI模型迟迟未发布，竞争对手“群嘲”  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "湖北研发的AI智能体堪比老电工- 湖北日报新闻客户端 - 湖北日报传媒集团",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoWmFFTFFrcjBaT3YwSnJxY21tNVRacG0xYjEtLUNwa3lHd0tMb0RnN2Jwc1RFUVFxZUEyQmdFUHcwVGlvdFZCVkNIUjB0dm9pUHVGa3VlMmM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T23:20:10+00:00",
+      "summary": "湖北研发的AI智能体堪比老电工- 湖北日报新闻客户端  湖北日报传媒集团",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI现安全事故中国大模型救场 智谱GLM助力分析 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iYzFYVHVsMm1zU0U2OGxkcDMyVV9jdDhydXczN1NlMnphbEgxNk5VVVlXTU1kMDVidkMwY0wxWXJBZEFoZUZPVWVTOXBaZ2ZHVXc5RWlHc3FrZG1TbFZtX1pndVhxMEVFREZoVU9INWM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T23:16:59+00:00",
+      "summary": "OpenAI现安全事故中国大模型救场 智谱GLM助力分析  中华网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSFhoSFlXcDhqQjI5bnh5T0JnV3lXSmR5RFZ5QzZ2YjFMZlEtc1BHZjFFajFBbzNOMmptdEZaQmF6YVhfcTJ4X1pMcktYTU8tb1FsSmhERU1LTnhEY09GYklRV1BBeDY4RW5qLUtsdjRnS3FEOWxUVVpDRkV2VmswWVJHeEpNUmROVy1yNGo5b1lkQjUxVEFWbnF3NzExS3pUQl9sc1NPV0ZGdDZ4VWQ4TFg3TnJ0UG5JcWxOYzdBcmdsbUZBUFYteHpvZFVrMmNtdUplQlltZVZCUWNLeGlTUjVtZWo5Vm5fakxNRmJPVmNfczVqODhuYmRoYm1EZXJUcjBuLQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T23:12:34+00:00",
+      "summary": "全球首款AI智能体手机 努比亚NaviX Ultra核心规格揭晓：骁龙8E5、7100mAh大电池  新浪网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Alphabet二季度营收1198亿美元 Gemini月活用户9.5亿 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16ZndQSEpHRzR1Qkh0eDVZVnFXenFJeFJic05OZ25JMHFCWjIweWhfQWVGaGNvMk5KTWhNX1lXTzRkLWFlbGYyY282SHQwZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T22:53:37+00:00",
+      "summary": "Alphabet二季度营收1198亿美元 Gemini月活用户9.5亿  观点网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "白宫指责中国最新一代人工智能模型窃取Anthropic技术 - RFI",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQWGp6Y1dheGlSajVNNG5UalNZcmNSSFhFV2RVNjNBdEJ5aXFPS3gtWGFfbDdzTG1Hd2hNSVc3Zkd1c01vcHpvb1NQLUpGbVZJV19HbURqWU40NzBJeDhvR05MSmZQeWV3eTIxWmZ0bTk4SU1HLTd4R2hHYXMyYVJhamlrTGNzcjl4TW5LWGR6UjlXeHcyYjl0dElfV3dQTW5NeWlyeW4xdjR3QkNiTHprMW1oeXZwQ1BFYXlEeFNYYTNERUZNRDZtc2pVb0h5dnEzMDZWQ2JUeXpOdXZuZmlZTDRPUWFjeC1IWWVkTVBLRnE2YnRlZjRob20xVlFubXpBZnRKeVl5bUZxVm5QQnFtbXpyUFJ0Vk5LZ1B6U3N4MkY0Q2xtUkJ6U0dMTmZDNW94MHNETWFDZnh1dGxUYXU5Mjc3YmpQM3pnYmJIVlQ0VHlPSFdGSGhqV3RpOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T22:44:00+00:00",
+      "summary": "白宫指责中国最新一代人工智能模型窃取Anthropic技术  RFI",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "国产开源、全球前沿，大模型Kimi K3强在哪里？ - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYURRUWFURDlHRDZEM08wd19laURIVjd5VGFjNDZyZk5HV21uUUROV3k3cUVRN2VrNXZiMTJxMnF6aDhTZmszWE1UV3A2aEhheWN4MnFVV055bld1V1FqMnVwWnhQYUdQX0hMbDBqdEF5UHhuOGMyTGhveUViWW5WWldkTmpzaGlGeHBnaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T22:32:00+00:00",
+      "summary": "国产开源、全球前沿，大模型Kimi K3强在哪里？  21财经",
+      "categories": [
+        "other_big",
         "open_source"
       ]
     },
     {
-      "title": "AI语音助手多模态交互的发展趋势 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTmc2R0I0ZS1CQ0JDS1RSY0FxVDJ2UjRzaFEzLUJtN2JpRGJEb3V1NlFfVjNnVWxMOVI2a25GTkhJWnFNdmZmVUlZN0gwT2FJOUQzR1RKU0JYZlFVbGR3V2JxUWxnU0tNRW9FaUh3S2I0TTJYeVcxM1phRUJ1a00?oc=5",
+      "title": "“青岛造”艾灸机器人“上岗”！​AI大模型诊断后自动调用对症下药方案 - 青岛日报",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YTVljOHVOYkdBQTdwcFVVaEFwbzE2ZGlTeXEwMFRQNFkwMTNVNjBabkUwSi05SWUzM2ZLU2pvU21BR3YwZ1ViNjRrcnFjMjVha1hGbmU2WjI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:40:31+00:00",
-      "summary": "AI语音助手多模态交互的发展趋势  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "全球首款AI智能体手机！努比亚NaviX Ultra幻梦粉亮相 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQU84UVFJWlR3NXF4NDJDTjh0WWhld0xLZjQwYTNxbFJuZTg0YW10Z0dudU5vUUpQVUMxOWVtcGZRYWxDNEd6ZUQ5MUJUNHVWOGtCTlRWNTVIYTQ4NkNWcko5VEtEa29UOWd0SXFrdEtMM2RUVS0xeVMxSXR1Nm02Qg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:40:31+00:00",
-      "summary": "全球首款AI智能体手机！努比亚NaviX Ultra幻梦粉亮相  新浪网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "努比亚NaviX Ultra：横向镜组圆润设计，全球首款AI智能体手机曝光 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNei05VTdWSXJIT2FmbXZ3X3E0bDhmc1VLdFptTUxycE1INWs4cTFwYzJyVUZPdjA0Q01JOGdHaS1FdGdFYm9pSUhFV09jWEhseTZvZGp4Z2dfcU0wYURrM0taRE1xRjV0RGNwLUp2LXBCdk9wM2NuTzZZYm1DTUFYYg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:40:31+00:00",
-      "summary": "努比亚NaviX Ultra：横向镜组圆润设计，全球首款AI智能体手机曝光  新浪网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI大模型“上车” 广东车企竞速智能化_21世纪经济报道 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wcnZ4UEZHX0tOVW1EUEc3RjVlUmdxeXU5S3I5azJlYTdqTkJybVJKaUlFaE5HeTU3SGhZcFFDM0piYzZHZlFjWV9OdkdxOXRBODFVRS1HeVR4Wjc1YjZ6R1BsVEpSeGNXVy12dmtJb2VGdnhpVmRmc2hnU3dkMWs?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:32:00+00:00",
-      "summary": "AI大模型“上车” 广东车企竞速智能化_21世纪经济报道  新浪网",
+      "published": "2026-07-22T22:27:23+00:00",
+      "summary": "“青岛造”艾灸机器人“上岗”！​AI大模型诊断后自动调用对症下药方案  青岛日报",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "2024年AI 智能助手(大模型)产品市场分析|商派 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LXVGck93cUpjXzJ3QmRqRFpxNWhoMmJEeDdiQ2xRWFRFWnZEcDZFM1MxOHhjYlg5MDN0M1ZaVGc0NTJnU3FCWVN4S2xkQ0hVaUEzVktzZURSNXVpTHFxeTdncFBOSWxWdEt4aGlNeTZCbTZSSmZ1RV9TWlk5UkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:28:00+00:00",
-      "summary": "2024年AI 智能助手(大模型)产品市场分析|商派  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "2026多模态智能体爆发元年:企业如何抓住这波“AI+”转型红利? - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbldibEVyaF9vTmh5bzZSakZ5VFo2bEpvOFFVb1h0dUwyczdKeTRlYXZTNExRRTJFNmVDSXNnUWZLR2M1RWNTTDdkWWdVLVIzSlNGTTMxXzBIOHU1OHhPN2IxdDFQaTJjbV9SUk1CMzhkOVlGUWstZ1U1YzRSbms?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:19:47+00:00",
-      "summary": "2026多模态智能体爆发元年:企业如何抓住这波“AI+”转型红利?  新浪网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -81,26 +112,6 @@
       "summary": "\"人工智能+\"消防主题交流活动在沪举办，电科数字助力上海消防智能体启航  新浪网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "豆包、千问、元宝集中下线AI智能体，原因是什么？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxMlFiblpQV3RqOFB5SXNSbFRTSG1TYUx3Rk80di1mcXNUNDVWeW9wZUNBMHNmZktHQWZUS0RWcER2dWowUWlKNDFRM3FxU0doc3lpUWN5bUoxcVZTSGk2aDlGdjRfVW14X0VIQnQtX1ZjdzFpRkNWNFByTDRqcWM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:10:00+00:00",
-      "summary": "豆包、千问、元宝集中下线AI智能体，原因是什么？  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌Gemini-3.6 Flash掉出全球前十 Kimi K3位居榜首 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOHFVaVh6RmFpRHI2VHFabkxVaDhic25NZFRuMlM0aXhhSlhQTERBakdrV01tRU1oc3RPVnIyZHpTanZlN2I4Nk9NVVEzY3pERmw3WUVjLTBWOUxSMmJDMVExNkphaFhpb3ppLXhxZzZWNUZQRTAwV0hEa1VnTHM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T21:04:19+00:00",
-      "summary": "谷歌Gemini-3.6 Flash掉出全球前十 Kimi K3位居榜首  新浪网",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -151,6 +162,18 @@
       "published": "2026-07-22T16:15:00+00:00",
       "summary": "种鹏昆：动能智能体助力高耗能制造企业数智绿色转型  光明网",
       "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "百度文心助手任务Agent登顶大模型榜单意味着什么？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcXIteWVway1SUXJYdTJHN015RW5uRjFrYU41QXIxTmNwZzV1Y3d6TF9nWWcwQUxPZzB2Q3dZTDNiVWV6bWFSa1NtRXBZRGdwckdGenVKYVNYY0h1Y1BPcnk4X2FRanJ4Ukl4dVVkT3NJRlV4ckRYVUhRZlFTMVJveGFXemg1ZEpjYmZmLVk5Q3F3NUFvUFZGcWppU3Y5ZEJwSDBMeGpMbjZYeTFhaUJ5NkJPYzRNd2xZU19RbmVPZGtUQTZVSEptZzJVbHBtY01MczNybmRVZDdwRi1XcU9acHRyd0FNMUFILWhReFBBZVNRTktVR3J0SGF1N2ExejlVLTUtXw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-22T15:49:46+00:00",
+      "summary": "百度文心助手任务Agent登顶大模型榜单意味着什么？  新浪网",
+      "categories": [
+        "other_big",
+        "breakthrough",
         "tools_apps"
       ]
     },
@@ -247,16 +270,6 @@
       ]
     },
     {
-      "title": "成都发布“人工智能+”行动方案：2027年核心产业规模突破2600亿元丨关注2026年APEC数字周系列活动 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XbDZZZ1FEUTRQUVpPNlpWVGlfQUVCUGtwRjJLUUtEaDdUay1mNjA5eGpuX2V3Z1IxWGJ2ZVdKMzN5WjZjWkJNTjFzdk5ZN1NoSDVqQnJQaWVhdnNsZWw5UjhkMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T14:17:35+00:00",
-      "summary": "成都发布“人工智能+”行动方案：2027年核心产业规模突破2600亿元丨关注2026年APEC数字周系列活动  四川新闻",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
       "title": "智源、北京大学联合提醒：大模型智能体可能带来生物安全风险 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWI1RWZYUXJRMHFQeTZjeG1OSUF0QUdfTnhJU3dzS3pVcDZyV0VmbTFDdUd5TW45bzI0NTBGWTBTS1FpSHU4aWllc3ZGQWVWa2lvNGx3Y3prMHYzY0tkNndGQWRKZjVXYnhlUEtBSGVkMTR2YlpPZXNZR3lUc1oxQzkyN1hHcVZv?oc=5",
       "source": "Google News - AI(中文)",
@@ -285,16 +298,6 @@
       "categories": [
         "openai",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌发布三款Gemini新模型 长任务Token成本最高降65% - 亿邦动力网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5VWJnam1wMHE3RDNoRURvU0g3S3VnZ193cnZXX3F3S2g1Y25zZW56QktaWVJGNFN2WU9QaE05MjVyWXF1dDlacDhYeENER2N0ZDhWaEt3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-22T06:58:00+00:00",
-      "summary": "谷歌发布三款Gemini新模型 长任务Token成本最高降65%  亿邦动力网",
-      "categories": [
-        "google"
       ]
     },
     {
