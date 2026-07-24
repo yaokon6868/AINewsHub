@@ -1,34 +1,56 @@
 {
-  "updated_at": "2026-07-24T17:06:11.376167+00:00",
+  "updated_at": "2026-07-24T18:59:15.300481+00:00",
   "items": [
     {
-      "title": "谷歌旗舰模型Gemini 3.5 Pro推迟发布 员工士气低落成主因之一 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0h5T1lKOHc2RV81TmQtVEx3ZHNIWl9PX0YzQk90NHVVYmNfTHJmWUU4Z2NXTmVfaVhOcTNkOW53Y2wwUXJJSVRHVFNvaUZHcTdaMVhQc0JjN2VCZmp0Q29XZWJadXJHYjdQZlhFQ3hqOGxDUWlMOUpxZ1lNM2tsS0l1OA?oc=5",
+      "title": "Claude Opus 5 正式发布：官宣图 AI「翻车」，但它仍是最好的 Fable 5「平替」 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WLWNTNHQ2MmpDZEs4d0J3WndGY203ZnZJUzJOSUVRQmQ2MkE2M2ZhVDl3YklOUXNRb1JpX2NZM0U1RjlCZzB2MW93QVVLdDUwUU0wdm11X3o4RDM0YTU0WXRGNGw4WmVqbV9ZX2RhVE9kLTJDY2xIT1lqeHlxVFk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-24T16:43:15+00:00",
-      "summary": "谷歌旗舰模型Gemini 3.5 Pro推迟发布 员工士气低落成主因之一  新浪网",
+      "published": "2026-07-24T18:25:11+00:00",
+      "summary": "Claude Opus 5 正式发布：官宣图 AI「翻车」，但它仍是最好的 Fable 5「平替」  新浪网",
       "categories": [
-        "google"
+        "anthropic"
       ]
     },
     {
-      "title": "AI落地的新标杆新示范：联想城市超级智能体 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbXdEY25lT0dieDdsbUdCd0dXY2NDaVJEcFRIYVIwQ1pxRFVuOE43MS1zODNacVhHRC1ob19INm8xVERSazVhODJHMlZSdThzSC12bWVXQzh2VjlkRmdZUTFNLWNraEoxTVhSeWt5cEpoWFRvSklVb0ZfbTJBQWs?oc=5",
+      "title": "AWS宣布在Amazon Bedrock和AWS上接入Claude Opus 5 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lUEhnN3R1Tm1xQ0lteDRSWEtvUzRhNm9laGFsTHBiYkgyZDVIWGU1TzBlWXdCMDZvSHpJYU1vMW1wMGtKNG5QR2tJSlhpM3VFV0FBQmhnUlVxTU03VHVLNzVJVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-24T16:10:00+00:00",
-      "summary": "AI落地的新标杆新示范：联想城市超级智能体  新浪网",
+      "published": "2026-07-24T18:10:23+00:00",
+      "summary": "AWS宣布在Amazon Bedrock和AWS上接入Claude Opus 5  东方财富",
       "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "普通小米手机后续能否通过系统更新用上这些AI大模型？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PZ016V2ZjY0tPcXZKZ1lkSWozbUhuSmwyeWdIQ3JqVnUwNGxrakNrNXZQZlFYUURoV2VYTENEZnpUVFBDV2VNMzJxOXppTTdrUlBpUl9tODhwaFJFdEdNbHlJZzVGak9USGtFMFk2SHNOOW16U3dYT0dtYlVuaDA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T17:58:08+00:00",
+      "summary": "普通小米手机后续能否通过系统更新用上这些AI大模型？  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "阿里云实现重大技术突破：灵骏真武M890超节点成功运行2.4万亿参数大模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzg3LTJsZXpZZElfbFprNXllWTBLa1ZGSzFremZ4R2J1UzFsOGVpbV9GVkE1aHdXQ09BWWJIMUVOZ0dyM0dzTzRlcUJlSnZwLTNhSUxpMTZjSkxPOG1sX1hDNVZmYWlZXzhHSVdoWnh0UWZza0VGMnRBOXhTbDdZQnFTTUx2dFNp?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T16:44:00+00:00",
+      "summary": "阿里云实现重大技术突破：灵骏真武M890超节点成功运行2.4万亿参数大模型  搜狐网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "华为云在泰国发布Agentic基础设施 启动代码智能体公测 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1POW12eGt3TjVSMzg2Y2NXSHVDUThBQklKSXg4eF9yYWZRNnhuM1BHRnZyRXlsQ0VBMEszWUZidnRNQWVxSHlYbkcwTWY2WXVrQ3RMVXpqVWpZbFBEVjdNMWlR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T16:09:31+00:00",
+      "summary": "华为云在泰国发布Agentic基础设施 启动代码智能体公测  手机网易网",
+      "categories": [
+        "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "首发深度评测!苹果Siri AI对决谷歌Gemini - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45NWFzMmswMkFIMFBrMFprMzg1UHdweGtjMGVGbHRBNjdTTVU0WlVmQ2J0dlM4U3NSdHlpc2hsZy1NUzU3d0R5ajJLei02RllWNWJIdzEwMFFFWVphV3k1aklaekVyR0p1ODlZaVRfRmVNdGZmYXBHbzh6ZzlqUzg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T15:49:31+00:00",
-      "summary": "首发深度评测!苹果Siri AI对决谷歌Gemini  新浪网",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -52,16 +74,6 @@
       ]
     },
     {
-      "title": "小米新机入网：备案小米 MiMo、文心一言、DeepSeek、通义千问等多款大模型 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1RkSkpwR2J2NG9oR2J4b1VEWEptS0hXOUdfcENKS1MyZUJsTHBXNnpGeVg1aVhyQnNORDdWdVYxYjR1S2dvZWRLeE5qdmIyTzQtV0Vpa3NTbWFPV0RNTnJPVXA0ZDM4VUUzTVkyd0pwbXJ4dzRNMFdoUWdXTUpTNDln?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T14:37:14+00:00",
-      "summary": "小米新机入网：备案小米 MiMo、文心一言、DeepSeek、通义千问等多款大模型  video.sina.com.cn",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "黑客借Gemini渗透牙科诊所：AI包办89%代码，6分钟控制8台电脑 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON01wbElDQ1pvdWFiTG9rN3dHcnM4b1plTDY0eDdfRGpTS2JUenZ5dUR2S2R3Y2NDYVdNVVBLb3pwTm9UQWxQNE91cHFOcFpZWENZOFNobThLdGFNM25vWlhhOTF6Q01YQy1YZkdDWHpCZ05rcTlnYlpwbnlXN0Jqelpmbi1ZX01EWlZQYQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -82,22 +94,21 @@
       ]
     },
     {
-      "title": "Anthropic升级Claude语音：支持多模型与第三方应用集成 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWxPR2ZBS21vWEZFaW4tOEZBWUVyLTdHTEFtLXpVaEJQcFh3WUhIZkZQLVk3dkJkb25SUEJpWUlVLWhtbGhRbzEwQnhxeXlCbEhYOWdiNUdHMkNVUzVodWpBaDFXelQ1TUlFNVc1b3VJVnRFaVY3dVFYdXNhaE5mU2pSVTF4T1BZcWRNdA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T14:03:42+00:00",
-      "summary": "Anthropic升级Claude语音：支持多模型与第三方应用集成  搜狐网",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "小米大会师新品蓄势待发：首发玄戒O3+自研大模型 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDFoLTk4N3JuVmlMaFNNUU9CamtnaFEzcDFYSGs1cFo0cjJMcGdqckRXN1YwQlY0Rm9rUzlOZDVIMUdhMHcwMlJSWUkzNmVUUWVZY0loRkR6YkdPOThwdUNwYTIzWk9lSmRKQ2E4RGc5b3BNbXhpYm5vNmZtaXNqajRUYlhGUElS?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-24T13:48:20+00:00",
       "summary": "小米大会师新品蓄势待发：首发玄戒O3+自研大模型  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "小米新机入网：备案文心一言、DeepSeek、通义千问等多款大模型 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNlhrMmR0R1RIb0RGYm1sSTlCMVRxWGNWVi1GM2xDNUx3Q3puWHNkNnkyUlh1VmZHdFdKLS1LTjlTREdNcVdUZENWWkdMbEV0SkhPUk1fcTFlZUI2aXY4c3FCWUpFTVVGTUJTU0pNS19uMkF1SmtPdXJDMmhDOWVsU0txa0lUYV82RjM5bVZnNlBpOVNt?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T13:46:19+00:00",
+      "summary": "小米新机入网：备案文心一言、DeepSeek、通义千问等多款大模型  新浪网",
       "categories": [
         "other_big"
       ]
@@ -111,16 +122,6 @@
       "categories": [
         "breakthrough",
         "chips"
-      ]
-    },
-    {
-      "title": "菲尔兹奖得主齐默曼转向AI安全研究 将加入OpenAI - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYkhnbVo4cXBRRWhaLUFMbHBjczJQZWJtUzVYNzdsWjVTYnZVSEk2NkVDdTFCdDJGUS15RGdqNnhTNHBxdkRpMDVhcDJTZ1NNN1BiU19qSEZWcXY3U2V2WFpB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T13:30:45+00:00",
-      "summary": "菲尔兹奖得主齐默曼转向AI安全研究 将加入OpenAI  观点网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -239,7 +240,7 @@
       "title": "《AI智能体安全保险研究报告》正式发布 - 安全内参",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YamJmcXNzQjJYbTlOZXNFZC0wNXpPUEMxUHJKVzRhRElnMERUYTAwNjMxcElJeTdXRU5RZ0hOMHJGdUhvWHhEUWdqc0J3QQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-24T11:20:51+00:00",
+      "published": "2026-07-24T11:21:27+00:00",
       "summary": "《AI智能体安全保险研究报告》正式发布  安全内参",
       "categories": [
         "tools_apps"
@@ -256,16 +257,6 @@
       ]
     },
     {
-      "title": "周鸿祎解读Open AI智能体逃逸：AI安全进入\"分水岭时刻\" - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjJPVDAxamNFejlweW5OQmJPd1VCdTNzSGk3WDEtX1dFaFp5Q1MzclFBN2pRX1h1VEZ6MzNvUXNOUkxyTVp4Nm9LTjRsSEhLN1M1aU5FcXBxNUlBbTdvRHBiUE5lSzA1QzRpbHVEb0xRaTNkTk5hRUpMZXVQb09vZGhYbWw4OExV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T11:06:24+00:00",
-      "summary": "周鸿祎解读Open AI智能体逃逸：AI安全进入\"分水岭时刻\"  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "周鸿祎谈OpenAI智能体逃逸事故：或成为AI发展史上的分水岭- 产业链 - 光通信Pro",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43dUhpSW5lTVFROVd4QXFnQWkwaWIxODJ2VTV0VDc1c1R5dmNjaFR1OW5uRVhzVnd4QjYxMy1fcDNRLUo1eUZsUUxPdkIzcjBNU3ZWbjZQTQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -277,16 +268,6 @@
       ]
     },
     {
-      "title": "廖杰远：三大智能体协同闭环，AI重塑医疗服务新生态 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUjB6WkVOWWNyRWdjS0Jjb0FmZWlOQWNhSTZiUmR5Y0NpdklSTjlTcUxLYU4wVU1qcDJ3RGRsLUFLOWpKakphaFVvY3pidlM3cURKWWpaQTZGYnAxMmhTaTY1b1NFcm1LcXdvcFBtUGt6aFpqOUduR3dkdGNpeEMwU0EzYWZsc0VLWnlVaQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T10:36:47+00:00",
-      "summary": "廖杰远：三大智能体协同闭环，AI重塑医疗服务新生态  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "腾讯大模型团队再调整：成立基础模型部，姚顺雨职责扩大 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3pxWjNLZzNKQVBmaFlUamw3UUp1NUwweDZBOHJDMEdXV3FsUDBiYlBPM1NsdmRvQnpQUld2VFd4emdTU21XaVllVTh3VE93M29RYUxIZmZPRkY3TzJxMWlQOFlvMzFKN1d4MnRuazhpS2JxUW1hYngybnVIN2MtQ0NEbnplQ19MWVhqaA?oc=5",
       "source": "Google News - AI(中文)",
@@ -294,6 +275,37 @@
       "summary": "腾讯大模型团队再调整：成立基础模型部，姚顺雨职责扩大  搜狐网",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "OpenAI版“阿福”上线：能读取病历看病情，打通Apple Health - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jbUlpX0RwUTcxQ3JDMDdvODl3S0VJRUhudjlHX041YkxLaV9QREdfTm5MeGxPRWp4YzI5ai1wYVBCYTV1bmRNNTVkOW5GQVdBc2E1dmx5Zm9RQTVwTmRkSV9QbE1mYksweERnLWxEOHNoS3ZOMl9peg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T10:33:51+00:00",
+      "summary": "OpenAI版“阿福”上线：能读取病历看病情，打通Apple Health  新浪新闻_手机新浪网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国移动创新打造电视排障智能体 让家庭拥有专属“AI诊断管家” - 新华网浙江",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPanZFbUE0TE1CYS1VZVNsTVFoNGsxRHd5eElkcWtIRGkzQlV3NDBQY2Z2OWQ1UzlNZG1JYzYxWGd0c3NUMnRCT29Bc19qU3IyUFV4UlFXNVBHcjc1aFhueF93aXhBYk8zaUVydUJJSlZ6Y3h0Ym9BUE5HN2lQYVdGWE1n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T10:21:43+00:00",
+      "summary": "中国移动创新打造电视排障智能体 让家庭拥有专属“AI诊断管家”  新华网浙江",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI在遭遇诉讼次日正式推出ChatGPT健康功能 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fYkZ4ZEZ3cHpqTUtxTVFkMkt2VUd0cjkzY3JlYUx6Sk81MjBPVUxsYkFoWG5EQlBIcGRleUU2VEFzNU9ac21UWjFRU1JSVldXMU1tRU9oTlpUYmRCZS1Jekln?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-24T09:14:23+00:00",
+      "summary": "OpenAI在遭遇诉讼次日正式推出ChatGPT健康功能  手机网易网",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -331,20 +343,10 @@
       "title": "OpenAI大模型失控，海淀大模型来救场！ - ncsti.gov.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXRYbFhIejQ5WnJkbkliSl9HTGllRDdHd0ZyNGtkRHJLejA0Y2lld0o3Ni1KNjd0UFUtNC1LWWJYZ29YMm1PV1ZGMUVzNEJRNUFoNHdKVGd6QjR6VUE4ejFXRTRYS2RMT1VZSVI4MTcxNmcxLXQ0NDE0U1ZGQnN4cFBB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-24T06:33:45+00:00",
+      "published": "2026-07-24T06:34:26+00:00",
       "summary": "OpenAI大模型失控，海淀大模型来救场！  ncsti.gov.cn",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "中城交科技WAIC 2026发布交通视觉大模型 - 赛文交通网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OeG9GbnBRbXhCV3JWMFVsQ19FY3psLThlZ2VXb0trSnpkVTFOVERnbWd0SUJZdTlJZ2F1RG1aemNlRUZZVl9tdk8wakRUdU04U3l4Y2JaSE9JZEFTalE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-24T04:15:36+00:00",
-      "summary": "中城交科技WAIC 2026发布交通视觉大模型  赛文交通网",
-      "categories": [
-        "other"
       ]
     },
     {
