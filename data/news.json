@@ -1,46 +1,25 @@
 {
-  "updated_at": "2026-07-25T11:45:01.510875+00:00",
+  "updated_at": "2026-07-25T13:40:45.668445+00:00",
   "items": [
     {
-      "title": "OpenAI 加入，签署支持 AI 开源模型发展公开信组织增至 35 家 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDJjZjREc0dsZE9hLVlIQkFCdGdKaFkzV012RFZLQTlvNVNMNXRwbGFfNTdzdHFQclBNdWdNSFhvb0xQMFNlLVQwaWx6N2hwbXVPZUlZemhiaUh4cDFrNW1aUEl6VEd2U2RJd095SGQyT2tSMDJjeWtadmxTdHlMRzlESWs1ankyanFUaDdDN2dkVlNp?oc=5",
+      "title": "Anthropic也要自研AI芯片了，已向SK海力士寻求供应 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRUludjdpNXI2SnhvVjVVcmp6ckhBdnhEYjc3eTRBTFhUbkUxRFJUck81UHRiTmhRd25ISG9ESllVYmJfMzVWUTB1bE1VS29j?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T11:16:40+00:00",
-      "summary": "OpenAI 加入，签署支持 AI 开源模型发展公开信组织增至 35 家  手机新浪网",
+      "published": "2026-07-25T11:56:22+00:00",
+      "summary": "Anthropic也要自研AI芯片了，已向SK海力士寻求供应  凤凰网",
       "categories": [
-        "openai",
+        "anthropic",
+        "chips"
+      ]
+    },
+    {
+      "title": "美国大辩论，“撕裂”硅谷，有人呼吁白宫“封杀”中国开源大模型，黄仁勋、扎克伯格等人却急了：快开源美国AI - 虎嗅",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbjdmRFNna2EtUjd1WlBiY2xEM1RQM3hQV3lPRGE3M2FkN2NQRlVBYU5kUDVLRjhDMWY5enpncGdjZzdZYld6UkxYV0Fjb0N3VTJQSw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T11:38:12+00:00",
+      "summary": "美国大辩论，“撕裂”硅谷，有人呼吁白宫“封杀”中国开源大模型，黄仁勋、扎克伯格等人却急了：快开源美国AI  虎嗅",
+      "categories": [
         "open_source"
-      ]
-    },
-    {
-      "title": "ChatGPT宕机的原因是什么？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qWmRtdXYxeS00NVNfTS1pVUdZSzBPVEo1czFPcHloLUQzbFQ3S0ktZEJmblNDM0p5M3QtWjFaaV9GR0hidDN1dFg2Qmh0aGdJNE5nSVlyaFFDOGFBakYxRVA2LWk5TWtuSk1ZT1NTT0N2dTRuY2YzaUNYNVg1MjA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T11:11:27+00:00",
-      "summary": "ChatGPT宕机的原因是什么？  新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "ChatGPT服务预计何时能完全恢复 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FMDFnbkM2Y0FQaGFGLWFNal84RXFyclVGN2oycTIzSGVfVk94YWQxVHE5bEVjb0VscTJ0dGxnLWdIbWNPMkN4dlYyemhHYUZjQTNXQkM3WVI2dEpuVHUzd3hUTDlyWTVKekRwZ3QwYm54bDBWT3JFYmZGQU9tT2M?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T11:10:36+00:00",
-      "summary": "ChatGPT服务预计何时能完全恢复  新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "ChatGPT宕机期间用户有哪些替代工具可用？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZDQzdTNHT0RwZW04WWpYUlctUXozNHRLbjJ3YkF4dVNiYXpudFY1S1U0WFdEc0dLTWN3RFhMWmVtRU1KV0FDbmVrZTRBUWl1X1VMNF9lbkpRZUNzdkV6OGdnWWczY3JzdzJLOV9aNnI2TUx4N25tUUR5QXVvMFU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T11:10:00+00:00",
-      "summary": "ChatGPT宕机期间用户有哪些替代工具可用？  新浪网",
-      "categories": [
-        "openai",
-        "tools_apps"
       ]
     },
     {
@@ -59,37 +38,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-07-25T10:58:49+00:00",
       "summary": "OpenAI 突发服务器故障，ChatGPT、Codex 出现宕机|IT之家|指标|修复|工作_手机新浪网  新浪财经",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "2026年AI手机哪款值得买？5款智能体旗舰横评+FAQ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDNHQktMS2JNT3B4NXNSV19NaG9hUnU1YXRvRUR0ZFk0ZUl6dHdSeDdCQzF3bFd6U3ljZFZnMTV2WkFqTXM1TmYxMTlfYkRtNW1CMlVhYlYwbzYtaTJ6T2g1ZzFyU1E2Z3BDOHZTREVsLWtyNkNCRjVRbzNCQWMySg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T10:52:59+00:00",
-      "summary": "2026年AI手机哪款值得买？5款智能体旗舰横评+FAQ  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "超越ChatGPT登顶下载榜！马斯克宣布旗下大模型免费开放：直至服务器崩了 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mQlc2Rk5xWFFCMlc5UlYya1ZjanJfX0lrSjJsSi1pRUFhSGdLR1J6MEdaN1NIMXZqVGhlZC1NZHQ2WnV5SFNVUDZIU1E2MC1adEY2SjA4dHdGSV94NkZ6T2VqcWFFTXlEcEhVd0FTMUlXZ1ZNaWhzRC1aX0lLSUU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T10:16:32+00:00",
-      "summary": "超越ChatGPT登顶下载榜！马斯克宣布旗下大模型免费开放：直至服务器崩了  新浪网",
-      "categories": [
-        "openai",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "ChatGPT崩了 iOS18.2 Siri集成功能受影响 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRUNQOEtpemhaem9YVlZKX2pqRV83bzZBaEgxYXhPQl9JVDFKZTdHYlVLZW9lWjJ3Tk5lNjNLOGdiWHNjR2FUbG9MTXF5WlkxM2FjOWNCX2VOT2pzNkFNcTZrNEY5R2duY1V3bjZ3YmVrSnZ5UjdaTlhzeHpJenc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T10:16:24+00:00",
-      "summary": "ChatGPT崩了 iOS18.2 Siri集成功能受影响  新浪网",
       "categories": [
         "openai"
       ]
@@ -115,15 +63,13 @@
       ]
     },
     {
-      "title": "黄仁勋首发推文力挺AI开源模型，25家科技巨头联名签署公开信|微软|芯片|美国|网络安全|闭源模型_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcFItZzRTbUtOeEk2QklldFNSbGRwLXN1UGd6SVpVd2RWdEY0ZzJUQjlSTktJUFJZNmU3UWpRZmxGaVlMaTJuVEQwR2RQVGdBa2g3SUp3bTNxbkxUMTFlWVFndi1NV0lZeDRIbU1pTWxtdjNaNUgwai1EcWsxZG9HcGZ3QVJRck9GdTZEVlJ2OEFoVm5VMzJfZlUwaWs2OFg4VW1pVnJQckplcTJNTHBpV3ZPOFVMa1dCYWhYeEJwbWJ3N1paa1lLNVlkTlRkeFdxdE0yeWQ2eTN6RlNHYkNJaC01VUIwd1JWNVJXR0l1RWxkRFF4amtKMmg3emRmTlU?oc=5",
+      "title": "视频丨聚焦创新、治理、普惠 《关于促进亚太地区人工智能发展的声明》发布 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTeC11LTYwb0FjTnl2dTYzVXBSS1M4bExGTm4xTVl6QWQ3YzBmajE5QUNEcTdhckFzdTNIY2dmS1ZVWUZuYjlhcEdRTmY?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T09:47:47+00:00",
-      "summary": "黄仁勋首发推文力挺AI开源模型，25家科技巨头联名签署公开信|微软|芯片|美国|网络安全|闭源模型_手机新浪网  新浪财经",
+      "published": "2026-07-25T09:23:35+00:00",
+      "summary": "视频丨聚焦创新、治理、普惠 《关于促进亚太地区人工智能发展的声明》发布  凤凰网",
       "categories": [
-        "other_big",
-        "open_source",
-        "chips"
+        "image_video"
       ]
     },
     {
@@ -134,16 +80,6 @@
       "summary": "推进人工智能+生物医药产业集聚区建设！浦东新区发布建设方案，一图读懂→  新浪财经",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "南威软件集团携手北京天坛医院发布“天坛脑健康信息化平台及智能体” - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55bkphMWxkRXhQajByeUdiQ2JYNVpXMkQ1WExuSVBZQWxGOXEydFlCMklYeUFqRjZtNTM3cGFFOVRvbGNUdG1HbzRwVGFZNFRlVmV5Y2JBZTktaEFybEppbUpn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T08:55:28+00:00",
-      "summary": "南威软件集团携手北京天坛医院发布“天坛脑健康信息化平台及智能体”  手机网易网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -165,6 +101,16 @@
       "summary": "网信办发布《国家信息化发展报告（2025 年）》：6G 完成第一阶段技术试验，生成式人工智能用户规模达 6.02 亿人  新浪财经",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "努比亚手机怎么样？2026年AI智能体旗舰深度解析+FAQ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaThjY2plaDZTcnR1M2lQMVFBN0lfVWxaRUFER09lV0ZqelVBRmVYVUZCYURyMlBjcHh1TVNGOVAzM240VG5PTWdPOTRFUVV6dk4yYUJUNzg5amFvUTh5N1dmYmhmSTIwRXBZRHlBT3o4LXBLRzJSbFA3OFpPYkJobw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T08:18:34+00:00",
+      "summary": "努比亚手机怎么样？2026年AI智能体旗舰深度解析+FAQ  新浪网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -209,16 +155,6 @@
       ]
     },
     {
-      "title": "中国大模型手握成本王牌，但最大短板仍是算力供给 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVFDUzBQV1VSX0NNZFFmODNwNzFmWi1xODNDNkxKejBLTy14SmhzanhYV2c1T1c5WDRyU0otb2puOWsyUEo4SThuMUxCMFh3bWR1YUUyWDdldnl6cEQ1RVNXYTEySDZCWG1hZ2ppdmFCREdkY3FPSDJPc3YxejRtdHozazlOUUJ0cUdtQ3hlV1BxVVJR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T07:14:21+00:00",
-      "summary": "中国大模型手握成本王牌，但最大短板仍是算力供给  21财经",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
       "title": "国企进化论｜从“看见”到“读懂”，用大模型重新定义皮革质检 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjR6SGZWTDJHbnNnT29zdnVqMmZ1OC1yZjAyMGVCQnBTa0dsQUNiNVJjZnVJUmJaM3NKcUNIUFZBVk1ZMWk1SjN4QkVucTl3cWpHeHFZMmRjRGU2SGxDN1lxZ2ZLNEZ1ZE5oZTlPU0prbVVkQU43Tmg4ZWNVekF6VzYtZDlneml4T2RNTg?oc=5",
       "source": "Google News - AI(中文)",
@@ -226,6 +162,17 @@
       "summary": "国企进化论｜从“看见”到“读懂”，用大模型重新定义皮革质检  Sohu",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "吴恩达开源桌面AI智能体OpenWorker，已获3.7k Star - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbnkyaG5LellTMkx4TzZsZTc1MGR6eGhKZ0hHWUxnSnBPZFFia1lNbzF6NTZaaU00aVpCV253ei04N0sycTJoSHpOSkJoTXk3Mzd6VVNaazZieHgyZXUzTGlhdjBvajFLRE1ocmtxalJFMmxkSGt1bjVKRVdEQnRZTld1R0RwbURa?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T06:42:27+00:00",
+      "summary": "吴恩达开源桌面AI智能体OpenWorker，已获3.7k Star  Sohu",
+      "categories": [
+        "tools_apps",
+        "open_source"
       ]
     },
     {
@@ -250,6 +197,17 @@
       ]
     },
     {
+      "title": "OpenAI上线ChatGPT健康功能，整合Apple Health数据 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFZ3QThwRWQzaGRlMGlfU3B0R3V2cGJzWFIzeGZsdzBVZUhNUjY2MENrOHBITjB2NFJVc0Y3OUJhSEVvRHo2QVZNSTVLVmNoLXBxcUpaYjZDQ3U2WDNhQ2pkRndFR1ZXQUtrNTdwUVFBNEFpLVVDcktuOVQwZ1FYY1dJcmswcHZwbU1yYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T06:19:23+00:00",
+      "summary": "OpenAI上线ChatGPT健康功能，整合Apple Health数据  Sohu",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "《关于促进亚太地区人工智能发展的声明》发布 人工智能发展聚焦“创新 治理 普惠” - 四川在线",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwNi0xZDY4OUR0RUMzcWh4VEVWWGxoanpOZmx1NGFKZEtzMF9pMlFPRU5vMVNaM204ZmZzZjRkQzUwb2F5UTRqS3VWTjVWQ2w1UkpLaGUyMW5fRV82MXZ2RA?oc=5",
       "source": "Google News - AI(中文)",
@@ -270,17 +228,6 @@
       ]
     },
     {
-      "title": "中国大模型“撕裂”硅谷！走访Kimi的美国研究员：中美AI差距已缩至3～5个月，撼动OpenAI、Anthropic长期估值逻辑 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JTEFuSUQzc0VVcTI4RzE3NVZXbFMyNVJaa0pmYVRsQTQ5SHgxdDktdVFiOTlocjZDTC1ad21xaXlacU9KbDhDU01YaFpVQVRleFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T05:08:59+00:00",
-      "summary": "中国大模型“撕裂”硅谷！走访Kimi的美国研究员：中美AI差距已缩至3～5个月，撼动OpenAI、Anthropic长期估值逻辑  Sohu",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlJWZ2xBc2JzbkJEa0pNUXhsTGdRWkRrTHFzSlY0OHpNN3BITUVXZHBCNjRTNFBuSTI1X280RzdEeDltblBNZFVnSUlIUnJoSDZmT2FFTk9lRlVwbzFBY053Wi02Yld5Qjg3OV8xa2FqMlR0X1dPXzFpZTB3Ty1HU1lYWVpSS2tO?oc=5",
       "source": "Google News - AI(中文)",
@@ -288,6 +235,46 @@
       "summary": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活  Sohu",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "不做通用大模型，这家公司凭什么在WAIC排起长队？ - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWFVTzFXY0hJanM0dm1UYlUzYUZsRDRUVXFYQmpVSGFtYTVRNGE1c2JoQ3UtNWZKblNIWnNkYXEwR09vZXowbHl6bXlpa1BFbGNEck91aUF1TjZtTXJraVlKcmxsOUlqTnRFendfaU1ZeHR3Y0ZNWmpfd0wtMFlWRlZid2pac2lqUGoxNjBVOTg5TVlKWFAwUDRjWTBIVGJpY3RZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T04:41:01+00:00",
+      "summary": "不做通用大模型，这家公司凭什么在WAIC排起长队？  新浪财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVd1RFJld0xQRl82Nl9HT2RGT3pYR3hSN0Y0Zi1mdDBObEpSZERYR1NiN1VfRnMydnFqNFJrVmRZNWk2Z1VkZDJta3RvR0RYRnc2X0ZLZXNUR3lWQWxpbHg3WkdqXzhRblktWXJiM1NCUUpyYXpXWWtEcmN2MDJzbE5fNjdQREVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T04:40:00+00:00",
+      "summary": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了  Sohu",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "数字员工智能体搭建公司哪家专业：2026年最新测评 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYmNNWFhWd1I2QmVpUWpONmtoZHVvQzlqcFE2dF8yc2Q1TlpCNnlFZ2hGWGh3b0p4TmFjeFd0TzhYeG1oX2FBb19uNTU2NEdmM3RudnROd3hrVjZmaHl3Nm5R?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T04:30:24+00:00",
+      "summary": "数字员工智能体搭建公司哪家专业：2026年最新测评  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Opus5偷跑，第一波网友实测来了 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yMTU3bExxaWFsVWR6VUFETFhzRFYwWUdESTJnNVV4Mm1lT0ZDbmNWMjREUjloZUEzeFk4QlQ2WTBOV0s5VHU1OA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T03:30:00+00:00",
+      "summary": "Claude Opus5偷跑，第一波网友实测来了  智源社区",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -302,13 +289,13 @@
       ]
     },
     {
-      "title": "Anthropic上新大模型Opus 5 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWW9FWVNaY3hfcWZCVzZUR3VsWlNCXzBCazhpNVB6RkQ3WG4yUTU5UzJUbVJjMGJBLUxqNTVxbTg5UGw2R0VkRnNMU0hvZ2dfeS1wLWlieHotRUxGTmZLX3M0YmRMczFYMXBHTk9jVFZWU0Jldk5EdjdBYk05RWFXYWhpVW55cVdM?oc=5",
+      "title": "具身智能的“ChatGPT时刻”何时到来？业内分歧仍存 - guancha.cn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwdFUzX3k1Tm5IZkJPeExPR3hab2xtLTdwUzNrM2E0aWR1enlrbXJBU2VLUWlfaU1JSzd3Q0VnVVhmMC0tOEdDNzNnU1doNlhyVlRQcXNGSEhFMUQtdmFzblJORkI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T00:04:00+00:00",
-      "summary": "Anthropic上新大模型Opus 5  Sohu",
+      "published": "2026-07-25T03:10:00+00:00",
+      "summary": "具身智能的“ChatGPT时刻”何时到来？业内分歧仍存  guancha.cn",
       "categories": [
-        "anthropic"
+        "openai"
       ]
     },
     {
@@ -370,6 +357,17 @@
       "published": "2026-07-24T11:21:27+00:00",
       "summary": "《AI智能体安全保险研究报告》正式发布  安全内参",
       "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4UmYzOXpybjhqRjIteGF4QVVva2NEOHJUSC0wX1ZjV0FDN2R1UndYd1pvVHJ6T3kyNjdTVU1nWVVuSjVsOVJFQVVpZVJ4UU9CRzZmVE44MUUtVHVqQzhHZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-10T07:00:00+00:00",
+      "summary": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级  东方财富",
+      "categories": [
+        "openai",
         "tools_apps"
       ]
     }
