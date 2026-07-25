@@ -1,35 +1,14 @@
 {
-  "updated_at": "2026-07-25T16:26:11.230384+00:00",
+  "updated_at": "2026-07-25T17:32:16.714171+00:00",
   "items": [
     {
-      "title": "ChatGPT大规模宕机已恢复 OpenAI尚未公布原因 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbDZDblNDRVhkR2JwV3Y0QnNtemp4SlZHaFlMWF9XRGNpSnZ1Wk9NWWxSUmw4NFpMTUxONXdHNl9XYTdMWEkxcUsyeWRpcnd0QXdtSU5INDk2TXhKRTI3NnhpMVFDTk9CWWtYcUV1OExEejJSZTItOV84VUlCa2M?oc=5",
+      "title": "谷歌 Gemini 月活接近十亿大关，逼近 ChatGPT - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb28wMTVCSV9oekkzNkxXcFFmSHh0SmdRWFJINmduOC04OElQcHZPdTFGOHZ1TFJEMnBGLTdFQlI2ZGtNS3o1dnRuV19sNHFUakRLVHA0bmR2VGhUaTdCTk9lek5HMzBVdkRWV2NJNVdUNVhYYUhOdmJLdVIyQkI3RWpvWUI1ZUE5?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T15:25:39+00:00",
-      "summary": "ChatGPT大规模宕机已恢复 OpenAI尚未公布原因  新浪网",
+      "published": "2026-07-25T15:33:00+00:00",
+      "summary": "谷歌 Gemini 月活接近十亿大关，逼近 ChatGPT  搜狐网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNR0Zrd2pLVVJfdVByLWN3OGotMldoRE1DMmdPR2R1R0xvZm1UclpmQVpNNHE2U1MtTk9JRVpjc3dCeXBJVnEyZDRneERXSGdTT0xaMDlWS3NXcXdBSzBHYms1UHg5ek11cmZYS19LaFVQT1lUSjdJb1NLQ3lNNmxpTS0zN19aQkE4WFR6Nm9QV2QxNzlxUjc5NTBmQ25MZ1loeldEeW9MangyOHI2SzhVTjlyTjAwZEF3RGVpV2RHUHZPZERKUHo0eHhuckN1elZQdkY3STJzQ1VGQ0VrR25halROY3JXeEZaei0zODZOZm9KajdrNWZ5Vno4U3JWei02ZTdZa3NYNUZLQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T13:58:35+00:00",
-      "summary": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "小米神秘旗舰三证齐全：玄戒芯片+OS+AI大模型大会师！全自研 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjhOdktWa0RWc2E3d183WHRzTkxYZDFQaHoxYXRaVGp1d1dEaTh1UUx1YWNZZVVYanBDREdGd285YUxnZllJSVN2bkI5NzN1NzhyU0d2a3g2X0l1ejJRZEU4YWhpSkNfdm51TDV5UUMyUTVrUGdwMG5FV0VuQ3ZoWk5VNW8xTVZO?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T12:46:00+00:00",
-      "summary": "小米神秘旗舰三证齐全：玄戒芯片+OS+AI大模型大会师！全自研  搜狐网",
-      "categories": [
-        "other_big",
-        "chips"
       ]
     },
     {
@@ -61,6 +40,16 @@
       "summary": "美国大辩论，“撕裂”硅谷，有人呼吁白宫“封杀”中国开源大模型，黄仁勋、扎克伯格等人却急了：快开源美国AI  虎嗅",
       "categories": [
         "open_source"
+      ]
+    },
+    {
+      "title": "活力中国调研行丨中天科技自研大模型聚焦落地制造业场景 - jingjiribao.cn",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRDdmUDRsd09JRF9wcVlpZ1NEM1FPTHFaSWN0QkxvME9iRUFWazhnd2hYclcxcFNDdUdVdzAtM1laRHotLTRMM2wwRmJBbV8tUElKX0ZEUWc0Y3dKZFl4UUdQMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T11:04:34+00:00",
+      "summary": "活力中国调研行丨中天科技自研大模型聚焦落地制造业场景  jingjiribao.cn",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -258,16 +247,6 @@
       ]
     },
     {
-      "title": "【视频】续航703km+AI大模型上车，新奔驰纯电GLC到底如何让传统豪粉心动 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SUGNvamdRbXBNX0JEcEdLTy1ZVGpIMDFFWGdZRWFjMzU2T0xkQVhfLXhXUTVXazNkS3dNXzViLWUzakFPRWRSN210Q3NmY1k2U1EwSnVxbEI4THc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T05:22:50+00:00",
-      "summary": "【视频】续航703km+AI大模型上车，新奔驰纯电GLC到底如何让传统豪粉心动  汽车之家",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
       "title": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlJWZ2xBc2JzbkJEa0pNUXhsTGdRWkRrTHFzSlY0OHpNN3BITUVXZHBCNjRTNFBuSTI1X280RzdEeDltblBNZFVnSUlIUnJoSDZmT2FFTk9lRlVwbzFBY053Wi02Yld5Qjg3OV8xa2FqMlR0X1dPXzFpZTB3Ty1HU1lYWVpSS2tO?oc=5",
       "source": "Google News - AI(中文)",
@@ -288,6 +267,26 @@
       ]
     },
     {
+      "title": "数字员工智能体搭建公司哪家专业：2026年最新测评 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYmNNWFhWd1I2QmVpUWpONmtoZHVvQzlqcFE2dF8yc2Q1TlpCNnlFZ2hGWGh3b0p4TmFjeFd0TzhYeG1oX2FBb19uNTU2NEdmM3RudnROd3hrVjZmaHl3Nm5R?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T04:30:24+00:00",
+      "summary": "数字员工智能体搭建公司哪家专业：2026年最新测评  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Opus5偷跑，第一波网友实测来了 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yMTU3bExxaWFsVWR6VUFETFhzRFYwWUdESTJnNVV4Mm1lT0ZDbmNWMjREUjloZUEzeFk4QlQ2WTBOV0s5VHU1OA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T03:30:00+00:00",
+      "summary": "Claude Opus5偷跑，第一波网友实测来了  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
       "title": "周鸿祎解读Open AI智能体逃逸：AI安全进入\"分水岭时刻\"|OpenAI|Agent|安全测试|风险|失控_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5adGxMYkxoRU5KcFdGVG5kTzVWcFI5dE1vVGEzbkF2dUtSbWNzSXprX2J1Nm5SWFNSVTNDRnkzcTNfYWNhc1I1Tml2ZFZkNUdudF82UTZNb0dRTURGRnlOaDJOQVFoclBDd28wdFZ3N240MEJkdHBFSFdaMFNUbzg?oc=5",
       "source": "Google News - AI(中文)",
@@ -296,6 +295,16 @@
       "categories": [
         "openai",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "具身智能的“ChatGPT时刻”何时到来？业内分歧仍存 - guancha.cn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwdFUzX3k1Tm5IZkJPeExPR3hab2xtLTdwUzNrM2E0aWR1enlrbXJBU2VLUWlfaU1JSzd3Q0VnVVhmMC0tOEdDNzNnU1doNlhyVlRQcXNGSEhFMUQtdmFzblJORkI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T03:10:00+00:00",
+      "summary": "具身智能的“ChatGPT时刻”何时到来？业内分歧仍存  guancha.cn",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -357,17 +366,6 @@
       "published": "2026-07-24T11:21:27+00:00",
       "summary": "《AI智能体安全保险研究报告》正式发布  安全内参",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4UmYzOXpybjhqRjIteGF4QVVva2NEOHJUSC0wX1ZjV0FDN2R1UndYd1pvVHJ6T3kyNjdTVU1nWVVuSjVsOVJFQVVpZVJ4UU9CRzZmVE44MUUtVHVqQzhHZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-10T07:00:00+00:00",
-      "summary": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级  东方财富",
-      "categories": [
-        "openai",
         "tools_apps"
       ]
     }
