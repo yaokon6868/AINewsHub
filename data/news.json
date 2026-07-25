@@ -1,33 +1,52 @@
 {
-  "updated_at": "2026-07-25T17:32:16.714171+00:00",
+  "updated_at": "2026-07-25T19:11:41.739203+00:00",
   "items": [
     {
-      "title": "谷歌 Gemini 月活接近十亿大关，逼近 ChatGPT - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb28wMTVCSV9oekkzNkxXcFFmSHh0SmdRWFJINmduOC04OElQcHZPdTFGOHZ1TFJEMnBGLTdFQlI2ZGtNS3o1dnRuV19sNHFUakRLVHA0bmR2VGhUaTdCTk9lek5HMzBVdkRWV2NJNVdUNVhYYUhOdmJLdVIyQkI3RWpvWUI1ZUE5?oc=5",
+      "title": "ChatGPT崩了的主要原因到底是什么？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LWXJhUE5EVmZyS212aGJ4cG8zeFVoYjBWR1M5LXBGRVgyQUJhQmR4MXg3bnptaUk1TWdmVU80dW9xZ0FaYUlLbnplZFVpcWpZeWFBZWxxNUoyMHcxZ0tNZE9qREV6a3JIWXQyUGxEUTlRWXlmZnZoakdZX2FybEE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T15:33:00+00:00",
-      "summary": "谷歌 Gemini 月活接近十亿大关，逼近 ChatGPT  搜狐网",
+      "published": "2026-07-25T18:57:19+00:00",
+      "summary": "ChatGPT崩了的主要原因到底是什么？  新浪网",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "Anthropic也要自研AI芯片了，已向SK海力士寻求供应 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRUludjdpNXI2SnhvVjVVcmp6ckhBdnhEYjc3eTRBTFhUbkUxRFJUck81UHRiTmhRd25ISG9ESllVYmJfMzVWUTB1bE1VS29j?oc=5",
+      "title": "小米新机备案10款AI大模型，如何实现自由切换？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HcjMyaGhxVkVCUlN4SlFnQ2Vxbk1LMGNWMW1zYmNwa1lWWHV0SjhuNER2enBOUVBhZllTN0pUTFFGMzlqeE0zbmVEXzZOVmh3MHgyNlpCMnhzM3ZiMHdhUDBMZVNEYXpEbVh4eGQyUlhkeXV4N2xxVm9NckJab1k?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T11:56:22+00:00",
-      "summary": "Anthropic也要自研AI芯片了，已向SK海力士寻求供应  凤凰网",
+      "published": "2026-07-25T18:27:47+00:00",
+      "summary": "小米新机备案10款AI大模型，如何实现自由切换？  新浪网",
       "categories": [
-        "anthropic",
-        "chips"
+        "other_big"
       ]
     },
     {
-      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了 - 搜狐网",
+      "title": "普通人也能搭一个AI智能体：从0到1实战教程（基于顶会论文的权威解读） - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBudFZFRm4tSGZhU0FNZk5yTFlIYVY2VkEyTlQxajMzZm51MmgxLUxjazhwRkpiRVA1MloxR0daMUpvWXhpTmhqbUtGTEdxQjE5VWh1eHdIOHRTb0tNWnB5Yk1pUHlDZ0dWTmp1TU55NUtDQXdFajdyeGE0Ql83NWM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T18:12:00+00:00",
+      "summary": "普通人也能搭一个AI智能体：从0到1实战教程（基于顶会论文的权威解读）  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌 Gemini 月活接近十亿大关，逼近 ChatGPT - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb28wMTVCSV9oekkzNkxXcFFmSHh0SmdRWFJINmduOC04OElQcHZPdTFGOHZ1TFJEMnBGLTdFQlI2ZGtNS3o1dnRuV19sNHFUakRLVHA0bmR2VGhUaTdCTk9lek5HMzBVdkRWV2NJNVdUNVhYYUhOdmJLdVIyQkI3RWpvWUI1ZUE5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T15:33:00+00:00",
+      "summary": "谷歌 Gemini 月活接近十亿大关，逼近 ChatGPT  Sohu",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTlVOFFMSURLSTh5VHBMc3ZDSTd3dFZuVUNUZm5Wblp3b0pzZGd2czdITG1RYlBid1pXUWVYVHpISkdEeUVXdzlQRXh5ZlRBNy0zeDFOOTZNQzdZWXZBWHNKbU4tWDlLS1VBYVY0VXlnaXptWTZzbnA4Y3V5R2IwWlFYWUhfWmg2VnV5Yw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-25T11:48:00+00:00",
-      "summary": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了  搜狐网",
+      "summary": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了  Sohu",
       "categories": [
         "openai"
       ]
@@ -73,13 +92,23 @@
       ]
     },
     {
-      "title": "『政策』北京推动智能体与信息软件产业深度融合 优质项目给予最高3000万元支持 - 搜狐网",
+      "title": "『政策』北京推动智能体与信息软件产业深度融合 优质项目给予最高3000万元支持 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDNlWl93NmpIZXhVUDJCbTdEVmlVY05ndFU1RHB0ZnBHUTgzMFJiZC1MS2M3SzRBU0hVM0tWOXNvRks0UXpCek5VQm5yQWdqdjhrVHJKUG1iSDhlMWxMYmx4d1dGR1pTY1lqanVtcFFSdW5iWVpPWjFJMGc4aUZoWjFSZ0ZhRHE2a2ZfZQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-25T10:09:49+00:00",
-      "summary": "『政策』北京推动智能体与信息软件产业深度融合 优质项目给予最高3000万元支持  搜狐网",
+      "summary": "『政策』北京推动智能体与信息软件产业深度融合 优质项目给予最高3000万元支持  Sohu",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "#ChatGPT崩了#全网打工人集体陷入恐慌！打开ChatGPT全是报错，写稿、做方案、改代码全卡住，瞬间回归纯手动干活时代😂 不管是付费Plus还是普通账号全都无法正常使用，不少人写到一半的长对话直接中断，未保存内容险些丢失。 原来不知不觉间，AI早已嵌入日 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oWFNPbWZ0VkJYV1FJYTNHSVN0UEp5Sm5oYlRCVzFnSmZLb0VHOXVSSWtjSmxmaXBSNm1WbTdacXlhTnQzNDRMbEcydEtJc0pzYTJOTFYwenNkTFFFRlJMaDl3NA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T10:08:00+00:00",
+      "summary": "#ChatGPT崩了#全网打工人集体陷入恐慌！打开ChatGPT全是报错，写稿、做方案、改代码全卡住，瞬间回归纯手动干活时代😂 不管是付费Plus还是普通账号全都无法正常使用，不少人写到一半的长对话直接中断，未保存内容险些丢失。 原来不知不觉间，AI早已嵌入日  新浪网",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -110,16 +139,6 @@
       "summary": "视频丨聚焦创新、治理、普惠 《关于促进亚太地区人工智能发展的声明》发布  凤凰网",
       "categories": [
         "image_video"
-      ]
-    },
-    {
-      "title": "推进人工智能+生物医药产业集聚区建设！浦东新区发布建设方案，一图读懂→ - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjbG9yWmlSTkpFUkJ2YUU5TkVvbncxMFhWOGpNd2ZiYTF5WGFzU2RWM1Zvem9RMzF5eUxNYnRpVFlMUFdVanYzUlB5R2w1XzY2alI1elVydVdQX2x1ZVdQMHRNdWM4Nk9MeFdlYzROWmlwa1FBRTh1SA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T09:08:41+00:00",
-      "summary": "推进人工智能+生物医药产业集聚区建设！浦东新区发布建设方案，一图读懂→  新浪财经",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -165,7 +184,7 @@
     },
     {
       "title": "迈向长程智能体，人大高瓴发布149页全景综述 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcldXVEM1T0lkdy1HZDktRjR2bk1EV0w1VEM3Mnp1SE1tS0xyb3gzaDhUbnlXWG1uYVJFc3ZLQUNXYVRTOWZoS3FVMEtwVUZuY2VCWEZxTUFBVkVaT1Z0UVZOTEtvSURuaEplMUFneTNZYndvTk9SRGdaSU50U1J6d053Z2ZFcE0wQTRsejh2YmJSZWZ2QXZVeFlLTllmLS1hSm5falJ3VXQxSmYwRUJLLW1Qak02RFhYTS1LbjMwR3lHNzZiNG03TU9xakR5Q2pUR056bkt5VEo4VTZaWkNubjJXUXdKd1cxX080WHhrNmtDN2FZcld2R2owUDdxWS15RXRJTzBscXlQdGJiSTdHb1NoNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNbVNna3hvTXBjYzFPZGFNNDMwRGRLZl9qbWY4SVFsVHBGeUFuUkV4ZGEzejBNYVZ2bTdNV24xLVlKQWs5ZEdoUDMzR2tjQ1BEOHhWaUpyakhrRUFRQllnSzh0QnNlX0J2M0ZrMEFUcmlyd0lBR2pYY194MEdEM3Q1S0haMS1PYkdGMUpGT1o4ZUxmQ1BYMXBLMUxmV0V3MXBseVlyTW9BY1BieWcwRWR0am12OXZBc2dlRGxuS3gwVzFFM3RmRm4ycjBhWnpRLTFsUHh2d1lUT05vVDEwSE9PRld2bVdjTGtCQ1cyRmRLRmd1NXpkcS0tNHBRQUNETW81aWotMDVBQ2dMQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-25T08:09:30+00:00",
       "summary": "迈向长程智能体，人大高瓴发布149页全景综述  手机新浪网",
@@ -185,24 +204,13 @@
       ]
     },
     {
-      "title": "国企进化论｜从“看见”到“读懂”，用大模型重新定义皮革质检 - 搜狐网",
+      "title": "国企进化论｜从“看见”到“读懂”，用大模型重新定义皮革质检 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjR6SGZWTDJHbnNnT29zdnVqMmZ1OC1yZjAyMGVCQnBTa0dsQUNiNVJjZnVJUmJaM3NKcUNIUFZBVk1ZMWk1SjN4QkVucTl3cWpHeHFZMmRjRGU2SGxDN1lxZ2ZLNEZ1ZE5oZTlPU0prbVVkQU43Tmg4ZWNVekF6VzYtZDlneml4T2RNTg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-25T07:00:06+00:00",
-      "summary": "国企进化论｜从“看见”到“读懂”，用大模型重新定义皮革质检  搜狐网",
+      "summary": "国企进化论｜从“看见”到“读懂”，用大模型重新定义皮革质检  Sohu",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "吴恩达发布开源AI智能体OpenWorker - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4WERqRGN0Y1hkMTEwYnlMWWNqanE3ZlBoYjdqY1NxOUtoTjV6by1aWThYOEZjZ3FuOTUyalJ3SmQ0QmQ4bHktalVFWTF2cHFLb0hCbk1ubXlsYnlGWkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T06:55:03+00:00",
-      "summary": "吴恩达发布开源AI智能体OpenWorker  DoNews",
-      "categories": [
-        "tools_apps",
-        "open_source"
       ]
     },
     {
@@ -247,11 +255,11 @@
       ]
     },
     {
-      "title": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlJWZ2xBc2JzbkJEa0pNUXhsTGdRWkRrTHFzSlY0OHpNN3BITUVXZHBCNjRTNFBuSTI1X280RzdEeDltblBNZFVnSUlIUnJoSDZmT2FFTk9lRlVwbzFBY053Wi02Yld5Qjg3OV8xa2FqMlR0X1dPXzFpZTB3Ty1HU1lYWVpSS2tO?oc=5",
+      "title": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpnaWNpT2x4dWptSWV6YkZXNDFiQnd2S1hWRzBPR2s2QU9qVF84N1BhNFExY2d5eWdGS3FLWEtUWWZ6QkJaTE5sSkVTdVVQQXZab0NfMnlKb2I3MWNYX3NrcFFjeVVKWE85T2p3Mm8xQmkzWFRxSlR0WFplN3lPVFRONGdneFU4ZkVuSg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-25T04:57:00+00:00",
-      "summary": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活  搜狐网",
+      "published": "2026-07-25T05:09:50+00:00",
+      "summary": "ChatGPT语音杀入桌面！你负责动嘴，一群AI负责干活  Sohu",
       "categories": [
         "openai"
       ]
@@ -277,16 +285,6 @@
       ]
     },
     {
-      "title": "Claude Opus5偷跑，第一波网友实测来了 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yMTU3bExxaWFsVWR6VUFETFhzRFYwWUdESTJnNVV4Mm1lT0ZDbmNWMjREUjloZUEzeFk4QlQ2WTBOV0s5VHU1OA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T03:30:00+00:00",
-      "summary": "Claude Opus5偷跑，第一波网友实测来了  智源社区",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "周鸿祎解读Open AI智能体逃逸：AI安全进入\"分水岭时刻\"|OpenAI|Agent|安全测试|风险|失控_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5adGxMYkxoRU5KcFdGVG5kTzVWcFI5dE1vVGEzbkF2dUtSbWNzSXprX2J1Nm5SWFNSVTNDRnkzcTNfYWNhc1I1Tml2ZFZkNUdudF82UTZNb0dRTURGRnlOaDJOQVFoclBDd28wdFZ3N240MEJkdHBFSFdaMFNUbzg?oc=5",
       "source": "Google News - AI(中文)",
@@ -295,16 +293,6 @@
       "categories": [
         "openai",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "具身智能的“ChatGPT时刻”何时到来？业内分歧仍存 - guancha.cn",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwdFUzX3k1Tm5IZkJPeExPR3hab2xtLTdwUzNrM2E0aWR1enlrbXJBU2VLUWlfaU1JSzd3Q0VnVVhmMC0tOEdDNzNnU1doNlhyVlRQcXNGSEhFMUQtdmFzblJORkI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T03:10:00+00:00",
-      "summary": "具身智能的“ChatGPT时刻”何时到来？业内分歧仍存  guancha.cn",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -366,6 +354,17 @@
       "published": "2026-07-24T11:21:27+00:00",
       "summary": "《AI智能体安全保险研究报告》正式发布  安全内参",
       "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4UmYzOXpybjhqRjIteGF4QVVva2NEOHJUSC0wX1ZjV0FDN2R1UndYd1pvVHJ6T3kyNjdTVU1nWVVuSjVsOVJFQVVpZVJ4UU9CRzZmVE44MUUtVHVqQzhHZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-10T07:00:00+00:00",
+      "summary": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级  东方财富",
+      "categories": [
+        "openai",
         "tools_apps"
       ]
     }
