@@ -1,6 +1,47 @@
 {
-  "updated_at": "2026-07-26T12:05:20.955436+00:00",
+  "updated_at": "2026-07-26T14:09:08.635304+00:00",
   "items": [
+    {
+      "title": "全球媒体聚焦 | 中国AI模型在美国市场获越来越多用户青睐 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2VBOUc2RXVFZzVfRGpiS0FlUTQzcmQ3UENfdDNhZ1U3dW5hbk5HNndudDY5d1loczZYemNicDY2UThRaHdLUWd5MzNRbmU5OEEySzIyZmZDcGhkVFVlRjBSZzVMRzBkOGJWZm1tNjRhQXdHZGdTSUh4THl4andSbWl1UnB2cE80?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-26T13:44:02+00:00",
+      "summary": "全球媒体聚焦 | 中国AI模型在美国市场获越来越多用户青睐  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "聚焦创新、治理、普惠 《关于促进亚太地区人工智能发展的声明》发布 - 中青在线",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KalE0TDhrM3U0d0x0V3o3elF0b2RiOTV3Z0JiWHpnU3l1TUEyWFZxbWt3MnBrVjJGWEM1T3NQQ0MxMXYzOHlVOWVpcDUwVzQ5em9mSk1UWFJfRXUwbGVHNER1X3F3TmNwOXgyYThOREdoU2x3Wk5pUGhuQTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-26T13:41:00+00:00",
+      "summary": "聚焦创新、治理、普惠 《关于促进亚太地区人工智能发展的声明》发布  中青在线",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "活力中国调研行丨来AI街区感受科幻生活 - 中青在线",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CN0ZkVmpYTkU5OGdCSU1fS2ZBM0RqQ1FKMGlMbm56ZjVUR0JTeFJwcC14a0tya3JoS0paVXlqOU4zaFp1aVZ3YlJpcVJQVnYxcE5HcHZZaXd5cGxoMG53c0N0QjNndE1FR3lYdm5mWG8tSmlHLVJmQg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-26T13:41:00+00:00",
+      "summary": "活力中国调研行丨来AI街区感受科幻生活  中青在线",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "微软、英伟达、OpenAI等发表联合声明 支持开放权重AI模型 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52bTd4aEtiTG1Ua1d0aFpyaXUyTDEyTklvcDAtZVFkSGJESUNMekI4OHRnbFhoLU1kUlN0ODBCOGtfaWF5dnJBY1hJektKQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-26T12:41:15+00:00",
+      "summary": "微软、英伟达、OpenAI等发表联合声明 支持开放权重AI模型  观点网",
+      "categories": [
+        "openai",
+        "open_source"
+      ]
+    },
     {
       "title": "云边科技发布全球GEO业务体系，以合规技术助力企业提升AI时代全球品牌可见度 - 新浪新闻_手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmejJYOWxBUzFYWHJNX2ZRUEplT1c2MzBRcm8xSnVBczVyc2tFblVZSV91ZF9URW1EQllUMG10UWdKQlpvNVJPZkxuNXpPbGxXdGMwakVaQ3p2U2ZWNndJa1VjbmVaYmk2Ni1EWkktY3B5Q2tTb3c?oc=5",
@@ -12,83 +53,24 @@
       ]
     },
     {
-      "title": "黄仁勋、马斯克同日发声，事关中国AI - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTgzQWVlWmEzdHZrWFd0cGFtajdod0lFek1fZnVsanY1OWFvTmFUZGplYjE3b1QwTGZ6NUduajZSdEJBQ29EWnNtS2cybUJ3RzJWYTdtVURzRVd6Wl85cVdIME5pLWFvSE1Ud1RGeVlTRU1YcVI4aWtUTGFwNklZRFI2dGtIWVM5VzFHQw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-26T11:44:50+00:00",
-      "summary": "黄仁勋、马斯克同日发声，事关中国AI  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "全球首个、自研首颗!本周中国硬核成果密集“上新” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42WDhURnZDQktZX3lrX0R5WHY0MTZlWEQ3OUhPLTVpenFQclZOSkJHaFJ2QmlUdlBqT0RUSTJxRTdUNFRhX00tVExTNmwzb3NMVllaUTZNenVwUWlOLVdQN1RIWnlaalVpbnhPYlFFeTROUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-26T11:44:00+00:00",
-      "summary": "全球首个、自研首颗!本周中国硬核成果密集“上新”  手机新浪网",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "喜马拉雅音频大模型升级，市北国际科创区将培育更多科技产业 - Sohu",
+      "title": "喜马拉雅音频大模型升级，市北国际科创区将培育更多科技产业 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjdLV2ZYdUJiNHVoM0RaSGhRX2xqU2pYRmtJTktXdmhWQzNabktVelpsQkwxUzRHRVhPakFWX3VPaW5KMTQ4YXVWcktoeUdsUEl4QlZLOFk5M0Q3bTJQNjNiV1pJT0pqMEwyVFpjdFJOaEZpRUU5M1B3cDdiZ3pqS3FKZXAtSlJzd0M2dA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-26T11:31:12+00:00",
-      "summary": "喜马拉雅音频大模型升级，市北国际科创区将培育更多科技产业  Sohu",
+      "summary": "喜马拉雅音频大模型升级，市北国际科创区将培育更多科技产业  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "聚焦人工智能、绿色低碳 近70家企业机构申报2026年服贸会成果发布 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VRVExSUt6aUVyOHplZW9MT3ZGelpsRlJsSUJLUElnVEpWUlYybDI1WFNqeExFNEhnM3BGekdfTk9tUGV3VG1Iam9GRzZCN0N1NW5NaHV4bTNIZHczd2Z4cGJjUTJEcUN1UVJYNkpOMG5KLUQzQ2k5OVVxOGMySTg?oc=5",
+      "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HaGpSUEZkSThCa21pSjB1b0VkNllnWHNRMHNkZnIxOEF3Tl91TGtKSEdUTVQ1SU9JRW40cnYxVXVoN2RUUV84OXByVEViLXYwN0VrU2VkOEMtQXViTzZyV0VnbFAySnc3aDc1N0ZiQTN0WGpKOURfeQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-26T11:26:20+00:00",
-      "summary": "聚焦人工智能、绿色低碳 近70家企业机构申报2026年服贸会成果发布  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "这场AI盛会，“快”人一步 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KbkJMdXF2UkdtY2tGbV8zMEdxZC1EVU11RG1iWW1BRW05TjZfZ2ZFRTlFd21YU1NKbXBKUmxpWllwRVN3R3N2NmIwRWtuNVBIN0FhNkwzSVN3WXhsbVcxdjEyU3Q4dGZBQ1FqQlhWamEyWm1pRkk0TmEtdzEzb0U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-26T11:15:38+00:00",
-      "summary": "这场AI盛会，“快”人一步  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI世界的支付宝，出现了 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZMVA5Z3VaeC0wMkdwRnViVjZQR08yRm5NRGJmTWo2MUFyVDVFOGx3M2tRUl9rbzg1QlgxWWN1SVY3VlZRcEVfdUtSUDlpUlJtSEJKUTdLdmI1OWVCbUx2VHlRMDhwZUVoWGtxbWdXSkY5NG4wc0xzWWl5eGtfY0k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-26T11:15:38+00:00",
-      "summary": "AI世界的支付宝，出现了  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "活力中国调研行｜AI助力炼钢提“智”增“绿” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEhxYmd4cWgzaXpDTUJFMldVb2ZFQ2Fqd3lwQXViYks2WENOM2RheTJxbTJZTXlGczBBTS1nN2RQcVo2d25WS1pQRmFGcGh6ZXJseUZxUUJCTl9hMmltanByc3dOXzJ0S0k5VGxoalB5N0VwZnl3ZGdiV2xjZkhPaUJCSUdobGxE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-26T11:10:52+00:00",
-      "summary": "活力中国调研行｜AI助力炼钢提“智”增“绿”  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "三星李在镕与OpenAI奥特曼会面 磋商AI与半导体合作方案 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12SlltcVlFcnVJUWRVRjI5Z3oyWVBSNE5iS2p4ME9FWlFoMnQxRHJYZDI3QVhCTGxfVFB3U3ZsTUl2SVUtcWxUaE1pNkcxUGI2YThHM0RLckJNc2lVQzUtSk9n?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-26T10:10:46+00:00",
-      "summary": "三星李在镕与OpenAI奥特曼会面 磋商AI与半导体合作方案  观点网",
+      "published": "2026-07-26T09:59:49+00:00",
+      "summary": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力  新浪财经",
       "categories": [
         "openai",
+        "open_source",
         "chips"
       ]
     },
@@ -100,6 +82,17 @@
       "summary": "北京胸科医院、北京同仁医院用专病数据“训练”智能体  京报网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "三星李在镕与OpenAI奥特曼会面 磋商AI与半导体合作方案 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UN0J1UXVjZms1bVVwb3FnamtUcVZUWU9aQy1meWZJdE5KSlN0N1p4Q3AwOG42ZHhBVG1UWTU2N2Y1ZVg0MHEwT2ExVU1qcEYwZ0ZZOFhSbm9pbmFGX3lLT1Fn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-26T08:56:12+00:00",
+      "summary": "三星李在镕与OpenAI奥特曼会面 磋商AI与半导体合作方案  观点网",
+      "categories": [
+        "openai",
+        "chips"
       ]
     },
     {
@@ -175,13 +168,23 @@
       ]
     },
     {
-      "title": "日右翼借AI篡改侵华历史 严防倒灌我国 污染大模型数据 - Sohu",
+      "title": "日右翼借AI篡改侵华历史 严防倒灌我国 污染大模型数据 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPenlrVWdmZHlOa01nV2NwYlg3UE1MUjlIcklWd2FYcmtrNm9yRWpuc1I5LVNfTVFXNkxuNkNPX1JhZ2VsNGZFNG14UTFhTHdBWkpqVy00dk9WeHduV3JUWFVhWW9HVkhPZWZ0SUNsWVRReGFaUDNBS1ZXNk5rXzJqVllxc2lTMW1S?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-26T06:57:02+00:00",
-      "summary": "日右翼借AI篡改侵华历史 严防倒灌我国 污染大模型数据  Sohu",
+      "summary": "日右翼借AI篡改侵华历史 严防倒灌我国 污染大模型数据  搜狐网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "Claude Opus 5 被扒光，1511 行提示词底牌全摊开- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkSE80OGd6RndEX0I3NGFzMFJoc21mc2pSR0JTdzJRYUFHYzVzb19YS05iVkd4VVBYX2VRdE9oNm80ZUVic2xLR1Aza3gwNUhENXdxbk1hNA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-26T05:46:05+00:00",
+      "summary": "Claude Opus 5 被扒光，1511 行提示词底牌全摊开- 产业链  光通信Pro",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -216,11 +219,11 @@
       ]
     },
     {
-      "title": "AI智能体手机竞赛启幕：努比亚、阶跃星辰、荣耀同场竞速，模型、硬件、App背后“暗战” - Sohu",
+      "title": "AI智能体手机竞赛启幕：努比亚、阶跃星辰、荣耀同场竞速，模型、硬件、App背后“暗战” - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblNOcFNXeEJ3M3dUQUxKYXlzd1FOcnZfNWlaeWVPWTFsbTA5UWQ3U21kNi1XR1h5VWF2NkNyeHhnMkxEa3U5ZHhZOWdINjZvazJuN2ozUk56RkozY3ZaV095aHJiS0ZOVlB0TEJkWlYxTzFTRlctUEpqNzJmZHRCc1NVcE1RMm0tX2YtUA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-26T03:23:09+00:00",
-      "summary": "AI智能体手机竞赛启幕：努比亚、阶跃星辰、荣耀同场竞速，模型、硬件、App背后“暗战”  Sohu",
+      "summary": "AI智能体手机竞赛启幕：努比亚、阶跃星辰、荣耀同场竞速，模型、硬件、App背后“暗战”  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -257,13 +260,14 @@
       ]
     },
     {
-      "title": "Claude Opus 5被扒光了！1511行提示词底牌全摊开 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXJVRHRldndRbmRiWGNGUl9IbEp1X2d1aWRMalF0U0JZUXF1UDBKWmZIQ2VqU3U4eFV4V2JjZHlFekxTTFlTRFplUG1sajktR0oxSHNQa2I0UFZrNVg3amw0UElYdTc4bVNOM0lnQjcxMnJ0X1VXV25jVmU4d0hWd2g2TW80R0Rv?oc=5",
+      "title": "传DeepSeek 100亿元新一轮融资突然放缓 - 网易新闻客户端",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOenFmaUFtM0gzd3dBMWg2UU8xWXloa25DeDUtLUxVOC1vQjBLODNpQ0dFdmVGMjF1OWM5TnpVakFOb0F5SG5jWm9GRUdaRXdQQWZMQTlTWGdDQllReWxTRVNwOXoxNTYzU1piQ2xHZG4zTUJERExYWHBCTlphVzFpbi1B?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-26T02:01:20+00:00",
-      "summary": "Claude Opus 5被扒光了！1511行提示词底牌全摊开  Sohu",
+      "published": "2026-07-26T01:44:04+00:00",
+      "summary": "传DeepSeek 100亿元新一轮融资突然放缓  网易新闻客户端",
       "categories": [
-        "anthropic"
+        "other_big",
+        "breakthrough"
       ]
     },
     {
@@ -278,11 +282,11 @@
       ]
     },
     {
-      "title": "中医“岐元大模型”发布，开启名医诊疗思维数字孪生与经验传承新模式 - Sohu",
+      "title": "中医“岐元大模型”发布，开启名医诊疗思维数字孪生与经验传承新模式 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSEpqZDBvc09JNk5lRHlIVjdwRk91cDVpRVF0ZVRweTNjRGlVWWFEYXNrWUhGY09wcUcxSmZmSDE0dnB1aXkySUxfMThBTGpNcnU1dmVaUG9NRTJTVDMyNHI0a1lKTUV2ODdGREtJLU9tcnNpdUtfcWdSU2tlOGlHeXN4Zm1iS2NLSU5hSg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-26T00:50:34+00:00",
-      "summary": "中医“岐元大模型”发布，开启名医诊疗思维数字孪生与经验传承新模式  Sohu",
+      "summary": "中医“岐元大模型”发布，开启名医诊疗思维数字孪生与经验传承新模式  搜狐网",
       "categories": [
         "other"
       ]
@@ -304,6 +308,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-07-26T00:10:00+00:00",
       "summary": "Debian 项目发起议案，讨论是否允许 AI 大模型参与开发  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "瑞银：中国大模型性价比优势凸显 下半年重点关注三条主线 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpM3dsX1lBNWlyazBSOFJSWTAtZzVWV2o2Ty1UTEtUUlljLXg0MlRiRU5iVWYtdEt3OEVWU3JhYTRramdLWGdxVnp1THduOWVtcGJBOHBjMjR6VVFKYUd5Zg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-25T21:50:40+00:00",
+      "summary": "瑞银：中国大模型性价比优势凸显 下半年重点关注三条主线  东方财富",
       "categories": [
         "other"
       ]
@@ -358,17 +372,6 @@
       "summary": "OpenAI上线ChatGPT Work 企业级人工智能体竞争升级  东方财富",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     }
