@@ -1,12 +1,154 @@
 {
-  "updated_at": "2026-07-27T11:52:13.154634+00:00",
+  "updated_at": "2026-07-27T14:42:12.981019+00:00",
   "items": [
     {
-      "title": "不给“摸鱼”的智能体发工资，可行吗？ - finance.sina.com.cn",
+      "title": "IDC王吉平：智能体手机发展路径仍处探索阶段 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fYU9mWWNQVmpMZ3BkNEFWWm5mcFlzV0VIV2tGTHFHaUJUd2w3bVVLcW5iOEh2UmFSTF80WFFuTFhxUnpXS2U2UjdXRWRwdlBYT2ZNajFrb3dOMGFlclVKRGp3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T14:37:32+00:00",
+      "summary": "IDC王吉平：智能体手机发展路径仍处探索阶段  观点网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "国务院发展研究中心张文魁：推动智能终端与智能体融合发展 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LR2hadHBPMWZFQWRpVHFaRVZYN0hWMktNQ1FUYXJZZFhCM0hGcXRRaUkxNjg1NG5fLTZSVlRjTVl0eHQzUmlpYg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T14:25:55+00:00",
+      "summary": "国务院发展研究中心张文魁：推动智能终端与智能体融合发展  凤凰网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI总裁：在可穿戴设备集成 ChatGPT “非常感兴趣” - 千家网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PNHIxVlpEeDhYQmNPeFpnVjdvNy1ZT2RvZ1FJeVo2UHkyVkx3eW1SMnlwZVRJX1RTa2RXaV9qNjFXVjdvMkNpTEJManBmcjVQR2pyV0tMdzNhcG5fWlptVw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T14:20:16+00:00",
+      "summary": "OpenAI总裁：在可穿戴设备集成 ChatGPT “非常感兴趣”  千家网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "AI进化速递丨英伟达拟为OpenAI数据中心项目提供2500亿美元担保 - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lS1NCaFJja2QxVks3TVVVTXJKWmNGMU5fR0VheGpVSUo0cE5jZ3F4b2ZudzhnVTFELVpvU3Z3ZDFVN05nY1pGRk1UWFM3emFVWlNHZnBhQ2FCRUtpenZXdXlRSmRDWF9QWG9YMHdTcU4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T13:27:03+00:00",
+      "summary": "AI进化速递丨英伟达拟为OpenAI数据中心项目提供2500亿美元担保  新浪新闻_手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "安永发布AI风控智能体 五大工具重构零售金融咨询 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aVExNNENQdXlnckJvejJmakNMbW5Kd1hIOC1jeTBwVU9RWFdfX3ZqRGZDQnpzY2Z4ajJEWVFIanB2ZGp5aU95dmhoTmphaWxXekhzRVFjRng3VlJkWHJxZnJn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T13:23:41+00:00",
+      "summary": "安永发布AI风控智能体 五大工具重构零售金融咨询  观点网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "财新圆桌-AI系列：智能体走向终端，个人AI时代正在到来 - 飞象网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPQ3oteW9hU2k3c3ZGOFYtRDJ0SnliTzRWUGhIZXRXQ0czcE9CdGREM2JPcFdnNE80LThtSHBSQVFZU0NqcldndGNRTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T13:17:01+00:00",
+      "summary": "财新圆桌-AI系列：智能体走向终端，个人AI时代正在到来  飞象网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "小米大模型调用量全球第一 中国AI强势领先 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVjJ2dlJTenpfZWlwZWUyVTk3SVhjejQxVG9CQTJFdzhYTkg4eW1OZmJmNW1adEd2bUZlQk1Lbm9SY0JzVlo2dWNVQXc5T1BBOFNlM3I1aFNhSnZ3V25US2FWMTZpcVpxSkJjVlE5ek8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T13:16:19+00:00",
+      "summary": "小米大模型调用量全球第一 中国AI强势领先  中华网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "#QQ宠物接入腾讯Hy3大模型#兄弟们，今天开始我也养QQ宠物了~ ​ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LaGhZVUgwenMzLTRwTTgtWWd1Ni1YX2F0eENZcnZ1d2huV0trSGxjV3Q4WXZzU3RYODZ2ekNLYVNsLTBGTWJUcHYwR0lfRG56V0dWUEo3ZjA1T1VmcjNtRnR0Yw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:56:00+00:00",
+      "summary": "#QQ宠物接入腾讯Hy3大模型#兄弟们，今天开始我也养QQ宠物了~ ​  手机新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "QQ宠物重启：取消死亡机制、接入AI大模型，虚拟陪伴的王回来了？ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakwyU2dOdTdyblRzWkJobHBJa1Y5VDFsX3dOTE5PbTgyQ3JpYllMeVJtQVZqMXBxejJtVTJFTUI3Unh4YmxWUVFLMkZlN0VzRGtJckZlWnhqNnJjVGk4WG5qTGhSNlVGaDdtNlpYYjBzQm80cUdGYTUxSFJZQVZCeTVRLUk4bDVV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:53:15+00:00",
+      "summary": "QQ宠物重启：取消死亡机制、接入AI大模型，虚拟陪伴的王回来了？  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "热点丨谷歌将Gemini架构写入芯片，TPU之外的新分支 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HWE9RT1UwRllhM081aXF0OGxYWjVRNWRRc1RsWXpIb0pkT25BZjNrZWR0QkxJTEp2YmNvRHFrWE1wQ2JBTWxFd3hwTzVENW93a0V3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:30:00+00:00",
+      "summary": "热点丨谷歌将Gemini架构写入芯片，TPU之外的新分支  电子工程专辑",
+      "categories": [
+        "google",
+        "chips"
+      ]
+    },
+    {
+      "title": "OPPO手机进入智能体时代！OPPO启动小布 Next 计划：13款手机尝鲜 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXlxamlQN2N6cXZ2UG9PcFBEQmczVFk4cXRCRURNM3hEcWNJNEtJNHZYb0RLdF9NNkh2NkxHZ1lMTHZoMGRoT29BSU02RlM3S2pCRGtLVV9GdWhhVWtsam1OOWN1WHNMczJrNFU3dGIyUzJvTzMtNWZKZUZGNExwOWtKREEwcnppMXlSNg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:17:00+00:00",
+      "summary": "OPPO手机进入智能体时代！OPPO启动小布 Next 计划：13款手机尝鲜  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "新榜单出炉，单周处理量破8万亿Token：Agnes公布大模型最新成绩单 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1ctdmU3TzdoZUtHMzBrbXdlOWM4NUZ2OVVaWUdJUDBOdHowT2tla3NYUDhZTDVlLXBEeUtQMFJoUk9kSmpfNUJTbncwY2thNm8tbUMzbmVRN2xxc0lhOGQ5UnRJbnJUMXl5OXV0NFY5WDJiUGdFYU1MdXNza1Bqc0tUdUhXa2dO?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:13:00+00:00",
+      "summary": "新榜单出炉，单周处理量破8万亿Token：Agnes公布大模型最新成绩单  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "解决方案 | 大模型退潮后的门禁赛道，中优云联用端侧轻量化AI重新定义“务实智能” - RFID世界网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xS1ZId0psMi1QRmZiYXZrWUJoM3pqMWd5dm9oNEJkTzZOdzZQdE5lV0ZWaDZ5WHp5V1RROVlUNGNoTkNycGQ0bmxqLWRVTDBNbjFNMVRKR1JJTTlqdWdOeU1LTGh5S0tBejg3NG1OZFZ0Zw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:03:29+00:00",
+      "summary": "解决方案 | 大模型退潮后的门禁赛道，中优云联用端侧轻量化AI重新定义“务实智能”  RFID世界网",
+      "categories": [
+        "local_model"
+      ]
+    },
+    {
+      "title": "Claude Opus 5正式发布：性能大幅跃升，定价仅海外顶级闭源模型一半，冲击智能体高端市场 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWpOTEV0UXhiSTl0Y1JqOU9RUnVuR05HQzFkcjRBY3RTU2F1NDJieUZFOThlQlpTNm91TkhDdWVPQlpmLUtybkRtc0lFYmtjczNKaDk0andLd2dlX0NsSlNIUVBVcUttUXZkcmZibWFqb3ZMY2JEV2ZIZXVPb1FocnB1QUJjcDZL?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T12:03:03+00:00",
+      "summary": "Claude Opus 5正式发布：性能大幅跃升，定价仅海外顶级闭源模型一半，冲击智能体高端市场  Sohu",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "不给“摸鱼”的智能体发工资，可行吗？ - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaldSY1U0TlcwcVVod3puaVRHTTlYa1d6MkNQOS16MXNRSmZoaTdSLUVETHZjZnJEd2dfX0h1QzVrRnRnYW4xelltaldVZmFYaFMtVXFwLUhWYTFlN0xJd2NtUGdxdmI5ZHcwMnoxMElYVmJucGc0TVFJV19PWGVDb2VGT2V2VEFOSm5kYmNPendHNDZvZHFhd3NlX2FsNjdoTGkw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-27T11:51:29+00:00",
-      "summary": "不给“摸鱼”的智能体发工资，可行吗？  finance.sina.com.cn",
+      "summary": "不给“摸鱼”的智能体发工资，可行吗？  新浪财经",
       "categories": [
         "tools_apps"
       ]
@@ -23,11 +165,22 @@
       ]
     },
     {
-      "title": "港股AI大模型双雄走强，MiniMax大涨超17% - finance.sina.com.cn",
+      "title": "全球首款AI智能体手机！努比亚NaviX Ultra黑色版官图发布 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVRnb2RGbmd1TmVUOTRFY3B3V01haU9VdEtodHVVNkkxak5fbkdoYlZXLXlKNmlOLTdndkVCWF9GbjNrcGtHTEVFUm9DZXYwdno5QnBfUDFGNW85b1VmN1o2Q2ZRZ0tnMURCYjd2dnN6Ul9qaU1sWmZaclhybU8wUnFVOXFOang1?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T11:34:00+00:00",
+      "summary": "全球首款AI智能体手机！努比亚NaviX Ultra黑色版官图发布  Sohu",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "港股AI大模型双雄走强，MiniMax大涨超17% - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaFpOTTl6M0lwMjljSmVOT1RiSzJlTm95VHBkNVZrYmxlZzRUYVBCeE5kTTczaEh0QTdGcGFsUVpoSTI3Y3R2cWU0b2RJMjdjQTBTbW0xcUlBR3dGVkw1WXA2Uk1FZmtmb3RNZ1pOU243czNqdEtlN3RoOHBrOGlZMzA2akNHbXUzelBWeGY5UDhJQl9xN1RPMERoSER1QXJka1BUS0dlUWxpTHRfcDNQQXlwdjAwbkk3ZmV3NFhJV2tQVG05b1g3cUZuUFJtYlNhU3dQZ283a1VZS0o0eVFiNEE5TWNiSDgyRGxzcWJWZ0pYZ2NKSGFkZ2s0Sng?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-27T11:26:15+00:00",
-      "summary": "港股AI大模型双雄走强，MiniMax大涨超17%  finance.sina.com.cn",
+      "summary": "港股AI大模型双雄走强，MiniMax大涨超17%  新浪财经",
       "categories": [
         "other_big"
       ]
@@ -43,41 +196,11 @@
       ]
     },
     {
-      "title": "OpenAI CEO奥尔特曼：人类已经进入了“奇点”时代 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpNHlNRFRfS2dKUTZVeHFUWUQyVFp4Wm9HS09yQ0R5alFQTHAzdDZRZl9pN29FWmpYc1JnR3lsd05YSW1JYmZrdjZEZHJjWVNYNzZkNFNBUmZmaHdNbzVVOGhtVEk3VGtidkU4allZQ1NtdFF2NmpIWXlXRkdmaUU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T11:10:23+00:00",
-      "summary": "OpenAI CEO奥尔特曼：人类已经进入了“奇点”时代  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "共建空间智能新生态！熵基AI空间智能体创新沙龙广州站顺利举办 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZWxBM192bVQzUWZyc1Ffd2ZqV3hfbDI0SXEwRkFPMmFkTFQtRnBSTUU4WjBTV2I2eEpJeU85ZFhPenJscXpsNXBRNmlGa180MF9lcDZpYl9IcEhMS2JfMm9rb0toV19NRGVLcnpfb0xOWnFSdlRjckpsVkllb1U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T11:07:12+00:00",
-      "summary": "共建空间智能新生态！熵基AI空间智能体创新沙龙广州站顺利举办  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "所有ChatGPT用户都遇到抬杠现象了吗？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EVlg4bTNWc05KT3c5cmZkVUkzdzdtanhBMjVjb2RZUGlldU9vVDRtR2NyTHk4dUtYTkhLVTk0YjVrS044Nmx2QV9venFVM2hneldOWEdKQ3Fsa1ozY3pENHNxSGllNmpnUXJ6aXZ2TG1jWDZqd01PZGdfYnVzNnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T10:27:00+00:00",
-      "summary": "所有ChatGPT用户都遇到抬杠现象了吗？  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "智源王仲远：北京有条件率先实现从“模型领先”向“智能体引领”跃升 - finance.sina.com.cn",
+      "title": "智源王仲远：北京有条件率先实现从“模型领先”向“智能体引领”跃升 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2s3NzJncVpseXV6M0tWekNMZUdOUUxydlYzLVlNNWw5cUx0MldlRVBXTXpzQ2RRQl9OQTl0X1UxZ291VUtwWHRUaWJGWGRlVUpxX2c0Z0NaZElsR3lmNlZhUHJtUk9fRXAtQ2Y1NUxVcVRGLU1fNlBYamx6TFh3UDVZZWZVTHF0b2JfRmMza180NHdCaktzSQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-27T10:25:03+00:00",
-      "summary": "智源王仲远：北京有条件率先实现从“模型领先”向“智能体引领”跃升  finance.sina.com.cn",
+      "summary": "智源王仲远：北京有条件率先实现从“模型领先”向“智能体引领”跃升  新浪财经",
       "categories": [
         "tools_apps"
       ]
@@ -114,6 +237,16 @@
       ]
     },
     {
+      "title": "ICU里懂行的AI搭子：广东医疗AI大模型的应用实践 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmJtS2NPUGlIZjBfdlhlN0tQQllIMml5Z3FvT2M4TXpGZTZqR2NSWGNmd2RKSENIb3hILTF0bG1EVEJ3Z2FDcDFQOTBDeGwtMi1YUlVNbkVsZ3pKbUtYWkxaYTFXcHdKVTJoVi01dHI4dDFYUFFvc0w0aUJWNXJBdHBBTHVqbE00Z0hMeA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-27T09:13:00+00:00",
+      "summary": "ICU里懂行的AI搭子：广东医疗AI大模型的应用实践  21财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "鸿蒙首个桌面办公智能体WorkBuddy发布 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWNGblJ4Y0tGTXhJREFyVUVxUWE2bDVlVW9VR2NZLXZhUFRMUnJwSFJRZTlZM01tU0hrdVIwYm4zU2tIbjdGWVViVHhVSTRtNE11NXFRLWlZNTdTMmhnSk5ZUDVfaFh1cFJRQXNEVXNDaDJ5cy1LOUR4Rmh0bFBjOVdXX2VOVm1M?oc=5",
       "source": "Google News - AI(中文)",
@@ -122,16 +255,6 @@
       "categories": [
         "breakthrough",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Opus 5正式发布：性能逼近Fable 5，价格仅为一半 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGlDeENVZE9hNTBVS3BYbnRwbEhHeG5tTXYyTzB2NVp5eFFleF9zUVpVNUFkUHB4U2o1R3dvSjdON3B1SDRCbEFPYk5mQTRYTnBXS1cxNTBpMklSMEg1aWRrZC12MmZtR2dhX0FTN1lDWkhOT2xvYjdQeWFIQUpNRlBUYUtxbW5O?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:59:00+00:00",
-      "summary": "Claude Opus 5正式发布：性能逼近Fable 5，价格仅为一半  Sohu",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -145,27 +268,6 @@
       ]
     },
     {
-      "title": "NVIDIA智能体工具包整合Omniverse库，助力构建仿真就绪世界 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR09iMVZ1YlpXZDNUa2FXRWtLZnV6a0xSRS1CVE85clQ4d0g0VTJNSlRtRXd6aUpEb0JSWDFSZ0c3Q21xSm12ajNHNk5DMXZxd1pqdVNzUW8tVWRsb2hsbmhYeXVHV3lIX0tlUTBUNEw1N1Fha2hTUHh3THlfS2FOZjU5T3ZuSWdo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:55:00+00:00",
-      "summary": "NVIDIA智能体工具包整合Omniverse库，助力构建仿真就绪世界  Sohu",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude对话分享链接意外被谷歌收录，用户隐私聊天内容曝光 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41OUtJd3BOQUhwdmRsSDJhTUdGUVB3eXlYeUN4X0UzQmJRckJUelRBc0t3eTJCLWFQb3JLVFAyY0FNTFpyYVF6UXFSUEc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:54:23+00:00",
-      "summary": "Claude对话分享链接意外被谷歌收录，用户隐私聊天内容曝光  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "Anthropic正式发布Claude Opus 5模型 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUY5eFUxWHBrX0g4MEJOTjNhcFpGOWlDaEk0SGtNMWlXRWM4Z1VxTTVPMVhTcGFRVlpQZDRXSHE4QldUUzk2S1hHMmNXVjVYclhaU2dpMndQaTZmelY3SFMwNjFaTVV3bTEzMUdQSUU3dEFUWGV6MC1xSEduQXVCMWl6cEJuQnN3?oc=5",
       "source": "Google News - AI(中文)",
@@ -173,26 +275,6 @@
       "summary": "Anthropic正式发布Claude Opus 5模型  Sohu",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "QQ宠物回归：大模型能否唤醒“桌面养成”的青春记忆？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXJueGVmWmZqOUpyOTdoYzNrV2RZbDJ0eXhiSjFDYlV5RV9lMEVuM2lqdXY3NFBMWWNjRk1Gd2dPQVJRQkpISkg4S1hkTFJmR2Jyb2xueUJIZFdiSDFSa3RtMDZUdnhsOTFUN1ljZVdCc09CX2JSV1VHeTNPQXNJUUFvX2t6T1ZJbF9IUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:51:05+00:00",
-      "summary": "QQ宠物回归：大模型能否唤醒“桌面养成”的青春记忆？  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "从Token到任务：智能体AI如何改变基础设施的关注焦点 - 小熊在线",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91M3luYk9XMGNkOUVqRVdSUklyX1BWWU9CSHNRWWRHQ05UVkFZMldWT29nX3VMUmdpbjExQ2VLVE1TRzJqVkFBY0hScVE5TGFoelc2eHR6ODFOR01XVDNhaG9KNHhOZDdvWWJn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:43:37+00:00",
-      "summary": "从Token到任务：智能体AI如何改变基础设施的关注焦点  小熊在线",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -219,47 +301,6 @@
       ]
     },
     {
-      "title": "2026年多模态语音助手怎么选？4款旗舰横评+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PclhRSzRFaXhvTXNKdFoxRGNtdWRrN2hWd19UX1hWN0N5bnE5ejB3OEVkM0RUQk9yV2IwX3ZVOFQzT3lHb0NKcldqVXFLcjlfX2lsOElzU0dTX0NlazFrR3lYb1NPRllKYUs4VDd6elpzUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:19:19+00:00",
-      "summary": "2026年多模态语音助手怎么选？4款旗舰横评+FAQ  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "国内首个整车智能体超级Eva已量产交付，搭载阶跃三大核心模型_上观新闻 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54U04zRXZCN1huaVBlTnVwYVFZVS1vNUo0S0ZnNWUwLXBSNkllNFpPTDMyeUVzNF95cXZ0aWRWdy1TMzFsbmxaQnVaUkR1WTRRS0RPRGp3cTJfT1dmNUNVell5ZjRFN2s5V0xsMTc1amdRZDRsZ25MbEpNc0s5TVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:16:00+00:00",
-      "summary": "国内首个整车智能体超级Eva已量产交付，搭载阶跃三大核心模型_上观新闻  手机新浪网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "腾讯QQ宠物官宣回归：内置Hy3大模型！保留喂食、洗澡等经典玩法 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnFTRDdEdXBqdVJHU3dhODR5Y183WHl4cXU4LVhmMlF3WlE3LXNGZVlseTJsa1diOE5HMEJodWtLWloxVjNNSEVtMXdVUUp6VWpOSW53d0VMY015OGRPMDROeVpLUFBXYXRfaExxdzVIcXBHUTlQcHI1N19Mem9iWmYzZ2g3QXBE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T08:09:27+00:00",
-      "summary": "腾讯QQ宠物官宣回归：内置Hy3大模型！保留喂食、洗澡等经典玩法  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUQ1cXhpQnlGX3g5bFF4cmM0WFpSM2ZkWkRSd3JNWjFzX0c4RENxVzlWOG1Rb2ZkN3pDU1Rtc0hwdUh5OVYyZUwzTkx1TUZ4ZFpweDBJbk0xcW9NcnloTC1aNzJOOWd6OHh4czZUSWswUDRLSHZCVGIyczJKTktITVJnal9NNXhN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T07:43:04+00:00",
-      "summary": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "谷歌CEO皮查伊证实Gemini 4已投入训练，有望年底发布 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tcEJwV1lxT096YmNWTGw4YXc0bHRkanU4aUhDSnJTejVTdHl4NXN5MUhCajVxaFVKSXcwQzd5Z1pkclhpZjI0eVJIdEw?oc=5",
       "source": "Google News - AI(中文)",
@@ -277,37 +318,6 @@
       "summary": "北京市发布智能体专项政策：十条举措推动AI智能体规模化落地  电子工程专辑",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型企业正在走向K型分化 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UT3JSZE9ZNEVMSUFKaVM0UVMzMkpGQXFNQUotRFZkUXIyNTdua1E5UEJ5YWtXZTA4c05tN3lLR2JoY3RCaGxveGl2cFY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T06:56:46+00:00",
-      "summary": "大模型企业正在走向K型分化  凤凰网科技",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人工智能与跨境支付深度融合 连连数字携手银联国际推动全球采购智能体支付落地 - eeo.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kZ0dSMTFpN0VlMThyMUpCU1VJa053eFFfdDFRNXNvMUlYQ3EtWkdNTjEwME0xWnVHTy1HcXNnT0F0MDVTd2VXLV9QZms3RFNSejAySQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T06:54:00+00:00",
-      "summary": "人工智能与跨境支付深度融合 连连数字携手银联国际推动全球采购智能体支付落地  eeo.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶， Claude落榜，美国仅1款模型上榜 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUJNcHAxa1lMRnVOZXFIS0xmUjJQM3JzeVYyMl9SZkZTbFFQdmtSZFQzbkJ1eTRtaWVvSXdSZU1ZdWZOWkk0bnVRcXd5dUMteVRfYjVwTmctenFSQWNmTWRaYVhWb2d4aE11cGpFRWd3Zk1jZnVoS191MVc3VTlVdlZveTZ2T2Na?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T05:16:33+00:00",
-      "summary": "14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶， Claude落榜，美国仅1款模型上榜  Sohu",
-      "categories": [
-        "anthropic",
-        "breakthrough"
       ]
     },
     {
@@ -345,24 +355,14 @@
       ]
     },
     {
-      "title": "全球首款AI智能体手机！努比亚NaviX Ultra黑色版官图发布 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZU03V05xYU5fR0xPTVYyeGFFQmJJaDAzWGE0SGZ3TG1aS0taMjgtRnV2Q3BJeHNaLVFDdnFPU3RSbkhKdEdlR3ZPLW5TWjNhSE4zY2pJdVMzQnhCbGNnNUV5TnN4VGtiNk9BNUphM3hCSU5qMm9FdEd0cy1KWlNqWVRYU1NKWGlN?oc=5",
+      "title": "14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶，Claude近一年首次全线落榜，美国仅1款模型上榜 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iSDVtenhPa2toRllUM2ViMDBPRW9zOGxqYlpzZGpLbUhEV2t0R1dwWnE2ekp3SWpSMkRCRDZtTzJ0VU5aLVdkQW53VTc2SGRBalZaQmtKQUJVcDMyM3BSVw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-27T03:27:50+00:00",
-      "summary": "全球首款AI智能体手机！努比亚NaviX Ultra黑色版官图发布  Sohu",
+      "published": "2026-07-27T03:03:26+00:00",
+      "summary": "14.1倍领先！中国AI大模型周调用量领跑全球：小米MiMo-V2.5登顶，Claude近一年首次全线落榜，美国仅1款模型上榜  东方财富",
       "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Opus 5发布，砍掉了Claude Code 80%的系统提示词 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlMMkZiWkcwUmdXa0V2bEo4Q0pTUnN2eWpjX1F4UnNMU0tIYVN5RjEzU25kLV9KS25EN3dDelpoMF9YTm1OTzJscU81VlBHdDUzMEI3NjVrcUxLS183TW56UXU5LW85emtBQUFOWVdXX0EweUp5bkZBZWNGVEx0Tml0bEtrTzU2RDRTZg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-27T02:53:27+00:00",
-      "summary": "Claude Opus 5发布，砍掉了Claude Code 80%的系统提示词  Sohu",
-      "categories": [
-        "anthropic"
+        "anthropic",
+        "breakthrough"
       ]
     },
     {
