@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-07-31T17:05:14.875343+00:00",
+  "updated_at": "2026-07-31T18:53:36.151054+00:00",
   "items": [
+    {
+      "title": "继OpenAI后，Anthropic承认AI模型测试期间失控入侵三家外部机构 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3JycmdqRmZtUzdHclk1aWdtaWNPYW1sM1JrSXFpeXVLOEFuS3MwU3g5NWdFbWxxckVMTFZPMkNZUExFTkxneHI0Y1dVNG1HdjRSZWRMN29vU05oUjBlc2Z4T1pwZkZROENWUzVTWmoxemlKS1Z2Wndma3RTZXVQWWVqV0dneGZHNkNLOEttOXhnRU5tRTE1ZjRIUWh0QWF1?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T18:32:01+00:00",
+      "summary": "继OpenAI后，Anthropic承认AI模型测试期间失控入侵三家外部机构  新浪财经",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "又出事了！美国AI巨头宣布旗下大模型失控 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0NMRXhHcXNYc1llNEcwYkRURXRueVdEMWJ4cHFnS3Q1aWJyVHdpdVRacHNzN1RFcEEzcmtxQTM3M0JJNHprc0RaN19FVlJ2YWRqMHh1SEMyTmVPY09zUGRNaHNtT3dDQUxwZ2FHdFR5Q2NQVEVESUtFN3JhNkhqSlRaWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T17:46:17+00:00",
+      "summary": "又出事了！美国AI巨头宣布旗下大模型失控  新浪财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta3REWDNDODZpQ0lkczR2dFFTanZHMnlUaVRxV3FlWXVOM2F4YmFKT0dtRnZsbTVjTVc3RTFHREszamc0ZjhPc041UWVsV1BCMGZRRFVFN2EtRFBmTHZpNHFBT19PT2p1bHdnMmhNSzFvQ29iM08xb1ppXzBLTmc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T17:26:25+00:00",
+      "summary": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展  手机新浪网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
     {
       "title": "Token定价相差数倍！大模型行业亟待建立计量标尺 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JaDB6OU4wMFNhZEFLb1QwcXMxRURReC1CRWxoX2Z4dzdOb2drU1FuZ3Qwa0RqYVlBb2JDeTkwSFhibktzVkdrX3dwUF9IaHJxbHdDNHhxX2NhbXZSUUw4NUt5eGRUc1k3cnQzSWRRaDlEOUJuMHRpaQ?oc=5",
@@ -12,21 +42,21 @@
       ]
     },
     {
-      "title": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LZ0RJV1R5d3pJZDZLdFhRX0lIdjNRX0wwdnQyMVRTa0ozbW1iQUpWbjFwQWJpTV9PYjNCYWtfdHhyZFJMOXBOX09XZ2p3aXViVEdDX0cwbzdOdWdQVGRBeg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T16:30:00+00:00",
-      "summary": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展  thepaper.cn",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
       "title": "华为深圳场景化解决方案发布，破解“模型强、场景弱”难题 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yS3FkVXNDSWhYdVdoYlI5azFDQTRnSk96bnpsNHdsQUx4Z0N3ajZoRWExZ21HT3BMY3ppWko4YXJmTXY0emVjeS1RZWx4Zm5WblNDWElJY0FRaEF1SjZicWtYOGN4QQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T16:22:55+00:00",
       "summary": "华为深圳场景化解决方案发布，破解“模型强、场景弱”难题  东方财富",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "国产大模型四连发|minimax|字节seedance|deepseek|华为|国产大模型|生产链路|推理成本_新浪新闻 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xTS05anFtUEZkYUFJV3JFNUdQQXZsMk9ranNDY2FQZTRNal9hNHprV200T0ZvS2hsRHhJTm1Sa3FHblp5WUVRNm95TkxGMXBjY204LU1QbW5udjlqQXNBNXBWSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T16:20:00+00:00",
+      "summary": "国产大模型四连发|minimax|字节seedance|deepseek|华为|国产大模型|生产链路|推理成本_新浪新闻  手机新浪网",
       "categories": [
         "other_big"
       ]
@@ -82,16 +112,6 @@
       ]
     },
     {
-      "title": "具身智能走到哪了：缺数据是共识，大模型“根基不稳” - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52MXJXamdsQU5IdUcwbGRPRWFOMWRUR2VXUHMtaW5qb3RHamg5Zi1XaXI2UlJEZjZPZDkyM1FhNGp6WktJZEhMS3BKWHM3TmJNR01ZLUR1OHd5b21TOHNYekJjLUI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T13:11:00+00:00",
-      "summary": "具身智能走到哪了：缺数据是共识，大模型“根基不稳”  新京报",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "一个模型控制机器人从头到脚所有运动，谷歌发布新一代机器人基础模型 - 麻省理工科技评论",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2WEtTa0R3Tl85ZkJiUnJWUWdtOU9FRV95dG9GRUkzamFpTDZEajRxVHFsQnFqNVBjOW43eTVIdElaR2h5eTR5aHJPSU1ta2xvam1Kd244UQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -99,16 +119,6 @@
       "summary": "一个模型控制机器人从头到脚所有运动，谷歌发布新一代机器人基础模型  麻省理工科技评论",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "Anthropic称，在网络安全测试中，Claude成功入侵了三家真实公司 - Notebookcheck CN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14dWVjdW5FZlVNQUZOcExTOHFTR0hILWg5dmY4dEJjZE1wbXpoLUxhZGltakdwX1hwYWZYN0QxUTNpQ1IxR0FYRVdZYTFuVndXZUdIVUlNUFVZNXJqam1fNGxLMTJsWTJXVG1tYURlZlRzUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T12:50:00+00:00",
-      "summary": "Anthropic称，在网络安全测试中，Claude成功入侵了三家真实公司  Notebookcheck CN",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -122,11 +132,21 @@
       ]
     },
     {
-      "title": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓 - 安全内参",
+      "title": "ChatGPT突发封杀令，全球AI写手一夜断粮 - secrss.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZQXJUS3pyLXBQY05VSGJ0VmRyak5qbm1fYlVZU3BEbXdIdXVmX2d5S25RYkRpNmFRYUt4N2pBeW02bmx0ZjRDbXBLY0FqZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T12:12:21+00:00",
+      "summary": "ChatGPT突发封杀令，全球AI写手一夜断粮  secrss.com",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓 - secrss.com",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HWlJYeXpPd3I5bGxlYzM0RVZiN0lObjRVZGRaeS01bXNwWUxvQ3RjWXRQVUtYM19QX2NJZUlFN3hFN25zWnlFdThvUUNOdw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T11:57:14+00:00",
-      "summary": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓  安全内参",
+      "summary": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓  secrss.com",
       "categories": [
         "anthropic"
       ]
@@ -173,13 +193,13 @@
       ]
     },
     {
-      "title": "印度专家谈印度为何没有自研的AI大模型：都怪中国把大模型开源了 - SOHU",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVm0xc0h6MG1vQnEwZnFQUXVTaUNRN2g5YzVROE5SLVpiVkdhT2ZsbnAzOHBKTk00aG1YRTBFNFJFQU1kNkVOeGFnUnp6dG5kMDgzcGpmaEstWHJ5NUw4OHk3czFscXJtZlJvVnpjaDNzYy1zRllSWF9ia05GblVJZ1lLMWNZalFBZlNmSQ?oc=5",
+      "title": "跨界“互动”，免费开放，福建舰大模型全国巡展深圳站启幕 - SOHU",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkkyMjhjcFZCaUJqZ1lfeGRZUXBSMVJYNUpmcjJGREN4NEoyekttaThHdnRUbjFZbXhCMzJ5Nmp1dFF3MlFPTExQVllBdzdkcUN3YVRkRGgzQ1JrM25Hd1hyNHB0c0RPYURZME95UHlQWDNETWJEVVRYTjNQRldHNHY2Sm5CcF9U?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-31T11:11:00+00:00",
-      "summary": "印度专家谈印度为何没有自研的AI大模型：都怪中国把大模型开源了  SOHU",
+      "published": "2026-07-31T11:12:19+00:00",
+      "summary": "跨界“互动”，免费开放，福建舰大模型全国巡展深圳站启幕  SOHU",
       "categories": [
-        "open_source"
+        "other"
       ]
     },
     {
@@ -244,33 +264,13 @@
       ]
     },
     {
-      "title": "数据价值×物理AI时代，AI制药需要怎样的智能体基建？ - 动脉网",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrTGFFT25mSHZQU1RoZmZPc0ZQWjNoQzZ1VVZHQkUzbzhNRnBfZ3BsejNtaGdXNkVlQlpfNlZueU9lX2VoRS0w?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T09:55:00+00:00",
-      "summary": "数据价值×物理AI时代，AI制药需要怎样的智能体基建？  动脉网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧 - hub.baai.ac.cn",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HMkhKMXc1MXI0WUZVYkxzaHVoU0QyNmNZbnhoQ0ZrMVpOaHB6cnBlOTJDbnY4eklmVWZxWmhLMGlsN0UyLTNjUQ?oc=5",
+      "title": "工业智能体落地，不是从\"大模型上车\"开始！ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MSDNmb24yOWQ3UXlkRVhxX2RXdDhrZGZHR1NKWUo2S1p6WlREZi1TZlAxX0NHc2E3bFdTU25XVVU3Mm1QNDJ5cWtPb3N6eVVwT3V3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T09:40:00+00:00",
-      "summary": "Claude Code之父：Harness保质期只有半年，解开缰绳吧  hub.baai.ac.cn",
+      "summary": "工业智能体落地，不是从\"大模型上车\"开始！  电子工程专辑",
       "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "机器人一夜觉醒，谷歌最强大脑Gemini Robotics 2上线了 - SOHU",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1ZDWGR0WXlBMnpGdmsxUk9HR1FWbXNtOGc4dTB3UzR6NDB3WkpsS2FIWlZrcTBpQVl0dldyc1dFV0JWcERsZU9QdFUyTnJhM0RHYVozVjBfajYyZHRuRlM5MUEtcy1LV0FxS2pFN1ZodE9wUzRwNGJGV3EyNDRmOGNDTUtyRFZp?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T09:33:28+00:00",
-      "summary": "机器人一夜觉醒，谷歌最强大脑Gemini Robotics 2上线了  SOHU",
-      "categories": [
-        "google"
+        "tools_apps"
       ]
     },
     {
@@ -294,16 +294,6 @@
       ]
     },
     {
-      "title": "谷歌最新AI 大模型Gemini 3.5 Pro 短暂上线Arena 竞技场，已延迟数月- 产业链 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PR19ZX1FhSmRad2tZNkZsLUZMaWs0ZVpPSzBTTWJxcmhCOWE3akhDQmhyRkhUYlZjWVlwS3hLLWVVQzFXTF9qbVdvNHNUcFFlRDBuenNHZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T07:46:57+00:00",
-      "summary": "谷歌最新AI 大模型Gemini 3.5 Pro 短暂上线Arena 竞技场，已延迟数月- 产业链  光通信Pro",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "360发布新一代企业智能体工作平台“纳米Work” 加速AI进入企业真实业务场景 - SOHU",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnZlYTBIbmdleWZreDRCZ3R0ZGhSeW1WcGZSZFUzZC1idEQ1TXFuX1pSMm1NSG1USjNFNmhPY0FiOW1TdjhjdUNJS3Y0dGM0NEtqUExSMDl6aE8xblFIRS16QzBzZGlEVFkwV0JWdWMxSFpDbEQzbGxtUUYtb2pyTmswUUNhd0FR?oc=5",
       "source": "Google News - AI(中文)",
@@ -314,11 +304,11 @@
       ]
     },
     {
-      "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini - hub.baai.ac.cn",
+      "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUZ2dFclBpNHpwOEh0bXVLcmMxTnVJaUxLR1lCVEtaaFRHOEdGdnBGaGJWb1JnWWdRWnV0RHJNcS1UZFlXUVFXXw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T06:30:00+00:00",
-      "summary": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini  hub.baai.ac.cn",
+      "summary": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini  智源社区",
       "categories": [
         "anthropic"
       ]
@@ -363,6 +353,16 @@
       "summary": "降价 80%！OpenAI 下调 GPT-5.6 Luna 模型费用，性价比超 DeepSeek V4 Pro  手机新浪网",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "智能体互联标准体系正式发布 中国电信强化安全管控护航产业发展 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1R0bzZyU3FYRmZoUTZoZlpmM0hoRVlYTFF5N3RHclRTTEd3UjVVQXQ5NEpFb2JUMG5jYmkzc21PNGpVSDRRaVRaM0RhVXU3WnhjZE8xcFFabklQQU1OLXhkRnh5cWw0UmZOYzhuRzJnd3ZIcWxjNmtvVF9ieER6enhseGxJYVRMS0g5ZjlaTFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-30T19:55:00+00:00",
+      "summary": "智能体互联标准体系正式发布 中国电信强化安全管控护航产业发展  手机新浪网",
+      "categories": [
+        "tools_apps"
       ]
     }
   ]
