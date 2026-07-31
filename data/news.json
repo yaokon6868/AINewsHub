@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-07-31T18:53:36.151054+00:00",
+  "updated_at": "2026-07-31T20:21:15.773610+00:00",
   "items": [
+    {
+      "title": "人工智能企业Anthropic、OpenAI接连发生网络安全事件，这一情况折射出美国在网络安全领域存在明显的漏洞与风险。近期这两起头部AI厂商的安全事故也引发了行业对数据防护、系统安全建设的广泛关注，毕竟这类掌握大量核心技术与用户信息的科技企业一旦出现 - 汇通网 Fx678",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VlZMQ1V5ODBpSThZY0lJQ0dPNGxQcmFQNlZTRWFpYmMzRC1UNWZoSkNYQzI2UGI4RE1TOWlxOGRkUXFrV1ZBTHA5cWNQRS1YT0xPUWpuWnlLTFhZNnR3NkpFazFCVXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T19:48:10+00:00",
+      "summary": "人工智能企业Anthropic、OpenAI接连发生网络安全事件，这一情况折射出美国在网络安全领域存在明显的漏洞与风险。近期这两起头部AI厂商的安全事故也引发了行业对数据防护、系统安全建设的广泛关注，毕竟这类掌握大量核心技术与用户信息的科技企业一旦出现  汇通网 Fx678",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "继OpenAI后，Anthropic承认AI模型测试期间失控入侵三家外部机构 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3JycmdqRmZtUzdHclk1aWdtaWNPYW1sM1JrSXFpeXVLOEFuS3MwU3g5NWdFbWxxckVMTFZPMkNZUExFTkxneHI0Y1dVNG1HdjRSZWRMN29vU05oUjBlc2Z4T1pwZkZROENWUzVTWmoxemlKS1Z2Wndma3RTZXVQWWVqV0dneGZHNkNLOEttOXhnRU5tRTE1ZjRIUWh0QWF1?oc=5",
@@ -22,16 +32,6 @@
       ]
     },
     {
-      "title": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta3REWDNDODZpQ0lkczR2dFFTanZHMnlUaVRxV3FlWXVOM2F4YmFKT0dtRnZsbTVjTVc3RTFHREszamc0ZjhPc041UWVsV1BCMGZRRFVFN2EtRFBmTHZpNHFBT19PT2p1bHdnMmhNSzFvQ29iM08xb1ppXzBLTmc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T17:26:25+00:00",
-      "summary": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展  手机新浪网",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
       "title": "Token定价相差数倍！大模型行业亟待建立计量标尺 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JaDB6OU4wMFNhZEFLb1QwcXMxRURReC1CRWxoX2Z4dzdOb2drU1FuZ3Qwa0RqYVlBb2JDeTkwSFhibktzVkdrX3dwUF9IaHJxbHdDNHhxX2NhbXZSUUw4NUt5eGRUc1k3cnQzSWRRaDlEOUJuMHRpaQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -39,6 +39,16 @@
       "summary": "Token定价相差数倍！大模型行业亟待建立计量标尺  新浪财经",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展 - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LZ0RJV1R5d3pJZDZLdFhRX0lIdjNRX0wwdnQyMVRTa0ozbW1iQUpWbjFwQWJpTV9PYjNCYWtfdHhyZFJMOXBOX09XZ2p3aXViVEdDX0cwbzdOdWdQVGRBeg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T16:30:00+00:00",
+      "summary": "玉渊谭天丨从发改委连续三场发布会看中国人工智能发展  thepaper.cn",
+      "categories": [
+        "breakthrough"
       ]
     },
     {
@@ -59,16 +69,6 @@
       "summary": "国产大模型四连发|minimax|字节seedance|deepseek|华为|国产大模型|生产链路|推理成本_新浪新闻  手机新浪网",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "当教学智能体“渗透”大学校园|北京理工大学|江苏省|南京市|学生|课程_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80UVdWNGhkenVMNXlMR2hQYWxYSFAzRUNWRm1wd1F1Q2JNeWgydVp3TFhBUmxidy1Qb1ZQOGpMWWl0bWVyUzRBRHE2ZHMzTHJ1aklmVjg5OTVuRFpXYWFmZWxneXUzSl9vZG5mYW1NaW85TlM2MS1YUg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T15:59:36+00:00",
-      "summary": "当教学智能体“渗透”大学校园|北京理工大学|江苏省|南京市|学生|课程_手机新浪网  新浪财经",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -102,11 +102,11 @@
       ]
     },
     {
-      "title": "Claude Code到底有多费token？对比实验来了：三大框架最多差30倍 - SOHU",
+      "title": "Claude Code到底有多费token？对比实验来了：三大框架最多差30倍 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkNEZllDbXM0TjdiSHZpTEJrOHh1ODhSMzRyU2JxVlRVMExUdFdmNXdySWQtbU1ndXYxMTYwcHh0cGM3ZmtzSENLSUp2MFlXMnQ2YW1SNVlBVEJKTnVoSmVrZkkwM3U2dnNqODJxWmJWejRuUDdHcTgteTM3QUU0X2p6STd5Y2VnLXY1aw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T14:04:59+00:00",
-      "summary": "Claude Code到底有多费token？对比实验来了：三大框架最多差30倍  SOHU",
+      "summary": "Claude Code到底有多费token？对比实验来了：三大框架最多差30倍  Sohu",
       "categories": [
         "anthropic"
       ]
@@ -132,21 +132,21 @@
       ]
     },
     {
-      "title": "ChatGPT突发封杀令，全球AI写手一夜断粮 - secrss.com",
+      "title": "ChatGPT突发封杀令，全球AI写手一夜断粮 - 安全内参",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZQXJUS3pyLXBQY05VSGJ0VmRyak5qbm1fYlVZU3BEbXdIdXVmX2d5S25RYkRpNmFRYUt4N2pBeW02bmx0ZjRDbXBLY0FqZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T12:12:21+00:00",
-      "summary": "ChatGPT突发封杀令，全球AI写手一夜断粮  secrss.com",
+      "summary": "ChatGPT突发封杀令，全球AI写手一夜断粮  安全内参",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓 - secrss.com",
+      "title": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓 - 安全内参",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HWlJYeXpPd3I5bGxlYzM0RVZiN0lObjRVZGRaeS01bXNwWUxvQ3RjWXRQVUtYM19QX2NJZUlFN3hFN25zWnlFdThvUUNOdw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T11:57:14+00:00",
-      "summary": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓  secrss.com",
+      "summary": "Anthropic模型也失控了！3家企业遭静默入侵，被通知后才知晓  安全内参",
       "categories": [
         "anthropic"
       ]
@@ -183,31 +183,31 @@
       ]
     },
     {
-      "title": "一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到 - 雷峰网",
+      "title": "一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到 - leiphone.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SdldwRWJiQ1MtcTgxLVdfUzR5ZDl3OVFvRk5PYk81WWxLeHRVam1mQ2hLeDl2WjlXZlctZzNfZGp2ZFAxbEtkT1FETG5xQ0ZrcXVGUW1IWTkza1NyWlVoNTYzTmZzTDZqUWc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T11:16:00+00:00",
-      "summary": "一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到  雷峰网",
+      "summary": "一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到  leiphone.com",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "跨界“互动”，免费开放，福建舰大模型全国巡展深圳站启幕 - SOHU",
+      "title": "跨界“互动”，免费开放，福建舰大模型全国巡展深圳站启幕 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkkyMjhjcFZCaUJqZ1lfeGRZUXBSMVJYNUpmcjJGREN4NEoyekttaThHdnRUbjFZbXhCMzJ5Nmp1dFF3MlFPTExQVllBdzdkcUN3YVRkRGgzQ1JrM25Hd1hyNHB0c0RPYURZME95UHlQWDNETWJEVVRYTjNQRldHNHY2Sm5CcF9U?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T11:12:19+00:00",
-      "summary": "跨界“互动”，免费开放，福建舰大模型全国巡展深圳站启幕  SOHU",
+      "summary": "跨界“互动”，免费开放，福建舰大模型全国巡展深圳站启幕  Sohu",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "为什么国产大模型更便宜？中美主流大模型能耗实测对比 - SOHU",
+      "title": "为什么国产大模型更便宜？中美主流大模型能耗实测对比 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU45RzIxc29na2dVQk1uazFQZ01VYWZNdmxVZEFrQ0dIS2l1aF9qSEhYaFFUamFPYl91VU15aG5HZU9FdTkzd3lDSEdSOUZmcUNRSzBwbm5LZUxQaGNfN1pJenFrWUZGRFV1Q2xORWhGWjhVM0ZWelRVS0tOVmNCTmo2aTI4dHhF?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T11:03:49+00:00",
-      "summary": "为什么国产大模型更便宜？中美主流大模型能耗实测对比  SOHU",
+      "summary": "为什么国产大模型更便宜？中美主流大模型能耗实测对比  Sohu",
       "categories": [
         "other"
       ]
@@ -233,11 +233,11 @@
       ]
     },
     {
-      "title": "美国AI巨头接连出事！Anthropic宣布Claude失控自行入侵组织系统且未被发现，OpenAI刚失控过 被袭公司用中国AI模型化解危机 - SOHU",
+      "title": "美国AI巨头接连出事！Anthropic宣布Claude失控自行入侵组织系统且未被发现，OpenAI刚失控过 被袭公司用中国AI模型化解危机 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDlqR3IwMHdHRTFUYUEyUFZNSkdrVTA3ZVZZQWhpSTZHYXNaZWRFajhlM1Q1azNISjNtSTM3Wk1hTm9YMWo3THZqWVRhYm5zdUQ2UlB1Vmh5cENZSHVYYlFVeUN1TlhHMHVoaG1iVXBlaGVCdklfTE5HSFNpellxd3ZQaF9pYXpr?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T10:13:48+00:00",
-      "summary": "美国AI巨头接连出事！Anthropic宣布Claude失控自行入侵组织系统且未被发现，OpenAI刚失控过 被袭公司用中国AI模型化解危机  SOHU",
+      "summary": "美国AI巨头接连出事！Anthropic宣布Claude失控自行入侵组织系统且未被发现，OpenAI刚失控过 被袭公司用中国AI模型化解危机  Sohu",
       "categories": [
         "anthropic"
       ]
@@ -261,6 +261,26 @@
       "summary": "特斯拉正式上线豆包大模型  新浪财经",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "OpenAI刚降价80%，DeepSeek V4正式上线截胡 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbllVZkNPdHR5S01wdTZTYkp2Z0pPSXZYZEpqUS1fbnhBbjRVM0lkWXFweWFvV0h2MFA2MVRqVDF0SkhoanZuX1F3LTQxaHdzeFRVT21ibVVLSGlMOXp6VTdBNm01NnVGU2VMTk5yZGg1SUhSMzR4NGZqLUZpWXNrU2F5bTV0YkZ5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T10:00:13+00:00",
+      "summary": "OpenAI刚降价80%，DeepSeek V4正式上线截胡  Sohu",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "数据价值×物理AI时代，AI制药需要怎样的智能体基建？ - 动脉网",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrTGFFT25mSHZQU1RoZmZPc0ZQWjNoQzZ1VVZHQkUzbzhNRnBfZ3BsejNtaGdXNkVlQlpfNlZueU9lX2VoRS0w?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T09:55:00+00:00",
+      "summary": "数据价值×物理AI时代，AI制药需要怎样的智能体基建？  动脉网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -294,11 +314,11 @@
       ]
     },
     {
-      "title": "360发布新一代企业智能体工作平台“纳米Work” 加速AI进入企业真实业务场景 - SOHU",
+      "title": "360发布新一代企业智能体工作平台“纳米Work” 加速AI进入企业真实业务场景 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYnZlYTBIbmdleWZreDRCZ3R0ZGhSeW1WcGZSZFUzZC1idEQ1TXFuX1pSMm1NSG1USjNFNmhPY0FiOW1TdjhjdUNJS3Y0dGM0NEtqUExSMDl6aE8xblFIRS16QzBzZGlEVFkwV0JWdWMxSFpDbEQzbGxtUUYtb2pyTmswUUNhd0FR?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T07:43:14+00:00",
-      "summary": "360发布新一代企业智能体工作平台“纳米Work” 加速AI进入企业真实业务场景  SOHU",
+      "summary": "360发布新一代企业智能体工作平台“纳米Work” 加速AI进入企业真实业务场景  Sohu",
       "categories": [
         "tools_apps"
       ]
@@ -314,11 +334,11 @@
       ]
     },
     {
-      "title": "歌华有线发布“智家·全端通”AI智能体产品 - SOHU",
+      "title": "歌华有线发布“智家·全端通”AI智能体产品 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzZ1dml0SFc2VHh5OW5pZmRScFM0YXU5VlR6N0cweFZiZUprWTVXNFo2RlA0VGtKQWY2SC1LM1BhaFcxQTA5SHFqemJfa2h5Uk9yMXNEQWgxQVNXZXdtdFhibGxLeVFHM3ptOS00WkpuNGJabnFIZXR0RmN2bTcxaTdUYlktQkk1MVZEMw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T06:07:21+00:00",
-      "summary": "歌华有线发布“智家·全端通”AI智能体产品  SOHU",
+      "summary": "歌华有线发布“智家·全端通”AI智能体产品  Sohu",
       "categories": [
         "tools_apps"
       ]
@@ -335,17 +355,6 @@
       ]
     },
     {
-      "title": "谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMERiREhnUHc3YXNoY05zREdxUEtDdmRKYkIydFM0VC0tblR1VmlWUjU4SHpSbU13aWdSX3VMbXZNRTh2YWFXaGJCdmF3am9OakFCV2pmMi1xa1RqdFRwX1h1RG9TSHVmeVBrQWFacFpiY0JHVEtKcXptX1FBUHozZW43QXg1YnVtcjEwMks3Ml9yNWx2N1lHUTBXYWpMTWk2aGVET3ZDS0JicnBMcDJ4cXZ3aXZhdUQ5LXN1SnJ1cmJjdzJTN0hfYW9BSkNnV2FWTHhXTnRqOTFHUWdoblRTODhOaEtnUXl4M2c0YWhSZWdCenk0VDBhXw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T00:11:39+00:00",
-      "summary": "谷歌发布最强具身推理模型Gemini Robotics ER 2：支持连续视频理解与多机器人协作  手机新浪网",
-      "categories": [
-        "google",
-        "image_video"
-      ]
-    },
-    {
       "title": "降价 80%！OpenAI 下调 GPT-5.6 Luna 模型费用，性价比超 DeepSeek V4 Pro - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQVZyTFp3NDI2aGlJU3RMSnhBenh1MDVFMzY4VllPTGVRT1hnOXpIT2dBWGpSVEMtcjZfZFIzdEN4MDZVU1haUV9DeFFRT04tYXBhUWU2MlZFeDJwZWpkQUVZNEY1R00waTZnMHZIRDI1VllQbVZuY1NQMFVyblQ1dXRkTE00bVJNM2RoVy1uaXRnYjB2ck81YmhhdVk3Nzh0XzVvNVpBeVd1Snhka2ZBd0pWTV9JeFFsOVFjMmRVaFQ1VFYxSmJpckVaanFGak9SaDlSVTdpVHJoR2hTRUNnMHJCUUdXcVNZaGJzREFRXzZ2clNhYktsX2RhVUhBTFFxNWZoS3BTME4?oc=5",
       "source": "Google News - AI(中文)",
@@ -353,16 +362,6 @@
       "summary": "降价 80%！OpenAI 下调 GPT-5.6 Luna 模型费用，性价比超 DeepSeek V4 Pro  手机新浪网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "智能体互联标准体系正式发布 中国电信强化安全管控护航产业发展 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1R0bzZyU3FYRmZoUTZoZlpmM0hoRVlYTFF5N3RHclRTTEd3UjVVQXQ5NEpFb2JUMG5jYmkzc21PNGpVSDRRaVRaM0RhVXU3WnhjZE8xcFFabklQQU1OLXhkRnh5cWw0UmZOYzhuRzJnd3ZIcWxjNmtvVF9ieER6enhseGxJYVRMS0g5ZjlaTFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-30T19:55:00+00:00",
-      "summary": "智能体互联标准体系正式发布 中国电信强化安全管控护航产业发展  手机新浪网",
-      "categories": [
-        "tools_apps"
       ]
     }
   ]
