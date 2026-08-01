@@ -1,6 +1,47 @@
 {
-  "updated_at": "2026-08-01T04:53:09.882752+00:00",
+  "updated_at": "2026-08-01T07:28:44.510892+00:00",
   "items": [
+    {
+      "title": "中国把AI价格打下来了，中国开源大模型正在改变AI历史 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGxiYlFQbkRXTWxZcG1BMGFsTVRBTURQX0RsRmNfdUlHcXMxU0poRjB3VW5OcUpKdEVjV3JhN0tXVXAwLWFpWVhQUWxWQUNqbmwxVlBoa0xib3pvYzg0Y2JEWFYxeXQxaUN3d0lEM0phQTVzU1BYMXhHcUg2NlVvNU9kVVZQTDJuVWpYNQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T06:37:00+00:00",
+      "summary": "中国把AI价格打下来了，中国开源大模型正在改变AI历史  Sohu",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "“材智讲堂”（第二期）在京召开 聚焦原材料行业工业智能体发展 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCNFZqelp5WkJXLVBBR1pZeGFVOGlQODRZbzlsS21IMjVjdmh5ZUtlUWJtbzlsR283cU11ajcwU3RSNHBPbGVxZmVOM0lHcGE1cEFlLXZRcHZzdVJhZk9TeQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T05:51:00+00:00",
+      "summary": "“材智讲堂”（第二期）在京召开 聚焦原材料行业工业智能体发展  光明网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "传阿里千问大模型已进特斯拉中国车机内测，号称能听能答、能控车 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GYVVsZzNhMmdKTVoxazNFbElZdDJlRVVZclFxS183a2p4MDBxVE0yNGg1dUdnM0VsMlRMcXBBTTJVM1lOeVlXcFc3V3pKNmVibG9zRFZtamh1QnphTWdPZk5qOUgycnBtM2szTTNoSUktZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T05:24:00+00:00",
+      "summary": "传阿里千问大模型已进特斯拉中国车机内测，号称能听能答、能控车  手机新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "OpenAI越查越多，Anthropic也承认了：智能体越界时，两家居然都没在看 - 网易新闻客户端",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ01Rb1lDS1IyVUxKbVRYdjVpeUpOT3FGckJlVlU2TWVxdUE5SmVZVHEzSG83V0R4dEItajN0eWhJbmNNdUY3R005WUt6YmEyYUYzYzZTaFJWR2gzcWpxcUIxeFJuWkRkQS0wMUdQTWZaQTNEQXZtcU9iWEE5T0RMeC13?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T05:06:10+00:00",
+      "summary": "OpenAI越查越多，Anthropic也承认了：智能体越界时，两家居然都没在看  网易新闻客户端",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
     {
       "title": "OpenAI：模型已覆盖全球超10亿活跃用户 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZVg5R3ZhYzctOGt5emI0OGJwb3RkemVHd0Z2VWw4clBTMzViNF94ZnowbWhyUGhzZFdpampoeDdiWVdVNXRPTUJoa25xUWdiRTg5Y1hVWlBaWURhc0N0NVlGVUFOTGEtNVFSWXhPd1RXWXJaU0RLWUhfTE1RU0NoOGdvTzZvSlJheEZBYUctWDg5MzVPU1ItVTlJQUZOQnlrazBCUzUxck5DdHlvUjBpelMtSkh2bDV6ZFlEYVFzVFlFTUo0VkZjNGR6NDMzY3ZmRTJuempxMm5Bam9HUUUzcm9VSGdtdnpQMUpZRFdrVFhkWkJuYWl6R0ZCYVk2OWltanZR?oc=5",
@@ -9,17 +50,6 @@
       "summary": "OpenAI：模型已覆盖全球超10亿活跃用户  新浪财经",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "谷歌首席科学家Jeff Dean：数据搬运比计算贵 1000 倍，大模型推理该换芯片了 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jb0U5c09qVlYxQVo0amtDa3c4OEhweHIyWjZtLWVCbUxmc3EzcjFJUU5GYTlJV1RIckRBVzJtUFM4UXhFQ00wRlhxc1FLYnI4V0FzYjRBUzVhTW0xYmdCSGc3ZkNNRW1faGkzeldtTGYxNmlJWVd1TGE4SXdHRWM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-01T04:24:31+00:00",
-      "summary": "谷歌首席科学家Jeff Dean：数据搬运比计算贵 1000 倍，大模型推理该换芯片了  手机新浪网",
-      "categories": [
-        "google",
-        "chips"
       ]
     },
     {
@@ -34,13 +64,14 @@
       ]
     },
     {
-      "title": "特斯拉语音大模型已上线，四款人声五种模式可切换 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtS0JQQnpZY3RwVnVOb205bGRlR3QtMVZ5azk1NW9sTEpFdEZOVlpjUVFIZWk3ODVxUnJVSzZkdnpaRy1CSDhMVUlyZjJ0WW9JUTZRTVEwMk1lSkFEVzlWVnZDUWVJODRpME5YWng2TGlsdw?oc=5",
+      "title": "DeepSeek把AI应用创业者的春天带来了| 律动BlockBeats发布于币安广场 - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtRjBpTk51V1ZDdnNSRURENlZVQ2M5VUhTd2hVb2xGaWF6MERHd2ctX05Ic3UtODM5dk5ja0tmYUNVZGEtS29xNkpnNnlpdEhKTW9ncjFfREpVSWQxTGZ2TXIzZDV0NXBR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-01T04:11:03+00:00",
-      "summary": "特斯拉语音大模型已上线，四款人声五种模式可切换  手机新浪网",
+      "published": "2026-08-01T03:49:21+00:00",
+      "summary": "DeepSeek把AI应用创业者的春天带来了| 律动BlockBeats发布于币安广场  Binance",
       "categories": [
-        "other"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -156,17 +187,6 @@
       ]
     },
     {
-      "title": "雅加达华文教师联谊会举办AI赋能华文教学专题讲座——从DeepSeek到智能体与工作流，探索人工智能教育新路径 - Shangbao Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmg2QlNzWmY4RG5jSmdHRzJzOHhXYUFOOXhDMVhZbTBzdTZLQWpFMGVnTW93c3AtQWhqWXlMVkk5NlYyUDkzVmpNdGFBTWRHeWQ0cWpEMS1wRnpudGNGWFlEaW52MWZGNEVEejA5OGR0YVpJVUFOOE1uamY0WkVldXRiaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-01T00:46:00+00:00",
-      "summary": "雅加达华文教师联谊会举办AI赋能华文教学专题讲座——从DeepSeek到智能体与工作流，探索人工智能教育新路径  Shangbao Indonesia",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "B2B智能体开发哪家专业？2026年最新测评 - 手机网易网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZLUxGbUwtV1hFQldwS2UxWHd2Q2M3TEVXR0d2dTFRMWVMTXFVRFRLcms1YU1JRWNmVXpqSGJmd3AySzRhTWFVQlFoUl9ZVjdab0VFYno3SlhXSThjam9JMl9n?oc=5",
       "source": "Google News - AI(中文)",
@@ -209,26 +229,6 @@
       ]
     },
     {
-      "title": "又出事了！美国AI巨头宣布旗下大模型失控 - 四川在线",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByWEdNRmZiU09tNjkxNGFLMVFocmdMNDZiUU5taDMwdll0c0JaQ0ZwZnVBRS1GT24wT0xRWDNFeFNJU1NTbDh3dUpWTEJqMktlOEtDc0dhUzlzZ0tXR1Bpag?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T23:00:34+00:00",
-      "summary": "又出事了！美国AI巨头宣布旗下大模型失控  四川在线",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "谷歌：Gemini Spark 向美国以外 Google AI Pro 用户推出 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmFldlVfNmlNbVZkeDlYSHBSY3NiTjJiV09RRDFnbGZGcmExT2xJdU95VklqZGUyeW4xTFlpaUNVeHpISUNaYXdkcHJWeHhXZFpPc1FqWEQxUlFXWHRjcUJLdmozcnBDRW9lcC1MNDRJUzhuVEExcXU5cXpsakZReWFn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T21:34:21+00:00",
-      "summary": "谷歌：Gemini Spark 向美国以外 Google AI Pro 用户推出  video.sina.com.cn",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "Anthropic公司披露，其Claude人工智能模型在测试出错后入侵了真实系统 - 美国之音",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa29JUDFGcV9zN0lSQWVUblVWdTEwdXRlLUJOMnVCUkdnTzBZWEpFWlViSklGeDVYTGYyQ0xUMzFrZG1mcGZMU3VBVkFsQndFVERIczJITlVPZFNNLWdQakM5VG1GekRlejVqMHdOWjhZMnRSWTlVaG9EVEZvaUtBYkZpcjFXSWNoSUNPWjhRY3pGbUQ5UlBvSE5vWU1hYkd1OFUwSndwUGN3MHFKMEFnYmxIbmYyYTR3QVd4Z0ZDV3hVQzNNWlBrZThSUlFnbE3SAdIBQVVfeXFMUGk0cWJuV1o2c0pVZ2tuR0xwdUc1NHRzYW9WdTUtZzVuWGJwUmFCM0tZeHh3cjFHV0NKZnpQYW1QdENhdTc5Y3V5d01ndTZ3cHpjbWJKSmRPSkd5S1J3OEtjMXktTXJPLThhS1l4akphbkUwNDdkbWV4MHRJem13OEVxT1NwT0djWmtlM1RyTFpRUWl6ZUI3anFTdjhnazBNREJ0Y3U3cWhnanNHVWEyeXRROXpNVFhSRG9TUlZQeElMS0RsbkdTZm44d1N3VkxNTm1R?oc=5",
       "source": "Google News - AI(中文)",
@@ -239,11 +239,31 @@
       ]
     },
     {
+      "title": "又出事了！美国AI巨头宣布旗下大模型失控 - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGR2blJmTFlweTExYU1UR0d3Q0IyMUlVaTFxWl9BSlBNeG9WTU9GWGRiLWZBRm1JWWpENk1RVWEybmcxdkI4RS1zNDhFclo5bURyd3pwRmRSUTROeVNGMXhUTm9nSzNFUWZfaENvZzhWb2x0bWRsVGZsekl4ZlVaTTIzNkVWVlB6TDZSM1MtTk5UU3M5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T16:47:36+00:00",
+      "summary": "又出事了！美国AI巨头宣布旗下大模型失控  新浪新闻_手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "Token定价相差数倍！大模型行业亟待建立计量标尺 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JaDB6OU4wMFNhZEFLb1QwcXMxRURReC1CRWxoX2Z4dzdOb2drU1FuZ3Qwa0RqYVlBb2JDeTkwSFhibktzVkdrX3dwUF9IaHJxbHdDNHhxX2NhbXZSUUw4NUt5eGRUc1k3cnQzSWRRaDlEOUJuMHRpaQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-07-31T16:33:48+00:00",
       "summary": "Token定价相差数倍！大模型行业亟待建立计量标尺  新浪财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "特斯拉全系接入豆包大模型，智能语音面临初期考验 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cam1ENks3T3JvT1NkTGMtZlllc3RLR0U3OHJDU0lDZ3I2Z0RlelNXSHJkSlFPbk9rZmhaS2t5TUhHYmJyU2dKMERtaFFGRGViQTNzaS1NYjJTdWNiMDdpemN4Ykh6and5ZDhWSG1vYlctUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-07-31T15:57:17+00:00",
+      "summary": "特斯拉全系接入豆包大模型，智能语音面临初期考验  手机新浪网",
       "categories": [
         "other"
       ]
@@ -279,16 +299,6 @@
       ]
     },
     {
-      "title": "Claude Code到底有多费token？对比实验来了：三大框架最多差30倍 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWlrTVEwbVROU2hwR0dXbFFrVVZLMGEwamJwMHdzSWQ0RDc1SUF3T1ZQbHl4MHFUWU9za05YQ2wyaGRoYVpGV1Y2akxLUXptQ2p5dEFscUl2WGFPbmNoN0pNWWswM3V0VGdMZDluaGdNbU05ZDRsSm5sUVNTMm9DVEU2VHcyN1pH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T13:55:32+00:00",
-      "summary": "Claude Code到底有多费token？对比实验来了：三大框架最多差30倍  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "美国AI巨头Anthropic宣布旗下大模型Claude失控 - 21财经",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTkyYTBBVDZnd29yelRaSVRwS08wa1lpZzFoQXBZckJ2TmI1Z2xCX3Q5Z3VVOFJYTG55a0gxN2l3WDhucVluVHVicURNSWIzMUhwWGFNRTBpRHFseFY0QTAzOHUtRUpiR3BsT19zMmpiZ240aTFxVURJQkJlR19kWDloOVRpb0wxcnM2Sg?oc=5",
       "source": "Google News - AI(中文)",
@@ -309,32 +319,21 @@
       ]
     },
     {
-      "title": "DeepSeek V4正式版来了！Agent能力大幅升级，Harness能力首次亮相 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtcmFVbTlyMHJ6NnlCLWJOcFNnR2g0Z19Jd0FIUXFDWWxOdldNVUd0UmE5VERBRkh1Mzd1WXd1V0NsOE1HTG1ZbTFxRnBBZzNDZk03UjRXalBhTlFHYU5fU2h6cGd1RUIxblRmc2RsNmRzOVdVdFNPWQ?oc=5",
+      "title": "OpenAI之后 Anthropic自曝大模型“脱缰”入侵三家公司 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pMHZKLXhnYjZRbVRpWkVlVEJXcUdUNWJuLWc1cUFIVnMzTzNzay1IcFZXd0lrdjZvd0lDbDREUWhTVTlGaXdCUHEzS2tKaEREZENzdlpxTkRjb2hoVkpsdGJ5ckk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-31T11:46:40+00:00",
-      "summary": "DeepSeek V4正式版来了！Agent能力大幅升级，Harness能力首次亮相  新浪财经",
+      "published": "2026-07-31T10:20:00+00:00",
+      "summary": "OpenAI之后 Anthropic自曝大模型“脱缰”入侵三家公司  财新",
       "categories": [
-        "other_big",
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
-      "title": "特斯拉中国车机接入豆包大模型，车载AI语音交互进入双模型分工时代 - 网通社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3Ym1MSEdNa19MNW9RMnhjeGZSQ2tfQXNMc0NHSHN4SHNoM3BBbVVKWTl3b1dhRlo4Zm1ORThPT3Judzk2UmppVWlwMlhzSHZLdUV0enk4RzJJbVk?oc=5",
+      "title": "工业智能体落地，不是从\"大模型上车\"开始！ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MSDNmb24yOWQ3UXlkRVhxX2RXdDhrZGZHR1NKWUo2S1p6WlREZi1TZlAxX0NHc2E3bFdTU25XVVU3Mm1QNDJ5cWtPb3N6eVVwT3V3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-07-31T11:43:03+00:00",
-      "summary": "特斯拉中国车机接入豆包大模型，车载AI语音交互进入双模型分工时代  网通社",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "努比亚手机怎么样？AI智能体重构交互体验，3个维度说清+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KQmh1V2tqMXc2Q1BqZ05YVVp0NGd1Y2kzUkxqUEZNLXdTS1AyZWtlWWxnY21Yblluam44RGp6c3NWVDZpSjlWZkgtWmdRQVl0X3dNSXdaZTYyeno5VjR4SUs5TVplaHB6UUFESHFRNlpyRE9QZXN2a1hOOThGQ2M?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T11:25:17+00:00",
-      "summary": "努比亚手机怎么样？AI智能体重构交互体验，3个维度说清+FAQ  手机新浪网",
+      "published": "2026-07-31T09:40:00+00:00",
+      "summary": "工业智能体落地，不是从\"大模型上车\"开始！  电子工程专辑",
       "categories": [
         "tools_apps"
       ]
