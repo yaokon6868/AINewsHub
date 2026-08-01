@@ -1,14 +1,56 @@
 {
-  "updated_at": "2026-08-01T16:02:55.266575+00:00",
+  "updated_at": "2026-08-01T17:31:31.116017+00:00",
   "items": [
     {
-      "title": "OpenAI为何突然大幅下调GPT-5.6价格？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSW5SYzNPSlZicXhLbzhBUkVtTlNGYXBZT3dNX1d4MG9WekJqSGkwNU5Vb2pFRzJjXzE2UTVHOTNub01LWU96LS1LQzdUMWVFVTVxNEFta3ZVVkl4Ulk5QzUxbkZ2WXd1TU9PdDBFYTlhMWViNHJwRzYxQXR4aU0?oc=5",
+      "title": "头部AI失控真相：GPT-5.6与Claude入侵事件全解析 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNVGVtZ01EQ3I2N0gtZFRSU091TlB3T0x2eFNQeTJ4UndKcHd3RkRtdExmbThmaXRaZ2hhWUJNWDdwQm4zaG5OMUhmOGJjOWhFXzlPUUJhWm9oQ2t4Ml9lSy1ZTWxxWWtiNW43enc2RnRxaFpTX012Tnd5RTFHZFk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-01T15:30:44+00:00",
-      "summary": "OpenAI为何突然大幅下调GPT-5.6价格？  手机新浪网",
+      "published": "2026-08-01T17:16:00+00:00",
+      "summary": "头部AI失控真相：GPT-5.6与Claude入侵事件全解析  手机新浪网",
       "categories": [
-        "openai"
+        "anthropic"
+      ]
+    },
+    {
+      "title": "市民家门口学AI 北京首批108堂培训课正式发布 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yXzNGNmhJUDZfSC1WVDdENGdGeTUwVEdIR1FoV0ZERHVRMkNMTGNqal8xaHpocmFLV0xiMFBCeElfaGxzb3FwSjlKcGNUMXowQzE5eEl2TmV2X291aHl4SWdIYnZ4OXRjZjI0QktzR2NNQnJYcS1tYjhpSFVsdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T16:31:00+00:00",
+      "summary": "市民家门口学AI 北京首批108堂培训课正式发布  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "ChatGPT 被柬埔寨诈骗网络利用，OpenAI 出手封禁|WhatsApp|IT之家|诈骗分子|贩卖人口|官方_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNYkcxR3BvQnNjNnlnUGN0TkVVeHotU2tVM3RmRHJ3VG1FRTVmTlpkbVpNYWphUXdPcWdLVDVBZ1hjSjRWX3dmZmZUeTNFcVNOSFNkS2I3azJmMThveXRRdkZRY1FmV0pZeFU1UkFWUF9BNzQzRTBQWUlWNHVCYjJpQkt0N3hac3A1X0QzZ2tzamtBVDFlOWZvQThsRTV2VVdpY2VHLWpKNWhLcElTUDdtS0hpcDVvZHZ0OXlpQ3VwZHlYdGxZaE8yVjhIbTdYR2NjQm9nUm5zc2F1T0REMElYam5ScGFuWmRndlVNVDczdnlYNjZqWlpZdWlrS3ZQbjVQMllnQVdjM0psSjBDZ1B0OTQzODlCXzNERzMzbjRiQUctZE8tVzFCZVFvSWlKVGg3S2RBNFYwYy1yZmxu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T16:19:20+00:00",
+      "summary": "ChatGPT 被柬埔寨诈骗网络利用，OpenAI 出手封禁|WhatsApp|IT之家|诈骗分子|贩卖人口|官方_手机新浪网  新浪财经",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Kimi K3炸场全球！2.8万亿参数改写大模型格局 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1ViVk9ONnctUnZvT0k2ZWsxZXRvN2FaTEVMbUpORjJEVXlHLWNLaGFITnNRb2lUSFczU2o5TzFvUkVoU2VycnVmUkE0N0V6Zk5DNkJkQlNEZVVzbjdiX0VYZjNVeGE1RlVMSTMyNzVwMXpVTFIya1B1eVBPRWtsTXY3Z0c2bDR6UFZ3RA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T16:06:20+00:00",
+      "summary": "Kimi K3炸场全球！2.8万亿参数改写大模型格局  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xM2lvSlpRNjlpZHFOZEROT3daY19KOFV5Z25JV25FaWQ3aWxoQWdLZDBJeGw4WTkxelZRQnFRcVhsamJfaThmMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-01T14:19:41+00:00",
+      "summary": "从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级  品玩",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -22,21 +64,11 @@
       ]
     },
     {
-      "title": "市民家门口学AI，北京首批108堂培训课正式发布 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkRONGNnMnhQWnpiNG1sQnE5M044MzNSc1UtYU9UWFZhUS1BUWxIM0ZjX1g1Vk5kRm9ubHVfM0lCNk1UUmUzRm1aWXZNWU5qbU5qSlRVZ0hrWjBLNUhsZ0tka2pxaHNHRWg1dHUtREZqMGlEUl9KZmJ2OUZwSjdiTnRSbllONnFr?oc=5",
+      "title": "邢自强：工业AI智能体正加速落地，盈利模式也在改进 - 财经号",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92NE9jX3QyczFtNC1BWHgweVNOd2JkTGE3ZHl6UWJJbWxXdC1iTE1oSHNCSlhqQVdPdnJFWVdNX1B3VldxV1FqMnBRczJpTklrUGdmYUQ0QXVOZGxmZHJubUVKaDdxM2liS3R3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-01T11:35:43+00:00",
-      "summary": "市民家门口学AI，北京首批108堂培训课正式发布  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "邢自强：工业AI智能体正加速落地，盈利模式也在改进 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2lZRlA2aGxEanJCZU95SWtXVkhTcE55MVFYS0NrU3dkM0cybFJHRGItc011Wk5FeGRlVWRGWUtpbkJVcTdKSU1kNDlLVURKaFVub3VpZWlxcGdnb2NEWDlkWlc1UFBSVkhTQXJUd2tILVI1NlRLd2RWYVhnajdMVzRWcXhiNU9r?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-01T11:35:38+00:00",
-      "summary": "邢自强：工业AI智能体正加速落地，盈利模式也在改进  Sohu",
+      "published": "2026-08-01T12:02:01+00:00",
+      "summary": "邢自强：工业AI智能体正加速落地，盈利模式也在改进  财经号",
       "categories": [
         "tools_apps"
       ]
@@ -54,7 +86,7 @@
     },
     {
       "title": "特斯拉中国刚刚接入豆包：大模型这么多，为什么选了它？ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRaWpEaXVCblR5Yk9hY1dzWDJ3TVA3MjZxRWd1RXFqOVJRRXY0cHhhYkJWR25xYmhBQnk5WFE3eUZfcVo2TE02c2toeGxDbHNYMUFRUGpqNVZPUVJQNmVSRDNEMF9UVk1WZU5r?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OTzdZakdQTUExS3Z0TGs2QU9hUGw1MURvVldHQWdRTGp1RGQ4Mk1vWElVam5lT2V6Yy03UE12SzN1OW9LSVRzUmkzekZMUkRxa1V4QS1ER1JiajQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-01T10:02:23+00:00",
       "summary": "特斯拉中国刚刚接入豆包：大模型这么多，为什么选了它？  汽车之家",
@@ -174,17 +206,6 @@
       ]
     },
     {
-      "title": "ChatGPT成诈骗工具，OpenAI重拳出击 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQnAya1FzMTBGdGhRekdRR1hJbURuQ2sybWMySTluRlMxNWNqNUw4c2k1aEFRZlI1TWZjdlA1ZzFia3ZaTnZBWXhuQjk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-01T04:22:13+00:00",
-      "summary": "ChatGPT成诈骗工具，OpenAI重拳出击  凤凰网科技",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "DeepSeek把AI应用创业者的春天带来了| 律动BlockBeats发布于币安广场 - Binance",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtRjBpTk51V1ZDdnNSRURENlZVQ2M5VUhTd2hVb2xGaWF6MERHd2ctX05Ic3UtODM5dk5ja0tmYUNVZGEtS29xNkpnNnlpdEhKTW9ncjFfREpVSWQxTGZ2TXIzZDV0NXBR?oc=5",
       "source": "Google News - AI(中文)",
@@ -247,11 +268,11 @@
       ]
     },
     {
-      "title": "汽车早报｜工信部赴奇瑞、蔚来、江汽开展监督检查 特斯拉中国车机正式接入豆包大模型 - 新浪汽车",
+      "title": "汽车早报｜工信部赴奇瑞、蔚来、江汽开展监督检查 特斯拉中国车机正式接入豆包大模型 - auto.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VTBIS05wLTRfWXBVZDZJZUhMc1p2bTU5SVdqME1yV2V6dkZHV0ZYTllDX2dhNXNFR3RnTkNaZzhsamJ3YzFNcGhBUFVzN3B5Rkl2eFJkRUxMM0QtZGVhUHNqbEJlcnRsVFRsSmtR?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-01T01:01:06+00:00",
-      "summary": "汽车早报｜工信部赴奇瑞、蔚来、江汽开展监督检查 特斯拉中国车机正式接入豆包大模型  新浪汽车",
+      "summary": "汽车早报｜工信部赴奇瑞、蔚来、江汽开展监督检查 特斯拉中国车机正式接入豆包大模型  auto.sina.cn",
       "categories": [
         "other"
       ]
@@ -277,16 +298,6 @@
         "openai",
         "tools_apps",
         "open_source"
-      ]
-    },
-    {
-      "title": "智能体“进厂记”：广东制造竞速下半场 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGZ0aW9wczRkRFZsOXN6ZWh3dEs0VXdRX3U4Sk5HZlZvZkItMUdJNzliSEZ5RlRmYXItMlRYUUF4aGlRbWhxdEhtMmJ0VllhcVNNVFNhT2xMMEhfdU8xSXlHSnNudEhDaDBrS2U4dnktVU1vNUROWUswMzR0TDJNZWlLUjR4V0FKWmtwVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T23:15:54+00:00",
-      "summary": "智能体“进厂记”：广东制造竞速下半场  Sohu",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -358,16 +369,6 @@
       "categories": [
         "breakthrough",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型 - eastmoney.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tZ1JWeDQ2bTN5ZVhRSnEwOFFDbFo2UlNVWnNOYVE4Z1pVTmhKQnMzWlNxQjZqVWR4cEdNMUxwRmN2NkNCRDJHRHFieUJRdDBlSFl4SFk5RzlHVnNqeVhHdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-30T00:18:02+00:00",
-      "summary": "谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型  eastmoney.com",
-      "categories": [
-        "google"
       ]
     }
   ]
