@@ -1,95 +1,144 @@
 {
-  "updated_at": "2026-08-02T12:04:31.522353+00:00",
+  "updated_at": "2026-08-02T14:08:55.349621+00:00",
   "items": [
     {
-      "title": "gemini分享梦之队到巴黎后大家的状态 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wNklTRDRXazFQT2FXcHdBVXVocmRobDV3MjJKRGlFN2lOWWsxRkxDTGJlQ2lwYmp3aWItM1lZelQ2dkMySmt1TWxBbXFrd3d2VjFkQmhJc1UtMjZLbm5kbWEwTVhHZUVQb0hKcWFpR3ZHcVpHc29GZVU1WVktMzg?oc=5",
+      "title": "DeepSeek大消息 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2NCWW9obkE3Y0trcF9NMFhPNF8tRWFaNHlsZ0xEMTRLRno3QU1odXdIX2tTQXpWRFUtU0x4YlpTOTdZU3JXcGM0SmlrbE8xZkUzTHVFdUNDQndrd2tpak5WMFlLTkpraFdYZnAzUUtucDZLSnB2YWEzeDZfSmlWekViT1Z2ZEhzaXpPSA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:55:31+00:00",
-      "summary": "gemini分享梦之队到巴黎后大家的状态  手机新浪网",
+      "published": "2026-08-02T13:47:03+00:00",
+      "summary": "DeepSeek大消息  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "ID. AURA T6，真把AI大模型玩明白了？ - 凤凰网汽车",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rR3MyYklWV05nYkx6NWhERVdCdHlqNGo4bUU2d1VuTW9TM3ZtWWlFT2hsTXpyVXVQU05ZN0N5d2ZUc2FPVzNVRGxhMkE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:43:01+00:00",
+      "summary": "ID. AURA T6，真把AI大模型玩明白了？  凤凰网汽车",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmpabG90bjU5V3dFamRYSFRnZDB1YVdEaEMzNW5CaUtkSEhkanpabll0UkpPR1hUNjJYbWNZUWF2NE5OY3hlZDBOVkQ4SWdwbHd2UmsxU3c1R2N2VEtlMUZIdEJfaWtZR0U2Q2J3Z2FOc1g5T0JMRHJYU3pxcEozd01JWXhvYzc2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:37:36+00:00",
+      "summary": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区  Sohu",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "吹过头了？印度韩国宣称自研大模型媲美 DeepSeek，拆解后让人意外 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTlSdW1ZMzR4Ti1GMDBhbjBZb0k2WDlBcjV2SGo1R3pwcHBONnFpWDl5cldBZVEyeW9kZElkbHQxaV84VWI2RDhxSWFpZGNNejFpSzdRTEZmRk9GVlNQZ050SHNnUlRUXzEwYjYzMnNiWTZraVEzcXc2MHB6TmZTTDEyanJhX3JRa1FQWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:35:00+00:00",
+      "summary": "吹过头了？印度韩国宣称自研大模型媲美 DeepSeek，拆解后让人意外  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "大模型重回参数竞赛：2万亿成标配，3万亿是下一站？ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3I3UGhZWWJDX1NLWlduVmNEeEhqR0dJMFctMGc0aUVQZDBzRlZMeEhCTFJvRzVRWEFuc3B6X19XUEw3R0Nja2FXWU5RNDVacTk2LUQ5WG1MSi1zWGx1THAweF9pNUJFT0daMnlsNWhGbjlTZzgzOGdleEhIRkViWHd5eUdjNWs1QVQ5Yw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:32:23+00:00",
+      "summary": "大模型重回参数竞赛：2万亿成标配，3万亿是下一站？  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "开放权重模型升温 全球协同治理提速——7月全球人工智能发展盘点 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vMkpSajhFUzdGVVV6clQ4TjFFODNlQ0tnU3hBZkJTOXljYUxGaldCWmdrVFJpMndISUg3NF9zY2pYNzNiWEtQQVFxQWkwSkEtQTFlNFBrekVUUXg1N0dOMFJVc3AtTTZtY3BjYlZldzVzN1BKQ1JWYTl0V1AtTTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:24:00+00:00",
+      "summary": "开放权重模型升温 全球协同治理提速——7月全球人工智能发展盘点  手机新浪网",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "吉宏股份x阿里云|共筑AI原生底座，共商Token出海新丝路 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yR0ZUdWJCUFEzcFVaWkhtRGVWYkhlYXFNa0NxSUZwSXhMbDlzM3lxb0QtYWVWMU1XeEFzdUc4OGtvYTdZMmhSbVdCV2FEcTRvdm9OUnpjMUIwWXN0bDJHb3ZqU3FZRmFyYy1TSU5QLU51TkVnb1ktc1pnaU5jWDA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:19:05+00:00",
+      "summary": "吉宏股份x阿里云|共筑AI原生底座，共商Token出海新丝路  手机新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "【视频】一汽大众的车机，引入中国大模型之后不太一样了 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZFY5RHBDRG04V19aV0U5WmxPT3F6OXhtSmV1WmR5akdMaDY5VGtyMDN6Y0xWQ0tnOEtDdlprZWROYXptVkxESEhOMW41UXVnY3dueVpGRjJDZXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:15:16+00:00",
+      "summary": "【视频】一汽大众的车机，引入中国大模型之后不太一样了  汽车之家",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "谷歌新模型让机器人实现边走路边干活！ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHZvWldGcXVDSndxZ1NaOWs3cmhBckxGejk0bTNtcUNEZE1SdlJkSlp4cGV5Q0hjN2dON3h2aDhWSkNCWm5aTmNid0ZRQWJ5TlU3YWE4T2ZlWjEzNjdNTU5kOWVBV01UTURVXzJGLUNaNlBaNnBwbUNEQ3VEdGpZNTNjWmNwSk5TbnBwV20yMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T13:13:42+00:00",
+      "summary": "谷歌新模型让机器人实现边走路边干活！  手机新浪网",
       "categories": [
         "google"
       ]
     },
     {
-      "title": "中国AI包揽前五，凭的是什么？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUZ212YlZ5eFk4bzFlVzM2Y1dwTW9hSEphb1hGN0xoZGJwaHB4Q1BPaFk3YXdNWllJdmIwR1JIRGNRbmR6S25PQnE4Q0N6TXIxY0lxemdLWkR2NUlOZDBRYklwVmhvTXRIVmFWc3lBaWtGWFZnSE9fNDJyZzQydWc?oc=5",
+      "title": "逐梦智创，载誉前行！黄浦学子在长三角青少年人工智能奥赛斩获多项重磅荣誉 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YVEVmU3BJUXUzYnVmX2hFUllaSGIwX0xJVDU0UGtiZ2RyUFVJNmI1dVdtWFgyVFc1b3N4OG5nVTdKd00tclNxV2VGUEtmaDhoN0FnQ0x1V09RaERoM3dscnEzT2JpNkV0VVJsenJ3OU5lbG4wRUZ1Tkl6TVl0UQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:55:00+00:00",
-      "summary": "中国AI包揽前五，凭的是什么？  手机新浪网",
+      "published": "2026-08-02T13:12:00+00:00",
+      "summary": "逐梦智创，载誉前行！黄浦学子在长三角青少年人工智能奥赛斩获多项重磅荣誉  手机新浪网",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "如何看待AI大模型行业的未来发展趋势？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BS2ZWUF9oOWJUeTZCV2VVcWdsa2VObmlGQXFPZkRuaS1vUUt0akJIUHp0OEc1X1pPbHpHVmZqN0k0TXNjT3FTMHNmVDVLd1lZZWhiS01CS1RUUmJmc05ORi1IYl9KMUNuVm52YVV1TGhUNzcyUjJPbXhrclhfYkk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:39:59+00:00",
-      "summary": "如何看待AI大模型行业的未来发展趋势？  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek又发重磅更新，行业梦回2025年春天 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3FOOERQUUdmR2laRGlvYzB0cXlMR1B2N013R2c1SjlGNEpmc0psWGR0Y2tlY2dJMXMxUHM0VGQydk5td19DZnJYaXpOaVpPWkxwd01oZWtTQ3oyZEdFSUhVS3FEZEM2cElkVnBFRjlmNGJscUlITmxHb0dqTlJBZmpxOTZaVXNtaE9J?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:39:36+00:00",
-      "summary": "DeepSeek又发重磅更新，行业梦回2025年春天  新浪财经",
-      "categories": [
-        "other_big",
         "breakthrough"
       ]
     },
     {
-      "title": "全球媒体聚焦 | 英媒：中国布局 AI 变革 值得西方借鉴 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXFYUnVadTlBWnp2cEdra0hGeGZ3RHNBRlo4ME1pUjQtMXl4QWV2MDJIS1VrWU9ZN3B2QnQtUGYwUGgxMDNQcHMxVUhOMTR5SjdzRmVob1RJYkZia2diSDJjcGtQdFVNZ3dZSm1zQ0pwbmE3NmpRc01OX0dCQUhjUFk3OXZ5YThW?oc=5",
+      "title": "AI时代，心血管学科的“心”生与融合 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMExjSnBIdUlYamdMeHFxdU8tVWUyZ3V6c1lDclppMDVtYVFVM29nQThUZ1lXYVJQWEhCTmY1dVNXNF9lZ1B3T1F1dm9yZW5fOGtzWTFRUTJJamVaa2ZUcVlXeGs1UVYxY0g1WUNxRDNKWVNzRTdiZUZ4R293X3Z3elhyOVZVaENG?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:29:46+00:00",
-      "summary": "全球媒体聚焦 | 英媒：中国布局 AI 变革 值得西方借鉴  Sohu",
+      "published": "2026-08-02T13:11:52+00:00",
+      "summary": "AI时代，心血管学科的“心”生与融合  Sohu",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "向新向上 河北力量 | 这支清华AI团队为啥来雄安 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNam5WdnF4ZWhnQmJ6NF9Wazc3Q2RKSl9TT05YMy1WLUg5alRHNDRQalV3VXpkNTJzNXd4cE96OTcwNlB1UU91YlR4ODAzVkxQNFdEN3pENHQ1Y0ZzdWRIVm5DSHJSN2MybG9Od1NXN09xT2pTSFBodk5MYkpOYmlGRA?oc=5",
+      "title": "双奖加冕！探迹科技再证AI创新实力，创始人黎展荣膺“2026商业变革影响力人物” - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSzc4NGxFb0I1Q2RBSl9mSkhCNGxudGdMTWpjcW5QbEdkcjZHSkt3eWdiOF95ZEZKVjlRZlVkb2YzdVgxcVdYZFkwejByMTIzWGpid01HMGVFUm9JRTZZMEZUdnM1OTVJYmR1a0sxLUtTS05VR2d2Qi1KaThOeHlpb0drOTlkUHpyakwwMm1n?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:25:17+00:00",
-      "summary": "向新向上 河北力量 | 这支清华AI团队为啥来雄安  手机新浪网",
+      "published": "2026-08-02T12:52:09+00:00",
+      "summary": "双奖加冕！探迹科技再证AI创新实力，创始人黎展荣膺“2026商业变革影响力人物”  手机新浪网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "全球大模型调用榜前六被中国包揽，中国AI终于扬眉吐气 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qSlVTUUdQYTFhM1BWOWIxS096emV5ZXBzdlJHUDlaUUxqQm9Td2hOd2hoNXlac0lfZkktUi1NMEs2RHpJNjc1aU82cUVxVm1FYVoxMm9EaHFXemZfQ2RVMUlvZWRFeDVSbnczSzVLbVcxTy1sMG1rLXlJRHRLUQ?oc=5",
+      "title": "中国AI大模型的优势在哪？全球大模型调用量前五均为国产 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHBBTmpyTTVDcjJwV2ZQdmlmTERaVTRlak9tY2F6QkdGUGt6VkZ0TDYzVGZjcHVCeDg0R3BXOElSSUh3ajNBczJKVDFQLUEwRzJPS2w1LThJeFFCRlVGbHQwYlZJTkExdzBQUjllMTR4R2tHdjVITWRTUU5HczdwZW1sX2pxWGlQZDhJZmlvTDY?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:19:24+00:00",
-      "summary": "全球大模型调用榜前六被中国包揽，中国AI终于扬眉吐气  手机新浪网",
+      "published": "2026-08-02T12:10:56+00:00",
+      "summary": "中国AI大模型的优势在哪？全球大模型调用量前五均为国产  手机新浪网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "上线不到48小时，谷歌地球紧急叫停AI生图 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ldlJtQTFDUUNzYnNGLTBBVjZ0UkRlT1VCNC0tWmxXUmhKNmQ4cTY5N3RlSWJObHY3eExOVW9OdGc3MTJaN25OUlJlQVA?oc=5",
+      "title": "全球大模型调用榜前六被中国包揽，中国AI终于扬眉吐气 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGQxQWVycl9EcThQUE51RVlsNi1aS3hDMGFlZWxSbjdSeWpPVFJLdFYxbEIwdW54dGdTLU1kYUpXZV9WSTdoNGZ1MHZwSEc4NnBldHdhOE9uVHBEVjY0eWJUWjJrWlBRdmd2X3JuZThkZGNCN0t0QXhnRC1TYWlRcXpnM1VCdElR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:07:43+00:00",
-      "summary": "上线不到48小时，谷歌地球紧急叫停AI生图  凤凰网",
+      "published": "2026-08-02T11:11:26+00:00",
+      "summary": "全球大模型调用榜前六被中国包揽，中国AI终于扬眉吐气  Sohu",
       "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "DeepSeek-V4-Flash正式版API公测，跑分出炉 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KbVBMSWxwNDdUUEYtTDJ4X0hHSmVmSWZaZEFWQUhoOVZ0ZVpkWFBLUkk0OUF5WFhhNEgzMHRGUHZZb3Y2dHlFQzJtRkJTdml0N2lLdDdSSndLVzR6WFpLLVNEeU1OVy1p?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T11:03:45+00:00",
-      "summary": "DeepSeek-V4-Flash正式版API公测，跑分出炉  三易生活",
-      "categories": [
-        "other_big"
+        "other"
       ]
     },
     {
@@ -103,36 +152,6 @@
       ]
     },
     {
-      "title": "2026款小鹏P7+智驾有多强？18.68万标配图灵AI芯片，3颗才是完全体+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQTdaRE8zcGpuUVJXalVQeHJacDBoRTZLOGdNclotZWZKZVJVQnNaYUhYY2hoblNSUnpxc0lqcEhETElBR3o2V09kTi1iSW02TzB2QTRWTkxhNnRWOW9RbTJEdXVFNm1BY3hQVWJrc2J0YWVfZF8xa1FqeUV6ZUk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T10:42:00+00:00",
-      "summary": "2026款小鹏P7+智驾有多强？18.68万标配图灵AI芯片，3颗才是完全体+FAQ  手机新浪网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "广东“模数共振”进行时：当工业数据开始“喂养”AI - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVo3MXc1UVo1amNfcGg1ako0V3l0MWJIRjFUVEVSYmdZR1g5RmRYM0tzcjV4dDYyYmNMR2dLLWt4di0ycmdVUGpZd21GMUZVVTJIZnEyS3NQYkZWem42NXBoeFZoRndZMFlYemI3N09TaWRyYmd4aVJEYVlhaHItR1pzQUZOemJGdnp3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T10:38:28+00:00",
-      "summary": "广东“模数共振”进行时：当工业数据开始“喂养”AI  21财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "大模型重回参数竞赛：2万亿成标配，3万亿是下一站？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUttNXBlemgzTThuSWpkTzNQc3RGVDZNT2MzbVJXZUI1ZkpQc194ZDBDOXd2MWg4SDMtMWsxUHItdnFFVU5MU2dFQzFjNnhndHN5VlhRMDdtQ1FXdzhNbWh1LXF0S1JEMEVZUnBxOHE5SWJLWWFodGZHSDhCVDUwaTR4T0szeTFG?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T10:37:18+00:00",
-      "summary": "大模型重回参数竞赛：2万亿成标配，3万亿是下一站？  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "中国AI大模型领跑全球榜单，央视详解背后的优势所在 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHpPZm5pT2dtZEJ3ZmllU2l6OExSdWM0MDBTVWtQNF8zS3I3T3BrRk9OMmNYWTZnejNySmgzelFpWUJxRlE5c2NOcGk5bzBCYUpLTGdPWl9QT2t3MmdmZk5ONU9kSmtLZjROU0ZDbFZQNlZfcDV2d2d0cFhKWEZSaEd6N2RzZmIt?oc=5",
       "source": "Google News - AI(中文)",
@@ -140,16 +159,6 @@
       "summary": "中国AI大模型领跑全球榜单，央视详解背后的优势所在  Sohu",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONF9EYU53dW95cVBCVnJCWUZDY2xRR1pfTllNQUtHMHFKM0VBcG5yRHdwM3ZQNVQ5bGdVWnVSdTBqMlFQRVMtT2Z2dDdGeFlPaWNKQlY0OF9idEMzSnd0b0x5cmtaNmc1d0MxZ2dvU09ubXlUYmdXVmFINXFueWQxU1dkdTdFcXZ2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T10:09:15+00:00",
-      "summary": "全球媒体聚焦 | 中国开源模型领先 美媒反思美AI发展盲区  Sohu",
-      "categories": [
-        "open_source"
       ]
     },
     {
@@ -195,11 +204,21 @@
       ]
     },
     {
-      "title": "全球语音大模型，角逐方向盘后的麦克风 - 潮起网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43ZmFfdmJxOWFMUUpVa19fWlduZU9ZTS03Uk5ZMFZBdm1PcTNEM1BRcFZiZXNUdHRSU0h6WGpWZEZVU1MtcmRKb1p4emxwWHg2OVRpWU5NamE1Wk1yaGVQR0VQZw?oc=5",
+      "title": "中国AI大模型的优势在哪里 领跑全球榜单 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6b2UzS3pPWmdscmRJS09oVGVmN1lhVW54WVd3dVRRMXc3ZXFqYWZ0bDBCZWRPdVQxSE1zcWFqcTVhUlE1VDNHOXBDUE1RemlNNlBUYV9FLU1mcVNoU1lva3JrZDBmN1dRN1dzYkhlaXQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T07:30:01+00:00",
-      "summary": "全球语音大模型，角逐方向盘后的麦克风  潮起网",
+      "published": "2026-08-02T07:46:06+00:00",
+      "summary": "中国AI大模型的优势在哪里 领跑全球榜单  中华网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "中国产品包揽全球大模型调用量前五，国产大模型调用量全球领先 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WWGNyYjBNZ3R5RENMQVNOckhwY0ptTUlMWTJmMGg5TjRvcmY2Zmk2WU94SnFPME9rZDFNVUswbzVNRkdXZ293RGkzTjZVWUZh?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-02T07:38:55+00:00",
+      "summary": "中国产品包揽全球大模型调用量前五，国产大模型调用量全球领先  凤凰网",
       "categories": [
         "other"
       ]
@@ -215,21 +234,22 @@
       ]
     },
     {
-      "title": "中国产品包揽全球大模型调用量前五 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWdjJRQzYyQ2JyQVI2QVVtLWhEcTI5cnFENXg0Rm1WR3BNTjZHZUhPTU1WZXBoVWdSUEhsMlR0dlFsaEh1ZkNBaW5Qbw?oc=5",
+      "title": "中国AI大模型全球领先，小米MiMo-V2.5登顶调用量榜首 - 第一电动网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KazJsVXhsZWxnX0VVT0NvRGpOTW1kU1JUbzBhcHQzVFNYaHFNUG5aTV83Y2hxVEcxejNWeE90cVYwcjRMbERyVw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T06:19:18+00:00",
-      "summary": "中国产品包揽全球大模型调用量前五  新浪财经",
+      "published": "2026-08-02T06:34:00+00:00",
+      "summary": "中国AI大模型全球领先，小米MiMo-V2.5登顶调用量榜首  第一电动网",
       "categories": [
-        "other"
+        "other_big",
+        "breakthrough"
       ]
     },
     {
-      "title": "谷歌曾比ChatGPT早一年做出AI聊天机器人？DeepMind大牛曝光 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGp0RERsaEhwUGJTNV9Mc3BFWWNpYk1TdDJyWkJSSmNtQWFIQUdnNDVXdkdfQU1DQVRxTlBhaG01MV83Z0Fya1BtdzEtZF84ZXhYUmtnX0VieThKeGpFMGtvRHZOMlJoMFJPV2hZLVZGZEppb3NnZDJKbERMZjY5Z1RKMmNsNkRZ?oc=5",
+      "title": "谷歌曾比ChatGPT早一年做出AI聊天机器人？DeepMind大牛曝光 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BTDN3MEZXcW5MSTctM2J3UXRFRXI0bnFaVFh2aDllazFLeXZJVmlmdjJTVS1UM1AyLUdtY3RHaVlxbGNnWGU0c3JxTGU?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-02T04:34:27+00:00",
-      "summary": "谷歌曾比ChatGPT早一年做出AI聊天机器人？DeepMind大牛曝光  Sohu",
+      "published": "2026-08-02T05:07:55+00:00",
+      "summary": "谷歌曾比ChatGPT早一年做出AI聊天机器人？DeepMind大牛曝光  凤凰网科技",
       "categories": [
         "openai"
       ]
@@ -287,16 +307,6 @@
       ]
     },
     {
-      "title": "数百万本书，被Claude“阅后即焚” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVg0eDR4aUFwY29EMEFXSGpfNzg0cDVMeGFya3dLN1otNUlfSGd1XzhRRHZ4aUgwLWdDRDVkb2FlV1pUYUZ5NlBmd2hPZGNuQXlveUN1NVpOU0w1dEp1bFBzYmstbVBTZzB5UTJNZnh2S0drT056V3BwZ2Y2RGo3czE1NVlRZHFX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-02T02:06:24+00:00",
-      "summary": "数百万本书，被Claude“阅后即焚”  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "OpenAI的调价对人工智能行业有什么影响？ - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MMkp3WVhoZ19kWDRDRjhqdGY5RDZlMTRCZV9HdHhoMFlyWmkzeFdiNWRydHZQV2RkYkt1SHlxMjRRZWgzVGVGRmt3TWdObTRPamFRa2xHSkZhZ1E3QXdDaUZ2dzB1U2UwTFZvYm8ta2V3UktfUjB1Qk5UOGVVVVE?oc=5",
       "source": "Google News - AI(中文)",
@@ -343,16 +353,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-01T14:15:00+00:00",
       "summary": "知情人士：OpenAI或将推迟至明年启动上市|Anthropic|Claude Code|ChatGPT|萨姆·奥特曼|山姆·阿尔特曼_手机新浪网  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic公司披露，其Claude人工智能模型在测试出错后入侵了真实系统 - 美国之音",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa29JUDFGcV9zN0lSQWVUblVWdTEwdXRlLUJOMnVCUkdnTzBZWEpFWlViSklGeDVYTGYyQ0xUMzFrZG1mcGZMU3VBVkFsQndFVERIczJITlVPZFNNLWdQakM5VG1GekRlejVqMHdOWjhZMnRSWTlVaG9EVEZvaUtBYkZpcjFXSWNoSUNPWjhRY3pGbUQ5UlBvSE5vWU1hYkd1OFUwSndwUGN3MHFKMEFnYmxIbmYyYTR3QVd4Z0ZDV3hVQzNNWlBrZThSUlFnbE3SAdIBQVVfeXFMUGk0cWJuV1o2c0pVZ2tuR0xwdUc1NHRzYW9WdTUtZzVuWGJwUmFCM0tZeHh3cjFHV0NKZnpQYW1QdENhdTc5Y3V5d01ndTZ3cHpjbWJKSmRPSkd5S1J3OEtjMXktTXJPLThhS1l4akphbkUwNDdkbWV4MHRJem13OEVxT1NwT0djWmtlM1RyTFpRUWl6ZUI3anFTdjhnazBNREJ0Y3U3cWhnanNHVWEyeXRROXpNVFhSRG9TUlZQeElMS0RsbkdTZm44d1N3VkxNTm1R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-31T20:36:03+00:00",
-      "summary": "Anthropic公司披露，其Claude人工智能模型在测试出错后入侵了真实系统  美国之音",
       "categories": [
         "anthropic"
       ]
