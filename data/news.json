@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-08-03T10:45:03.752063+00:00",
+  "updated_at": "2026-08-03T13:42:18.086953+00:00",
   "items": [
     {
-      "title": "ChatGPT Atlas浏览器8月9日停止服务，以下是你要了解的事情 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UlZIb2d3REdHOEtBb0k5dnplU3Y0SmJyQ2kwQ1VuYktBU2czUi13cXV1bXplOENhYUNuUFE1cG9oNFZxaVpucGZ5aW83cFpTenhDTTd5WjR6Sm9XdnZXVkdYczBFSGVCcHZZWWI5Z2VTVGhvU0M5OFZlcXozNlU?oc=5",
+      "title": "AI+NLP书 | 2026年 | LLM 的实际应用与优化：大规模部署 LLM 的技巧 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUk1kNmVHa19wam5OV2l4bnVIcVpub0N2V01zalFwN003WXZxSDZicG9RQXlTYjI1cUEydllMMUY5S3RnaV9JRQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T10:39:00+00:00",
-      "summary": "ChatGPT Atlas浏览器8月9日停止服务，以下是你要了解的事情  手机新浪网",
+      "published": "2026-08-03T13:30:00+00:00",
+      "summary": "AI+NLP书 | 2026年 | LLM 的实际应用与优化：大规模部署 LLM 的技巧  智源社区",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI降价80%后仍比DeepSeek更贵吗？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQV84a2dpN3NGVzFBdklpdy1hWjFLcWc1QUo2bVEzLUJ1Uk1rTUZKZEZ0cVNkRVNZQ3daUTI2UHRqTkpxc0tLcVMwclN1UjBVUGp3NHVYdmx2MEJYM3VuMkszbV9JS05Md3ZFMnRhU2RNdVM0am54WXZNVkR2UUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T12:49:14+00:00",
+      "summary": "OpenAI降价80%后仍比DeepSeek更贵吗？  手机新浪网",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "大模型公司估值，正在降权「SOTA叙事」 - 36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LdjBpU1dzX3V2QnZVYjlHUEZjM3BfcmxCekV6eDJBNmFybm1fZTN1T2piNjhQMlV0SlVrMGlGOU4xbjJMbjd2ODFtc2ZWRzRx?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T12:33:04+00:00",
+      "summary": "大模型公司估值，正在降权「SOTA叙事」  36氪",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "ChatGPT Atlas 浏览器将于 8 月 9 日停止服务，用户需抓紧导出书签数据 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXk1eUZuQlN0NWZucURXNUZETUZ2TTVlQ1laOTNLRHNGSVVaZl9rSmtQNWFoMjVDak9EbFF2b3BoMEpIamcwVFVHX1lsMHpQNGFOVVdDM0Zkd1VxRkZ6ZXFhNFlyNTJyUHJJamRjUE1UYkhfUG9Pb2xHdjdtNVZkYlZB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T12:16:08+00:00",
+      "summary": "ChatGPT Atlas 浏览器将于 8 月 9 日停止服务，用户需抓紧导出书签数据  video.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "大模型的下半场，拼的是记性 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkVXbGJiZGZ4ejJITXNJWExqY3J4X2trRmJwVl9xYV80a2RQU3JHd0tlNEhUaGpGNU44bF9nM2hMbFdfeFg2TG9pM2Z0V1Q0OWdpVnZoc3JsSUxnSXVCMXBZZ3Q1Q0hnOFZIYkFUdHN2eE5BRHpXb1NwczI5ekxuMUtQMk1qUkxI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T12:06:46+00:00",
+      "summary": "大模型的下半场，拼的是记性  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "欧盟的“有条件需要”：中国大模型将如何选择？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQnJIa1JEZjFvcTRES3R0RWw1SGtoaHRCMnpZaU1peDNxRzFUcjB0WGZFWlRrT3UzRV9zZHJQdkxJLTFUN0dQcGJSTnREaTNCdi16OUZRYlpvSnJqaEFXUzM1WXY5dnFxQmxiYmoxWmtHRVJ0MlUyZWhrcnIySmdsa0E3NG4xaUtMVWw3ZA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T11:56:57+00:00",
+      "summary": "欧盟的“有条件需要”：中国大模型将如何选择？  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "一个GEO观察：一家2019年的济南少儿口才机构，为何还在被大模型推荐？ - 中华网科技频道",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vWW92dWxDWm1ZdF9EMF81bktISHBmYVJDX0taaW9heHY5cks2cVIzQjRhYzlHdmJhS1hQWGp2ZklDNFl4Z2lvRk5mS2JzdDM5VDh0d2FGTGtuYUhuVDNfN3YzMU9kVG5UelBoU2ZB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T11:15:36+00:00",
+      "summary": "一个GEO观察：一家2019年的济南少儿口才机构，为何还在被大模型推荐？  中华网科技频道",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "10美元、两小时、5500行代码，卡帕西让Claude Opus 5搭出《指环王》3D世界 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rY1NyZDZreFVsQnFnZXdqQVg5X1M4Tmt6anA3VzVIdjJJeXdaM0s2RHpud3JmRncwdC1XYWNjVFJIblExQ0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T10:59:54+00:00",
+      "summary": "10美元、两小时、5500行代码，卡帕西让Claude Opus 5搭出《指环王》3D世界  智东西",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek V4-Flash运行成本远低于全球其他领先模型 较Claude Fable 5便宜超百倍 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrM2h3R0ZzWEJKSVVtX1BfcTlVb3NjSlBCa1o3dGlveEttTnF4YWtfdzZrYW1nSGFlVU5mM3VQeTVFNWVxVUR0TlBqMkFzRDFtc3k3VXY5ZWtYeVhrU1ZQb3N3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T10:46:38+00:00",
+      "summary": "DeepSeek V4-Flash运行成本远低于全球其他领先模型 较Claude Fable 5便宜超百倍  观点网",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -22,23 +102,23 @@
       ]
     },
     {
-      "title": "MiniMax H3、Seedance 2.5、DeepSeek V4全来了，国产大模型今天有点忙 - itopmarketing.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EUUlHQTNkMnI2Y21rbThPSHg4N1BzTGNpSXpMRlFkVHp5UG4wSmhRdnZYdkpYUWxMYWpIZXNzUmpBdlJqVWlyc0RCbTZuSDc3?oc=5",
+      "title": "两家来自北京企业！国产大模型包揽全球榜单前六 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0VuY3FVdnNVakZEMmE1ejZwN0NGd3Y4SXRrVENPQ3U2ZnRfejZxVUplMmp6RVZFTzA1cGtMZzE2amNncnBRNUZzYUZkeVY0dGxQVm1qUVZ4aHY0TkZid3loN2g3d0NicEJ3WGtoMUFXOENUYWRtd2dHSmJudGJqNGktRzZQXzdXaW42SQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T10:31:20+00:00",
-      "summary": "MiniMax H3、Seedance 2.5、DeepSeek V4全来了，国产大模型今天有点忙  itopmarketing.com",
+      "published": "2026-08-03T10:14:05+00:00",
+      "summary": "两家来自北京企业！国产大模型包揽全球榜单前六  搜狐网",
       "categories": [
-        "other_big"
+        "other"
       ]
     },
     {
-      "title": "把学习笔记变为游戏，谷歌Gemini Notebook新功能曝光 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YYzBxZEJGOGhYMVFHYmFhMnB5T0lHcWx1b3FzNUhQMWMxZVhxRXVuX0J2RlV0VjlHSnczRVhEYlRWbnlpNzdSQ1FqaXpZaG11eGNfeEF5VXlmanE1eTVxUGVsVjRjVnBBUW85dXBsNlFTVXhaQnFRQUxfSTZmS2M?oc=5",
+      "title": "DeepSeek给大模型划出的斩杀线，斩的到底是什么 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYl9vQ3FSSVduRlV3eTZyX3c2SGRuVFFucEFXaFFlLW1nM3BwajFqMlZUaDlja2Z6TmNLdU5MVFo4S2RWekFmaVdQSjFtNUE3NTlwSERhRkx1TnU2d2FhQk1YVGtXYmw3VzM5NFRLLTRESl9OZXlGejd3RE1mVXNndXJxalEyQXFv?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T10:19:00+00:00",
-      "summary": "把学习笔记变为游戏，谷歌Gemini Notebook新功能曝光  手机新浪网",
+      "published": "2026-08-03T10:10:18+00:00",
+      "summary": "DeepSeek给大模型划出的斩杀线，斩的到底是什么  搜狐网",
       "categories": [
-        "google"
+        "other_big"
       ]
     },
     {
@@ -52,14 +132,13 @@
       ]
     },
     {
-      "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升 - article.9466.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWktRaTFMN3B2RkFrQjczNkpPMC1xMTZZVW5tX0tBZk5odGgtS3ZTLW9rVVo1dlVxeU9kRVBVRkwxN2dOZHJRTzc0TUZhWkE?oc=5",
+      "title": "把学习笔记变为游戏，谷歌Gemini Notebook新功能曝光 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUs5SkczbThlTHUtVEo4c05WUVdudVoybXRWVTlhbTFfR2ZlMmFmRU5xaWlZX0NETWVEQUhOV1o2QV9zcF9RSjNZd2phalVSb2otdDgwX3duVEpvdW1COWlacnRxQ0k1dXdQb3ZDT3UxUVlGa2c1Qk1FNG9pSVdfdW1sY1JZbFJr?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T09:39:00+00:00",
-      "summary": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升  article.9466.com",
+      "published": "2026-08-03T09:37:20+00:00",
+      "summary": "把学习笔记变为游戏，谷歌Gemini Notebook新功能曝光  搜狐网",
       "categories": [
-        "other_big",
-        "tools_apps"
+        "google"
       ]
     },
     {
@@ -114,11 +193,11 @@
       ]
     },
     {
-      "title": "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBmSGJJV3NlcG0teHR1ZWUyc0drTy03STR4SDlwNmpCdExiWFhKTDloLUg4a09CUkJETXJ4eGIwSTRiNWM?oc=5",
+      "title": "AI大模型周榜：阿里千问3.8-Max空降综合前五，字节即梦5.0生图第六 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81ZmRYc2pXY0NsM0ZLOUFMZXBlT3A0YkZuVFRuazB4Q1dzVmp4VmVveU5saV9vNThKZWVRbC1hMkFBUnNZWHd5aWhGTUI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T08:35:10+00:00",
-      "summary": "DeepSeek 给大模型划出的「斩杀线」，斩的到底是什么  爱范儿",
+      "published": "2026-08-03T08:41:33+00:00",
+      "summary": "AI大模型周榜：阿里千问3.8-Max空降综合前五，字节即梦5.0生图第六  凤凰网科技",
       "categories": [
         "other_big"
       ]
@@ -129,16 +208,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-03T08:35:00+00:00",
       "summary": "不只是OpenAI：Anthropic也承认Claude黑客行为\"未达到理想状态\"  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "研究：DeepSeek V4-Flash运行成本最低 不足Claude Fable 5的1% - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0N6dVk5LUJLRzRLT3Z5TVhvbVRlYmlnSGdoUHhCN3hQQ0F4ZG5IdDdqRlpoZzk5MmJZbktLY1BpYnJkbnh6ZGx3MkE3RF9tLVU5ZUVwNDdNUlFrdkMzZDhmdG1VTVBHd1Fub2sxSXVjcjBJRWhmQ2s3OW5IOFVFdGM3YURLR3d1eFI5Rw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T08:28:00+00:00",
-      "summary": "研究：DeepSeek V4-Flash运行成本最低 不足Claude Fable 5的1%  搜狐网",
       "categories": [
         "anthropic"
       ]
@@ -177,16 +246,6 @@
       ]
     },
     {
-      "title": "美研究公司：DeepSeek新AI模型运行成本最低，比Anthropic便宜逾百倍 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sZVFRbWhScVhqMFZmcS0tVE96cm9hV05vMFZhbm8tTnotTWRlNGFNaUJPNG9LX2tjT1FZclIxLWJGWE1TOGdmVFhYSDc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T07:21:18+00:00",
-      "summary": "美研究公司：DeepSeek新AI模型运行成本最低，比Anthropic便宜逾百倍  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "浙江省人工智能赋能制造业数字化转型实施方案（2026-2030年）：培育30家“AI 未来工厂”示范企业、50个工业智能体平台、100个重点行业高质量数据集，打造150个典型应用场景，推广应用300个工业智能体， – 智慧城市行业分析 - 智慧城市行业分析",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa19CaU1wcFA2OGxUOHZldG85ZVhxbEFqbVZ1Q2tVU1NmWGRqczNxVEw1RFhFSjRUc3VhSFVaZnlJenQycVh3YUVoYktGSVFBcHpGdkNjZm55NWdqWlQzSUQtUzVycGVWX2NCdG5zbGYxVXVmd1dVQUtXeE53NTZXUWRaU1FjMzZYZzBxcUpNcmhoUnhQQlNHNV9FU1pfNVNMeHI0Um9DMzBBQ3B1?oc=5",
       "source": "Google News - AI(中文)",
@@ -219,22 +278,11 @@
       ]
     },
     {
-      "title": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为 - Infoq.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRc3RQbzdVY0RSX2ZQN1FsWVFrWkMtckpienRSam1WU2E5a2NIZjlsRGh2aWtTV1lIUEU0OEVxQ296dklsRHlRVXNlbTZVYjJKOWx2YWJGVE9sdm1xSnc?oc=5",
+      "title": "00后辍学做AI芯片，估值223亿元 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10OWVtM1NVdFA1TjExTTRrUWd2SXQxVURDa1AzMzBuVTVVZTdIM3RFYlRiNHVmUm5CZjR4WklodXB0SmJSNzNyRg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T06:33:12+00:00",
-      "summary": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为  Infoq.cn",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "00后辍学做AI芯片，估值223亿元 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUTmpkbTlMOGpPNXhPbDVXeVd5OVJQNm9yREExaGp0TE14enpJYm9wRWZfX2RvVXkxYnlLaDM4X3ZzYURudXZuNnoxcVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T06:31:59+00:00",
-      "summary": "00后辍学做AI芯片，估值223亿元  凤凰网科技",
+      "published": "2026-08-03T06:29:39+00:00",
+      "summary": "00后辍学做AI芯片，估值223亿元  凤凰网",
       "categories": [
         "breakthrough",
         "chips"
@@ -248,6 +296,17 @@
       "summary": "PandaAI李昱琦：AI交易竞争正从因子竞争走向智能体竞争  同花顺财经",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk95eHZ6OXQ1b0xLdzlqR1pMZVZ1RVFmUzByQy16RkpDdGlEX0NKeE1ES0dnY2dqRUpnV19JbFd1RHFTdjl6MGdZcGhROEFrZ2gwMVJpOXVFMFEzbnhfWXo5S2FJdEdSczMyeVFPYm1saUttdkxFNl92MFpSTmRMMWZBSGxEd3ZTWlVCRA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T06:06:00+00:00",
+      "summary": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达  21财经",
+      "categories": [
+        "other_big",
+        "chips"
       ]
     },
     {
@@ -273,55 +332,23 @@
       ]
     },
     {
-      "title": "Show me《指环王》！卡帕西强推大模型评测新基准 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUhERnViS1Y2VzZUNklrZGxNczNueEFOWDd4RzdkMnlkWFhwV1d1V0x6WmIxdF9LV1M0YXpDeE40bnFGQURIQkpMazdwNFhfb2RQWjQwNnF4SFB6U09WQWh1c3BiSTlKalNRSE9qSEhoN2NObTZsRktXWHNGSDJmZFp3OHBxMmd2?oc=5",
+      "title": "全球显示领域首款强推理大模型落地武汉- 湖北日报新闻客户端 - 湖北日报传媒集团",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1aXBHX21Ua1B5ZEs5MndPU0NOS252UkJldDdVMTJWbFprNjZZXzEyYk91dk04Q0RiTVk5a3JoajFmejVoY1FxWWlBM0JJSElOVXFlSWVQY3k?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T05:44:34+00:00",
-      "summary": "Show me《指环王》！卡帕西强推大模型评测新基准  搜狐网",
+      "published": "2026-08-03T05:50:41+00:00",
+      "summary": "全球显示领域首款强推理大模型落地武汉- 湖北日报新闻客户端  湖北日报传媒集团",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "阿里发布新一代大模型Qwen3.8-Max 下周开源 - 联合早报",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ubHlMalpYWUduVmNKQmpkel9GSUkwdWIyR1VZQk9VMkxWTkNySU8ydFF0TjJnZ2V0Q2ZxZXlfOEZzQzZYaXd3NTk0TnRBekVlTW04TTNzbEZCOGxYcHdOVk5RMXFuVHFZeHc?oc=5",
+      "title": "阿里发布最新大模型Qwen3.8-Max 多项测试分数媲美Fable 5 - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxNE04X1M2ZEFvYXBJTDN3ZWQ1SWhEUjBmSXpnYWNfSmd5UXJ5djR4TzNHY2lmSXRFa2FpZ0hTcWtDWDNNLW1ZaUh2UTg1bENuZFVfQjRqdkJ4OFVPa09HOGM2bEVLU0lWR3dGdktB?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-03T04:31:00+00:00",
-      "summary": "阿里发布新一代大模型Qwen3.8-Max 下周开源  联合早报",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "壁仞科技完成MiniMax H3大模型推理验证 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3FCTWh1bDZBaGxZRTBFZzdFZXRXWDFWQ3hOaDJqNnRIakJWS0RuSkJvQ1JRMG1mQ0Etd2NlUWtrTldWd294Q0t6Rlo1V0pnc1FrRERMVklFejJtUkZmQ01YYnAzaWVkTElVX1ZBQUFvQ0VqT01VRnZoTVBWbzJLQTN3U0NmZHE3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T03:40:45+00:00",
-      "summary": "壁仞科技完成MiniMax H3大模型推理验证  搜狐网",
+      "summary": "阿里发布最新大模型Qwen3.8-Max 多项测试分数媲美Fable 5  联合早报",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "56.8万亿Token！上周全球大模型调用出炉，国产AI包揽全球调用前五，DeepSeek登顶 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlpTdV84YUdyQTZaMktMSnlZM3VZS3c1bVhxeVhjcjNsQ0pzRlFnS21PWUowNVNFOGlBcUJmbzR6cW5lZGp4ZjhTZ0Z4Y3VnODBjblBtVWFKb094Y2NZUnZGN2F5UkhMNGxLVHJTaUcwZEdiUVg2VXNhX1lnY01zY2xRd1JCOFZha3p6Rg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T03:38:00+00:00",
-      "summary": "56.8万亿Token！上周全球大模型调用出炉，国产AI包揽全球调用前五，DeepSeek登顶  搜狐网",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "Claude仅用8分钟，5年未解Bug秒破！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVZlMXo5T3phcGdKdzAteEh0UnB5OG9OUzcza3A5REpKOVpsUUNpMWxwX2trT1liLUF5RjlpRS1tM05mRlFNVFplZFRUWm9LLVZCRjBPeG9manlRUXdmZXBZdlRUaERmNnJqWFNQM1hyZTdzOGhPQlZnRmF3SGdxbDEyeDg3MW55?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T03:28:13+00:00",
-      "summary": "Claude仅用8分钟，5年未解Bug秒破！  搜狐网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -335,41 +362,11 @@
       ]
     },
     {
-      "title": "阿里巴巴发布千问3.8-MAX人工智能模型 拥有2.4万亿个参数 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmtXMURwUWpNM3ozWWpkSGtEV3BhSjRTVnhqQ2NrU0ZyZHJsNy1MLTJfc0QyWGhVSlA2SnlhZmhxTzQ4WU9PSy1CamxCMmZNeFA5U2ItUUZtVjUtc3BOQ3NhaGpiaXZRSV92cG1VR2NvV2o1amFrbFNjQ2ZwbENNZlpiS0FRdWFCTk55MA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T02:58:00+00:00",
-      "summary": "阿里巴巴发布千问3.8-MAX人工智能模型 拥有2.4万亿个参数  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "Claude攻破未来密码：AI正在进入后量子时代的密码战争 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUV6YlBUdVVwQUhfTWZZSXJNeVhHd0ZwN2p5eUtsVG5EVnZxejZRMmhTeUkxRHIzQVFyWl9iUTk0RU1Ib2J4ckVRTGI0ckVBMF9PUVRncWtrRFhJbUJEb2RZbW9GaWZldXBKWURoZ1RrRGUwdDloZzRPTDlSS2gyeWxkbEIxWnVo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T02:51:23+00:00",
-      "summary": "Claude攻破未来密码：AI正在进入后量子时代的密码战争  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "打通中泰橡胶木通路，落地垂直 AI 智能体，木头云生态闭环赋能润宏木业发展 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnb2diQjlCYmMtcUxJUUFPR3NFeWozSHlaYUtjNE43dUUweVBCdUpINFFPYzdKNUpya0ZOVF9uR2JFNldMbUVwWGgyYnFZR0dHTVZwaTZKeVdqekI1STVmLVZpR2UtTEJJLS1nSQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T02:29:59+00:00",
-      "summary": "打通中泰橡胶木通路，落地垂直 AI 智能体，木头云生态闭环赋能润宏木业发展  中华网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic自曝Claude模型入侵三家企业，AI安全测试再曝重大漏洞 - eet-china.com",
+      "title": "Anthropic自曝Claude模型入侵三家企业，AI安全测试再曝重大漏洞 - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14d0pZb3R3R2h4RklBbFlPWFRSSmtpVlU2UnRvMWZaYmUxSDlNUlVtSlNUTEk1bkxObkh2b1dITk1xSm15eUhTYTRtbHlFZkJ3OTR2RGk5c2Zva29j?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-03T02:25:15+00:00",
-      "summary": "Anthropic自曝Claude模型入侵三家企业，AI安全测试再曝重大漏洞  eet-china.com",
+      "summary": "Anthropic自曝Claude模型入侵三家企业，AI安全测试再曝重大漏洞  电子工程专辑",
       "categories": [
         "anthropic",
         "breakthrough"
