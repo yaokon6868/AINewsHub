@@ -1,32 +1,42 @@
 {
-  "updated_at": "2026-08-03T13:42:18.086953+00:00",
+  "updated_at": "2026-08-03T16:28:18.086500+00:00",
   "items": [
     {
-      "title": "AI+NLP书 | 2026年 | LLM 的实际应用与优化：大规模部署 LLM 的技巧 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tUk1kNmVHa19wam5OV2l4bnVIcVpub0N2V01zalFwN003WXZxSDZicG9RQXlTYjI1cUEydllMMUY5S3RnaV9JRQ?oc=5",
+      "title": "联想Googlebook 15曝光：配Gemini键，9月IFA亮相 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3lrVVU3cUJDc0syZ3VPT3N4LVpiX196WkE0ZmIwS0FGSlJJRnRhRVRDWmpWVkd2WDJVV2JTMzJTS0hZa2RrSjhVZVJjUEMzb2RrVi0xM2ljX2E0bGw5N3g1eGxQQjg2Y0c2NFFXQ2IzOFhRdEc4c1Zub3BFcDQxVjVlOHFUTVBWZVdHUw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T13:30:00+00:00",
-      "summary": "AI+NLP书 | 2026年 | LLM 的实际应用与优化：大规模部署 LLM 的技巧  智源社区",
+      "published": "2026-08-03T16:05:50+00:00",
+      "summary": "联想Googlebook 15曝光：配Gemini键，9月IFA亮相  搜狐网",
       "categories": [
-        "tools_apps"
+        "google"
       ]
     },
     {
-      "title": "OpenAI降价80%后仍比DeepSeek更贵吗？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQV84a2dpN3NGVzFBdklpdy1hWjFLcWc1QUo2bVEzLUJ1Uk1rTUZKZEZ0cVNkRVNZQ3daUTI2UHRqTkpxc0tLcVMwclN1UjBVUGp3NHVYdmx2MEJYM3VuMkszbV9JS05Md3ZFMnRhU2RNdVM0am54WXZNVkR2UUE?oc=5",
+      "title": "十家国内大厂通用大模型六力横评：谁在定义中国AI的新高度？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnaW14Yy1XWER6SVh3Uk5ta05Xa2FxR3ZCODkzdVNDZnU4VXh2NHlCc3hTYlFpdENiQlJlVmxwVll6Z0RvSTlhbm5ad0JTellZQnpMYlhvS1lrY1hoMHIzbzVyMnFmS1o5aEVoV1dORXZJNXZfVlh2Y1ZTcTRERE0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T12:49:14+00:00",
-      "summary": "OpenAI降价80%后仍比DeepSeek更贵吗？  手机新浪网",
+      "published": "2026-08-03T16:03:38+00:00",
+      "summary": "十家国内大厂通用大模型六力横评：谁在定义中国AI的新高度？  手机新浪网",
       "categories": [
-        "openai"
+        "other"
       ]
     },
     {
-      "title": "大模型公司估值，正在降权「SOTA叙事」 - 36氪",
+      "title": "DeepSeek新款V4-Flash经测为目前运行成本最低知名模型阿里发布新AI模型 - 法国国际广播电台 - 茉莉花新闻网",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNaG11TGpFa2I3MmM4Y2x4cTVfSUY5Mmp6UjVYTUM4Z25Kb3NwOUZyWUJhV3ZtcVByRnotaGRGMzRfMkY1aDVjWTFLeEsycHU1a0xXOUQ1eHRtTUFUTTA4ZlFHdl9pODdDTGExYllVMXdRdmpmQ200cExnVl9nR083NDZyTEdrTnB4VmFXQTczZVdJMFV1RDhRSHN1WTZvZmpNYU9GanhQZUhHTHhTX245Rzd1ZWFndmlNWWFPSzZNdzRvajV2NWhRMmpPY0F5VTU5UEhEN2k3a0hPWE9oMTlWZ2M2ZjJKMjlKNmRyUUY5MnF1X1FnT1hiYU9wdWxOenVvSlgyazBOS0VPdGJRVjVyZFpZZWV3Y1VWT2xfVXZqVlNSanNJTkRkMm5YUW96NFlZM05PbGJzNmJ1Q2VhN040?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T13:44:14+00:00",
+      "summary": "DeepSeek新款V4-Flash经测为目前运行成本最低知名模型阿里发布新AI模型 - 法国国际广播电台  茉莉花新闻网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "大模型公司估值，正在降权「SOTA叙事」 - 36 Kr",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LdjBpU1dzX3V2QnZVYjlHUEZjM3BfcmxCekV6eDJBNmFybm1fZTN1T2piNjhQMlV0SlVrMGlGOU4xbjJMbjd2ODFtc2ZWRzRx?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-03T12:33:04+00:00",
-      "summary": "大模型公司估值，正在降权「SOTA叙事」  36氪",
+      "summary": "大模型公司估值，正在降权「SOTA叙事」  36 Kr",
       "categories": [
         "breakthrough"
       ]
@@ -92,13 +102,13 @@
       ]
     },
     {
-      "title": "DeepSeek模型为目前成本最低，阿里发布新模型 - 文学城",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kWjYtMXZfanhKVndWMkJmOFV1RHlSRGRYbXZreGpBMURMZUNoYXYyQjZJUU9BY2ttWlp3WVUydG94TXlGd0tsT3F4Vk9pUHpRSHEwc3BYSU41YzZvWkRDMjNQbjBoQWxT?oc=5",
+      "title": "OpenAI宣布：下一代大模型攻克十个悬而未决的数学难题 - 多知网",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTTkyRUhCTmxzNnBWOUloTUhKanBsbnRTbWpuNUVxazF3RlJuQzIycWM1OE1sSGowbl9DSVVaU0E3V3dlRFFENURPR3ZXZk1aNXhXWlE2VDBxbVFPUXVRR282Z3ZhcW04bFE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T10:31:59+00:00",
-      "summary": "DeepSeek模型为目前成本最低，阿里发布新模型  文学城",
+      "published": "2026-08-03T10:23:01+00:00",
+      "summary": "OpenAI宣布：下一代大模型攻克十个悬而未决的数学难题  多知网",
       "categories": [
-        "other_big"
+        "openai"
       ]
     },
     {
@@ -122,6 +132,16 @@
       ]
     },
     {
+      "title": "ChatGPT广告功能全面升级，向专业广告平台进阶 - 4A广告网",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03MC1RQUFaRzNZZVBpNXp3MTRMSzA3bTZmZF91bmFRLWZPVHBoOEJnUF9melAyY3puUGRVOWYtSXU2Zm9Wa2Njb3FrcjdMUVg3YnBRYldKQ3Z2aTRRcldn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T10:00:00+00:00",
+      "summary": "ChatGPT广告功能全面升级，向专业广告平台进阶  4A广告网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "性价比之王！DeepSeek V4 Flash太太太便宜了 网友实测DeepSeek V4 Flash后得出一致结论：太太太便宜了，“2美元就能玩一整天”……#AI新星计划 #前沿科技趋势发布月 #DeepSeekV4Flash #DeepSeekV4 #DeepSeek - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3V2QUdSSlhrYXd6cnVQZjBjei1HMmR0NlJVX2lyTnNTRnE2LUZDbHp3bWZZMU5wQ29UTzdTR1NwQzhjWEpNWnpYRlg3SmthbFJsZDNVazVTM3I5a2toOV9QN2xLblI2QWd2UTNhZE5QWmpFLXZUb0kzZ3BoU2hZUmVZa05VdFgwSHhkNw?oc=5",
       "source": "Google News - AI(中文)",
@@ -139,16 +159,6 @@
       "summary": "把学习笔记变为游戏，谷歌Gemini Notebook新功能曝光  搜狐网",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "突发！DeepSeek模型单日吞下8万亿Token，OpenAI打折追赶 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXR6Y2lfVVBOa2FySENUeVItRkc3TElBZGM1YzNXbTZ5MTQ5YXJhNi1qUTFmVi11OERfdWZ5clA5Uktfa0FKcXQweHlDOEo1ejRtakFsSldCTEhCOVVlbDhfMEwzX0xxLTAtb3FRcjl0Z191QU1mU1NONmt4LTNMRjJTcndTVm1FM1lodg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T09:35:00+00:00",
-      "summary": "突发！DeepSeek模型单日吞下8万亿Token，OpenAI打折追赶  搜狐网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -193,16 +203,6 @@
       ]
     },
     {
-      "title": "AI大模型周榜：阿里千问3.8-Max空降综合前五，字节即梦5.0生图第六 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81ZmRYc2pXY0NsM0ZLOUFMZXBlT3A0YkZuVFRuazB4Q1dzVmp4VmVveU5saV9vNThKZWVRbC1hMkFBUnNZWHd5aWhGTUI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T08:41:33+00:00",
-      "summary": "AI大模型周榜：阿里千问3.8-Max空降综合前五，字节即梦5.0生图第六  凤凰网科技",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "不只是OpenAI：Anthropic也承认Claude黑客行为\"未达到理想状态\" - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUJ5MDJnMUtHallJTEVqN3FVdnI5aVJoU0E2djRaOURCdkFKSS1UaTA0d2JsVjM1eUhudHU3RkM3aHprRnI1VWc0TzRUX1Jkc2RYMFcxUXNaNVRHbS1GSWNOZHVKYjNaSHRyc1lIZklxSUFTcl83bk5oY21uT0NyTEJ3YXFocVRm?oc=5",
       "source": "Google News - AI(中文)",
@@ -210,6 +210,17 @@
       "summary": "不只是OpenAI：Anthropic也承认Claude黑客行为\"未达到理想状态\"  搜狐网",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI智能体\"越狱\"事件始末：一系列本可避免的人为失误 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRy1Lcy1IMHdEMzB3cWNVenRTNDN1ZjI3QU90LWFMdWNtYm82M0xNek14UmgxWG92WGQ4dWNCajM5YjJPREVoTC1Zb3NsMnN0RGtKSUxoUEFidnRTYk5Jd2JqNXZhdmR2Y09iUVp0VnplRG9VbF96VldQY2pFZE5vcW5NcVBTckRn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T08:34:00+00:00",
+      "summary": "OpenAI智能体\"越狱\"事件始末：一系列本可避免的人为失误  搜狐网",
+      "categories": [
+        "openai",
+        "tools_apps"
       ]
     },
     {
@@ -225,13 +236,24 @@
       ]
     },
     {
-      "title": "机器人是具身大模型的「用户」：超维动力如何打通从人类经验到机器人行动？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmhGcnpTdWNBYnRsQmhxT1hZR2NYX3lqbU12MWRfOGhIX2xhNGdUcnVZVlZtLXBjOGFTZlpETS1vWWExVW9RUzl2UktwMkhCOEJJSkM1bXd5TkowYzdpNVA4T0cwaWp6LVVKekEtNFNOLW5ueVZOZ0MxZGhVVmVWN0dhVS1wWEp6?oc=5",
+      "title": "美研究公司：DeepSeek新AI模型运行成本最低，比Anthropic便宜逾百倍- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BQ3B0eTZQYm1YVUtXTHcxVk01c0doUEdnMmJRUmdzdjc5anNSZUFmTGNtZ0NwQnJyWXozVlhsaGpBdmJGOEc1dzJPMG9VVmtxQTBnMWw4Yw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-03T07:51:06+00:00",
-      "summary": "机器人是具身大模型的「用户」：超维动力如何打通从人类经验到机器人行动？  搜狐网",
+      "published": "2026-08-03T07:55:23+00:00",
+      "summary": "美研究公司：DeepSeek新AI模型运行成本最低，比Anthropic便宜逾百倍- 产业链  光通信Pro",
       "categories": [
-        "other"
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek又发重磅更新 中国AI大模型的优势在哪里？ - cztv.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2Z0l5VFhibnFtVWdQeGRoSlJsYndSbUlmS3p3d0h4azQyenNZOTJwY1N3RWx4VTBNbFFZQnllZDZaYUgtNVJDa1dvemFHUGM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T07:50:00+00:00",
+      "summary": "DeepSeek又发重磅更新 中国AI大模型的优势在哪里？  cztv.com",
+      "categories": [
+        "other_big",
+        "breakthrough"
       ]
     },
     {
@@ -278,6 +300,16 @@
       ]
     },
     {
+      "title": "DeepSeek模型单日吞下8万亿Token，OpenAI打折追赶 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zdXdrRktqSV92OVlhOWMzdWZ3c2RRWHFsdFIxUVJYdnBFX0hnS1RoR2NESHAycDZfM2VLLXRBaUFzMDBnMkY4SlNnczQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T06:36:30+00:00",
+      "summary": "DeepSeek模型单日吞下8万亿Token，OpenAI打折追赶  凤凰网科技",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "00后辍学做AI芯片，估值223亿元 - 凤凰网",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10OWVtM1NVdFA1TjExTTRrUWd2SXQxVURDa1AzMzBuVTVVZTdIM3RFYlRiNHVmUm5CZjR4WklodXB0SmJSNzNyRg?oc=5",
       "source": "Google News - AI(中文)",
@@ -289,16 +321,6 @@
       ]
     },
     {
-      "title": "PandaAI李昱琦：AI交易竞争正从因子竞争走向智能体竞争 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbzR3R3VKOVhRa0JSS1hfRDVXcW5YTmt6d0tCS3ZSb2QwblRyX1diSGI0SldURWtQSElteHZFZUZmRmZQTkdNbnVSWVB5RC1mdkxza3AxNlY2ZG9vME13NQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T06:07:18+00:00",
-      "summary": "PandaAI李昱琦：AI交易竞争正从因子竞争走向智能体竞争  同花顺财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达 - 21财经",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk95eHZ6OXQ1b0xLdzlqR1pMZVZ1RVFmUzByQy16RkpDdGlEX0NKeE1ES0dnY2dqRUpnV19JbFd1RHFTdjl6MGdZcGhROEFrZ2gwMVJpOXVFMFEzbnhfWXo5S2FJdEdSczMyeVFPYm1saUttdkxFNl92MFpSTmRMMWZBSGxEd3ZTWlVCRA?oc=5",
       "source": "Google News - AI(中文)",
@@ -307,38 +329,6 @@
       "categories": [
         "other_big",
         "chips"
-      ]
-    },
-    {
-      "title": "巨头集体押注Work Agent，AI编程之后又一个应用赛道崛起了？ - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QR29IcDlIMEZTQ21PVDluSjZQMU82MUxDQTFaYzJaV0R1VFVRdFlmdUNNUGRURFNFbG5Nd3p3Q1VmYjJ6UGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T06:05:17+00:00",
-      "summary": "巨头集体押注Work Agent，AI编程之后又一个应用赛道崛起了？  财联社",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek-V4-Flash正式版发布并开源，全面超越V4-Pro预览版 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMk1TTVdqS2RScllXbW10aWNVSXRJOHhzWldPQUtHdU5GQlJTd191WUhFdC0zME5jbmJTaUVfODBzMmY2ZHhNbjNpSmJUSzA2WGVmazNNa2V5Z1ItNkR6ZGxOQjlfWXA1RmxIdVRBdmpvSGFLa2w4TC01OFpSaXAzUHJlVlNIZVNoTjN5NA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T06:04:44+00:00",
-      "summary": "DeepSeek-V4-Flash正式版发布并开源，全面超越V4-Pro预览版  搜狐网",
-      "categories": [
-        "other_big",
-        "breakthrough",
-        "open_source"
-      ]
-    },
-    {
-      "title": "全球显示领域首款强推理大模型落地武汉- 湖北日报新闻客户端 - 湖北日报传媒集团",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1aXBHX21Ua1B5ZEs5MndPU0NOS252UkJldDdVMTJWbFprNjZZXzEyYk91dk04Q0RiTVk5a3JoajFmejVoY1FxWWlBM0JJSElOVXFlSWVQY3k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T05:50:41+00:00",
-      "summary": "全球显示领域首款强推理大模型落地武汉- 湖北日报新闻客户端  湖北日报传媒集团",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -359,6 +349,17 @@
       "summary": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude  thepaper.cn",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "前五全是中国产品！中国AI大模型调用量连续十四周领跑：DeepSeek-V4-Flash登顶，小米MiMo-V2.5退居第二，GPT-5.6 Luna降价80%后登上榜单 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWi16eG5WMHJBVTg3MlJFeFhnaVNCeU1BYnF0QlM3WWpEM1hQVnNtRzFOXzBLOWxpN3hCVHVLSUJSZTlRLVB6a3FXRjJsN2FoaklKX2ZvR1k0QWFrVDVCVHVyZ3psdzQxTzN6WHlVS052RFhLbGVtUDk3UzQyWXpsQkVoSDB6TUJH?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-03T02:34:19+00:00",
+      "summary": "前五全是中国产品！中国AI大模型调用量连续十四周领跑：DeepSeek-V4-Flash登顶，小米MiMo-V2.5退居第二，GPT-5.6 Luna降价80%后登上榜单  搜狐网",
+      "categories": [
+        "openai",
+        "breakthrough"
       ]
     },
     {
