@@ -1,6 +1,189 @@
 {
-  "updated_at": "2026-08-04T07:14:48.915524+00:00",
+  "updated_at": "2026-08-04T10:11:59.532871+00:00",
   "items": [
+    {
+      "title": "AI自主性发起攻击，美国政府与AI巨头达成一致：模型发布前，进行网络安全审查 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVRRQTZzQm5QUFZOV3VWS1BtWW5BN0s5UW1YMmxMT3haRUd4ZG4zUWJNOS1pT2pyNW1UeEhvMmZqcG9Rd1RoSjZzazJDMkhXWVBobkdwYk5iNUYyaFBDdzQ5Z1NDZVFnWXo2a3RhYW1xazVXempIVm5NR2cyMlRpNkVlb3U3TURpS3UzNUJvOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T10:03:56+00:00",
+      "summary": "AI自主性发起攻击，美国政府与AI巨头达成一致：模型发布前，进行网络安全审查  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "高端空调推荐？美的空气机T3值不值？800风量+50新风+AI大模型，一篇说清+FAQ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wcHk1ZU96SUE4M2t1a1dIelBxYmxDS3htZUtBMGdxd3U4QUhJMUcwcHBNeXpQbXdubDZqRlFGT2lJd2hVUVdvWXJKNVRjMHNHSjUzVDhXd0Zob0NGbE9fbHA4cl9QbVdXN3ZPTF9jM0pXRzFXSXRRZXpUeUhwcXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T10:03:56+00:00",
+      "summary": "高端空调推荐？美的空气机T3值不值？800风量+50新风+AI大模型，一篇说清+FAQ  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "三大AI智能体首秀、机器人体验区落地 服贸会ICT展9月亮相北京首钢园 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnhSMUdDMVU2N2F4WWg1YWtQSzBjVE9ZR0dvVmxNd3NmaTRTZmU5TnpQR0JUWFZKclViUG5meUdaWE5MX0pZcE16a2ZNQWpzcjVZOF9iQnR2M2tlQmhLSGVBYXdpMU9wd0QwV190T3l0alEyQTFVQ0VNVzl2Q1pEQkNzZ0o5M1Br?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T09:55:00+00:00",
+      "summary": "三大AI智能体首秀、机器人体验区落地 服贸会ICT展9月亮相北京首钢园  sohu.com",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Meta、OpenAI等美AI企业今日将与白宫谈安全测试 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWx0bGM1MXNETjE4UmNRdHlXWXNWRzNEMTJjRVlNNFNLM0RPcnpNTkdUU3Y1YlZpYW81RkVJMF9OVWdObjZHcV9OYVdHXzFleGllRllWckdONVV6NTlPZW0tN1BqUmxBN0ZUYkNXQlFaNG1GSjVVSFZaSkw2XzM3eGFlcUNSUG11cnNNcQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T09:37:00+00:00",
+      "summary": "Meta、OpenAI等美AI企业今日将与白宫谈安全测试  sohu.com",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "交大安泰发布“AI宣言”，直面商科人才培养时代之问 - 上海交通大学 新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96XzIyVjJleWw3ODR2eGpwUDd0ZkxleDJ1djdLWGZoZnltRmdpLWFpbU5IdEs3ZEQ3eUpkaVUxOTdmTkpyWEJHVHBBTGs3ZW1aM19VWGFIR3M4cE82bWRZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T09:31:51+00:00",
+      "summary": "交大安泰发布“AI宣言”，直面商科人才培养时代之问  上海交通大学 新闻网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "ChatGPT韩国月活跃用户数居第一 Claude疯狂追赶 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0ttT25ock1qMlhPNGdUM2N1X0UxNjYtWlpHMkFXMFZVekM4RmVFbFdMYzNwNmV3dUpyUmJfQ1ZtVmI3UFlsOFQ1TUZHTHlSekJHYzYyT3dVWFI1ZzhxdVI5U0hjWlYyaWM4UTdScF9ZREtxa3hPLXFuZW1ZeU9mWjhyY0lvUHdI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T09:25:00+00:00",
+      "summary": "ChatGPT韩国月活跃用户数居第一 Claude疯狂追赶  sohu.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Kioxia发布面向人工智能应用的KIOXIA GP1系列超高IOPS 固态硬盘 - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTkRKMlRzeWRQdTRHVkY4elROVF9teVpjdGFvc296Y2lrTXlseWgwR1Z6UTJUTXIwdk5pT056S3F2WW5aaWlIRWxreTlSWk1WMnp4bmQtSTFET1BHMjg4ZzU2TjVwenJ3ZmNV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:59:00+00:00",
+      "summary": "Kioxia发布面向人工智能应用的KIOXIA GP1系列超高IOPS 固态硬盘  Business Wire",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国华电黔源电力发布两大数智成果 - 中国能源新闻网",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02S1I2RGZ4aHRPdzVmTFFkSVREZlJNeGxmTWxSdGUzbnNGYlhZU1I1ZTlLdmhIcXU1YnZMcFE4c08xbnBwWlByNjdaVVZULXFoZEx5dG93R09sRGhBd2ZSSDhBZjBOUjdxaWhwUjM5UWJ0Q1MxOTJB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:55:17+00:00",
+      "summary": "中国华电黔源电力发布两大数智成果  中国能源新闻网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "120万星！开发者排队“投简历”，DeepSeek一条内测帖，变成了Agent开源大摸底 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jaXFndFUwa3pnN1NXNGdpWVJqc3Rsb2pMUTJLSDg4eVRCRC1GS2RSN1JmQkM5Vll6bFNZVGUwRkZJWmtaSzZrWUhyUUs?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:42:16+00:00",
+      "summary": "120万星！开发者排队“投简历”，DeepSeek一条内测帖，变成了Agent开源大摸底  凤凰网科技",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "管得了社区、卖得了商品 这家公司的AI智能体按月赚“工资” - 湖北日报传媒集团",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjc2JxMHlSeTBDRFhxNmpWLU5MZXhBQm1hMGNDVFVzUmpxUEZqNTBaeGFWYU5ESExrdWh2dlRnTkRqUHJ4ZjY1VXJSallrM0hxSVoyNDJHYjQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:28:45+00:00",
+      "summary": "管得了社区、卖得了商品 这家公司的AI智能体按月赚“工资”  湖北日报传媒集团",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "刚刚，Claude Fable 5，又拿第一了 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybFktUXEyZTVFblJyRnpicVNGMGxrcUt4QjBLUklrZGVra2doRnREVnFHMGo4TkNGWElhbmZPdFRGY2VvTElMNk5WLVZKZFk2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:13:40+00:00",
+      "summary": "刚刚，Claude Fable 5，又拿第一了  36 Kr",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "新道科技作为财经类专业人才培养方案修（制）订智能体独家技术支持商，受邀出席2026年职业教育科（教）研工作会议 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrVGwzOTRmRHo0VGRnYVFTblVTMThqNnNNS05pZ1NGS3VnWlBnMGpnNjZPelJXZ3VzeTNBZDBHQTJubGNEeTdMVFJGbVN0Q2dhN0hLaV9PRXZDQVVVNmREZGVuTHMyR2JNcGJ1SQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:09:00+00:00",
+      "summary": "新道科技作为财经类专业人才培养方案修（制）订智能体独家技术支持商，受邀出席2026年职业教育科（教）研工作会议  中华网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "腾讯混元Hy3大模型免费调用再延期，顺延至8月31日 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tZ2Z0OXd5QlZWaGw5YU9TRG1Cc0xMSllBTGZHQ3VqQnVlZXZlZmtsYzdyVUlaOGliYzIwRnRYZHRWWEh5Z096Qm95NDM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:01:16+00:00",
+      "summary": "腾讯混元Hy3大模型免费调用再延期，顺延至8月31日  凤凰网科技",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Show me《指环王》！卡帕西强推大模型评测新基准 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FUTQzRWhmd3V4Tmdla1A5RnB1N0hDMV9IR1VPWlItTS1jblFvRGdCaGNTMnFMWXBiclFpY0MtYlVibW84V0w3Ng?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T08:00:00+00:00",
+      "summary": "Show me《指环王》！卡帕西强推大模型评测新基准  智源社区",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI等海外巨头大幅降价对标Kimi、DeepSeek - 文学城",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MZ1p6Y2pLdWd5ZFNRa0MyZGlMNl9KZHFYM2lzYXN0R1JkcmNmM0I2WXBoQW1FNmtKYkE5TGJuejFDS3RPQ2VBWUI5ZXl4bXZpNzcwNUE0Q2xYbWliVmE4eHNLaVdVQU1s?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T07:38:25+00:00",
+      "summary": "OpenAI等海外巨头大幅降价对标Kimi、DeepSeek  文学城",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达- 21世纪经济报道 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkNGaEdZRTVGcVV0anE4bXBfcVA5QnVXcTNiT25NZkR2N1ZsVHpETVNyUnNITmlOeDBJRU5FTnlZZEtMYlBFbmdFb2lFd0paRmg2UGl2Q0kwOU9MdU5iODhvem9leFVPYXUwWUp0Q09ZRkRRblQwN21CQXg1N3Z0OC1kcl9CM0tfamVkOVZRaXVydVVu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T07:22:19+00:00",
+      "summary": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达- 21世纪经济报道  21财经",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "FBI探员窃取90万加密货币,咨询ChatGPT规划移民 - 文学城",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qSmZ4enU1WWVVSkhjYkJ4S1V0a0hsTURRcEZjM3FnZWlQVUpzR1U1NlVqNnJISGFJTFVUUWhiRzlsdU9PSXJXWjdfc1lMWksydHMyYW0tcE50azBtRDh4VEhCNERUR09W?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T07:20:39+00:00",
+      "summary": "FBI探员窃取90万加密货币,咨询ChatGPT规划移民  文学城",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI将于8月9日关停ChatGPT Atlas浏览器 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45M3Zwb3ludjhUR2lsQ0VsY21jMW5PN1lyYTRSUkE2Vk5qSTM2TVc1T29abTU4YXZDOXJxd1JyZVVaNmZDTWpoYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-04T06:58:05+00:00",
+      "summary": "OpenAI将于8月9日关停ChatGPT Atlas浏览器  品玩",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "大模型安全治理面临“大考” - 集微网",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ISGpnVEFDMzlwT2I5V2lMMkZ2dnF4MmRMck1LNUV1djVLelR3NE00S3NLUlVtLW5QeDMyUm5sXy1oVFU?oc=5",
@@ -23,53 +206,12 @@
       ]
     },
     {
-      "title": "AI大模型价格战对普通用户使用AI服务有什么好处？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94bE4ybkNVTk5OM1VKTU1HTll1WnBPeHp2VTZFbkZfbUNaVzdNT3k2VmYxRjBwWE9HT2pEWFhJYldNNGpIcEozTWhXS241VVQ5YlZ2emZ4VzNJTWNSaTV6ekpZNkZERFJsZVQtYi1RZUhkelFoUzRyV0ZDZmxKS2M?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T06:28:26+00:00",
-      "summary": "AI大模型价格战对普通用户使用AI服务有什么好处？  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek和OpenAI的实际性能差距还有多大？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pY3NHRmY4SG1qOTNVZnV4Q0VqaTZ5Vld5QzJJdWEwMW91RzktdWhMUE9CQTIzUVhxb3hJUkxiMm1SZ0ZfZkUzMmZsYzBERmxTdkdSbnNoRVRuQkViMFF6SEtVTEIwbXY3VHkxSTlKYU5ZemU1YU1HNkdReno4dHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T06:01:34+00:00",
-      "summary": "DeepSeek和OpenAI的实际性能差距还有多大？  新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "万联易达全球亮相！产业智能体互联网：无界、无休、自生长 - 搜狐网",
+      "title": "万联易达全球亮相！产业智能体互联网：无界、无休、自生长 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUhYdTFzczk0NHVid3JLMlZfNC1YSG13aFJtU1p5SUVfQk00UTg0RFR2Tm9GcGxNRVF6RzUyRDBmblBLRElEUC00NU1QOG5Jd1Nqenh1TGR3c05ZWjdqWFJXMUlWNjFXejlnXzZ0SldvZXRMQXlRTmw5RlB4VkpNRnJwVkZYcFpW?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-04T04:28:00+00:00",
-      "summary": "万联易达全球亮相！产业智能体互联网：无界、无休、自生长  搜狐网",
+      "summary": "万联易达全球亮相！产业智能体互联网：无界、无休、自生长  sohu.com",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "国产大模型MiniMax H3禁止美国人使用：原因迫不得已 美国人自己的锅 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUQxRW02THUxWW4tR3JxN2s3SlpkZm14TTRIWmpJYWZteUcyTDUwdnVWUHBvdFFLbE00aTA1SHZ1YWlTNkxoeVc3aW9FM3dPd0xjbkJVT1h2VUhadU5yZjJPMkN2Y19yZmRoMVRSdnRsMkRCRk5TSUdlbjNLUVlFb2NXalVLdWtn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T04:25:16+00:00",
-      "summary": "国产大模型MiniMax H3禁止美国人使用：原因迫不得已 美国人自己的锅  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "英伟达护城河告急：AI智能体要掀翻CUDA？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzk1bUc2MW1PWWhzTnduM2o5TmRaYmJYbm8waXo1Ym1ENWFzejl1Qy1URGRxWHFJelNkbTFYYVFtMndtUF9oWVhjbndKY0FIVk9HOUo1cUsyTjROYkF6V3BrV3VkMXI2amZRbktVS1NPM2MzYnh4OFh1UTZQdnRtZzlXSGthc1ph?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T04:21:51+00:00",
-      "summary": "英伟达护城河告急：AI智能体要掀翻CUDA？  搜狐网",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     },
@@ -95,41 +237,32 @@
       ]
     },
     {
-      "title": "刚刚！Claude Fable 5，又拿第一了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc29WdzhaX0JCc3luVGlsUE1yMEdFNjBaT2pVRjdFNUtMaUFSTkEtZ1FlRlg1Tm9uUDZmOHhvLVVlSFVBcTIxejhHbmZiZklCNlVjUDNqaEZKMncyMlhiVU5MTDNUVy1fRnhJN1N0emRDdHFkaGt6OTFSQ2lzV18xWWMzSUExcDBN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T04:12:12+00:00",
-      "summary": "刚刚！Claude Fable 5，又拿第一了  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "来看看丰田打造的丰田章男AI智能体 - 车家号",
+      "title": "来看看丰田打造的丰田章男AI智能体 - chejiahao.autohome.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vZktMYTliZzc1MnpsbmUwM1VfOXp3T25FTVFzS1NtQmV0ZXRIUG9PeGVUa3lfUUREUUhWNHNyMHBYb0U5LUZOQ3RnNHdETXJHdm90NnEyWTJOcHM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-04T04:09:32+00:00",
-      "summary": "来看看丰田打造的丰田章男AI智能体  车家号",
+      "summary": "来看看丰田打造的丰田章男AI智能体  chejiahao.autohome.com.cn",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "特别报道丨监管新规发布，AI手机能让消费者放心购买吗 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWduVVRCT2dBcDBsUnlWQmlMSEh2WHM3TzNOZVlNRzlqYTBTcU5rNTRjU2hVaHA1X3R3bHFNczJTRkQ0a2UwWWFwX2YyNFFmRkVVMjBUNTNfbm5VOEZBN01WMVZMWjlsM3JZeXhFUW5WU3YxMzdhMEYwbEdsSDloZ2NtT2dqTUJk?oc=5",
+      "title": "QuestMobile发布AI原生APP用户规模榜：豆包、千问、DeepSeek前三- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DY1pydFhPREc2SjFOUEY0TFlpT1A2UlloMjJ0N1NvcXVYQ1lMbmZsUmpNN09jdUt5MV8yX2tsd01SQW11TTNLN21uYlc0THI2YlBVZnNMSQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-04T03:46:23+00:00",
-      "summary": "特别报道丨监管新规发布，AI手机能让消费者放心购买吗  搜狐网",
+      "published": "2026-08-04T03:52:50+00:00",
+      "summary": "QuestMobile发布AI原生APP用户规模榜：豆包、千问、DeepSeek前三- 产业链  光通信Pro",
       "categories": [
-        "other"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
-      "title": "行云科技亮相WAIC 2026“数据要素×行业智能体”分论坛：以算力基础设施赋能智能经济 - 搜狐网",
+      "title": "行云科技亮相WAIC 2026“数据要素×行业智能体”分论坛：以算力基础设施赋能智能经济 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbW5qel93UnJ3RFlObUJ6Q3dPUFpmSVV2cWdLV2stcGItQzhhTkZNZld1UlFHS2VnZ2EzbXN5N3MyTFZkNHJLbHZwWVBmenZhalV2TXAyNTRPR21qN3J6N0M5Rnl0X0t5NUVEaDF1ci1NZUQwMXlRNE1TVzR0X3pZbkZTSF9Tcm15WE1KUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-04T03:30:27+00:00",
-      "summary": "行云科技亮相WAIC 2026“数据要素×行业智能体”分论坛：以算力基础设施赋能智能经济  搜狐网",
+      "summary": "行云科技亮相WAIC 2026“数据要素×行业智能体”分论坛：以算力基础设施赋能智能经济  sohu.com",
       "categories": [
         "tools_apps",
         "chips"
@@ -156,43 +289,32 @@
       ]
     },
     {
-      "title": "如视×苏州博物馆：业内首款博物馆专属大模型Argus Museum上线-AI云资讯 - icloudnews.net",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fUm5wWFVWVWg4R2h6cDNXUmpJV2c1RTEzU05CQnFXOXg2OEZmU1dwbW5oNnlpYmNBS0FOWUs0SlQ3UnZvc2VKR1lScFFYT1BvQ1E?oc=5",
+      "title": "国产大模型MiniMax H3禁止美国人使用：原因迫不得已 美国人自己的锅 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfWVRJRWxLZlkzWUczMl8zNV9DSzJ3YWVsaGczT1VtcDczVzFXYmwweHNiRDdwWktDbC1ZUWoteE1FM04tekhXUmFtQ3U?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-04T02:38:00+00:00",
-      "summary": "如视×苏州博物馆：业内首款博物馆专属大模型Argus Museum上线-AI云资讯  icloudnews.net",
+      "published": "2026-08-04T03:00:22+00:00",
+      "summary": "国产大模型MiniMax H3禁止美国人使用：原因迫不得已 美国人自己的锅  凤凰网科技",
       "categories": [
-        "other"
+        "other_big"
       ]
     },
     {
-      "title": "从DeepSeek到Kimi 中国大模型为何纷纷“开源”？-新闻中心 - 中国宁波网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5meXg5R3VTZmdPZG80enA3T0o5c0k5ZHV1TUppMlFqUExYeHhvRXFTbE1mUU1XQm1fVF90OEc2c1lLV1pDTFpFWTlsRU16NEVMbnRQeHlVczV3VnhkUEZrQmZqY0pVcXF0?oc=5",
+      "title": "AI芯片公司DeepX再获420亿韩元融资，估值飙至3.14万亿韩元- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sT1V6UHhOOGV5bEVLSDhnV3NqNEVLcEVXeXhDZ1BYNHZqMjB0LTg0Y1VBZlF5d0dOUlpFQjh0WllfdDBmYXVxaTg3RHFtVUZaM2g3Wjg5dw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-04T02:13:57+00:00",
-      "summary": "从DeepSeek到Kimi 中国大模型为何纷纷“开源”？-新闻中心  中国宁波网",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "AI芯片公司DeepX再获420亿韩元融资，估值飙至3.14万亿韩元 - 集微网",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3MlBJM0tmTl9ETmQ3TzJJS2tyR2FQbWlsWXR6aUVOSkcxc1BEWkJJdjExZDhUSVJ6XzByRFd0TzNKMFk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T02:12:23+00:00",
-      "summary": "AI芯片公司DeepX再获420亿韩元融资，估值飙至3.14万亿韩元  集微网",
+      "published": "2026-08-04T02:12:43+00:00",
+      "summary": "AI芯片公司DeepX再获420亿韩元融资，估值飙至3.14万亿韩元- 产业链  光通信Pro",
       "categories": [
         "breakthrough",
         "chips"
       ]
     },
     {
-      "title": "能让DeepSeek自进化的Harness！LlamaFactory作者开源新工具：0.2元自动造Agent - 搜狐网",
+      "title": "能让DeepSeek自进化的Harness！LlamaFactory作者开源新工具：0.2元自动造Agent - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG9FdUJPeElvMkg4NWtiRm5uOXM4S1ZsZkJfR01IX3RNNjhVXzV0emM2R01MaDdveHJOdWRTeUw3UmRfcmprVHlWUjZzLWJUS05sZGxhYU9HcTZLem1hd3FGWWk5WERROVdIZjV1V2hvTDhfTUJiVGUzZUtYWE13U2ZjNzBudGVT?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-04T02:08:07+00:00",
-      "summary": "能让DeepSeek自进化的Harness！LlamaFactory作者开源新工具：0.2元自动造Agent  搜狐网",
+      "summary": "能让DeepSeek自进化的Harness！LlamaFactory作者开源新工具：0.2元自动造Agent  sohu.com",
       "categories": [
         "other_big",
         "tools_apps",
@@ -200,92 +322,11 @@
       ]
     },
     {
-      "title": "速递｜韩国边缘AI芯片DeepX获3000万美元融资，估值涨四倍至22亿美元，已获8国30多份量产合同 - 搜狐网",
+      "title": "速递｜韩国边缘AI芯片DeepX获3000万美元融资，估值涨四倍至22亿美元，已获8国30多份量产合同 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekxBQVdkd2g5QlNxOHBkN3FXSjljTVZDUjVVYjBheVJSR1hMMFd5YnJkMTVGUEJXUlpPUjE1RFNrVUhwRWNQbGstNGw4RHNaelI4NW1EWnFvN0hybHNpeXFUX1JydjRsVHRzQXNYVUUtdFlCUlNPTnloMTQ1MXVDTExfV2loWFU3MXQ4TA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-04T02:00:00+00:00",
-      "summary": "速递｜韩国边缘AI芯片DeepX获3000万美元融资，估值涨四倍至22亿美元，已获8国30多份量产合同  搜狐网",
-      "categories": [
-        "breakthrough",
-        "chips"
-      ]
-    },
-    {
-      "title": "深度｜大模型厮杀背后：谁在成为AI时代的隐形 “卖铲人”？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnBHaHdibm1sVTBuanpSUGRXYmFFT3pRQXEwcFgwMWlVOXN6T3lXS1g1QXhSSnBlSGpCWmx0VzRzQkpMUmRybEVZZlQ0cmdaVVlKelBUNjBLRk5HaGJUNDVESm1nTU1xX1JJTkFhU0psSi0xb2hxWUlDdE41SU52a01aTnQ5STFiTjh0UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T02:00:00+00:00",
-      "summary": "深度｜大模型厮杀背后：谁在成为AI时代的隐形 “卖铲人”？  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "第一到第六，全是中国大模型 - ncsti.gov.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTJ4QjdlOTFjU09XUjZWODRMcGxaR3pjWlNyN3A2c3JxdVZNelRpN3kwVUotU0F3ZXo2azJldXJXUHkzZEVQN0p3UGI0dlhwc0ZOaVl6dFo4UDV6MVlnUENQTzVaVzFNVDFGSmVaQmVNOURFcFBqZ0JnTElBbXBENkxB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T01:56:30+00:00",
-      "summary": "第一到第六，全是中国大模型  ncsti.gov.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "1688上线AI智能体牛顿升级交易撮合逻辑- B2B - ebrun.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZEd5bWYwV3JFZ3QyaGJqb2hocHg0SWRmTDRhVldkaDM0Xy1RZWtidm9lSzFkWklTOVJYQWdtWDBQd2pJYm5Wb0tyeXRvT0k2LUIzaWNB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T01:54:32+00:00",
-      "summary": "1688上线AI智能体牛顿升级交易撮合逻辑- B2B  ebrun.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "首个面向基础教育场景的人工智能实训平台在WAIC发布 - 中华网生活",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhSXpKbXItSWZRRUVRb1ZNWDRmWkl0MG15YW5BZ01tY2JjZXlUSjZCdFZfYUJQMUwtMkp3SDFEUWtkMnhYSUp3VkIyNEFWUlU3LTYzVW9nUnZDelFTNXF4dFNjMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T01:53:19+00:00",
-      "summary": "首个面向基础教育场景的人工智能实训平台在WAIC发布  中华网生活",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "中美AI大模型竞争加剧：OpenAI等海外巨头大幅降价对标Kimi、DeepSeek - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUd0pEc2l2UnhFT2xGU0hXcFN2YTMyWk81UEtSUkpJT2tMaW5YYTJHcUZqbUFWOEcxbUQ4SW1aa1o1ZkwwaGdncGQ1WjE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T01:49:20+00:00",
-      "summary": "中美AI大模型竞争加剧：OpenAI等海外巨头大幅降价对标Kimi、DeepSeek  凤凰网科技",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "瞭望·政策解码 | 智能体发展规范创新 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTZjZUFDcDlWVmdSQ2tsVWdIWXZreEExN1hrcWdseXN2dDZNNG5KN3NaTWdrSWRTc3Q2YlVBbnJPTEFmRkU0c2xkUTFuRC01a3c4WExzaU1GakJnLXBZOWM0NGZBRmp4QmdlNHBEREw2UmZDZEcwQWFYTHJMQjdVN2hINTRJSWw3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T01:17:42+00:00",
-      "summary": "瞭望·政策解码 | 智能体发展规范创新  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "公司大模型发展的如何？华大基因回应 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3pQZVpMVnV1NVR5UGZjNmw3SmVUcHFFZVljQ2x6Z3p2b2t3dlBTdHVWU0NwQzBVLTd6RFhxZ2Q1akpxaW50N1VSS1BXZXY2TC04WXZiWFFSZlJER1VGaUZXT1pMYTY1RXhjUXpUOFE3dEZNeEhzMERFelRFWEhwNC0yb2pGY1NYaVFyRw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T01:07:00+00:00",
-      "summary": "公司大模型发展的如何？华大基因回应  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "城堡证券预测美国科技公司AI芯片债务融资2028年超5000亿美元 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kYUgyT0hZb0pEWTFsbzVBb2x5cWI4LWpsNHcyMlJHYVhqbWRXZ2RNZmtwUmJBb2djUFR5V29xS3J6dU41NXRKNDJMbnpEZkNwRnU5RDhhbkNhTG1TX2dVeXRB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T00:59:18+00:00",
-      "summary": "城堡证券预测美国科技公司AI芯片债务融资2028年超5000亿美元  观点网",
+      "summary": "速递｜韩国边缘AI芯片DeepX获3000万美元融资，估值涨四倍至22亿美元，已获8国30多份量产合同  sohu.com",
       "categories": [
         "breakthrough",
         "chips"
@@ -302,26 +343,6 @@
       ]
     },
     {
-      "title": "0.44美元，大模型的生死线？_精彩视频为您呈现_36氪 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSFQ4TGpsT3lNaDA4VTE3NWJvbmdDQVEzUFBwSzg1UVM5aDhWN3NnMU5yOWlaMmFXTGRTbTdjOEFOMmhqR3c1R1p3SGNSeDdYNXhZOW53?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-04T00:17:17+00:00",
-      "summary": "0.44美元，大模型的生死线？_精彩视频为您呈现_36氪  36 Kr",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
-      "title": "DeepSeek模型单日吞下8万亿Token，OpenAI打折追赶 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNeURxSVd1c21rY091V2p3eUNfU0FsTTZMOFVOOVVvbGlzajJyMXNhR3JLV1hGRTR0d0dpOV81Skc4VXNONk1ucm9OdS1JR3lHWGZZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T23:52:47+00:00",
-      "summary": "DeepSeek模型单日吞下8万亿Token，OpenAI打折追赶  第一财经",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "大模型公司估值，正在降权「SOTA叙事」 - 36 Kr",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LdjBpU1dzX3V2QnZVYjlHUEZjM3BfcmxCekV6eDJBNmFybm1fZTN1T2piNjhQMlV0SlVrMGlGOU4xbjJMbjd2ODFtc2ZWRzRx?oc=5",
       "source": "Google News - AI(中文)",
@@ -329,16 +350,6 @@
       "summary": "大模型公司估值，正在降权「SOTA叙事」  36 Kr",
       "categories": [
         "breakthrough"
-      ]
-    },
-    {
-      "title": "OpenAI宣布：下一代大模型攻克十个悬而未决的数学难题 - 多知网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTTkyRUhCTmxzNnBWOUloTUhKanBsbnRTbWpuNUVxazF3RlJuQzIycWM1OE1sSGowbl9DSVVaU0E3V3dlRFFENURPR3ZXZk1aNXhXWlE2VDBxbVFPUXVRR282Z3ZhcW04bFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T10:23:01+00:00",
-      "summary": "OpenAI宣布：下一代大模型攻克十个悬而未决的数学难题  多知网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -360,17 +371,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk95eHZ6OXQ1b0xLdzlqR1pMZVZ1RVFmUzByQy16RkpDdGlEX0NKeE1ES0dnY2dqRUpnV19JbFd1RHFTdjl6MGdZcGhROEFrZ2gwMVJpOXVFMFEzbnhfWXo5S2FJdEdSczMyeVFPYm1saUttdkxFNl92MFpSTmRMMWZBSGxEd3ZTWlVCRA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-03T06:06:00+00:00",
-      "summary": "阿里发布2.4万亿参数AI大模型，算力需求有望持续扩容丨盘中雷达  21财经",
-      "categories": [
-        "other_big",
-        "chips"
       ]
     }
   ]
