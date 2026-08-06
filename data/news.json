@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-08-05T22:35:08.628728+00:00",
+  "updated_at": "2026-08-06T00:01:30.693203+00:00",
   "items": [
     {
-      "title": "Meta推出首款AI编程智能体 主打低价挑战OpenAI与Anthropic - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjdVMVBtMDhSMnpDSVVranFsbEtUWmJldk1EZlk3cnphQ3FNVE9sMVhKWFJVd2FXQV9UbXZ5dTE3eEg4TjBXTnpGemM3b01SZGEzcmpEb0E0bjBLckxJWlZwcTk1d291eU1RaWRzQlI5R2YtTUF6R0xVeG1mbkVaMVYwMW00UTlq?oc=5",
+      "title": "挑战Codex等，Meta推出其首个编程AI智能体工具Muse Code - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE02T3N3SEI5ekpqcUs0ZzNyN2tsZ2VBWHpOQnpBRUlxaGJ6ZFd3aUkxYXlIRFFKNVZqSmY5dkNOeTNvb1MxelNvQVRZQWw4WjFVWmtaMkxmVENZZlNvZ29VanMwcEtIRkRCSDlDVTlfZmVQNHVSOUFweVNoZlN5amhqclZOVzhR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-05T20:20:00+00:00",
-      "summary": "Meta推出首款AI编程智能体 主打低价挑战OpenAI与Anthropic  搜狐网",
+      "published": "2026-08-05T23:13:48+00:00",
+      "summary": "挑战Codex等，Meta推出其首个编程AI智能体工具Muse Code  搜狐网",
+      "categories": [
+        "other_big",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Meta推出首款AI编程智能体 主打低价挑战OpenAI与Anthropic - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TSEhZQVFvUnhFaWh4WHhhZlAtbW0wcWZxNVRyc0luelBNN21CUWtPMWh3OFhqN25CR3RBYVZPTWlFQ3JtQUc3UTVnb0k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-05T22:33:06+00:00",
+      "summary": "Meta推出首款AI编程智能体 主打低价挑战OpenAI与Anthropic  凤凰网科技",
       "categories": [
         "anthropic",
         "tools_apps"
@@ -223,17 +235,6 @@
       ]
     },
     {
-      "title": "产业智库×AI基础设施：亿欧斩获腾讯云AI智能体争霸赛华北赛区双项大奖 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamhpVjhrMmtBSWFBRldKa18za2RPWllZdkQ3bm1YbXhLeTFscHA4TGtBMkQyam52NDAtSVo1LXd1YWUwOV9JRG03eWh3c09KVk84UXgydXZsTW5rN0VXamFMVDVOcTNnQ3JHbklnbkJONUo0Zko3RkZNeTRTUWpCTUozSngyWWE0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-05T10:48:00+00:00",
-      "summary": "产业智库×AI基础设施：亿欧斩获腾讯云AI智能体争霸赛华北赛区双项大奖  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Coinbase等企业自研代码智能体，作为Anthropic克劳德代码工具的补充 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSWhwNllWTGJ3NXRTX2htQ1hyNjhuX3JxMl9vQ3N2UzBkcVBvcGNtdERoWDRGdmF6VElKUjZhM0xKZDZzb1pXcTFUanhsM3JSOW1KX3JTVXFNQ0NnZU9CQzdnZWV4anRRdGxoajdhMGhMQUFjajlVa2xaNzlwalhoSlRTT1k5RjUtampBeQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -309,6 +310,17 @@
       ]
     },
     {
+      "title": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南 - 爱范儿",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tSzNWcUl5NXN0MHZtNmJ5V213UkdwX3JXS2g1dnJXYUI2QXZBRmljdVU4dS03eUg5ajZ0Y05ERXhGR1E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-05T07:31:54+00:00",
+      "summary": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南  爱范儿",
+      "categories": [
+        "other_big",
+        "local_model"
+      ]
+    },
+    {
       "title": "LFM2.5-2.6B发布：支持端侧运行的智能体模型 - 品玩",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFSjhUdFh4VkhXTDlhWTc2WW1JdXM2YTlsT0RRMG9TejFYcFhaSjBEcl9Vblo0TXJaM2E0V19KV2VzRmtWUUFLcg?oc=5",
       "source": "Google News - AI(中文)",
@@ -330,47 +342,36 @@
       ]
     },
     {
-      "title": "字节跳动发布SeedRealtime大模型 音视频对话节奏问题减少一半 - 观点网",
+      "title": "字节跳动发布SeedRealtime大模型 音视频对话节奏问题减少一半 - guandian.cn",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXX0pGN05udzJmalFiVVpZeG1RU252c01TN1F5VzFDSjZfNTBkNmFPM2dEVWtYd2J6TWgwbTdQZUZVNWpFa2tQc1E1bnBlNWM5cmNUUjBMWUUxNVRiZ3JLaWR3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-05T05:57:44+00:00",
-      "summary": "字节跳动发布SeedRealtime大模型 音视频对话节奏问题减少一半  观点网",
+      "summary": "字节跳动发布SeedRealtime大模型 音视频对话节奏问题减少一半  guandian.cn",
       "categories": [
         "other_big",
         "image_video"
       ]
     },
     {
-      "title": "字节跳动发布音视频全双工大模型SeedRealtime - ebrun.com",
+      "title": "字节跳动发布音视频全双工大模型SeedRealtime - 亿邦动力网",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mMzFuanlGNkR0eENSZVAyb2RqQnYtelVBNkYzZEwxd3NvcmpTZXBTemdMX1Rrb0g3VVAwb3ZfR2N3MGpDblVDdHN1NUU2eE9pR2t5M2VjdG0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-05T05:34:42+00:00",
-      "summary": "字节跳动发布音视频全双工大模型SeedRealtime  ebrun.com",
+      "summary": "字节跳动发布音视频全双工大模型SeedRealtime  亿邦动力网",
       "categories": [
         "other_big",
         "image_video"
       ]
     },
     {
-      "title": "字节SeedRealtime音视频全双工大模型发布：支持边看、边听、边说，已上线豆包 - DoNews",
+      "title": "字节SeedRealtime音视频全双工大模型发布：支持边看、边听、边说，已上线豆包 - donews.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YdWY2Qm51YnRlX0lQQnBFMGprYmhJVnhCM183Qjc5VWY5aThGRk91RDVRdmo3eHN2MzN3ZzdZdHFXWDZHN3hod2JreEtBdlhoNmthUW5JdGxpYmJhaWc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-05T04:23:50+00:00",
-      "summary": "字节SeedRealtime音视频全双工大模型发布：支持边看、边听、边说，已上线豆包  DoNews",
+      "summary": "字节SeedRealtime音视频全双工大模型发布：支持边看、边听、边说，已上线豆包  donews.com",
       "categories": [
         "other_big",
         "image_video"
-      ]
-    },
-    {
-      "title": "AI智能体安全测试曝漏洞：OpenAI、Anthropic模型执行未授权操作 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nODByNkRiRG5nR3pRZmI1QWREQVlQTUR2aTZzdWg1b1YtZlZHanhCU2Y5WWhsZXhzWVJNWmRGMnBUeXA1TGR2cWpUUzM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-05T03:21:57+00:00",
-      "summary": "AI智能体安全测试曝漏洞：OpenAI、Anthropic模型执行未授权操作  凤凰网科技",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     },
     {
