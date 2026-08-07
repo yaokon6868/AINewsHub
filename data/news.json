@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-08-07T03:30:04.877429+00:00",
+  "updated_at": "2026-08-07T05:18:15.403241+00:00",
   "items": [
+    {
+      "title": "谷歌的告别：大模型正在进入“车库时代” - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoYjFJX25xcEZubDZVYVZaaHdHVWhzNXhKV0pObDg5Z2pGSmMwQ3JxbHhQWjVGNHRJd3lDNkd2U0xpYjFPUTJSZUFYVzNfVHM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T04:52:35+00:00",
+      "summary": "谷歌的告别：大模型正在进入“车库时代”  36 Kr",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "从望尘莫及到跻身一流，国产大模型集体坐上全球牌桌 8月6日，全球AI模型聚合平台OpenRouter最新数据显示，今年4月更新的DeepSeek-V4-Flash预览版已登顶过去一周模型调用量的全球榜单，近日刚刚发布的DeepSeek-V4-Flash正式版也已上升至第4位。调用量 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2F6WlJRMHpJcTljSll5c2R1dmxpZmJOS3VNRTJjNUMxdUFQam9NOHVVLVdvNEQ5VjhheUZvNDJWZVpvMER0WlM0S3YwcS1ZWmI2Z1YtOWUxTFF4VkN3TDJPMHpPWUdSUHNBZUNnVk9qNjJtZHVkS1VXMnNKOWJjNUIwQzB0LXZL?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T04:30:42+00:00",
+      "summary": "从望尘莫及到跻身一流，国产大模型集体坐上全球牌桌 8月6日，全球AI模型聚合平台OpenRouter最新数据显示，今年4月更新的DeepSeek-V4-Flash预览版已登顶过去一周模型调用量的全球榜单，近日刚刚发布的DeepSeek-V4-Flash正式版也已上升至第4位。调用量  搜狐网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "影石GO Ultra接入阿里千问大模型，集成面对面互译、拍图问答等功能 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFFOd3hzblpVUlBDSlRYTTZ1WU9fMEhVaDlVUkFPVDVGNHgybHl5T0pabzN0RmJqaFF6dEFycFJ0WXNqb3ZydXZaX3l4UTFaZm4waWphNms0U3NkWlhhSUhxV0tPYUpVLUZNNmlHSER5cVduTlBoOWljVlk2dnJLNG1rOGczTVh4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T04:18:29+00:00",
+      "summary": "影石GO Ultra接入阿里千问大模型，集成面对面互译、拍图问答等功能  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "港股大模型“双雄”大涨 高盛上调收入预期 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIRlg3ZFQzbTRycjF0VlhWdTN4dVFrLTZSU2Y0OGl2THl5QUlGNjdoQ0NtQXZRS0M0d0FFaGsyM2YyNEtPMUJJTlFYWndqVk5lVjlCVEdURmpaaWIwWnBhN0V5YXl6eDhUNDVKR3Y1N2U?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T04:10:59+00:00",
+      "summary": "港股大模型“双雄”大涨 高盛上调收入预期  中华网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "影石拇指相机将接入千问大模型 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xSWZjam54OTFXTGpXT0Q1ZThzYzdDeXJLYU5tWGxfSmtGSmxyZkhPZ0lKVWpDN3I4eEdKemNuR2tWU0NHazg0UmFLZE8teG02M0JramJRNVlOMmo1LWRZYWpjcks?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T04:07:05+00:00",
+      "summary": "影石拇指相机将接入千问大模型  新京报",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "ChatGPT放大招！GPT-5.6免费用，无限次白嫖 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQUpyc3BCelcyUDFER2g4VGVheks1aEh1clREcmZiX0dvX25sajZiQ1JZRkF0Y0Y5RVNYNlFJMk1LRnJQcXc1b3hwVTBubkdCa1FNZHNXd0p2dWl3U2lndzhjWVpYUjI5UUY5Z0lfR09VWHlhcloxbW15bnVmeG15VmdqOVlfTGdU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T04:02:27+00:00",
+      "summary": "ChatGPT放大招！GPT-5.6免费用，无限次白嫖  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "发布会快讯丨河北人工智能相关企业达711家 - 河北广播电视台",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vc1lKa2lwWTFMSUFwdjlKdExvRHpxMjRnNVExY1lzQmVmTHRiai1VS2MzV3k0dE9CVjZsOEY2Z1dHYTVYUDVSVjNCQUpKUkd2V3BzSm11ejFjMlg0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T03:57:31+00:00",
+      "summary": "发布会快讯丨河北人工智能相关企业达711家  河北广播电视台",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Adobe推出ChatGPT统一插件：覆盖Photoshop等70余款应用 - 电脑之家",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qaGpGZDhzbWFfMHlxWk03NEIzdXBLb3FDVHRKMU1UYnRCenJTMFRLanJRVW83QTJIYi1pcjROMS0yMkNYS2gxLW5jbDBtYVY2a2tJbQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T03:51:34+00:00",
+      "summary": "Adobe推出ChatGPT统一插件：覆盖Photoshop等70余款应用  电脑之家",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI测试“最后一公里”如何跨越?雨燕智能体给出可信答案 - 流媒体网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nV1RDenBxTl9abGpXYnRXT1dCR053SnZIbnN4YmpDRWNnanA0eUMtTnhuOFFwZUU2R0NsZ09qeld6YnotMVY4anRvLS03Y1IzeUVnRXhNSXhwenYwVHE5Q014bVVnSDU0eW53?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T03:43:00+00:00",
+      "summary": "AI测试“最后一公里”如何跨越?雨燕智能体给出可信答案  流媒体网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "MoWorld-3D世界模型发布，打通AI从“对话交互”到“物理交互”的关键一步 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ240UGZzT2E3empVbURqVkZDOHZxV1pwRkEwaWYxMExwdG5QYzJoOVRkeTVWLU1lSzNrMjNwT0JUdExBRFVKWW1hQUsyM1gxbEFRQ2IxNHhEcV9DOXZLTUg3Wk5Rbmt1TUdmMXZmN292LVkyS0g3Mjl4SnhNbGpPaERHRHJ3R3oxLWpYag?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T03:36:13+00:00",
+      "summary": "MoWorld-3D世界模型发布，打通AI从“对话交互”到“物理交互”的关键一步  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "中国AI大模型给美国对手设定了“斩杀线”,把美股估值逻辑冲垮 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdkdhQlA5cW16NElDczYtOGFKNk1MZk4ydDlWN09wdnUwRVh5cndLTWUwdzF6Z0J0dzExSTVxbkJmYWxTdlMwb2NFdHpHUG52R3BYdWxrOVl2X3N4NVlzUWl1ZWY2X2M1OUtQcTVxdTJqY2o2TFlRT3pIcU5aOGgtYTM0a0ViOUNPYUVZVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T03:31:21+00:00",
+      "summary": "中国AI大模型给美国对手设定了“斩杀线”,把美股估值逻辑冲垮  搜狐网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
     {
       "title": "ChatGPT搜索为何乱跳？思考时竟搜歌手站 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BU2xISVh5SjJWUlpmcHFwX0dCWkNqT3ZUUk5YZ21Qa1llNzd1NU5FVmZxTTZNbnVocGpwOFo3eWJvelFEaUdWWmhhbGZYZ1g0SU9VNXZ4SDd2czhxVHY4WFFQNjQ5SFl1amV1My1ILWFUdWNDeGVKT3d1ZGtzR3c?oc=5",
@@ -23,23 +135,13 @@
       ]
     },
     {
-      "title": "港股大模型“双雄”，大涨 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUC03b1RuQ3NiNGU3emE0TjFwdmZCZHNlZG9nSGVRLUhKbmxhZXJpeHpDb2dYOEZFY1FBU0g2UGdjUVhCOWZ0ai1YZzhqVjVra2FDdmttYXI4OTFiR0MySjRfc1RDMnY5QWRzSUFIWHVUS09ZUUZXUWtOTzVHTUtlLXE4TnJCeXVrSUhCNQ?oc=5",
+      "title": "港股大模型“双雄”，大涨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92d3pYTWRBeVRtSkZ1ZGdoYUY1V2s1RHhoZmF4T04tX05yY0xHbEV4SlZnR3BWSDhPdktOdWVLQU5laHhTYzM2YnhHTjNFWUhPSmZPM3NWVHFwQ3dkTWJCQW5lUmxKZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-07T03:13:01+00:00",
-      "summary": "港股大模型“双雄”，大涨  搜狐网",
+      "published": "2026-08-07T03:15:55+00:00",
+      "summary": "港股大模型“双雄”，大涨  东方财富",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "ChatGPT“意识觉醒”真相：只是搜索Bug - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9razNXRmxidzIyUm5GVVBldzlqLVVTU2MwQTBweFd0aWdwU19yN3FGVndWeGo2VmoxSnEtNU91azR6aGhJVlRoMTUzY3RaN2libDdnblVhR2hsNnhEanNab005Z2NqTTlid01aYmJNNlk3Zko2OXQ2cmR1U1ozbFU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-07T03:02:00+00:00",
-      "summary": "ChatGPT“意识觉醒”真相：只是搜索Bug  新浪网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -83,21 +185,21 @@
       ]
     },
     {
-      "title": "智能体加速普及为何离不开安全算网？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWp6TXRvemJLM0dfckFuSmt0OWh0TjFKZllIYzVLeGw3X3NYWXpYS3lZeVZwUnF6VHdVZnVMLVNpcW9yYVZ4bWxMNmdsT0lyOWVGQ0p6UHFnQXNKZGMxbExUOXd2ajdQR09qUERZVUdURkpVSmdSaHRWb2VFUUd4SGMwTTB4Y2lB?oc=5",
+      "title": "2026云栖大会将于9月22日开幕 参会者可携带自己的智能体入场 - 浙江新闻",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12ZE1OQ0lMVlNLSjU5Q1hVQkwta3liQ0J3V3o0ZWZqZW13RE9iaUxTd1FYRTVZR3hlNnQ4ZGFTNGl2Um5FZl9xaUhUSmY2ZnEtRER5NDZaWHA3V3A5aXE1QW44aVFRdVZlM3pTUDhVSTVPZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-07T02:27:00+00:00",
-      "summary": "智能体加速普及为何离不开安全算网？  搜狐网",
+      "published": "2026-08-07T02:28:43+00:00",
+      "summary": "2026云栖大会将于9月22日开幕 参会者可携带自己的智能体入场  浙江新闻",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "2026年十大靠谱AI智能体外包开发公司推荐（口碑优选） - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEQ5eHdMcjJlYVU2UGFFQkpXaUpNTWZFY3JYQ1hHbVVTRkVvMFQxU1dOYUJiMjYyNl9WQXdnYjdIRWkzMUtOYkg3SjVBZHotVUxYTmtPTmdOM0FNVWFVY21CcFhfRmgxeDc5b3NJdkUySktuX3ZqMDBybk1UZXczNEYyWWs5TVhMQ2E3MG9HTQ?oc=5",
+      "title": "智能体加速普及为何离不开安全算网？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWp6TXRvemJLM0dfckFuSmt0OWh0TjFKZllIYzVLeGw3X3NYWXpYS3lZeVZwUnF6VHdVZnVMLVNpcW9yYVZ4bWxMNmdsT0lyOWVGQ0p6UHFnQXNKZGMxbExUOXd2ajdQR09qUERZVUdURkpVSmdSaHRWb2VFUUd4SGMwTTB4Y2lB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-07T02:00:51+00:00",
-      "summary": "2026年十大靠谱AI智能体外包开发公司推荐（口碑优选）  新浪网",
+      "published": "2026-08-07T02:27:00+00:00",
+      "summary": "智能体加速普及为何离不开安全算网？  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -111,6 +213,16 @@
       "categories": [
         "openai",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "港股大模型概念股走高 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcURXeEZEMnlTaFFtWHJzZXZzX3hsZ0JyRE1nSC1fWkV2Zjk1aU9qMi1YUXhTcndDV2ZFUUxuY3h0TnFGYkh4QW1meDBSalFOamFxR01kUlVmOEl2R19EcG5VbS1pbVY1WG9pdFpyOEpVZ0dPV0MyS2ktQU5EUGNSQmNLQ1Z3bk1G?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-07T01:46:00+00:00",
+      "summary": "港股大模型概念股走高  搜狐网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -144,16 +256,6 @@
       ]
     },
     {
-      "title": "谷歌的告别：大模型正在进入“车库时代” - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fOHVfaVdwNFUtbFM2Q1diZlhYbE00RE1mdC1vTXFhOWtFMmR5QjJaeGIwbzQzcjVPYmUxbWU2M29fT0RKZ2pOMFMtTFQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-07T00:16:20+00:00",
-      "summary": "谷歌的告别：大模型正在进入“车库时代”  凤凰网科技",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "基于 KV-Cache 通信的多智能体系统模块化设计：Agent Primitives 技术解析 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYd3c0TXRURzc1bV83UHc1ZkFTTjZjb3Q0blVSVlc0cW5tdDZpaXlUUWVnZUtWNzQ5MWdXX3Q1WmxfcFh2NFpEbm9hUU9hME5Lem5ucFdpczBDMjM3UHM2X2xtcUZ5RWNrMzEyM20xaUI?oc=5",
       "source": "Google News - AI(中文)",
@@ -164,11 +266,11 @@
       ]
     },
     {
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZzVDA2SGVKcndSWnVMOERpSnMybEJYU05pamJqRmUtMGdLMzdkM1pGd0VwN01nYUdLcndVLUFtRFlrS245NGRaZDRkNjBEeWVfSDc0cnI5Q3NScE55V0lOQk1pSmZkT29qQjhwbDZzNjk3RS1Vc1Nzd0xEb0xVNnBRekFHbjB3?oc=5",
+      "title": "OpenAI升级ChatGPT：免费用户功能大增，智能对话更精准！ - 第一电动网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aNVMyeWU1YlRLUjRJOHFENWxmYWc5eWZMbzJHQ0FqbFZlZTg4aU1EbW5uQ01XdjZFaTJBSUFCbkRreFpsSHMzYw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-07T00:00:00+00:00",
-      "summary": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了  搜狐网",
+      "published": "2026-08-06T23:11:00+00:00",
+      "summary": "OpenAI升级ChatGPT：免费用户功能大增，智能对话更精准！  第一电动网",
       "categories": [
         "openai"
       ]
@@ -194,16 +296,6 @@
       ]
     },
     {
-      "title": "OpenAI：ChatGPT免费用户默认模型升级为GPT-5.6 Luna - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUFxM2xjUnRJNG1ZOFRpMWRveFpzVGNMMFV2OWJSVk1paVpWSW5UdURKRzhYNllURDd2NHJMSnJ4WjhFM01xQ1A0OUtCRWtuM2t6bUFzOURMWWZFeUdudjladnpiMGtoZl9KN0xOTXdnVk1KUTlmSWFhUmxJOS1yZGIzVjBPUVFk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T22:52:20+00:00",
-      "summary": "OpenAI：ChatGPT免费用户默认模型升级为GPT-5.6 Luna  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "ChatGPT为什么会搜索出与问题无关的网站？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcktOOFpJanAwYThXUnRSdGg5bUxLRm1STkd5UmhSNWZYRW42M052VXZod0lwc3VyV3B1d3pTelljREVsM0lLUmlYek4xLTEtV3N4M3phWGJvWk9TS05MNE5rUnpLcFhQdEdHRnlsTFhGTGIwUVRzU2lvdmZBNlk?oc=5",
       "source": "Google News - AI(中文)",
@@ -214,44 +306,13 @@
       ]
     },
     {
-      "title": "芯片、大模型、机器人、大飞机……上海“政府开放月”秀出制造硬实力 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTNZTTdLeTNaQ3NrbUktNXU5b18tRWVmRXU0Y29SM3BWSWpMYWd3Z2ZRQ25MaHNXdFNvUE00QVRRdDdsdUtCV2w5d25vWUZHaElXR2dScFJPRm9ZdGhremlHa0V2RVU5ZVJ5M2Q1UVM5LUE1b01VZllkZ3ZPalRLRTRmbkc1NkxmQUo2ZA?oc=5",
+      "title": "芯片、大模型、机器人、大飞机……上海“政府开放月”秀出制造硬实力 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aVzFxTzZ6alZEdWJXSEszVHNQNG02R3FuankzU3VfdjFCNDZPRi1rcFJzUzRoVlZ4YXR5WFBhQUhPVHlmUTQtVFpvLWRPajJvNGxsVzE5a2ZwcDl2dGc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-06T16:42:07+00:00",
-      "summary": "芯片、大模型、机器人、大飞机……上海“政府开放月”秀出制造硬实力  搜狐网",
+      "published": "2026-08-06T16:41:00+00:00",
+      "summary": "芯片、大模型、机器人、大飞机……上海“政府开放月”秀出制造硬实力  上观新闻",
       "categories": [
         "chips"
-      ]
-    },
-    {
-      "title": "AI驶入“L3智能体”深水区，中美模型差距收窄，万亿元资本博弈真实场景商业化 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1JJTWNkZThzV2VDclowQ2JJcUtkcGJyM19PdHk1N29ybmd4YzRUNW5XMy1zdy1CRHF3eTRIX1BhSzgwZ1cxUDViT19ZdXhUUTFHYVlSc0U2MGE5Mno3cjBuNmNiVGs3UEFMSE9IeVd2TjFGUnZEcmQzR3htaTJLcHBsdVdEdUwt?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T16:36:42+00:00",
-      "summary": "AI驶入“L3智能体”深水区，中美模型差距收窄，万亿元资本博弈真实场景商业化  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "云鼎科技：公司大模型技术架构具备跨行业迁移能力 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUNjWEVBVmhsMDg5ajZwY2FIVGRraDRVN0VFSWJPaGIydnNudEZjY0EwUDhNYXh0NDlOOXFOUUJnak9IaWNHRTVCZGdmZDg5NF9WVzNaWWFUTmhpZGgzdWZrR1IyLUJNQmZBRFdCaXJkSlZBV0NTZjhKSVJxaHhXcW1paW1ENVU5S2VsdQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T15:02:04+00:00",
-      "summary": "云鼎科技：公司大模型技术架构具备跨行业迁移能力  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZUTA1ZzVEdWhVN1RzVElhZVR2UzhNSlhqYW1KemlXZksyaVZUd2p0eURVaGVYbGJmdG8ySjdRUWdOT3lwUWNobWZQWTU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T12:49:13+00:00",
-      "summary": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了  凤凰网科技",
-      "categories": [
-        "google",
-        "tools_apps"
       ]
     },
     {
@@ -272,56 +333,6 @@
       "summary": "中文大模型谁最强？千问第一 DeepSeek未进前三  凤凰网科技",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "DeepSeek涨价，Meta降价，全球AI大模型价格乱战“鹿死谁手”？丨夜话 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kY21icHYxQjNfUVU3Z0RxSlFtMVdSZmh2X1JIdGwwTDlkWWlncEF1ZHdlWEQzaUNfTTNGV2xBNFF0TWw3UEdLd1ZoWlZKWno4TG1RcQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T09:47:56+00:00",
-      "summary": "DeepSeek涨价，Meta降价，全球AI大模型价格乱战“鹿死谁手”？丨夜话  第一财经",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "从黑胶带测试到跨设备智能体，两个语音老兵等了十年 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMW5odUlBZWpXbE1ORHhLRnpvNG9jVHZ2am1VaWNQWlRWMjlwalV2TnlzRVZiaUMyVHV6NFUxOUVaWUgyUkVWUmdVQkhGVjd4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T09:39:55+00:00",
-      "summary": "从黑胶带测试到跨设备智能体，两个语音老兵等了十年  36 Kr",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "直击2026沙利文峰会|杉数科技王曦：大模型之外，决策智能重塑产业经济 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ3JEMTJKWEV1Z3dwWjRFVXJwWjF4THBVU3JTZ2RUZmU5WUl3Mm9Gb1JBZHRGYXpuQzNLWHlkcVJ0Z3hkbTVwY3llU3ZsRklkNFFlcmlWY2RPdUUydlpBX1JBSng0WVNEUmt1MmdqNURwNWtN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T09:37:19+00:00",
-      "summary": "直击2026沙利文峰会|杉数科技王曦：大模型之外，决策智能重塑产业经济  金融界",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "航天信息金税智能体：全场景落地，重构企业财税管理新范式 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ualFLZ0RUSEcta0UtcW9PVFNBX3VWN2pQSHVhT0NuamVDOUl1UVB1WHU0WVVnVHhPa0o3bURoWDBHUlIycXZ2YTRXY2lKVS0xZllR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T09:08:00+00:00",
-      "summary": "航天信息金税智能体：全场景落地，重构企业财税管理新范式  电子工程专辑",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "【财经分析】重构大模型商业格局：从技术叙事走向生态博弈 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16V0hOU3l1aTUtUDZuLVl1VGtWck1SWTRWbDF5eUNnYVh2Z3RNX09jcmo5SUtKX280SGZqSEpWemtHMmZ1bm5ERTFNbVg3bzZWdFJybFZ5R1lRSXVOcWt2aWNFUnNleVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T08:33:00+00:00",
-      "summary": "【财经分析】重构大模型商业格局：从技术叙事走向生态博弈  中国金融信息网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -346,21 +357,10 @@
       ]
     },
     {
-      "title": "DeepSeek重启50亿元融资谈判融资前估值达500亿元- AI - 亿邦动力网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vRktNa1MxbzU4RThDc1N5eGc4QktUVzJ0WmRncEhwcjRQd0UwUHJQemlQbWJoMjlwTk1wTkFPVG12MHpVcUFScGZoUTRzaTFEbU1sQlJn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-06T01:48:45+00:00",
-      "summary": "DeepSeek重启50亿元融资谈判融资前估值达500亿元- AI  亿邦动力网",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "Meta推出首款AI编程智能体 主打低价挑战OpenAI与Anthropic - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yODZOUGxkS1NQZk5RREZpalZRZ3M3M096MElYT2hDTWM2Qkg1a2lYZ1JzbEdQTWVkdDF5RFVkbFJSeVQ4ZlE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wdFFmVVdhUlBzSndMOHdWeXdfakRzQWktUE80Q2RtaldISDNDdmEwZDhScHVEcHZrVnA2bXhCbTZoQ3JacG5ObA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-05T05:20:00+00:00",
+      "published": "2026-08-05T20:22:07+00:00",
       "summary": "Meta推出首款AI编程智能体 主打低价挑战OpenAI与Anthropic  财联社",
       "categories": [
         "anthropic",
