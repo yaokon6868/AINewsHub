@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-08-08T18:41:17.386477+00:00",
+  "updated_at": "2026-08-08T19:32:00.762290+00:00",
   "items": [
-    {
-      "title": "生成式人工智能用户超6亿，普通人常用哪些AI应用？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FOU43R3FRdTdHX0kxbXFvLVUxeWZLNTBCeFd5c3J2Z3RXaTYwMUs3b0FSWEdRU0xROU1tbERBbG5WLVZ3V1k2RndCT0U0d0hkTmo0LTFUcXFIRmdQQ1o5TGxFS1h0Z3RqZGtndnJQbERxblgteVNLSEJYLWZJb3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-08T18:10:53+00:00",
-      "summary": "生成式人工智能用户超6亿，普通人常用哪些AI应用？  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
     {
       "title": "直播流17分钟的时候Gemini现场身后爆发出呼喊声（应该是AG极限守家那波） ​ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Wd180dF9DbTdCSDNkNWg4Vl9hTmd3dzRNWXU5RkEzUUNqNWVhc2xtWUZmTWt3ZGdwdG5Rd0JORWhsOHJwU05KNUFWazJ6QThHcFltUTBXX1ZtWnV3OW5POGNyUTFjaDVLNVVLaXltZ0VLR0k?oc=5",
@@ -73,6 +63,16 @@
       ]
     },
     {
+      "title": "苹果选千问做手机AI|苹果|千问|大模型_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UN3ZzNWlkOUhFTWF4bEZTakRPYWtTSThlaXVvUUlvaFdmY0FYM2c2eHM1aFhfU2tFUnlvYy1rWF9YM2gxR0VXOGhQQ3BzUHdyZ2VxcnRtQWd1MGZQS0I0S0psdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-08T12:05:00+00:00",
+      "summary": "苹果选千问做手机AI|苹果|千问|大模型_新浪新闻  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
       "title": "AI语音助手多模态交互彻底变了？3个维度看懂2026年出行智能体新趋势+FAQ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVy11ZDZIa2FUU09VYTUwVmZPWnFrTFVyVXFid1JpLWg5UktaUFloaHMzbnJEVFdSdFZkQjVIUlVGRFBqWEh5R19mQlpDcHk1MGYxNUZHMGJpRkVKaHFMMGpuNS12N1Q0cFhoVU5meW9JR0dlU0pzVjVGZGxQSXc?oc=5",
       "source": "Google News - AI(中文)",
@@ -123,11 +123,11 @@
       ]
     },
     {
-      "title": "专为AI智能体打造的云端浏览器，Cloudflare发布Kitesurf - c114.net.cn",
+      "title": "专为AI智能体打造的云端浏览器，Cloudflare发布Kitesurf - 光通信Pro",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HaGtyNGh4aTBUdEd3cm5ab3VBUV9ub0U1elFiWkFfd1F4TEQyOEpTTVFxRTN4VjFQaXNPalVfV1RHWVR4WlozR2d2WGZ4bm9xblFENXNxaw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-08T09:42:22+00:00",
-      "summary": "专为AI智能体打造的云端浏览器，Cloudflare发布Kitesurf  c114.net.cn",
+      "summary": "专为AI智能体打造的云端浏览器，Cloudflare发布Kitesurf  光通信Pro",
       "categories": [
         "tools_apps"
       ]
@@ -224,11 +224,11 @@
       ]
     },
     {
-      "title": "Claude Code新版支持会话之间传递消息 - QQ News",
+      "title": "Claude Code新版支持会话之间传递消息 - qq.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWFltMUh3XzhwaWxwZ0FDOFloQUJBSEJsRkJkdnN2YXlyY0EwZmhxTUN3UE90bXA2dVRWVnEwVFhUb2N4UUlKTXVlakMxVUdlQlhmSS1B?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-08T02:39:00+00:00",
-      "summary": "Claude Code新版支持会话之间传递消息  QQ News",
+      "summary": "Claude Code新版支持会话之间传递消息  qq.com",
       "categories": [
         "anthropic"
       ]
