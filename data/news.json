@@ -1,435 +1,371 @@
 {
-  "updated_at": "2026-08-10T20:45:33.391801+00:00",
+  "updated_at": "2026-08-10T21:43:55.326319+00:00",
   "items": [
     {
-      "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
-      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-10T20:04:24+00:00",
-      "summary": "一名 OpenClaw 特工侵入了一家健身房的预订系统，将其人类老板提升到了课程候补名单上的位置。科技行业也注意到了这一点。",
-      "translated": true,
+      "title": "英伟达CEO黄仁勋表示：5000亿美元人工智能融资协议的资金完全是来自第三方的资本 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nWmhPZ3JvQWUwc0ZKel96WC01NVMtOGJhVjNrYkJTWmpKQ21Pc2R1VU9CNjAydTZycnJQRGFRTWlPTHY5SnVkd2RhU3dmQ21MdE4ybTBIOXM4UllwRG15T2xjUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T20:31:48+00:00",
+      "summary": "英伟达CEO黄仁勋表示：5000亿美元人工智能融资协议的资金完全是来自第三方的资本  东方财富",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "别被忽悠了！大模型≠机器人“真大脑” 单一联盟时代落幕 多厂商互通成新常态 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YNFZJbnM2SjhMdjB1cVNKcmtiWWNRa044MVBnMEE2ckZUTUtSWDZvNFRDanJrSWFNb0N4OVBhU3gxZHhVMkZBbEd4c1o4Z2pCdHhZSg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T18:48:11+00:00",
+      "summary": "别被忽悠了！大模型≠机器人“真大脑” 单一联盟时代落幕 多厂商互通成新常态  第一财经",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "推出 HN：Stoa Markets (YC S26) – GPU 和 AI 服务器的市场",
-      "link": "https://www.stoaexchange.com",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T16:35:27+00:00",
-      "summary": "55 赞 · 24 条评论 · Hacker News",
-      "points": 55,
-      "translated": true,
+      "title": "英伟达据悉与多家华尔街金融巨头合作 共同推进规模达5000亿美元的人工智能融资计划 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FNHcyN2ZDdFU5SXMtV1dMOXhKVWpkM05MVk53M2FRNXNwOWczTEhycjlJZmlwWUVGUlVENlYzVHVUazFPZTBpUTB4RFItaXYtR1RNNU4xYnJ1QWZqNjRVeQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T17:03:45+00:00",
+      "summary": "英伟达据悉与多家华尔街金融巨头合作 共同推进规模达5000亿美元的人工智能融资计划  东方财富",
       "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "东风华为合作车型奕境X9首发鸿蒙座舱 搭载千亿级大模型 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PY2Rxd2pHbmowN2dvcFBQSnl1bjZHT0lyWWNxejVNRWh6emhUSHRIYnl3NHBIZ3lXUUlrb3N1SnZIQlh1cDBTNkd1NmZFOU9sVkw2YTlTUkk5UzdxY2JzT1pn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T15:39:23+00:00",
+      "summary": "东风华为合作车型奕境X9首发鸿蒙座舱 搭载千亿级大模型  观点网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Anthropic宣布：默认启用Claude Code自动审查 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSkszWnVleVFsc19fX2dKbVFFdjA0Q0FJOTZJc3ZoM2pVTUFRSHBYOERYTTdIY1NCZHBiMWtCUlhJUmpyUS1KVzRwd0YwamJTbzlZTkZXYUJSaVROdkVrTGJUMG5KT0IySFd0aHJyZkNSdWtPTkNFVXl5ZExzam5ES0IzMkRLak1WaFFxZA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T15:26:43+00:00",
+      "summary": "Anthropic宣布：默认启用Claude Code自动审查  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Google或于10月20日停用Gemini Gems，推Skills替代 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm5tcl9EZTVsT2R0VjlJbU5hQzRQRGZDa3dXX05iUGtwT3VxakVUeFBpMUlDUENodGFWSHIwUlJHYmpRdkpEcGlYYm1JMDhJbW85QXl1Rl9aLVU2aElTZVNZMUpkdC1MVlBxZmpnS2xvLUZUbVlmYnBQMXQ2ZjRxZUxoSDk0bzV2OHBqTA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T14:59:44+00:00",
+      "summary": "Google或于10月20日停用Gemini Gems，推Skills替代  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "AI 访问流量超过人类|cloudflare|chatgpt|claude_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rdWdNSmgxSWU4Mjg0elhoMl9SYXdLUlRNcXpVRkdKd3dnWHhGM05hX2ZkTGZaa0hUdWcwYTZTZGdxN1h0UHg2VDRIeEpNZkxLYmJEWl9wZ3Zxd2FEcE5PajNKcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:54:00+00:00",
+      "summary": "AI 访问流量超过人类|cloudflare|chatgpt|claude_新浪新闻  新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "原来ChatGPT用户才八百万#看了一下热搜原贴，套娃了简直。真正的信息茧房是：原来你以为ChatGPT用户才八百万。 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wV3Jud2RrREpabzBmT2duUkpKcU14ODJFMW1iaEwxQ1Q1Rlp2c0dhaHhQNlZ2MnNMbEdvXzlHUXZpOVNPNm53b2hmS3ctRk9RX1p4SUZVTEhGOTJ5TTYxX3dLdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:48:00+00:00",
+      "summary": "原来ChatGPT用户才八百万#看了一下热搜原贴，套娃了简直。真正的信息茧房是：原来你以为ChatGPT用户才八百万。  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "画廊 Jean-Claude Malépart中心体育馆 / Saia Barbarese Toupouzanov Architectes - 1 - ArchDaily",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPYmprYUczSmt1UENCMm9QZVJyUW16c2lKMWpFVjBweXB5SFJjQ0FhVU9JYmZjUTY1OVpHbXp4RDV5T3AydmNsOUZlTnJ0VUFxUG9QT0VxclpVaHBHT3gwcFZFSTFFZ0V0MEpIM255cFRELVRLbFhMSjl6Mm9aSDhUam5pLWV4VjhYWFdKMVhyRThsMjFUVldqUUhMZkUweTljamM3NEwyR0Y3WmpncE1ST0FBXzVseVh1dHM1TjRVRUlZeVNqMUlwdG10NnhDdGIyWXIteVljeG5zRGIwaVNRR3p6Mm8xQjNtZzZNMy1kUWROY1dCanNDRy1xVlBleUtVSGVLajVoTzZlaDRrUzNvSERsWDNyakJmVEhXbDdLNG5PSVBsZ1llQUFEeHZTUWk2UU5QTmdqbEVBdnRUR2V2aGJCX1BUUnlZc3hOY1VQRzJJQkkycEgza25pdjVSOWUzWEV2SEFieFZ3WjZiWWJEM2JKTU1ZemV6MlE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:46:20+00:00",
+      "summary": "画廊 Jean-Claude Malépart中心体育馆 / Saia Barbarese Toupouzanov Architectes - 1  ArchDaily",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "#原来ChatGPT用户才八百万#典型的标题党我都在用了怎么可能才800万用户但我依旧还是怎的豆包哈哈确实国内用的没那么多最早横空出世的2023年也是一口气注册好了账号最近看了看以前的记录早期也没少帮我干活http://t.cn/AXNMMkPu ​|chatgpt|标题党 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xVlBIVVFuaGphU3A5UHRGVURrS2IxbVpzVy1acC1rZXpiUmtQZVotTzJzS2hhbDY0aVZXVzkyWWxYajgwTVFYaVREeXR1anB1TDlPSEFwR1lhV3lfa3p2dFh2bw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:28:00+00:00",
+      "summary": "#原来ChatGPT用户才八百万#典型的标题党我都在用了怎么可能才800万用户但我依旧还是怎的豆包哈哈确实国内用的没那么多最早横空出世的2023年也是一口气注册好了账号最近看了看以前的记录早期也没少帮我干活http://t.cn/AXNMMkPu ​|chatgpt|标题党  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "知情人士：微软计划明年大幅增产下一代AI芯片|云计算|Anthropic|云服务|Copilot|谷歌_手机新浪网 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcThJbzdkNllaSnhWdVBhd3hJRGJlc0EwaGJEV20zamRTYklkSUZ5TGVTY245aW5nT2dvMG1DelRfa3FPTjZZN3RqdnE3N0Z1S1BQbjhDVnR3WDhCR0RsY0xlQkNaSVpXZTNlSGVRZE5jY3NRWHBQbmVfWnphZW5vUUl2RzhQVUo1LVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:18:45+00:00",
+      "summary": "知情人士：微软计划明年大幅增产下一代AI芯片|云计算|Anthropic|云服务|Copilot|谷歌_手机新浪网  finance.sina.cn",
+      "categories": [
+        "anthropic",
         "chips"
       ]
     },
     {
-      "title": "在收到数百起客户投诉后，Kinney Drugs 撤回了人工智能电话助手",
-      "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T14:56:32+00:00",
-      "summary": "119 赞 · 134 条评论 · Hacker News",
-      "points": 119,
-      "translated": true,
+      "title": "资本疯抢具身大模型：一天投出5个亿 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXlZV1Jtem1HdnROdE5mbk55bFNENEhZSk03ZDFad3FEYzJBSmx4TlhLYzJlck9iMGc4aU1zeWt3MFlpOFloUldYbmhiYmQ5QmZVQ1BvMlA3NGJPLXh1UmwyVkRLRVVOMlg5Tm8zZkhJU3JKbDdZOC11VDdYMVd0ck11d2o3OTRQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:00:00+00:00",
+      "summary": "资本疯抢具身大模型：一天投出5个亿  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "离线会议轻松转写，深度研究创新实现多智能体协同，鸿蒙电脑小艺带来AI办公新体验 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ld05iN2M5cTI5R0ZLb3FuWlQ5dDZWcTVJSjBkSE91WDV5bEQ1S0NhRUxHMmt3MXhHWUpfMHFrVDRBanpLRHQxWk5WZWRPVmRrRkk1VzNGOTV0UUlNbG5qRE10Y2d6SHhYb1EzTw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:44:01+00:00",
+      "summary": "离线会议轻松转写，深度研究创新实现多智能体协同，鸿蒙电脑小艺带来AI办公新体验  中华网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "致州长阿博特关于德克萨斯州负责任的人工智能基础设施的信",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T14:38:20+00:00",
-      "summary": "66 赞 · 113 条评论 · Hacker News",
-      "points": 66,
-      "translated": true,
+      "title": "美国大模型公司承诺安全开发AI，结果模型自己“越狱”搞黑客攻击 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2RIM3ppQzlTMjhmWDBYSWhnQ2lBWnhicE1xWHRaeWZOWHhjSTV1UDhfS3FONVY4T1NqZzRsUS0zbTZuMmJuQzVUYlViVkJ1S0c1QjFubGVPZU15cFJNOUFBMjJOVnVyeGRQNURLa3BOWnhiRTVXWC14eGR6OUtNVEpib19xci1VWUJQdHlGUjkyaWZOU0F1Z0U4Q0JxeU9DeU0tV3JuaWpUUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:16:58+00:00",
+      "summary": "美国大模型公司承诺安全开发AI，结果模型自己“越狱”搞黑客攻击  finance.sina.cn",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "随着 Meta 回归开放模型，马克·扎克伯格攻击“封闭”的人工智能竞争对手",
-      "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T14:06:22+00:00",
-      "summary": "213 赞 · 266 条评论 · Hacker News",
-      "points": 213,
-      "translated": true,
+      "title": "市场监管总局批准发布338项国家标准 含人工智能医疗器械等前沿领域 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04VjlFRzltblBrbWRhQUp1Zm1QS2dKaktSYnZxbzVhTkh4UzF2NjdPVF9aMzVVNkNFMThscXRHMzhVRFp0SmNEaEY0MmRfN3QtM056VTRGa3piMXpWM0VfSG5R?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T11:27:13+00:00",
+      "summary": "市场监管总局批准发布338项国家标准 含人工智能医疗器械等前沿领域  观点网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "美国能源部联合多方推出科研大模型GS1 尚未正式发布已开放贡献者入口 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HZFhjWnBONnBybjBIcWdsc1ZrdTF2UDBJa3lSelhNRlBSNzNSWjBzdmh1ejdBeXVsODNKXzYyZFFmOVNnVnk1R0hXOUtRZlVNNS1FMzQ5ZmxOX21WNXFTejZB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T10:37:49+00:00",
+      "summary": "美国能源部联合多方推出科研大模型GS1 尚未正式发布已开放贡献者入口  观点网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "美国创世纪计划推出科研大模型GS1 进入数据收集阶段 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10b2w3YjNoSG5USzdONm5WUDlfRE9RWWN6eDhoN0d4WkNqSGluempNZXo3WUttUlNSVzRhRC1Ld3d5ajI1a0hEZThEYm1HR3NOZTFZQzZsNEYtLTVPWHAzdkRn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T10:21:16+00:00",
+      "summary": "美国创世纪计划推出科研大模型GS1 进入数据收集阶段  观点网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "纳米Work首批通过中国信通院办公智能体能力评估 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4cEh0MmF6TWh5UF94d05wOVdZT3lpc1lpVGJqOERxcEZPWG9ldkZQbmx5aFpsdVFxaGR1SGd3YUo2SkM0NzFsOQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T10:20:54+00:00",
+      "summary": "纳米Work首批通过中国信通院办公智能体能力评估  品玩",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "甲子光年智库：2026工业AI智能体研究报告：分析行业发展趋势、市场规模、竞争格局与商业模式、落地实践、行业展望与挑战 - 智慧城市行业分析",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9udFpWTHA4NUNxT3pvejVJanZKWm9QZV9jeXc4S2hWSERnN1RnMm9YRjhwSDdPeWJNbmgyWU9XS2FETkRxRVlSVGwta3BwTXp5RmlELVpxX3JTdkJGaldpdDJRaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T09:50:00+00:00",
+      "summary": "甲子光年智库：2026工业AI智能体研究报告：分析行业发展趋势、市场规模、竞争格局与商业模式、落地实践、行业展望与挑战  智慧城市行业分析",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国唯一具身智能大模型重点实验室，银河通用牵头获批！ - 中华网生活",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDcDE0b0N0UmE0clc3RnJxN3A1R2E2TnJ6ajFOa0Q4cVlXb1VIRTdMNWpKY3JCTURrM1h3VmVkVTFzeVZ1ZUdTOXo4TkxOU2JTV2wyUy1oZGZ1dS1xZjkzRnJ6WQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T09:44:59+00:00",
+      "summary": "中国唯一具身智能大模型重点实验室，银河通用牵头获批！  中华网生活",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "零一万物大模型开放平台将逐步停止面向用户提供在线体验等服务 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TWHVMSi1tUE5nSnMtY2xLdFB5OU80MjkzT1R4VTZfWFc3Skw3Q2ZUTHNXdkxBTUZ4bWtOSjZXTWF3bERfTTRHVHBHZ24?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T09:40:02+00:00",
+      "summary": "零一万物大模型开放平台将逐步停止面向用户提供在线体验等服务  凤凰网科技",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "人工智能的利润“由投资者资助，而不是从客户那里赚取”",
-      "link": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T13:49:06+00:00",
-      "summary": "31 赞 · 13 条评论 · Hacker News",
-      "points": 31,
-      "translated": true,
+      "title": "上海：推动算力和基础大模型扩大境外调用 支持智能体、多模态生成等模型产品出口 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjh5R1VIaUVWX3JqckNxRzVHZDR1akt4THZjN0ROZUxQdVhmdmtKQXJRcmxlV0prZW1PYmMzbE5lVVB0UTRQWTBOR0ZLM1gwWTFjZVd6MEJjbks5aEFqbVhmbUVYTlU0Vl8xek1vWXh0Q3FxNjlwS2IwdkVPaGJOWEx2TEo1WTV3bk1yd0NpLTkxM3hQaTYyYmN4emdYVXFGVXVzbVVjREh3SWtyaUZN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T09:26:09+00:00",
+      "summary": "上海：推动算力和基础大模型扩大境外调用 支持智能体、多模态生成等模型产品出口  finance.sina.cn",
       "categories": [
-        "other"
+        "tools_apps",
+        "chips"
       ]
     },
     {
-      "title": "人工智能的财富正在复兴关于私人权力的古老争论",
-      "link": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T13:36:47+00:00",
-      "summary": "28 赞 · 28 条评论 · Hacker News",
-      "points": 28,
-      "translated": true,
+      "title": "失控进行时！Meta大模型在测试期间也入侵了一家公司 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GanhQTl8tUUpDVmw0bnc0aHR3RlBqSTlDN1FxaXdtN0VXQ0FVVWFFRTJRRmlGT2ZPUFZqancyZWlCZ0VTeFFSQ1o4akpSMXNUbTYyVDRIYy1Wa2VsU19SWm1n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T09:24:00+00:00",
+      "summary": "失控进行时！Meta大模型在测试期间也入侵了一家公司  新浪网",
       "categories": [
-        "other"
+        "other_big"
       ]
     },
     {
-      "title": "Meta 的新开放权重模型瞄准本地代理 AI",
-      "link": "https://twitter.com/finkd/status/2086754845218726027",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T10:55:03+00:00",
-      "summary": "39 赞 · 7 条评论 · Hacker News",
-      "points": 39,
-      "translated": true,
+      "title": "AI大模型周榜：阿里qwen3.8-max冲进综合榜Top 6，国产多模型表现亮眼 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45dXEtbUJDbGE0aU1HZEFfMUV6UFp2WlJyQ2I5RVBHN0FnamE4NXFUZHN6b2lCdzhYVFdIcUpIZ3kwY3VIVFFEMEw0MUU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T09:02:40+00:00",
+      "summary": "AI大模型周榜：阿里qwen3.8-max冲进综合榜Top 6，国产多模型表现亮眼  凤凰网科技",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "研祥集团签署AIP生态合作倡议，助力智能体互联国家标准落地应用 - news.tom.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCX0FHaE5UQkJKSlZiN2hPdjJ4MC1jcmdIdWxzZEdLT0dwY000VFNzMFN6Y3h6U1Z5VWFkbWtHWnlyVlBNWlZZMWJsbEtPcmN0d19mUXpn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T08:55:00+00:00",
+      "summary": "研祥集团签署AIP生态合作倡议，助力智能体互联国家标准落地应用  news.tom.com",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "2026工业AI智能体研究报告｜甲子光年智库 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0prbXRjaHJSU20yX1hJN3JOWkJYeVhLd1NFb2c1T0ZwOFpzSTV2NksxaTVnY1Z2S2ZnQVVmQVh2aGFZRUpmeENoVS12ZHFfOG9sVXBWdHJNVnN5MTFBbFYzLTFzeDQtSTRsYjl6cFhQUG1WT3ZBdVRLekM2Ym9vV3dyTWMtOFhKbzd3bQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T08:35:01+00:00",
+      "summary": "2026工业AI智能体研究报告｜甲子光年智库  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI智能体攻入出行赛道：嘟嘟巴士接入千问，下一个是谁？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmxtaDhDX0tkV3ZHbmhHUmVOMl9kZWxXOVZJaW1WZVF3MS0xOGpoc01kRmgzOW0xbU9TQXAza3g3Wm1hZ2dnUkxheHdTLV8yZ0tTbDhNYWVDUWtGY2p2SG5nYTk0cF9rcHNDS1lNQ0h5WkpyMHVQSm82RE44aGstd2U0SmM1ODhm?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T08:10:14+00:00",
+      "summary": "AI智能体攻入出行赛道：嘟嘟巴士接入千问，下一个是谁？  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNGE2MTl2YkYzX2lIVDlUOGRNcUg0WjA4V241bS1SV2NRYmVqSkY4dkxYRnpmbDJOUk1aeFR6R3ItMVYtbVhheEVkVkE0VTVRVkxpdVQwYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T07:56:31+00:00",
+      "summary": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏- 产业链  光通信Pro",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic将Claude Code的自动模式设为默认开启状态 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUZU80SElDeEFndFU1b1R0cmh3QnFRcDBQWkVxWi1nUS1wWHd4T29PcDllMXJ4SDRxNk9kR1dOS3AxY3BTbkh6a0dEQkJTWnVxNXpj?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T07:30:00+00:00",
+      "summary": "Anthropic将Claude Code的自动模式设为默认开启状态  电子工程专辑",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI收购演示文稿初创公司NextSlide 团队并入ChatGPT - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oSHk2US10LWVNd1dPbzZKWnlVWXRLek9JbW1SZjdQUWNlTGtpekU5NHJ6MDFQV2U1cUY3clpIRWVUazY2WlNLTw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T06:40:38+00:00",
+      "summary": "OpenAI收购演示文稿初创公司NextSlide 团队并入ChatGPT  品玩",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "美国AI频频翻车，智能体自主攻击隐患浮上水面 - xindb.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaW5ZUEVzXzJ6X1p6T1RWSl9Ba2hVXzdUcjV0QjBrQzJDUDlxOFhWSVJEVm4xeVEwaG92YVN1VFdlQU90Z2ZFRlNCdHpJU1d0bGk3UVo2NkVWb0hZN3ZyS0M4d0ZCcS1jbkhObFlJWkhMb2VsRlpTVnJNa3FSNVJ3TnNiUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T06:27:17+00:00",
+      "summary": "美国AI频频翻车，智能体自主攻击隐患浮上水面  xindb.com",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LOUlsN213bTBrdVJzWHdKaDZMZXFzZlFxVzkyVEE3cFlaOVBHdW9NY194RDM4anQ5TUJEMHZsMGROTUtPVXp2Wg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T06:20:31+00:00",
+      "summary": "OpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型  品玩",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "工业专网智能体：让连接叠加AI，激发B2B新增长 - Huawei",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNExyZ21NdHNqSm53ZGVvMGVISHI4MHRLWVlOZEN2Unk0TFRzVld4TDVLOVFuaDYzclV4eVZZNFJxYm4wTGFYaHVIX1FwY0JpRWlDMmpFb2dYb0I2X3N4ZFI0X1Bva3EzOHNrWHJobkpzb2NITFNzNW1yQ2NGZl9xQ3dXNkNvc3VfNThUMlV5aXlZQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T06:01:23+00:00",
+      "summary": "工业专网智能体：让连接叠加AI，激发B2B新增长  Huawei",
       "categories": [
         "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "未来属于每个人——通往积极的人工智能未来之路",
-      "link": "https://www.meta.com/thefutureisforeveryone/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T10:15:55+00:00",
-      "summary": "39 赞 · 26 条评论 · Hacker News",
-      "points": 39,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "科技领导者表示人工智能意味着更少的工作——员工表示他们每周工作长达 90 小时",
-      "link": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T09:53:37+00:00",
-      "summary": "20 赞 · 4 条评论 · Hacker News",
-      "points": 20,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Docker Sandboxes – 用于 AI 代理的一次性隔离沙箱",
-      "link": "https://www.docker.com/products/docker-sandboxes/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T06:02:38+00:00",
-      "summary": "580 赞 · 335 条评论 · Hacker News",
-      "points": 580,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "尽管有人工智能，菲律宾的大型离岸产业仍在增长",
-      "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T04:35:24+00:00",
-      "summary": "71 赞 · 85 条评论 · Hacker News",
-      "points": 71,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "随着人工智能占领世界，收集老式电脑的兴奋感与日俱增",
-      "link": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T04:22:15+00:00",
-      "summary": "22 赞 · 9 条评论 · Hacker News",
-      "points": 22,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Show HN：语音驱动的谋杀之谜，用你的声音采访人工智能嫌疑人",
-      "link": "https://www.whodunnitai.com/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-10T03:18:40+00:00",
-      "summary": "187 赞 · 80 条评论 · Hacker News",
-      "points": 187,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人工智能助手入侵健身房网站，这是澳大利亚首次已知的自主网络攻击",
-      "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T21:52:23+00:00",
-      "summary": "70 赞 · 58 条评论 · Hacker News",
-      "points": 70,
-      "translated": true,
-      "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "我还没有看到任何“我的人工智能变得流氓并导致我们承认工人工会",
-      "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T21:01:31+00:00",
-      "summary": "50 赞 · 18 条评论 · Hacker News",
-      "points": 50,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "公地悲剧，AI版",
-      "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T19:43:52+00:00",
-      "summary": "141 赞 · 98 条评论 · Hacker News",
-      "points": 141,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Anthropic 默认开启 Claude Code 的自动模式",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch AI",
-      "published": "2026-08-09T19:20:32+00:00",
-      "summary": "使用 Claude Code 进行编程很快将需要更少的人工监督。",
-      "translated": true,
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
-      "link": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T16:18:39+00:00",
-      "summary": "61 赞 · 69 条评论 · Hacker News",
-      "points": 61,
-      "translated": true,
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "人类与人工智能——代理编辑下文本的基于差异的行级出处",
-      "link": "https://github.com/eighttrigrams/us-vs-them",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T15:25:29+00:00",
-      "summary": "51 赞 · 15 条评论 · Hacker News",
-      "points": 51,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "为什么普通人不使用人工智能代理",
-      "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T14:58:12+00:00",
-      "summary": "23 赞 · 9 条评论 · Hacker News",
-      "points": 23,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
-      "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T13:03:49+00:00",
-      "summary": "52 赞 · 17 条评论 · Hacker News",
-      "points": 52,
-      "translated": true,
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T12:52:10+00:00",
-      "summary": "60 赞 · 68 条评论 · Hacker News",
-      "points": 60,
-      "translated": true,
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "70% 的 AI 收入来自 OpenAI 和 Anthropic [视频]",
-      "link": "https://www.youtube.com/watch?v=68X8yEatepQ",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T11:56:16+00:00",
-      "summary": "74 赞 · 95 条评论 · Hacker News",
-      "points": 74,
-      "translated": true,
+      "title": "AI自主攻击健身房系统|ai智能体|安德鲁|openclaw|claude模型|健身房系统|澳大利亚_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8taGlHX3lmSnFCRXEyTmI2RDFyTW1RWXJaOUptQ21yU3FMNTQyejZtaWNtWlcwTGhINmhOSFdWZFRCX2E0U0JURVY3Qmp5TjZra1Z6aGdZcW4wNDgzd2RXUXh1aw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T03:29:00+00:00",
+      "summary": "AI自主攻击健身房系统|ai智能体|安德鲁|openclaw|claude模型|健身房系统|澳大利亚_新浪新闻  新浪网",
       "categories": [
         "anthropic",
-        "image_video"
+        "tools_apps"
       ]
     },
     {
-      "title": "改用电炉可以显着减少室内空气污染（2025）",
-      "link": "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T11:19:31+00:00",
-      "summary": "71 赞 · 124 条评论 · Hacker News",
-      "points": 71,
-      "translated": true,
+      "title": "苏州企业自研低空多模态大模型通过备案 - news.2500sz.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IMV92UTM5X3R0cmJvX0lNbUdleTU2VEVzeU9JdmQta1NxdjV3V3pwbk5kWW9ONDNtUFJHdGVmU000dXFkTkM1REdPajFEeGtGVHp2eHZuLTlBa1ZmNkRMVy1B?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T02:10:05+00:00",
+      "summary": "苏州企业自研低空多模态大模型通过备案  news.2500sz.com",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "Show HN：Airy – 免费、快速、简单的语音内容创建",
-      "link": "https://airy.so",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T09:29:32+00:00",
-      "summary": "43 赞 · 16 条评论 · Hacker News",
-      "points": 43,
-      "translated": true,
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "由于人工智能成本飙升，SAP 停止了大部分旅行和招聘",
-      "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T08:00:51+00:00",
-      "summary": "100 赞 · 69 条评论 · Hacker News",
-      "points": 100,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人工智能启示录已经到来",
-      "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-09T01:28:36+00:00",
-      "summary": "49 赞 · 50 条评论 · Hacker News",
-      "points": 49,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "大规模管理人工智能编码成本",
-      "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "source": "Hacker News - AI",
-      "published": "2026-08-07T18:25:17+00:00",
-      "summary": "315 赞 · 265 条评论 · Hacker News",
-      "points": 315,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Oracle 禁止 OpenJDK 中人工智能生成的代码",
-      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source": "Hacker News - AI",
-      "published": "2026-08-07T17:36:30+00:00",
-      "summary": "535 赞 · 380 条评论 · Hacker News",
-      "points": 535,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人工智能精神病是新的领导盲点",
-      "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "source": "Hacker News - AI",
-      "published": "2026-08-07T13:27:30+00:00",
-      "summary": "174 赞 · 106 条评论 · Hacker News",
-      "points": 174,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI 和四家竞争对手刚刚就人工智能代理的一项标准达成一致",
-      "link": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-      "source": "Hacker News - AI",
-      "published": "2026-08-06T22:21:32+00:00",
-      "summary": "24 赞 · 3 条评论 · Hacker News",
-      "points": 24,
-      "translated": true,
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "微软文件显示，其人工智能收入的“约 70%”来自 OpenAI",
-      "link": "https://www.windowscentral.com/artificial-intelligence/microsoft-filings-suggest-around-70-percent-of-its-ai-revenue-is-concentrated-entirely-on-openai",
-      "source": "Hacker News - AI",
-      "published": "2026-08-06T16:27:26+00:00",
-      "summary": "49 赞 · 12 条评论 · Hacker News",
-      "points": 49,
-      "translated": true,
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "使用人工智能进行软件开发开始感觉像烹饪牛排",
-      "link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-06T15:30:48+00:00",
-      "summary": "418 赞 · 419 条评论 · Hacker News",
-      "points": 418,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "在 4 万次游戏运行中，人类错过了三分之一批准 AI 代理命令的威胁",
-      "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "source": "Hacker News - AI",
-      "published": "2026-08-06T11:58:07+00:00",
-      "summary": "338 赞 · 245 条评论 · Hacker News",
-      "points": 338,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Anthropic 推出 Cowork，这是一款可以在您的文件中工作的 Claude Desktop 代理 - 无需编码",
-      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "source": "VentureBeat AI",
-      "published": "2026-01-12T11:30:00+00:00",
-      "summary": "Anthropic 周一发布了 Cowork，这是一种新的人工智能代理功能，可将其大获成功的 Claude Code 工具的功能扩展到非技术用户 - 据公司内部人士称，该团队",
-      "translated": true,
-      "categories": [
-        "anthropic",
+        "other_big",
         "tools_apps"
       ]
     }
