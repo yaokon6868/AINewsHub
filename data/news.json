@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-08-10T11:49:27.574064+00:00",
+  "updated_at": "2026-08-10T13:14:45.766155+00:00",
   "items": [
+    {
+      "title": "微软计划于9月发布其下一代MAIA 300人工智能芯片 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HcUhMSm5TWkJXUVlCd1Y5cXR3WkJZUG01elZHNGE0Sk1sNC1jQmYzb2VuN3BmSzB1TmMxR2s4RHowdFdEdjlGUlVXcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T13:03:06+00:00",
+      "summary": "微软计划于9月发布其下一代MAIA 300人工智能芯片  新浪财经",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "Meta发布轻量化AI模型Muse Glimmer 300亿参数单卡可运行 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DWHlVajZhQVhIMGw4N1R6Tl9zSlpSWm9vQ3ZmQWE3WW16X3M3eFZyTjFCNWlndWt0d3NDOU9xQ3VGMVMwbGR1YUF2cndCSVFmLWs3NkdMQnFKSkpUN2NkLWdn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:58:18+00:00",
+      "summary": "Meta发布轻量化AI模型Muse Glimmer 300亿参数单卡可运行  观点网",
+      "categories": [
+        "other_big",
+        "local_model"
+      ]
+    },
+    {
+      "title": "AI 大模型周榜：阿里 qwen3.8-max 冲进综合榜 Top 6，国产多模型表现亮眼 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjIzVi1zdWlxclBnTktqeE45TEVDalAxSWVWQURCajQ4VTFtNWF0YWduMThFMnRvcEJ1M2tZVXVQVzljMmFTUmZieU5sSndwbVVEbTdBU3QwTVJoN3gxT2FFOWFwaU1NT2UyVEJ3RWVadkNwbHF6SE9aWlZvRml4bFZn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:51:07+00:00",
+      "summary": "AI 大模型周榜：阿里 qwen3.8-max 冲进综合榜 Top 6，国产多模型表现亮眼  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "ChatGPT年化收入100亿美元，OpenAI估值还能继续涨吗？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96UVRLVlJhaERaNHZlR01oS1V4Nk83aExwa0p4WkJicUtPMXdyTWkzWC00NWQ2b3Q1alhwYTJ0VjN0dFhpb0Z6YXQ2TU9jVlZCbTFoNFRoZDlwUU5pLWcxaEVPVmpDZVkxbEplU2p1V2ZMM1ZfcXVvSGhqUFItVkE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:26:08+00:00",
+      "summary": "ChatGPT年化收入100亿美元，OpenAI估值还能继续涨吗？  新浪网",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "普通用户是否值得为ChatGPT付费？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vc3RmRjRoMkxPZ2FCWloxNVNqNVJNbTVzeGRHaGRJdTREeHdsT3luWFRrSFFhbGFwUUxaM1FuRENBMTRVa1l3Rk5CUEY4TkdkQWtVb1kzRERDWFBzTWFPcUtkTGdXX0JpRURSQVpGOEgyVFZ0dDdPdFNVY1J6Z1U?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:25:00+00:00",
+      "summary": "普通用户是否值得为ChatGPT付费？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT付费用户破5000万！你贡献了吗？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hcVRPRVljaHBZeHQ4LS1CaEJPUVlQWnVfWkFNQmcxbXo0YnFtMzlDaDRXMmpDS3ctY3ZxTnQtRUlWS0JpblA5Y1FoYkZuS2VMLUZ4Z3Q4dTU5dmFPclF1b2lrY0FwZm9IZzRGdUlEbXJ1a2k2bHNHUWZMSnZWNGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:25:00+00:00",
+      "summary": "ChatGPT付费用户破5000万！你贡献了吗？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT未来用户规模会达到多少？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xUHF0OXVGdGFTc0pIaEF3MVp3b1pJTTZsSWlBVDBaQ1VMQWdIelB4bGh3eGRhemxFckxYZEdZXzQ5RXJ0NU1nX3FPTW5hYmlibG5jNGMzNjZoVHlXSjNBVkk0ZFBqdTRna3JSam4tYW1GWTlWNjJ1UEJuNl9uUVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:22:23+00:00",
+      "summary": "ChatGPT未来用户规模会达到多少？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT突破1亿用户意味着什么？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92dDYtODhPWTNGQ1B4QmZPT282SFhkNzdENkZ4aDA4bFFId2ozUlZfYVVKUDNtMWtUemxibHBaWHBXTHBkQWJDSXJoY1NQN0pLdnRIOFVVWFlZMUtkY1FxNWJBaEJhdElrU2xxWV9WOFBLSGw5aTF0a0s0MnB4eUU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:22:11+00:00",
+      "summary": "ChatGPT突破1亿用户意味着什么？  新浪网",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "ChatGPT相比TikTok为何增长更快？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zWTlWbHRIRnBSdnhMUVpoeVZMc252MmxQNmpwQTh4eXpaU1lyX0JVeHo3aFhjVk5CSWRJS1YyQWd4ZDhMSF9xb2pyX1RSekZHdEt2VlRCY3ViNTE1Znh1UmZRWUpDSG42YXdPYm03UzRxMi1udXZOSmF4eVdaSVU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:21:27+00:00",
+      "summary": "ChatGPT相比TikTok为何增长更快？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT为何能在2个月内用户破亿？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkbjA5c21aUXhtYVM2cTBaQjVIYTBWRUV3TFJtR240UzNfU2Y1b3ZVZkxoRlg2SkRlQ2pWTEZ1TnlCbVZRTEhkLWY2YmFNRGpUTHFvbHpGbEZPRTRFWXkzeDdJbUxUM2N1dTZQTFI0OU9PZ00xbVlXeUFpay1lVm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:21:27+00:00",
+      "summary": "ChatGPT为何能在2个月内用户破亿？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT周活跃用户8亿数据如何统计？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00OU52ZjhsQmZ2UVZ1dUlDZkVNOGtUel9nN2JMNDdYb29KTG90V3ZJclNHZ1JGTk5acllhMXRMcmRoUDlZSW1ZRlM2d01HWWVBZVdUZ0ZvS05ZSmdZcFU1X09UWjkzemNKcjRvTHlfaFFMSWkyRndJWUNlR09FeFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:19:29+00:00",
+      "summary": "ChatGPT周活跃用户8亿数据如何统计？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "周活破8亿！ChatGPT免费版取消次数限制 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95OHMtOHBid0hMX1ZzcUFIcDZaSDJ6OVNsY2hLWnBTdnFOYUV3cGFxek56ZW5KVmcxUTFudXE0YWdsZ0VjNkhZYmp6c1ZMNmg2Ukc1YWlaelJqbVFLTnlEUkhMZVloZS0wWHBxNUFTLXpHMTBXWnhSSnZXMk1GcW8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:19:13+00:00",
+      "summary": "周活破8亿！ChatGPT免费版取消次数限制  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT用户破亿对人工智能行业有何影响？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOVVVMkhXR0lLcWs4THAxUHp4clBJWnlFdXYyN25QeXNVSUVLNnUzSTU0YkhJNlFqRFZGbFFxMGs5RVh1ajh5MFVDMmNwMHFRTW51MjVqN2VzaW1SWmRJMnd3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:18:00+00:00",
+      "summary": "ChatGPT用户破亿对人工智能行业有何影响？  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "AI安全争议持续升温OpenAI因网络安全风险收紧新模型管控|网络攻击|AI模型|大模型|Anthropic|法案_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFJnMTl5VUdjQ1RybGZtMF9aLWZ5TTFIRkY2NDRCY3dOLS1ER3hqYWJELWRHazgxbnd6X3lmNklXWExJZlZ4WTh2X19iVWRBMlk2UW90UHA2bnplNFBFZEx5R3Z4N2o2ZktyYjA2Z01DbkF2VjRydHZBNDZCdFB0cm1kQjd4Mmd4TzhZMVBVbGlWaEtpYlVmRUNmTmNwOFh0QW13SjVDUV81UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T12:01:05+00:00",
+      "summary": "AI安全争议持续升温OpenAI因网络安全风险收紧新模型管控|网络攻击|AI模型|大模型|Anthropic|法案_手机新浪网  新浪财经",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "#媒体原创 别被忽悠了！大模型≠机器人“真大脑” 单一联盟时代落幕 多厂商互通成新常态｜夜话 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHo4ZUhqMV9ZN2xCUl80RThrYm5UcDRKcnBSaHllWGh6RmNjYTgzODdXTmtJSlVXNWg3VWNwdFlRUWJqNXdWRlBTZ3NONG1rb0hYTmRmLV9BSXcyaWs4UlAtX01udUJPY3hSUjBYN2FLTHNTdXRYYzFEMmw1bEN3U2I0QVN1Qnd1?oc=5",
@@ -12,11 +156,11 @@
       ]
     },
     {
-      "title": "Michael Saylor：如何用 ChatGPT 一年狂揽 150 亿美元？ - PANews",
+      "title": "Michael Saylor：如何用 ChatGPT 一年狂揽 150 亿美元？ - panewslab.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DNEN0cEF5WGU1dVpDYXJ4WktTdEVxOWhkckN2UmNvekFfN0tQclhBcWlEWS1zLTFzTUxJOXVJX1BKVWIyd0NLRGRMYzlDczZfQl9ndzBIMC1VUXdMcEwweWZhT0xzT1lIWXpUMU81V1lpZDJZN0dWY0pnSldNRTQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-10T11:42:33+00:00",
-      "summary": "Michael Saylor：如何用 ChatGPT 一年狂揽 150 亿美元？  PANews",
+      "summary": "Michael Saylor：如何用 ChatGPT 一年狂揽 150 亿美元？  panewslab.com",
       "categories": [
         "openai"
       ]
@@ -39,17 +183,6 @@
       "summary": "市场监管总局批准发布338项国家标准 含人工智能医疗器械等前沿领域  观点网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "OpenAI收购了一家做PPT的创企，刚成立一年多 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rYy1CemExOTJkeDk5LXVPU05lVWpqSDIxTVVMcnhoc2JTUnRXUm82OFkxQm5VRmowTVJ1NzZWbUp5dUhWQ2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T10:49:27+00:00",
-      "summary": "OpenAI收购了一家做PPT的创企，刚成立一年多  智东西",
-      "categories": [
-        "openai",
-        "breakthrough"
       ]
     },
     {
@@ -144,21 +277,11 @@
       ]
     },
     {
-      "title": "研祥集团签署AIP生态合作倡议，助力智能体互联国家标准落地应用 - news.tom.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCX0FHaE5UQkJKSlZiN2hPdjJ4MC1jcmdIdWxzZEdLT0dwY000VFNzMFN6Y3h6U1Z5VWFkbWtHWnlyVlBNWlZZMWJsbEtPcmN0d19mUXpn?oc=5",
+      "title": "失控进行时！Meta大模型在测试期间也入侵了一家公司 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GanhQTl8tUUpDVmw0bnc0aHR3RlBqSTlDN1FxaXdtN0VXQ0FVVWFFRTJRRmlGT2ZPUFZqancyZWlCZ0VTeFFSQ1o4akpSMXNUbTYyVDRIYy1Wa2VsU19SWm1n?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-10T08:55:00+00:00",
-      "summary": "研祥集团签署AIP生态合作倡议，助力智能体互联国家标准落地应用  news.tom.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国AI大模型周调用量连续十五周超美国 DeepSeek新版本环比增570% - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IbVF2NG5hdjktcFVpZUZYZUcwR3pVUG9jSmFKZFVvTHN6cWdxQ2RacE9kNl9jSFBuVmxIMU1fT2JhdHhUaGtabmxzaGZFRVhxRzhNVEIwWjlwVW5QT0Jvcy1n?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T08:42:55+00:00",
-      "summary": "中国AI大模型周调用量连续十五周超美国 DeepSeek新版本环比增570%  观点网",
+      "published": "2026-08-10T09:24:00+00:00",
+      "summary": "失控进行时！Meta大模型在测试期间也入侵了一家公司  新浪网",
       "categories": [
         "other_big"
       ]
@@ -169,16 +292,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-10T08:15:50+00:00",
       "summary": "温医大附一院发布NICE体重管理智能体，开启全周期体重管理新模式  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI智能体攻入出行赛道：嘟嘟巴士接入千问，下一个是谁？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmxtaDhDX0tkV3ZHbmhHUmVOMl9kZWxXOVZJaW1WZVF3MS0xOGpoc01kRmgzOW0xbU9TQXAza3g3Wm1hZ2dnUkxheHdTLV8yZ0tTbDhNYWVDUWtGY2p2SG5nYTk0cF9rcHNDS1lNQ0h5WkpyMHVQSm82RE44aGstd2U0SmM1ODhm?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T08:10:14+00:00",
-      "summary": "AI智能体攻入出行赛道：嘟嘟巴士接入千问，下一个是谁？  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -205,115 +318,23 @@
       ]
     },
     {
-      "title": "美国AI频频翻车，智能体自主攻击隐患浮上水面 - xindb.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaW5ZUEVzXzJ6X1p6T1RWSl9Ba2hVXzdUcjV0QjBrQzJDUDlxOFhWSVJEVm4xeVEwaG92YVN1VFdlQU90Z2ZFRlNCdHpJU1d0bGk3UVo2NkVWb0hZN3ZyS0M4d0ZCcS1jbkhObFlJWkhMb2VsRlpTVnJNa3FSNVJ3TnNiUQ?oc=5",
+      "title": "OpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LOUlsN213bTBrdVJzWHdKaDZMZXFzZlFxVzkyVEE3cFlaOVBHdW9NY194RDM4anQ5TUJEMHZsMGROTUtPVXp2Wg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-10T06:27:17+00:00",
-      "summary": "美国AI频频翻车，智能体自主攻击隐患浮上水面  xindb.com",
+      "published": "2026-08-10T06:20:31+00:00",
+      "summary": "OpenAI取消ChatGPT文本对话限制 全面升级至GPT-5.6模型  品玩",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "慧荣科技FMS2026发布新一代PerformaShape™技术，专为智能体AI设计 - 存储在线",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KZjlTTk01OG9kcno1QnNKQXFaMjFINXg4YlZjTU9fLXd6dm1HMWtIWGt6b2V5Q18xWHNsVHczZUhMY2J4bVlFZUUwakg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-10T06:01:57+00:00",
+      "summary": "慧荣科技FMS2026发布新一代PerformaShape™技术，专为智能体AI设计  存储在线",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "“国家队”AI新实践：用大模型，把一整条江“管”起来！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanhWZ203b2ozOXAxSTdxNUhJdnZSeU1qWm5jaC1BcmJNdGVqU3J2bzdmRllvWUJJVnpMc1dxaDdxWkRuSV9qOE9TX21lWTFzSlJDSy1iVDgtLUpmZXZqTFJoV1lMb3o0WEVJV0J1RlluczE3Z192dlNDMnJnQ1ROSXd0QWRXa1VzMzhzZQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T06:17:00+00:00",
-      "summary": "“国家队”AI新实践：用大模型，把一整条江“管”起来！  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "视频大模型越强,AI工具流越危险?还是越重要？ - 流媒体网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vN1JNZHgwNk91STN2Q2c1cUVHUWVaSzhHTzVQcHU0VGkyTTI5VUpBR0dEV0lWY2txdXZVTjlLMlZNOEVHYXp6VUV4VWtHbHNVZDh2SUtkTkxxTHl3VGRKSk1TdkI5RjZRSzRr?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T06:11:00+00:00",
-      "summary": "视频大模型越强,AI工具流越危险?还是越重要？  流媒体网",
-      "categories": [
-        "tools_apps",
-        "image_video"
-      ]
-    },
-    {
-      "title": "包揽全球前五！中国大模型靠什么领跑？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEZ5cUdxWU9kUmZyaFVTYlZnektsNW9Eak4xc0hvNWZCa1lFTDBjNUQxOExzYXhHYlZ0cXpMNzBLMV9FMXhpRzRSQWwyQkp6RGFBcHFVVXhtUzU1NUluYUY3WU9WSmtQSDdmRzhETGZ0aHJqTktBYV9PODRJT3F5VHZkb2dsS0Jn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T06:09:34+00:00",
-      "summary": "包揽全球前五！中国大模型靠什么领跑？  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "工业专网智能体：让连接叠加AI，激发B2B新增长 - Huawei",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNExyZ21NdHNqSm53ZGVvMGVISHI4MHRLWVlOZEN2Unk0TFRzVld4TDVLOVFuaDYzclV4eVZZNFJxYm4wTGFYaHVIX1FwY0JpRWlDMmpFb2dYb0I2X3N4ZFI0X1Bva3EzOHNrWHJobkpzb2NITFNzNW1yQ2NGZl9xQ3dXNkNvc3VfNThUMlV5aXlZQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T06:01:23+00:00",
-      "summary": "工业专网智能体：让连接叠加AI，激发B2B新增长  Huawei",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "高斯通智能大模型 AI 通信：破解企业 AI 外呼/呼入落地难问题 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRMlNYWVdXdVFkMXR6WnFGdzktVHFsYy1mbHZmRmVtTW15SXdXa3J3S0ZKVVVVMlluYmxUaGJjcnNFOUVkbF9SbllIcXloZzE5dFRQSHRtRVNMVW42YWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T05:51:52+00:00",
-      "summary": "高斯通智能大模型 AI 通信：破解企业 AI 外呼/呼入落地难问题  中华网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI时代，保险代理人会被取代吗？大模型来了，保险营销怎么变？这场闭门会给出了答案⋯ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FRWdyX0VsOHZCcHhOb0NXVXFSaUxPRENVRVE0QW94YnI3aGU3Y2Q3RDRtbE1ma3VIeWRzN0tqcHhEb25TT1oyb2JmSkcxQXJ4eDhJcWhvS1I4SjZ5emt4UWd3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T05:47:00+00:00",
-      "summary": "AI时代，保险代理人会被取代吗？大模型来了，保险营销怎么变？这场闭门会给出了答案⋯  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "智源AREX自主研究智能体：从「盲目搜索」到「验证驱动」 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaOXVxQ0pOU3ZteHlOQlVvM0VrUHUzWUk4T0VSTHBmSGEyWTg3Yk9IMDZlY09vbFZWbzZPQUg5QUk0TzFKWG9KZWtzdy1uQnJneklsaTczNURqbUJrT2lCRGtn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T05:18:00+00:00",
-      "summary": "智源AREX自主研究智能体：从「盲目搜索」到「验证驱动」  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWhyUTZ6ZDFKVXRfaU96am5YajdnT1NzNEcwTTlWcVhGWl82cmV0TjJ5QW9DMGJ1N01VdGFZQU11Y2kwanBNV3g1aGhWS2lrYXg5MEFnS29qSkM4ZE9yek1GZzRmRXkxVTFETVBWaUl0bExhVnVacVlTUldmN21oN2JRUnhIWFJF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T04:39:00+00:00",
-      "summary": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "徐新：做大模型亏损不可怕，但要能看到赚钱的希望 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUENld0Foa3JuVWNyMnA3VnB2bFFEV3VYRzZCd2tvaWlwMVNaWEVpcjdKaUV6TWR1OGNHZFh3Vi10bFRzZGxrdzhQZkRZX1Q1Nkh0cUJiX3pSY2kzS3BGZHlGRW9zUDBVbDBwQ25XRDQwQzF4NkNib3NTZjF0Mnl4SHEwMEZheHFq?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T04:18:54+00:00",
-      "summary": "徐新：做大模型亏损不可怕，但要能看到赚钱的希望  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "易维科技携手德卡科技发布智慧医疗 AI 终端新品， 探索基层健康服务新路径 - 新华报业网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mcVRXc0RRV1pkZUpKM0FCejU2RXJ3bmREQV8tdllVV3NnVlJsYTc3aGM4Y3FtNlhvZ0xPbGlROEh5RThST1pXYWhGbGxHbWlsWXBYQm1lRUhlYW9kc0wteFMyYTZpM28xTVRB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T03:22:00+00:00",
-      "summary": "易维科技携手德卡科技发布智慧医疗 AI 终端新品， 探索基层健康服务新路径  新华报业网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -337,33 +358,13 @@
       ]
     },
     {
-      "title": "苏州企业自研低空多模态大模型通过备案 - 苏州新闻",
+      "title": "苏州企业自研低空多模态大模型通过备案 - news.2500sz.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IMV92UTM5X3R0cmJvX0lNbUdleTU2VEVzeU9JdmQta1NxdjV3V3pwbk5kWW9ONDNtUFJHdGVmU000dXFkTkM1REdPajFEeGtGVHp2eHZuLTlBa1ZmNkRMVy1B?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-10T02:10:05+00:00",
-      "summary": "苏州企业自研低空多模态大模型通过备案  苏州新闻",
+      "summary": "苏州企业自研低空多模态大模型通过备案  news.2500sz.com",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "ChatGPT免费用户迎来无限文字聊天，GPT-5.6双模型分层上线 - 环球网",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PUzJCTV9NcG5JTUdoY0NHRnRzSm9MMC1YRHFCSktPS29EN09UWE5ycW1wZWQ1TkxIQ1VkMGdVbjdOZ0toYngwQkJmdmpURnd4VFRJdGw3Yw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-09T18:36:00+00:00",
-      "summary": "ChatGPT免费用户迎来无限文字聊天，GPT-5.6双模型分层上线  环球网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "突发状况：ChatGPT与Claude竟对真人发起攻击 引发行业广泛关注 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRXNNMjhyUUlTdDh6YmJDajRVdzZKYXNVMlgzSFo1VUVKckFrZ3lVc09xVjBNZU1haTdYVkwyOU9XU2dfMGhWMFp5bGw2eXFyQ29J?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-09T09:23:00+00:00",
-      "summary": "突发状况：ChatGPT与Claude竟对真人发起攻击 引发行业广泛关注  36Kr",
-      "categories": [
-        "anthropic"
       ]
     }
   ]
