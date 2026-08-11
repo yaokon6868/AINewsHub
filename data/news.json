@@ -1,14 +1,115 @@
 {
-  "updated_at": "2026-08-11T06:28:33.842697+00:00",
+  "updated_at": "2026-08-11T07:47:57.693904+00:00",
   "items": [
     {
-      "title": "智能体AI时代革新数据中心架构！AMD高管：开放不是选项，是必要条件！ - icsmart.cn",
+      "title": "韩国多款AI大模型入选Epoch AI榜单 今年仅中美韩实现上榜 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjByRHFvNUd4ZVNkZy1MZHZzV3VJYjZEX2FuWUo0RDhsZjJZZFAyRS1iU1JjM3VQVDdQSWFJYTcxRDEzaDFqdjFHTDdLWk9WYWRSWU44RjZTMjNaMGYwTGZfOVRIR0prMGRNbEtYOXBRSEg4aGtKbzI3a3dqYmkwSmZmeVR3M1NI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:39:00+00:00",
+      "summary": "韩国多款AI大模型入选Epoch AI榜单 今年仅中美韩实现上榜  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "谷歌韩国用户数首超NAVER|ChatGPT|OpenAI|Google|移动搜索|生产力_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOX2tsWE4zWmdockNmdU1oMXBoY2xhdGZJOTVrTnZfUEd1dFNmOWtGWndYbWpEVXFnRlRPNWJvbDQtSVNpS0I2VVQtTmZwNThScThTY3NPc2NYaE1hM1BiLURoRFU2ZUVQSWNhMzB4ZWdaUHUwNzFoNjJfblVDQ0YxWVV0VkdCVVRadmNaRHFBc3RlQWEzMWJzU3A3QVZOVk92WXVxa1FXQkZYQ0JxWXRrTW5oWG1Dc0lZOXFKMlAtcFlTUHU0N2pkZVRaQk1VVmdUY0dHTEhMR3dUTFZJcWxUeVI3MFdjUE1rSExMRVI4UnJQSjA3T0NMSngtdzBBLUZ3Wndpc3ZfR2NOcHNkTGtZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:30:00+00:00",
+      "summary": "谷歌韩国用户数首超NAVER|ChatGPT|OpenAI|Google|移动搜索|生产力_手机新浪网  新浪财经",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic宣布Claude文本嵌入隐形水印 复制粘贴后仍可追踪 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TRmZLZE1TeGhUVV9yNzRHNFFCd1oyRlJ5TTUzS3lWRWtiQXA5MzlSRm5ON243SnJUdUVDM213bE5aQm50YmhSLXh1LWRBel9aT2dVUWRMNUx1eUgyT0hKM0FB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:21:42+00:00",
+      "summary": "Anthropic宣布Claude文本嵌入隐形水印 复制粘贴后仍可追踪  观点网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "英伟达推动5000亿美元人工智能融资计划 - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lUE9xMVVWWUh4UW1raG9IeV84enRaeEV1X3lUSkh2d1Jfd012QVNiYloyb2RNaDlMS3g2aXVpWlpYSW5TMExpYmwyMFJDaE5oeTlnOFN5ZENsNXd2QWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:20:32+00:00",
+      "summary": "英伟达推动5000亿美元人工智能融资计划  京报网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力 - article.9466.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90Y0pEQzhsY01femh0c2F1dW5od1kxZXAtSm9QWFpuek1CT1ZWbS1CMnlrRTBDekhGcEdQb1lWNWtuZUNPYVJPX2JQeDY1V2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:18:00+00:00",
+      "summary": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力  article.9466.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "银河通用牵头组建，具身智能大模型北京市重点实验室揭牌 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUYxQ196RG9Za0J1eFJZMEd4ZzFFRUFoRFNIUGFzYUF2ZHFuWTdRbU9PZWwwMWpxQW5GR0J6ZzYwN283VzRtQmc5RnU1NVhOQkdDMlNQRjZ1anowQmtXdm5GRmFkRHIwaTNyQm9waTdrSlctbzBkT3VaaEpRb1FBV3hKT1FheEw4SmtwRA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:08:01+00:00",
+      "summary": "银河通用牵头组建，具身智能大模型北京市重点实验室揭牌  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "零一万物：大模型开放平台将逐步停止面向用户提供在线体验等相关服务 - 集微网",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByNkVNc2I0bGw5Sk9IcHFFQVE3djhnYjROYktvclhETGJXSDEwQl9sUGtMZzRCek1vdjlGNTRuRC1EVEk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T07:06:15+00:00",
+      "summary": "零一万物：大模型开放平台将逐步停止面向用户提供在线体验等相关服务  集微网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "从“被动响应”到“主动预见”，苏州姑苏区启用国内首个科普场馆安全治理大模型 - 紫牛新闻",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Zc3BGakw2ZTNGUDF4RE5aLUhOR3c3amV2X0E2cGIzN1F4c1JIY3FvX2xibU5DMmowel9KNmg0U1kxM19OMVYwQjJ1SzZLci1BT0h4WUpsWGY1ei16NUVqVWVwM0pxSGMtbDRVTkhwY1NfN3hrWlFGVw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T06:39:00+00:00",
+      "summary": "从“被动响应”到“主动预见”，苏州姑苏区启用国内首个科普场馆安全治理大模型  紫牛新闻",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "谷歌Gemini 3.7 Flash AI模型踪迹曝光 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFFEUHRYaVpKcEpBUnFmR0lpRVQ3SENyZEE2QXM4Unlwc052dmVrNjBBV0xqdGh3alNTNHp0TmltNzNqeGdtRGxRN1J3SldNS2pIbkxNZ3RSbFdVODhWZEZnZjRlYzlXemhNLV84eWtOSmJOX2xMTUxqX2VjYmFwcGRhanpKenB0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T06:36:26+00:00",
+      "summary": "谷歌Gemini 3.7 Flash AI模型踪迹曝光  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "智能体AI时代革新数据中心架构！AMD高管：开放不是选项，是必要条件！ - 芯智讯",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE14ckpURFpGQklpcFpfdGs4NzJFV0lYX2xBbWx2RkZNd0doSTBwbU5sa2V1OFlrT2xFcjFlRDJuaW5QX2VL?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-11T06:27:33+00:00",
-      "summary": "智能体AI时代革新数据中心架构！AMD高管：开放不是选项，是必要条件！  icsmart.cn",
+      "summary": "智能体AI时代革新数据中心架构！AMD高管：开放不是选项，是必要条件！  芯智讯",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "消息称谷歌已搁置发布Gemini 3.5 Pro AI模型 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yRTQ4T0MxdXRBOWNqajJjZmIyMGtzS3c5STdrRWFMZkZ5QTh4Y3RwVzBtQ1NlY0k4NWhFQWVvaXJ6c0w5dEQza2dyMy0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T06:23:40+00:00",
+      "summary": "消息称谷歌已搁置发布Gemini 3.5 Pro AI模型  凤凰网科技",
+      "categories": [
+        "google"
       ]
     },
     {
@@ -42,16 +143,6 @@
       ]
     },
     {
-      "title": "Anthropic宣布Claude生成内容将嵌入隐形水印，复制粘贴后仍可追踪 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdERjV05lU2laRWZfRTE4dHB0NmZFc1k0eGNtTVZ6NFV1NGVPU05qclY1WERpT2RzNnFoM1kxbHhWSm5YVWZqUGlXVmxFZ2lQak5rODRrSGJUSTZwb2dwemNDU05lUmdzQ2lEYVlveE1RQnhHb2ZjVFFGLWxoaUhFTHZoNWV2MUtuNWdnVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T06:04:55+00:00",
-      "summary": "Anthropic宣布Claude生成内容将嵌入隐形水印，复制粘贴后仍可追踪  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "openJiuwen协同昇腾打造智能体「算力亲和」技术，首token时延砍半，推理存储占用下降25% - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb05XeENqa09ySS1VOGZSTWM5VG11Rkl0T1RGdkRqOEVqMl9VSFVTV1lLaktrbllSemN1MW9aRklWeTg1ZmlTaENiR2ozRnlLcDhORzdBbTlHWEVBZVpPaEJLd0dmWHY3Tmd2andTUklyVVZET2FMWDRJRy1CTHNuNXFwcFVybWZY?oc=5",
       "source": "Google News - AI(中文)",
@@ -60,17 +151,6 @@
       "categories": [
         "tools_apps",
         "chips"
-      ]
-    },
-    {
-      "title": "沙利文·头豹2026 AI Agent报告重磅发布，有连云获评最具全球发展潜力中国Agent - k.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9icGRuUF9JalRwcFMzWW9Ob0NkOTRlcHR6OVNPbVVDWlIydXprMFhuMXRsSGR2QmMwMEhrWmtnclBHTkk0RWIzbThobzZwM0dibDRUOW9ucmstalpTU1hqR2s3UDBvLURxS1JJOUc1dHBxaFZWNVJqNm9KRHd0QzA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T05:43:50+00:00",
-      "summary": "沙利文·头豹2026 AI Agent报告重磅发布，有连云获评最具全球发展潜力中国Agent  k.sina.com.cn",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
       ]
     },
     {
@@ -102,26 +182,6 @@
       "categories": [
         "anthropic",
         "breakthrough"
-      ]
-    },
-    {
-      "title": "Anthropic将为Claude生成文本加入隐形水印，防范AI内容冒充原创 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85SVU2UzFwaEc4cms4Y3lPZklEdEJIUTJQQlVUVy1kSGlQYjJCQzJ0V1RZYjk5MnpHcnByZWQ4MDZ3NmhIeHZhU2cydDE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T05:06:49+00:00",
-      "summary": "Anthropic将为Claude生成文本加入隐形水印，防范AI内容冒充原创  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic为Claude新增AI文本水印功能 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnMGxNUE1oREdQeXNXLVJmdjhNMXhRbVc5emhKV2JNb2hjdzFkMHpNNS1teEdrWkJZRmxHdDNGVXVPSmE3RTNyZ0thQjZVbnlvYnVmbXYwYzNFOWZ3QkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T05:05:03+00:00",
-      "summary": "Anthropic为Claude新增AI文本水印功能  DoNews",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -167,19 +227,6 @@
       ]
     },
     {
-      "title": "Applied Compute洽谈新一轮融资估值有望翻倍至30亿美元|大模型|美国|开源模型|闭源模型|Agent_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2VDbGxZWlZMTFg5NERtWnBQc1hJZW9uS1VjYWpaMEEzTTUwdHhnaVBSbllsdklTSUdnbUNTMGo5bTNrampQbl9aY3JNSTF3MlNWZy03T2NfNERlV1pNbmdnTWRJQmFCbkNKWGs4NmtKNGVoV2JudnVLQjNiYmx3cno3cjR5aHBLNWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T04:15:34+00:00",
-      "summary": "Applied Compute洽谈新一轮融资估值有望翻倍至30亿美元|大模型|美国|开源模型|闭源模型|Agent_手机新浪网  新浪财经",
-      "categories": [
-        "breakthrough",
-        "tools_apps",
-        "open_source",
-        "chips"
-      ]
-    },
-    {
       "title": "720次攻击0成功！Claude Code默认放权，AI替你点「同意」 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTzdCSG14LS02S3lrd2xxQlZSdk9YeUg1UENIMHVXQ2FzQW5pa0ZOeDI3QmxuM09aa2JpQ3BKX3cxVE5jQUFla3J6RFlYOWNZSlhuWFZCTFFkT1Rsck84OThzZzhiUmlhNXg0ajhDYTVzbzdmT0ljWE9QOE0tSEZrUjExbFNhdGVB?oc=5",
       "source": "Google News - AI(中文)",
@@ -187,16 +234,6 @@
       "summary": "720次攻击0成功！Claude Code默认放权，AI替你点「同意」  搜狐网",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "机械工业云平台正式发布，巧工·智能体解锁工业AI新范式 - 新华报业网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MT2VNVEtvU3B0TFBSR3RLcFBaSldWNUhud2Jfb09LeGhKS1Y0c2M2b0QtUDhxdUdla3NjSnMzWmJZYmRxRnpGOEN4UVhvRTV5bGNMSmNXeHp3TlgtV0c0Z1BLVE9ZSmU2Q1dR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T03:50:00+00:00",
-      "summary": "机械工业云平台正式发布，巧工·智能体解锁工业AI新范式  新华报业网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -261,34 +298,13 @@
       ]
     },
     {
-      "title": "ChatGPT不只是聊天，它正在吞下整个商业世界 - TOM科技",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGWGxnVThyRG85UGRESVhSNUpTcHRuR0daWTZleHFzSE94TkVBUTAzTVFWREZ5VzdKcGZNVE0yc2dHckNtRWUzVHlLTFc3ZFJxdmZwN2d3?oc=5",
+      "title": "为什么Claude对子代理这么凶？ #为什么Claude对子代理这么凶##热搜ai创作激励大赛# ​ - sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNzJLYmk5WG1LdFpqTnlwZHJ2dVdKVDdTS2xrVG1KWTV5UmN5bGNjdFlJenJtbmx0dFFkWGFYNHg3WVh5M1Z1Ml95cjdtY1lBVllHLXAyQmkyTzJyTDFDZkg0RQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-11T02:11:00+00:00",
-      "summary": "ChatGPT不只是聊天，它正在吞下整个商业世界  TOM科技",
+      "published": "2026-08-11T02:29:00+00:00",
+      "summary": "为什么Claude对子代理这么凶？ #为什么Claude对子代理这么凶##热搜ai创作激励大赛# ​  sina.cn",
       "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "车载AI智能体智能化能力分析报告 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zNU82STg1azA1Ym85d1RzeWpxVHN1UnRDeXBTelpPLXcxdy1fMkhjZndSX2NjLUR1Nk1XRkVpZXFBUkN4T3NpRDZoVzdQeFBlSFBF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T02:00:00+00:00",
-      "summary": "车载AI智能体智能化能力分析报告  电子工程专辑",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "突发，Claude首破黎曼猜想新纪录！ - 创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tVHdkNFl5TXA0VWY0SmJfeF8za0h2R25LZWNZTVdCUnUtemFzeXQtX2o2TUliR2pORWxvZkN4NkVJelFoczRwTjZ5SVFTc29k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T01:59:52+00:00",
-      "summary": "突发，Claude首破黎曼猜想新纪录！  创业邦",
-      "categories": [
-        "anthropic",
-        "breakthrough"
+        "anthropic"
       ]
     },
     {
@@ -313,21 +329,11 @@
       ]
     },
     {
-      "title": "为什么中国大模型便宜又好用？（外国网友趣问中国⑩） - 光明网",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaejNGMGI0ZkxaWnc2eGo1d2F4Y0V1S3pNNHZZcHVJS09kel9mdHYzSWdGN1NqYzNyZ1hmakRfT2lFMzM2eTAwU2w1bnN0eXAtZ3ZyS0lXTFAtODZu?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T01:31:00+00:00",
-      "summary": "为什么中国大模型便宜又好用？（外国网友趣问中国⑩）  光明网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI发布ChatGPT 5.6 Cyber版本 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1U0N1czctWlMza2NqOWtIXzI3QUdxSE5iUFc1dTltWWtPdmdETDRFeHFwUU1FaDhMejdzUnNEUnBYRTI4RVhDbQ?oc=5",
+      "title": "OpenAI发布ChatGPT 5.6 Cyber版本 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idHJNNkJ5bnBKVjhka2JNam9jVUhhNUlQNFk3cW9Wa1Mzcy01MlM2YkNfQVY4aUJzNTZyTGZyNWJOdW5Cak9tQmYyd1E?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-10T23:51:07+00:00",
-      "summary": "OpenAI发布ChatGPT 5.6 Cyber版本  凤凰网",
+      "summary": "OpenAI发布ChatGPT 5.6 Cyber版本  凤凰网科技",
       "categories": [
         "openai"
       ]
@@ -340,17 +346,6 @@
       "summary": "突发！Claude挑战黎曼猜想「失败」，却意外刷新37年数学纪录|Anthropic|数学家|临界线|下界|论文_手机新浪网  新浪财经",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "美多位议员要求OpenAI、Anthropic解释智能体失控，呼吁暂停新模型开发 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DOWNXYXhVUlFLWVBuZGVDZHgwUVlqVE5fQmdlaXpkbENZNk9OZFNMNVA0dTVhU2t0aWtPTzNmSDljZjRqNEkwVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-10T22:54:14+00:00",
-      "summary": "美多位议员要求OpenAI、Anthropic解释智能体失控，呼吁暂停新模型开发  凤凰网",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     },
     {
