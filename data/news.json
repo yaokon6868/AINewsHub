@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:49:39.819383+00:00",
+  "updated_at": "2026-08-12T22:43:39.421592+00:00",
   "items": [
     {
       "title": "大模型又上新！英伟达发布 - 东方财富",
@@ -53,6 +53,16 @@
       ]
     },
     {
+      "title": "谷歌发布Pixel 11，依托Gemini迎战苹果，打响AI手机竞赛 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWVvNGJKU24tVnY3d3BteEhmVlhyR2wwMmxsanZzdEZVYUNiNVB4d05DejJsTWpYWUM3Vmw3Tl9xdkg2bklCY09RV3RIOXJZa1Y5WG44NW9lSW1LRl9MbnlTdmk2bUdXR3dOdlNtc3RBczcwNEpuWmR1TGZTYmZ3WU5scEdnX19qRlFpTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T16:08:25+00:00",
+      "summary": "谷歌发布Pixel 11，依托Gemini迎战苹果，打响AI手机竞赛  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
       "title": "【#DeepSeek发布V4Pro正式版#】今天（12 日）晚间，DeepSeek 官网“API 文档”上的“模型 & 价格”页面中，模型版本新增了DeepSeek-V4-Pro-0813。其支持非思考与思考模式、Tool Calls、Responses API，并可直接导入Codex使用；上下文窗口高达100万token，最大输 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92YnRMbV81UlhiZWo2QkFOcDEySkljV0pGSzRpU0EwTjZMNFJOWWZ1RTFwNEJOUkcyLWVnTjZ4RE1YUTRDbXhObV8tOVhuNFdfTmtxZVFiaE5TcFVuN29EWWRicw?oc=5",
       "source": "Google News - AI(中文)",
@@ -63,23 +73,23 @@
       ]
     },
     {
-      "title": "科技公司循环融资或吹大产业泡沫 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlhrZGUzOEg2bVlMZFVpSjZyUF9LVGVJcmFBdTZPUDc0NmlkamdxX1B1WjliRnNteWdDZ1dpOWR0eU9wTl9DX3lsZFpoaUlrY0RzaEJ2Z3U2Tmt1RTRvb0RzdUQzMVNKc1ZGbWJRQWJGc2FrV0VoN1ZrQ2NEWVlaUmQ5UTdCSmlUZDREUzk1T0hsX1ZYRHdfR3VPdw?oc=5",
+      "title": "DeepSeek-v4-pro 发布，大的来了！ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02NkdTUjY5WjBGZVhNREdVOV90Tk1uc2VZcGlwWmw0UHVaNkRNMHBaNkU4WkNhcnJQMktocVFGLWFzckQ5SmpPS1lEMGlkV2tTNEFJ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-12T15:28:20+00:00",
-      "summary": "科技公司循环融资或吹大产业泡沫  新浪财经",
+      "published": "2026-08-12T15:56:00+00:00",
+      "summary": "DeepSeek-v4-pro 发布，大的来了！  电子工程专辑",
       "categories": [
-        "breakthrough"
+        "other_big"
       ]
     },
     {
-      "title": "谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFRyaGZGbHRQZ2MwVDc2RjF6LXM3TllNQnF2bThBWnctOVUtTmtUakpiV1JFTlp6QUtPdUQyQi1ieEJGTTV3LUJkSTcxMVlsNlFnZ2pUSWJVaENlTE1XSjZKamc5Q05hVTZHVm1vclpfUC1VTXBtQzBsSkVxdEpvZV9IQUhhVEhwX3k5Nw?oc=5",
+      "title": "科技公司循环融资或吹大产业泡沫 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlhrZGUzOEg2bVlMZFVpSjZyUF9LVGVJcmFBdTZPUDc0NmlkamdxX1B1WjliRnNteWdDZ1dpOWR0eU9wTl9DX3lsZFpoaUlrY0RzaEJ2Z3U2Tmt1RTRvb0RzdUQzMVNKc1ZGbWJRQWJGc2FrV0VoN1ZrQ2NEWVlaUmQ5UTdCSmlUZDREUzk1T0hsX1ZYRHdfR3VPdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-12T14:35:11+00:00",
-      "summary": "谷歌全新Pixel 11以Gemini为核心 打响与苹果的AI手机之战  Sohu",
+      "published": "2026-08-12T15:28:20+00:00",
+      "summary": "科技公司循环融资或吹大产业泡沫  finance.sina.cn",
       "categories": [
-        "google"
+        "breakthrough"
       ]
     },
     {
@@ -136,17 +146,6 @@
       ]
     },
     {
-      "title": "Anthropic宣布为Claude生成的文本和图像添加隐形水印 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTE5VHNQLWhja2hkLVMySUkyeU0xR0NQQ09YdUJNVTdZMmlOdm1YSUFqaU11UTZ4VkV3YS1YLWd3YmZiQ0NHbVdUaDhwMk00bkxBMnR1d2NjQWtGQ1Y1UmdTSmNtLWl0cHpiSlM5cHYyWE94XzNLdlIyd04zUFNfUnFzRVRQMmVf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T12:47:00+00:00",
-      "summary": "Anthropic宣布为Claude生成的文本和图像添加隐形水印  Sohu",
-      "categories": [
-        "anthropic",
-        "image_video"
-      ]
-    },
-    {
       "title": "超级智能体大会成都站举办，百度智能云推出OPC重磅支持计划-AI云资讯 - icloudnews.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96NEpGUTE0U2hrMTNtTHF5NF9WUEhhNXV4UmVraTl1NEhrQ0lXcXowMk1kcXN4TmlFUngtdzdJeV9ET0NrWXFjUHloRVJWbnVfelE?oc=5",
       "source": "Google News - AI(中文)",
@@ -154,18 +153,6 @@
       "summary": "超级智能体大会成都站举办，百度智能云推出OPC重磅支持计划-AI云资讯  icloudnews.net",
       "categories": [
         "other_big",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌Gemini应用月活用户突破10亿大关 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1pVVV9fMVlXcExGd2ZYdExTWmJWQS1kOXJxRzdINHdyWHg2Vm1janBBak9PS1pJT2dqS0NmNEdBNWJSUl9ZQ09ON19wTzUxTjc4NzBDVFFOMjBWQ1pNMmpTYUhhUzFxLWVBTldjVE83TlJucVVFeWRXVVY1OWhYd01iQ2NtVEdv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T12:44:00+00:00",
-      "summary": "谷歌Gemini应用月活用户突破10亿大关  Sohu",
-      "categories": [
-        "google",
         "breakthrough",
         "tools_apps"
       ]
@@ -201,17 +188,6 @@
       ]
     },
     {
-      "title": "Meta发布Muse Code编程智能体，支持复杂代码库任务 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOencxYm1QaGtEekZFNjRiT1pyRTltMXR5Nm9KNE0yeVFKUkVoOUNpVmNMSnY2ZFAzakRhZVlXbU1mVjY2b3psdEJjSWtWNlVKZ0NlcnRrX0U1ck5xdmNCblZFa25MQXZWWUhQMXFtZ0VhOGxhNlpjektfYmdfSnE5aXJjN3pEdnNz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T12:05:00+00:00",
-      "summary": "Meta发布Muse Code编程智能体，支持复杂代码库任务  Sohu",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "背靠“魔都”，“大模型六小虎”阶跃星辰如何跨越商业化分水岭？丨【实地调研】 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUNYVkFIbGpJSUxSX1Y2ZHVNNEljYlFFdlBfblVFdm5lcFhIWE13YUNHV2RVdEpUZ2xCZldZdzdsdHBydFI4OEJ5QzNHV2xOdVk2c3BrTGVMV3lqRVlXcGlKSlBDUHJWc0poVEhlM000NUpadG5tdk9vWVVCZk4tY1lIVTZ3Uzl0?oc=5",
       "source": "Google News - AI(中文)",
@@ -232,11 +208,11 @@
       ]
     },
     {
-      "title": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型 - yzwb.net",
+      "title": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型 - 紫牛新闻",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsVS1WUEZ0eTZUWF83UlF2b3RQUGxMbUYxNjBtNm5nUTdraHlLa1A0d21XSWhLcHRDSllFQ3Jkak1KQlV1bHFhQVBZSjR2ZFhPMVdJUGRMSWFoRURRR0Uyb3hQUlg0M0hP?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T11:52:00+00:00",
-      "summary": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型  yzwb.net",
+      "summary": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型  紫牛新闻",
       "categories": [
         "other"
       ]
@@ -252,21 +228,11 @@
       ]
     },
     {
-      "title": "【视频】实测挑战：端到端能行？R7大模型上车大众旗舰 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EQ2VjQVFpX2V2M2ZoS0JpMWpHUTlKdHNlaklXV0pJTFBCbXVFeUwwU1RmelNtT21xbXQzZ25scWNRbnU1UHVCUTdHMV9HRWtuak9iUXRQTHJaX0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T11:32:31+00:00",
-      "summary": "【视频】实测挑战：端到端能行？R7大模型上车大众旗舰  汽车之家",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
-      "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战 - 新浪财经",
+      "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUDNfSERCai1iZGk5M3RNSkFScHppallaVWRpMnFaQldNN3dTZl9OaWdIM3dReUZHNGdMandwWVR3ZVNfTk9ZRlowSTdRa1FyRFRtNUZwWDktZW9CMFdGdnVaQXRvSzFPcGhfekkwbGlERE1SNTEwYg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T11:32:03+00:00",
-      "summary": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战  新浪财经",
+      "summary": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战  finance.sina.cn",
       "categories": [
         "breakthrough"
       ]
@@ -292,33 +258,13 @@
       ]
     },
     {
-      "title": "DeepSeek + Pi 王炸组合跑赢Claude Code？Pi创始人：这套组合我早押中了- 产业链 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92TXR5c2V2T250WUdJai1ETXNXSThWbFY5WURCMkFxc2FBbnQ0WmhSZXlKeS1GNzNZUV9jc1FOVkp5NDVrTlNESkx4Qzg0VnpacHFSTHY5UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T10:59:31+00:00",
-      "summary": "DeepSeek + Pi 王炸组合跑赢Claude Code？Pi创始人：这套组合我早押中了- 产业链  光通信Pro",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|普渡大学_手机新浪网 - 新浪财经",
+      "title": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|普渡大学_手机新浪网 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPd1JVcDM2MXJSR2JqVEZZbG1PWlNqQ2RvOUJONVhVLWdXbjFNT1BCb0dsX0VSUF9WdXJtOFR3dkZYMGRmdWhWd2pZaVZTS0YwNlZMa3BkcWxGVTcwWTRjOGVrenF3aWFLOFZyTkxGVWhvNldHS3FwekQ4dndoNjBxT2p2UlE4SjZIWnI5anUweXozYjFoV21wRXJSX2JfUk5iNkZ1by12OUx0aUc4TXM0cjE5dmdIdUx5dkZMeXUtYnRmcGFJN25qdzhvQmVWVzBCNG5VbTdTQzZqSEpXZEdfMF9RYWZPOEtrYmxYTWhHZDY0Nzk1Wjg5QVlPUDd1M3pjWENPM0NGNW9ZOEZHdmdwUlYtVm9oTVNxOU9XX0ZB?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T10:29:40+00:00",
-      "summary": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|普渡大学_手机新浪网  新浪财经",
+      "summary": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|普渡大学_手机新浪网  finance.sina.cn",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "【视频】荣威家越07初体验，AI原生大模型到底有什么优势 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUUzNyVjFma05VVGhTZGFUcEo0VlFBZU5zT0FEZWtBcjl6ZTlZUGI5UVRUUlh5TEZtWk1hSXdkUmVlMnliSVFMemU5MEpmSlEwbkI0SmRoaWc4M2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T10:25:05+00:00",
-      "summary": "【视频】荣威家越07初体验，AI原生大模型到底有什么优势  汽车之家",
-      "categories": [
-        "image_video"
       ]
     },
     {
@@ -349,6 +295,59 @@
       "summary": "三星引入Claude模型 定制SoC验证任务缩短至两天  观点网",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "马斯克押注智能体再出招:\"数字同事\"Grok Bot上线 - wenxuecity.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYcjh5XzdXNlpNSUl2VnlVckp5czlveVVRdkMydENXOHNMRWNBbjN1UlNDSnRKWnVYWkZQa0hBNXZ1aC13VGxHTXpzM1pzSzltWDNHSUZIam9femF4bjlvaWtHRmpRVmdi?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T07:31:32+00:00",
+      "summary": "马斯克押注智能体再出招:\"数字同事\"Grok Bot上线  wenxuecity.com",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "免费送大模型，英伟达图什么？ - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFFJR09Yc1VyTkVvdlZ4VHdWR2Vaa18wSUdvNGpoMTNibWtpbEREcDRfWW42aE5NTWw1QlMxLXhuYVNVbXhqSDlkd1ZGZHBiZ0RzbmJscDVZZzFSb1pldy1PblRsSG5zSTNfV0psdGw2S3BqVi1QbWdNR2FCbWlYNzBPM0FuLTR0VnB2SA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T07:19:00+00:00",
+      "summary": "免费送大模型，英伟达图什么？  21财经",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "DeepSeek V4 Pro 正式版API上线 大幅增强Agent能力 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9kQ2NTZzc0dDZZaDBEaFZsVkR3aEdCb2pUS2pUWFg1NHJxTXBrM25uREJnc2NBNlRRdjVwSFRaLTVVLWZEcFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T06:52:00+00:00",
+      "summary": "DeepSeek V4 Pro 正式版API上线 大幅增强Agent能力  财联社",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国长安汽车再牵手华为，合作深入AI大模型与算力领域 - car.tom.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ucU42elVva3UzUkEtLTRzSXhjMEtIRFRIMVYxZ3cyelJucEkwWlo3ZmtfckdRTjk1Z1oySThwUmFLaW52aEtTd1BObm5NRU5uUkRtZg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T06:40:00+00:00",
+      "summary": "中国长安汽车再牵手华为，合作深入AI大模型与算力领域  car.tom.com",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "三诺动态血糖仪全新升级：搭载“小诺智能体”，中国CGM跨入AI智能体时代 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwc1lfeVBvRlB0WTE5RHplNk1tMm1JR3o5ZjZWTE1vWXVfbXk0cmh2cGFZY2ZhVnpCVFN2Z2lRYUpxOWk4QkdVRjhwbV8xRDVGSzN3elZwdDhoeU1XdXBUQWVMcHA1QjlrRmZsUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T05:28:03+00:00",
+      "summary": "三诺动态血糖仪全新升级：搭载“小诺智能体”，中国CGM跨入AI智能体时代  中华网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
