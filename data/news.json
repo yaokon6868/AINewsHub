@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:49:35.838161+00:00",
+  "updated_at": "2026-08-12T21:49:39.819383+00:00",
   "items": [
     {
       "title": "大模型又上新！英伟达发布 - 东方财富",
@@ -9,6 +9,17 @@
       "summary": "大模型又上新！英伟达发布  东方财富",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "腾讯控股：启动了微信内AI智能体小微的小范围灰度测试 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53NnJWQTJKQ3BHTzlERlV6Szl4eDd4NXRidmQtT1Vfek43QWNqOHFQTUJYRGY5aTBsOUlBT2RIVmpTQ1hESmFCLXFLSXVibWFNTkRFdUprM211QXZhSlU4eXpDWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T17:52:10+00:00",
+      "summary": "腾讯控股：启动了微信内AI智能体小微的小范围灰度测试  东方财富",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -190,18 +201,6 @@
       ]
     },
     {
-      "title": "微软开源单元测试生成智能体，支持全编程语言 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzVQNWd1NWJpUHNncWNCQWRyRjJ2RVcxSjZ0TURoa2FQcWdwLXdibXRjUGtjOUNOcXU2NUxyMk01MlBBbllkTU9hUkVjUk41VFdmSHRCYktCZGJjVGdGZW9uaEw2T3lQTDZIbWxjQldPb2h4ZTJBQ1pjcURiYmMzV3VzX21QWGJM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T12:06:00+00:00",
-      "summary": "微软开源单元测试生成智能体，支持全编程语言  Sohu",
-      "categories": [
-        "other_big",
-        "tools_apps",
-        "open_source"
-      ]
-    },
-    {
       "title": "Meta发布Muse Code编程智能体，支持复杂代码库任务 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOencxYm1QaGtEekZFNjRiT1pyRTltMXR5Nm9KNE0yeVFKUkVoOUNpVmNMSnY2ZFAzakRhZVlXbU1mVjY2b3psdEJjSWtWNlVKZ0NlcnRrX0U1ck5xdmNCblZFa25MQXZWWUhQMXFtZ0VhOGxhNlpjektfYmdfSnE5aXJjN3pEdnNz?oc=5",
       "source": "Google News - AI(中文)",
@@ -233,11 +232,11 @@
       ]
     },
     {
-      "title": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型 - 紫牛新闻",
+      "title": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型 - yzwb.net",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsVS1WUEZ0eTZUWF83UlF2b3RQUGxMbUYxNjBtNm5nUTdraHlLa1A0d21XSWhLcHRDSllFQ3Jkak1KQlV1bHFhQVBZSjR2ZFhPMVdJUGRMSWFoRURRR0Uyb3hQUlg0M0hP?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T11:52:00+00:00",
-      "summary": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型  紫牛新闻",
+      "summary": "扬州大学发布“兽医学+”交叉融合与产业创新智融大模型  yzwb.net",
       "categories": [
         "other"
       ]
@@ -353,16 +352,6 @@
       ]
     },
     {
-      "title": "OpenAI新增ChatGPT商业版高级席位 月费125美元 - 亿邦动力网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ieXZRRjUyQ1E2OHllN0FFNHY1ZU9YVHZIaXhIbHphTVAzSDRJVms0amhod1N2anltcEFVQlI2dnZLVjYwc2VMZDNtVVU4dVZLOXJmcFRn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T08:42:11+00:00",
-      "summary": "OpenAI新增ChatGPT商业版高级席位 月费125美元  亿邦动力网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "深圳国际研究生院刘厚德团队发布开源代码大模型VeriLoop Coder-E1 - tsinghua.edu.cn",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MY3NVdWE2RThOSEh0NzhrbG96WTV0RVpORTNlWnFsaGQyU2M3WkRNTnBDM2M5T0ZiY21pWU1Lcm00eVVFNGlLWDJMSFRqbTJ1WjBVVGh3dnloRTh4?oc=5",
       "source": "Google News - AI(中文)",
@@ -370,6 +359,16 @@
       "summary": "深圳国际研究生院刘厚德团队发布开源代码大模型VeriLoop Coder-E1  tsinghua.edu.cn",
       "categories": [
         "open_source"
+      ]
+    },
+    {
+      "title": "机械工业云平台正式发布 巧工·智能体解锁工业AI新范式 - 央视网",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OXlLRnpYcmlxYWJzZmp1LW5YMlhKR1BVLVBSWVppRkEyNWJvdEY4STBucm5CUllxSVpqYldRVjluQVRBSUViSjVfRzFHaEJBRW5jY0doM1dOLWU4U2NmTl9BVXJod0daQU52dGRDU3RyVDJ2bHRiR2dn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-11T12:44:42+00:00",
+      "summary": "机械工业云平台正式发布 巧工·智能体解锁工业AI新范式  央视网",
+      "categories": [
+        "tools_apps"
       ]
     }
   ]
