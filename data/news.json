@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-08-12T04:21:58.967375+00:00",
+  "updated_at": "2026-08-12T05:56:42.697134+00:00",
   "items": [
+    {
+      "title": "华为云与滴普科技联合发布数据智能解决方案，加速制造与零售行业AI落地 - 飞象网",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zQU5uMDd5TnFRekNBQy1CaVZsZ0E3Y3ZfekF5c2o4dzZKWmhGY0FGT2YwdEh2S3VGS25lbktjYmNZZnZrcGNVMHZ0WDhIaXBpSWt0MkdpOWlYYWI3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T05:41:52+00:00",
+      "summary": "华为云与滴普科技联合发布数据智能解决方案，加速制造与零售行业AI落地  飞象网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "2万亿参数大模型跑起来了 阿里云这个超节点把算力门槛又拉下一截 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkItc182aHZFWFU3RVRFcVhfaUxUZU9IUHJ2NFVsSzRhcGVqa3Fkd1BaZUxBaUZTbURmVFpPTEpVZUw3Z2RxRENtd0hQVVB6dzlFOGJuUWprSTJBRDFfNExnU2lvcC1LV0ppTjJrYjY2aDMxZDBkcFRHbUhqUHN3UklEb0FIMzlK?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T05:13:00+00:00",
+      "summary": "2万亿参数大模型跑起来了 阿里云这个超节点把算力门槛又拉下一截  Sohu",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "奥特曼震撼预言：6个月后，ChatGPT将彻底接管你的人生 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWEJJOFhzUjYyYVEzTlY2SUtXaUY2Tkk1c1JGalhlaWhPc2VZRk9MLW9xTkVHSGZYYnNPWUNVOVpJSjRiRUlwUGR2MjQ4NVZwcTRNOURvMllWcG5HRUJwakFpUVdoaXlnNUlQbUcza1ZuakVfdG1YSVhiRHdDVHdjREdWM2Z3R3VRZ0pNbg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T05:07:33+00:00",
+      "summary": "奥特曼震撼预言：6个月后，ChatGPT将彻底接管你的人生  Sohu",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "一批国家标准发布！涉及自动驾驶系统安全、人工智能医疗器械质量要求等 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEY2F3WWtNRTl6Z3c4bnE1SGl5dFJZb3F6WDhLZXpZYmZFVDRzMjY0ZE5BejVEN0JleEJGOTZZM2RoYjdwOHd6R2tFdUxkN1cyXzNNUWZpMjRQbUt1R25yejJR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T05:03:00+00:00",
+      "summary": "一批国家标准发布！涉及自动驾驶系统安全、人工智能医疗器械质量要求等  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "全球首款！Claude引发的数据恐慌，被这家中国黑马补上了 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGRJUDY4MHYyQ05PNWs3ZFhpTjR5N3Exekw2U041R2s5X0k2cjZWbXFwaDlCVm9mNURHWXVhZ3NEVE1WbGV2YzV1YWV5aHQycm9OS0Q2M2FDbmh3bVoybXpxbkJJVndZVThNN0trZHF5T1lka20xV21IVG5mYUN0TjB3ZklVbGJa?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T04:26:43+00:00",
+      "summary": "全球首款！Claude引发的数据恐慌，被这家中国黑马补上了  Sohu",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
     {
       "title": "迈入 10 亿俱乐部：Google的Gemini应用迎来高速增长 - article.9466.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51WTVMY3FVc0FvMnFqR2dDRWZIYkt1UF90amZuRmZPOHRrUWlKamVidUdQYi1PcnIwVUNjMk5aMGJYQ0FLRDFGVlo5a1BoczA?oc=5",
@@ -21,16 +73,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "360图龙锋破解OpenAI自检盲区，最新发现Codex 6个高价值安全漏洞 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54eER4X3JxWnFpWXZFTnljMXNZanlqVmdFd1psQjM3dUVUZ3NwU3BIUHR3eEpicFdxeFBBSHlGNFFFY1dVcmZqUzZNaVNRS3MzOTNPelNTQS1oc1pzUk5LMWM1bV9aNG9OeHFDSTdHWkNNOEhBaEZvQnRzdlZFMFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T03:58:34+00:00",
-      "summary": "360图龙锋破解OpenAI自检盲区，最新发现Codex 6个高价值安全漏洞  新浪网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -106,11 +148,11 @@
       ]
     },
     {
-      "title": "Gemini应用月活跃用户突破10亿 - pingwest.com",
+      "title": "Gemini应用月活跃用户突破10亿 - 品玩",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tSU5wYVpock42TS1Dam5FWE1ua2lURUU1TV9zYklqT0lHSmhvYmNNbER3MnE1dFBZTDRRZlFqVXY3Y2VNQ0FiQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T02:37:54+00:00",
-      "summary": "Gemini应用月活跃用户突破10亿  pingwest.com",
+      "summary": "Gemini应用月活跃用户突破10亿  品玩",
       "categories": [
         "google",
         "breakthrough",
@@ -125,6 +167,17 @@
       "summary": "金蝶国际CFO林波：金蝶今年投资了多家大模型公司  观点网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "马斯克，押注智能体再出招 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tUWJ1bFpyOG1oeWdpZ2ZjeUFzS0FIOExYZmdaZ2ZNWXdvUURFOWxZUmhGVEU2c3RtS1VFZlBIT0ZzVnRmYkh5UE9OOGlyOGZQbkhkb3gyYTlHa2lLRE5ScXhB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T02:32:00+00:00",
+      "summary": "马斯克，押注智能体再出招  新浪网",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -155,6 +208,16 @@
       "summary": "Claude又出骚操作，用户炸了：我只是改个错别字， 也算AI作品？  网易新闻客户端",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "ChatGPT 与 DeepSeek 卸载选择测试|chatgpt|deepseek|舍己为人 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMklXVGJUY2dNbVM3bGVheDA5YjdacXlXczNMa0NDejJDaWVkZFZvNS0yLVFmdmY4ZFNQckxHQVdQR21vaVhXOGJUb1lFaTJnSGp2YUVIcEtBand5bkpQRGYxZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T02:15:00+00:00",
+      "summary": "ChatGPT 与 DeepSeek 卸载选择测试|chatgpt|deepseek|舍己为人  新浪网",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -242,11 +305,11 @@
       ]
     },
     {
-      "title": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|机器学习_手机新浪网 - 新浪财经",
+      "title": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|机器学习_手机新浪网 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNODZ1dUsxXzViZkRRNGx0ZkZ4YlI5NlBCUW1OMkR3T1IwOXA2cTJvSlZxRnlScExMY0sybHVyTmcxRGlBN1cwRlJha2Rna25BWFBRemo4b1YwTEhVelBTNm5iOTJzMlVnQ3BfbTA1VVhYenpkeHZFaGk2MXF1eDJRelNwaw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T01:02:55+00:00",
-      "summary": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|机器学习_手机新浪网  新浪财经",
+      "summary": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|机器学习_手机新浪网  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -274,16 +337,6 @@
       ]
     },
     {
-      "title": "阿里云发布新一代全模块化人工智能数据中心架构 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hQzQzMnJ1Ni1ESTFPQ0dxdWFaOG9QYlVwbHlBSWxXYnY4YzFmTGhucElaU0YweHJrRlByUTZuV1hTM0tWVjZOS0N1M0ZLUHpBcUFCYzJ0Qm9FMnk1NHRDMDJn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T00:19:16+00:00",
-      "summary": "阿里云发布新一代全模块化人工智能数据中心架构  观点网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "ChatGPT与Gemini双双突破10亿用户-AI云资讯 - icloudnews.net",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TOEVNTjJJZEg2WnhMYVBtVkFJalNveE9scGZSbTJBRWZ5X0VmdHVJdkFvS3ZjbEdlbnFERmt6U0NEVDRYZEYyOXpRTGFyaE9zVkE?oc=5",
       "source": "Google News - AI(中文)",
@@ -295,64 +348,21 @@
       ]
     },
     {
-      "title": "谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVGRJcHp3c2k4clE0MG9VUGRZLXA5QmliWGE1anN2cWtmNU9Vd3VXanRHazFpYW9zdThqT3MzazZnLUdHcm1laUNtUDFuamhkbXgydkpGVGlrNGV3c05qMUdreWxBT2NYcnItVUFyX2FpT3c0SjF1M29JVDJYcm9yajQxNnJUSEpLcWFJVjZqSTRxb0lIWTJXRDhZaTU4QzVxRGdiUC1sVGVhdFVRMDA3SWI1aVI4NXprYjZnN2pGcVlnNFNTSEFMWWx6c0lUU3BvbGR5dGhHOUVpN3l2enN2U0xLZW5FT0d1STluS3p4UHo5TEpBcF9CUQ?oc=5",
+      "title": "港股通重塑AI资产估值中枢 大模型从价格战迈向价值战 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTeC01N3BGbXczVVdWeGloa0RUUlVvWlBmeU96ZzVPQmxPajFlb0FCSDREVzlqX0lEVGxZZDczekJQZDA1LU5KM01TNA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-11T23:54:00+00:00",
-      "summary": "谷歌有史以来增长最快的产品：Gemini 应用月活跃用户达 10 亿  新浪网",
+      "published": "2026-08-11T23:08:39+00:00",
+      "summary": "港股通重塑AI资产估值中枢 大模型从价格战迈向价值战  新浪网",
       "categories": [
-        "google",
-        "tools_apps"
+        "breakthrough"
       ]
     },
     {
-      "title": "瑞安航空与谷歌云签五年协议 部署Gemini人工智能工具 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxUDdES1FlUTdaa3d0UmJINmxiajBnVEI4TzVnSlNQUnZKUUVEUnE5QktSTzBoTXNVQ2VUbE5wNTB6M3JPUEUyNGZrTUVJMk5xZ1k5Sm1iQmV4Uk1VLXB1TDBR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T23:53:25+00:00",
-      "summary": "瑞安航空与谷歌云签五年协议 部署Gemini人工智能工具  观点网",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "2026沉浸式智能座舱哪家强？AI大模型+鸿蒙生态实测对比+FAQ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52Nm1KUXVBdko0YmQyS0RXQ0hmYTBHOHlFNW13WkxJd3VEMGZaR25RZElGVHVQeWYyLUU5em12YVRQSlBvc3ZIa0otU1p0ejJKRDRnejB2YUpxZ2JPdTFKVy1R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T23:52:00+00:00",
-      "summary": "2026沉浸式智能座舱哪家强？AI大模型+鸿蒙生态实测对比+FAQ  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI推出预览版ChatGPT for Linux桌面端应用 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3ZPU3BVbjQtYVhFdm9DZ3NSaVhzV1JaZEtaUFhzMVB5eklneE5MSFl4ZTltcjduMnNGZ240NXRpcVJUX2ozUFdHd3FtWV93dlNwTUxUQlNHRUFzNG9qaVRtbm5VeEh0aTZPVW9CdzhBZXhwYUlnWWdXQVprdk96bFhFcDRXT1d4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T23:48:03+00:00",
-      "summary": "OpenAI推出预览版ChatGPT for Linux桌面端应用  Sohu",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "告别手动调屏！华硕显示器AI智能体发布：语音控屏、自动切换影院模式|显示屏|Skill|Agent|色温|按键_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOFNlMkZ2bHRDZFNlRnNob1lGbmd3ZGc0T2VwQmlJYWlhX18zV0pQWGNWcEtMczc4cEwzV1pGRGxzakZzUjVwemRuODlJYmxpX2drYmJTMlZvX2tqTEdiOG1CS3BvQmxSNXZibWt1a2xXVmw0cFh3bWZfXzRIT3pBUEZGSjBOYXNTa2c4SVlWRTRIeERkWGVFMzBqZ0docW91SGI5MFBUU1pyT2JwTmUyRWtCXzlIUDQtaE5QRnVqU3ZFWHMwNGNCZkxZdGtZcXFoMDA1WkExbkgycUhhaWVfckVlOHUxV0Z4WVNaYmxXVl9LZDg3cXFiZWJoSTRhalBYUUx4SUExOV91Rkd6SzVtZ3YwSUZzNWRJQlBUMXR0RQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-11T15:56:03+00:00",
-      "summary": "告别手动调屏！华硕显示器AI智能体发布：语音控屏、自动切换影院模式|显示屏|Skill|Agent|色温|按键_手机新浪网  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "机械工业云平台正式发布 巧工·智能体解锁工业AI新范式 - 央视网",
+      "title": "机械工业云平台正式发布 巧工·智能体解锁工业AI新范式 - local.cctv.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45OXlLRnpYcmlxYWJzZmp1LW5YMlhKR1BVLVBSWVppRkEyNWJvdEY4STBucm5CUllxSVpqYldRVjluQVRBSUViSjVfRzFHaEJBRW5jY0doM1dOLWU4U2NmTl9BVXJod0daQU52dGRDU3RyVDJ2bHRiR2dn?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-11T12:44:42+00:00",
-      "summary": "机械工业云平台正式发布 巧工·智能体解锁工业AI新范式  央视网",
+      "summary": "机械工业云平台正式发布 巧工·智能体解锁工业AI新范式  local.cctv.com",
       "categories": [
         "tools_apps"
       ]
@@ -365,17 +375,6 @@
       "summary": "智源发布AREX自主研究智能体，已开放BETA版测试  新京报",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic发布Claude Opus 4.7：金融分析能力登顶公开模型 软件工程、多模态全面进阶 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlV05PYU1WQ3BtcDZhLUFnZGxUR3pSellWc0dJV2lmd3BDaXFyQ21FemVTZklzbTQ0UVRpdkFhaG9FaVpST1ZzSA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-04-17T07:00:00+00:00",
-      "summary": "Anthropic发布Claude Opus 4.7：金融分析能力登顶公开模型 软件工程、多模态全面进阶  财联社",
-      "categories": [
-        "anthropic",
-        "breakthrough"
       ]
     }
   ]
