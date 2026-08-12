@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:42:16.080200+00:00",
+  "updated_at": "2026-08-12T20:49:35.838161+00:00",
   "items": [
     {
       "title": "大模型又上新！英伟达发布 - 东方财富",
@@ -12,13 +12,13 @@
       ]
     },
     {
-      "title": "卸载测试引爆AI人设大战：DeepSeek主动牺牲，ChatGPT淘汰对手 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTjZWVktPVVA2MnBYZHRKS0R1VFFSX2NaMUFJaUV3eGpUd05LMWhha3dxbDZQLU8tMm0wZXNmemJmU3NLby10YzlhQmRQV3IxeTZpZmJ4UVRPRnB6UndxWDktUEhJcHJKWURFblkxYm9KY29IUHFxNmVnWFhWR0k?oc=5",
+      "title": "DeepSeek V4 Pro 正式版发布及性能评测_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBodDlYS21BRm43d1RqNnh6Z1QzNTdLODhHQ0g1akdkaXFjVFJLeW5lSS1rRnJ3UGxCSy1lcW9xVFFvNGhja2FCako4RVc0VzJXNFdmdFJTai1McVB5bE1JR2g4Yw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-12T18:31:46+00:00",
-      "summary": "卸载测试引爆AI人设大战：DeepSeek主动牺牲，ChatGPT淘汰对手  新浪网",
+      "published": "2026-08-12T16:19:00+00:00",
+      "summary": "DeepSeek V4 Pro 正式版发布及性能评测_新浪新闻  新浪网",
       "categories": [
-        "openai"
+        "other_big"
       ]
     },
     {
@@ -303,16 +303,6 @@
       ]
     },
     {
-      "title": "一批国家标准发布！涉及自动驾驶系统安全、人工智能医疗器械质量要求等! - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqYUhzYXBhYkMtYzlWc2dpbTJqSU9EUEVoUUo1eC1oLTdqcjV6RDZUTDV3M2hncnhJNkJsTy0xZGJFUXNMTlJEU3hiRHpDZHpabTFGR21mVGdkNUw2SGxoQ1pn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T10:37:00+00:00",
-      "summary": "一批国家标准发布！涉及自动驾驶系统安全、人工智能医疗器械质量要求等!  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "Auto-Research「终极大考」：新基准撕下大模型科研伪装|计算机视觉|AI Agent|华盛顿大学|加州大学|普渡大学_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPd1JVcDM2MXJSR2JqVEZZbG1PWlNqQ2RvOUJONVhVLWdXbjFNT1BCb0dsX0VSUF9WdXJtOFR3dkZYMGRmdWhWd2pZaVZTS0YwNlZMa3BkcWxGVTcwWTRjOGVrenF3aWFLOFZyTkxGVWhvNldHS3FwekQ4dndoNjBxT2p2UlE4SjZIWnI5anUweXozYjFoV21wRXJSX2JfUk5iNkZ1by12OUx0aUc4TXM0cjE5dmdIdUx5dkZMeXUtYnRmcGFJN25qdzhvQmVWVzBCNG5VbTdTQzZqSEpXZEdfMF9RYWZPOEtrYmxYTWhHZDY0Nzk1Wjg5QVlPUDd1M3pjWENPM0NGNW9ZOEZHdmdwUlYtVm9oTVNxOU9XX0ZB?oc=5",
       "source": "Google News - AI(中文)",
@@ -350,6 +340,16 @@
       "summary": "韩国科技信息通信部：ChatGPT AI体验率41.8% 海外三处合计53.8%  观点网",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "三星引入Claude模型 定制SoC验证任务缩短至两天 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54cFQyMHItOFNOdXNIVXJZTHlHb2hHVVcxcmFJalpvRzdLQWh5QkpZRWxrRU80QURSVVd3RDJoTDFtamx3RmVFYnFzUmxILUxfMHNpbVBOR3YzZVZLYTRKeV93?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-12T09:32:46+00:00",
+      "summary": "三星引入Claude模型 定制SoC验证任务缩短至两天  观点网",
+      "categories": [
+        "anthropic"
       ]
     },
     {
