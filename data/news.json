@@ -1,12 +1,146 @@
 {
-  "updated_at": "2026-08-13T02:11:23.026900+00:00",
+  "updated_at": "2026-08-13T04:25:59.855203+00:00",
   "items": [
     {
-      "title": "华为昇腾出手了！智能体推理慢的根因终于被找到：首Token时延砍半、存储省25% - 新浪网",
+      "title": "别急着叫梁圣 DeepSeek V4 Pro正式版还有问题：仅比Flash高1分 - tech.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxRG9pV2lQTHlmNGR1V1VoekdjNEFJazdvSXVwMy05azllMEh4Zl9DcUtDVzhvNExWQ0lZVjdTX0hfbFhZbmZTc1RLbGZIaU40VWlwbVFMMHdjbkxOb2N0MEhxLVlQVEdUSW9vbE42dmMxTnJR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T04:20:16+00:00",
+      "summary": "别急着叫梁圣 DeepSeek V4 Pro正式版还有问题：仅比Flash高1分  tech.sina.cn",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "气象大模型“风和”开源后能给普通人带来哪些好处？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sbnZ1UG00TzZ3a3FmR2VlRThSYm1ub0FoWW9RN25wcWVuUlZBTE1yYXc3ZDRKeGJQam9XQmZ4aUxzT1dFLWVVRDYwbndTODBOM2VDUmROWTBNa1R1QUlsUXMwOHpqai1hVVhURGF2VXR3T3doSjRMNDEtSUhLM2s?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T04:19:05+00:00",
+      "summary": "气象大模型“风和”开源后能给普通人带来哪些好处？  新浪网",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI - tech.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UU0dDc1lqVmZzdFpDMTZ0NzltNzF0MGtPZ3NGcEVILWVGb2dpS2p0Qlk3MzdKaXVNZGNGamhhQlNRV2ZNbUx5YTdnSFpwVWRvVG42MjVZMHFabERNZnlFMUQ5eFRtQzhFR2hoRkxadFdINUVN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T04:18:45+00:00",
+      "summary": "具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI  tech.sina.cn",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "手语人工智能首次进入消费级：谷歌DeepMind推出手语转文本模型 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkVkZjhOeGx4LXZCRDVsYmNEM1haUERaX0tkVVZzMVNocThfSnBTWHdXVm01TlRBT0M4aEh3ZTgwLW5UT3N5Z29ocFcyaWhQWlhNc09fRzl6N256aUhlRGRyT21yNjNPN3ZlZURjZnU0MnRKbUZQdk5ZUHZsOXAtR1Z1RlhiNVBl?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T04:09:46+00:00",
+      "summary": "手语人工智能首次进入消费级：谷歌DeepMind推出手语转文本模型  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "台湾称政府机构上月遭境外AI辅助网络攻击 - 早晨报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaldBV003d0oybUw5LWxIcGJaUG5jZnV4ZUxmS2lkcUhBa1ZtRURvNUpYY2NTeEdxbjhXNGV6VFVIYUI5NDg3VFRvWTFudjJmSmpsQldJYm1NMWh6SEl5ektsY3ZfUDlLS0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "台湾称政府机构上月遭境外AI辅助网络攻击  早晨报",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "西门子推进半导体与PCB设计的自验证智能体AI工作流- 产品特写 - 半导体芯科技",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLRy1UWWhhd2xFRVNYekk3cmQxRzVDa3F5bDdvLWtXNXRlSE5YVEQ2dHI1a2xodzZvRlRjdDFNd19DZnJuM1ZSSVVITjFQd1RNaDNib2RXYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T03:37:19+00:00",
+      "summary": "西门子推进半导体与PCB设计的自验证智能体AI工作流- 产品特写  半导体芯科技",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "【每日瞰AI】DeepSeek V4 Pro正式版亮相；Grok 4.6正式发布，实力比肩GPT-5.6 Sol；阿里重磅开源2.4万亿参数大模型 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdUlUZkdPMzhfVVp4T1VER01zWVF4NVFFcUpkUGM2ZFBXSHpZRnhWN3hsX1Q5M2hiaDR0YVBuVTAtN1BnUDlMaTIxR3NHSHpuS2cw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T03:32:00+00:00",
+      "summary": "【每日瞰AI】DeepSeek V4 Pro正式版亮相；Grok 4.6正式发布，实力比肩GPT-5.6 Sol；阿里重磅开源2.4万亿参数大模型  电子工程专辑",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "open_source"
+      ]
+    },
+    {
+      "title": "企业如何智能化转型？“5A框架”发布 - 新浪军事",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TMEZFOXZpRHpVaVlTVS10aHYwSDRRbWRLREZDTkMwRWMtam5vM3hpUFhZVzJRVFFueDNtTTFLLXFwOXRpYnFwRTJnc3FacUltRXF0SGVSZGtsWFZENGZoNl92eXBvYVQwdEhZMUV1UWlYNUk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T03:27:37+00:00",
+      "summary": "企业如何智能化转型？“5A框架”发布  新浪军事",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "千问开放平台上线菜鸟智能体，可按需制定寄件方案 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUh3SVZoMnZ6b1dTcWNTZGRvVFhYV1FTcURhZUxKWnFmb0dNVlNCRmFhbDhPMzZNYXN2Z1czVkdtSU84d21ZMUpMZDBsLWw2dmFiU3BZRFNEdG50OTkxb1NDR3h0bmRiaTl4VERlVEtILUpsTVp1NGM3NGN5d0VkRFg1TndNU2UyR0d5Ng?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T03:14:15+00:00",
+      "summary": "千问开放平台上线菜鸟智能体，可按需制定寄件方案  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "数商云全新品牌定位发布：企业级全场景AI智能体与数字化解决方案服务商 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81djlUM3lUOVdROS1hS1VQdC1ickFOU2s2MllFQ3JGdHR4WHRWenlYUEN1bDVibzJnYkViZU5nYjNnOXFmcGNZczh2SkxlRTlpN2JqRDhLUjVDam9TdXNPWUpB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T03:04:30+00:00",
+      "summary": "数商云全新品牌定位发布：企业级全场景AI智能体与数字化解决方案服务商  手机网易网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "梁文锋、马斯克同时开火！DeepSeek V4 Pro，Grok 4.6 发布 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFQ3Q3lDRzVXVnVPbHVPdmlFNjJCMGowMnIzTlVMOXNtYjdPOXI4aTUxdE9yQjJiMnIySjVRWUJFWkhyaFRqYndRcV9BemhXbjI1TDJ6amJyZlpqTXExajdTRmNTQURQRGRRcUNWcG8wMnpZVU1EWlZlV290SDVhM05BZDR5ajBnUWJtbQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T03:01:12+00:00",
+      "summary": "梁文锋、马斯克同时开火！DeepSeek V4 Pro，Grok 4.6 发布  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "A2A智能体跨境电商示范基地项目落户鄱阳湖生态科技城 - 凤凰网江西",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5IZzhMTlUxYklYMmYzRWNaMHJ3LW9CNDhWcHdlTG8tekN0VU5qS0JUWV9kTkMxU1VuSXJHal9BT3JZX0ZvcTUwd3BR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T02:56:01+00:00",
+      "summary": "A2A智能体跨境电商示范基地项目落户鄱阳湖生态科技城  凤凰网江西",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek V4 Pro 正式版API上线 大幅增强Agent能力 - eastmoney.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQRjYtZzRIMDdpbmZ4RmhUcGFxR3Q5Q2sxdE5JVHRERGtBZzVjMW4yblRqckxOTnUzZHRScHVJeVJzekMtYlhVTmZEYkk3YUljQ1JhWnp4T0JCZHBLS0VWRw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T02:48:59+00:00",
+      "summary": "DeepSeek V4 Pro 正式版API上线 大幅增强Agent能力  eastmoney.com",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "华为昇腾出手了！智能体推理慢的根因终于被找到：首Token时延砍半、存储省25% - tech.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGFCLVF1clMtN1RBT2IxQUtneTktV2MtUzk4SmI0aUdGVGlmbGdtU1BnRUpqQWR6ZVpPcWRsV0ZIZlVJWDNFWkdnVkt3NDhvYXBsWmgteWdDcG1QSzRIRlNDb1BRQmk1Ql9QWWMyb3RqNVFRYmNRVmNKLUM5RHhkcUZn?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-13T02:09:36+00:00",
-      "summary": "华为昇腾出手了！智能体推理慢的根因终于被找到：首Token时延砍半、存储省25%  新浪网",
+      "summary": "华为昇腾出手了！智能体推理慢的根因终于被找到：首Token时延砍半、存储省25%  tech.sina.cn",
       "categories": [
         "other_big",
         "tools_apps",
@@ -14,33 +148,23 @@
       ]
     },
     {
-      "title": "AI穿透式监管深入政企采购 京东阿里竞逐万亿赛道 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlYTF0b2VuZTZISXZmZmtzV0QySTBTOVRQaEpNbTFtSU8zMHhGQ2dtd1Q0MjBoZVh4bzZXanJuQmRDQnZvWHl0NTNWd2ltZTRjbVhFUVM3X19GZllOUHBKMnJ3?oc=5",
+      "title": "谷歌Pixel 11系列正式发布，搭载全新Gemini AI对标苹果新版Siri - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnZqNDJSTHlCZTNPcFI4VmszQnhtQTV5Tl90YW00ODdNeVZzdjl5VmpyY3hsY2FJYWVVTm9iVFh5SXZYZElsY1FkN1p4RG1iaGtsQ2NLZ250TkVGTlBsZHdHcU44dnZmdnMybzFETjZWYklXLXp1eC16UDFuZU4wdDFmM2VDMlNuQkJ4Ng?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-13T02:00:20+00:00",
-      "summary": "AI穿透式监管深入政企采购 京东阿里竞逐万亿赛道  观点网",
+      "published": "2026-08-13T02:09:12+00:00",
+      "summary": "谷歌Pixel 11系列正式发布，搭载全新Gemini AI对标苹果新版Siri  Sohu",
       "categories": [
-        "other_big"
+        "google"
       ]
     },
     {
-      "title": "下一个AI挑战不是智能，而是控制 - 千家网",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWHZtNjc1NzFJSFdSWjFHdm54aWg0TllhS19sWXJPUkhmV3h3VEc0dTRHcm8ySE1sUk9YWGJwUHI0YmxGNFVqWVlMYzRFdkxvcEJvQ054TE5PZFk5Uzhreg?oc=5",
+      "title": "Anthropic升级Chrome端Claude 更名为Claude Cowork - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCU2p1RXFQWkpsVUtGM0dmYlZmZlMtM25QNVMtVHVSSVJFQUJCLUFEZWpzZlBCOHNUcUJwQmhZdnNZQm5WOEY4M05RT3c5aGNZbE1SVkNn?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-13T01:57:39+00:00",
-      "summary": "下一个AI挑战不是智能，而是控制  千家网",
+      "published": "2026-08-13T02:07:04+00:00",
+      "summary": "Anthropic升级Chrome端Claude 更名为Claude Cowork  亿邦动力网",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "会“说人话”的AI为何“读不懂人话” - hkong.cn",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1SVFuYndibm5QYVMza0NzZjVNUmVEWE1BN2xJYXdvcXFXOUhwR01ObVNMM09Fdzh6VFJZejdsakZlUGJ5VEZ1NEJUZXZCUmhoU0t6Qg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-13T01:53:00+00:00",
-      "summary": "会“说人话”的AI为何“读不懂人话”  hkong.cn",
-      "categories": [
-        "other"
+        "anthropic"
       ]
     },
     {
@@ -65,36 +189,6 @@
       ]
     },
     {
-      "title": "暑期研学游开始拼“研值” - 山东宣传网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JWkVyMExaeTI4N3VnRVNBSDFjeFIzWkpFcF9lYXFEbkFMQUxfeUlVcEh3UGVPdDBJTWFtWFBMTlZyNGEtdTM3LWdlcS1sMXpYdU9GZjVQcFpmTXUwNnA3cElTZWNCVU9QZW1ObzZtbHhnQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-13T01:42:00+00:00",
-      "summary": "暑期研学游开始拼“研值”  山东宣传网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek梁文锋资产暴增38.5倍，跻身全球富豪榜前50名 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWW1jMmVhN1AyaXpxMEVUVG9kMTAxaWdGdGFibDhYbzVoQkgtRy1KOUMwVXJVeGt1dWZoVlBleXluWlJ1X3RCdDdxRVNnVnE5enFwcHRmLWI3WnZnenZWQ2Z0ZmZFZ2pBM2RxLXQ3Z1JCV1d4YUhOMHpJOHZkdjBfTHZBSHdyOER5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-13T01:38:44+00:00",
-      "summary": "DeepSeek梁文锋资产暴增38.5倍，跻身全球富豪榜前50名  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "华为中国行2026·山东人工智能产业发展大会在潍坊成功举行 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDZ5cmlOazhqUlN1cVpXSzcyOFRTeVVJZWZTYlFTLTRpU2IxYm52OUxndnNOV3JHVWdCbjZnQnU3dFQ3S1hYb250eDdnMjQ4elFxS2d3aEpFakJtTnVUSzA0dk9mRlZWT3hvZEJhWHBpckpadi10QW14dTVUQUUxOE5falY1ckxvUUxZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-13T01:33:59+00:00",
-      "summary": "华为中国行2026·山东人工智能产业发展大会在潍坊成功举行  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "大模型又上新！英伟达发布 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbENqb1BmbVY0OEZkb3NTSkhfVzZHYXh3OWF1bXJkWjN3eXo5MzBTaUFJMi1uTHNWc2VSdS0tX3ZYVkZJY3o3SVMxTEY2VlJPeWhOem1sLWVOZ3BZUE9qVW5KcU5ETDV2b0lnZ2xvTEZIcG82Sm5DQjJFTlVNZUoybGo0TFQ1WktBQllJMQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -105,17 +199,6 @@
       ]
     },
     {
-      "title": "AI从聊天转向科学发现：前OpenAI产品官凯文·韦尔新公司估值瞄准7.5亿美元起 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczV6OHVzbHUtY05WY2JaTl9sQmp0T2RPcVY0b3BaZ18wbHdwYXNFZzIxU2JaMzZqTlhWSEVaVndSWlR5ZlNnVmVHZ29LSkctUEpMbmp2SlJTOUkzUVVVZEwxNm12MThPQmZqNDNvVHFScXBFQW1xNTk2WWdmN2tWMWt4RkRwQWQ5ajJDWEUxZW5nMWNvTnVIWnVfdWhiWmg1aG5GRmZlWWdXUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-13T01:23:29+00:00",
-      "summary": "AI从聊天转向科学发现：前OpenAI产品官凯文·韦尔新公司估值瞄准7.5亿美元起  新浪网",
-      "categories": [
-        "openai",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "谷歌AI重组内幕曝光：布林要求全力投入Gemini模型 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzUDhjTGUwdnBRangtVHFneml3TmtpRjNWOVg2TkE0VmdSMlRoZUJUbnV5NUEwQ1VfT3YzSW5RWFYxdGFvRzFIWERGQ20?oc=5",
       "source": "Google News - AI(中文)",
@@ -123,6 +206,16 @@
       "summary": "谷歌AI重组内幕曝光：布林要求全力投入Gemini模型  凤凰网科技",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "SpaceXAI 发布 Grok 4.6 模型 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mRjlPa0dwVjFZZE9Id0todWZhcjh3eVBVVVlzdFlVRFFVdTNuNHZSa0VmRjM0R01TazlxeE85Tm1kckRkVHBrSmZleno4blJIVW1kMEhEMXhueFowdFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-13T00:46:31+00:00",
+      "summary": "SpaceXAI 发布 Grok 4.6 模型  DoNews",
+      "categories": [
+        "other_big"
       ]
     },
     {
@@ -143,16 +236,6 @@
       "summary": "联合创始人布林下场督战！谷歌DeepMind大重组，Gemini冲刺提速  Sohu",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "腾讯半年报净利润同增10%；荣耀 Robot Phone 发布；DeepSeek V4 Pro 正式版更新｜Do早报 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wRFFZdTdqZnR0WFJ2QnNNenRZaDhiaGU3MTlIZUNWeTZWajYxNWcwbFpmM2RFZ1V5aG9VZ0dBdWpVb3ZUQ1RHQVdaWXBmOUJzai1xUGRucGRoVm1vV2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-13T00:11:27+00:00",
-      "summary": "腾讯半年报净利润同增10%；荣耀 Robot Phone 发布；DeepSeek V4 Pro 正式版更新｜Do早报  DoNews",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -177,45 +260,44 @@
       ]
     },
     {
-      "title": "05:52:25【DeepSeek V4 Pro 正式版API上线 大幅增强Agent能力】 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QR25YR0VONkU5QnhMbTF5c3V0THcyTGtGXzhwTGwzdGEwZXRhTGVIMjZaZWIyZFM3eURINVVIUTNrOW9xcXhvUw?oc=5",
+      "title": "9999元起荣耀Robot Phone发布；DeepSeek V4 Pro正式版API更新 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkRGTEpubDlEX2Q1enBnd1V1WVQ3U3JoZGhoSXlpZGtwUEFOeGh1OEtZZDhMOTd0UzNDUzVMMDc2SVdEVFJWV2FwUGpPT0ZFUkhxWGNNNGMxQjJKRTE4aXg4Mm9QNktzVWozUUF2SHRWM2RyM09TZkVYSktQX3NkTmhpYTdnZ1FZ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-12T21:52:25+00:00",
-      "summary": "05:52:25【DeepSeek V4 Pro 正式版API上线 大幅增强Agent能力】  财联社",
+      "published": "2026-08-13T00:04:35+00:00",
+      "summary": "9999元起荣耀Robot Phone发布；DeepSeek V4 Pro正式版API更新  Sohu",
       "categories": [
-        "other_big",
-        "tools_apps"
+        "other_big"
       ]
     },
     {
-      "title": "SpaceXAI新“杀器”：Grok 4.6智能体测试力压GPT-5.6、Fable 5，定价仅竞品一半 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2dxbHJjVzBUVHZlNE1Qdzc4SW5IWWplbXJMTDBDeTBvaXNDRExFUm1LcUdCdTY3c1N0cTBhVzh0RTJVUTViSmFFYmZabkV2cXVmYmRPMjVxRDR6dEh1bWE0M0lLd09aOS1kNDFQRzBvcWVUcm9nQ3Y1MEd0YkQ0engxdnhYbE1K?oc=5",
+      "title": "Anthropic为Claude回复嵌入隐形水印，引发用户对学业与职业风险的争议| 乌克兰新闻 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OQWk2UXRtUWRvcndyWnpBT2VQZnVIX0FPX3FJaDIzdnBlZV9MMmo5cXBEYjJQVVRIUEMtX2lwOXhOQy1zc2RfZV84b3g2LXBKTFgwSG15cGR4XzhLMXB1TEk4N3IzaEZpQnc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-12T19:07:18+00:00",
-      "summary": "SpaceXAI新“杀器”：Grok 4.6智能体测试力压GPT-5.6、Fable 5，定价仅竞品一半  Sohu",
+      "published": "2026-08-12T18:15:00+00:00",
+      "summary": "Anthropic为Claude回复嵌入隐形水印，引发用户对学业与职业风险的争议| 乌克兰新闻  Межа. Новини України.",
       "categories": [
-        "openai",
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
-      "title": "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格 - 新浪网",
+      "title": "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格 - tech.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOU1c0V2JpcHVkZlgzRVRKdVh2eFFtbGMxcEIySVV3VmZiQTRFUWFFb1o5UDVsMFJKYTVGUF90YlE0NmNtWGZUWGxBbmxtWENLNERBeEVkWnBfZTJ4VW9JamVaSHB0MEMxLUJ3Ujg5SWhESTVWaVhXbEV6S0JyTVkyR002R3Q4dm5Bc0k3RTczRk5QeHRWNVRaWHhUb0tIb192N0FkZ0NIaEhhTW5tVlNNTFdqRjJvTExhNlg1anNIclowNFIycEd5Q1N0VERFV1M1SEVndlFLdVo4dlJKSUh4NWVQcl9wMDgyd3I1NU9xQlhQYktkeVZIVDdn?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T17:36:44+00:00",
-      "summary": "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格  新浪网",
+      "summary": "DeepSeek V4-Pro-0813正式版深夜核弹：能打美国最顶级Fable大模型、3倍Flash价格  tech.sina.cn",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "DeepSeek V4 Pro 正式版上线| 律动BlockBeats发布于币安广场 - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BOV9ob3dveng4MGh4S0dZWXJYNllUWHVhRGlqdkZicmhOYk5TcUE0Yl85V204VEpGbm5vSHR2T3dzOTVvVGJlS1hVUUZnb1l1TURnM3dLQ3pRR2pLRnlMN2xWQTNDanp5?oc=5",
+      "title": "谷歌AI助手Gemini月活用户破10亿；SpaceXAI推出AI协同工具Grok Bot | 品牌方舟早报 - 品牌方舟",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12UzJGN1JoVURpNWNaTHpyZXMwYkxoR3piT2lsMjQ5SUI1bF80UzlvU0lleVc4RkpGdG9mWlU2bmZ2cjQwRmN6b2Z2TQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-12T16:18:52+00:00",
-      "summary": "DeepSeek V4 Pro 正式版上线| 律动BlockBeats发布于币安广场  Binance",
+      "published": "2026-08-12T17:12:00+00:00",
+      "summary": "谷歌AI助手Gemini月活用户破10亿；SpaceXAI推出AI协同工具Grok Bot | 品牌方舟早报  品牌方舟",
       "categories": [
-        "other_big"
+        "google",
+        "tools_apps"
       ]
     },
     {
@@ -229,55 +311,14 @@
       ]
     },
     {
-      "title": "白皮书：工业智能体比拼商业化闭环 平台协同能力成核心判断 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR1VLOTM1Rmo1QjBFcVIyU3lqY1lMQk8xU0NFRTVnc3dWalhCOTZlc3puTWtxYkZuLTFqVEo5andDR01rRVNmWHB5MmVDWVlUejN5alF2U05YTV9PVEY0NnI0UkJQUTZIZnpxRFhQbjBRb0tCWFFFWHZyRWVNREU1enFkZTVJNTFCNmswU19nQmp4a3dseVN6XzNtMldQTndGQ3RtYnlsSkh3T2Zlc1dDOG9OR0JkN1JjQnBENGhKTngzNHp1dEVBdEwyXzRnUkh3eXRIbDBHckhOcTdCZldocXNGbERjLVlHSzFzeXZscjljajVq?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T14:18:05+00:00",
-      "summary": "白皮书：工业智能体比拼商业化闭环 平台协同能力成核心判断  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "腾讯发布Q2财报：智能体矩阵初显 AI商业化寻求突破 - 东方财富",
+      "title": "腾讯发布Q2财报：智能体矩阵初显 AI商业化寻求突破 - eastmoney.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YVnJyNjVyaUpUZjhwYldCdkxRUk9Ya0dkeUliRFh0RFhrZXQ0OGRxVEYxUm9CSk1EY2pBdHgza1hZY0tfN09XYXVUUzE1TWd5VmxiMERlcWVrbmhvX0hnaA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T14:00:27+00:00",
-      "summary": "腾讯发布Q2财报：智能体矩阵初显 AI商业化寻求突破  东方财富",
+      "summary": "腾讯发布Q2财报：智能体矩阵初显 AI商业化寻求突破  eastmoney.com",
       "categories": [
         "other_big",
         "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "发布于 安徽 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lcmM3U3M3S0ZwdFpuQXpyUGloZkVZT3dLRXhxYVVwS19OMllEcUNJZVJHUUJMaVkzSVdYNVdEQ3lHMlFJbkZmSHVvaE9KYW9FTEh0NjJXZmdlZlVvZW9fdGFIaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T13:21:00+00:00",
-      "summary": "发布于 安徽  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "xAI推出Grok Bot测试版：为AI智能体配备专属云电脑，打造“永不下线”的数字员工团队 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnlEVi12QVFOcWFRTGhseEk1UVZnOWtta21iT1ZOVnJ4Q2VVWGpFT0MwSUNTWXljTzczTXd1ZDdGUW83ZDlTVlFkbDBqVnNfbjRuWUhIR0F0bndHN1JzQXlNOG1JSURQX0FHOThIelV0UmhKRXlfbUFvOW1NNmtONGZvaEgyYXFfNE93VQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T13:06:51+00:00",
-      "summary": "xAI推出Grok Bot测试版：为AI智能体配备专属云电脑，打造“永不下线”的数字员工团队  Sohu",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI智能体正在重写科研 - 麻省理工科技评论",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EVW42SlVSeEI3N1NLdXd3dGlYdUhSb1RCeUIyWDVzcmdYVEdtR0tzaHRKZFBmWUxWckFxTUZGNk95R1paUW91Yl9QQjg3T1c2YmxpcVRJVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T12:24:31+00:00",
-      "summary": "AI智能体正在重写科研  麻省理工科技评论",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -292,11 +333,11 @@
       ]
     },
     {
-      "title": "具身智能大模型北京市重点实验室揭牌仪式暨首届学术委员会会议在京举办 - 央广网",
+      "title": "具身智能大模型北京市重点实验室揭牌仪式暨首届学术委员会会议在京举办 - cnr.cn",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kb1pVWnFSNnh0OUZ0Si1POC1xbVpaZ2ZYUFdKN3RpUV9wMExSaGhIZGlpLTROZDE4eTIyb1l4SmluSVllR3lzd0hySWlVWmJpektIdVlrVXFtcEZicHFkTHNJQXhnOFlHZk9PclhFRHNDanM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-12T11:47:36+00:00",
-      "summary": "具身智能大模型北京市重点实验室揭牌仪式暨首届学术委员会会议在京举办  央广网",
+      "summary": "具身智能大模型北京市重点实验室揭牌仪式暨首届学术委员会会议在京举办  cnr.cn",
       "categories": [
         "other"
       ]
@@ -322,36 +363,6 @@
       ]
     },
     {
-      "title": "谷歌发布Pixel 11系列与Pixel Tag，Gemini全面融入设备生态| 乌克兰新闻 - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMVWZ4cENfRkdBVExMRTViVXZza1h4Uk9JRVlPbVo4WVNuanJHNU0zRHlRMnYwdkotYjhJWUdOOVFCNFdDb2lWSU1fWUFfNTVZZHlCam5NeEZodGJxZHpYMy1pWHRJeFhH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T09:45:00+00:00",
-      "summary": "谷歌发布Pixel 11系列与Pixel Tag，Gemini全面融入设备生态| 乌克兰新闻  Межа. Новини України.",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "Google Pixel 11押注Gemini：人工智能将代用户处理购物与通话等日常事务| 乌克兰新闻 - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1WEVtNEF1TmMxVlkxWVlyaXdzZjl3TEZuSmVYdFNwUXVTaElzeXo2TXFYX3pFMjgzMk5IcWVMajRLdlotNWJkX0RNU3duR3NLVElpYjUzY3hUeTM5dFUzWDhR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T09:22:00+00:00",
-      "summary": "Google Pixel 11押注Gemini：人工智能将代用户处理购物与通话等日常事务| 乌克兰新闻  Межа. Новини України.",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "免费送大模型，英伟达图什么？ - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFFJR09Yc1VyTkVvdlZ4VHdWR2Vaa18wSUdvNGpoMTNibWtpbEREcDRfWW42aE5NTWw1QlMxLXhuYVNVbXhqSDlkd1ZGZHBiZ0RzbmJscDVZZzFSb1pldy1PblRsSG5zSTNfV0psdGw2S3BqVi1QbWdNR2FCbWlYNzBPM0FuLTR0VnB2SA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-12T07:19:00+00:00",
-      "summary": "免费送大模型，英伟达图什么？  21财经",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "深圳国际研究生院刘厚德团队发布开源代码大模型VeriLoop Coder-E1 - tsinghua.edu.cn",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MY3NVdWE2RThOSEh0NzhrbG96WTV0RVpORTNlWnFsaGQyU2M3WkRNTnBDM2M5T0ZiY21pWU1Lcm00eVVFNGlLWDJMSFRqbTJ1WjBVVGh3dnloRTh4?oc=5",
       "source": "Google News - AI(中文)",
@@ -359,17 +370,6 @@
       "summary": "深圳国际研究生院刘厚德团队发布开源代码大模型VeriLoop Coder-E1  tsinghua.edu.cn",
       "categories": [
         "open_source"
-      ]
-    },
-    {
-      "title": "中国大模型“撕裂”硅谷！撼动OpenAI、Anthropic长期估值逻辑 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpRzdyel94Mks2cm1yOWtqaEdNTGh0M3puQ0IzVWdfYlZXSFVoUmpSSG13LVlUZmMyNlZDQmExMnBoWm1WUWl1TVN4Nl9WSU5aX3RsMS1PNEpneGxmdHZOdg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-07-25T07:00:00+00:00",
-      "summary": "中国大模型“撕裂”硅谷！撼动OpenAI、Anthropic长期估值逻辑  东方财富",
-      "categories": [
-        "anthropic",
-        "breakthrough"
       ]
     }
   ]
