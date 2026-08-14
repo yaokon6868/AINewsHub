@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-14T15:54:39.934142+00:00",
+  "updated_at": "2026-08-14T16:56:33.049026+00:00",
   "items": [
+    {
+      "title": "谷歌开始肢解DeepMind，数个团队被划归总部 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93c19YclN3TG9lakd2UUNyQ3BkMFlVbUE2TXYyZGNTYWRxMGd5Z3JNSzc3YzFOQ0hEc19ibF9fOFJSLXZhNm5FQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T16:40:00+00:00",
+      "summary": "谷歌开始肢解DeepMind，数个团队被划归总部  智源社区",
+      "categories": [
+        "google"
+      ]
+    },
     {
       "title": "谷歌发布 Gemini 3.7 Flash：专为编程与智能体任务设计 - 至顶网",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15d1NmR1A1a1ZscC05dHRHOEFUdlctNEZDaS1MNVVpbTJLT1JlbDVqeFZOb05RR3k5OWs3ZFNlVGhqelBhVXlZVW9YbUdMSGktbUE?oc=5",
@@ -20,6 +30,16 @@
       "summary": "别人争造最强大模型，苹果坚持赌“入口”  Sohu",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "Chrome Canary 测试 Gemini AI 自动改密功能 - donews.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPMExBTGZjVmNnbmpvSmtfQzBGYmZtUTZLZjI0RGZmZmZvajRnU2JDUHFIMFptaVZhbUFxR3pXUHVzQjdHajdUTnN4WDdKZUpIYUxLZFFYM0poZV9HOFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T13:24:03+00:00",
+      "summary": "Chrome Canary 测试 Gemini AI 自动改密功能  donews.com",
+      "categories": [
+        "google"
       ]
     },
     {
@@ -177,16 +197,6 @@
       ]
     },
     {
-      "title": "中国大模型调用量，连续15周超美国 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLU5WXzBhZmZwNjlxYzFrT0NtWUktU3BTMm91bjgyVHgxazB0NXZzb3pKUGl0b1dRWTVkQkZIVWRDWXZUX3gwQUhlcmhDUVR0MTVZYmF3aWpPcGN5RzVGRERTV3Fna2NkZHNCMVU3UXFwR0dPMFlzamdMb1dyQzJrMDJtc3I1OHBJSktpdA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T10:15:35+00:00",
-      "summary": "中国大模型调用量，连续15周超美国  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TmlTWFU3ZlRBR1lnLUh3TTJ0WlRjSUlFQ3d2ekUwS3NrOHBmbzJUZmtyVEY3UzBTMVFLdUVZekhFZ1Foa3ZGSjVOR19nS3ZVZmRv?oc=5",
       "source": "Google News - AI(中文)",
@@ -207,17 +217,6 @@
       ]
     },
     {
-      "title": "发布50个应用场景机会，2026“融汇珠海”投融资暨应用场景对接会（香洲区专场）举行 - pub-zhtb.hizh.cn",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xNGRBTVN0R05pREthTENmOWRJd3drLVVTdk1oOGpvRGJ0cGQtX3pRdkI1SU40S083RGE2NzJDTUM1TjRGZ2hST2p6SlVpcGo1RXJ6SWE0M052OGJ1dVdhcFNQbVpXd1NiSVVJeFVjWnBIRDRSaWRJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T09:57:00+00:00",
-      "summary": "发布50个应用场景机会，2026“融汇珠海”投融资暨应用场景对接会（香洲区专场）举行  pub-zhtb.hizh.cn",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？ - thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVzZ3SVRhM0twS1I5MUd4WVJHbDMzeHU5VFlaQmEtb1ZYVnlPWWtMUmpYR3l4dlJqUExCSHhfTWRoQ0p0eTBhRGhvTW8wNkFoQTJMSHFZZ0tyWHJBaVpOeA?oc=5",
       "source": "Google News - AI(中文)",
@@ -229,11 +228,21 @@
       ]
     },
     {
-      "title": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对 - hb.dzwww.com",
+      "title": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对 - 海报新闻",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lRUk0SDdEVTdqZDd3OUpZQ1kyTFhRX2o0NEdESm5WWUFER01PU3JiQWRPSGVtUXM1bXA5aDY5WDh4ZDJEU0t5MWhtZmRhQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T09:19:00+00:00",
-      "summary": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对  hb.dzwww.com",
+      "summary": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对  海报新闻",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "中国大模型调用量，连续15周超美国 - 凤凰网财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbWxfM25wNDRla3dWWk5QOXkwZ0NvUDRnMlhPNThyUTUxQ3lhNElHYVNOSS1JbXpMT245Y0s0UjRFejV2RVYxcFkzMGdFSk95?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T09:15:16+00:00",
+      "summary": "中国大模型调用量，连续15周超美国  凤凰网财经",
       "categories": [
         "other"
       ]
@@ -289,6 +298,17 @@
       ]
     },
     {
+      "title": "百度文库网盘通用智能体官宣中文名“库库AI”，推出办公独立端 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03M3ZkdV9MbV9yOGVtM3BsSW9sV1diLXQtblRTY1Bpak9Uc0FoYmhzbXVLZ3Z6U2NfVDRFcVNHRXNUOTQ0a2lUVURaYUdpek5LbEhpTWcwWkl6c0MxaUtpNEh2R0o?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T07:37:00+00:00",
+      "summary": "百度文库网盘通用智能体官宣中文名“库库AI”，推出办公独立端  新京报",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "市值暴涨10倍后，“大模型第一股”又憋了个大招 - 凤凰网财经",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zVG10NnF5WUxycDRzUWtMSHZfM3lGZUhaRlpVUWxPdGZ1Q0RlOVJ6azM0V0lKbVkweFFLbTA4YU9TcW9pc0ZwNWVtUFlVMVNY?oc=5",
       "source": "Google News - AI(中文)",
@@ -319,32 +339,11 @@
       ]
     },
     {
-      "title": "免费试用｜中科天机发布电力交易气象智能体 - 电力网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTTRhSElka21haE5QRUIyQk1RWVJhd0hLYUctWkJYZVJmeVBnX0UxWmdsYjRCcTZyaGF0cHNIR0xDUFZHc3F4MDRtWklnNDh1X052UGFUUEdBUFhzcktMV0RaNjcwMzdSNTNR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T06:09:12+00:00",
-      "summary": "免费试用｜中科天机发布电力交易气象智能体  电力网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI 推出 ChatGPT Linux 桌面应用，正式支持多个主流发行版 - 至顶网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZRVZsTmxiUWlSdm9wamU4VHJqVUpKR0JqVFNyWENFbWJXcTRqNXNPaEFUakRvTndtR1FHNDhQLXZGWC04MFdoSkFwc1F2QUI3bmc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T04:52:27+00:00",
-      "summary": "OpenAI 推出 ChatGPT Linux 桌面应用，正式支持多个主流发行版  至顶网",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造 - DoNews",
+      "title": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造 - donews.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUTNOaElvTzU4TGhzTUF4OGRFeFpRS1BLenU4Qkt6cmNKOUt0aURDbE82ZjJFQWMzMTRHYUduQjIzeDRKR3FjMXBDd3NPUkdNUEJ0cHFEN1BsTmg4Wnc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T01:27:34+00:00",
-      "summary": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造  DoNews",
+      "summary": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造  donews.com",
       "categories": [
         "google",
         "tools_apps"
