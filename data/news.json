@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-14T19:00:28.670362+00:00",
+  "updated_at": "2026-08-14T20:03:05.602917+00:00",
   "items": [
     {
       "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOM05vS2Y4Y3VCaV9uVWxtSjloOF9LdVlrbDJ0aTh5RV9nb2dYSjBEZGhSQmh4NF9LeVRfV3hnTXZHWlpKUDRiVWxNVTdvV3BJNTVZd1RkMzZiNkY1YlR3cmR4ek5IWlRITFpCSUJNdmU3LXZKZDl2LXlRUjNkY3RxNFlXYllfanN0UmdkUmpFbzZOYzZGaVV4M2lPdmlXSno5VFUxaEowT0ZMLURtTlpWU1Q0NU0wMmNCVGJkVmdfQVo0bjR6SkNjVDUwcFF2LVJSbDl3czJmUjJkWFpHaXAyQTFka3BHY3pwU2Z2OUJLYmdUM0RLN0Mzb1dfZWhIVkM4WUp6b0tvVXF3SDU3WGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbXlOTEpwaXlaWkZsZVRIZjRHTFZnQjhUTkRpZS1QUlJlbG5tb2dENnBrUGJqUHo3UW4zb08zV3FXSVlBeGJKT082ams4S2ZnR24xMkFiTVB6QlE1aG5qTkhlaEpwYUZFSnN0Q1Z2ZFNFcWhZT3czSGYxQTVETGxIZmR2VVU2X2FONW5QTW5JTmFpMG1HRWY1el91bFlIWkZUam5weFFIa2Z5eFduczR0T0hjSFRDcGx1b2FMY2VYQlJIVFZhYUdIYkVnOWJiVXlaSkl0bXUyei1OQXozTUVPMmNyQWgyY05QZi1hNmNkaG44WTR6akZwczJUUUphZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-14T18:55:07+00:00",
+      "published": "2026-08-14T19:52:30+00:00",
       "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  新浪财经",
       "categories": [
         "other_big",
@@ -35,16 +35,6 @@
       ]
     },
     {
-      "title": "人工智能大模型日均调用百亿次后还有哪些新应用场景？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1d1c0VjB1VFVXdTkwenJEZHFla1hrTzFKWXRIZDFMM25NV1dHajIxVGl1Qk5RYWJfdEVLNUdGdUlBamNqMDhTUzRCVUdsVTlPQ0FvMGpRVUcyV3FwRXNaS0NJYWFZNVBaZDgzZFN6UmFSQnhUWGFVWF81UjBBc0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T17:48:00+00:00",
-      "summary": "人工智能大模型日均调用百亿次后还有哪些新应用场景？  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "谷歌开始肢解DeepMind，数个团队被划归总部 - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93c19YclN3TG9lakd2UUNyQ3BkMFlVbUE2TXYyZGNTYWRxMGd5Z3JNSzc3YzFOQ0hEc19ibF9fOFJSLXZhNm5FQQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -52,6 +42,16 @@
       "summary": "谷歌开始肢解DeepMind，数个团队被划归总部  智源社区",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "22.68万起！魏牌V8X上市：双VLA原生AI舱驾智能体，智驾再无短板 - 雷科技",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vcnFDcTZ3SmY3V2tCNXBibkU5NGc0YXlhQ3VFNk4yT0hNMmpFVzJLY3FnZlFGeVcxdmVEa3RBWDBTcFdqS2NkVzhqN1dXdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T15:56:59+00:00",
+      "summary": "22.68万起！魏牌V8X上市：双VLA原生AI舱驾智能体，智驾再无短板  雷科技",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -86,16 +86,6 @@
       ]
     },
     {
-      "title": "谷歌Chrome新功能曝光：Gemini帮你修改弱密码和重复密码 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnRLczRVYTVQaE51UFMwdmEtQjFaS0cxQzlGM3RfeGliX0FTQ1hOQzlaT0RRMFMteE5rVk05NkRBNTI0VjFNanViN1NackIzSWxGYzNSMUdSdk40NWU1TUVsUU1DMDZCVVI0UWdndGJ1NEdQS1AxZjJtNWVNd0NOY1dfMV9HZXd4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T13:15:31+00:00",
-      "summary": "谷歌Chrome新功能曝光：Gemini帮你修改弱密码和重复密码  Sohu",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学“待解列表” - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DMExDTXJUcDJobVM5X0lRb21sbXgzOEo2ZE1FQnA1bnI0bGV0QUlHQkxBSzlvNk5YeGNEaVFNY1E1aWFEZmlsMg?oc=5",
       "source": "Google News - AI(中文)",
@@ -103,17 +93,6 @@
       "summary": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学“待解列表”  智源社区",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic实验揭示：多智能体协作会引发\"地盘争夺战\" - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOVFuQ01zY0VnTmtpOFNaVlVGSDYwWTB4WTlMajF3MkpCVFdEcWVMWEk3M01XbWVEYVUxNDFoRzhqb1NqM19WRmoyV01DdWg4bzktQ24tM1d2Rm1fM2dQVVV5Z0xNUHk4VzNtWXJCa29kU1VzcS12bmZFZ3ViLUZ3aXJpbTBEZE9s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T12:30:00+00:00",
-      "summary": "Anthropic实验揭示：多智能体协作会引发\"地盘争夺战\"  Sohu",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     },
     {
@@ -165,16 +144,6 @@
       "summary": "AI竞争转向！千问开放平台抢滩智能体生态，超200家伙伴申请入驻  Sohu",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "盘点2026年离职的12位OpenAI高管 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVk9kQlJZZ1RrRHQ0R29FY2ZLWjVZUmxXdmhfenZjZ1VRX25hZl8wSjNmT1VIanp1S1RLWm1RZDdOLUlFMTIzTndwajZNTGJ3cUV5YWV1WmFWdUk0dFp3T3ZjYzI5UFpfVXBReG1QT2RzMGd3Q1JTTzlrbGpXR2ZKd0N2WjcyejVlcU9FblVLbnJ3c0t3UTFzZmlQX2Z1NTlmd25XalFaQ0NDa3c2SWtJUjFPamdCTWY1RkhoUF9ieW5kTlE0MjNVWE1DemR1RldiVnIwd2pTdW5KWTdwOVVOdjBxNS1Eb1VEZWxPMTVPcDVPRDFZYU52dzVFMEFLS0k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T11:46:34+00:00",
-      "summary": "盘点2026年离职的12位OpenAI高管  新浪财经",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -238,21 +207,21 @@
       ]
     },
     {
-      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - 电子工程专辑",
+      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - eet-china.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TmlTWFU3ZlRBR1lnLUh3TTJ0WlRjSUlFQ3d2ekUwS3NrOHBmbzJUZmtyVEY3UzBTMVFLdUVZekhFZ1Foa3ZGSjVOR19nS3ZVZmRv?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:02:00+00:00",
-      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  电子工程专辑",
+      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  eet-china.com",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座 - 电子工程专辑",
+      "title": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座 - eet-china.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ETHJBYzgxeFJLRnEwZ3RMSk5zVkZlWmwzbkI4ZmJEdi1iWkhNQWZBa1Y4aTJFLTNTUnRoU1MwS3RUSlA2N2VXcTluLTFDbW9MdG1N?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:00:00+00:00",
-      "summary": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座  电子工程专辑",
+      "summary": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座  eet-china.com",
       "categories": [
         "other"
       ]
@@ -289,11 +258,21 @@
       ]
     },
     {
-      "title": "9.99万元起！比亚迪秦MAX上市，超级智能体“迪迪虾”上车 - 新浪汽车",
+      "title": "DeepSeek发布API调价公告，新价格8月17日生效 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHZjT0R4Rm9QQm83Ymw2bld6U1FlX3pUSXdzYmlET01feWllQmpDbENzblFsZ3RSSWc1LXNXOU5WWXAtZTVGTEJ4TFhVSjBhQVB4LTl5dkdFdlNzWFhocEtQdWIxS0lEZld3WkZYZXdyZ2xWQVVMV1QzNU1fS3ByYk1JVEZtQ3dWa3lIcm0wbmFUTHUt?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T08:54:11+00:00",
+      "summary": "DeepSeek发布API调价公告，新价格8月17日生效  21财经",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "9.99万元起！比亚迪秦MAX上市，超级智能体“迪迪虾”上车 - auto.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RR2p5bU04WTNGSVQ5ZW9Ha1k2ekhVU2NzNEZNc0JmeGgzUGFuVlVpTXpLbEtXel9BN3BjS3UwNkxaWmNiUk1lRHAxREcyWnJjS3JqMTVrUTR1YlNBZFJTU2JjRThLMGphUmlnSEt3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T08:53:36+00:00",
-      "summary": "9.99万元起！比亚迪秦MAX上市，超级智能体“迪迪虾”上车  新浪汽车",
+      "summary": "9.99万元起！比亚迪秦MAX上市，超级智能体“迪迪虾”上车  auto.sina.cn",
       "categories": [
         "tools_apps"
       ]
@@ -306,6 +285,16 @@
       "summary": "超75%开发者更青睐Claude Code，原因何在？  至顶网",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "AI产业实力稳居全国第一方阵！广州加速推动AI智能体、数据治理等新应用落地 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDJKSTBvS2hlQWRSQ3RleDRPdjVLWkxwdmtRSmJFMWVMZTF2RWFXWW5NdjhJXzBtOG9kdjNBdG9hZVA0MlRCR2UzcWJNelJ4TmVjNGFsYUF4ekxvaWJsRU1TRFJiWnE3a19ocGZtWUxXcW9OZkZZVHF1S2FScTZndUVWWEZwS3JNR3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T07:51:58+00:00",
+      "summary": "AI产业实力稳居全国第一方阵！广州加速推动AI智能体、数据治理等新应用落地  广州日报新花城",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -329,13 +318,23 @@
       ]
     },
     {
-      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - 飞象网",
+      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - cctime.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50VnhPMnMzQ0l6dUhkcU96Yy1tT2t3X2NuMXYtU0p2UnVlZlJ6QlB4TElBamZ0SmlRS3RaY0tSN21aZU5JUE5USF82Zw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T06:59:29+00:00",
-      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  飞象网",
+      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  cctime.com",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50d2pockdlVWFxQjVfdWUxUGgxUUdtMmI0TjFOdzVOSVBNMnk1aEdkNERENl9CYXlkQ21NQVJpa1o1MzRYd2NnaHlZYUxuTmxWVHc3T3RIcjF4SlYtOVBHRw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T03:22:38+00:00",
+      "summary": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？  东方财富",
+      "categories": [
+        "google"
       ]
     },
     {
