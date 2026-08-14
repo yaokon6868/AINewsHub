@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-14T23:24:24.931702+00:00",
+  "updated_at": "2026-08-14T23:48:59.090848+00:00",
   "items": [
+    {
+      "title": "大模型迭代吞噬中间层 Agent从业者集体悲观 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jMDYxMnJ0QUdObTl0T1hIUmhtRkNnNFhlTG94UWJpc1NQZFZhTlBnZHU4TWRtLWZzb2hETlZwcG56WV82MUdBQUVjdnF5SGJUMWJHUGVNZFZyd3RtWnduV2o1ZXVqc2p6TkJ3djF0WjlLenhaYlpzNjNFMnluWFk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T23:34:02+00:00",
+      "summary": "大模型迭代吞噬中间层 Agent从业者集体悲观  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Agent中间层技术为何会被大模型快速迭代消化？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wX3hBSDZ3X1NFV09kdjdTY085TWxpbm1qX1RSdTBNWndhNFcxbnBLaER0S250SkR0THh1WVJ0ZDFEYlBHV2xCN2c5TVVfWm5sLXIzZGhKNWtVVGdOZk1pZ0UyUEZ1VmtHOHp6eFRSWnlfb21WRG5ma0lOZTZlYlk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T23:34:00+00:00",
+      "summary": "Agent中间层技术为何会被大模型快速迭代消化？  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbGFDSW0weUJacXZRWVFjTWdTNzVuM0NJaUlQNjJ4T3ltN1NIYkRnaFNBa2xXY0JlSU5TMGJtd3lzWk0xcDJOcVNIN00?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T23:22:19+00:00",
+      "summary": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "DeepSeek Harness背后的论文：让Agent在运行中改写自己 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNlF6N1Y4LTNXRXN1bEtIZkFZU29CNG9IdGVucHllblVvSFNnbzJmbXJFQ0ZMcmZ6ZWE2VndWYko4eWNnY3NaSlNwczlVUVg0WWQ4R0EwODZ4dE1Da0hZZnluVE5pazdPZ3ZUUFJMRFUyRnFKUmo0M2RZVDcyZE1qeTRFMGw0alFsbFI4MDdWUDN1MTI5bEV6YTRwbVpBYVJxQjBCbDQwRVdkQVlIbm5JRm9sZjZUN1o3QkRLcWRjdmc0RDZqQ1QyaDlUdlB1a2Y1bFBRdGFubDdKSzJvQ2lMSjBaODdiaHVNYUxmSEpqTGVxdGZnOHJkd1gzOTlpdmFqeHl2ZWc1akw0RHBqU0E?oc=5",
@@ -13,74 +43,64 @@
       ]
     },
     {
-      "title": "Agent技术护城河被大模型吞噬，开发者白打工？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yNGxVUkYyTUNHeVRTemdCRTF5bTctb0E0UGp2SENPeFRCcmlpTlh5blFKc0FjNlJrQmFlS1NWMzJFNXNzMWs1UTJ4WG9ocnRBV29OM3IzaGg5NnB6dEdpR0UwbmZ4NTFaRWt1Qm5xUTBOVFAyTEZEaHRjcTEtbGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T22:01:33+00:00",
-      "summary": "Agent技术护城河被大模型吞噬，开发者白打工？  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷 - InfoQ-CN",
+      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷 - infoq.cn",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVuX1hqNDFNMTVNcXFibGlyYUx0QXpIVTZqVklCNVJsdUotNm5xZ1Z1NFB4S2JQUzIyc1NCZEdmeXJCVWZ2VmlnSXFMb1M5ZENoLTNtaFkxaEpGZWc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T21:33:45+00:00",
-      "summary": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷  InfoQ-CN",
+      "summary": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷  infoq.cn",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "智谱发布GLM-5.3：编程能力跃升50%，编程与智能体能力接近Fable 5 - finance.sina.cn",
+      "title": "智谱发布GLM-5.3：编程能力跃升50%，编程与智能体能力接近Fable 5 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONzJ3QjM2a0VzLVVmOVdJZWpEdlZwTFcxSXpOdXV0ZUVkRlFIV0Jtc3luZThVUmg5aEQzUGZ3YW9nTTlqaWxaT3JEX3VqU3Rwc1Faa2YwcVNfT01xRllnNVRyVkZNWVZCb0FLRFFrQjMzYXE2UHRCd3N0VUhnTFJHZVFWWFhvSm1oNFNudzhVWWk4cV9hYTVRWWMtY1dvemJKM040Q2NfWVRBaFZyZml6bFQwV0VaeHlKbjItUXpDTEpod2owaTBvUV8tTlM5QlJXM3dyOENfVVo1M25EcUFDZFhGZTVBaEYxSXFiUXJNaWxhRlJ5eWhpa3BrNGJYZ2dDOFZxbmZxSnB2aHoxY19GeEhxY3g2d2E5dnl4OWJsSQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T20:56:39+00:00",
-      "summary": "智谱发布GLM-5.3：编程能力跃升50%，编程与智能体能力接近Fable 5  finance.sina.cn",
+      "summary": "智谱发布GLM-5.3：编程能力跃升50%，编程与智能体能力接近Fable 5  新浪财经",
       "categories": [
         "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网 - finance.sina.cn",
+      "title": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWll4UDVhc2w4SXV5cXFKRXlpdVFLRmVaSFFIZS1odEhXYlV5d04yb3hDM0o1Ull5RFhuMzFRaHdxc1NTWmFnTHBsaDBZb3VPOXRSSDBHRnloU2dnaFRvWXJvUmxMUm5GUkZTSzI4ZTdDd1BwczdLRmE0bnF0MFZ4bHp5b2wwS0Q2VUxQZmxDSEhBdFp3VmpFcU5YZV95eHk0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T20:48:47+00:00",
-      "summary": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网  finance.sina.cn",
+      "summary": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网  新浪财经",
       "categories": [
         "other_big",
         "open_source"
       ]
     },
     {
-      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - finance.sina.cn",
+      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbXlOTEpwaXlaWkZsZVRIZjRHTFZnQjhUTkRpZS1QUlJlbG5tb2dENnBrUGJqUHo3UW4zb08zV3FXSVlBeGJKT082ams4S2ZnR24xMkFiTVB6QlE1aG5qTkhlaEpwYUZFSnN0Q1Z2ZFNFcWhZT3czSGYxQTVETGxIZmR2VVU2X2FONW5QTW5JTmFpMG1HRWY1el91bFlIWkZUam5weFFIa2Z5eFduczR0T0hjSFRDcGx1b2FMY2VYQlJIVFZhYUdIYkVnOWJiVXlaSkl0bXUyei1OQXozTUVPMmNyQWgyY05QZi1hNmNkaG44WTR6akZwczJUUUphZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T19:52:30+00:00",
-      "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  finance.sina.cn",
+      "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  新浪财经",
       "categories": [
         "other_big",
         "open_source"
       ]
     },
     {
-      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - finance.sina.cn",
+      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1BmdDVNZ2VJSDBSdnhxSVhjcWsyUzJfa3kwbk5VVzh3SWRyOWtjek9aOWt0Vk05SXBhUl9OOWt2bEUya3RPYXc5WU5uWXU5X2VpUnNqR0dDdEczZ3REbW4xRFR1cVBnbnRGR3B2dmx3U0NkdzlNVm5YVmc3TVdmSGwycFp2eTd0bWMxeDBpRl82NHdyck1pYw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T18:55:05+00:00",
-      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  finance.sina.cn",
+      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  新浪财经",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - finance.sina.cn",
+      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN296OXdhTjdqc18yRXdYUWREOFV2c2xQVVpzZHRxdnpVNGtUenU2dG51eWtpemZFYUlQQU9iSEd3X1JEcGxfMGItaGhzREhnUW9OeHFhUFZ3X2VvYVlGOWV0REZWd3BpU3pGS09fWjhBdWpCbFkzMzhXblFLZGF5eXYzblZLY3JjN2ZVNTlhYWFjV0tNYXlzcWxGaWNRdnd6cC1rUlVhTWZHSTAxTzAyU0tSMXdCN0UwUjlXTkxJbWtweU1KNUVTdkh2aURoX1FrZlVqSUxibHhmX01uV1k3bmRTMEQ4NVJxbHItcWxfSURsdTJwR2NGZXBOWXA4cUtrMS1fc0VhR0dQQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T18:20:21+00:00",
-      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  finance.sina.cn",
+      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪财经",
       "categories": [
         "other_big",
         "tools_apps",
@@ -105,6 +125,17 @@
       "summary": "谷歌发布 Gemini 3.7 Flash：专为编程与智能体任务设计  至顶网",
       "categories": [
         "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek Harness，“杀死”Agent黑箱 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1J0cUdVOUNfVjZvVms0TmppWjlEaGJsQkJ0SlRYSDNkVzNwNl9ob2FjTzNvbF9SX3NDSUg1UlNndDJVNG53MDJGTnlFNk4yVzBBM3RIWFRXMFhPQlNNcGlMMnh4NUJWc0lfQk1QSlk0aVEzZnA5Y192Q1U2MmtYdVZ1M3ZyR25uVW1vaQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T14:04:17+00:00",
+      "summary": "DeepSeek Harness，“杀死”Agent黑箱  sohu.com",
+      "categories": [
+        "other_big",
         "tools_apps"
       ]
     },
@@ -139,22 +170,11 @@
       ]
     },
     {
-      "title": "DeepSeek正式涨价，便宜不是国产大模型唯一优势 | 视频 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa3VkMk5DT2RfTjNRWi1CbEdXQTJxNk9zblNTeml4NzhuYzF5WkR5ZDdFVUh2Q0x1NWxfVXJLWVR1LThKWGxlVUNjZjJJQmU2OTk4ZndKVURvS2NvRTV1eFNJcFJfYWFFbXpJSURxekt3MVE5bkdpUndQYVQtcU43V1Fhb0U5by1HNEFxeA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T12:18:09+00:00",
-      "summary": "DeepSeek正式涨价，便宜不是国产大模型唯一优势 | 视频  Sohu",
-      "categories": [
-        "other_big",
-        "image_video"
-      ]
-    },
-    {
-      "title": "苹果联合阿里自研中国专属大模型 - guandian.cn",
+      "title": "苹果联合阿里自研中国专属大模型 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84MzdKdkVsQkN1WEptVEI0T0Q0b0hSNC05TjRGTDZoYTktRnNMUE1YWTM0NURhSUdYSTNjNm9GY2VuZmZXYjRxdGkzRGRIX0tuTUd1bmtVRlE1NXBvN2hNUnl3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T12:15:08+00:00",
-      "summary": "苹果联合阿里自研中国专属大模型  guandian.cn",
+      "summary": "苹果联合阿里自研中国专属大模型  观点网",
       "categories": [
         "other_big"
       ]
@@ -167,16 +187,6 @@
       "summary": "苹果为中国市场训练了特供AI大模型 研究指中式审查正渗入美国AI模型答复  RFI",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "AI竞争转向！千问开放平台抢滩智能体生态，超200家伙伴申请入驻 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGlIYlRncHZybWtlV0JfOFZtdGVZSml6R1FoVjlVV3MzeTU4WVpSclk0UFRGRGdDVzJQdmozaUVleGV2OTlDcVNZbk5WU21OZmpOWXp5Y0NsR2Nfc21VSW9vcUFOU3M3YVJyeENTU0lZXzFVODF6dGRHSW5uZkdjVnlyQk5ITWl1QlFTNQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T11:48:06+00:00",
-      "summary": "AI竞争转向！千问开放平台抢滩智能体生态，超200家伙伴申请入驻  Sohu",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -251,16 +261,6 @@
       ]
     },
     {
-      "title": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ETHJBYzgxeFJLRnEwZ3RMSk5zVkZlWmwzbkI4ZmJEdi1iWkhNQWZBa1Y4aTJFLTNTUnRoU1MwS3RUSlA2N2VXcTluLTFDbW9MdG1N?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T10:00:00+00:00",
-      "summary": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座  电子工程专辑",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？ - thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVzZ3SVRhM0twS1I5MUd4WVJHbDMzeHU5VFlaQmEtb1ZYVnlPWWtMUmpYR3l4dlJqUExCSHhfTWRoQ0p0eTBhRGhvTW8wNkFoQTJMSHFZZ0tyWHJBaVpOeA?oc=5",
       "source": "Google News - AI(中文)",
@@ -272,11 +272,11 @@
       ]
     },
     {
-      "title": "中国大模型调用量，连续15周超美国 - 凤凰网",
+      "title": "中国大模型调用量，连续15周超美国 - 凤凰网财经",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbWxfM25wNDRla3dWWk5QOXkwZ0NvUDRnMlhPNThyUTUxQ3lhNElHYVNOSS1JbXpMT245Y0s0UjRFejV2RVYxcFkzMGdFSk95?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T09:15:16+00:00",
-      "summary": "中国大模型调用量，连续15周超美国  凤凰网",
+      "summary": "中国大模型调用量，连续15周超美国  凤凰网财经",
       "categories": [
         "other"
       ]
@@ -332,11 +332,21 @@
       ]
     },
     {
-      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - 飞象网",
+      "title": "芯擎AI加速芯片“天工100”量产交付 千元级“外挂”让更多汽车落地大模型 - 武汉市商务局",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wYnlJbFhoQ1Z0V2Q5dXotOW05WXMzMkxCczNaMEx1TG9GU18tRnJLd1Zlb0VRMkJoTzNhTkw5YUhjTFc5ZmpvQmdRVWtMMmg4Q1RKb3VNV1RieTRtbWh5LXpOdG1oR0F0b0t1YWMxdDNodw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T07:22:34+00:00",
+      "summary": "芯擎AI加速芯片“天工100”量产交付 千元级“外挂”让更多汽车落地大模型  武汉市商务局",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - cctime.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50VnhPMnMzQ0l6dUhkcU96Yy1tT2t3X2NuMXYtU0p2UnVlZlJ6QlB4TElBamZ0SmlRS3RaY0tSN21aZU5JUE5USF82Zw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T06:59:29+00:00",
-      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  飞象网",
+      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  cctime.com",
       "categories": [
         "tools_apps"
       ]
@@ -349,17 +359,6 @@
       "summary": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？  东方财富",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUTNOaElvTzU4TGhzTUF4OGRFeFpRS1BLenU4Qkt6cmNKOUt0aURDbE82ZjJFQWMzMTRHYUduQjIzeDRKR3FjMXBDd3NPUkdNUEJ0cHFEN1BsTmg4Wnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T01:27:34+00:00",
-      "summary": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造  DoNews",
-      "categories": [
-        "google",
-        "tools_apps"
       ]
     },
     {
