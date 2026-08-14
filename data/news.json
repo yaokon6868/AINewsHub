@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-08-14T14:31:00.660185+00:00",
+  "updated_at": "2026-08-14T15:54:39.934142+00:00",
   "items": [
     {
-      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWFGQkVpV3Ftb1BlWnJqdGh4Rmh0YjA1aDFKZmRvdnNwMFEtWlNKbV9VdlptWDY1WFZQWmdhR3dGYWNReVY1S0tzWHYwcS1SUzBfTzh0djVuRUxncmFSbW5tOFVsQUhTWjZvV2VodXlLRjlwMzFGZm5OUjlwSXdVd2hB?oc=5",
+      "title": "谷歌发布 Gemini 3.7 Flash：专为编程与智能体任务设计 - 至顶网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15d1NmR1A1a1ZscC05dHRHOEFUdlctNEZDaS1MNVVpbTJLT1JlbDVqeFZOb05RR3k5OWs3ZFNlVGhqelBhVXlZVW9YbUdMSGktbUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-14T13:55:17+00:00",
-      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  新浪网",
+      "published": "2026-08-14T15:39:30+00:00",
+      "summary": "谷歌发布 Gemini 3.7 Flash：专为编程与智能体任务设计  至顶网",
       "categories": [
-        "other"
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "别人争造最强大模型，苹果坚持赌“入口” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPalJNc3dpUG9GU2Y1NWxLVnBiRGdod0JQVzR4ZE0zMmtGRWdHaXU3UDJqVy1fQWIwMC1WN1F3c0x0aW5OUVpLWWNlN3MzQ29HdFN2d1pUZVNhV1BsU0V0VDNPMmNyaC00ZWkxWG1ZdG9GTjZ4SkQ2TF93blJlaDg5aXFvQnpMaS0yRERKVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T15:05:21+00:00",
+      "summary": "别人争造最强大模型，苹果坚持赌“入口”  Sohu",
+      "categories": [
+        "other_big"
       ]
     },
     {
@@ -22,31 +33,11 @@
       ]
     },
     {
-      "title": "谷歌Chrome新功能曝光：Gemini帮你修改弱密码和重复密码 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnRLczRVYTVQaE51UFMwdmEtQjFaS0cxQzlGM3RfeGliX0FTQ1hOQzlaT0RRMFMteE5rVk05NkRBNTI0VjFNanViN1NackIzSWxGYzNSMUdSdk40NWU1TUVsUU1DMDZCVVI0UWdndGJ1NEdQS1AxZjJtNWVNd0NOY1dfMV9HZXd4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T13:15:31+00:00",
-      "summary": "谷歌Chrome新功能曝光：Gemini帮你修改弱密码和重复密码  Sohu",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "智能驾驶拐点到来，端到端大模型成主流，成本降至千元级 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsRjlSVVJqMUVNT2MwTkJMYV9ySi1faVhCdC1ibWQ2R0RITGZNRjhpSDFGbE9MNWJUclh6cTUwb3dWY3RhaWlQOEpKbzIzN1dOa2xZNjEyX2QySnBQUW85dm5fRTl0NUJsS3RYM2VPby1wT00?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T12:57:46+00:00",
-      "summary": "智能驾驶拐点到来，端到端大模型成主流，成本降至千元级  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪财经",
+      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTWIwNDlSYUhYRVdxSzJYT2tYM1NMZjlZb1BPanFXME1PTUZOVWVLWGF5dVBUUGduOElsUDZFVk1uS09PMUlCVXV6emFwYjdYa0VBZHRpRzFaQ05Udzg0RG9CM0x3QmJ4cVl5UU55MnZ5cFN0OXN0Mjh4LUdSWW5VdGhlRUVqU21acUktN3ZXM3NvWk1WVU1XQ2FXY2g3Y3I0ZXpwMms3ZDNCYzZnSjRyRmNmSFhMSmtEb29DMHVVa0J6Y1NXZEJPM0duRlJsSlhHLXZsa19wVjI2dWVhWjRsWldCY0NhU2h1RngxN0VpSGEyekw0eUFzUl9BeW0xb1ZXdWQ4UDVhY19YOU82?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T12:41:07+00:00",
-      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪财经",
+      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪网",
       "categories": [
         "other_big",
         "tools_apps",
@@ -71,17 +62,6 @@
       "summary": "Anthropic实验揭示：多智能体协作会引发\"地盘争夺战\"  Sohu",
       "categories": [
         "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI ChatGPT/Codex 桌面应用正式登陆 Linux 平台 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVFvUy1sa29JOWROQ1F2U2hHVThnQjZaMXE4YlR3Mi1JcXc4ZUR5eWVSdjhpWTljRkdzSGpfbktrUzdhUW1HVHZoZlZUTm00aWJ2c21hMm5mMy1xamV3R21DNW1GdXRUTm01N2FXVjc5Zk9HWjRLZGhGeHlHODV0OUN3TWVWOW1j?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T12:25:00+00:00",
-      "summary": "OpenAI ChatGPT/Codex 桌面应用正式登陆 Linux 平台  Sohu",
-      "categories": [
-        "openai",
         "tools_apps"
       ]
     },
@@ -127,17 +107,6 @@
       ]
     },
     {
-      "title": "三星导入Claude加速芯片设计验证，1个月的工作2天完成 - 芯智讯",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE16cmJvOENWUENWNFl5aVhvNExjVURHQ2FHaVNTbWF4ODJzZmhNcTRvd0c5dUI4dC1BZERtQnk4NDZCbGpX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T12:02:57+00:00",
-      "summary": "三星导入Claude加速芯片设计验证，1个月的工作2天完成  芯智讯",
-      "categories": [
-        "anthropic",
-        "chips"
-      ]
-    },
-    {
       "title": "AI竞争转向！千问开放平台抢滩智能体生态，超200家伙伴申请入驻 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGlIYlRncHZybWtlV0JfOFZtdGVZSml6R1FoVjlVV3MzeTU4WVpSclk0UFRGRGdDVzJQdmozaUVleGV2OTlDcVNZbk5WU21OZmpOWXp5Y0NsR2Nfc21VSW9vcUFOU3M3YVJyeENTU0lZXzFVODF6dGRHSW5uZkdjVnlyQk5ITWl1QlFTNQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -148,11 +117,11 @@
       ]
     },
     {
-      "title": "盘点2026年离职的12位OpenAI高管 - 新浪财经",
+      "title": "盘点2026年离职的12位OpenAI高管 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVk9kQlJZZ1RrRHQ0R29FY2ZLWjVZUmxXdmhfenZjZ1VRX25hZl8wSjNmT1VIanp1S1RLWm1RZDdOLUlFMTIzTndwajZNTGJ3cUV5YWV1WmFWdUk0dFp3T3ZjYzI5UFpfVXBReG1QT2RzMGd3Q1JTTzlrbGpXR2ZKd0N2WjcyejVlcU9FblVLbnJ3c0t3UTFzZmlQX2Z1NTlmd25XalFaQ0NDa3c2SWtJUjFPamdCTWY1RkhoUF9ieW5kTlE0MjNVWE1DemR1RldiVnIwd2pTdW5KWTdwOVVOdjBxNS1Eb1VEZWxPMTVPcDVPRDFZYU52dzVFMEFLS0k?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T11:46:34+00:00",
-      "summary": "盘点2026年离职的12位OpenAI高管  新浪财经",
+      "summary": "盘点2026年离职的12位OpenAI高管  新浪网",
       "categories": [
         "openai"
       ]
@@ -173,6 +142,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T11:39:15+00:00",
       "summary": "AI赋能充电运维，领充智能体1.0重构运维新范式  国际充换电网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI攻防全球第二、高校第一！复旦白泽智能体凭“效能美学”跻身世界第一梯队 - shobserver.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oeXlpdzVEZ0FuaFk4N2ROX3BUZnJoa0pQZFBGLWV3NVR5bzA2WW9UZTVuTFk5YklCNVQydzBQNDFoOTA5amZ2NmRuS2dnaDZQbUxyQWhQLTIyMVdU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T11:00:00+00:00",
+      "summary": "AI攻防全球第二、高校第一！复旦白泽智能体凭“效能美学”跻身世界第一梯队  shobserver.cn",
       "categories": [
         "tools_apps"
       ]
@@ -228,6 +207,17 @@
       ]
     },
     {
+      "title": "发布50个应用场景机会，2026“融汇珠海”投融资暨应用场景对接会（香洲区专场）举行 - pub-zhtb.hizh.cn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xNGRBTVN0R05pREthTENmOWRJd3drLVVTdk1oOGpvRGJ0cGQtX3pRdkI1SU40S083RGE2NzJDTUM1TjRGZ2hST2p6SlVpcGo1RXJ6SWE0M052OGJ1dVdhcFNQbVpXd1NiSVVJeFVjWnBIRDRSaWRJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T09:57:00+00:00",
+      "summary": "发布50个应用场景机会，2026“融汇珠海”投融资暨应用场景对接会（香洲区专场）举行  pub-zhtb.hizh.cn",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？ - thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVzZ3SVRhM0twS1I5MUd4WVJHbDMzeHU5VFlaQmEtb1ZYVnlPWWtMUmpYR3l4dlJqUExCSHhfTWRoQ0p0eTBhRGhvTW8wNkFoQTJMSHFZZ0tyWHJBaVpOeA?oc=5",
       "source": "Google News - AI(中文)",
@@ -239,21 +229,21 @@
       ]
     },
     {
-      "title": "浙产大模型要改变全球AI竞争格局？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlN6aGhNM2YzSnZsOHlJdUpuZWdjTFZZdm80b2hzRzhHZmFDc1lpZ3RTTlkxd0hqWV81NGYwTWxGWTFIbUZsOUJ6TXM1Z21ETFVNMzVQMDZRMl9UQ1hIM25WVDItM0pYUlpaR0c4Yk4yamFFX0RwTTRPZmk2RzZEMnNsTEszZ3lsd3EzNg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T09:22:05+00:00",
-      "summary": "浙产大模型要改变全球AI竞争格局？  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对 - hb.dzwww.com",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lRUk0SDdEVTdqZDd3OUpZQ1kyTFhRX2o0NEdESm5WWUFER01PU3JiQWRPSGVtUXM1bXA5aDY5WDh4ZDJEU0t5MWhtZmRhQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T09:19:00+00:00",
       "summary": "高性价比中国大模型兵临城下 美头部AI实验室大幅降价应对  hb.dzwww.com",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "微信AI团队披露617B参数WeLM大模型训练方案- AI - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEbU00ako4Rzd0ODZyWUNJN1RxOGwyN1NXbXZZTXNHZFROSUxXU3VSVkR1cVcyV1ZZOW5aa05EMVRaYnpNMjZUeHZJMXZLekhwNmFPZW1B?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T09:01:22+00:00",
+      "summary": "微信AI团队披露617B参数WeLM大模型训练方案- AI  亿邦动力网",
       "categories": [
         "other"
       ]
@@ -279,26 +269,6 @@
       ]
     },
     {
-      "title": "放下高傲！苹果确定在中国训练专属大模型，本土化 AI 要补齐短板了 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2ZIU2UzaU9xWGF2WTFWUzRnVGNyMW5ZVWFmTDFwLWNLVmJSWVJZWHlRREx6NFJDVVQ4NG85VGFMV3BhRzhsTi1UMWtoMnkxcUNNc0UtcUtqNUxza3ROX2xUdFRob3lhX3Fia2Rib0t5aHhSMGpBQmZvc2FpVTF3RTZSZk9YanBiR0ZZVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T08:15:00+00:00",
-      "summary": "放下高傲！苹果确定在中国训练专属大模型，本土化 AI 要补齐短板了  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "工业智能体“拼落地”，谁能真正上产线？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSW9kUVlyM0hyMXhDYm5zbl9RcThTVlF4YkF2aVJxS1lCS1dBZkZvSk1CQ0djb1ZnVndIaXhfR3dDTFVuUlh5WXc5TXFtZWNHTVVfdHNiRnVFZVFxczZxb1JjeEJ2R1k3SjhNN3ktdk81aUZkZEJZdDRXV2NUOTVhWlp2cFBfQU9I?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T08:13:16+00:00",
-      "summary": "工业智能体“拼落地”，谁能真正上产线？  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "用友与和君咨询联合研制发布《企业AI成熟度模型》，助力企业AI规模化落地 - 飞象网",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CWHMxdmJpSkhsdlVoejJ0RjVsWnlpbXBFYm9UcjFnOFo4U3draGk2SlFqZWlMMjFqcDRPcFZ2b3VhZjV1Nno1cTktVQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -306,6 +276,36 @@
       "summary": "用友与和君咨询联合研制发布《企业AI成熟度模型》，助力企业AI规模化落地  飞象网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "记忆能力达4+级！Co-Claw智能体平台首批通过中国信通院可信AI认证 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM08tNWpJenk3RTNrVy1GSnl0QVNkU3BnWHJjejNyRmNnQndvMDV2WmZOYjZnMlRXd241Z2hBZjc3TGl4RnRERzBsdk1CaXVqVHJHX3Z2MkdwOG10YThscFpmMzdxQUtQcEtEME5QaXlaMUFzbnVvYlphSHJIVVE2a1hjNzRPMkpqYnFNdQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T07:37:12+00:00",
+      "summary": "记忆能力达4+级！Co-Claw智能体平台首批通过中国信通院可信AI认证  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "市值暴涨10倍后，“大模型第一股”又憋了个大招 - 凤凰网财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zVG10NnF5WUxycDRzUWtMSHZfM3lGZUhaRlpVUWxPdGZ1Q0RlOVJ6azM0V0lKbVkweFFLbTA4YU9TcW9pc0ZwNWVtUFlVMVNY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T07:37:00+00:00",
+      "summary": "市值暴涨10倍后，“大模型第一股”又憋了个大招  凤凰网财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "芯擎AI加速芯片“天工100”量产交付 千元级“外挂”让更多汽车落地大模型 - 武汉市商务局",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wYnlJbFhoQ1Z0V2Q5dXotOW05WXMzMkxCczNaMEx1TG9GU18tRnJLd1Zlb0VRMkJoTzNhTkw5YUhjTFc5ZmpvQmdRVWtMMmg4Q1RKb3VNV1RieTRtbWh5LXpOdG1oR0F0b0t1YWMxdDNodw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T07:22:34+00:00",
+      "summary": "芯擎AI加速芯片“天工100”量产交付 千元级“外挂”让更多汽车落地大模型  武汉市商务局",
+      "categories": [
+        "chips"
       ]
     },
     {
@@ -351,11 +351,11 @@
       ]
     },
     {
-      "title": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网 - 新浪财经",
+      "title": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOEt1QTJfQ2VPZndIanBkSlY4LTJGQkNmOXZxUmluc3paVGpBSmNaTjhZaVBBRHUxeHNsOUdZQTZWYVBTS1FWNUZ3MjVOU1ZVV1UtQU8tQVpXWnRxcWR1S1FONG03NjBtUnFrclRmSjU2Q1JRNURNYVdGMk5PdFNWQWhEYXNSNXVxUVdkM043ZlR0Z1Q3QW1ieGI5YWI3LWw5N2FBMm50a0M2NUpIYW50RmhFRnBGS29ObWpRdFBVMloyOEtjRW12aVFfcEEwcTdYUE5mMjBZSU85UFNHcVJXTGlwR0NFTFcwNHdyWE1ZeFB5dTZ6YjF0SGNLODl6YXdrMkxkNQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T00:56:00+00:00",
-      "summary": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网  新浪财经",
+      "summary": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网  新浪网",
       "categories": [
         "openai",
         "breakthrough"
