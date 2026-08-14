@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-14T22:25:50.580461+00:00",
+  "updated_at": "2026-08-14T22:51:25.525373+00:00",
   "items": [
+    {
+      "title": "Agent技术护城河被大模型吞噬，开发者白打工？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yNGxVUkYyTUNHeVRTemdCRTF5bTctb0E0UGp2SENPeFRCcmlpTlh5blFKc0FjNlJrQmFlS1NWMzJFNXNzMWs1UTJ4WG9ocnRBV29OM3IzaGg5NnB6dEdpR0UwbmZ4NTFaRWt1Qm5xUTBOVFAyTEZEaHRjcTEtbGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T22:01:33+00:00",
+      "summary": "Agent技术护城河被大模型吞噬，开发者白打工？  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷 - InfoQ-CN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVuX1hqNDFNMTVNcXFibGlyYUx0QXpIVTZqVklCNVJsdUotNm5xZ1Z1NFB4S2JQUzIyc1NCZEdmeXJCVWZ2VmlnSXFMb1M5ZENoLTNtaFkxaEpGZWc?oc=5",
@@ -96,16 +106,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Chrome Canary 测试 Gemini AI 自动改密功能 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPMExBTGZjVmNnbmpvSmtfQzBGYmZtUTZLZjI0RGZmZmZvajRnU2JDUHFIMFptaVZhbUFxR3pXUHVzQjdHajdUTnN4WDdKZUpIYUxLZFFYM0poZV9HOFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T13:24:03+00:00",
-      "summary": "Chrome Canary 测试 Gemini AI 自动改密功能  DoNews",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -231,11 +231,11 @@
       ]
     },
     {
-      "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - news.hubeidaily.net",
+      "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - 湖北日报传媒集团",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jckRnZTdibDJLdXQtUFVVRzg4V1M2R2xheWFiZ0ZRUUg5OWkwODJRS2dZSEt2TDJIRkpqYnBNblpLS2FkSlZsU3gxWGxFQ0MzNnlZc3FvdFU?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:28:41+00:00",
-      "summary": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端  news.hubeidaily.net",
+      "summary": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端  湖北日报传媒集团",
       "categories": [
         "tools_apps"
       ]
@@ -322,21 +322,21 @@
       ]
     },
     {
-      "title": "市值暴涨10倍后，“大模型第一股”又憋了个大招 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zVG10NnF5WUxycDRzUWtMSHZfM3lGZUhaRlpVUWxPdGZ1Q0RlOVJ6azM0V0lKbVkweFFLbTA4YU9TcW9pc0ZwNWVtUFlVMVNY?oc=5",
+      "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TZWw4QnJyQkxzWFNyOGExZjdfMktJX3lkd3lJSWt5QVQyVmtnUXB6ZUdaS0VCajdBQmpKZFZaR1dUblZfeXZQMGlsUW8?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-14T07:37:00+00:00",
-      "summary": "市值暴涨10倍后，“大模型第一股”又憋了个大招  凤凰网财经",
+      "published": "2026-08-14T07:31:27+00:00",
+      "summary": "美国少年杀死母亲、弟弟，被指用ChatGPT策划  凤凰网",
       "categories": [
-        "other"
+        "openai"
       ]
     },
     {
-      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - 飞象网",
+      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - cctime.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50VnhPMnMzQ0l6dUhkcU96Yy1tT2t3X2NuMXYtU0p2UnVlZlJ6QlB4TElBamZ0SmlRS3RaY0tSN21aZU5JUE5USF82Zw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T06:59:29+00:00",
-      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  飞象网",
+      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  cctime.com",
       "categories": [
         "tools_apps"
       ]
