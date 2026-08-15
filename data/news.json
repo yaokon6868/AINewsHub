@@ -1,44 +1,84 @@
 {
-  "updated_at": "2026-08-15T06:42:16.332551+00:00",
+  "updated_at": "2026-08-15T07:32:40.938848+00:00",
   "items": [
     {
-      "title": "后训练之神 国产大模型GLM-5.3实测：性价比20倍于美国顶级AI Fable5 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPalZrVFdlRmpEaHY2SlR1MnNJTEVqZHdnamxlYjVEU1RRckVmUnhub1ZvbGdDT3FRRXBncmFISVVXWldYOWJZb1ZSWkFfNlozZUxrYVlFR3JpdkNsd09rdUg1Mnc5Ym9yMER1S0hNTFEzbFQ4eWhjVnYtTkc1RlNKT1o2TFJZVllmX2ZFYW9FRGFvazc1SUhEVDVLTUpCTmRiay1MMjZLOHVaTWpZdm1zMl9FSzlfcjdjZVdCR1VZQmJsSWtEY29xS1Y4RWN6eTR5QlZ6anJVZ0daOXhNTnB1bjgzZ1VRb3NQOHRNeFlqOVIwOEFPbXdrSUZLSXRVUQ?oc=5",
+      "title": "全球首例：人类员工因23 个班次迟到17 次被“AI 老板”开除|Anthropic|Claude|IT之家|管理|模型_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEFSSVAyWW8tVWwzUGxMYl9ONWkyUm9LM29RT3htZWRDODZodGhBTnp2WWFPRHdCOFoxTnlOR3lZcmkwNU5VMU93RXlFeGVUZVo3ZUstNFVrQnphbUNPUm1FQUczMjdEY3FVbENPSW1wenBaNGdJSFJHOGxHWFU1d28zTHMxSngyR0RlNU5JYUpTeDJWNkY5ajdDZW54eFE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-15T06:26:25+00:00",
-      "summary": "后训练之神 国产大模型GLM-5.3实测：性价比20倍于美国顶级AI Fable5  新浪网",
+      "published": "2026-08-15T07:30:28+00:00",
+      "summary": "全球首例：人类员工因23 个班次迟到17 次被“AI 老板”开除|Anthropic|Claude|IT之家|管理|模型_手机新浪网  新浪财经",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "一张算力券引来一条产业链 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaEdvbE5jNE9Bd2luVnpqS0pMcEg1SXVrQmk2QVRoM0F5TFp4SXFLY05FcWRVZ3ozUnFIZ1dUeGFtVXVlWEtXWGsyc1o3Qm40RUxHc1ZyZEd1VFNNTlltblJBczVQOWtlOWNXX29BU0tZREtka1QydEh4Y2hqRmx4U3NMUzJMOHpRSGNXVEZHUF9kZ2xOSXBEVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T07:20:28+00:00",
+      "summary": "一张算力券引来一条产业链  新浪财经",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "IBM牵手OpenAI加码拓展企业级市场 AI模型引入更多业务场景 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxOEQySTlIWmpmWGZnRzFhNlE3blQ4b3NlWEF1eGYxYW1McW0xaTJYelQ5SkpuOHBzcFpEWXNxT0dvUGtLMHFYQ0kwQTlyOV83SXItcVVlemdJNXc5TGJ1Zm9iX21wdndfTi1vUEVvNFFybGJUc203M2pLWXBYZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T07:18:47+00:00",
+      "summary": "IBM牵手OpenAI加码拓展企业级市场 AI模型引入更多业务场景  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "俄巡航导弹惊现AI芯片！英伟达回应 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1d1VjNmw3SVZEM3ZFRV9rV09LbjR5SV9pOGViWEZEYmEzYkV4VXZuQmlXaS05aE9ZbFZnRVZta0RPXzhEbjFmWlpDbi0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T07:17:59+00:00",
+      "summary": "俄巡航导弹惊现AI芯片！英伟达回应  凤凰网科技",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "当“智能体”遇上智能体，泰钽700交付世界人形机器人运动会 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZjNNZDJXcERpTi1ycjlBdXJwcDN3bW85eEJoa05ZRzgxQUZBakx5X2VTX0dJQ0VpdThWMW9kN1haNTFoNi1wVk8xWEFMNlgxTGJkRkJMa0tmdFMzQk5Vcy0zR3NlX2lmUlQ0eQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T07:16:23+00:00",
+      "summary": "当“智能体”遇上智能体，泰钽700交付世界人形机器人运动会  中华网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "魏牌V8X限时22.68万起售！搭载双VLA舱驾智能体，支持车位到车位NOA - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PWFBrVGVvbERtYnJDNDFXcnlzQVZOSUNWZlk2YWdaNTRzOFlVTWx6Q1FpbUQ3NXljVUFVQjBZZUpHM3BaZEk3WFluMmZ6TDVzR0Y4NGNXNjZ5Ykk2YXEyem5EZEJ4NzlrUWRZVUlXQ3ZhRm43dEtnZjVLWWRjSkk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T06:50:00+00:00",
+      "summary": "魏牌V8X限时22.68万起售！搭载双VLA舱驾智能体，支持车位到车位NOA  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "江苏发布高水平大学建设方案：将推动更多高校进入世界一流大学前列 - 中国江苏网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdE1pODQtRGp4ZXRIMmZwWnhZOFZqNzJ6eGZHUFE4SnRlV1BDdmdMWWFuVHlZNVZGME1qNE5xR3hBZkdIeTdHRE51LXUxRHgzZmtyVDVCaEM1MnJZcHN2ZklLeW4ydGphN0pvRGg5N0JsZERPTml0ckp5Uko5RHdINmk0TG5EZldqRkZJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T06:32:00+00:00",
+      "summary": "江苏发布高水平大学建设方案：将推动更多高校进入世界一流大学前列  中国江苏网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMzAyLUtBQUp4MlVCdHNPQmVZQ2FwOXI5V1ZzWjFOY0hOSTQ4UkU1dTBfUEc3a0dpU1BDeXNLT0xodTRWZ2lXcEktcFNGU1N3LUQzVFZsWDR4TkNTdUNjMVRla19QQ0FqemhYellGYmtxWUxHMW5oVUZTOTFYeFRIMlFfQ3FZWXpxU194bnN6Q2hhOEVmcUs0Q1RBMk5aTVY1aUttb1FBV1VUU05qM0JSZjloMlNOUElwcGNSQlJfREF1Q3hXMWppMXZpNlFLUWlxanlQTmROMDZibEdRZEJjek1sdnFvQldycVZmNkpxX0xreTVFUFlLRUJNdF9NX0FJN2NkNkYtWW8?oc=5",
+      "title": "后训练之神 国产大模型GLM-5.3实测：性价比20倍于美国顶级AI Fable5 - tech.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPajRmanpmQko2ZEtSNWxYZXZMMFRfaXNFdUI1QVpoWTJOeXJuT1RoUVM0UUxzcWhTUmtWX044N1Q1THRjQzk3S01zOW1iTXB1N2FETWdYRDBGb1RYZWxpTkd0MTdTQWttM0Z3aEEyRFFXUldSaTltNFpBMjBWY3BPSEtoZS1kemtPc05hQk05dGFrVzh3a0RLMzFDVXl6NS1KcFpDUkVhVlVGN2dNRGFzUU5xSHNFWndXZFFkQUVsZVNMZTBMUWZJcHZUZDhEeDBJSzQ4VDRDSHJYdnNiSE9oYXRab1JZSEhlcEdLOGw4SDBXRUZteWh4dU80SnZSWVpvcENXN1BEX1oxVXFYZmwxTHI4djc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-15T06:24:20+00:00",
-      "summary": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步  新浪网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "2026年哪个品牌手机AI最强？华为Mate80 Pro登顶，50 TOPS算力成旗舰分水岭+FAQ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTTY0Q19tSFhzQzFwcU1hZ2FnSENRRHBfOC1wTnZFM0FnaXh5SHRsWTlFODVBNzg0dHBKaWUwVk5NeTRzX0pGZjI3YlQxRGpJVjE3Y2tYSmFpNW1hZWhxT1ZFTjlHQ1QtSEdJM1RmeTVmdkJrOFoyODhwWHBjVnllSw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T06:19:18+00:00",
-      "summary": "2026年哪个品牌手机AI最强？华为Mate80 Pro登顶，50 TOPS算力成旗舰分水岭+FAQ  新浪网",
-      "categories": [
-        "other_big",
-        "breakthrough",
-        "chips"
-      ]
-    },
-    {
-      "title": "千门课程免费学，广东“粤能学”打造人工智能品牌活动 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWtYekVCWmo4NnZHQ2poVTktZUpsTHpMVFVQWFRIWGtXMXpQOWJDTTQwckdrMFlEckxPazRvci02UzNjMGd4MDlRaDBLR0xLalNoWF9ERE4ybGcyUm1qc2JNM2E0SjFTNnRNMC16UXljNzU4NlJfRHByZDhra1FLZ09rOHBQZjdl?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T06:09:37+00:00",
-      "summary": "千门课程免费学，广东“粤能学”打造人工智能品牌活动  Sohu",
+      "published": "2026-08-15T06:16:24+00:00",
+      "summary": "后训练之神 国产大模型GLM-5.3实测：性价比20倍于美国顶级AI Fable5  tech.sina.cn",
       "categories": [
         "other"
       ]
@@ -51,16 +91,6 @@
       "summary": "Claude.md线面繁殖一样膨胀？不用掀桌重写的轻巧办法来了  Sohu",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "魏牌V8X限时22.68万起售！搭载双VLA舱驾智能体，支持车位到车位NOA - 车东西",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jQTNDdEc1Q1MwUmFfMW8xMzlKUVF3ZkJHbm9Bb2dxZUZmVjBZcnNYaEtHeGhocDctMEswdXBXcXJwbC1VbWlScG5jdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T05:18:08+00:00",
-      "summary": "魏牌V8X限时22.68万起售！搭载双VLA舱驾智能体，支持车位到车位NOA  车东西",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -84,11 +114,11 @@
       ]
     },
     {
-      "title": "新发布的DeepSeek Harness的五大创新及其启示 - 53AI",
+      "title": "新发布的DeepSeek Harness的五大创新及其启示 - 53ai.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53RG9vY3VFQ25Wb0I0ZUs5ejI3aFh4OEg3NGtzMGxVOGFYSmxlbml0aG1KSm9Kc2plRFBNM004ZmpDcklsLXYweUVVcm0yU2k4a3N3dnFxRXJZN2x4T3FCU09SMDY3UWR3TlE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T04:13:22+00:00",
-      "summary": "新发布的DeepSeek Harness的五大创新及其启示  53AI",
+      "summary": "新发布的DeepSeek Harness的五大创新及其启示  53ai.com",
       "categories": [
         "other_big"
       ]
@@ -146,11 +176,11 @@
       ]
     },
     {
-      "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印 - 新浪网",
+      "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印 - tech.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQV3QzeFhBS2RaaXZPdjhlQ2xrQ0NUT2doTnFXczcyTFFva0ptVDd0bUd6cXVValNLY2pLZzBzM1c2NWZvTVpNZ0FjQUJiUjJiTThjbDFIOXVNeUF1dXZOMjAzc1RGaVBUbHdXcDdMc1J2Qi1pYl9Gd016V0FkQlJvZGRUVDZ2R29GaFppWEpmWERGSHBvLWFkc3lZMlE5RkdjVkt2NDZXMFcwTlRIQjZGRzF4N25jelE5RGRjLVhqMmZ6ZHJHel9qeXhHbHJURjRHQmVnMU5ZZDg2TktkU2ROQWxVV003bklocEtneC1rMzVUd1J5czlNWVcxaGVjM29Sd2ZucGpXLVdla1ptdTFFMHpUOA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T02:01:44+00:00",
-      "summary": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印  新浪网",
+      "summary": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印  tech.sina.cn",
       "categories": [
         "google",
         "image_video"
@@ -178,11 +208,11 @@
       ]
     },
     {
-      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - 新浪网",
+      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlV0NLcVRBQ3licGNSLVdqZzVmWjVWLVVYWm5YNHJRc000eUZFYzdUSXpuN05GOUc4T2RVcHA2N0pueHBCcDR3bVdORFhRd21KMmFLRU14R1YybWNrOHBOX1FlTmJuTUNqOG9ENkRITmpHaUR0NWY0VQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T01:41:15+00:00",
-      "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  新浪网",
+      "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  新浪财经",
       "categories": [
         "other_big",
         "open_source"
@@ -232,16 +262,6 @@
       ]
     },
     {
-      "title": "奕境X9首搭鸿蒙座舱HarmonySpace 6，MoLA 2.0多智能体架构与千亿级端到端大模型上车 - 网通社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tS2RtYURxLTgzSEJGTDdJMkxlV1k1R3Z1OEtfVFA1SDAzeExxSG9FdVdfMmFUNGdUZHlwZFhPMl9RakhGQXYwdE9tc0FqZnBCOEM2ZXh1cDNlaWM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T00:12:03+00:00",
-      "summary": "奕境X9首搭鸿蒙座舱HarmonySpace 6，MoLA 2.0多智能体架构与千亿级端到端大模型上车  网通社",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbGFDSW0weUJacXZRWVFjTWdTNzVuM0NJaUlQNjJ4T3ltN1NIYkRnaFNBa2xXY0JlSU5TMGJtd3lzWk0xcDJOcVNIN00?oc=5",
       "source": "Google News - AI(中文)",
@@ -252,33 +272,33 @@
       ]
     },
     {
-      "title": "DeepSeek Harness背后的论文：让Agent在运行中改写自己 - 新浪网",
+      "title": "DeepSeek Harness背后的论文：让Agent在运行中改写自己 - tech.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNlF6N1Y4LTNXRXN1bEtIZkFZU29CNG9IdGVucHllblVvSFNnbzJmbXJFQ0ZMcmZ6ZWE2VndWYko4eWNnY3NaSlNwczlVUVg0WWQ4R0EwODZ4dE1Da0hZZnluVE5pazdPZ3ZUUFJMRFUyRnFKUmo0M2RZVDcyZE1qeTRFMGw0alFsbFI4MDdWUDN1MTI5bEV6YTRwbVpBYVJxQjBCbDQwRVdkQVlIbm5JRm9sZjZUN1o3QkRLcWRjdmc0RDZqQ1QyaDlUdlB1a2Y1bFBRdGFubDdKSzJvQ2lMSjBaODdiaHVNYUxmSEpqTGVxdGZnOHJkd1gzOTlpdmFqeHl2ZWc1akw0RHBqU0E?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T23:03:15+00:00",
-      "summary": "DeepSeek Harness背后的论文：让Agent在运行中改写自己  新浪网",
+      "summary": "DeepSeek Harness背后的论文：让Agent在运行中改写自己  tech.sina.cn",
       "categories": [
         "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网 - 新浪网",
+      "title": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWll4UDVhc2w4SXV5cXFKRXlpdVFLRmVaSFFIZS1odEhXYlV5d04yb3hDM0o1Ull5RFhuMzFRaHdxc1NTWmFnTHBsaDBZb3VPOXRSSDBHRnloU2dnaFRvWXJvUmxMUm5GUkZTSzI4ZTdDd1BwczdLRmE0bnF0MFZ4bHp5b2wwS0Q2VUxQZmxDSEhBdFp3VmpFcU5YZV95eHk0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T20:48:47+00:00",
-      "summary": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网  新浪网",
+      "summary": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网  新浪财经",
       "categories": [
         "other_big",
         "open_source"
       ]
     },
     {
-      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪网",
+      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN296OXdhTjdqc18yRXdYUWREOFV2c2xQVVpzZHRxdnpVNGtUenU2dG51eWtpemZFYUlQQU9iSEd3X1JEcGxfMGItaGhzREhnUW9OeHFhUFZ3X2VvYVlGOWV0REZWd3BpU3pGS09fWjhBdWpCbFkzMzhXblFLZGF5eXYzblZLY3JjN2ZVNTlhYWFjV0tNYXlzcWxGaWNRdnd6cC1rUlVhTWZHSTAxTzAyU0tSMXdCN0UwUjlXTkxJbWtweU1KNUVTdkh2aURoX1FrZlVqSUxibHhmX01uV1k3bmRTMEQ4NVJxbHItcWxfSURsdTJwR2NGZXBOWXA4cUtrMS1fc0VhR0dQQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T18:20:21+00:00",
-      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪网",
+      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪财经",
       "categories": [
         "other_big",
         "tools_apps",
@@ -307,34 +327,24 @@
       ]
     },
     {
-      "title": "苹果为中国市场训练了特供AI大模型 研究指中式审查正渗入美国AI模型答复 - rfi.fr",
+      "title": "苹果为中国市场训练了特供AI大模型 研究指中式审查正渗入美国AI模型答复 - RFI",
       "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOd3hGcFF3eTlzWnZIaHFsUjNxa1ZDMmFPOEhUNkhjcTlpeFFSYVhHcjVxY0RlN2h4MENtMVJMY0tuOTcxRlkyS0ozcU5ma25FaWNCWlR0Rk5JU3MxRWx6Z1hRS2FsNnRqTHAwY1p6TVRDNldrVGp2emFwZUtGTVpldnJmMGhLZ19QY0tsSlZVaENpM2Z0UDdsRlB6dENGQVRRc2ZTUWRMX0kyMFZRTFNlODY4SU8wY3ZpdVVGTmVKSVkzY0lRbml1bXo5UkRubkN4UlVBQ3ZrWkN5VDB5TWowQjMwYVByZ2hwdzdZYVprTy1wdlY2b2pVTVRFbXpCQXJhV1ZTQ3EzdTk3bGFHdHRKelJHYXV6eXQ4MTFVSFFyeC1YWlE5NmV3c2RXMi0wcFpiT2h1TENIYWh0UmFaN1hEVzJlMTdXUlFvZThzUXdJMzYwdHp3ZFNvVDhoUHRkNjNzSHNCdEpjQW41SDJJM1NpcGRnbVlTa0ZrN3p0M0NHM2pfZkFodkdnNFRua19WTUFaOXhfeEcwWWx2QzkyMC1JNGtlMlVncUhMOU81cVRUeFQ2eXBqNDEzSUFRamJBRGRkdjFKcFNwS3ZRVkxraEI1dy1GdTFfM3pJWEx2bHdZU3BnamNtcjBGWGJPX00yRjhMZEpnNmlqSGsxTW1TWFE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T12:09:32+00:00",
-      "summary": "苹果为中国市场训练了特供AI大模型 研究指中式审查正渗入美国AI模型答复  rfi.fr",
+      "summary": "苹果为中国市场训练了特供AI大模型 研究指中式审查正渗入美国AI模型答复  RFI",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "高盛：谷歌加速将Gemini植入硬件生态 AI战略转向规模化应用 - eastmoney.com",
+      "title": "高盛：谷歌加速将Gemini植入硬件生态 AI战略转向规模化应用 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vRE93akI0SDItSGxxdWJqdzVvLVlhWjJieFZfcFZJX0l1RzRhTDRYWXl2YzVFWGpNRWNLNGpnUVE1MW01SVhtZmJyM2I3WnFXeVR4NTBCUjIxZV9IUm9OaA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T11:34:17+00:00",
-      "summary": "高盛：谷歌加速将Gemini植入硬件生态 AI战略转向规模化应用  eastmoney.com",
+      "summary": "高盛：谷歌加速将Gemini植入硬件生态 AI战略转向规模化应用  东方财富",
       "categories": [
         "google",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "浙产大模型要改变全球AI竞争格局？ - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzVjk0dldBTzFXZmhuOFhveE02dGFwRGotZERjcmxmNE1Lc2xaaDU4dTVIZWs1RXFQQWYwTkhuRHNydXlfSHE0U0ZyVTVaNHV5SEo2OWVBdHpGS1B1LU51Y1A5UEtMMVQ4RFFsb0JINWUzR1podkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T11:12:26+00:00",
-      "summary": "浙产大模型要改变全球AI竞争格局？  新浪新闻_手机新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -359,21 +369,11 @@
       ]
     },
     {
-      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TmlTWFU3ZlRBR1lnLUh3TTJ0WlRjSUlFQ3d2ekUwS3NrOHBmbzJUZmtyVEY3UzBTMVFLdUVZekhFZ1Foa3ZGSjVOR19nS3ZVZmRv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T10:02:00+00:00",
-      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  电子工程专辑",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网 - 新浪网",
+      "title": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNR2NfbE9KU3E3SDdOOHNxMlNEa19lUTQ5ZHd6dkZ5U3ZOSERKVnVsQk1MdWYxN1NYeGRmdE5TZElnZ21NTk4wTThrYlVaZzJWczAyQ1k5Wlg3R1ZCX043RFJ0YUg2UmFtaHk0M1FUU3d4WFcxUWVHMUl1eV92SUZpbkYtZjVnZHNsRHJhYW5YYlMtbmtJZW9uMDZEUndzWk9vNV9HcDRmdlpCamJ4RmtkVHdQMm95S1E1eDZ2WlE3eDZGV1lHMW1UdlZJVFNheF9HemlfVkhTT1pzWXlyQURDRk1OZG43eF9LUm5RRnNiWGdhSTZ1UXJYYnJtSTBnTTc4bVZFSTN3RllZSTZBZTR1UjgzMA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T00:56:00+00:00",
-      "summary": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网  新浪网",
+      "summary": "独家丨国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资|OpenAI|具身智能|大模型|姜旭|模型_手机新浪网  新浪财经",
       "categories": [
         "openai",
         "breakthrough"
