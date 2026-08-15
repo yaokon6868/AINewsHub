@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-08-15T02:34:00.654920+00:00",
+  "updated_at": "2026-08-15T03:41:30.011817+00:00",
   "items": [
+    {
+      "title": "三星导入Claude加速芯片设计验证，1个月的工作2天完成 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNqaHlocnlIbGJzaTk4LTVSZGNLRVZDX3B2YzBtTVZKVENNNnl5Z0Z2U0prcnJUWFRSeXJCTG1TbTBJRXE0R0g3dExGenRyUW5iZGNIOUZSaXc1VHg2anR5MmUzTDFNV1laUFdvMFhubmo3R3RHRGp5WFNOU3RxZkNaQWFoN3Br?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T03:15:42+00:00",
+      "summary": "三星导入Claude加速芯片设计验证，1个月的工作2天完成  Sohu",
+      "categories": [
+        "anthropic",
+        "chips"
+      ]
+    },
+    {
+      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWtfQ3RKdXdaUWhCY1RabGc4SU9JQ3M1ajZLRnd1U01IQ0tMVTBHcTFsM1FqSFB3aWpVTXJLcEhSZFNyb1pZcnZDbkJxUko5SjNNUFNtcW5sbVlnZERoQWZ4SDNGRWNGbVJBTzlSSDRrWkgxeUVRY2dDYmJGODl1MEE4T2lGcGxiY3lRYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T02:46:08+00:00",
+      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yV1JXd0ZBNG80em1ZNzF3QlF6U1BVWG03Vy04Mk1xZGY5MTYydVgzdmlJdndFMXUtc1RwdGx6WEpVdHJ4eW9mUA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T02:30:00+00:00",
+      "summary": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码  智源社区",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQV3QzeFhBS2RaaXZPdjhlQ2xrQ0NUT2doTnFXczcyTFFva0ptVDd0bUd6cXVValNLY2pLZzBzM1c2NWZvTVpNZ0FjQUJiUjJiTThjbDFIOXVNeUF1dXZOMjAzc1RGaVBUbHdXcDdMc1J2Qi1pYl9Gd016V0FkQlJvZGRUVDZ2R29GaFppWEpmWERGSHBvLWFkc3lZMlE5RkdjVkt2NDZXMFcwTlRIQjZGRzF4N25jelE5RGRjLVhqMmZ6ZHJHel9qeXhHbHJURjRHQmVnMU5ZZDg2TktkU2ROQWxVV003bklocEtneC1rMzVUd1J5czlNWVcxaGVjM29Sd2ZucGpXLVdla1ptdTFFMHpUOA?oc=5",
@@ -98,6 +129,16 @@
       ]
     },
     {
+      "title": "曝苹果联合阿里自研中国专属大模型；超3万美元追觅卖出首台手机 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUZIS0dqUno3bG1VTWthaXcxVGo2Sy1ZelpFelphTXU0ZDRQczh1Wi1ZMGlwOEN4a1RRSGkxSzlQcTBxd0Z3SjMxaHRNd3hkTFdPOVJjTUNXeVhmVlQxTEhLbEY5VmpaVVAxZzBsc1Noc1lZNTZyQWNKWHR6a0xtcE1SQ0VWcXU5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T23:40:17+00:00",
+      "summary": "曝苹果联合阿里自研中国专属大模型；超3万美元追觅卖出首台手机  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
       "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbGFDSW0weUJacXZRWVFjTWdTNzVuM0NJaUlQNjJ4T3ltN1NIYkRnaFNBa2xXY0JlSU5TMGJtd3lzWk0xcDJOcVNIN00?oc=5",
       "source": "Google News - AI(中文)",
@@ -137,16 +178,6 @@
       "categories": [
         "other_big",
         "open_source"
-      ]
-    },
-    {
-      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1BmdDVNZ2VJSDBSdnhxSVhjcWsyUzJfa3kwbk5VVzh3SWRyOWtjek9aOWt0Vk05SXBhUl9OOWt2bEUya3RPYXc5WU5uWXU5X2VpUnNqR0dDdEczZ3REbW4xRFR1cVBnbnRGR3B2dmx3U0NkdzlNVm5YVmc3TVdmSGwycFp2eTd0bWMxeDBpRl82NHdyck1pYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T18:55:05+00:00",
-      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -254,21 +285,11 @@
       ]
     },
     {
-      "title": "AI攻防全球第二、高校第一！复旦白泽智能体凭“效能美学”跻身世界第一梯队 - shobserver.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oeXlpdzVEZ0FuaFk4N2ROX3BUZnJoa0pQZFBGLWV3NVR5bzA2WW9UZTVuTFk5YklCNVQydzBQNDFoOTA5amZ2NmRuS2dnaDZQbUxyQWhQLTIyMVdU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T11:00:00+00:00",
-      "summary": "AI攻防全球第二、高校第一！复旦白泽智能体凭“效能美学”跻身世界第一梯队  shobserver.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境 - eu.36kr.com",
+      "title": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境 - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfRmIzTGxhejlKM2xUMll0Wm5fSDdGWFRLOUJQNXNQV1VxbnNEdTNLd24tUk5IYkhKR3pHX2N0dUY5aW1hSElxVkxCT3V5V1R3NC1v?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:29:00+00:00",
-      "summary": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境  eu.36kr.com",
+      "summary": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境  36Kr",
       "categories": [
         "other_big",
         "tools_apps"
@@ -285,23 +306,13 @@
       ]
     },
     {
-      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - 电子工程专辑",
+      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - eet-china.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TmlTWFU3ZlRBR1lnLUh3TTJ0WlRjSUlFQ3d2ekUwS3NrOHBmbzJUZmtyVEY3UzBTMVFLdUVZekhFZ1Foa3ZGSjVOR19nS3ZVZmRv?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:02:00+00:00",
-      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  电子工程专辑",
+      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  eet-china.com",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ETHJBYzgxeFJLRnEwZ3RMSk5zVkZlWmwzbkI4ZmJEdi1iWkhNQWZBa1Y4aTJFLTNTUnRoU1MwS3RUSlA2N2VXcTluLTFDbW9MdG1N?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T10:00:00+00:00",
-      "summary": "【光电集成】CPO 共封装光学：AI 大模型的下一代光速底座  电子工程专辑",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -313,16 +324,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "中国大模型调用量，连续15周超美国 - finance.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbWxfM25wNDRla3dWWk5QOXkwZ0NvUDRnMlhPNThyUTUxQ3lhNElHYVNOSS1JbXpMT245Y0s0UjRFejV2RVYxcFkzMGdFSk95?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T09:15:16+00:00",
-      "summary": "中国大模型调用量，连续15周超美国  finance.ifeng.com",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -346,16 +347,6 @@
       ]
     },
     {
-      "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划 - news.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TZWw4QnJyQkxzWFNyOGExZjdfMktJX3lkd3lJSWt5QVQyVmtnUXB6ZUdaS0VCajdBQmpKZFZaR1dUblZfeXZQMGlsUW8?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T07:31:27+00:00",
-      "summary": "美国少年杀死母亲、弟弟，被指用ChatGPT策划  news.ifeng.com",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？ - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZk04TzdlX1V2VjZucnY0XzVXbndvZUNyYWhuYk5UeU1BQWd2WkpJMzEwX0N1VXN6bU5iRWI4LWdkS3RfYVBpbng0dzQtN2FRQ1pBNGliSzdlTFE2NXFUbnl0RE1NOU0?oc=5",
       "source": "Google News - AI(中文)",
@@ -363,6 +354,17 @@
       "summary": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？  东方财富",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUTNOaElvTzU4TGhzTUF4OGRFeFpRS1BLenU4Qkt6cmNKOUt0aURDbE82ZjJFQWMzMTRHYUduQjIzeDRKR3FjMXBDd3NPUkdNUEJ0cHFEN1BsTmg4Wnc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T01:27:34+00:00",
+      "summary": "谷歌推出 Gemini 3.7 Flash 模型，专为编程与 Agents 打造  DoNews",
+      "categories": [
+        "google",
+        "tools_apps"
       ]
     },
     {
