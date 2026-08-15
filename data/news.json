@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-08-15T01:22:29.487105+00:00",
+  "updated_at": "2026-08-15T02:34:00.654920+00:00",
   "items": [
+    {
+      "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQV3QzeFhBS2RaaXZPdjhlQ2xrQ0NUT2doTnFXczcyTFFva0ptVDd0bUd6cXVValNLY2pLZzBzM1c2NWZvTVpNZ0FjQUJiUjJiTThjbDFIOXVNeUF1dXZOMjAzc1RGaVBUbHdXcDdMc1J2Qi1pYl9Gd016V0FkQlJvZGRUVDZ2R29GaFppWEpmWERGSHBvLWFkc3lZMlE5RkdjVkt2NDZXMFcwTlRIQjZGRzF4N25jelE5RGRjLVhqMmZ6ZHJHel9qeXhHbHJURjRHQmVnMU5ZZDg2TktkU2ROQWxVV003bklocEtneC1rMzVUd1J5czlNWVcxaGVjM29Sd2ZucGpXLVdla1ptdTFFMHpUOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T02:01:44+00:00",
+      "summary": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印  新浪网",
+      "categories": [
+        "google",
+        "image_video"
+      ]
+    },
+    {
+      "title": "中美开源模型大会师：Kimi、Qwen、DeepSeek、Meta和英伟达五模大横评 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVVhlRE0yVlBtYUM0ZVVGcDlYTDlST3pIemNHZmw5Z2NNUTN4MHVXU2NjdEF3bmRDS0hrU24zZ3dlQk5BQmViaUR6WUg1S1NZbTlsSTBXSzZFcHpxOFZLQzdndEVrTVlVTDBqUnZyNXhROUo0UkRtOHB3MkdiOE85cXFGWkduNkJ2SWxOUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T01:58:00+00:00",
+      "summary": "中美开源模型大会师：Kimi、Qwen、DeepSeek、Meta和英伟达五模大横评  Sohu",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "谷歌将为Gemini上线Media Watermark开关功能 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12NUs2ZUVkTm1UMkRIWmVhN0VMOWdLRmNfSG03Y0k5ZVRiZ21QbVRMeHhyUUJlbURzSHdMNzdPWEdRRGQ4aHVPRTJsQ0ltdDNYaHpRYlR4RUFwdEFEdnc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T01:45:03+00:00",
+      "summary": "谷歌将为Gemini上线Media Watermark开关功能  DoNews",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlV0NLcVRBQ3licGNSLVdqZzVmWjVWLVVYWm5YNHJRc000eUZFYzdUSXpuN05GOUc4T2RVcHA2N0pueHBCcDR3bVdORFhRd21KMmFLRU14R1YybWNrOHBOX1FlTmJuTUNqOG9ENkRITmpHaUR0NWY0VQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T01:41:15+00:00",
+      "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  新浪网",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "ChatGPT一夜提速14倍！新模式GPT-5.6 Sol每秒750 token - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ndHhlVzNfQWRaSzQ1VDkwcGl6UU00cDRWaWxoeWpSdlVKeS03aU5acEcycW9FUVlqSFhVUzZ5T2p6R05DQ3Nubw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T01:30:00+00:00",
+      "summary": "ChatGPT一夜提速14倍！新模式GPT-5.6 Sol每秒750 token  智源社区",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "谷歌Gemini新增移除AI图片视频水印功能 3.7 Flash推出 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaV9mVkIza3Rma3hRQjBtU1lPbk1yaktWNnpteG9Ddm1VQzlhNlhkMzlhUmRuSmlkWGhodVFvcExDWThvSmo0V3VWT0R4cjdONWxCRWUyUk9TaG5IZmVYa1NCVG5KeURoRGl6ckFNRnJKZTVoVEFERnFac3hqaktESFh3TFlHYUVV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T01:16:00+00:00",
+      "summary": "谷歌Gemini新增移除AI图片视频水印功能 3.7 Flash推出  Sohu",
+      "categories": [
+        "google",
+        "image_video"
+      ]
+    },
     {
       "title": "手机AI哪家强？华为端侧大模型稳压小米？3个维度看清谁才是最强+FAQ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJbjdOYXhSQmZVRzFGckJlZDdYdEJaQU5RWlVCTHd0cU9lMUhKUWRaU1h3VHlrZG9wZTVlcU40VUVCamtLbE9UY2w4WlRnRkJuN0tFT2JobkdzLVVBRlloRFl2VnNxUENhZWNDMF8yX2pDUQ?oc=5",
@@ -65,57 +129,36 @@
       ]
     },
     {
-      "title": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网 - 新浪财经",
+      "title": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWll4UDVhc2w4SXV5cXFKRXlpdVFLRmVaSFFIZS1odEhXYlV5d04yb3hDM0o1Ull5RFhuMzFRaHdxc1NTWmFnTHBsaDBZb3VPOXRSSDBHRnloU2dnaFRvWXJvUmxMUm5GUkZTSzI4ZTdDd1BwczdLRmE0bnF0MFZ4bHp5b2wwS0Q2VUxQZmxDSEhBdFp3VmpFcU5YZV95eHk0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T20:48:47+00:00",
-      "summary": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网  新浪财经",
+      "summary": "开源改写人工智能竞争规则|Kimi K3|DeepSeek|Minimax|Hugging Face|开源模型_手机新浪网  新浪网",
       "categories": [
         "other_big",
         "open_source"
       ]
     },
     {
-      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbXlOTEpwaXlaWkZsZVRIZjRHTFZnQjhUTkRpZS1QUlJlbG5tb2dENnBrUGJqUHo3UW4zb08zV3FXSVlBeGJKT082ams4S2ZnR24xMkFiTVB6QlE1aG5qTkhlaEpwYUZFSnN0Q1Z2ZFNFcWhZT3czSGYxQTVETGxIZmR2VVU2X2FONW5QTW5JTmFpMG1HRWY1el91bFlIWkZUam5weFFIa2Z5eFduczR0T0hjSFRDcGx1b2FMY2VYQlJIVFZhYUdIYkVnOWJiVXlaSkl0bXUyei1OQXozTUVPMmNyQWgyY05QZi1hNmNkaG44WTR6akZwczJUUUphZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T19:52:30+00:00",
-      "summary": "阿里开源Qwen3.8，千问大模型全球下载超30亿次  新浪财经",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪财经",
+      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1BmdDVNZ2VJSDBSdnhxSVhjcWsyUzJfa3kwbk5VVzh3SWRyOWtjek9aOWt0Vk05SXBhUl9OOWt2bEUya3RPYXc5WU5uWXU5X2VpUnNqR0dDdEczZ3REbW4xRFR1cVBnbnRGR3B2dmx3U0NkdzlNVm5YVmc3TVdmSGwycFp2eTd0bWMxeDBpRl82NHdyck1pYw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T18:55:05+00:00",
-      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  新浪财经",
+      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  新浪网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪财经",
+      "title": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPN296OXdhTjdqc18yRXdYUWREOFV2c2xQVVpzZHRxdnpVNGtUenU2dG51eWtpemZFYUlQQU9iSEd3X1JEcGxfMGItaGhzREhnUW9OeHFhUFZ3X2VvYVlGOWV0REZWd3BpU3pGS09fWjhBdWpCbFkzMzhXblFLZGF5eXYzblZLY3JjN2ZVNTlhYWFjV0tNYXlzcWxGaWNRdnd6cC1rUlVhTWZHSTAxTzAyU0tSMXdCN0UwUjlXTkxJbWtweU1KNUVTdkh2aURoX1FrZlVqSUxibHhmX01uV1k3bmRTMEQ4NVJxbHItcWxfSURsdTJwR2NGZXBOWXA4cUtrMS1fc0VhR0dQQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T18:20:21+00:00",
-      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪财经",
+      "summary": "DeepSeek Harness开发者预览版发布：开放源代码，一切皆插件  新浪网",
       "categories": [
         "other_big",
         "tools_apps",
         "open_source"
-      ]
-    },
-    {
-      "title": "谷歌开始肢解DeepMind，数个团队被划归总部 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93c19YclN3TG9lakd2UUNyQ3BkMFlVbUE2TXYyZGNTYWRxMGd5Z3JNSzc3YzFOQ0hEc19ibF9fOFJSLXZhNm5FQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T16:40:00+00:00",
-      "summary": "谷歌开始肢解DeepMind，数个团队被划归总部  智源社区",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -127,16 +170,6 @@
       "categories": [
         "google",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌Chrome新功能曝光：Gemini帮你修改弱密码和重复密码 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LOG9JYUJxQjJ1Y1lCZ05aemFBM2c1XzAyc09yclM2ZlVlMUhwTHRuVXoyZU12dndNVHZJZG05Yk5LclN3NG91SVcweWI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T13:16:11+00:00",
-      "summary": "谷歌Chrome新功能曝光：Gemini帮你修改弱密码和重复密码  凤凰网科技",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -191,7 +224,7 @@
     },
     {
       "title": "AI赋能充电运维，领充智能体1.0重构运维新范式 - 国际充换电网",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWTFNPckRwUlRIUk41djQyRVB3MmJmOE5pbkttSXktdXQ3SFRUZ3hCVmxBamdINVM5RGQtUVc5dE1fTW81bVZkRkhFYnpQeU5KODZHUzlLcw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQnVTZUgxcjdPazR1T3A0c3JEbUlSSXdtRHhnWWRYM1huYkFCQWpVbS1aRjBhdUk1ai1JbUZncnlWTkZyUFdBSTBJZmdpY040MGRnTHJFSTM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T11:39:15+00:00",
       "summary": "AI赋能充电运维，领充智能体1.0重构运维新范式  国际充换电网",
@@ -231,6 +264,17 @@
       ]
     },
     {
+      "title": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境 - eu.36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfRmIzTGxhejlKM2xUMll0Wm5fSDdGWFRLOUJQNXNQV1VxbnNEdTNLd24tUk5IYkhKR3pHX2N0dUY5aW1hSElxVkxCT3V5V1R3NC1v?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-14T10:29:00+00:00",
+      "summary": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境  eu.36kr.com",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - 湖北日报传媒集团",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jckRnZTdibDJLdXQtUFVVRzg4V1M2R2xheWFiZ0ZRUUg5OWkwODJRS2dZSEt2TDJIRkpqYnBNblpLS2FkSlZsU3gxWGxFQ0MzNnlZc3FvdFU?oc=5",
       "source": "Google News - AI(中文)",
@@ -262,7 +306,7 @@
     },
     {
       "title": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？ - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVzZ3SVRhM0twS1I5MUd4WVJHbDMzeHU5VFlaQmEtb1ZYVnlPWWtMUmpYR3l4dlJqUExCSHhfTWRoQ0p0eTBhRGhvTW8wNkFoQTJMSHFZZ0tyWHJBaVpOeA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gb0Rxd29CNk9KdmF4U2FGWVo1bGgyRVFaY0hwSVZmYzlSUGpIbFhFQ1RER2NQZEJwRXY0aXZiVUN4NUhIdWF4Q0s4TnRQWkJZSm4tVnN5MnVGa3VPaHc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T09:43:00+00:00",
       "summary": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？  thepaper.cn",
@@ -272,11 +316,11 @@
       ]
     },
     {
-      "title": "中国大模型调用量，连续15周超美国 - 凤凰网",
+      "title": "中国大模型调用量，连续15周超美国 - finance.ifeng.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbWxfM25wNDRla3dWWk5QOXkwZ0NvUDRnMlhPNThyUTUxQ3lhNElHYVNOSS1JbXpMT245Y0s0UjRFejV2RVYxcFkzMGdFSk95?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T09:15:16+00:00",
-      "summary": "中国大模型调用量，连续15周超美国  凤凰网",
+      "summary": "中国大模型调用量，连续15周超美国  finance.ifeng.com",
       "categories": [
         "other"
       ]
@@ -292,73 +336,33 @@
       ]
     },
     {
-      "title": "超75%开发者更青睐Claude Code，原因何在？ - 至顶网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWm4wSHRFVGpWYnJyVkRPaVVkczBibVFOUkRaUmRUOUtqVGQyaC12M1Z6Snd0cXdncmFGYlY4cVlPQTNxeklSeThEZUx3T3hNS2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T08:48:45+00:00",
-      "summary": "超75%开发者更青睐Claude Code，原因何在？  至顶网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "AI产业实力稳居全国第一方阵！广州加速推动AI智能体、数据治理等新应用落地 - huacheng.gz-cmc.com",
+      "title": "AI产业实力稳居全国第一方阵！广州加速推动AI智能体、数据治理等新应用落地 - 广州日报新花城",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNDJKSTBvS2hlQWRSQ3RleDRPdjVLWkxwdmtRSmJFMWVMZTF2RWFXWW5NdjhJXzBtOG9kdjNBdG9hZVA0MlRCR2UzcWJNelJ4TmVjNGFsYUF4ekxvaWJsRU1TRFJiWnE3a19ocGZtWUxXcW9OZkZZVHF1S2FScTZndUVWWEZwS3JNR3c?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T07:51:58+00:00",
-      "summary": "AI产业实力稳居全国第一方阵！广州加速推动AI智能体、数据治理等新应用落地  huacheng.gz-cmc.com",
+      "summary": "AI产业实力稳居全国第一方阵！广州加速推动AI智能体、数据治理等新应用落地  广州日报新花城",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划 - 凤凰网",
+      "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划 - news.ifeng.com",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TZWw4QnJyQkxzWFNyOGExZjdfMktJX3lkd3lJSWt5QVQyVmtnUXB6ZUdaS0VCajdBQmpKZFZaR1dUblZfeXZQMGlsUW8?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T07:31:27+00:00",
-      "summary": "美国少年杀死母亲、弟弟，被指用ChatGPT策划  凤凰网",
+      "summary": "美国少年杀死母亲、弟弟，被指用ChatGPT策划  news.ifeng.com",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "芯擎AI加速芯片“天工100”量产交付 千元级“外挂”让更多汽车落地大模型 - 武汉市商务局",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wYnlJbFhoQ1Z0V2Q5dXotOW05WXMzMkxCczNaMEx1TG9GU18tRnJLd1Zlb0VRMkJoTzNhTkw5YUhjTFc5ZmpvQmdRVWtMMmg4Q1RKb3VNV1RieTRtbWh5LXpOdG1oR0F0b0t1YWMxdDNodw?oc=5",
+      "title": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MZk04TzdlX1V2VjZucnY0XzVXbndvZUNyYWhuYk5UeU1BQWd2WkpJMzEwX0N1VXN6bU5iRWI4LWdkS3RfYVBpbng0dzQtN2FRQ1pBNGliSzdlTFE2NXFUbnl0RE1NOU0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-14T07:22:34+00:00",
-      "summary": "芯擎AI加速芯片“天工100”量产交付 千元级“外挂”让更多汽车落地大模型  武汉市商务局",
+      "published": "2026-08-14T03:22:38+00:00",
+      "summary": "谷歌AI急了！从创始人下场督战到DeepMind大洗牌 Gemini能否实现突围？  东方财富",
       "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "港股大模型概念股短线跳水，MINIMAX-W跌超11% - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KQl9RTnBHTEJVZUZIZ1ZMSTRkSlVJaW9qSl9MMHphSUdZTk04TUU3Z2tmLWxhOEl6b004d2RGdWd2ZTdFelNTNFd2ZXYwWnYzNURSTTByOFl1QnhOS2pqaFFiSXM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T07:16:00+00:00",
-      "summary": "港股大模型概念股短线跳水，MINIMAX-W跌超11%  新京报",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "用完千问智能体，我对\"AI Agent\"有了新的理解 - cctime.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50VnhPMnMzQ0l6dUhkcU96Yy1tT2t3X2NuMXYtU0p2UnVlZlJ6QlB4TElBamZ0SmlRS3RaY0tSN21aZU5JUE5USF82Zw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T06:59:29+00:00",
-      "summary": "用完千问智能体，我对\"AI Agent\"有了新的理解  cctime.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "曝苹果已与阿里合作训练大模型 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vZm1PYUlLMkg5LW5PcGQtYWNtVXVEWU5XRTRZei1VWk5BM0JpV0FZR0JZeUVSdUNsNDJtS3MxMlNQYVk3TFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T06:54:10+00:00",
-      "summary": "曝苹果已与阿里合作训练大模型  智东西",
-      "categories": [
-        "other_big"
+        "google"
       ]
     },
     {
