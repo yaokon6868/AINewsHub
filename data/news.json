@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-08-15T09:28:29.678581+00:00",
+  "updated_at": "2026-08-15T09:51:57.532114+00:00",
   "items": [
-    {
-      "title": "广东上线“Token贷” - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzNOUVNlTHNFWjU0WWJUUWVST3htVGFKaG1XOTJ5UVhmSXV5UWRRWXltWG9ISEpYVlZxREVvSXlVUjg0a2FjZmVHX2MydnBFRi1Ma3pfT1preFU1TW9Id2E2aUFYOURncklhYy1zdjRGOU9vbkVXVkRNYS1XVG9zUkJR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T09:26:31+00:00",
-      "summary": "广东上线“Token贷”  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
     {
       "title": "智能体成“逃课神器”？部分美国学生用AI代自己完成整门网络课程 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0VURyQ3QtRWN0QkgzdTROZ0I2SkRGX1NhQjhmYmcxb1d4Q1pFTjZFQzREb0VxWDZvb21LQU50ck9JNkhZekFlOHUwb25McFRSQjdlWEo3c0ozR3dnN2otbWdzanEzbHZDbGZMbGhDSVdmY19NN2NTeHA5eHFUUQ?oc=5",
@@ -19,6 +9,16 @@
       "summary": "智能体成“逃课神器”？部分美国学生用AI代自己完成整门网络课程  新浪网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "刚刚，Anthropic给Claude装了隐形卧底！全球生效 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVS0xcXB1YjFDSU83cTRoakdZZjFUajM1enZuVlkxTGpaSG04VlI4aUNXMV9ZRS1nQ25QcHFyWHhpd0I5OWRGTjlwRDRoMXAxSTR2M05pdFpRVV9VUzBxc0dJVGJ3QmM4amZZU09ucVZtVzhWY0VvdmgtVnhTZkd2bExaZG81RDBC?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T09:07:00+00:00",
+      "summary": "刚刚，Anthropic给Claude装了隐形卧底！全球生效  sohu.com",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -115,11 +115,11 @@
       ]
     },
     {
-      "title": "江苏发布高水平大学建设方案：将推动更多高校进入世界一流大学前列 - jsnews.jschina.com.cn",
+      "title": "江苏发布高水平大学建设方案：将推动更多高校进入世界一流大学前列 - 中国江苏网",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdE1pODQtRGp4ZXRIMmZwWnhZOFZqNzJ6eGZHUFE4SnRlV1BDdmdMWWFuVHlZNVZGME1qNE5xR3hBZkdIeTdHRE51LXUxRHgzZmtyVDVCaEM1MnJZcHN2ZklLeW4ydGphN0pvRGg5N0JsZERPTml0ckp5Uko5RHdINmk0TG5EZldqRkZJ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T06:32:00+00:00",
-      "summary": "江苏发布高水平大学建设方案：将推动更多高校进入世界一流大学前列  jsnews.jschina.com.cn",
+      "summary": "江苏发布高水平大学建设方案：将推动更多高校进入世界一流大学前列  中国江苏网",
       "categories": [
         "other"
       ]
@@ -250,11 +250,11 @@
       ]
     },
     {
-      "title": "谷歌将为Gemini上线Media Watermark开关功能 - DoNews",
+      "title": "谷歌将为Gemini上线Media Watermark开关功能 - donews.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12NUs2ZUVkTm1UMkRIWmVhN0VMOWdLRmNfSG03Y0k5ZVRiZ21QbVRMeHhyUUJlbURzSHdMNzdPWEdRRGQ4aHVPRTJsQ0ltdDNYaHpRYlR4RUFwdEFEdnc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T01:45:03+00:00",
-      "summary": "谷歌将为Gemini上线Media Watermark开关功能  DoNews",
+      "summary": "谷歌将为Gemini上线Media Watermark开关功能  donews.com",
       "categories": [
         "google"
       ]
@@ -314,11 +314,11 @@
       ]
     },
     {
-      "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUZSOXNBQVVKZEdnOVduMnFRN3ZXbFAxTXN0TjVoLVRfRHA5M01IeEl4OXdzNTQzM1pOdU5vaE1rN0JCUzlxRzNvUnZTaUVYakNqdGtjRGVlaF83OW1TbFFxYU9DOXZDOHMzdWZBaU5qMzgwQl9SQk9HSjNPbnZVcUhobzR1TFQtbDBNRw?oc=5",
+      "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbGFDSW0weUJacXZRWVFjTWdTNzVuM0NJaUlQNjJ4T3ltN1NIYkRnaFNBa2xXY0JlSU5TMGJtd3lzWk0xcDJOcVNIN00?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-14T23:35:09+00:00",
-      "summary": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字  sohu.com",
+      "published": "2026-08-14T23:22:19+00:00",
+      "summary": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字  凤凰网科技",
       "categories": [
         "anthropic"
       ]
@@ -358,11 +358,11 @@
       ]
     },
     {
-      "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - news.hubeidaily.net",
+      "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - 湖北日报传媒集团",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jckRnZTdibDJLdXQtUFVVRzg4V1M2R2xheWFiZ0ZRUUg5OWkwODJRS2dZSEt2TDJIRkpqYnBNblpLS2FkSlZsU3gxWGxFQ0MzNnlZc3FvdFU?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:28:41+00:00",
-      "summary": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端  news.hubeidaily.net",
+      "summary": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端  湖北日报传媒集团",
       "categories": [
         "tools_apps"
       ]
