@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-15T10:48:46.592437+00:00",
+  "updated_at": "2026-08-15T11:22:39.937379+00:00",
   "items": [
+    {
+      "title": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jb0NFSkVLS1NmbFpEUW1oM2MxSTRoVFdnVjQwZ2tuNGlNTDVIQzc0WUlRQk1iYWVXN1hPU3lEMzg4eTJXQ2JzR2dTNkdqbjh5Q1dDNXJKSUthc0tlc09OVlE0cGtwa0UxMWNsMlBmRm1mTmFnMF8zWjVJMmUxUFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T11:10:54+00:00",
+      "summary": "腾讯 QQ Bot 官宣接入 DeepSeek Harness：支持单聊 / 群聊，接入仅需 3 步  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
     {
       "title": "盘点2026年离职的12位OpenAI高管 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQkFBWV9DbGRQbVpod291eDdZT1RCLUxvRVZkTGVhV3ZUdFdEOU1icEZLYW85QlRIeE05UnNiMTJ2cXVwMHFsWEdsQ3J6eTNWNTctM085Z25qcktHTFk2SWtGY1FnbXplTk1id3ZCaGtjMXZwdXQxYzFVSmtKN2RPSFVBVlpKSm5SOEtyZ1lwcVIyNWJOYXdxMTNfdUkzTDRySUdLLXFaT3BPVkR5N2hwRGc2SlVHTzZ2cUZqY0VUZlE5LXBFSW44TWZZVTN4OGtiVFlkZjU2emxRSEdIQWhXSEtMRGU3WUREMmwyay1TRHNnYmRxUnk2X0k0T0FGY0NPMENKbFp5ZzFqX3Q0TVBYRUlxdUFUMzJQQ3R2dkhpOGd0US13cTFlNnhn?oc=5",
@@ -22,11 +32,11 @@
       ]
     },
     {
-      "title": "智能体成“逃课神器”？部分美国学生用AI代自己完成整门网络课程 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0VURyQ3QtRWN0QkgzdTROZ0I2SkRGX1NhQjhmYmcxb1d4Q1pFTjZFQzREb0VxWDZvb21LQU50ck9JNkhZekFlOHUwb25McFRSQjdlWEo3c0ozR3dnN2otbWdzanEzbHZDbGZMbGhDSVdmY19NN2NTeHA5eHFUUQ?oc=5",
+      "title": "智能体成“逃课神器”？部分美国学生用AI代自己完成整门网络课程 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Oeno4UmNZN3o1Nmo3WGtwS1llb2I2SWZRWnVlS0w5c0dfdnR6bFJUd25hcEpLVmktX2w5YUMybHBJZUMwaWp3RldGV2U?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-15T09:24:52+00:00",
-      "summary": "智能体成“逃课神器”？部分美国学生用AI代自己完成整门网络课程  新浪网",
+      "published": "2026-08-15T09:09:52+00:00",
+      "summary": "智能体成“逃课神器”？部分美国学生用AI代自己完成整门网络课程  凤凰网科技",
       "categories": [
         "tools_apps"
       ]
@@ -186,16 +196,6 @@
       ]
     },
     {
-      "title": "OpenAI研究员：100%代码已交给AI！Claude重写Python库 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmJ1OWdtWmFGeFNpcUU5YXYwYzg1Yk84LVNGajdnWUhYQ0V1dWFQNEwyY3E3U2dBV2pXaDZtUmsyT0VxQmdPWTRmMVYzWUlRUWJiQ2xkdjhpZDBBLXJScWtxdnpzR3U4ZnloT1UtSnRVN3hOa0RWTml1QVRMZVFQVy1SRlVfNjdD?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T04:57:00+00:00",
-      "summary": "OpenAI研究员：100%代码已交给AI！Claude重写Python库  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "新发布的DeepSeek Harness的五大创新及其启示 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53RG9vY3VFQ25Wb0I0ZUs5ejI3aFh4OEg3NGtzMGxVOGFYSmxlbml0aG1KSm9Kc2plRFBNM004ZmpDcklsLXYweUVVcm0yU2k4a3N3dnFxRXJZN2x4T3FCU09SMDY3UWR3TlE?oc=5",
       "source": "Google News - AI(中文)",
@@ -203,6 +203,16 @@
       "summary": "新发布的DeepSeek Harness的五大创新及其启示  53AI",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "张一鸣的10万亿参数大模型：还能跑赢时间吗？ - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OQWxwWURRaWhDVUdNcjVSSHNHck5MV0d2bFRzU19RWk5LODBnQUJjZnRtcWdOaVozMGFqRWFPTXVNN0ZvRFA5SERQako?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T03:26:00+00:00",
+      "summary": "张一鸣的10万亿参数大模型：还能跑赢时间吗？  凤凰网科技",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -227,11 +237,11 @@
       ]
     },
     {
-      "title": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型 - 腾讯新闻",
+      "title": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型 - QQ News",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JenJCczB3YWhIN1Y2bzdLTGFwRGlkTjY0Wk91VldwMmRLZ25QNHpiYk10dUlrMkpDZ2otRUdOTGpoN2VSdkFWaDd1V3BlNElJY1Y0ZEhRWlVxcHA5STRFajRrdUhPUU00R0pNRg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T02:23:00+00:00",
-      "summary": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型  腾讯新闻",
+      "summary": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型  QQ News",
       "categories": [
         "anthropic"
       ]
@@ -309,16 +319,6 @@
       "categories": [
         "other_big",
         "local_model"
-      ]
-    },
-    {
-      "title": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xbGFDSW0weUJacXZRWVFjTWdTNzVuM0NJaUlQNjJ4T3ltN1NIYkRnaFNBa2xXY0JlSU5TMGJtd3lzWk0xcDJOcVNIN00?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T23:22:19+00:00",
-      "summary": "388个PR全部AI操刀，180个已合并！Claude之父：程序员只剩下签字  凤凰网科技",
-      "categories": [
-        "anthropic"
       ]
     },
     {
