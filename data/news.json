@@ -1,35 +1,77 @@
 {
-  "updated_at": "2026-08-15T03:41:30.011817+00:00",
+  "updated_at": "2026-08-15T04:34:03.630161+00:00",
   "items": [
     {
-      "title": "三星导入Claude加速芯片设计验证，1个月的工作2天完成 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDNqaHlocnlIbGJzaTk4LTVSZGNLRVZDX3B2YzBtTVZKVENNNnl5Z0Z2U0prcnJUWFRSeXJCTG1TbTBJRXE0R0g3dExGenRyUW5iZGNIOUZSaXc1VHg2anR5MmUzTDFNV1laUFdvMFhubmo3R3RHRGp5WFNOU3RxZkNaQWFoN3Br?oc=5",
+      "title": "夏言：中共發展AI 對經濟和社會穩定造成衝擊 - ntdtv.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yWGtqclZINUxudHI2V094LWZNYUVucXZVZHlrWVJfb2UzOWE0WnpnNzV0VTdZcDZEUG9XNlQ5dTBGMUVpcUN3QUY1RXoxbXVqZE1JeFo2M29uV2hwWVV3RtIBZkFVX3lxTFBBYkhPTVZKa3dfaGhDcWN3aG43VE1KMjM1bFFwdDlhR3JpWE5EaEhFRFU5NEdsbnNyRERYRU9iWmlweHh1MGh4RE9nSkdKQ1JSbnYxMWpqYnQ2SnNwMGxmU1A5UnVEUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-15T03:15:42+00:00",
-      "summary": "三星导入Claude加速芯片设计验证，1个月的工作2天完成  Sohu",
+      "published": "2026-08-15T04:29:03+00:00",
+      "summary": "夏言：中共發展AI 對經濟和社會穩定造成衝擊  ntdtv.com",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "决胜边缘算力·突破脑机壁垒｜2026全球人工智能与物联网创新峰会重磅分享来袭 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PYzZ0OWlIRndSaFpZOXNKMWI0QzUtRjlUdlRrUUlDVWNHTi1wZFJqOG9wbjdvdGZwbF9NcVUxYzY0b0ExWkxhQWZNUEZkUU5mMUJF?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T04:19:00+00:00",
+      "summary": "决胜边缘算力·突破脑机壁垒｜2026全球人工智能与物联网创新峰会重磅分享来袭  电子工程专辑",
+      "categories": [
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "Claude文字水印细节全曝光，官方检测工具即将推出 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeDRrYnA2LVV2ZlRLdTdHSGVVaXBDVHllTGloR041cEpHazRacjhxWmhQWUlCdUgtMzM5QmMwSDJJS3hCdlZzZFNkanhiX1lhbjZ5UEZfTllSeWxXWWxZczY4UWd0bEVmYXozajh4eTNCSzNlVVhBZnVpVWVDNGVnM21vQWZmV1l2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T04:08:19+00:00",
+      "summary": "Claude文字水印细节全曝光，官方检测工具即将推出  sohu.com",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEs3N0lrUFpvMEVoR2lnenFvd3pOY1g4TUlOREE5cHlGRW5hMFlfNGVZaGJILWo2dkZoQ3N1V1cwRmFqd2dxNVBBUWdBUmkzWXdVcXVvdU44d3ZXZkxCdnExQm1FdVBWWGNnMVBSVXFYQVFTQ1pjb0V4MFYzcWp1d2tMVkxkWGpF?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T04:08:06+00:00",
+      "summary": "Anthropic水印计划引发争议 Claude用户取消订阅、考虑中国模型  sohu.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek-V4-Pro正式版、DeepSeek Harness上线超算互联网 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xVGVjaGFtTXIwTTUyNWpWcDBNYzhJc0xjMWJrbEFrcnh3RUJmSHd6Q3lSQVFXd0x5RzZPTFF2Uk5WS1hVbkpFZ2tSblA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T04:02:24+00:00",
+      "summary": "DeepSeek-V4-Pro正式版、DeepSeek Harness上线超算互联网  凤凰网科技",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "三星导入Claude加速芯片设计验证，1个月的工作2天完成 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWtGY192NXJoQWZoWnk1WDRaZDNDbF9oeTc4ZXg4bndWbXFGVklNVzJCQnYydGJtMVp5bk5VMklqYkVfd1YtWHhfdDZsbVM5YVJlZUFTdVZOcFdOVEwyMGVwRWJoUS1GNThPajBaMG1ZOWJpT25hWEhpaHhrQ0V5VFRSMlVYSzVGVm5sVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T03:21:00+00:00",
+      "summary": "三星导入Claude加速芯片设计验证，1个月的工作2天完成  sohu.com",
       "categories": [
         "anthropic",
         "chips"
       ]
     },
     {
-      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - Sohu",
+      "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWtfQ3RKdXdaUWhCY1RabGc4SU9JQ3M1ajZLRnd1U01IQ0tMVTBHcTFsM1FqSFB3aWpVTXJLcEhSZFNyb1pZcnZDbkJxUko5SjNNUFNtcW5sbVlnZERoQWZ4SDNGRWNGbVJBTzlSSDRrWkgxeUVRY2dDYmJGODl1MEE4T2lGcGxiY3lRYw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T02:46:08+00:00",
-      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  Sohu",
+      "summary": "辽宁发布首批20个示范场景项目 布局人工智能等赛道  sohu.com",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yV1JXd0ZBNG80em1ZNzF3QlF6U1BVWG03Vy04Mk1xZGY5MTYydVgzdmlJdndFMXUtc1RwdGx6WEpVdHJ4eW9mUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T02:30:00+00:00",
-      "summary": "苦等两年！ChatGPT杀入Linux，Codex上手能改你的代码  智源社区",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -44,11 +86,11 @@
       ]
     },
     {
-      "title": "中美开源模型大会师：Kimi、Qwen、DeepSeek、Meta和英伟达五模大横评 - Sohu",
+      "title": "中美开源模型大会师：Kimi、Qwen、DeepSeek、Meta和英伟达五模大横评 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVVhlRE0yVlBtYUM0ZVVGcDlYTDlST3pIemNHZmw5Z2NNUTN4MHVXU2NjdEF3bmRDS0hrU24zZ3dlQk5BQmViaUR6WUg1S1NZbTlsSTBXSzZFcHpxOFZLQzdndEVrTVlVTDBqUnZyNXhROUo0UkRtOHB3MkdiOE85cXFGWkduNkJ2SWxOUg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T01:58:00+00:00",
-      "summary": "中美开源模型大会师：Kimi、Qwen、DeepSeek、Meta和英伟达五模大横评  Sohu",
+      "summary": "中美开源模型大会师：Kimi、Qwen、DeepSeek、Meta和英伟达五模大横评  sohu.com",
       "categories": [
         "other_big",
         "open_source"
@@ -86,14 +128,36 @@
       ]
     },
     {
-      "title": "谷歌Gemini新增移除AI图片视频水印功能 3.7 Flash推出 - Sohu",
+      "title": "谷歌Gemini新增移除AI图片视频水印功能 3.7 Flash推出 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaV9mVkIza3Rma3hRQjBtU1lPbk1yaktWNnpteG9Ddm1VQzlhNlhkMzlhUmRuSmlkWGhodVFvcExDWThvSmo0V3VWT0R4cjdONWxCRWUyUk9TaG5IZmVYa1NCVG5KeURoRGl6ckFNRnJKZTVoVEFERnFac3hqaktESFh3TFlHYUVV?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T01:16:00+00:00",
-      "summary": "谷歌Gemini新增移除AI图片视频水印功能 3.7 Flash推出  Sohu",
+      "summary": "谷歌Gemini新增移除AI图片视频水印功能 3.7 Flash推出  sohu.com",
       "categories": [
         "google",
         "image_video"
+      ]
+    },
+    {
+      "title": "谷歌发布Gemini 3.7 Flash：专为编程与智能体任务设计 - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WThSUlF4VGZnYnFTNUt4TGF4UmFrZU9NU2JCTVpQRUsxUnl6UVhIZjFSUlR6aHFyd3pYUjdlNEl4SGV4OE9YMXBjc0hyWWVBSHlPWmcteVJDcUlxaWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T00:30:00+00:00",
+      "summary": "谷歌发布Gemini 3.7 Flash：专为编程与智能体任务设计  thepaper.cn",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek Harness，“杀死”Agent黑箱 - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NXVPZXozRHJuc0tyc29pX0FyVy1YS3JyeEx1clhfOHJVeGxTVmdhdUxJQVc3UllkRU5Ebkc2UXhIVmVuVzZqMnFlSnJnYXp3dG9qS2NzcU1LVmFFelE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T00:30:00+00:00",
+      "summary": "DeepSeek Harness，“杀死”Agent黑箱  thepaper.cn",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -118,24 +182,14 @@
       ]
     },
     {
-      "title": "DeepSeek故意做了一个难用的Agent - Sohu",
+      "title": "DeepSeek故意做了一个难用的Agent - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2Vpdm1Gd09SalVyS0U5Mjg5UUpiUmo1YzZSQkpKa01ReGVQcVIxZ0g5VloyMm8zaW1CbUZOUUZuSmV4R1JtekpJWlcwRTEyU1V4OXRuNUNiMndmd29sT1d0aVNoTEluMnVVREY4S2drTS0xRG5SOVZBay16bm1fS3RMVTdmeHNi?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T00:07:05+00:00",
-      "summary": "DeepSeek故意做了一个难用的Agent  Sohu",
+      "summary": "DeepSeek故意做了一个难用的Agent  sohu.com",
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "曝苹果联合阿里自研中国专属大模型；超3万美元追觅卖出首台手机 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUZIS0dqUno3bG1VTWthaXcxVGo2Sy1ZelpFelphTXU0ZDRQczh1Wi1ZMGlwOEN4a1RRSGkxSzlQcTBxd0Z3SjMxaHRNd3hkTFdPOVJjTUNXeVhmVlQxTEhLbEY5VmpaVVAxZzBsc1Noc1lZNTZyQWNKWHR6a0xtcE1SQ0VWcXU5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T23:40:17+00:00",
-      "summary": "曝苹果联合阿里自研中国专属大模型；超3万美元追觅卖出首台手机  Sohu",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -157,16 +211,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNnVuX1hqNDFNMTVNcXFibGlyYUx0QXpIVTZqVklCNVJsdUotNm5xZ1Z1NFB4S2JQUzIyc1NCZEdmeXJCVWZ2VmlnSXFMb1M5ZENoLTNtaFkxaEpGZWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T21:33:45+00:00",
-      "summary": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷  InfoQ-CN",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -193,17 +237,6 @@
       ]
     },
     {
-      "title": "谷歌发布 Gemini 3.7 Flash：专为编程与智能体任务设计 - 至顶网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15d1NmR1A1a1ZscC05dHRHOEFUdlctNEZDaS1MNVVpbTJLT1JlbDVqeFZOb05RR3k5OWs3ZFNlVGhqelBhVXlZVW9YbUdMSGktbUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T15:39:30+00:00",
-      "summary": "谷歌发布 Gemini 3.7 Flash：专为编程与智能体任务设计  至顶网",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学“待解列表” - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DMExDTXJUcDJobVM5X0lRb21sbXgzOEo2ZE1FQnA1bnI0bGV0QUlHQkxBSzlvNk5YeGNEaVFNY1E1aWFEZmlsMg?oc=5",
       "source": "Google News - AI(中文)",
@@ -211,16 +244,6 @@
       "summary": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学“待解列表”  智源社区",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "国内首款车规级大模型加速芯片量产，定价仅千元 - 长江网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EOEdYTThnakQzd1lZVXU2UjFGNTVCVURuek9iTjBsR0J3anpyNnpLUEJFbV9TYlloYW1YaGRKVFRldmZ6R3BrRWVLTEk5cURndm1DM09LNnhkTE55bHYwbWF3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T12:22:00+00:00",
-      "summary": "国内首款车规级大模型加速芯片量产，定价仅千元  长江网",
-      "categories": [
-        "chips"
       ]
     },
     {
@@ -254,11 +277,11 @@
       ]
     },
     {
-      "title": "AI赋能充电运维，领充智能体1.0重构运维新范式 - 国际充换电网",
+      "title": "AI赋能充电运维，领充智能体1.0重构运维新范式 - mchd.in-en.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQnVTZUgxcjdPazR1T3A0c3JEbUlSSXdtRHhnWWRYM1huYkFCQWpVbS1aRjBhdUk1ai1JbUZncnlWTkZyUFdBSTBJZmdpY040MGRnTHJFSTM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T11:39:15+00:00",
-      "summary": "AI赋能充电运维，领充智能体1.0重构运维新范式  国际充换电网",
+      "summary": "AI赋能充电运维，领充智能体1.0重构运维新范式  mchd.in-en.com",
       "categories": [
         "tools_apps"
       ]
@@ -285,17 +308,6 @@
       ]
     },
     {
-      "title": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfRmIzTGxhejlKM2xUMll0Wm5fSDdGWFRLOUJQNXNQV1VxbnNEdTNLd24tUk5IYkhKR3pHX2N0dUY5aW1hSElxVkxCT3V5V1R3NC1v?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T10:29:00+00:00",
-      "summary": "DeepSeek Harness横空出世 彻底打破AI Agent黑箱困境  36Kr",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "不追大模型热点，这家OPC企业上线近百款岗位智能体- 湖北日报新闻客户端 - 湖北日报传媒集团",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jckRnZTdibDJLdXQtUFVVRzg4V1M2R2xheWFiZ0ZRUUg5OWkwODJRS2dZSEt2TDJIRkpqYnBNblpLS2FkSlZsU3gxWGxFQ0MzNnlZc3FvdFU?oc=5",
       "source": "Google News - AI(中文)",
@@ -306,23 +318,12 @@
       ]
     },
     {
-      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - eet-china.com",
+      "title": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？ - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4TmlTWFU3ZlRBR1lnLUh3TTJ0WlRjSUlFQ3d2ekUwS3NrOHBmbzJUZmtyVEY3UzBTMVFLdUVZekhFZ1Foa3ZGSjVOR19nS3ZVZmRv?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-14T10:02:00+00:00",
-      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  eet-china.com",
+      "summary": "直播回顾：IC Coder如何让AI智能体进入FPGA研发主流程？  电子工程专辑",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？ - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gb0Rxd29CNk9KdmF4U2FGWVo1bGgyRVFaY0hwSVZmYzlSUGpIbFhFQ1RER2NQZEJwRXY0aXZiVUN4NUhIdWF4Q0s4TnRQWkJZSm4tVnN5MnVGa3VPaHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-14T09:43:00+00:00",
-      "summary": "DeepSeek智能体框架开放测试：Harness是什么？有什么特别？  thepaper.cn",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     },
