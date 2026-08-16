@@ -1,64 +1,138 @@
 {
-  "updated_at": "2026-08-16T03:50:17.062525+00:00",
+  "updated_at": "2026-08-16T04:38:00.942356+00:00",
   "items": [
     {
-      "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdzVXOXJDczdzYUFFUi1yZmJ3aGJOUnhHTDk1cWQtdk5KSGVEU2RvRTJ0ekpfSjBmUV9oMUlMeHh2Rjh6SmkzbFNBZS1vWTFkQ21kNE1UeW5FTXdUUTlMZUpsRFh0TUFRSGx1dU90TGQ2YVVjOTAwbkdodmhPNmlqRXN3X0NfakVjclFhYTVRc2NOaUI2N3M5X2hHYnBzTXJLbW5KNEcyVkJzWjBhYVp0cTlqMGI1Rzhzc3hFakJzNE12aGk1ZUdXbkw2ZnROZHI5X3VRa3ZCSmhvMjJ2SGt2SzBKVkhzamJxTHVTN2RrZE56SlNOU05vM1J0MGtDSGF0dWVKNjRpN3M1NWVocXZjT1ZGUWJrRWxfVkhFN3c5VlhuYUVsbHJkWVZwdnU4Nk9tdXFV?oc=5",
+      "title": "ScienceDiscovery发布：零科研幻觉的一站式AI工作台，BiomniBench-DA验证效果业界SOTA - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLeXc3TUM1ejdmNHc4d2RacFEySVQ0V1MwS2pJNkNfVWVMTXF2RWtJMUNULWlwS0FrelJOQ2I5dUJKOF9jc1hFd2Zybld2RlkwRENxZDJKRE9UcUg3d0lzUUhNWGZZN1U5eWwxTGZLT3p5VE55aE9PRkRJd05HbHc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:49:00+00:00",
+      "published": "2026-08-16T04:27:41+00:00",
+      "summary": "ScienceDiscovery发布：零科研幻觉的一站式AI工作台，BiomniBench-DA验证效果业界SOTA  k.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "有AI功能的手机推荐哪款 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzl0U1liUEhNWFdMU0QwbDJheGRzdzN0blhKRTNJd3VIZ3hKVktaT2M2T0d5cFVteTZzLWsyaUlqQUp4cEhpY0N6RVZ5d3JwUmxKUVp3eXlZekctOU9sdTdLX3BDVzhjYlUyVkdyMW5CeTc5bFREeFNtXzBiSDZkcQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T04:19:00+00:00",
+      "summary": "有AI功能的手机推荐哪款  k.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI深入医疗领域必须跨越哪些门槛？专家提到了数据安全、算法偏倚等 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZR1ZoeU5ZSlZRaGtQc1phUzFqRDZpbDZoZ3N3Sm5yTWktUUstTlFtRzlmTWoxVm5WZmhyYW1yeFVOc05BZU5kY1czVXBwdHRMV2Y5TzZpWFg1WmF6ODJpN1RDQURXeDZBS3pPLTBKejNUUmxSc2hpbzVpSnNCaHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T04:13:09+00:00",
+      "summary": "AI深入医疗领域必须跨越哪些门槛？专家提到了数据安全、算法偏倚等  k.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "实测DeepSeek Harness：梁文锋把智能体拼成乐高 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjhjdnVOa255bTNFejk4RE13c2dqQmxsTnpiNnVQZDVCV3dHQ2Q2bGQ2NjlqUHdxVV9JUXJUYU5SZ2poa1JXbU1rbHdFalZhdDJfLTZmUlJPSUNaYWQwYnNvT2JxRFkyem1CWWlaLU8yMUpUZ0hCaXJaR19YTFhCTEZXbDBfbDFY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T04:12:01+00:00",
+      "summary": "实测DeepSeek Harness：梁文锋把智能体拼成乐高  Sohu",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54RkdPLXBpOTcxTGhfaVFucEFhc3VnNmdOUEtLdURCS2RDTzRfU0xUNnBwaHZENEJYVzY2QzFBQ0QxemZWV3ZqRXNjVFEzbzlTVktQbzNmODdUT3Q4ME9kZjYtLUNoNHpHc2trTjBkUWVfNVJaemhYcHk4cHFTc1k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T04:07:30+00:00",
       "summary": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型  新浪财经",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "AI深入医疗领域必须跨越哪些门槛？专家提到了数据安全、算法偏倚等 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHM3dlFsXzJ5UWd2WGdiNmdMenlKMlVYQWRvdGtOek9VakpvWmozZEVvMlVtQXd5RkhkeVRJNVR1Rm5YUUFVNWlYOWJGWG5Dblh1LXZoU0JJQjBVYWhWTDl1X0xTeTlBOTg0RERMcGpjaGNsbzVWWHVRWFNNTUluMjRzMHE1ZkFH?oc=5",
+      "title": "全球首例：人类员工因23 个班次迟到17 次被“AI 老板”开除|Anthropic|Claude|IT之家|管理|模型_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOU2IzUFBoX19OM3d1YzY5NUVsZHV1V2VRYWNoM0ppdUFfRHY1eVRudDdSc0tQU3lQS1RwR2FZa2hGdlR2Zjh4LUlsUVlkWkt0c3h5ZmZBc1AwWkl2VVc3X3pzYVdLRXp2RjlXUENWcXdHeFE5TjRDQ1VzczZEYU90NG8tMXN5UTRDLURBQWpJazY4aUhGQkhYSF9DZXd1NWwxRkZmZHJxTEYxZFcwQllkazR0S080YjFhSGU5M1FjREtmVjU1QW5JeS01cG5zeDgtQjQzdWw3Szh6dkxMNjJxZmV1NDRGUzFkcmRIVWpqUWVtT2NYYnNSMURXMU9fYjFZUndrTFhSLWpUMFpMTHBSdlNNR0EzaFRhM0h4VFh6ZG1waV93QlBLeUYySXFmZEt6MDE1bk9PZjZkZ1BB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:48:55+00:00",
-      "summary": "AI深入医疗领域必须跨越哪些门槛？专家提到了数据安全、算法偏倚等  Sohu",
+      "published": "2026-08-16T04:02:06+00:00",
+      "summary": "全球首例：人类员工因23 个班次迟到17 次被“AI 老板”开除|Anthropic|Claude|IT之家|管理|模型_手机新浪网  新浪财经",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人民日报头版刊文：浙江在科技前沿领域加快突破 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWZmUzZhSWJ6c2pyV2piczc1R3RncnNOdjBDRlRYVGZ1MS10VG9YS2tuNHJmVV90Tk1pbXFyZ3dkM0RrTFRWLXRzME9Ma2dZY0dtN1M2SGNNVHlxMTBBdjRKa0pHNEwtVXZ5cm1DLVhRTjNzX0VrdTlXYVE3eEw0bDF6Z1RWbWVuLUhiMncxQ2lWejcyUUtlWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:35:14+00:00",
-      "summary": "人民日报头版刊文：浙江在科技前沿领域加快突破  新浪财经",
-      "categories": [
+        "anthropic",
         "breakthrough"
       ]
     },
     {
-      "title": "生成式人工智能系统应用员竞赛举行 - 昆明信息港",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xTk1vUjZSN1JxYVYwb1JnUlJYVUtzd2w0VWZLQ0ttTnJhS1BfbTdKWVRnRXhGNWk4R2daUlJCcG5CTDFLSlhsVHk0bWtDQWFKSXl1NmRtY3RFMzN1UmVDNC1XTQ?oc=5",
+      "title": "人工智能产业日报(08.15) : AI安全治理 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbVF3QnNMNjJSLURlN2VNWkJpc3ljRGI2alNtYXZaSmtfdnlxVFhGSFVrM01zcXdtWnRBaTJfeG5RaUpkUlVTWjZ2bFFnM25HWS1PUEpyS1dpYnZUdlNxa1lXUmlfQWhOU0V6ajhMSm1mOXZBcTdUaTNGV09mTFFKd1VibW55SDJx?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:25:57+00:00",
-      "summary": "生成式人工智能系统应用员竞赛举行  昆明信息港",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "GEO团队推荐选型指南：深度测评与选型避坑清单 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhQ1MzQmhpR00zdkxXNFIwUFNwR0Q3T29wZloybXB0ZGpKMDVmTEZjWW1rRnJOU2wzX1V5bEN1bWNLLURham1VLU5qdl9aczlU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:15:35+00:00",
-      "summary": "GEO团队推荐选型指南：深度测评与选型避坑清单  凤凰网",
+      "published": "2026-08-16T04:00:00+00:00",
+      "summary": "人工智能产业日报(08.15) : AI安全治理  Sohu",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "AI搜索好用的手机怎么选？从500元到万元档一次说清+FAQ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEQ1Rm9VWjM1eDQzamk1dUFFODFGN0JTOGdOTFlpckhNZVFhVEtlNGZSUDVvTUFNbEpPNUJiTS1aNE14YTBDTnVnVGVRMlVZZWRlYU9mQ3pSOWxnVVNrTUZqbTNoX3RyN01MZS04Y0xLZG51Qnpuclg1NXBJN2VONw?oc=5",
+      "title": "#时代少年团用DeepSeek写简历 不愧是#时代少年团 ，善用高科技，高效又快速！#这是我的西游 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1VqdUtrN2dnWFB6dFJnR3NlRFNHYk9vZXRxRTc3bldqeW5wcTBnRmUtSEdITUREUm93VmZEOG9iVG1SQ3RhclNqRUkzYThhY3lBV256T1FINmZfa1psREJxc1duWFR2QnFCYXVQM2s5bFY1NEZrSTFNbmFnMXNmLWpaY3hMOUxHWEM4QQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:12:35+00:00",
-      "summary": "AI搜索好用的手机怎么选？从500元到万元档一次说清+FAQ  新浪网",
+      "published": "2026-08-16T03:59:58+00:00",
+      "summary": "#时代少年团用DeepSeek写简历 不愧是#时代少年团 ，善用高科技，高效又快速！#这是我的西游  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "两岸青年企业家齐聚昆山，共逐AI浪潮 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWlZeDJsLTFqbHdIWkRuQ0dWY1dPZXNyVzA4MWh0QUVjZ2Rfc2JmeV94SThQRVptSHJhNzBfbWdkcjJodHM3dzVpNzlZMTRGU3FmYmhja0U3NlpxVkRRR19NVW03dUE1WmxoRHllRGZkYXNSUXpWbHF6QVdyTFBRRFhwMVhtamxPdDJwZVlB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T03:59:10+00:00",
+      "summary": "两岸青年企业家齐聚昆山，共逐AI浪潮  Sohu",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "【视频】十万块的车能把AI大模型搬上车？坐进去我直接不想下来了 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRWNaNnVETUNXTy1sOHJOUXkydS05aWNrUnNMRnVla2w0a0VGd1BhUWhTcEl0NmFHZnJXeGxiOWM4VzA5aC1VTmFQaVl3ekgyNWZLNjJPRWhhU1E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T03:52:53+00:00",
+      "summary": "【视频】十万块的车能把AI大模型搬上车？坐进去我直接不想下来了  汽车之家",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "当AI造假骗过了马斯克 我们如何练就“火眼金睛”？ - hb.dzwww.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01Z2htckVjS05pZWVlRVVPZlpBeHlpNDNxaG5nLU56ZFB0ZTFNQ0JKaWMzUlFMQkJtNmp5dmU4UGRESzd0WmxWX1RHUTRkTnFN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T03:44:00+00:00",
+      "summary": "当AI造假骗过了马斯克 我们如何练就“火眼金睛”？  hb.dzwww.com",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "《Rideshare刺激模拟》充斥AI生成内容 ChatGPT取代首席编剧职位 - 3DM",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aeU5XbGVuT3V6NW9URHdDWUFtakIzLVJfU05xXzZ4ME9henRTcDlvR0RBM0xQS0FuamtjMFVZZHJIRFQ2YmFrQ0VsSkVweWg5X0xGZUJBTXdXSy1L?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T03:32:13+00:00",
+      "summary": "《Rideshare刺激模拟》充斥AI生成内容 ChatGPT取代首席编剧职位  3DM",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "华为官宣昇腾0 Day适配小红书开源大模型dots3-note preview - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MSXNqR3pXb2J2cGVES0J0WHhqaWNLakhSMk5hX3U1UVBuaHhGR0NtUFhhQzA0WlZsajg3d3I1NEtWLS1yTTlyZFc5a1I?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T03:12:08+00:00",
+      "summary": "华为官宣昇腾0 Day适配小红书开源大模型dots3-note preview  凤凰网科技",
+      "categories": [
+        "other_big",
+        "open_source",
+        "chips"
       ]
     },
     {
@@ -72,31 +146,11 @@
       ]
     },
     {
-      "title": "AI讲堂赋能实操体验 杨浦让实用技能扎根民生 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JUXBzTm9SX0pyTDVxLUZ4LWI0QWVjZHZDMlVzWFZaZDRZMTJhSEV3STdpa0d3WmY2Y2VRWmtDZlAydFBmVXJNTkp4UmlHaHFJbU43TU56RGh1UEstVnN0dWtydWExb1BjdDdwY3RTdFFyOEpoSlpacWhET0JzNUE?oc=5",
+      "title": "Anthropic 发布 AI 风险报告：旗下智能体出现互相争夺资源，刻意隐藏违规操作 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHY5Vlg1dXV5aWhiRXo5V2VJTDRSbnJscUZ6X2ZfcWFLRmczY3F0NHNvdUVobU9NbDVCNTVQLW9BQjJ6Y19CRHNnRllOYktMUGNKb3g0OF9KRFpQS3hfVHplVmdyRm5BcDU3eTA3X2pSeS1Bb25NalJKemJHMHFMdnFoa2Z2aGRFWTRnYw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:07:13+00:00",
-      "summary": "AI讲堂赋能实操体验 杨浦让实用技能扎根民生  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "当AI造假骗过了马斯克 我们如何练就“火眼金睛”？ - 新华报业网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDQ0VfUWhDbnlsUWVRcTJvOENETmgxQ3VIR01EQ0praS1DS0tNbXQtT0xDVjZiS3UxZTFvODNSNjRCMzUtLWU3U2NhRjJiVnFXX2h4SzRoMjNVNlppZ2xvbWV3dktWa0NrdV93?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:07:00+00:00",
-      "summary": "当AI造假骗过了马斯克 我们如何练就“火眼金睛”？  新华报业网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "Anthropic 发布 AI 风险报告：旗下智能体出现互相争夺资源，刻意隐藏违规操作 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lYmRESHl6VWIyVlVZOGhCQVBZc084dnFVQ1U1MWZaZTR6WnRZbTZGZXRyRF8wSkFkb2ZwUHFPcFZ5czhobHF6TTV5aEZfemptS1lBV1d6MGplWWZ0S0N5WmhWUXdmWGFuWU45MlJ0RHZJRnl1Vmp0dlg1MEVYM2s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T02:54:59+00:00",
-      "summary": "Anthropic 发布 AI 风险报告：旗下智能体出现互相争夺资源，刻意隐藏违规操作  新浪网",
+      "published": "2026-08-16T02:49:44+00:00",
+      "summary": "Anthropic 发布 AI 风险报告：旗下智能体出现互相争夺资源，刻意隐藏违规操作  Sohu",
       "categories": [
         "anthropic",
         "tools_apps"
@@ -133,11 +187,11 @@
       ]
     },
     {
-      "title": "OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮怪物对话1秒打开 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BYnVkM1MtR1JyQ3MxSEVvVElKdzg3Z2VUQUxLaGxUM2UwQzhwU1lSYzk5Wkxzd3BxMUJ6TzBSckloUHB0LVIwclZwUnU?oc=5",
+      "title": "OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮对话1秒打开 - QQ News",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqRXc2N3RMdENRQVplNUwyY3RLQXVJYXpZanJ2V0hqaW9peThSdTBUc1k5aFlDZ0xmTUxld0lQcUxxNVVwRWRkZlVXbkNkNTg5anJZd0ZVNzM3UENVd0RIeFphWkc0SUJvS2hBNA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T01:07:00+00:00",
-      "summary": "OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮怪物对话1秒打开  凤凰网科技",
+      "published": "2026-08-16T01:08:00+00:00",
+      "summary": "OpenAI提速狂飙16倍！GPT-5.6多智能体V2上线，741轮对话1秒打开  QQ News",
       "categories": [
         "openai",
         "tools_apps"
@@ -185,28 +239,6 @@
       ]
     },
     {
-      "title": "昇腾0Day适配小红书最新开源大模型dots3-note preview - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvMDZTWEtkX19STkQtaDJidEx5QmNmLTUwWHZVQlUycF9xU1ZVeXRzSWhIT1NCTWFIZ19XclRmd25WMkc2Wl9IZ0U4RQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T23:40:40+00:00",
-      "summary": "昇腾0Day适配小红书最新开源大模型dots3-note preview  新浪财经",
-      "categories": [
-        "open_source",
-        "chips"
-      ]
-    },
-    {
-      "title": "Anthropic报告警示Claude智能体出现对齐偏差行为 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tY3A4cXlfb2ZicDUtY1ZTay03cnVrRTJRT3A4N0RxQmsyd3kycVUyc0I2QXZzTE9hRFl1bnpiMGJIel8xZExrWWE3T25tS2ZrUmpIWkpEMklfeFlYRnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T23:23:03+00:00",
-      "summary": "Anthropic报告警示Claude智能体出现对齐偏差行为  DoNews",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnAyRjBTZy1iRWdmS0Q5Q1FRVTdsaXM3eDRqWk5lYk1NaDJlN2NWLWREWF9zcU11STV3MVlUSm1NUnAwZjE1elREMnRmSFNrY21SU3M0WGxqeW5ULVY4cXliblpVTVRqZDhqZFR3M2RNTWR4MFZteFNVdUt2WHdrTVhtSzBKQXdTVjFjeFgxUlp0THpBb1pGZw?oc=5",
       "source": "Google News - AI(中文)",
@@ -217,42 +249,53 @@
       ]
     },
     {
-      "title": "努比亚手机怎么样？AI智能体、真全面屏还是性价比？三款热门机型横评+FAQ - 新浪网",
+      "title": "特朗普发布人工智能合成图，与华盛顿并肩骑马并谈及金正恩| 乌克兰新闻 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNzM1RlpyUmNtVm56d0VieHZGZW1OdDYwT0NoX0R0NXNvZV95RktZU1doMnJ4SFhhT3ZLeUtYTXRNX0Yzc3dYdkx3U21OVHE2alJzSUlpRGtBOGxsY2FDaHR3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T20:42:00+00:00",
+      "summary": "特朗普发布人工智能合成图，与华盛顿并肩骑马并谈及金正恩| 乌克兰新闻  Межа. Новини України.",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "努比亚手机怎么样？AI智能体、真全面屏还是性价比？三款热门机型横评+FAQ - k.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3JySk82dVdfcTRvLWtWbUdjTjNxWW5sa1ZsTFdQMEV6YUNWZDlwT2h1NTFDVGtIQVpZbXlqbHl2aG5ocWVUbUN5aWlwZ1h2dmZkX3V1V1lOQ1FILTZXd29KRjJ2bGNVTWRoM2NxdkFXNk03dW1nS0ZNZFdVdUlvdQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T19:04:23+00:00",
-      "summary": "努比亚手机怎么样？AI智能体、真全面屏还是性价比？三款热门机型横评+FAQ  新浪网",
+      "summary": "努比亚手机怎么样？AI智能体、真全面屏还是性价比？三款热门机型横评+FAQ  k.sina.com.cn",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "全球首例：人类员工因23 个班次迟到17 次被“AI 老板”开除|Anthropic|Claude|IT之家|管理|模型_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQTk4dkU2ZEs1NkpHdl9kVjBPYXRmOWNMOU8tbUNWblpBZm1fLVBPdlp2a2NLZXBFa3puSXVfbjJsUjlDSFBkRWVMeG43R0tKZm0weEdGN0tqeGE2T3dvSE5QSWZ3elZNd2h0UEQwU1VRV0V6ZW5BWTZOVHVZdzRzQ1NGQ2VJZGt1R05zUVhrekpWQzRTb3E5MmluSFRDVkFuTDJzb2dzRWhWSU1ZRC1pdHdBaThobGNTdE5RTnU3YVoyVVlqYm45NmxZc3JGTHVhZjdrQ2ZneENuUTZPZGxhcXNnWXl5dlpWUDlLYVBrWmtrM2RkZVhxQXJZbmkta0EzeVZTaXBXQzEtbS1hZ3JFNTI5MllvRlBLNDVxbTlQVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T17:41:39+00:00",
-      "summary": "全球首例：人类员工因23 个班次迟到17 次被“AI 老板”开除|Anthropic|Claude|IT之家|管理|模型_手机新浪网  新浪财经",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "苹果与阿里巴巴合作训练的大模型有哪些独特功能？ - 新浪网",
+      "title": "苹果与阿里巴巴合作训练的大模型有哪些独特功能？ - k.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pY2hmMEh0SUZLUFNPblhmNkZiTDJsRVFHc2FmMnJpUHhrMHF1NXVEUE1qSVg2TVd3R2FtTTRqT3dUT3phejVFQ3pNb2tGMGhZMmlSZW5BdmNRdGlVbjVMeExFTnB0QnkwOTBLSkNzOVBTWU5UenhEVHNMaHMwYVE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T16:47:38+00:00",
-      "summary": "苹果与阿里巴巴合作训练的大模型有哪些独特功能？  新浪网",
+      "summary": "苹果与阿里巴巴合作训练的大模型有哪些独特功能？  k.sina.com.cn",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "Anthropic：Q2营收同比暴涨14倍 - 新浪网",
+      "title": "英伟达的开源模型和GPU巨头的算力棋局 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZHhZd3Z4cWhLZ3pBeC1VdzUyVUpSUXNaQVNWNGhUZF9LOHRxM2ZyNWVTb1FiTGNBZ0RDam5KX2ZxUlVlTV9pWVItNnFqOXFqaS12Qlh0N3h1TzVNTzBaWA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T16:03:39+00:00",
+      "summary": "英伟达的开源模型和GPU巨头的算力棋局  东方财富",
+      "categories": [
+        "other_big",
+        "open_source",
+        "chips"
+      ]
+    },
+    {
+      "title": "Anthropic：Q2营收同比暴涨14倍 - k.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0Q3TDROeVhMeXYwcEt3bVFpREpxM3FPSjBRS3UzeVc1NUc0bW4zcGtjb0tpcDRoWTJXa3AzOFluQVdWZHAzZ1h3S05KUUZHenBhREFDNGY4cW9CUE9oVnNGanE4dllXUnJnQTRkcEpLX0ZRSlVxYnVsMGZVRThKRkdR?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T15:40:41+00:00",
-      "summary": "Anthropic：Q2营收同比暴涨14倍  新浪网",
+      "summary": "Anthropic：Q2营收同比暴涨14倍  k.sina.com.cn",
       "categories": [
         "anthropic"
       ]
@@ -278,17 +321,6 @@
       ]
     },
     {
-      "title": "128K长上下文+智能体强化训练！LFM2.5-2.6B解锁端侧大模型高效部署；DETR用Transformer斩断NMS与Anchor，重塑目标检测 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XcWxPWW1LT1AyTmp5QWplUXNyWkh6VklHdkVrTHUtZGdFczBNWGgwd085Y0F3ZzJ6ZnNucFVTVFRQclBmZ0U4Vg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T08:20:00+00:00",
-      "summary": "128K长上下文+智能体强化训练！LFM2.5-2.6B解锁端侧大模型高效部署；DETR用Transformer斩断NMS与Anchor，重塑目标检测  智源社区",
-      "categories": [
-        "tools_apps",
-        "local_model"
-      ]
-    },
-    {
       "title": "Token能贷款了！AI产业迎来全新融资标尺 - 21财经",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkg5LWFuNHJCWlFkMUZHLWdoc00yMVdaaFJ5c0lfdFN5ZFU5eW5ZSmMtaHlkNURfWU4yN1NpWWphVzh0YkdqN1RIVzJQZS1wSXhqbGlQaUNWN1F5NFJTTmVFUlVIY1N0QVRDcVRIenNwLWpfVVk0TnY0c3VNZG43eEdfUzUzUEt4cGhrMg?oc=5",
       "source": "Google News - AI(中文)",
@@ -296,37 +328,6 @@
       "summary": "Token能贷款了！AI产业迎来全新融资标尺  21财经",
       "categories": [
         "breakthrough"
-      ]
-    },
-    {
-      "title": "Claude隐形水印被光速破解，GitHub一天狂揽2.6k星 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzemU1aFU0dlpoblhBUFFSZ0thUlJaNVRzeGY0U1ZqMXRCeGVmZnZZUXRjSkNHNDhwV1o1UmlwZ2ZEWXB6Q3RHXw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T07:30:00+00:00",
-      "summary": "Claude隐形水印被光速破解，GitHub一天狂揽2.6k星  凤凰网",
-      "categories": [
-        "anthropic",
-        "open_source"
-      ]
-    },
-    {
-      "title": "IBM牵手OpenAI加码拓展企业级市场 AI模型引入更多业务场景 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxOEQySTlIWmpmWGZnRzFhNlE3blQ4b3NlWEF1eGYxYW1McW0xaTJYelQ5SkpuOHBzcFpEWXNxT0dvUGtLMHFYQ0kwQTlyOV83SXItcVVlemdJNXc5TGJ1Zm9iX21wdndfTi1vUEVvNFFybGJUc203M2pLWXBYZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T07:18:47+00:00",
-      "summary": "IBM牵手OpenAI加码拓展企业级市场 AI模型引入更多业务场景  新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "当“智能体”遇上智能体，泰钽700交付世界人形机器人运动会 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPZjNNZDJXcERpTi1ycjlBdXJwcDN3bW85eEJoa05ZRzgxQUZBakx5X2VTX0dJQ0VpdThWMW9kN1haNTFoNi1wVk8xWEFMNlgxTGJkRkJMa0tmdFMzQk5Vcy0zR3NlX2lmUlQ0eQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T07:16:23+00:00",
-      "summary": "当“智能体”遇上智能体，泰钽700交付世界人形机器人运动会  中华网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
