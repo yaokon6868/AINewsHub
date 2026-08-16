@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-16T09:53:45.896507+00:00",
+  "updated_at": "2026-08-16T10:25:57.281314+00:00",
   "items": [
+    {
+      "title": "王晓波教授团队发布大豆垂直大模型“丰菽”2.0 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUYwLWdUbFBMV0plNndXVnFCTUtOajcyUzRjWW9Dbjh4OHdtT1Y4SVZqcm5FYU02VmZOekNkVmhXeFZXNExpcVZUc0dCZ0Y4ODhQNHZYYm53TWY0NlZ2RnhiYzVuZUczaVlVUGdkQkFLOXBNbG1qTEsyTnlkMkZFTGlILVQ3MW1HZnJQcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T09:49:00+00:00",
+      "summary": "王晓波教授团队发布大豆垂直大模型“丰菽”2.0  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "合肥获批建设国家人工智能产业创新应用先导区 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1U4RmVRLU9zOXZHM01TZ252SEluaE55S3BxVXBqZjVUMzJKWnRiVUEzb2M5VEVsUmtYQUQ1YWhpSThBeGNmdl9YWDJBZVNoODBWcnVkMTltaWtaUGJxRTZsb09lSk1xNXMxQ1V1S0EyZ19yVlRQRnhONnZyNzhsdDV6V1g0M1R4Vk9TanM5MzV3ajRxN2UtYg?oc=5",
@@ -269,17 +279,6 @@
       ]
     },
     {
-      "title": "Anthropic报告警示Claude智能体出现对齐偏差行为 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tY3A4cXlfb2ZicDUtY1ZTay03cnVrRTJRT3A4N0RxQmsyd3kycVUyc0I2QXZzTE9hRFl1bnpiMGJIel8xZExrWWE3T25tS2ZrUmpIWkpEMklfeFlYRnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-15T23:23:03+00:00",
-      "summary": "Anthropic报告警示Claude智能体出现对齐偏差行为  DoNews",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "辽宁发布首批20个示范场景项目 布局人工智能等赛道 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnAyRjBTZy1iRWdmS0Q5Q1FRVTdsaXM3eDRqWk5lYk1NaDJlN2NWLWREWF9zcU11STV3MVlUSm1NUnAwZjE1elREMnRmSFNrY21SU3M0WGxqeW5ULVY4cXliblpVTVRqZDhqZFR3M2RNTWR4MFZteFNVdUt2WHdrTVhtSzBKQXdTVjFjeFgxUlp0THpBb1pGZw?oc=5",
       "source": "Google News - AI(中文)",
@@ -342,11 +341,11 @@
       ]
     },
     {
-      "title": "Anthropic发布186页风险报告：Claude安全漏洞浮现，最强模型限制开放 - 麻省理工科技评论",
+      "title": "Anthropic发布186页风险报告：Claude安全漏洞浮现，最强模型限制开放 - mittrchina.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kSUFiRGhkdnNXQy1GUzFydWs2S29aVEJ2b3hscUtfRUdJaE5OTGQwNWJjWGRoVzJBdWJYdVU4NDl3VmdEZzY3bDBUMlhsYl9VSG1Uei13NA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-15T04:56:52+00:00",
-      "summary": "Anthropic发布186页风险报告：Claude安全漏洞浮现，最强模型限制开放  麻省理工科技评论",
+      "summary": "Anthropic发布186页风险报告：Claude安全漏洞浮现，最强模型限制开放  mittrchina.com",
       "categories": [
         "anthropic"
       ]
