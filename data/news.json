@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T16:53:46.126052+00:00",
+  "updated_at": "2026-08-16T17:21:24.569738+00:00",
   "items": [
     {
       "title": "苹果和阿里联合训练的大模型将支持哪些具体功能？ - 新浪网",
@@ -22,11 +22,11 @@
       ]
     },
     {
-      "title": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWXhMZFhxcGVlTHFOLThCVklSbGpXemROaktCMEgtanZSQlM4Ni0zZkpBOFY0czRzd0FyOG8xSFBwWmZlemczWkN5QncxMjEta01YckdaMEJndXhpRGRCelFGS2M2QTBKa3lickstSlJMLWFMSXBJY3ZmMnMya28?oc=5",
+      "title": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU3F1LUlvZGhENk9RZFIyVWxJa2NCWkp5dTJiUElpZHF6VElmbEpnRU41YUxJOWF5dGVPMU5FcHFTQlpIR0VMMnZObkJtenRwVlBwWlBuTkptOUkyS3BjbkJFSHZpUnpOWW5lTGVlZnBiWWt4dDN1bXk2OUprNmFsTzFUUnNDZU1LaXlSUg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-16T15:27:40+00:00",
-      "summary": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程  新浪网",
+      "published": "2026-08-16T15:19:08+00:00",
+      "summary": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程  搜狐网",
       "categories": [
         "breakthrough"
       ]
@@ -221,16 +221,6 @@
       ]
     },
     {
-      "title": "【视频】十万块的车能把AI大模型搬上车？坐进去我直接不想下来了 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRWNaNnVETUNXTy1sOHJOUXkydS05aWNrUnNMRnVla2w0a0VGd1BhUWhTcEl0NmFHZnJXeGxiOWM4VzA5aC1VTmFQaVl3ekgyNWZLNjJPRWhhU1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T03:52:53+00:00",
-      "summary": "【视频】十万块的车能把AI大模型搬上车？坐进去我直接不想下来了  汽车之家",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
       "title": "花旗闭门会：人工智能：花旗前瞻推理报告：前沿大模型发展暂缓 260815全网最快（推荐程度：3星选看） - video.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNFlkR0FrVXhoWlF2MDB6cHBfMGhkTG0yV1JwNHE4ZDVXa0JpMExjb081UENGYlppMFJlY3RGTlRVSVpJeXE2U0R6SklmR3ZWS0dXNGl0MDVLODBmS3IzOGZubFVnNmJYaWEtZHMxaHlpUEI1YUdJcVdZZUVfdm5pZWZB?oc=5",
       "source": "Google News - AI(中文)",
@@ -363,6 +353,16 @@
       "summary": "Anthropic发布186页风险报告：Claude安全漏洞浮现，最强模型限制开放  麻省理工科技评论",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "ChatGPT一夜提速14倍！新模式GPT-5.6 Sol每秒750 token - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ndHhlVzNfQWRaSzQ1VDkwcGl6UU00cDRWaWxoeWpSdlVKeS03aU5acEcycW9FUVlqSFhVUzZ5T2p6R05DQ3Nubw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-15T01:30:00+00:00",
+      "summary": "ChatGPT一夜提速14倍！新模式GPT-5.6 Sol每秒750 token  智源社区",
+      "categories": [
+        "openai"
       ]
     },
     {
