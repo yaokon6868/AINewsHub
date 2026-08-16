@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-16T16:28:14.775767+00:00",
+  "updated_at": "2026-08-16T16:53:46.126052+00:00",
   "items": [
+    {
+      "title": "苹果和阿里联合训练的大模型将支持哪些具体功能？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX1ZaRzgxMHdFR0pNbFFjalFJRmVVcmJFM09OSll5c1VrOTh0Mm1uZlBPSzNnYkFnM2Y4cGRGRFFBeVJ6REJXWjcxdkdZWlhTcTRFb21jRFRRYkZJbDkwbTAtX2pzdU45TV8ySThkZ3cxMWpCenJWSVZqQ1pCZVU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T16:33:57+00:00",
+      "summary": "苹果和阿里联合训练的大模型将支持哪些具体功能？  新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
     {
       "title": "涨价开源换打法 大模型一周三更 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnVBVTlESWx5QV9qX3BpS1FoTXR0S1BfOEI0VC1XWV9hWGZYNmVhU0hsZGxYWUlONTFLcEFCaTlKTVBqcjlNbkZlWUkzYk15M0kwNTUwUVJPaURxejFTbk5GVGNjVGhWV29LVGo2TUZrYlVGbmZEYi15WmdodVAtQ2tjLWNjRDF4MC1xQQ?oc=5",
@@ -12,11 +22,11 @@
       ]
     },
     {
-      "title": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程 - k.sina.com.cn",
+      "title": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWXhMZFhxcGVlTHFOLThCVklSbGpXemROaktCMEgtanZSQlM4Ni0zZkpBOFY0czRzd0FyOG8xSFBwWmZlemczWkN5QncxMjEta01YckdaMEJndXhpRGRCelFGS2M2QTBKa3lickstSlJMLWFMSXBJY3ZmMnMya28?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-16T15:27:40+00:00",
-      "summary": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程  k.sina.com.cn",
+      "summary": "拓展AI教育新场景，全国首个具身智能人才培养与考试认证中心发布课程  新浪网",
       "categories": [
         "breakthrough"
       ]
@@ -42,11 +52,11 @@
       ]
     },
     {
-      "title": "Anthropic公开Claude文字浮水印细节 改写后98.3%无法检出 - guandian.cn",
+      "title": "Anthropic公开Claude文字浮水印细节 改写后98.3%无法检出 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42a1hqa3BKLUxTTGtfZ25UaFBQcXhNNHRzNjJTVDBLMkc4eVo2TlU3TWFVaXNkSndVeDY4OE1IazRQdEtvTVJ2MnpkRFZvTV9CcURneTMxWTVWSXBzZ0ItMEZB?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-16T13:28:57+00:00",
-      "summary": "Anthropic公开Claude文字浮水印细节 改写后98.3%无法检出  guandian.cn",
+      "summary": "Anthropic公开Claude文字浮水印细节 改写后98.3%无法检出  观点网",
       "categories": [
         "anthropic"
       ]
@@ -188,14 +198,26 @@
       ]
     },
     {
-      "title": "实测DeepSeek Harness：梁文锋把智能体拼成乐高 - bjnews.com.cn",
+      "title": "实测DeepSeek Harness：梁文锋把智能体拼成乐高 - 新京报",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ENGVqQTlfTXFibWgxRnFfSk1wYV9EOXBYeGRzYmRHVm4tRjJzcVJRMzJsZmJpdEwxbjJ5clA0akVXem1VeUJTekh2SFVyODBWbTFwS20xcjB2TnJhVHN6dWxvdXM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-16T04:11:00+00:00",
-      "summary": "实测DeepSeek Harness：梁文锋把智能体拼成乐高  bjnews.com.cn",
+      "summary": "实测DeepSeek Harness：梁文锋把智能体拼成乐高  新京报",
       "categories": [
         "other_big",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "华为昇腾适配小红书开源大模型，全模态AI推理能力大提升 - 第一电动网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VMzFEMDVmU1RxUEtQbHdYSDZQSEVzUmJjTWl1YjhxdmktQ1hYeWYxcDhCSE9neExmVHYtTFpsU2J3VjRwNDQxbw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-16T03:53:00+00:00",
+      "summary": "华为昇腾适配小红书开源大模型，全模态AI推理能力大提升  第一电动网",
+      "categories": [
+        "other_big",
+        "open_source",
+        "chips"
       ]
     },
     {
@@ -235,26 +257,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-16T02:01:12+00:00",
       "summary": "美国大模型帮日本投毒AI，包括涉台错误言论、钓鱼岛非法主张……  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "老板电器潘黄斌谈AI护城河：食神大模型要形成“特斯拉式”闭环 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11VXhoenZ1NndZbUVqcS15NnduZnV1Rk9mdEJiX0RfdFNnZXF2cDJnNlc1ZElDeWswMERDLUx0cl9RNFRUNjl0eA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T02:00:28+00:00",
-      "summary": "老板电器潘黄斌谈AI护城河：食神大模型要形成“特斯拉式”闭环  凤凰网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "学制缩短、百业千企共创场景落地 交大安泰发布“智能时代五链人才”培养体系 - finance.eastmoney.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gb1NtMVRxa1RsalZQRkRuTXRYb0RUVEtPVVNEek5wZExvRVFnWUZxTTlOOW80bjhUdHA3R293UktRYVR5ajg1cFduZUVER0d5STlFY1RlYTR5TnB5cFIyN2hESlMyZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T01:45:23+00:00",
-      "summary": "学制缩短、百业千企共创场景落地 交大安泰发布“智能时代五链人才”培养体系  finance.eastmoney.com",
       "categories": [
         "other"
       ]
