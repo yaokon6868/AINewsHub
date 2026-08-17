@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-17T14:30:28.546451+00:00",
+  "updated_at": "2026-08-17T15:27:25.376757+00:00",
   "items": [
+    {
+      "title": "Claude Code对决Codex：速度快10倍，成本低75% - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQlR0LVZkWVMxNFNVMVZyRzVwbVhwMkd0anFpNWhxdlhXMHNrcGkwQzBLZncyR3ZvS3N6UXUzNlZKM2pGVFIzSEJTT2VMWGN5UEF3bG0xM2cwakdqNHlsNGpRT2Y3THNFUTZoNjd4dU9yampMVzlnc1ZvQVFQMGZ5dFM2eVFnYW1vNVgzLQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T14:47:47+00:00",
+      "summary": "Claude Code对决Codex：速度快10倍，成本低75%  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "2027宝马X3官图发布！设计升级，引入AI大模型，成都车展亮相 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13VTBBYk1YbVRWYk5Nb284c2FtT25vZHM3bkcyeTFJVUZFTXpjbDIxYlZ3ZjVIMWZnUzlrZ0h3MXFGTDNHYzBRX2h4U01CN3dwOTl2eHJrbnpEVXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T14:37:30+00:00",
+      "summary": "2027宝马X3官图发布！设计升级，引入AI大模型，成都车展亮相  汽车之家",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "蚂蚁数科推出Agentar生态版打造面向商家的智能体超级工厂- 零售 - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5neW92bVh4alF3YmJRNzZHZE41dHd2V2dJcnN5R0RiUTdZNlFDTVlfVTZSMmhoVFA1OS1Ub3ZiS2RVSEcxQlJ1c09YcXE1RXB6LWlNcHhR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T14:22:11+00:00",
+      "summary": "蚂蚁数科推出Agentar生态版打造面向商家的智能体超级工厂- 零售  亿邦动力网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "2026年AI手机推荐哪款？华为/小米/荣耀三强横评，42B大模型+2亿像素云台怎么选+FAQ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVh5Szg5dWgxVGhJLXQzclNrd2Q0dVdXQ01hbTdfTm5zYno0aG9LcmxkWG1DSDJJWGNnNGloVFc5cHI2Uzh1Z25kUjhpWlgwZk9MQWVnMk1QTWxKZ1l3UjBzUkNoVWs1UlhhNzhYUHJmeXZPWTNpc1pLRlg4RXJoZg?oc=5",
@@ -22,11 +52,11 @@
       ]
     },
     {
-      "title": "阿里发布可在笔记本运行的全新大模型，正面迎战Meta的AI攻势 - finance.sina.cn",
+      "title": "阿里发布可在笔记本运行的全新大模型，正面迎战Meta的AI攻势 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOc29CUDZ5R1RweEdJVFR2TXFoVDhfWkpVYkRZLTdEQThqZmZwbVc2Q2NyNEtCRGpjVE9ZNHMtcTN5WHA1eHl2M0g1TEItMTVCUV94Q0d4Qk8wRDcyTTRmVy1GbzJaLVR5MGNWU1V0MEwyaWxITWViSGMwN24wVTRpNnlJUDhVcnF0c2hlLS1QenptYnYzQXBHVTJrSzdiYVpXMm9yWXY0Z0VWbUR6azVTVHNkTl9oTlhmVUY3N0FkaGg0b3FMaTJTT2s5aGFhOUlhTzhFQU8tem12RDRHRHZibXN0QVJYbVNBUk4tcEZrNWRyUDZvZDFGZ0lLRDhEcVk4TEhmcWZGM0h6N29SUVhQSElVYWxtM0hEa0xHQktlR1c5NnBPaEprYS10ZXhheU5Ub242TDhUNEhodlhkaXc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T13:56:48+00:00",
-      "summary": "阿里发布可在笔记本运行的全新大模型，正面迎战Meta的AI攻势  finance.sina.cn",
+      "summary": "阿里发布可在笔记本运行的全新大模型，正面迎战Meta的AI攻势  新浪财经",
       "categories": [
         "other_big"
       ]
@@ -42,23 +72,13 @@
       ]
     },
     {
-      "title": "vivo副总裁周围谈“智能体手机”：硬件形态不会消失，但操作系统会重构 - finance.sina.cn",
+      "title": "vivo副总裁周围谈“智能体手机”：硬件形态不会消失，但操作系统会重构 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPanU2SGtnZ0tPdGF1UGhNR28xTUMtRkswQkJVZzhGeWZfbGRvNDVrWXh4cFJDLXZVcjNTajU2UHotMmtkNVZ2ZG1lWHk0Z2R4VC1HSkU1bDR1UVZoTFFGZnhOY3c3LTZsTjBKV0VnRUlhSWtXbm1NRmM1NGxoX0RwU1RBV2ZMMnpsUzkzcHRndkM2Zm5YdVFFQ0lHZW8waFBYdW9yRVJPSnJHcEIySDYzc245X1duZ2ZoNkZjd1ZuWFpKN2NMRjlCaVUyWW5PUll4bUhSSUVBMmRUQXBWM3JrTW50UjQ4X1JiU3A2RG1jeGZrTUdjQTBuejk1XzRWQVlCb0FQZ1lpWWxSeHlXZEJXSmx6d2FmQlRjN1pOdHR6UWs2TjRNdlZ1bzVySWw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T13:52:58+00:00",
-      "summary": "vivo副总裁周围谈“智能体手机”：硬件形态不会消失，但操作系统会重构  finance.sina.cn",
+      "summary": "vivo副总裁周围谈“智能体手机”：硬件形态不会消失，但操作系统会重构  新浪财经",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Gemini为什么在直播中无中生瓜？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GTlpoZ25MNGctd2VUM3paSEdiUjFvNWR5ZU1OT2xJandjT3drUlhtUGRwcU1zR09yMkFQbGl3bnZpaEZsQWo4OW9iOXdoSk1RZGVzazFkVjJVNGxsb0Rad1V5VXNfTi15cmo4WEF1T1FFaF9KQXZVTnE4ZXR4Zw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T13:43:00+00:00",
-      "summary": "Gemini为什么在直播中无中生瓜？  新浪网",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -228,26 +248,6 @@
       ]
     },
     {
-      "title": "从Claude隐形水印回望GenAI时代信息隐藏：嵌入水印如何保证无损？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzJlTTNYSkVBcDVEZUM1c0U3ZVgxNGJaNGlLbk5OMjByS0xUQXlINHFUWmJxNk1ST1NmYk5rQ3VLb3Nqc080QmdCNGU2ZkdpME1RTmNLYk54YjN4ZWd5UDRxNUtpZks3WXBFQ2xxSjEyblduMWMyYXZoN1BBZmlMR1hFc0ltWnNh?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T10:09:04+00:00",
-      "summary": "从Claude隐形水印回望GenAI时代信息隐藏：嵌入水印如何保证无损？  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Claude的文字水印，成功把人类套路了 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83WDNJOWlhdm5zeTIzRFVmRTZXdGgxS21nSlU0QUVPNU45SVlBbnBBZGJOS3BhalJteW5YdnJycEE3c3pMRGlGbUtaejU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T10:05:11+00:00",
-      "summary": "Claude的文字水印，成功把人类套路了  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "Anthropic冲击史上最大IPO 估值超越SpaceX Claude的母公司Anthropic，最快今年10月上市，目标估值2万亿美元。超过SpaceX今年6月创下的1.77万亿纪录，成为人类历史上最大IPO。但魔幻的是，Claude的用户只有ChatGPT的四分之一。用户更少，凭啥估值更高？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3FVUVdoN3YtUm5vOGgxN2xXUTBsdTJpY1lfZ2N4QS1oSmlfODFDemU4cUdZVTJ2TU95ZExoVlpsUU1OT010Z3ozTzRsNUpXQWZfa2F0a0RtSmpaV242NFE5b09LdXBoWDA1Yl90NUJNdURxcjVEMjBJeFZHV2RpQmhFUXZrT0dC?oc=5",
       "source": "Google News - AI(中文)",
@@ -270,11 +270,11 @@
       ]
     },
     {
-      "title": "AI记忆赛道升温，红熊AI\"记忆驱动AGI\"的路线与实践|Agent|大模型|模型|引擎|系统_手机新浪网 - finance.sina.cn",
+      "title": "AI记忆赛道升温，红熊AI\"记忆驱动AGI\"的路线与实践|Agent|大模型|模型|引擎|系统_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSnZ4SnBNMnNwX0pvWVRldmV4NVhvem5paklXRDJoZ0doUzg2aEVNOVpzX2M4VlM0bEFDb0xKWEFNNWFIM2lGejlXU2dvNlZsTHVhSi10cC1KY3M4YVl1MHZKRV9DOHBybm02akhJd2NGaGtjUVRvV1NfMm16ZjIzWHNhZ01YWjN6RldHazhHanp0SFZTOWJsNXoyMGVXNjdRY1JHVUQ1Ny0xNEJLenQwS0ZEc01jSDh0Z2JURmtsZjY4TDR1Y1Z0TXJpQ1pDclQ5LTFvUnZBVmU2NkQtYmFqaVFJRG1ucF9tZmhsRzEwZEhRV1YyM2lPUWVnOTBoOFM0bUZYUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T08:27:54+00:00",
-      "summary": "AI记忆赛道升温，红熊AI\"记忆驱动AGI\"的路线与实践|Agent|大模型|模型|引擎|系统_手机新浪网  finance.sina.cn",
+      "summary": "AI记忆赛道升温，红熊AI\"记忆驱动AGI\"的路线与实践|Agent|大模型|模型|引擎|系统_手机新浪网  新浪财经",
       "categories": [
         "tools_apps"
       ]
