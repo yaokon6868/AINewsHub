@@ -1,23 +1,105 @@
 {
-  "updated_at": "2026-08-17T09:09:32.171449+00:00",
+  "updated_at": "2026-08-17T10:05:24.853450+00:00",
   "items": [
     {
-      "title": "未来十年AI剧变：智能体普及，算力暴涨10万倍 - k.sina.com.cn",
+      "title": "Anthropic冲击史上最大IPO 估值超越SpaceX Claude的母公司Anthropic，最快今年10月上市，目标估值2万亿美元。超过SpaceX今年6月创下的1.77万亿纪录，成为人类历史上最大IPO。但魔幻的是，Claude的用户只有ChatGPT的四分之一。用户更少，凭啥估值更高？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3FVUVdoN3YtUm5vOGgxN2xXUTBsdTJpY1lfZ2N4QS1oSmlfODFDemU4cUdZVTJ2TU95ZExoVlpsUU1OT010Z3ozTzRsNUpXQWZfa2F0a0RtSmpaV242NFE5b09LdXBoWDA1Yl90NUJNdURxcjVEMjBJeFZHV2RpQmhFUXZrT0dC?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:50:29+00:00",
+      "summary": "Anthropic冲击史上最大IPO 估值超越SpaceX Claude的母公司Anthropic，最快今年10月上市，目标估值2万亿美元。超过SpaceX今年6月创下的1.77万亿纪录，成为人类历史上最大IPO。但魔幻的是，Claude的用户只有ChatGPT的四分之一。用户更少，凭啥估值更高？  搜狐网",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "蚂蚁集团CEO韩歆毅：智能体商业将在6至12个月内爆发 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXlVV1JGZ1ZmSHZaU25KX0ZJTHhnaW1UeFlfcGFhakc3OEJCcHhFWEczamYzS0RCNmR1VGZPSDgtS0l3WldWbjJueWk1X190Rl82NjBuNkpUT0ozT0ZsQjhnWkhodDdld241RW1wcUVodFNEaVVLVGlXbThJNDJaaWpPbXB6RjJjVE8xOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:41:07+00:00",
+      "summary": "蚂蚁集团CEO韩歆毅：智能体商业将在6至12个月内爆发  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "ChatGPT板块8月17日涨2.32%，鸿博股份领涨，主力资金净流入7.67亿元 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVZvb2VLc3VrMUtlM2ZubFo2YjAyQWpVbHpfQmg0UlF3VTRuQ0hZNVRKUGVqdFVFRWo4anlNeDhJVXlFclQxRUNKOER6UzNZTW9TQWxBRlptX3U2S1NfUVNlQV9ScHRZcEFLSFNJejFpYXdhUG5ubmNfRURYXzB0UnREb1pzTzFUeldQbg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:32:41+00:00",
+      "summary": "ChatGPT板块8月17日涨2.32%，鸿博股份领涨，主力资金净流入7.67亿元  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT新功能\"电脑历史\"：追踪你的点击与按键操作 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUw0RFZrZGxOanRfdENaWTkwcldKS3hQNWVoMFRZVE5QUmtpSkh5ZDBOV0ZTVElKWC1GTUFwd0VweTlyQWdjcUdjVWRfTllQd1h3OWJ2Ym4wY2tsa2RCWUJvOGRwZE1sSk1qODhyR0dEYzlnZWtlR3FMc0NIRFRGUkZtYmdCYURG?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:32:00+00:00",
+      "summary": "ChatGPT新功能\"电脑历史\"：追踪你的点击与按键操作  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "智能体AI崛起，CPU成为新性能瓶颈 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnNVM3hybUFBV3IwdnkzVlRaTVdneDEzY0tuMnNLUmJiUkxvMXNteVgyOGlydG5ZWmxSWndQWDVVY3Rub21xbWlVQVJxdF9iRlB5Tk1ySTd1SzJfWUZJcEkyWXctcUNvcGNNWmdOa0hNdjdqQ1BrTmNHVEVHWHdlaXctdndvMmZI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:29:00+00:00",
+      "summary": "智能体AI崛起，CPU成为新性能瓶颈  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "支付宝发布国内首个智能体商业底座 阿宝接入万余项服务 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02Wk5EQ1dvNDFMZlMzdm5xMWwyLVhUQm1XMGhKY1cxakxpUmxxUWJsVFlYMDdqbnM0NXFGWmVhOENseWpCMV9OQ28xZFNXZG9oTjRxd2JrblZidUh1TEczX293?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:20:52+00:00",
+      "summary": "支付宝发布国内首个智能体商业底座 阿宝接入万余项服务  观点网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "盐城交通执法“智能体”培训锻造数字化执法尖兵 - ycnews.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10d01qaUNOdXVvUzJQSThqYkJxZUlUYnBFdXFKN1lKdC1ZMkNnOFBTSkQ3MDZienpQUUZHVUp5ZmdVdVhSX1hpTHJTcGwxXzBKOGxHczFDbWxBQ1Eza3hOTg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:14:00+00:00",
+      "summary": "盐城交通执法“智能体”培训锻造数字化执法尖兵  ycnews.cn",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国大模型倒逼美国巨头降价 AI账单压力增大 - 中华军事",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjVXl1QUM0YXc5M3liVHZoWnhLTkpyUzlwUnNKWEJmdUlVSWhUTFI2T1oxSlZ3Xy0yRjduekRSVlJ4bmI2NHoyU1VNRUV6SkRMMkxWNzN2NmdLU2FkT3dUZGlfSjl4RkxUNjF3RWNHdTU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:11:29+00:00",
+      "summary": "中国大模型倒逼美国巨头降价 AI账单压力增大  中华军事",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "未来十年AI剧变：智能体普及，算力暴涨10万倍 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01U25INHF5UzdHVDh3bVRlMnk5ZFk5YnVld2xUOGxfS0lmb25nNkluWXNPQUhiS1I2YTd0LWVGeDhiVDJHaXNKQjFKV011QmxvQ3VsUmQtZGJSZ2RZTHhhQU5VOHI1WjA0UE5tWXotVWhRLVd4RHZBWEFCQUswVlk?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T08:29:25+00:00",
-      "summary": "未来十年AI剧变：智能体普及，算力暴涨10万倍  k.sina.com.cn",
+      "summary": "未来十年AI剧变：智能体普及，算力暴涨10万倍  新浪网",
       "categories": [
         "tools_apps",
         "chips"
       ]
     },
     {
-      "title": "AI预测未来十年哪些行业会被智能体率先颠覆？ - k.sina.com.cn",
+      "title": "AI预测未来十年哪些行业会被智能体率先颠覆？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZkgwSm5mTHhGU21CbzJhYnJnSTdNZUhzMmFCRHZYV2stUjktaWphTWlNa2czemRNSHNUMDNrTk9FOXRFcmtPZHVRNElKNG5vbUlZVy1kbDRTMUNvUTE1UWk1anRydm9Id05ZWGxBZWt2VnJmcUxyZ3hhV0NJY0k?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T08:28:02+00:00",
-      "summary": "AI预测未来十年哪些行业会被智能体率先颠覆？  k.sina.com.cn",
+      "summary": "AI预测未来十年哪些行业会被智能体率先颠覆？  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -46,16 +128,6 @@
       ]
     },
     {
-      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVN1eGlyb1h6cmtIWU11MW93QUhYZkF3UnRqRDdVRnNyOWdpQU1pNjZHZV9tUnpGNTZXaVpfR0J2RGZjTWFRUjF0Y2d2NzN1Z2RoWmd5ZXRFd0NwZkxCcm5hNlYzZlA5b2g1bDRnRV9uV3BWLVNuQUpTV0c1T3dteXFYcHVUYlBU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T08:24:26+00:00",
-      "summary": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "【支付宝发布国内首个#智能体商业底座#】#服务智能体阿宝#8月17日，支付宝方面透露，旗下超级服务智能体“阿宝”已完成万余项服务AI化接入，服务跨端已支持5大手机品牌、16家主流车企；同时发布首个全栈智能体商业底座及多智能体跨端互联AHA协议体系，联合千 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Yb2o2WkZMcE5Pc0p3RjlCR0ZYSklKN1dyUTBkTnd2LXVJaXJGNXA0RFVyakxjVVlTOV9jaE14ZnNoZVJUTEtzWEdiRUI4ME1JbXNjdVlqV1J6ZGpmTlloaTNEYw?oc=5",
       "source": "Google News - AI(中文)",
@@ -67,53 +139,11 @@
       ]
     },
     {
-      "title": "流量退潮，蚂蚁集团韩歆毅：智能体商业即将爆发 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa0JhdjU5Y0FpWW9PS3RFNFZ6aUFRT0JBOW5XUjhCZ3RpZkhGQnZ2YkxacE1EY3NCcDIwYWhnc1NGc0lqQmowbHhHdFllaXVIcEt2dGVFZk93TmxzcW1PUVgxOG5iQlhNSEhYOHF5dlBwX1lUbVp3UXdJSWMwS2pXbFF1dGVYNC1EZWc4bw?oc=5",
+      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12Y1pvZU1xOC1ZTTByZ0toVnJvd0lSOVNkUy1STG4wa1ozSmZNNWRHY3BfV3I0ZXUtZU1HQVloTU5zejI0ZzFoWXBMaF9nNWdu?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-17T08:21:00+00:00",
-      "summary": "流量退潮，蚂蚁集团韩歆毅：智能体商业即将爆发  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "国内首个！支付宝发布智能体商业底座阿宝 已覆盖5大手机品牌16家主流车企 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0F6OFlxdFNpaHh2VWRlMVRkTVdCVHUxVm9hMTh2RXpjbkoxZnZRdk11bGpMbS1YcXZJZWFyUWpOOHVQWEhmZ1lKckFVYUEtcVJiRDBvT25YVlpWU2pyOTFQYThkSFlYN2tCbkZnYmJtcHBrOWtqeUJUVkRyWktMR1V5QWNMUnN0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T08:15:02+00:00",
-      "summary": "国内首个！支付宝发布智能体商业底座阿宝 已覆盖5大手机品牌16家主流车企  搜狐网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "支付宝发布国内首个智能体商业底座 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EdTZab0J3MTFKV0R4OWdmNGNQZXdodU1lMHNoak5NUnRLX0hma3hXUDd2UEtpc3YwbHVPdTh3cnpFYjBJYVVxRkRXZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T08:06:36+00:00",
-      "summary": "支付宝发布国内首个智能体商业底座  新浪财经",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "蚂蚁集团 CEO 韩歆毅：智能体商业或在未来6-12个月迎来关键拐点 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1BIT0x1bkpucTU4MFlJUTBGYUpBMjhiazltdERJZEptcTBiSEc2NURYdmNOdmpZekU3aFJyd2ZhR1c3VWJoWjNpNXRyaVY4TGprZnJNSkVGQVQ2QmdjTDduaTd3UmpKeTRieGUzZW5JLUtIMGRqV1FNNlVQWS10MGdIcmtrX21QNzU4ag?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T08:00:28+00:00",
-      "summary": "蚂蚁集团 CEO 韩歆毅：智能体商业或在未来6-12个月迎来关键拐点  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "韩歆毅：智能体商业将在6-12个月内爆发 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42QTFWQ2NaXzNWUXMwM2NNSEFiaFFzVDgtZE1nQkRjMEFPZW5yRW90SGhBVDZHdTN5VGd5UG9BSDBRZkFWRkJLcHB1eWN4aW9mR2dEb191S3IwMmxhdXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T07:54:02+00:00",
-      "summary": "韩歆毅：智能体商业将在6-12个月内爆发  DoNews",
+      "published": "2026-08-17T08:20:43+00:00",
+      "summary": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年  凤凰网",
       "categories": [
         "tools_apps"
       ]
@@ -139,16 +169,6 @@
       ]
     },
     {
-      "title": "Liblib冲击上市，大模型“中间商”值30亿美元？ - 潮起网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nQjR5SE1BR2liNDlrZU1DS21JOHJ0VHVDV0hNSWdNV3FqQzU1SVk2MzlyeGV2czh5VzktbWVoeE1JS0hDaDRZR0lPVGxwWEVPQ2xCY1c3aDR2bm1WQWVpdlFxWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T07:30:01+00:00",
-      "summary": "Liblib冲击上市，大模型“中间商”值30亿美元？  潮起网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "Linux版ChatGPT应用公开预览版现身，支持Ubuntu等发行版 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVlwYTNvZ3BQSUhkRmR3TnVVVUpxSXcyM1M1eXYxOGk5SUtlY3VjUWs4WmJ4dHYzblhDVXJ1ZDFnNFU3M3ZHeGlaZWhRdk45M3d5YXZpRmlQTEw1MnQwUlAzZTNKbmR4NHZ4aHhWdi1RRWVQZzVsRjhhOFJhdGVlZWcycElmS2pk?oc=5",
       "source": "Google News - AI(中文)",
@@ -157,16 +177,6 @@
       "categories": [
         "openai",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "ICML 2026 | DNA大模型不止于LLM，湖南大学OpticalDNA开启视觉理解新范式 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVNla2d6b2NFMXJaYnB2aWxuMFJNS01RVkJFem9RRnEwbEZPdXV0TWFIOEZCRS1ONXJuUU1KV1lxWkcxNElwdF9nc3BRWlZEV0pmdGpIQl92SjByZGNCdV96Q0tiQllBWlF6Nk05ZEZFdjEzTW1DYU5ObHpaTllPcVZLOF9jVXhPSmZaWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T07:23:56+00:00",
-      "summary": "ICML 2026 | DNA大模型不止于LLM，湖南大学OpticalDNA开启视觉理解新范式  搜狐网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -200,26 +210,6 @@
       ]
     },
     {
-      "title": "AI账单贵到离谱！美创业者转投中国大模型，成本从120万降到10万 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2NHMFRuSndZVTZvZEZfcG9nWXFSN2pGN0FpaFpMZFVpcHFoUXRBWktuUVVCQ3I1a3hrdlgtSTdtd3F2UzNram1WcExQQmo4bXR6OHRhdXc4ZUo4R2tTcTNXMDJoVzNqX1JOU0JhOS1hMWp4aTkza3V2SFVlS01zc0tZLWtXT1QyZFRmdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T07:00:18+00:00",
-      "summary": "AI账单贵到离谱！美创业者转投中国大模型，成本从120万降到10万  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "CLOE多智能体AI架构保障内容一致性 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnNGSmVNNDcxVXl6a1lqRFQydUhmUnp1M3dPM2NKVUNPN1JvNHN6WHVSOFAydW9FQ21VdUFaSWNZWlhiZGUwU0Rwek5TaEJuM1VreHRFMUYyTzBYZkRsSFFsdEh3dlg3WVpHMDNwOWlPbG5aMy1LU2dwNURyMVpmLWFtanloMDNJSFhRQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T06:54:58+00:00",
-      "summary": "CLOE多智能体AI架构保障内容一致性  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "《中国—东盟人工智能开发合作发展报告》发布 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83NHY2TUJkV2M0Wk5aWE5ES0dwRnNrUHZtVXJRR2xtVTlRcGRHYTluVXhVNnJTX3p1WU9JUXRDMVVlLW5QWVpiSGltRHk2UFJ1SnRoVXFsMmZaSnVqZE1ORUJKYVlsSmdDN01zZ0UwUDdnV01sVlg5SA?oc=5",
       "source": "Google News - AI(中文)",
@@ -250,6 +240,16 @@
       ]
     },
     {
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队 - hub.baai.ac.cn",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wdGJjNmlFYVBsWXhwUXVPVGtnam12SUJVVmhlU3dKWldsaEpBQnN2cWJPS2M4REp6Ry00Nm80bU9HT20wZFUxTg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T06:00:00+00:00",
+      "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  hub.baai.ac.cn",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "荣耀YOYO智能体携手京东AI Agent，让购物一句话搞定- 科技快讯 - news.zdwang.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVnAxbTZ0VndtUTBrY2dBSEZqNkZPM0FBeXRwVVB5cW82UWNwcjZqamhBUDlubHFXNlowNmlSVXN1a1NEeFh6LVpxaDBpaUdnaTExVkY0U3M?oc=5",
       "source": "Google News - AI(中文)",
@@ -260,13 +260,23 @@
       ]
     },
     {
-      "title": "全球大模型竞争白热化，Grok4.6跻身顶流，OpenAI推出极速模式预览版 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlVSUG9KSEwtNE9BQUdyMW5NZGZEeTJ4MFB5VWRoU1NiMlhHQzMtLVVIVkpFcUhFSnFES2RMMUZmbzltczZoVWZGa3hBamxvVWNoN3EwSnZWRmpUVWV1RXF0Vk9YZENwd00zVVJja1M2Y0tJWlRDMm1CbGw0V1BjZE1jbm9SNHR5eDdZbQ?oc=5",
+      "title": "美国也挡不住！路透社爆：苹果联手阿里训练中国专属大模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDNZekxSbjFIZVdvczgtOHFyQm5WLVRRc3FLQTlkLUdxNXZMV1ZSU1hEbjBXNkFiNDlZQl9jM202c29zN3k5VnVKRWxjN1hWbE12T3VUTmNMRzJ6d1lsajdhTE5SRGt1c05IbWVBd09ERnNaczJyUEY2bTlfNWN4WnVIVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-17T04:11:00+00:00",
-      "summary": "全球大模型竞争白热化，Grok4.6跻身顶流，OpenAI推出极速模式预览版  搜狐网",
+      "published": "2026-08-17T05:40:00+00:00",
+      "summary": "美国也挡不住！路透社爆：苹果联手阿里训练中国专属大模型  搜狐网",
       "categories": [
-        "openai"
+        "other_big"
+      ]
+    },
+    {
+      "title": "Claude水印一夜变废纸 - 创业邦",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nTi1hVWY1d1NETUpiVE1CZlhvcGRvT29KbUxJVzB2VUZjQzhFS3JveVZNQWs3RElDVk9QbV9MbWo3QXdib2xxY0ZXcEZEdTN5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T03:58:36+00:00",
+      "summary": "Claude水印一夜变废纸  创业邦",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -278,16 +288,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI开放Codex百万Token上下文支持ChatGPT账号 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gd2I5cTl0VFJQMF9iZ1JqSlJqTXRHdW1lMHZNVmhnTzlMR01ycl8xVjkwU0RPRnEwY2J3YVBTNFlnd3E4WnBPNTJLdlVIZlRNUGg0andFZWFZOUlZM3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T02:45:02+00:00",
-      "summary": "OpenAI开放Codex百万Token上下文支持ChatGPT账号  DoNews",
-      "categories": [
-        "openai"
       ]
     },
     {
