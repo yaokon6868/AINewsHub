@@ -1,6 +1,112 @@
 {
-  "updated_at": "2026-08-17T10:05:24.853450+00:00",
+  "updated_at": "2026-08-17T10:57:26.306845+00:00",
   "items": [
+    {
+      "title": "DeepSeek Harness：刷新GitHub star纪录的开源agent harness - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3FaaUpuTkQ2ekxKODN2WE1HcHJSWU5ZR1RFYXFCVTBVelZwNEZ4U2NUWmVYeTlacE1BeFhiSE5zQXNTQWdZZmlTOGp6ZWFFMVZpVFpJRllFdHdRb29YbmZWRWE2eFRVWGRiWVFSYzd3NlBOLUhYNEVaOElORXkxVmJoOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:50:28+00:00",
+      "summary": "DeepSeek Harness：刷新GitHub star纪录的开源agent harness  Pasquale Pillitteri",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "Claude AI文本隐形水印是如何实现的？该怎么破解？ - 安全内参",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iT1h5Z0tuNGExNzlRMDV5RU9LZXhoUkdfSVpBWHJLd2hnRzhGaEk0YU5mNFZ2MWctY0VnYkk2bmg3VmtKWFhSOUhqbmlZQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:48:34+00:00",
+      "summary": "Claude AI文本隐形水印是如何实现的？该怎么破解？  安全内参",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "智能体竞赛，正在进入“工作流时代”丨C视频·唐探 - 四川新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54MXhfaTZDZXFzb3AwWjJsMFpHLWpSNEdjLURGWUF6N2RacnhVRmdBa2dGQ1JsWEp3dEpzUEpPUWFKOWt4NGRlXzZNMjZpWXg5MmZFYVRHWDEzSkJUSGxUbERUOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:42:23+00:00",
+      "summary": "智能体竞赛，正在进入“工作流时代”丨C视频·唐探  四川新闻",
+      "categories": [
+        "tools_apps",
+        "image_video"
+      ]
+    },
+    {
+      "title": "Anthropic研究警示：AI智能体出现串通与互毁行为 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0pmei0wSEUxVGVmbUF6a1N0cHRIR2hvTzlseDlCbU56cm1jU0pqRWd5MnlGaTJ3LUtmdFlSaDZiaEZwQ2RMNTZHVVNJU3pHUkVXQ05mWDdjN0g4N2R0bWRTZFB1bWt5Zk15RUtVcXdaaDM0djVPUEdFS1RDSVJfQWFfbGxNX2h4bUdBcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:40:50+00:00",
+      "summary": "Anthropic研究警示：AI智能体出现串通与互毁行为  搜狐网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Gemini月活用户突破10亿，成为谷歌史上增长最快的产品 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlhKRnZUUmNkUEJQNVh3bF9oejBhWEdWMWRKLU16MjVzQjdWOWlsMFI0M0JsTkNEblVNRFBXdlhLQ2hWOW5ObU5XZWM5clpCQWp0TjJyN2JKM00xb0hJOGVMN3Z1eWk4aklFaS00Z2trRVhXV2F4c0VJbm1KdFFmbTV1WFoxX01YSHFlcQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:37:04+00:00",
+      "summary": "Gemini月活用户突破10亿，成为谷歌史上增长最快的产品  搜狐网",
+      "categories": [
+        "google",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、OPPO、vivo、荣耀、比亚迪、吉利等20余家企业共建 - news.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzaWNBRi1hOEFKLS1PVUxuVHJVLXNDZzl0aVpFbXpXYTRxYnZBcmIwc1FydGQxeUNNNFpLMEhjQnQyNS1kLS1wbzZ0TE5JLXZGenV6cE96QWp5N0dhbkpENFNtSUVhSzZQMTJvMXZuZVBGMTZPbUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:29:49+00:00",
+      "summary": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、OPPO、vivo、荣耀、比亚迪、吉利等20余家企业共建  news.sina.com.cn",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国开源AI“狂飙”，成美国大模型“底座” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcU1yUTlBWE5tNkZuNFJaQ2ZHdjhvaXMtT0pvd0Rzbi1aYlV6SmU0T0UwT3lvb3hTdGx0aUN3ZGpEbkROdVRFdm43Zm03VjJrRzhKQlFpWnFVQ1FhNGRvTEFzM3h2eW04SkJoSGYzd3VMTnhXdTdKSnVNOWRna0dON2dENkZoTm9R?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:16:33+00:00",
+      "summary": "中国开源AI“狂飙”，成美国大模型“底座”  搜狐网",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "从Claude隐形水印回望GenAI时代信息隐藏：嵌入水印如何保证无损？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzJlTTNYSkVBcDVEZUM1c0U3ZVgxNGJaNGlLbk5OMjByS0xUQXlINHFUWmJxNk1ST1NmYk5rQ3VLb3Nqc080QmdCNGU2ZkdpME1RTmNLYk54YjN4ZWd5UDRxNUtpZks3WXBFQ2xxSjEyblduMWMyYXZoN1BBZmlMR1hFc0ltWnNh?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:09:04+00:00",
+      "summary": "从Claude隐形水印回望GenAI时代信息隐藏：嵌入水印如何保证无损？  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "闭源美国：美国大模型帮日本对AI进行投毒 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rcHZrNVNwUGFUNzktOWFHbHFGb0ZQMWhjaG9hNS1OVkpoLUJmZjhKZ3pBeEVDcXdXb1oyNEhLY0lNYUNTZ1FQd2hhOTlFQ041NnBoU1dpV0NUOEpNcTRpdTJaOVpOSGZJc2dZX0tVTGRFeXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T10:03:03+00:00",
+      "summary": "闭源美国：美国大模型帮日本对AI进行投毒  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "让知产AI“触手可及”③｜“智”造新引擎，南理工“智能体矩阵”让知识产权服务“找上门” - 中国江苏网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHdTbHp0MTJnd19ieDJ6bE5nWGIxelEtdTMyRzJobnNjaUVFZ0xhdUo0OGcwRU1MOU9zNW1ZVmxya2x6c2JvMmlIS3NPWVR0UXZ5OWYtXzFUTUpyNkhBcVV0ZzNvaS1BYms3SmYyclZGS1Q0S255UDRXWkF4YVdVclJ0Zm50dHJ0d05z?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T09:55:00+00:00",
+      "summary": "让知产AI“触手可及”③｜“智”造新引擎，南理工“智能体矩阵”让知识产权服务“找上门”  中国江苏网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "Anthropic冲击史上最大IPO 估值超越SpaceX Claude的母公司Anthropic，最快今年10月上市，目标估值2万亿美元。超过SpaceX今年6月创下的1.77万亿纪录，成为人类历史上最大IPO。但魔幻的是，Claude的用户只有ChatGPT的四分之一。用户更少，凭啥估值更高？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3FVUVdoN3YtUm5vOGgxN2xXUTBsdTJpY1lfZ2N4QS1oSmlfODFDemU4cUdZVTJ2TU95ZExoVlpsUU1OT010Z3ozTzRsNUpXQWZfa2F0a0RtSmpaV242NFE5b09LdXBoWDA1Yl90NUJNdURxcjVEMjBJeFZHV2RpQmhFUXZrT0dC?oc=5",
@@ -139,16 +245,6 @@
       ]
     },
     {
-      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12Y1pvZU1xOC1ZTTByZ0toVnJvd0lSOVNkUy1STG4wa1ozSmZNNWRHY3BfV3I0ZXUtZU1HQVloTU5zejI0ZzFoWXBMaF9nNWdu?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T08:20:43+00:00",
-      "summary": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年  凤凰网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "7个企业级 AI 智能体推荐 - 飞象网",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQU9WYjlPQkp2ajhxM0VNVm5vbXV6LTdnbFB2Y2kycWE4THpJX3U0UEdRMUdMNlFIRGNPSjdDZnNTb1p6cllLbm41VQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -180,11 +276,11 @@
       ]
     },
     {
-      "title": "蚂蚁集团CEO韩歆毅：智能体新商业带来的是增量收入与利润，是新供给、新需求与新分工共同创造的增量 - 新浪财经",
+      "title": "蚂蚁集团CEO韩歆毅：智能体新商业带来的是增量收入与利润，是新供给、新需求与新分工共同创造的增量 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RZTQ1UnNxY243bWxreDNaRU5help4V0l6dzdSWHdkNFQ4Y3ItZ2o5SUVkQWRWWFBtX3RYTzU3bVdXSjRPQmJrNWZ3R1Jhc09TUXlmdnYwNTB0Sm9odmxDbGVkOEl2R2E5Y0pNOENBRTJVY2YyZzhMRg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T07:20:10+00:00",
-      "summary": "蚂蚁集团CEO韩歆毅：智能体新商业带来的是增量收入与利润，是新供给、新需求与新分工共同创造的增量  新浪财经",
+      "summary": "蚂蚁集团CEO韩歆毅：智能体新商业带来的是增量收入与利润，是新供给、新需求与新分工共同创造的增量  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -210,73 +306,13 @@
       ]
     },
     {
-      "title": "《中国—东盟人工智能开发合作发展报告》发布 - 新浪财经",
+      "title": "《中国—东盟人工智能开发合作发展报告》发布 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83NHY2TUJkV2M0Wk5aWE5ES0dwRnNrUHZtVXJRR2xtVTlRcGRHYTluVXhVNnJTX3p1WU9JUXRDMVVlLW5QWVpiSGltRHk2UFJ1SnRoVXFsMmZaSnVqZE1ORUJKYVlsSmdDN01zZ0UwUDdnV01sVlg5SA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T06:49:30+00:00",
-      "summary": "《中国—东盟人工智能开发合作发展报告》发布  新浪财经",
+      "summary": "《中国—东盟人工智能开发合作发展报告》发布  新浪网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "一周前沿科技盘点〔205〕| DeepSeek V4 Pro正式发布，支持100万Token上下文；清华大学玉泉医院团队提出脑深部电刺激术全程管理理念 - ncsti.gov.cn",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZG5nSGVKSlRIb19kX3ZwV0VnMFNMTEFNUkxXNmpBV0xkMHN3OG1salI1V2plZjE3UTdVbmIzbWlaU3Y5LWl3aTVfeTRraFJhdTFDNTM0aDN2ZWVlZElkRm5FeG54cXdyN3dBcFY1YVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T06:42:58+00:00",
-      "summary": "一周前沿科技盘点〔205〕| DeepSeek V4 Pro正式发布，支持100万Token上下文；清华大学玉泉医院团队提出脑深部电刺激术全程管理理念  ncsti.gov.cn",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "全球AI大模型每周Token调用榜：DeepSeek-V4-Flash正式版连续两周第一， 今日正式涨价！ GPT-5.6 Luna冲进前三 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkpKSVB2bWd3bXBXOU40MzVlWnpVa2JtQThJcF9GR1RiS0tUU3h6WjE4RW8yVVowRTNfRkJ2ZlNUU0E3WkJRTXA0djVMTm8zcXJ6UG1CbjFzdl9mUlZneWZDQ3VfYlRwYzFKVWQxa2tJaFBwcGhQeVF0U2pMZnFBSF9KLTQ0Wlpm?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T06:21:42+00:00",
-      "summary": "全球AI大模型每周Token调用榜：DeepSeek-V4-Flash正式版连续两周第一， 今日正式涨价！ GPT-5.6 Luna冲进前三  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队 - hub.baai.ac.cn",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wdGJjNmlFYVBsWXhwUXVPVGtnam12SUJVVmhlU3dKWldsaEpBQnN2cWJPS2M4REp6Ry00Nm80bU9HT20wZFUxTg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T06:00:00+00:00",
-      "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  hub.baai.ac.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "荣耀YOYO智能体携手京东AI Agent，让购物一句话搞定- 科技快讯 - news.zdwang.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVnAxbTZ0VndtUTBrY2dBSEZqNkZPM0FBeXRwVVB5cW82UWNwcjZqamhBUDlubHFXNlowNmlSVXN1a1NEeFh6LVpxaDBpaUdnaTExVkY0U3M?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T05:41:44+00:00",
-      "summary": "荣耀YOYO智能体携手京东AI Agent，让购物一句话搞定- 科技快讯  news.zdwang.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "美国也挡不住！路透社爆：苹果联手阿里训练中国专属大模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDNZekxSbjFIZVdvczgtOHFyQm5WLVRRc3FLQTlkLUdxNXZMV1ZSU1hEbjBXNkFiNDlZQl9jM202c29zN3k5VnVKRWxjN1hWbE12T3VUTmNMRzJ6d1lsajdhTE5SRGt1c05IbWVBd09ERnNaczJyUEY2bTlfNWN4WnVIVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T05:40:00+00:00",
-      "summary": "美国也挡不住！路透社爆：苹果联手阿里训练中国专属大模型  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "Claude水印一夜变废纸 - 创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nTi1hVWY1d1NETUpiVE1CZlhvcGRvT29KbUxJVzB2VUZjQzhFS3JveVZNQWs3RElDVk9QbV9MbWo3QXdib2xxY0ZXcEZEdTN5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T03:58:36+00:00",
-      "summary": "Claude水印一夜变废纸  创业邦",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -287,6 +323,26 @@
       "summary": "Anthropic称AI智能体为争夺地盘相互谋划“暗杀”  观点网",
       "categories": [
         "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI向ChatGPT订阅用户开放GPT-5.6Sol模型百万Token上下文功能 - 网通社",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MXN1YUZpQ0xVbEE0MGxSVUVySXV4RTlwTmQ0d3VpYklIZ24tMm1pYUV2dUMzUmo5X1JPTXNwYXhKajhMSF8tdXJnYlZNNDNPUFJ3ODI0cnc2Y1E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T03:03:00+00:00",
+      "summary": "OpenAI向ChatGPT订阅用户开放GPT-5.6Sol模型百万Token上下文功能  网通社",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "荣耀YOYO智能体携手京东AI Agent，让购物一句话搞定 - 飞象网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OMDlIZkNzM3BWLTRocHBzdlJtTy1DQ3JjUkptbmNMV2ZYcDlyTGVQakJTS2p5ZzNXM3VJXzlPMURfRUZMcEVRZEdPNA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-17T02:51:49+00:00",
+      "summary": "荣耀YOYO智能体携手京东AI Agent，让购物一句话搞定  飞象网",
+      "categories": [
         "tools_apps"
       ]
     },
@@ -311,26 +367,6 @@
       ]
     },
     {
-      "title": "我国科学家发布大豆垂直大模型“丰菽”2.0 - 温州新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54UGVVRFNkZk1ST3lXWjNJVDBmNk55R1RRbGxGQV91MnYyRS1Xam5WcHd4MU5pa0ZENFo4NTY3aENkTExhTVRPQlYzRnpoQW5IMW9uMmFCTmJ0WklBWDVQSkp2X0JDUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T01:45:14+00:00",
-      "summary": "我国科学家发布大豆垂直大模型“丰菽”2.0  温州新闻网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "安徽农大发布大豆AI育种大模型“丰菽”2.0 - 网通社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15TG1kUm9tVEFLdHMwd0NMR25Bd2ZITTYtblNLcUJIR0x0V3RHcUYzQUQtU3hka3cweUU3UjB2TURJWGRtejk4NkV2eEV2SmMzaS1VUk9LRkZ5TDQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-17T00:04:00+00:00",
-      "summary": "安徽农大发布大豆AI育种大模型“丰菽”2.0  网通社",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "支付宝发布智能体跨端互联AHA协议体系 - 环球网",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ETkhGVEJkU2lyOExTcFh3U2lEMHdPV0tOWDhId1pkY19SM0NpbG1QMHF4VDRXNGFLMEh2VFk3LU0wU3NWT2JmSHQxNEg5cHg1dWZLX2hicw?oc=5",
       "source": "Google News - AI(中文)",
@@ -338,37 +374,6 @@
       "summary": "支付宝发布智能体跨端互联AHA协议体系  环球网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI性能狂飙16倍 GPT-5.6多智能体V2正式上线 741轮怪物对话1秒极速响应 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYS1lwS05aeXgxeDJmT2h3YVBVeUczT2NTQ2dvMmhMV0lwWkJNX0szQ2FaNDhyT1h6dEZMLWJNY1RhbHNxUkJsU2ppcGlPM2d1aHlJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T12:19:00+00:00",
-      "summary": "OpenAI性能狂飙16倍 GPT-5.6多智能体V2正式上线 741轮怪物对话1秒极速响应  36Kr",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "三个Claude互相封号、投毒、栽赃，Anthropic：一个AI安全，一群AI未必 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ec3BFNW1WY2NrdHZDR0ZWazRmUi1pUkpHN0gzWndCM1pEeUVQMFBvRHRaZHRQT3pZeTdNQWFycTFzeEVQMHhhbEdjWmQ4UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T12:17:00+00:00",
-      "summary": "三个Claude互相封号、投毒、栽赃，Anthropic：一个AI安全，一群AI未必  36 Kr",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI研究员分享100%代码已交给AI Claude重写Python库技术进展 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVzRoRTR2MWNDQUJ5OE5nZGJ4em5nOW9LUXVoN3R3aUM1N0dPY052UFNUU1BSRFlJY2VyNGlnUWJOVmoyWjhjaTVlRWoyanJhWW9J?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-16T12:15:00+00:00",
-      "summary": "OpenAI研究员分享100%代码已交给AI Claude重写Python库技术进展  36Kr",
-      "categories": [
-        "anthropic"
       ]
     }
   ]
