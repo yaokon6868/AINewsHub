@@ -1,12 +1,73 @@
 {
-  "updated_at": "2026-08-18T11:53:34.167863+00:00",
+  "updated_at": "2026-08-18T12:51:51.397352+00:00",
   "items": [
     {
-      "title": "小米AI大模型全球第一有何影响？ - 新浪网",
+      "title": "智能体商业迎来爆发！AI互联来了，已有多家机构行动 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qRkRCR2t2Rk5BMzhVaS1IdHRPVWxlNUhwMVRDYkFjWm1RdGtDenlDMEl6TzNUZ0ZDQjVGMGFrN1NkbmtOSnRyaV9HNjV2b25kb1oyc0NWZmFtX2xweW1uM0g3VkdEZG1TVFA0T1hyZWlmUHhHVUN5SDZxR3R1dWs?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T12:43:00+00:00",
+      "summary": "智能体商业迎来爆发！AI互联来了，已有多家机构行动  k.sina.com.cn",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI收紧青少年使用ChatGPT限制：推出专属版本强化安全防护 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWG15YVFvQmRWWTR3YjJSdTFYYjJrRzhJOXFGRXlNcmh0cjBlSnZPdHREV25uRk81U0p6MFNEWXpfRXhBY1VFLWQySkJka1lMdGZLNGY3TEdyRE8tcldfSnlzWjNJNldDajRYbWRxTFdmeWVINTNmRVpITmJQdUZWeG1Xd0JLbmlT?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T12:34:00+00:00",
+      "summary": "OpenAI收紧青少年使用ChatGPT限制：推出专属版本强化安全防护  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "湛江举办人工智能赋能农业对接会暨‘湛品’发布会 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1VqLUYzcnNJRUZva3BYbGM3SWNRWTBqVDBYRTB2bG0zeDhUUzhHSGR2bGhldGVvTGFPSjZIczhQN3lUSDZHNTRMaDZtdDNsRERuX0hWXy1YdHhVVHczSUxqMm9WRldWTVNXQWpQdElZVEhhVlZMdTZ0dzhrWXhvTVRJTzd2WXh5ZmFwX3hhek1MRndPTFNDTg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T12:24:38+00:00",
+      "summary": "湛江举办人工智能赋能农业对接会暨‘湛品’发布会  新浪财经",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "智能体将大规模进入生活服务场景，支付宝发布国内首个智能体商业底座 - icloudnews.net",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRR3EteWdDRDBFY0g1S2VERngzQk5UVTFkVXBFcDZ3Yi1oUUUzN2F5eEdwN1JKM3U1YWJQa0h3LUV0R2I3Y0gwVFBtTkI1WXdtVEE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T11:51:00+00:00",
+      "summary": "智能体将大规模进入生活服务场景，支付宝发布国内首个智能体商业底座  icloudnews.net",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGdJTWhKTHctTW43OTR6RjQxS1M2YWhJR2t6V0Fyd1kzQlBfSHhKYTdBUjNYSnN3TVFoVnVSa1JYcFRLTkpEZjdOcTlrZmNKXzktblY4N2xCNUFWckZ5ODNWSUxmY0RRV2RoQzJJem9WUzZDOFNVLXJ2dThmNUczTWdXbjFSeDVT?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T11:46:37+00:00",
+      "summary": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "00后高盛金融男，欲奸杀前女友，被ChatGPT上报后被捕 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0NtNzEyamtmT3VXZzdaNW8zZ0ZBbXNPNExPV0o5a3lITDR6VUZTY0xUWjVzZC04cEtLc1h3UU9PUW9lR3ZIaFR1eVlqZ1UwVnNXT3MtQnJDV0JUcExPbi15Sm5lOG1uaXJ6UU9JdGJhcWExS0xVSDA2Q2JpaEFMUHZBUEJ3aFdm?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T11:33:00+00:00",
+      "summary": "00后高盛金融男，欲奸杀前女友，被ChatGPT上报后被捕  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "小米AI大模型全球第一有何影响？ - k.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16NjBOZmJJUVdwRDV5UXZiRDlWaVNZMXRIUkdTejJNeVhqMEtDODM3ZHQ2c3M2WFhaZjQ5UFZ5a2hlN3o3bFVJTVlCR0x0b1oxNkpNTmdvWV9WV2M1R1VKZ2JJbkpVWmp5bTZJODJLUGpnTnFBMFZJNGp0V1VHWTA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-18T11:31:53+00:00",
-      "summary": "小米AI大模型全球第一有何影响？  新浪网",
+      "summary": "小米AI大模型全球第一有何影响？  k.sina.com.cn",
       "categories": [
         "other_big"
       ]
@@ -32,25 +93,24 @@
       ]
     },
     {
-      "title": "高德发布云睿·时空智能体平台 上线五大行业智能体 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04S3BEYjZpU2laMmdrUEZDR0IwalY1UndJcXVkMU54S2pIUU50WmFFeTk4LXRSYm16SjU0MzlKb2FJN2c4MVplLQ?oc=5",
+      "title": "渔军师丨渔易受邀参加AI赋能农业高质量发展对接会暨2026年第一批湛品发布会 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBodml2YVlfM0U4RWp6VVNwR2ttUUoyRm1VbFAtbmpRdXZfbzZwSHVhOFZ4SjU2YU5NS0s5Y084Z1A0VlA5YmRyaDNGMUpXMThzZlhr?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-18T10:42:52+00:00",
-      "summary": "高德发布云睿·时空智能体平台 上线五大行业智能体  凤凰网",
+      "published": "2026-08-18T10:31:00+00:00",
+      "summary": "渔军师丨渔易受邀参加AI赋能农业高质量发展对接会暨2026年第一批湛品发布会  电子工程专辑",
       "categories": [
-        "tools_apps"
+        "breakthrough"
       ]
     },
     {
-      "title": "在AMD 锐龙AI Max智能体PC和Radeon显卡上运行Qwen3.8 27B模型 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdXZNZ01WM3RHQWVLcmh0TThRcjVaYnhUZ2kxY1dmc0xYQ0V2TzN4NmRabFRmdmFkaDZrWVBITEpwN2IzVmQySS16bzg1Um8ybk1jRFRnUnBjLTVGVEotLU9SY25McUplWE01cG1ZblA5YXJ3QUJVd1JIVnJvbE1vUlgyLTNoZGpFeVkxdWQ2QQ?oc=5",
+      "title": "预告：交通运输部定于8月20日就“人工智能+交通运输”典型应用场景创新行动举行专题新闻发布会 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTZMbHFBckJ5RDd2OTIxcUZiOG84LWw3VEg4OEJiaDZqSGdVOWt5QzNJY00tR3VRd2JFekc0dEhvRzdwb2xaVFRoc1c5SV9Ob2xhRUdpdmVqSlpaRzJiNzB4Y3VIZkRoanFIVnd4QklxcFMtNGYtWS1RNGpwTFlha1hHT0QyamZtV1NvUVRmNVJZanNpU2pFag?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-18T10:38:15+00:00",
-      "summary": "在AMD 锐龙AI Max智能体PC和Radeon显卡上运行Qwen3.8 27B模型  新浪网",
+      "published": "2026-08-18T10:19:27+00:00",
+      "summary": "预告：交通运输部定于8月20日就“人工智能+交通运输”典型应用场景创新行动举行专题新闻发布会  新浪财经",
       "categories": [
-        "other_big",
-        "tools_apps",
-        "chips"
+        "breakthrough",
+        "tools_apps"
       ]
     },
     {
@@ -64,13 +124,13 @@
       ]
     },
     {
-      "title": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1oc0I1a242VE9xVlpHc1p0RF81WXZWakYwc3UtdWVWLXdrWUNoTzF6RkVqRFg5M1N5UWcwem43aFJoM2M?oc=5",
+      "title": "MediaTek 助力 AI 超级计算机，让个人 AI 智能体高效本地运行 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uU2hOSVRIelRQVUl3aU9IM25EdVczaG9hSDNaS1JRNG1qVDl4TTFjanY1OGpIY0JURTZOYlF6cXNaZnZLdEZvX2U1ZXdoMVY5TXRF?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-18T10:12:27+00:00",
-      "summary": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事  爱范儿",
+      "published": "2026-08-18T10:00:00+00:00",
+      "summary": "MediaTek 助力 AI 超级计算机，让个人 AI 智能体高效本地运行  电子工程专辑",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -115,13 +175,15 @@
       ]
     },
     {
-      "title": "美國華裔男和ChatGPT說悄悄話 AI直接報警抓人 - 新唐人電視台",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4aGlNU3A3R0t0N3lQOVRVdWxKRkNYQTliT2ZZd19HdENmY0JhYWtVM0tXNEJkZ25HS09mUEtzekJpSWNtaWxDeVdJcGhQUUVfcl9YUWoxQ2JVWk11UDFRYtIBZkFVX3lxTE94RkgzZHphZXBlZk16MnJwdEFacm4tMnhsNmROSXdJVXBsYUtURHFJaW1WZ1VtNWpiazZRZ0RRdUtndy1iQzdJYWh1YnVSU1RjeHNzdEZURk55TWlvaUZGMWJaVFlnZw?oc=5",
+      "title": "在AMD 锐龙 AI Max 智能体PC和Radeon 显卡上运行Qwen3.8 27B模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0pSTlZSMnp6ckhfVHVtVWFuWkdLTlBqVkpQM2lmTXZwblBxOUFINGE2WGRnOEZtNkJHd1Bqd0UwenNiNVI1Ty1wZnBERXlUbWMzNlR1WlZ6UlV6eERVblhMZEstS2VpRFhjYm56b0duRElDTDAwaTFldC1qZkJrMmFsejdodkNt?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-18T09:08:37+00:00",
-      "summary": "美國華裔男和ChatGPT說悄悄話 AI直接報警抓人  新唐人電視台",
+      "published": "2026-08-18T09:28:00+00:00",
+      "summary": "在AMD 锐龙 AI Max 智能体PC和Radeon 显卡上运行Qwen3.8 27B模型  搜狐网",
       "categories": [
-        "openai"
+        "other_big",
+        "tools_apps",
+        "chips"
       ]
     },
     {
@@ -177,11 +239,11 @@
       ]
     },
     {
-      "title": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建 - 新浪网",
+      "title": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建 - k.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UaFJVRnhTUTlDM0R5MzZfSExRRlBVRjJ1RlltelBia041M3IxN2U2c1JRVFVZbzV1Qm1qNXAzVEhmWnJWckpROGt5ODBZX3hGUTJCblVsYjZiNzlIVndrd29mVzFtd3pHeXduQ2M0dTM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-18T08:32:48+00:00",
-      "summary": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建  新浪网",
+      "summary": "支付宝发布智能体跨端互联AHA协议体系，联合华为、OPPO、比亚迪等20余家企业共建  k.sina.com.cn",
       "categories": [
         "other_big",
         "tools_apps"
@@ -210,65 +272,23 @@
       ]
     },
     {
-      "title": "Agent商业化进入深水区！模型之外，产业还要跨过几道“墙” - 杭州网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wS3Nwb2dMLXFtbE8tTnNTUzhMcHM3WnlpWWh5RS1wNzBnQVUwcFk5N3J6aFNZUFF5YnJ2LUdNMHBDb1BHMXJwTnVMRUtVYW1DcGtwSjNhTWwwNmJyaWUzZHZxTzM1ZzNJUDdRaURFcS1ueG5IbUtZaXRyYjJCZw?oc=5",
+      "title": "高德发布云睿·时空智能体平台 上线五大行业智能体 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yUkFlZ0UxTHREX2JmR1lWb3hzQVlKM0pyMG1QYmw5QkE4Ml96elhzZWRWVDJwaWI2NGhOblExRzZLYlRWWnJlMjZjVVQ2Q0wxR1dBOXlGd0M3ejdud3c?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-18T08:08:56+00:00",
-      "summary": "Agent商业化进入深水区！模型之外，产业还要跨过几道“墙”  杭州网",
+      "published": "2026-08-18T06:28:10+00:00",
+      "summary": "高德发布云睿·时空智能体平台 上线五大行业智能体  DoNews",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "港股“大模型双雄”重挫 智谱跌超13% MINIMAX跌逾10% - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzVOLXNwdTlfOVRmWFJZNnoxNnBXY3Y3UTZKQURYcXRtNk14ekNvb2lGWUJieTBuUUpyUDhkamRLSmVMdEdXeDhubWZiX0NQYjZfXzhWZXZBR3ZGQWQ4TVJzYkZ2QVFzTjV1WDJVN2lhMlkzdGR3SmprbVBUWS1kT0l2NzBTcGZlR0VtTlRXNGNkeXhvUG5HbWctOHlkMW8?oc=5",
+      "title": "高德发布云睿·时空智能体平台- 快讯 - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jSW1OMjd6N3lOY2Z4NWkzU0MwTEdMeWViMVFkdGVILV9lekRSQzNjWlZkOGg0SXVwZVBUQkQ3eExyUkx5NUxHb1QwNDh2OEVYUG13aVRvVVI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-18T08:02:03+00:00",
-      "summary": "港股“大模型双雄”重挫 智谱跌超13% MINIMAX跌逾10%  新浪财经",
+      "published": "2026-08-18T05:12:57+00:00",
+      "summary": "高德发布云睿·时空智能体平台- 快讯  亿邦动力网",
       "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "GPT开始免费，DS却涨价了，大模型价格战为何逆转？_精彩视频为您呈现_36氪 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56aG8yUTR3bVJCa2c2eGllcWZzSHQ4NUlOOU5sb3NZVkcwdlRyMHcxRk01VTBSZWZYTWZ4d2ZCdGN4Z1JjbThKb0lXNkNsQ0F2TnJSN2hn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T07:53:35+00:00",
-      "summary": "GPT开始免费，DS却涨价了，大模型价格战为何逆转？_精彩视频为您呈现_36氪  36 Kr",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
-      "title": "智能体将大规模进入生活服务场景，支付宝发布国内首个智能体商业底座 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3R0QW5fUzNES1BaN2FYUmVueVBKOW4tRVpuVmg0bTR1OWRFdVJLUklNaW1zeDZwSDBieFVvXzVjU3liLXdoejR4STZmd1BOQWh0M19NLU1wbDl5Um9oT3hKTF9lYWlUdS1yeEYweVZmbFVBWV8zczk2ZE0yOTlLdExYQlh4X2RIaF9WZA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T07:45:16+00:00",
-      "summary": "智能体将大规模进入生活服务场景，支付宝发布国内首个智能体商业底座  搜狐网",
-      "categories": [
-        "breakthrough",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "迈富时举行2026年中期业绩发布会：利润增速466.1%、AI业务增123.7%，“全栈Token工厂”与企业智能体驱动的量质齐升 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SZGY0QmhYQTdHTTg2WnRkamFadTc4Y2pRY3g2TEhZdTMtakpFR2l6YjdlLUduRlh6b2NjNnBhREtRZlBXanI3a09fRjJJN1pO?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T07:06:19+00:00",
-      "summary": "迈富时举行2026年中期业绩发布会：利润增速466.1%、AI业务增123.7%，“全栈Token工厂”与企业智能体驱动的量质齐升  凤凰网财经",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic内部已有比Claude Mythos 5更强的Model 2 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkd6M00wVEFVVFJYaC13R01meVduaFBKLVVSZnhVZU92TjZkTU0tcFRsRmVpZVktX0dkR1pQaXVTTmUxN2FaMXJMOEQ4RDRzdk4xbzdMRUV0cjVFQW5WNzJ0eWlmTmpoODBqT1lKNVhfRElHT3R4cTEyeVI0aFVqNlVSTGNDLTcw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T06:15:12+00:00",
-      "summary": "Anthropic内部已有比Claude Mythos 5更强的Model 2  搜狐网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -300,26 +320,6 @@
       "summary": "中国电信TeleAgent入局办公智能体赛道，国家队做AI必须行！  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "国产AI智能体推荐｜九科信息bit-Agent搭配FDE交付体系，破解国央企 AI 规模化落地难题 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iSWU4YVpMSTRhTTVzRkFjMkNOQmtiRWRnaEhrNm9qSDk4cFQtSVFoX0dESmliWUZaT0Vtby1qS1RxVHRkWVdlMGFxaUlROURfbUY2eWtCTlhZSHV2SDRWc3BIWndHWTRkWWY0cTFNSQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T02:31:17+00:00",
-      "summary": "国产AI智能体推荐｜九科信息bit-Agent搭配FDE交付体系，破解国央企 AI 规模化落地难题  中华网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Synchrony与OpenAI合作 消费者可在ChatGPT内使用零售商专属信用卡 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JWVlqcDJXdDUydDdPQmVLZ1NmbmROMFBYdkRKVlJEVEh3d3Y0WVRnMWtPa3RaTGNMemp4aE1MVHU0XzNFUHgxNWpjRjM2MDNwVVRNdUlSZ195eUJIMUhPbDZn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T00:54:40+00:00",
-      "summary": "Synchrony与OpenAI合作 消费者可在ChatGPT内使用零售商专属信用卡  观点网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -363,11 +363,11 @@
       ]
     },
     {
-      "title": "智能体商业爆发在即 支付宝发布国内首个智能体商业底座 - bjnews.com.cn",
+      "title": "智能体商业爆发在即 支付宝发布国内首个智能体商业底座 - 新京报",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55ZUFMWVFtOUVjb0kxVW5yY3dzUVB4NzdIbFNmX3VKaDFaSzhQYVNZU2hQcVlBVFNkakNpMExDWlZrZTZ0bDRZR0dmTjA1SmtnNmZzN25pVnlPM3BteG1KNzM3RlA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-17T12:57:00+00:00",
-      "summary": "智能体商业爆发在即 支付宝发布国内首个智能体商业底座  bjnews.com.cn",
+      "summary": "智能体商业爆发在即 支付宝发布国内首个智能体商业底座  新京报",
       "categories": [
         "breakthrough",
         "tools_apps"
