@@ -1,6 +1,77 @@
 {
-  "updated_at": "2026-08-19T06:49:06.079220+00:00",
+  "updated_at": "2026-08-19T07:40:20.468904+00:00",
   "items": [
+    {
+      "title": "日本发布生成式AI指南草案：敦促开发者公开训练数据来源，压缩“黑盒训练”空间 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQczlOYWVka0c3TUw4VzhsVlBrMVZXVWRTWElRWm1hQTQ2N1I1M3FsNUhIcFl2T0l4aVBwMDkyUUppdmQxNFJtZlRyWklQRTc1TzhMVkczSk9SQVNJb1dlbUxxMWFNOVdkT1I1TmMySW1tWld5azV6N3ZRVktEMmpuVzMyN0RMSEtSczhabQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:18:38+00:00",
+      "summary": "日本发布生成式AI指南草案：敦促开发者公开训练数据来源，压缩“黑盒训练”空间  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic称Claude Desktop后台启动速度比1个月前快了约2倍 - i.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TQk50V3BXd3ZsWW13Uk9BdFQybXBqSFJXR01ESTVQeHlYa1NFdHFlT0RHZldmT1BXRGNDUVpWYktYTjZrM3kwcA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:16:02+00:00",
+      "summary": "Anthropic称Claude Desktop后台启动速度比1个月前快了约2倍  i.ifeng.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic延长Claude Code周配额50%加成至8月31日 - donews.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uTm11S3cxaURYS1I0RHd2MGN1MVljakUyc3hZWVhiNmw1em9iLVg0dHdyNHhlU29IQ0JiaGxmM1MzZVBfdEp3WW5FQ2JKeF93V3U3VFU4NjRjQ0U4NWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:00:03+00:00",
+      "summary": "Anthropic延长Claude Code周配额50%加成至8月31日  donews.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "传神语联创始人何恩培：大模型不一定越大越好，AGI应在落地中成长 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1ZFemt5NUt3RkN5SEIzSWxDc0duWXotdjZUbXhEUWl4UnpDZGU2d3lEMTRXQkhjNW1oSU94RWxIbjlnMmg1NEVYS0RYSHlWbGh5dGVjbE1PQlVmTlFjS3lhbk93cldMa3pLV2drLVFmVmlpazQ0T3V3ZGJHN2lDZll2TmxwQ0lW?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T06:56:18+00:00",
+      "summary": "传神语联创始人何恩培：大模型不一定越大越好，AGI应在落地中成长  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic内部已有比Claude Mythos 5更强的Model 2 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMzQ3MkY2UVFUYnhFSEQ5SzF3V1FwdkY1VEdHbVJGUTkyeHcyTzg3amUwN0FmWktVcS1IUVNjaXRzZGtGWC1TaXNpbUlEUjVnclhNQWJlWGRka0p6R2FPSHcyejBQQUtYVnBJZk1PalhndExUdDR4T2dodWppUU0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T06:55:05+00:00",
+      "summary": "Anthropic内部已有比Claude Mythos 5更强的Model 2  手机新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek发布Agent领域新产品Harness 官方提示勿与Claude Code对标 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5aHVISUZEWmd0aV9nMnRNU0wzc0xNX0xsSWoxOEY3VW16T05naWMtclNabWhoc2lQdTlhSG95Y2Y3Wm1abFR3Xzd4SWgzbl9SMTNtZ0xhT1dlR3dxczJoRndn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T06:46:35+00:00",
+      "summary": "DeepSeek发布Agent领域新产品Harness 官方提示勿与Claude Code对标  观点网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "企业AI智能体推荐｜bit-Agent技术底座联动FDE 驻场交付，九科信息双轮驱动企业数智化转型升级 - tech.tom.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUMlVFaHp5eDQ1MXExUTc2S3lrSWpfOTNoQ2pmZ0pfeVg2eHZVV09pME40QmlJSV9UY1dHVHc5QS1KQm02ZFZKclRSNVM5S0dUWW44RWln?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T06:39:00+00:00",
+      "summary": "企业AI智能体推荐｜bit-Agent技术底座联动FDE 驻场交付，九科信息双轮驱动企业数智化转型升级  tech.tom.com",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "Anthropic预告Claude Code新增 /design 命令 - 品玩",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KNEdVcmF5QTROaGdvU0hZZlIzbG9uc2JQYjJ3cldXVTUzdmI4d3gydmhYQkYzQnp3SVpqNEhIQzVrekVWZUxVMw?oc=5",
@@ -12,13 +83,13 @@
       ]
     },
     {
-      "title": "语音唤醒灵敏的手机推荐：0.5秒实测+AI按键+端侧大模型，3个维度说清+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXlfei10X2NRbzFhWHJNUG55bkdDZkhZdW14dnRvYm9QQmxJOUtzSHFUbEdUVzZrN3hVcFdzdGtVQTk2QkYzQkdGRkpzOFFxclRsZl9NN2duOEJCVnJ0QXNnb2pFa3RDXy1PZ0had0xkc3psV1d0Q3JibVVpUEJRdA?oc=5",
+      "title": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布 - news.cau.edu.cn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1RGtHb3Y1bU95dUtzTWpnTzlXQ3pQV3l5VlllUDJfdmtqQ1A1Ml92QVNCWW1SaUhnNlVEcXJ6YXdtWlRiWFRPM0lpTXVRMFRmazkzSHViWjBfb3R5QVhFRWluYnBCU0lyYUxUaGRtbUhNVW0wSFBv?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T06:07:07+00:00",
-      "summary": "语音唤醒灵敏的手机推荐：0.5秒实测+AI按键+端侧大模型，3个维度说清+FAQ  手机新浪网",
+      "published": "2026-08-19T05:46:54+00:00",
+      "summary": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布  news.cau.edu.cn",
       "categories": [
-        "local_model"
+        "other"
       ]
     },
     {
@@ -39,16 +110,6 @@
       "summary": "当AI智能体走进伊利一线服务，导购和达人营销有了新解法  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "着眼下一代科学AI：当“静态大模型”撞上物理世界，谁在跑通真正的自进化闭环？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BeHFDaTBtV2xhN3RZN2hNS3h3QlJqMF81eWNfRkZhWlhvMVRJejJ4M3pBN3JBRnMyNnQzVkkzUFRDc05BZnBKWWNzcnBvTV9UcUdiQlNTVFZFR3ItUmNiN29HMS1uZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T04:57:23+00:00",
-      "summary": "着眼下一代科学AI：当“静态大模型”撞上物理世界，谁在跑通真正的自进化闭环？  东方财富",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -102,17 +163,6 @@
       ]
     },
     {
-      "title": "DeepSeek Harness：一个插件化 Agent 底座，不应与 Claude Code 对标 - 虎嗅",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadDJHcURxYkxQcHMwdjJBZEg4dVNTZFJsUTZrdWc1cjBQaWVCbTg4MTR0QUtjWXNPNmw5T1VnanR3aHVQVEM1RFRSTi1OLU1VTXRmdg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T04:08:44+00:00",
-      "summary": "DeepSeek Harness：一个插件化 Agent 底座，不应与 Claude Code 对标  虎嗅",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "美25岁前高盛分析师欲奸杀前女友，向ChatGPT透露计划后被平台报警 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnpDM3QtSTh1QjVLbFk0c0pVMXZaR0lzWHNoRVkxbTJkUGcxRGhBcUp4aFlWdmVfcnJlSzdiTF9FbHNyRzRraktxTUhFOXhLV3JGMjhnOGVTUUlaX1FzWlNhSWtVZDZxOTg4aTNDRTRPRTlpQmxwTHoyWnQ0Q1lOeUptMzczX2pOS2FwT0l2d3ZMQy01?oc=5",
       "source": "Google News - AI(中文)",
@@ -144,11 +194,11 @@
       ]
     },
     {
-      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - 中华网",
+      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - hea.china.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zek1ucW85c2VVVjNPdFhmRVNfRm9kQjVqRjFIMjRrZ19QbU5qREtUMTJXY1F3ZVJvQko1TjU5OEhKWTRwS1JWRTgwYl9OR2ViUVhDdVhWT05wUjVVZGVHNXFrd1pZXzVwRUs4Wg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T03:32:17+00:00",
-      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  中华网",
+      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  hea.china.com",
       "categories": [
         "tools_apps"
       ]
@@ -175,11 +225,11 @@
       ]
     },
     {
-      "title": "Claude Code将集成/design命令支持设计原型生成 - DoNews",
+      "title": "Claude Code将集成/design命令支持设计原型生成 - donews.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qQTlsZER2Y2xoRUNrZDhMeEctNGROLXFUNEY0QVVyNjhzX3FYN0MwUzNqQ3g3NGFUdkZPQkxjb1JvaHhXRVV5RWdjMzBXY1BCYUZwRzEzWDFCc005bWc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T03:01:03+00:00",
-      "summary": "Claude Code将集成/design命令支持设计原型生成  DoNews",
+      "summary": "Claude Code将集成/design命令支持设计原型生成  donews.com",
       "categories": [
         "anthropic"
       ]
@@ -226,17 +276,6 @@
       ]
     },
     {
-      "title": "没有GPU照样跑大模型！阿里5nm RISC-V芯片完成历史首秀：30 token/s - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEhwNXFwdGkySHpiZkw0blN1cFhCRHhIVjZqT0ZyWEcxR0hCRGxkQURkQmpHV0dtRlVTTlp1V0xwNGtRU2pEZlFZbHI5cG1HSlBFeXRVTDNEMmdvbFJGZFBkMDlnQmFva1gyUkRUS0Itc0FzX0lESUsteVBXSUZ5d1JPTWxiMTBy?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:09:16+00:00",
-      "summary": "没有GPU照样跑大模型！阿里5nm RISC-V芯片完成历史首秀：30 token/s  搜狐网",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
       "title": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDlKN0thTU1ZOEtKVlo1X2hrS1NlVldsXzFFb3docV9SemI2bGZDRWRoWkNCang4Rjhfd1lwYk1HVkFYc3p6M19TZmxlZk9YanZRLWdDT204SzM4YTlmREh2MXp5b1c3bllraTJaN0hHbUg1dnRLYS1QUkp6VVA3b2RGUk1UZXp1?oc=5",
       "source": "Google News - AI(中文)",
@@ -244,36 +283,6 @@
       "summary": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机  搜狐网",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "离谱！晒出Claude退订截图就送你200刀：Cursor抢人抢疯了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa01LOXF5eGJNNWdSdUNDc3VIaFR6QVBtNWRRbzNyOF9TNVY2RUhFQThsWXAxREI4LWFGQ1EzSFZfV0RQUi12dUpJWlhSUERNWWZqb3VXQS1OOGVCSEdHSTRaT2ljeVlDWlN4UFhLZ1VDS29tX2tuTXBpVHRaWWpaUlllVHRDRkIt?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:06:10+00:00",
-      "summary": "离谱！晒出Claude退订截图就送你200刀：Cursor抢人抢疯了  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "小艺即将上线阿宝智能体，查社保、申领证件、收能量一句话轻松搞定 - 飞象网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XRkNVMXZabXNZUmo3VEJxSnc4VWRRcENMb2VCOTEySTdvS3BvZ1d1dVh2dFlaM1lXREtzNTdQek1KRXJrS0k3VnhlZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T01:59:30+00:00",
-      "summary": "小艺即将上线阿宝智能体，查社保、申领证件、收能量一句话轻松搞定  飞象网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布 - 中国农业大学新闻网",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1RGtHb3Y1bU95dUtzTWpnTzlXQ3pQV3l5VlllUDJfdmtqQ1A1Ml92QVNCWW1SaUhnNlVEcXJ6YXdtWlRiWFRPM0lpTXVRMFRmazkzSHViWjBfb3R5QVhFRWluYnBCU0lyYUxUaGRtbUhNVW0wSFBv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T01:21:18+00:00",
-      "summary": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布  中国农业大学新闻网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -330,16 +339,6 @@
       ]
     },
     {
-      "title": "OpenAI为青少年推出专属版本ChatGPT，承诺强化安全防护 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVlPYjJxT2VmNldGak52RWRhN1otSnU2UTlwV1dBS29mVnppLW5oaGFzTjVXNF9qNjBnVkxvSkFUcWtZSndCN0JpbDN0a09wV2JtWDFMbUdfVWRfcjYwajdsdjEyWHA1ak9Jejl3WUM0Z0Q1RDN2NDhMX2xjZnA5amlEbXlaczVJbFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T15:22:42+00:00",
-      "summary": "OpenAI为青少年推出专属版本ChatGPT，承诺强化安全防护  finance.sina.com.cn",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "澜存科技：站在大模型与智能体之间，做标准化的生意 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWxVUHBWTDRYQjlPR1dwbTRwOV9BQlB4aTg2NWZiR3J5WDBQd0dTVlVkUHF2ZG9uRnV5NDBmRnZ0WFlxV3hCLWdMdGZFM0czc09vSjNBSHIxYXFuYnZSZk1nanZGY0ZKbjhYNFBuSGZIZXEyQU85WFFVbm1vY3VTcXBlRVFFRGNkX2c?oc=5",
       "source": "Google News - AI(中文)",
@@ -361,11 +360,11 @@
       ]
     },
     {
-      "title": "高德发布云睿·时空智能体平台 上线五大行业智能体 - DoNews",
+      "title": "高德发布云睿·时空智能体平台 上线五大行业智能体 - donews.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yUkFlZ0UxTHREX2JmR1lWb3hzQVlKM0pyMG1QYmw5QkE4Ml96elhzZWRWVDJwaWI2NGhOblExRzZLYlRWWnJlMjZjVVQ2Q0wxR1dBOXlGd0M3ejdud3c?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-18T06:28:10+00:00",
-      "summary": "高德发布云睿·时空智能体平台 上线五大行业智能体  DoNews",
+      "summary": "高德发布云睿·时空智能体平台 上线五大行业智能体  donews.com",
       "categories": [
         "tools_apps"
       ]
