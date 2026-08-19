@@ -1,22 +1,92 @@
 {
-  "updated_at": "2026-08-19T07:40:20.468904+00:00",
+  "updated_at": "2026-08-19T08:40:21.805938+00:00",
   "items": [
     {
-      "title": "日本发布生成式AI指南草案：敦促开发者公开训练数据来源，压缩“黑盒训练”空间 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQczlOYWVka0c3TUw4VzhsVlBrMVZXVWRTWElRWm1hQTQ2N1I1M3FsNUhIcFl2T0l4aVBwMDkyUUppdmQxNFJtZlRyWklQRTc1TzhMVkczSk9SQVNJb1dlbUxxMWFNOVdkT1I1TmMySW1tWld5azV6N3ZRVktEMmpuVzMyN0RMSEtSczhabQ?oc=5",
+      "title": "OpenAI推出青少年版ChatGPT：严控情感依赖与作业作弊 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWJ4cnFJMU5DV0RsQmhZazl5TUwyYUNnVmFjblhVYlg1UlRHbnlwazhUVUowQ21KdjIwVUJraXpIVFp0LTRyUkRoTlJlR3hFWUxpX3lzYUJPTGlBdGJQNzBnTWlXNlh4dG5OSTRiM1FaNFZNRHhhWF9venRIUW9fMHo5WlJsblIxQjctbA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T07:18:38+00:00",
-      "summary": "日本发布生成式AI指南草案：敦促开发者公开训练数据来源，压缩“黑盒训练”空间  搜狐网",
+      "published": "2026-08-19T08:21:38+00:00",
+      "summary": "OpenAI推出青少年版ChatGPT：严控情感依赖与作业作弊  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "洋葱学园发布“AI未来课堂” 多位专家谈AI教育的未来 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEhYZloyeEU5RzdxTk9FR1dpc0VzSzFRSGN6ZXYxTVdzaTNNaHdncWphUE9BUjJsdk1CeHdiUGljWWNxREJfdkY1bDlCM0ltalBPaThPYUQ0Ty1TTnpsa3lMY2c0RmdIeFpRdW1TaXE0MEpDRGVVaHN4RkdKNlVzb2lYODRubl91MjFDSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T08:05:43+00:00",
+      "summary": "洋葱学园发布“AI未来课堂” 多位专家谈AI教育的未来  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "Anthropic称Claude Desktop后台启动速度比1个月前快了约2倍 - i.ifeng.com",
+      "title": "德沃克X-Agent工业智能体，离散智造典型案例背后的硬实力 - 中华网生活",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GbUItb0FYN19waU5hZjIwTmhiUEFUZnA5WE1NYWVyYk9GSGk4Z2dCQ1RXSGk1Q1pMUEw0V045QmxyMTNiRlZkWVdpa3pDZzNWQlhJQXQ2TkpxRXNVcklGdFkxOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T08:05:08+00:00",
+      "summary": "德沃克X-Agent工业智能体，离散智造典型案例背后的硬实力  中华网生活",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI巨头一夜两连炸：新模型偷跑，Claude又全线瘫了？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeF9DNGxSd3lWeVVuMV9jSVo5cWExSy1TaWRudUZGd1BSVWRXZjJ1bVMtRWh5Nl9KbWkzNnloc3N6MUZjdXNNYTltazdYYi1saDFSeTZXeHF4MGpaeHpvVUNIUGQ4T1JPN0JrZTNBczJIWTdLc25DeTJDN0hJQU1qbkVBOW5OQ1BBYXlzWA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:56:54+00:00",
+      "summary": "AI巨头一夜两连炸：新模型偷跑，Claude又全线瘫了？  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "中之杰智能“工业智能体赋能德沃克AI制造执行系统”获权威认证 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTVpZlJMNUNuYmVITHdCdFhUdGZRWmRiWXd4M2pCZzVGVWZlc2lpbzQzN09JS1BDa1YxaFVhMXYwTWZjSU5UYk9UUldLRnNvTkdwMkZEV3BWOHQtMVpfc0tVdTZBVG14VG9vMGp6TlRFVDc0dWRrVUdNLVNndnFfcWpjUUJOeElrRzJHcA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:55:58+00:00",
+      "summary": "中之杰智能“工业智能体赋能德沃克AI制造执行系统”获权威认证  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "高盛前分析师向ChatGPT透露奸杀前女友计划，平台监测到后报警 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXZ2NERGZlphWXQzazVfMXl4WXpQamQ5QnN5V2szM25XMUFaaWItdXVRTWN1NngzR2t1cXZNazZENzNCbmd1OGk1a0VOUmdtMjR6d2RUX1JnTU5ZVnNNd2FNMkl5TUQzR2J1X1JjTkZybVZyaWx3dmhnU1VDNWp3R1JWdkozM0l0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:54:23+00:00",
+      "summary": "高盛前分析师向ChatGPT透露奸杀前女友计划，平台监测到后报警  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "高德发布云睿·时空智能体平台 打造“技术平台+智能体集群”新模式 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTmw0dHFFODVpRlBtSVEwQ2w1cmxjeDc4M3p3VkROTGstVmtFM3ZNam1zTWhKVHE3MVNJMUl6ODFBbXNlRWtqU0VXRzVHNGVWZ2tzS0lFM3ZadmZqczhmYlREdTVDMXdLLXdWYkY2elI2ZHZsczF5TE9kaE44X2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:45:00+00:00",
+      "summary": "高德发布云睿·时空智能体平台 打造“技术平台+智能体集群”新模式  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "广东政务AI办公智能体湾擎·WorkBuddy正式发布 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1RDVTEyYjdyY1pZUFFwc0o4VFJHZG1CZ3E0dEZiOXFfSHFVeEhSMkw2RnZOM3k0OGk0UlNGSVBfYUNQZS1FOGZ1YVNudFJDNE1SQmlqc19pcGlxRS1xaThsdU5SM0xZM19ib3ZpOFZQNUNvVFU5Nkk3bW1NQmlEbjhOekR4NGxs?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T07:30:36+00:00",
+      "summary": "广东政务AI办公智能体湾擎·WorkBuddy正式发布  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic称Claude Desktop后台启动速度比1个月前快了约2倍 - 凤凰网",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TQk50V3BXd3ZsWW13Uk9BdFQybXBqSFJXR01ESTVQeHlYa1NFdHFlT0RHZldmT1BXRGNDUVpWYktYTjZrM3kwcA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T07:16:02+00:00",
-      "summary": "Anthropic称Claude Desktop后台启动速度比1个月前快了约2倍  i.ifeng.com",
+      "summary": "Anthropic称Claude Desktop后台启动速度比1个月前快了约2倍  凤凰网",
       "categories": [
         "anthropic"
       ]
@@ -63,11 +133,11 @@
       ]
     },
     {
-      "title": "企业AI智能体推荐｜bit-Agent技术底座联动FDE 驻场交付，九科信息双轮驱动企业数智化转型升级 - tech.tom.com",
+      "title": "企业AI智能体推荐｜bit-Agent技术底座联动FDE 驻场交付，九科信息双轮驱动企业数智化转型升级 - TOM科技",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUMlVFaHp5eDQ1MXExUTc2S3lrSWpfOTNoQ2pmZ0pfeVg2eHZVV09pME40QmlJSV9UY1dHVHc5QS1KQm02ZFZKclRSNVM5S0dUWW44RWln?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T06:39:00+00:00",
-      "summary": "企业AI智能体推荐｜bit-Agent技术底座联动FDE 驻场交付，九科信息双轮驱动企业数智化转型升级  tech.tom.com",
+      "summary": "企业AI智能体推荐｜bit-Agent技术底座联动FDE 驻场交付，九科信息双轮驱动企业数智化转型升级  TOM科技",
       "categories": [
         "tools_apps"
       ]
@@ -83,11 +153,11 @@
       ]
     },
     {
-      "title": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布 - news.cau.edu.cn",
+      "title": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布 - 中国农业大学新闻网",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1RGtHb3Y1bU95dUtzTWpnTzlXQ3pQV3l5VlllUDJfdmtqQ1A1Ml92QVNCWW1SaUhnNlVEcXJ6YXdtWlRiWFRPM0lpTXVRMFRmazkzSHViWjBfb3R5QVhFRWluYnBCU0lyYUxUaGRtbUhNVW0wSFBv?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T05:46:54+00:00",
-      "summary": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布  news.cau.edu.cn",
+      "summary": "“范蠡大模型4.0”在2026国际智慧渔业和水产大会正式发布  中国农业大学新闻网",
       "categories": [
         "other"
       ]
@@ -133,6 +203,17 @@
       ]
     },
     {
+      "title": "交通运输部举行专题新闻发布会 介绍“人工智能+交通运输”典型应用场景创新行动有关情况 - mot.gov.cn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iNDhCM0xqYjZhdERBdWRBTTBRbkVFM1JhMVpfR19oLUVHRDY3ZTdUMFhsWGNLdnhJdEtzbGNTbjJrWVNwdVNldXdqWTkyNzFUMVdLUmp2VjUwY05CNVJnZkNFdl9XN2RaSHRWNDVSWmh4WmZ2NURRMWdKVmM1Zw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T04:39:05+00:00",
+      "summary": "交通运输部举行专题新闻发布会 介绍“人工智能+交通运输”典型应用场景创新行动有关情况  mot.gov.cn",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "港股AI大模型双雄重挫逾13% 卖空数据创阶段新高 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTRJbDRHYk1UdzZlR2N3Mmhra3pFeG01TnExU3NOYWVlUVdmUE1UOEpoaVd3YUdxdWRQSjRxV1lRN0owbHdhN2FLWU9XdWlWYVBILVg1RUJlaEY4bWpneER4RElGbldwWWdXNktGQURUbkZwMGFnMDE3MjRQN2pEbVJB?oc=5",
       "source": "Google News - AI(中文)",
@@ -148,26 +229,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T04:18:45+00:00",
       "summary": "风波不断！ChatGPT推出青少年专属版，背后可不只是保护学生  雷科技",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI正式推出青少年版ChatGPT：主打学习模式，加强安全防护 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSXltYVNya05CSGRqa1hpWUtwbW5OMG56cld1b3JfSmR5MTAtQ0hGUlFCVUVMbjFWc1hLV0hjS1ExWldPdldVeXRyLUk0b2hBSzFUeWFsY2pVTWNpd29GdDZZQTRPTWhVbnhJZWx1b0FIck9HODRhY29GUWl3YTZjNDZuQlUwRHNKc0hOSw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T04:16:04+00:00",
-      "summary": "OpenAI正式推出青少年版ChatGPT：主打学习模式，加强安全防护  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "美25岁前高盛分析师欲奸杀前女友，向ChatGPT透露计划后被平台报警 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnpDM3QtSTh1QjVLbFk0c0pVMXZaR0lzWHNoRVkxbTJkUGcxRGhBcUp4aFlWdmVfcnJlSzdiTF9FbHNyRzRraktxTUhFOXhLV3JGMjhnOGVTUUlaX1FzWlNhSWtVZDZxOTg4aTNDRTRPRTlpQmxwTHoyWnQ0Q1lOeUptMzczX2pOS2FwT0l2d3ZMQy01?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T04:05:35+00:00",
-      "summary": "美25岁前高盛分析师欲奸杀前女友，向ChatGPT透露计划后被平台报警  手机新浪网",
       "categories": [
         "openai"
       ]
@@ -194,21 +255,11 @@
       ]
     },
     {
-      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - hea.china.com",
+      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - 中华网",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zek1ucW85c2VVVjNPdFhmRVNfRm9kQjVqRjFIMjRrZ19QbU5qREtUMTJXY1F3ZVJvQko1TjU5OEhKWTRwS1JWRTgwYl9OR2ViUVhDdVhWT05wUjVVZGVHNXFrd1pZXzVwRUs4Wg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T03:32:17+00:00",
-      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  hea.china.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "北京友谊医院智能体“谊小益”上线蚂蚁阿福，陪诊、查报告，更方便了 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82ckJGYW9Sc0pXTEttNkRVTlBEa2dWVEVQeWFOSVo4eFdfSVppQnVZSmRORHVKSm40WFV2dW93MHRBRHJULWRsSjRKU0tKUWQ4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T03:19:23+00:00",
-      "summary": "北京友谊医院智能体“谊小益”上线蚂蚁阿福，陪诊、查报告，更方便了  凤凰网财经",
+      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  中华网",
       "categories": [
         "tools_apps"
       ]
@@ -222,67 +273,6 @@
       "categories": [
         "breakthrough",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Code将集成/design命令支持设计原型生成 - donews.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qQTlsZER2Y2xoRUNrZDhMeEctNGROLXFUNEY0QVVyNjhzX3FYN0MwUzNqQ3g3NGFUdkZPQkxjb1JvaHhXRVV5RWdjMzBXY1BCYUZwRzEzWDFCc005bWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T03:01:03+00:00",
-      "summary": "Claude Code将集成/design命令支持设计原型生成  donews.com",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "中国AI“智”惠全球形成实打实生产力多个国产大模型接连迭代“上新” _新闻频道 - 厦门网",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zb2l6aFRvaHN6WXJWZU03R0NTLWFCLTdRU3VLU1lWdTY2Z19YbjV6V0dxNVdZNUdmOU5HRVJqZ1M3WUJYNHZ0QkJwVTVoTzc0T3dTQWdWeUJ4Z0cxSzBFT1NaNng?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:51:00+00:00",
-      "summary": "中国AI“智”惠全球形成实打实生产力多个国产大模型接连迭代“上新” _新闻频道  厦门网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "上海张江高新区“十五五”规划：发力下一代大模型 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LbzFWck56NlRkNHFKMHBJLUFRRE1meVAxN2I0UzNua052QnJGNFpVZWduVXNiYjFBZk9DRmhMenFCc3JBYlNkbl9TMUVBT29OT0hHc0UtZ0JrR25RVk02S1pB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:46:49+00:00",
-      "summary": "上海张江高新区“十五五”规划：发力下一代大模型  观点网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "国产3D大模型已经进化成这样了，零门槛！一张照片4秒变手办 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15S25DUUtYYlZCcmVubVBweG5WbFE0WUFnWjUxUjNGaGRJZnFGYzl4QnFYeWVEbUVKNUl0cm1ZZ1JzNFRTUU1JVFJabmk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:43:35+00:00",
-      "summary": "国产3D大模型已经进化成这样了，零门槛！一张照片4秒变手办  凤凰网科技",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store - 极客公园",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UdkVRSFBtbHVFbzlCSE9BWWJJOWZEYm1NSlFWUTUyeS1ndE4tTzFmNXR6aXFaN0VJM0JGV3BNOEthTUoxeVkxVGEwX0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:34:28+00:00",
-      "summary": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store  极客公园",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDlKN0thTU1ZOEtKVlo1X2hrS1NlVldsXzFFb3docV9SemI2bGZDRWRoWkNCang4Rjhfd1lwYk1HVkFYc3p6M19TZmxlZk9YanZRLWdDT204SzM4YTlmREh2MXp5b1c3bllraTJaN0hHbUg1dnRLYS1QUkp6VVA3b2RGUk1UZXp1?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:06:10+00:00",
-      "summary": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机  搜狐网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -339,6 +329,27 @@
       ]
     },
     {
+      "title": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、荣耀、比亚迪、吉利等20余家企业共建 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTFd6QXFYVWlvb05VYmpvT3U0SlVUT2VfeTRmTFpwVkJMSTViT1lMSTA4Mzcya0hraVI0Z3k0aDdaYjFWWk5ybkJUNnB6TjF0YzdENDFSMjY4X29wLWN2N0k5YzNzSW11UkxQdzZkOXFSc1pnZUFsM0Yxc3JNeHVIOEwtbUlyYThUOTdFYUtwVVBxc3JDajhac0p6aVczZVU0NFlOSW13NHFCTjY1V2dKYmdxbm03TDR1UldNNVlJUzItMWUwc1lGM19iT3piQi11MnVZay1xbjdyekJKelZTdkZqLVpCU2lmSVFIX19rSmZScG1fSVlqcTM3dlRQdE4wNGk5YVVYODB0aXlEVmZoSg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T20:37:24+00:00",
+      "summary": "支付宝发布智能体跨端互联AHA协议体系，联合千问、华为、荣耀、比亚迪、吉利等20余家企业共建  新浪财经",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI为青少年推出专属版本ChatGPT，承诺强化安全防护 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVlPYjJxT2VmNldGak52RWRhN1otSnU2UTlwV1dBS29mVnppLW5oaGFzTjVXNF9qNjBnVkxvSkFUcWtZSndCN0JpbDN0a09wV2JtWDFMbUdfVWRfcjYwajdsdjEyWHA1ak9Jejl3WUM0Z0Q1RDN2NDhMX2xjZnA5amlEbXlaczVJbFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-18T15:22:42+00:00",
+      "summary": "OpenAI为青少年推出专属版本ChatGPT，承诺强化安全防护  新浪财经",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "澜存科技：站在大模型与智能体之间，做标准化的生意 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWxVUHBWTDRYQjlPR1dwbTRwOV9BQlB4aTg2NWZiR3J5WDBQd0dTVlVkUHF2ZG9uRnV5NDBmRnZ0WFlxV3hCLWdMdGZFM0czc09vSjNBSHIxYXFuYnZSZk1nanZGY0ZKbjhYNFBuSGZIZXEyQU85WFFVbm1vY3VTcXBlRVFFRGNkX2c?oc=5",
       "source": "Google News - AI(中文)",
@@ -356,16 +367,6 @@
       "summary": "重庆钢铁举行智能体发布会  csteelnews.com",
       "categories": [
         "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "高德发布云睿·时空智能体平台 上线五大行业智能体 - donews.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yUkFlZ0UxTHREX2JmR1lWb3hzQVlKM0pyMG1QYmw5QkE4Ml96elhzZWRWVDJwaWI2NGhOblExRzZLYlRWWnJlMjZjVVQ2Q0wxR1dBOXlGd0M3ejdud3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-18T06:28:10+00:00",
-      "summary": "高德发布云睿·时空智能体平台 上线五大行业智能体  donews.com",
-      "categories": [
         "tools_apps"
       ]
     }
