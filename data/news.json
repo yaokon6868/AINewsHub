@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T22:53:04.681757+00:00",
+  "updated_at": "2026-08-19T23:25:04.950354+00:00",
   "items": [
     {
       "title": "DeepSeek Harness更新！增强多模态 - 凤凰网科技",
@@ -7,6 +7,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T22:38:14+00:00",
       "summary": "DeepSeek Harness更新！增强多模态  凤凰网科技",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDSmhiVTMyQWx1SjlkSjA1d1BxQ293Y0dLOGh3NGN5eWJoNTJUT0lvSXB2Ym9YdllXeEs2Y2tIZ2RjU1RMb3RidkdZSTk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T22:31:48+00:00",
+      "summary": "大模型驱动！小米新一代人形机器人亮相 握手、碰拳动作自然流畅  凤凰网科技",
       "categories": [
         "other_big"
       ]
@@ -22,11 +32,11 @@
       ]
     },
     {
-      "title": "雷军宣布小米大模型登顶全球 - 手机新浪网",
+      "title": "雷军宣布小米大模型登顶全球 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQVFsWXFOUzl6YVVKVThKNGwzaGJYbks4TEZfWWdFUmlaYzVoTGx5Nk5pdmJhbTlNaXo1R0Nac3N0d2JQWktaNWdoSDQ0M2tBdzYybW5SXzVCeEhUVnI4MmtJZ1JlM2NNdDBuU25GTGx5MkFMUFJMaTI5R3JpTHkwTw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T21:17:33+00:00",
-      "summary": "雷军宣布小米大模型登顶全球  手机新浪网",
+      "summary": "雷军宣布小米大模型登顶全球  新浪网",
       "categories": [
         "other_big",
         "breakthrough"
@@ -57,7 +67,7 @@
       "title": "AI进入规模化落地时代360以产业实践与安全创新入选IDC中国AI50强|Agent|阿里云|腾讯云|百度|小米AI_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GeXI3bDNta1JnS05JTTlxa0lXUDdUdFZQamZ4WXNJZnRfR3c0UTlOVG5ZVDZyeTZDemZod2VMUE5NeHRxYm5YME9sb3lzT21XWXF1bFo4NktUbTRFOU9VV2dFM0JQYkhxek9aR1I5SXJOdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T16:37:50+00:00",
+      "published": "2026-08-19T16:37:51+00:00",
       "summary": "AI进入规模化落地时代360以产业实践与安全创新入选IDC中国AI50强|Agent|阿里云|腾讯云|百度|小米AI_手机新浪网  新浪财经",
       "categories": [
         "other_big",
@@ -75,24 +85,23 @@
       ]
     },
     {
-      "title": "特斯拉车机接入豆包大模型_新浪新闻 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qR0dEbHAtUmNacjFYb3JyQXU3Um5VX0d6eWJ6M1pnbHpuZkhiVkxQeVRLaU55dUVKbjFCa2N2VHFlYkxxT1NmZi15WnZCU2dPMTYzQ3JPWTltdVhRVlpGd1hHVQ?oc=5",
+      "title": "面向青少年的ChatGPT已上线：如何证明自己是成年人 - Notebookcheck CN",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04eFNfUGRNTVgzazNoWm9jcWJPbW5PNUJSMmw5WVpyRmxjVVJqSGtoeHdFSTI2Q0E4OHNpNFdWSmhwQU54YkJUQlNUdnZUNUs0aS1LX2hrSGcwV3Z3UmtCejJWeHQtUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T15:03:00+00:00",
-      "summary": "特斯拉车机接入豆包大模型_新浪新闻  手机新浪网",
+      "published": "2026-08-19T15:19:00+00:00",
+      "summary": "面向青少年的ChatGPT已上线：如何证明自己是成年人  Notebookcheck CN",
       "categories": [
-        "other"
+        "openai"
       ]
     },
     {
-      "title": "谷歌为搜索和Gemini 加入人工智能学习工具，支持分步讲解与视觉互动| 乌克兰新闻 - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dEltWDBBSmNBa2hkX3IyRnhaOXR0b2RZMHB5TlBBc2tsSy0zSC0tZ09zTzdqcmtVN3hWdkNsaGkyc2pCeXRzZmF4c01RQmFlTHpJR1ZRNHZBZXp0d013Mw?oc=5",
+      "title": "特斯拉车机接入豆包大模型_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qR0dEbHAtUmNacjFYb3JyQXU3Um5VX0d6eWJ6M1pnbHpuZkhiVkxQeVRLaU55dUVKbjFCa2N2VHFlYkxxT1NmZi15WnZCU2dPMTYzQ3JPWTltdVhRVlpGd1hHVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T14:39:00+00:00",
-      "summary": "谷歌为搜索和Gemini 加入人工智能学习工具，支持分步讲解与视觉互动| 乌克兰新闻  Межа. Новини України.",
+      "published": "2026-08-19T15:03:00+00:00",
+      "summary": "特斯拉车机接入豆包大模型_新浪新闻  新浪网",
       "categories": [
-        "google",
-        "tools_apps"
+        "other"
       ]
     },
     {
@@ -197,22 +206,21 @@
       ]
     },
     {
-      "title": "支付宝发布国内首个全栈智能体商业底座 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUxOOGtPZEk2bzd2aC12SDJScXI2ZF9ZUHdDRmxjekEzaFp3LTFNdG9YREItOVZNODdmV1VPR1pUZWZENFNYRFVmVUxGbzkyLUtJMmxoS3NrRjlGMGJkejBTUHlMQVNERV91cmhCeXFwOVRRd2MxUERkbEJsaHlnblZ4V0FzZGk0?oc=5",
+      "title": "广州越秀人工智能成果集中发布 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWxKeTZKVEZVZzI4RHBnLTFZUERYVGVwQTBYdm9LbXhFaDFxbm1wSFFNakMzTm1tWTRWZHRyTndhRWc4Yi1ZU3pFb1ZtZF82VUNVQ0JzZEFvVjZhYVgwUXMyeDI5S29SUzM3TkdrWm03NjlYNnZOSDBVdkJqNHY5RTlOaExHWGRUOUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T11:07:34+00:00",
-      "summary": "支付宝发布国内首个全栈智能体商业底座  搜狐网",
+      "published": "2026-08-19T11:08:52+00:00",
+      "summary": "广州越秀人工智能成果集中发布  广州日报新花城",
       "categories": [
-        "breakthrough",
-        "tools_apps"
+        "other"
       ]
     },
     {
-      "title": "中科天机发布电力交易气象智能体 - cpnn.com.cn",
+      "title": "中科天机发布电力交易气象智能体 - 中国能源新闻网",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIaTdlMXRyUWFpd2dxeUlhNUliU2pTUGtORXZDN2NIRjBlbGFZMnItZ3BIa1l4T24ydm9mSWhXa01DSHdDaEdQc3Q4UEFDdkZoWXktMkhRbVhHQU9ZMU1BSzVBNDcxeHlJejB4cHZBam5wa25EWjB3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T10:12:46+00:00",
-      "summary": "中科天机发布电力交易气象智能体  cpnn.com.cn",
+      "summary": "中科天机发布电力交易气象智能体  中国能源新闻网",
       "categories": [
         "tools_apps"
       ]
@@ -250,11 +258,11 @@
       ]
     },
     {
-      "title": "高德发布云睿·时空智能体平台 打造“技术平台+智能体集群”新模式 - 手机新浪网",
+      "title": "高德发布云睿·时空智能体平台 打造“技术平台+智能体集群”新模式 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTmw0dHFFODVpRlBtSVEwQ2w1cmxjeDc4M3p3VkROTGstVmtFM3ZNam1zTWhKVHE3MVNJMUl6ODFBbXNlRWtqU0VXRzVHNGVWZ2tzS0lFM3ZadmZqczhmYlREdTVDMXdLLXdWYkY2elI2ZHZsczF5TE9kaE44X2c?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T07:45:00+00:00",
-      "summary": "高德发布云睿·时空智能体平台 打造“技术平台+智能体集群”新模式  手机新浪网",
+      "summary": "高德发布云睿·时空智能体平台 打造“技术平台+智能体集群”新模式  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -270,21 +278,21 @@
       ]
     },
     {
-      "title": "Anthropic内部已有比Claude Mythos 5更强的Model 2 - 手机新浪网",
+      "title": "Anthropic内部已有比Claude Mythos 5更强的Model 2 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMzQ3MkY2UVFUYnhFSEQ5SzF3V1FwdkY1VEdHbVJGUTkyeHcyTzg3amUwN0FmWktVcS1IUVNjaXRzZGtGWC1TaXNpbUlEUjVnclhNQWJlWGRka0p6R2FPSHcyejBQQUtYVnBJZk1PalhndExUdDR4T2dodWppUU0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T06:55:05+00:00",
-      "summary": "Anthropic内部已有比Claude Mythos 5更强的Model 2  手机新浪网",
+      "summary": "Anthropic内部已有比Claude Mythos 5更强的Model 2  新浪网",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "Anthropic预告Claude Code新增 /design 命令 - pingwest.com",
+      "title": "Anthropic预告Claude Code新增 /design 命令 - 品玩",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KNEdVcmF5QTROaGdvU0hZZlIzbG9uc2JQYjJ3cldXVTUzdmI4d3gydmhYQkYzQnp3SVpqNEhIQzVrekVWZUxVMw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T06:42:24+00:00",
-      "summary": "Anthropic预告Claude Code新增 /design 命令  pingwest.com",
+      "summary": "Anthropic预告Claude Code新增 /design 命令  品玩",
       "categories": [
         "anthropic"
       ]
@@ -311,23 +319,13 @@
       ]
     },
     {
-      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - 中华网",
+      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - hea.china.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zek1ucW85c2VVVjNPdFhmRVNfRm9kQjVqRjFIMjRrZ19QbU5qREtUMTJXY1F3ZVJvQko1TjU5OEhKWTRwS1JWRTgwYl9OR2ViUVhDdVhWT05wUjVVZGVHNXFrd1pZXzVwRUs4Wg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T03:32:17+00:00",
-      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  中华网",
+      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  hea.china.com",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI推出面向青少版ChatGPT - duozhi.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iM1pXRkFTdldpRXgtbjhHS2tfYzkzLXJuMkVkZjR3QkxzZE1rcEY0S2RCYVAtal9xdk5FVnE3bWRRQ0IyakdZQnpqOHRaVE1RSnp6ZDM0TkF2d2tULW02UExTQlpWNVFCYnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T02:37:22+00:00",
-      "summary": "OpenAI推出面向青少版ChatGPT  duozhi.com",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -352,11 +350,11 @@
       ]
     },
     {
-      "title": "国内首个智能体跨端互联协议发布，智能体加速商业化，商家支付费率打6折 - 上观新闻",
+      "title": "国内首个智能体跨端互联协议发布，智能体加速商业化，商家支付费率打6折 - shobserver.cn",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNTm4zLUxrWDNGSGNQWDBCUWQ1UGFxQUF4ejFMckg0SGdjTGUycjgyOG9TVnMyamFaTzFGdWZaMlEzcE9tSHh3eVRqSFZUb3kxMHhUbHBiTkpWbGZW?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-18T22:00:00+00:00",
-      "summary": "国内首个智能体跨端互联协议发布，智能体加速商业化，商家支付费率打6折  上观新闻",
+      "summary": "国内首个智能体跨端互联协议发布，智能体加速商业化，商家支付费率打6折  shobserver.cn",
       "categories": [
         "breakthrough",
         "tools_apps"
