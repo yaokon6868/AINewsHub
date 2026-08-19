@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T21:52:58.658802+00:00",
+  "updated_at": "2026-08-19T22:27:01.795631+00:00",
   "items": [
     {
       "title": "雷军宣布小米大模型登顶全球 - 手机新浪网",
@@ -65,16 +65,6 @@
       ]
     },
     {
-      "title": "面向青少年的ChatGPT已上线：如何证明自己是成年人 - Notebookcheck CN",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04eFNfUGRNTVgzazNoWm9jcWJPbW5PNUJSMmw5WVpyRmxjVVJqSGtoeHdFSTI2Q0E4OHNpNFdWSmhwQU54YkJUQlNUdnZUNUs0aS1LX2hrSGcwV3Z3UmtCejJWeHQtUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T15:19:00+00:00",
-      "summary": "面向青少年的ChatGPT已上线：如何证明自己是成年人  Notebookcheck CN",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "特斯拉车机接入豆包大模型_新浪新闻 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qR0dEbHAtUmNacjFYb3JyQXU3Um5VX0d6eWJ6M1pnbHpuZkhiVkxQeVRLaU55dUVKbjFCa2N2VHFlYkxxT1NmZi15WnZCU2dPMTYzQ3JPWTltdVhRVlpGd1hHVQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -85,6 +75,17 @@
       ]
     },
     {
+      "title": "谷歌为搜索和Gemini 加入人工智能学习工具，支持分步讲解与视觉互动| 乌克兰新闻 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dEltWDBBSmNBa2hkX3IyRnhaOXR0b2RZMHB5TlBBc2tsSy0zSC0tZ09zTzdqcmtVN3hWdkNsaGkyc2pCeXRzZmF4c01RQmFlTHpJR1ZRNHZBZXp0d013Mw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T14:39:00+00:00",
+      "summary": "谷歌为搜索和Gemini 加入人工智能学习工具，支持分步讲解与视觉互动| 乌克兰新闻  Межа. Новини України.",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "【网通社快报】特斯拉中国车机系统OTA升级上线豆包大模型 - 凤凰网",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEVlVCWktWUFprWHlzMWxCOWYwR0p1Y2x4OGlSSTA3dkM3R1haWVNQam96US11c1F0WUt2S3ZpUjU2MGlCY1NmbF8yWTg?oc=5",
       "source": "Google News - AI(中文)",
@@ -92,6 +93,16 @@
       "summary": "【网通社快报】特斯拉中国车机系统OTA升级上线豆包大模型  凤凰网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "OpenAI推出ChatGPT青少年版 這些AI互動受限 - 新唐人電視台",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hTU1BN1RzOWRDSXVLRHFjT19GUURVS09tbGw2VXBySEpxaVRNMGhNQy1iUDl4Y3Q5R3RCTlo2YWgwQ2d1dVAyUGJuQXdjd0IzcVVxbHhtcHlNcThZcEYyeNIBZkFVX3lxTFBoRmxMM3U5c0xMdjkyTTlxdkExd3BWcVVtZ3FhdG93ZEJjRjUzUmpEalc4QlVkaGcxUElkQWdTc1htMnl3SEpvZzF3LXN2RGZCSEVnVkpOWWluNFNubExsZ0wxajV0Zw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T14:03:18+00:00",
+      "summary": "OpenAI推出ChatGPT青少年版 這些AI互動受限  新唐人電視台",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -146,11 +157,11 @@
       ]
     },
     {
-      "title": "Claude正式杀进AI制药：蛋白设计15个成功14个，化学分析23分钟出结果 - mittrchina.com",
+      "title": "Claude正式杀进AI制药：蛋白设计15个成功14个，化学分析23分钟出结果 - 麻省理工科技评论",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PWU1feDRFWE5CdzIxTmNZYkR0V3pUQlRKME10a0RlUlV0RFNuNm5zbnFONXJpZ2c3T3lYM0pydDdUb0VXZEw5cTlmYkxYaHVFOHBNLWJOSQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T12:26:42+00:00",
-      "summary": "Claude正式杀进AI制药：蛋白设计15个成功14个，化学分析23分钟出结果  mittrchina.com",
+      "summary": "Claude正式杀进AI制药：蛋白设计15个成功14个，化学分析23分钟出结果  麻省理工科技评论",
       "categories": [
         "anthropic"
       ]
@@ -186,11 +197,11 @@
       ]
     },
     {
-      "title": "【#特斯拉上线豆包大模型#】8月19日，火山引擎发布消息，特斯拉上线豆包大模型。据介绍，特斯拉车机现已陆续推送。 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uYW40ZzFrc1YzRkhaa2NhU3pwTlk1RVB2elBYMWNXa0N4a1hWSUtFUUxVNmczZDUwY2p1VWU0ajFiSW9vZEVaYUx1QXQwaXBxMVZSVjBmV2RPVEVrTjBtNmsxTQ?oc=5",
+      "title": "广州越秀人工智能成果集中发布 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWxKeTZKVEZVZzI4RHBnLTFZUERYVGVwQTBYdm9LbXhFaDFxbm1wSFFNakMzTm1tWTRWZHRyTndhRWc4Yi1ZU3pFb1ZtZF82VUNVQ0JzZEFvVjZhYVgwUXMyeDI5S29SUzM3TkdrWm03NjlYNnZOSDBVdkJqNHY5RTlOaExHWGRUOUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T12:05:00+00:00",
-      "summary": "【#特斯拉上线豆包大模型#】8月19日，火山引擎发布消息，特斯拉上线豆包大模型。据介绍，特斯拉车机现已陆续推送。  手机新浪网",
+      "published": "2026-08-19T11:08:52+00:00",
+      "summary": "广州越秀人工智能成果集中发布  广州日报新花城",
       "categories": [
         "other"
       ]
@@ -207,25 +218,13 @@
       ]
     },
     {
-      "title": "中科天机发布电力交易气象智能体 - cpnn.com.cn",
+      "title": "中科天机发布电力交易气象智能体 - 中国能源新闻网",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIaTdlMXRyUWFpd2dxeUlhNUliU2pTUGtORXZDN2NIRjBlbGFZMnItZ3BIa1l4T24ydm9mSWhXa01DSHdDaEdQc3Q4UEFDdkZoWXktMkhRbVhHQU9ZMU1BSzVBNDcxeHlJejB4cHZBam5wa25EWjB3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T10:12:46+00:00",
-      "summary": "中科天机发布电力交易气象智能体  cpnn.com.cn",
+      "summary": "中科天机发布电力交易气象智能体  中国能源新闻网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "陈欣：中国大模型低价开源 将影响OpenAI等类型公司收益 或重创其估值 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQllNc2Fkc2Q2RklwenJzenY5ZEY5cWpfcEdxTE9PbUItOXBUbnhnTmk2VHN2cm1Fa21VVEcxbmhHMjlPd1VZUGlYODJtV1AwVzlEZ0RHYlVFd19WWWdPeEUwOVRONzU5cFQyUVBqRjZPZG1kLWhZbEZJeGNSM0ZlbWNOYkZkX3Br?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T09:32:08+00:00",
-      "summary": "陈欣：中国大模型低价开源 将影响OpenAI等类型公司收益 或重创其估值  搜狐网",
-      "categories": [
-        "openai",
-        "breakthrough",
-        "open_source"
       ]
     },
     {
@@ -239,14 +238,15 @@
       ]
     },
     {
-      "title": "Anthropic 重磅升级 Chrome 扩展，Claude Cowork 正式进驻浏览器 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnFWeW9QOHNRVjlnX1JHeHZHTkgxUTBrTU5fVk1JZFlwQW83SURyVkZYcDA3S2N0N2NpSS1TeUxfb0ZLbXJUYTlvdGM0cC15TTc3UDVXWVJWMUx4WS1TYjk5d2ZyaTZqNnd2UlZjZTdJTll0MFNHQnVCZHRpTmJUVzRlOWFSMlhz?oc=5",
+      "title": "陈欣：中国大模型低价开源 将影响OpenAI等类型公司收益 或重创其估值 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMHZBVFVaRGNEbkxBdUlBekN3XzlDNW5pY0otblcxaTlpVFk3R1hnS1NQaW5sMWhCZnhTY1ZPbzRENmdzNF95OS1pTGZoc2VBOTJfTw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-19T09:25:00+00:00",
-      "summary": "Anthropic 重磅升级 Chrome 扩展，Claude Cowork 正式进驻浏览器  搜狐网",
+      "published": "2026-08-19T08:48:37+00:00",
+      "summary": "陈欣：中国大模型低价开源 将影响OpenAI等类型公司收益 或重创其估值  第一财经",
       "categories": [
-        "anthropic",
-        "breakthrough"
+        "openai",
+        "breakthrough",
+        "open_source"
       ]
     },
     {
@@ -290,11 +290,11 @@
       ]
     },
     {
-      "title": "Anthropic预告Claude Code新增 /design 命令 - pingwest.com",
+      "title": "Anthropic预告Claude Code新增 /design 命令 - 品玩",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KNEdVcmF5QTROaGdvU0hZZlIzbG9uc2JQYjJ3cldXVTUzdmI4d3gydmhYQkYzQnp3SVpqNEhIQzVrekVWZUxVMw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T06:42:24+00:00",
-      "summary": "Anthropic预告Claude Code新增 /design 命令  pingwest.com",
+      "summary": "Anthropic预告Claude Code新增 /design 命令  品玩",
       "categories": [
         "anthropic"
       ]
@@ -321,11 +321,11 @@
       ]
     },
     {
-      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - 中华网",
+      "title": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理 - hea.china.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zek1ucW85c2VVVjNPdFhmRVNfRm9kQjVqRjFIMjRrZ19QbU5qREtUMTJXY1F3ZVJvQko1TjU5OEhKWTRwS1JWRTgwYl9OR2ViUVhDdVhWT05wUjVVZGVHNXFrd1pZXzVwRUs4Wg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T03:32:17+00:00",
-      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  中华网",
+      "summary": "江西财经大学联合用友发布“生态统计智能体”，以数智能力赋能生态治理  hea.china.com",
       "categories": [
         "tools_apps"
       ]
@@ -341,11 +341,11 @@
       ]
     },
     {
-      "title": "电商早报：支付宝发布智能体商业底座；亚马逊AWD仓储登陆欧洲- 每天 - 亿邦动力网",
+      "title": "电商早报：支付宝发布智能体商业底座；亚马逊AWD仓储登陆欧洲- 每天 - ebrun.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzMFhic2ExTEU3bDVYSkxUY25iVDNDOXl2dDh4eUhiNzByOWpXb0ltdU03c3BVeGpxNzNPYVhTVkRJc2VSdVJoOHhGVGQyWXgyci1NTmRR?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-18T22:52:14+00:00",
-      "summary": "电商早报：支付宝发布智能体商业底座；亚马逊AWD仓储登陆欧洲- 每天  亿邦动力网",
+      "summary": "电商早报：支付宝发布智能体商业底座；亚马逊AWD仓储登陆欧洲- 每天  ebrun.com",
       "categories": [
         "other_big",
         "tools_apps"
