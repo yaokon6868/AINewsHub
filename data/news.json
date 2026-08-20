@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-20T13:51:56.912696+00:00",
+  "updated_at": "2026-08-20T14:38:23.554921+00:00",
   "items": [
+    {
+      "title": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzhXXzRPdXNyWGEzdVpibk5YaDFlcGJvNkF4SEQ3eUlaQzZPNkU1WHBrdFVzNkd2YzUzQ0lXRmhQREx0TUhTUlE0QmdoUDhQa3lpWU9rWnVYRUdCSzlqanNNRlVTTXQtY2lXcXFYQjZUOEh6S0JBc3cwSE0zWVBnUVc0Wm9UNGlQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T14:18:22+00:00",
+      "summary": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长  搜狐网",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "协创数据：公司没有自研通用大模型的规划 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdzc4OHEzNnFWQ2wzdTZRODkwSUt4ZlVka1BET2t0UFo1cG9wbDJfX1lkNE1MUFJPZG1BSmdReWxNeUtlbzdwQkxMUzVtX2dmRmt4a0VaQmRFR3hyVzNtaVNtVFJ2Rng1eHktaG42d3RDcWgxRjdHRmZuMU5rWFNMQXZhUk1OMVIy?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T14:08:54+00:00",
+      "summary": "协创数据：公司没有自研通用大模型的规划  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "“人工智能教育探索丛书”在“2026全球智慧教育大会”上正式发布_快讯 - 中国出版传媒商报",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CQnRMVklMUk1tSWMxanFXZWRFbzd6b2NhUkF0QUJjaWxhVThtbGs2VzVxM0F0SE8tNk80TWg1Ukc0SHZTcGZETFU0UUwzd1gxZXMtZF9VMDltMjJR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T13:34:04+00:00",
+      "summary": "“人工智能教育探索丛书”在“2026全球智慧教育大会”上正式发布_快讯  中国出版传媒商报",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "乐宠它推出首个宠物AI智能体 完成AI养宠生态升级 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zVldMUDVramlvNWg1V0xxQ3pZaktzRndKYUZDMUMtbVBzTDNBa0tvRTAtbnNnUEJoV2RONVlzSTgzUnFKRF9VNFB0MjZuQTBLOGxLM0pmcVlWa0RGSHMzX2R3?oc=5",
@@ -30,6 +60,17 @@
       "summary": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？  搜狐网",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "OpenAI接近实现AI智能体自主操作电脑 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84bWdzNXRjYms0ZkNLNWFxVU5RSlFWZUs0eVZzVmZJRU1DUUFzZlYyRU4tUFo0Q296MHpDZVpsNERBeFU2QWI5Y0RpS3dDT1JWaFJfUGNOZmJmdG5SY3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:44:03+00:00",
+      "summary": "OpenAI接近实现AI智能体自主操作电脑  DoNews",
+      "categories": [
+        "openai",
+        "tools_apps"
       ]
     },
     {
@@ -139,16 +180,6 @@
       ]
     },
     {
-      "title": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpLXVhcW1XZF9pMGcyY2ZLbDlTRUxDdHRCMEg1UUVMSnFMbWlxejRuaHFXLWhmNDJGRGZ3d0tVY012NnF1cGNOdENTdTk5Z3hIMTZHcERzY3FhZExmY1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T10:56:48+00:00",
-      "summary": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基  DoNews",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "阿里虎鲸文娱自研AI大模型，并内测视频创作工具 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMldQVjZlWUh5T0h5V0oxR1V1Q2tLaDgyZWZnZVF1S1VkbTR5SnBETDNSMGgyaGl4NlRtblZjMk9FUWI4bGNybzFBUUIxRFFIbzBMV3JPRVBnaTREcHlFUVp1QnNwMVhVVXctUURuU1gtQTlOcl9XU1N1SVBFNEZwOUQyZFNDX1hz?oc=5",
       "source": "Google News - AI(中文)",
@@ -201,13 +232,13 @@
       ]
     },
     {
-      "title": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUgzbGlsaTA2cm1YNFh3MXBnbTI1RTBZNkg2dUdHSDFiUk5jc0xIeWtwQWJ2Rkg2MUtwRGctcTB2Vkl0M3VWNEFoTzFoMVFuVXM1cGVSMDVJUUN4VzZ0Z3VxV3NwMnVndHpFNktSZ3NOaHZUSkd6N1Z6anZnZ0ZUYXdidUd0VjBI?oc=5",
+      "title": "ChatGPT搜索大调整：Reddit引用量几周內骤降至近零 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHNuOTBhT0xMUmd1dmZSSnZJZl8tWk1VTDdnY2UySXJpR09rY0ZkWURiQXNsQmYtcHhoYVBrSGxfY3c0VFhzaDd1alZ1clRXcHdkUG5LRUxRTDJydXZ1dE9XN0tSbnV3RjgwT3JKMDhscDRRVHhPRFhaaFNXcEhkRU40TjFnYjdiSExhbA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-20T09:13:05+00:00",
-      "summary": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地  搜狐网",
+      "published": "2026-08-20T09:09:19+00:00",
+      "summary": "ChatGPT搜索大调整：Reddit引用量几周內骤降至近零  搜狐网",
       "categories": [
-        "tools_apps"
+        "openai"
       ]
     },
     {
@@ -252,16 +283,6 @@
       ]
     },
     {
-      "title": "“将在未来6至12个月迎来爆发”！蚂蚁集团最新预判，事关智能体商业 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalJHalRQS0h3RjJVd01rVzhxMC1DdDcycFdtWVYxV3AwWTY1LXByMmI3TjNkRGlFZ21DdEU0OUFnN3RXN1AtaHV3Vko3aUVrTUsxQV96NklVeTVJMVJZV2VfNTdLVkJtOUN6clJTb3M5MzEySjVoNHczeklJVkw1WXpFazRrWC1ianhXUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:08:00+00:00",
-      "summary": "“将在未来6至12个月迎来爆发”！蚂蚁集团最新预判，事关智能体商业  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Waymo在Ojai自动驾驶出租车中整合Gemini AI助手 - 网通社",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nUTdWS05JLV9yTHpEbUkwYW5fZW5tdk1mdkIyY1pSenlMQU5rMEhYcGotSTE4X2VvQ2VkUGVqR0pfTk9qanh0SmswVXc1SEVjRkcxNjNuQ2FlWDg?oc=5",
       "source": "Google News - AI(中文)",
@@ -280,16 +301,6 @@
       "summary": "Embodied AI's 'ChatGPT Moment' Is Two to 10 Years Away, Unitree Founder Says  一财全球Yicai Global",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "世界模型驶入F1赛道：探索极限工况下具身智能体的认知物理边界 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEM4aGdSOHB1WDk2bWRiZWN0OE1vQ0wwWGVkQ01PYW9xWVFSQ1BoTTNoRUsyQUFkQjgtd0o0YkR0QllTU1dwci1VTFlabk01WHd1anRzbzlnZDR6bXBYNm9XRHR1TnRIWm5MaENvdWtXU3luMXJuazg5bFJoaTNlQkRnSWVxQ2ky?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T06:58:27+00:00",
-      "summary": "世界模型驶入F1赛道：探索极限工况下具身智能体的认知物理边界  搜狐网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -313,17 +324,6 @@
       ]
     },
     {
-      "title": "“人工智能+”加速赋能，全国视频大模型算力基地将落地呼和浩特 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk1FREVLOWRPclFhR3ZLWXRGdnFUbDZoOE5CaUtkVDdvN0dmZmxDbkJjV1lUV3phdEF0YVRpaVphOF9ESnkxTU02QWZ5eHBKSzBLbmtmNTAtX0dwWF9ka3FLb0JUeDA0Z2U0Y1FsWWJIbURKQmJwR1Vwanp0Ulljbk0xWEppdGY4T1R3Wlhn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T06:29:35+00:00",
-      "summary": "“人工智能+”加速赋能，全国视频大模型算力基地将落地呼和浩特  新浪网",
-      "categories": [
-        "image_video",
-        "chips"
-      ]
-    },
-    {
       "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范 - 上观新闻",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaG93YXVURkFWd09NdTgzUVRocUw4NEczb0oxUE5ENVlPSDdpTUNKTG94QmV4ZmltVDZPZXlmZWNNcER4MFY5Ny1XaUp4SEE5TkRLWElkVzRHZw?oc=5",
       "source": "Google News - AI(中文)",
@@ -331,16 +331,6 @@
       "summary": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范  上观新闻",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness发布v0.1.0-rc.8：14项更新强化多模态 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SNnllNkRGdmVhLVh0Tmp4TER3WHJNUURRSElXMGZBdHk3VE4tdlgycVRNSkc3c1ZuSkZWT1R6azVkQ3c0cjY4dkVQRnZlVy1BTy1uMGJjRmtTVUE0Ym50SGxR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T01:35:42+00:00",
-      "summary": "DeepSeek Harness发布v0.1.0-rc.8：14项更新强化多模态  观点网",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -371,6 +361,16 @@
       "summary": "ChatGPT发生全球大规模服务中断，OpenAI正开展故障修复  环球网",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "中国农业大学发布“范蠡大模型4.0” - 中国农业大学新闻网",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YX25xODlST3hOelR6SGdQSWNPMF91TzNZeTNZeGR1cEtlLWxuT1ZCTWs1X2RQMXJBeTR6UEJHeVM0NjVGU2Q2U19KT3M5OXBpeDEtalVESExtRnhSS0FiV25VOXhkN01Oa3RKbGs1MTA2QlZmRV9z?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T13:24:58+00:00",
+      "summary": "中国农业大学发布“范蠡大模型4.0”  中国农业大学新闻网",
+      "categories": [
+        "other"
       ]
     }
   ]
