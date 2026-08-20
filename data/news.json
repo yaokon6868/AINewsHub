@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-20T15:36:18.027403+00:00",
+  "updated_at": "2026-08-20T16:37:47.067014+00:00",
   "items": [
+    {
+      "title": "NVIDIA SkillEvaluator：智能体技能性能评估基准发布 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEdrRXhWQmY1ODh6Zk02TTdpOFBkbUtkTmVNejlnbHhXREVoZ2VwTngxRnJpQV9EN0RXWXMtQVpJSzJSbEpNLV9RWkZxT0NiRWFfMmFoTkFLNXZ2ei10V0ZPMHo4S0J6WGtPcUNxT2RkRlRXZFJqczZ4REZPaEFrdTlaaFphdWtV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T15:24:00+00:00",
+      "summary": "NVIDIA SkillEvaluator：智能体技能性能评估基准发布  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
     {
       "title": "哪款手机的AI智能体Agent功能更强大？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNHE2WmJyX055R1dOdFJGLVRZNFdGa3ZUbjR4MERjOUcwVkpodWE5MkgxRU9jV1EzaXJIZzNrZ2lDa0lxT3duMWlraUo3by1HUnJZMzZnQ1VicC1naEdkZFdVT0pUTFRLLTlJMTVoUzFhTTZIY2M2aHd0QXkxZU0?oc=5",
@@ -91,17 +102,6 @@
       "summary": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？  搜狐网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "OpenAI接近实现AI智能体自主操作电脑 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84bWdzNXRjYms0ZkNLNWFxVU5RSlFWZUs0eVZzVmZJRU1DUUFzZlYyRU4tUFo0Q296MHpDZVpsNERBeFU2QWI5Y0RpS3dDT1JWaFJfUGNOZmJmdG5SY3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T12:44:03+00:00",
-      "summary": "OpenAI接近实现AI智能体自主操作电脑  DoNews",
-      "categories": [
-        "openai",
-        "tools_apps"
       ]
     },
     {
@@ -221,6 +221,16 @@
       ]
     },
     {
+      "title": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpLXVhcW1XZF9pMGcyY2ZLbDlTRUxDdHRCMEg1UUVMSnFMbWlxejRuaHFXLWhmNDJGRGZ3d0tVY012NnF1cGNOdENTdTk5Z3hIMTZHcERzY3FhZExmY1E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T10:56:48+00:00",
+      "summary": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基  DoNews",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "阿里虎鲸文娱自研AI大模型，并内测视频创作工具 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMldQVjZlWUh5T0h5V0oxR1V1Q2tLaDgyZWZnZVF1S1VkbTR5SnBETDNSMGgyaGl4NlRtblZjMk9FUWI4bGNybzFBUUIxRFFIbzBMV3JPRVBnaTREcHlFUVp1QnNwMVhVVXctUURuU1gtQTlOcl9XU1N1SVBFNEZwOUQyZFNDX1hz?oc=5",
       "source": "Google News - AI(中文)",
@@ -313,6 +323,16 @@
       ]
     },
     {
+      "title": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功 - 中华军事",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGs0NjV6QlFiMmh5Y0dPX05PdEFYbE9SaGNlOTAxWjBHbEtqbGg1MGhydXBBaWVnUjZuUEFzMm04S09wMkVDeVowSGtEeHZmRmpycFZScFgtM0xXN3ZoYi1xVFZvOG1Uc0RzdG1NTmI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T07:50:45+00:00",
+      "summary": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功  中华军事",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "我国发布三项教育大模型团体标准 为“人工智能+教育”立规矩、定方圆 - 中华网科技频道",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nTzdkUGppMmFncGxKdTBLdkpyZElheXpZZ1hXRlRaVGVxaVRhdEQ4RHhISTN5SlhkS3BZcFdIbkZKMUZOWkJyYnd4OEFhUHUyOG9UZjhiS0Q3V2pSOE5CdmZyb2pfM0Zna2FfRzN3?oc=5",
       "source": "Google News - AI(中文)",
@@ -340,26 +360,6 @@
       "summary": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案  手机网易网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "广州越秀发布一批AI场景清单与大模型成果 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzFFck1sdHJ3dUZEUFBUb3NwTWdZSUFDZ1dYcHRNRENqRWhtVzVHMjUzZW9leXlXYXBOLXcxM2VTa3U3MnhUakZwN3Rqb2hTdExJNzdPYWwzV3U4NVkxekRUQVlCeEtnYXpxM2JFQUJSSjdDeFJucVNBOVh3RDN1VVNBcDFfdDZQOEphSXZHMG5HeHhG?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T16:45:16+00:00",
-      "summary": "广州越秀发布一批AI场景清单与大模型成果  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "ChatGPT发生全球大规模服务中断，OpenAI正开展故障修复 - 环球网",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Nd1dhTFIybkltM2ZUeExNMEpHcWVOLUlmR1Nrd2pfckJIX0lfdkN1UDh2UmJDdnFHd0p4LWpSQ01JVlM1SHplMW1rdEJfOWJSdlJ0a0ZYaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T14:26:00+00:00",
-      "summary": "ChatGPT发生全球大规模服务中断，OpenAI正开展故障修复  环球网",
-      "categories": [
-        "openai"
       ]
     },
     {
