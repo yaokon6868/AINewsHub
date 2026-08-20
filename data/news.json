@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-20T14:38:23.554921+00:00",
+  "updated_at": "2026-08-20T15:36:18.027403+00:00",
   "items": [
     {
-      "title": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzhXXzRPdXNyWGEzdVpibk5YaDFlcGJvNkF4SEQ3eUlaQzZPNkU1WHBrdFVzNkd2YzUzQ0lXRmhQREx0TUhTUlE0QmdoUDhQa3lpWU9rWnVYRUdCSzlqanNNRlVTTXQtY2lXcXFYQjZUOEh6S0JBc3cwSE0zWVBnUVc0Wm9UNGlQ?oc=5",
+      "title": "哪款手机的AI智能体Agent功能更强大？ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNHE2WmJyX055R1dOdFJGLVRZNFdGa3ZUbjR4MERjOUcwVkpodWE5MkgxRU9jV1EzaXJIZzNrZ2lDa0lxT3duMWlraUo3by1HUnJZMzZnQ1VicC1naEdkZFdVT0pUTFRLLTlJMTVoUzFhTTZIY2M2aHd0QXkxZU0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-20T14:18:22+00:00",
-      "summary": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长  搜狐网",
+      "published": "2026-08-20T15:10:54+00:00",
+      "summary": "哪款手机的AI智能体Agent功能更强大？  新浪网",
       "categories": [
-        "open_source"
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "ChatGPT新功能：无需截图即可记住你在Mac上的操作 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXR1LU9oSkZzcmZ1NUZ5ODVyVXd6UUN5SG1pQWpEbjN6TE51QnJ4cjNsZ2lPbDNxbEFkUnZDSzNIVzE5eW82VGRzN0xQVW1tcUd6bVl1S0ZLeG12Um1wZ19kalQtcS1ab0JmRlUtMWVuY3p6M2EtVzNpZnVZQ09xQXRpN2plaWVY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T15:02:00+00:00",
+      "summary": "ChatGPT新功能：无需截图即可记住你在Mac上的操作  搜狐网",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -19,6 +29,16 @@
       "summary": "协创数据：公司没有自研通用大模型的规划  搜狐网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长 - 国际在线",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LcXRXbEdKXzdjWW9xWHd0eUw2U1Q1andHTVdrNWY1RlNWWnVIMVc2T0xGX2hvZTVZWkVmYlRkZnAwa1BCWG1maFgyNk5vS2poTWh4TmpHdEZ5N2gxQ3JqOUYzN2gtd3JyNTUtandDSTZ3OHBIVVJKd2JR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T13:55:50+00:00",
+      "summary": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长  国际在线",
+      "categories": [
+        "open_source"
       ]
     },
     {
@@ -53,6 +73,17 @@
       ]
     },
     {
+      "title": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXF5QTlJaDE3TEROek1NN2JKaEhncEc5RnQ0V1V3RE9QVHR1aXJhQVFibXlqM3RycVRNcXZ1ZHg5aFhZay1sM1gzVGxsaUZLSDM3ZS02djBfS0tveEdLQUFvRU1IYXJPV2xRcktIZ3V1S2NuT2tTakZZRlZSN01ZXzZR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T13:13:00+00:00",
+      "summary": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场  video.sina.com.cn",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
       "title": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVRfU0RMR0FXWGFic082dGFBR3FYMW1hWVNaVHpXcWg2d3pRT05sYzVvUXU3Vm9VN3hlMGFLQ2JCa01VQm5XTU1rak5XWTY2UXMyVkFSNEdheGV1cVZhaVgyMGtxT1pMUkJqXzdBeFpMX0daR2ZRMG02dmNyUDV4TWcxclJFN01UcXdubw?oc=5",
       "source": "Google News - AI(中文)",
@@ -81,6 +112,16 @@
       "summary": "特斯拉上线豆包大模型  新浪网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "优克联旗下乐宠它推出宠物AI智能体 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHpNRW9rWU5HN0M2Sk5TMmlXbzVxN1dWUXQwTldCdGlmRkZtWG9pdERWRk9ocXIyR2VZMWRXb3Mzd2Nwd29hdktnQkNTcDZobThoOHZoaF85dU9BVUNwMGVOVTdySnhuSmRnY3V1TlFQbnF2T00zZXFROHRqQllEQU5n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:10:05+00:00",
+      "summary": "优克联旗下乐宠它推出宠物AI智能体  video.sina.com.cn",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -232,6 +273,16 @@
       ]
     },
     {
+      "title": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUgzbGlsaTA2cm1YNFh3MXBnbTI1RTBZNkg2dUdHSDFiUk5jc0xIeWtwQWJ2Rkg2MUtwRGctcTB2Vkl0M3VWNEFoTzFoMVFuVXM1cGVSMDVJUUN4VzZ0Z3VxV3NwMnVndHpFNktSZ3NOaHZUSkd6N1Z6anZnZ0ZUYXdidUd0VjBI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T09:13:05+00:00",
+      "summary": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "ChatGPT搜索大调整：Reddit引用量几周內骤降至近零 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHNuOTBhT0xMUmd1dmZSSnZJZl8tWk1VTDdnY2UySXJpR09rY0ZkWURiQXNsQmYtcHhoYVBrSGxfY3c0VFhzaDd1alZ1clRXcHdkUG5LRUxRTDJydXZ1dE9XN0tSbnV3RjgwT3JKMDhscDRRVHhPRFhaaFNXcEhkRU40TjFnYjdiSExhbA?oc=5",
       "source": "Google News - AI(中文)",
@@ -259,58 +310,6 @@
       "summary": "值得买科技接入智谱GLM-5.3大模型  DoNews",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功 - 中华军事",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGs0NjV6QlFiMmh5Y0dPX05PdEFYbE9SaGNlOTAxWjBHbEtqbGg1MGhydXBBaWVnUjZuUEFzMm04S09wMkVDeVowSGtEeHZmRmpycFZScFgtM0xXN3ZoYi1xVFZvOG1Uc0RzdG1NTmI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:50:45+00:00",
-      "summary": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功  中华军事",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Waymo将Gemini AI助手整合进Ojai自动驾驶出租车 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5aE9od1NkT0stQzlzTF9YaEJlUE5qQWJhMVRidGxLd3gzTVZLeS1xaC1NYXVTeWVFVHJ2cjdBRnFrOFlGd19WWlIxQVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:20:35+00:00",
-      "summary": "Waymo将Gemini AI助手整合进Ojai自动驾驶出租车  凤凰网科技",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Waymo在Ojai自动驾驶出租车中整合Gemini AI助手 - 网通社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nUTdWS05JLV9yTHpEbUkwYW5fZW5tdk1mdkIyY1pSenlMQU5rMEhYcGotSTE4X2VvQ2VkUGVqR0pfTk9qanh0SmswVXc1SEVjRkcxNjNuQ2FlWDg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:06:08+00:00",
-      "summary": "Waymo在Ojai自动驾驶出租车中整合Gemini AI助手  网通社",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Embodied AI's 'ChatGPT Moment' Is Two to 10 Years Away, Unitree Founder Says - 一财全球Yicai Global",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWm5JUS1iUXFYd2xWazNmSlN0ZU9hVkhZRkg2TWZySE1OOEtWaUdGNmR0NHhHN0ZJNkxPV0FxUlI0ei1QcjdJRXhSSWQ0NmM3eVd1SlM5UXF1SW9NWWhBZXhHLU1YVlFVMkhBTU1fWUdwSW1ydm5Rc28yWnFRUUNaQ0ZrVVI0ZV84dWtxQ3pwWHpsT3g1RXNacEFDMGRFTjJkRkV2eXJHUEU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:03:21+00:00",
-      "summary": "Embodied AI's 'ChatGPT Moment' Is Two to 10 Years Away, Unitree Founder Says  一财全球Yicai Global",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "优克联旗下乐宠它推出宠物AI智能体并宣布完成旗下AI养宠生态的全线升级 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGxhRUhyLVA2cUZ3Vng4dVFZVFlLSUVuZlN4eTA0Z2hUZDVnNEtBa21iNTFLRm1USUZUcWs1Z1l6TW8wMWoyaHZXT1A2Q1g3RlVOckNNSWtNbmVnV0xMNGh6VUNjdXlzc3F3cEtFMDIyeGtXNF9ndDhJLXV4NEEyU3Vn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T06:45:33+00:00",
-      "summary": "优克联旗下乐宠它推出宠物AI智能体并宣布完成旗下AI养宠生态的全线升级  video.sina.com.cn",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
