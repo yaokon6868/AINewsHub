@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-20T10:33:21.468469+00:00",
+  "updated_at": "2026-08-20T11:29:02.750185+00:00",
   "items": [
+    {
+      "title": "支持 DeepSeek Harness 接入：AgentScope Service 开源智能体服务控制面解读 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpbnFFR05EM0JnTkN6empBLU43bnB0akRrdC0waVdLTzNMNmpfNVotSlhVVmxWR3hvU3E3RXk2M2xNVnVsNDlITnlqMzctMUhLRExpOHYyNHNldDh1cGU2ZjZOeU9WTnBGSlE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:10:01+00:00",
+      "summary": "支持 DeepSeek Harness 接入：AgentScope Service 开源智能体服务控制面解读  53AI",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "新石器发布行业首个安全智能体“玄武” - 风闻",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FOGxCdXk1NG52UmNhWWN4NDhjUi1vd0hCRjZvaVJFdFVPdzN0c0FGQW5EMFYwOTJnQUk3RmI3X3RhelIwNl9qaVlCUWVjeUtDd2tNZm1oRnZBOC1RaTFIVGhSdG9KRzZzcFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:06:32+00:00",
+      "summary": "新石器发布行业首个安全智能体“玄武”  风闻",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpLXVhcW1XZF9pMGcyY2ZLbDlTRUxDdHRCMEg1UUVMSnFMbWlxejRuaHFXLWhmNDJGRGZ3d0tVY012NnF1cGNOdENTdTk5Z3hIMTZHcERzY3FhZExmY1E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T10:56:48+00:00",
+      "summary": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基  DoNews",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "阿里虎鲸文娱自研AI大模型，并内测视频创作工具 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMldQVjZlWUh5T0h5V0oxR1V1Q2tLaDgyZWZnZVF1S1VkbTR5SnBETDNSMGgyaGl4NlRtblZjMk9FUWI4bGNybzFBUUIxRFFIbzBMV3JPRVBnaTREcHlFUVp1QnNwMVhVVXctUURuU1gtQTlOcl9XU1N1SVBFNEZwOUQyZFNDX1hz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T10:55:30+00:00",
+      "summary": "阿里虎鲸文娱自研AI大模型，并内测视频创作工具  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "image_video"
+      ]
+    },
+    {
+      "title": "美国陆军部双线推进AI智能体网络防御体系建设 - 安全内参",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYVzJXTkRvbUlIN0VVWk04bThGX0FtSFM5YXk0MFhGTW83Tms0MWNqeURjV3BhUlZyb01rZFZHNGh4alAwb1NkcnFwVUNyUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T10:40:26+00:00",
+      "summary": "美国陆军部双线推进AI智能体网络防御体系建设  安全内参",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "ChatGPT突发全球大规模宕机，OpenAI紧急抢修数小时后全面恢复 - TOM科技",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDM3FaR3VqWHpsSUdmaEZIQUt6Q0xPWG5BcnZxc19YXzJuZXhuZE9CMFFvRnpJbnpzdjd6OWNFVXhHcDVoZ2hYRjZqVFBJcW53YXFCMmhR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T10:40:00+00:00",
+      "summary": "ChatGPT突发全球大规模宕机，OpenAI紧急抢修数小时后全面恢复  TOM科技",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "小红书首次开源大模型dots3 note preview - 虎嗅",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3OThMM01ibVY3RVljMlhDZTlDN3FyR29kb3Nya2hsM1lQQ3p5TG5HNXgwZ1hSTGN0TWVLYVhDdTNlNlRTdGJZYkJjSFY2RDZN?oc=5",
@@ -57,16 +122,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T09:09:19+00:00",
       "summary": "ChatGPT搜索大调整：Reddit引用量几周內骤降至近零  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "ChatGPT用户隐私政策中如何规定举报犯罪？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LSmM4QldFX2w4MDZJNHcwcDVrTU9UTTA0ZUZQZXdqUzJSNTR1SXlLRkVBZFBqOGNRYlgtNVV0VHJnMjlMZW95RDJLelYyWlV6cDNTRWlWS0Y2MXJHWER1ZVZlZHhvdWlZbXdxYXVQSGlndw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T09:07:00+00:00",
-      "summary": "ChatGPT用户隐私政策中如何规定举报犯罪？  新浪网",
       "categories": [
         "openai"
       ]
@@ -145,27 +200,6 @@
       ]
     },
     {
-      "title": "新石器发布L4无人车安全智能体“玄武” - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRm1sRTQzNmVKNGhjTmlyaGpYVVZZcGdGN1lBZ1prby1DVVpQOEp4WXhiZ0ZjeVdMNjJ4bXNSMTdWZVJvcDgtd0dHVHp4MWs?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:00:55+00:00",
-      "summary": "新石器发布L4无人车安全智能体“玄武”  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Arthur Hayes：AI 智能体没法自己买算力，去中心化算力网络将迎来机会 - 深潮TechFlow",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aaFZZc3ZvWlRJXzY3OWVzOXd6ZGFXWnRYclI1bFRobEt5SndwV0ZfNXlCdTdudnZsQlhQNEhia09BT3l1NEFnUndhZGtrSHF3cExSQw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T06:58:25+00:00",
-      "summary": "Arthur Hayes：AI 智能体没法自己买算力，去中心化算力网络将迎来机会  深潮TechFlow",
-      "categories": [
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
       "title": "优克联旗下乐宠它推出宠物AI智能体并宣布完成旗下AI养宠生态的全线升级 - video.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGxhRUhyLVA2cUZ3Vng4dVFZVFlLSUVuZlN4eTA0Z2hUZDVnNEtBa21iNTFLRm1USUZUcWs1Z1l6TW8wMWoyaHZXT1A2Q1g3RlVOckNNSWtNbmVnV0xMNGh6VUNjdXlzc3F3cEtFMDIyeGtXNF9ndDhJLXV4NEEyU3Vn?oc=5",
       "source": "Google News - AI(中文)",
@@ -197,6 +231,16 @@
       ]
     },
     {
+      "title": "“鹰序TST”大模型2.0版发布 已应用于大型金融机构现金流预测与外汇管理 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVJtMmt5cU9UZ3gzVWNBZlpDNlBuUnFBVjVYM2RDOXBZZ3FVMUlyUXNaQ2Z4R2toa21DR0JXWkxQckRURTJnVk1iR2RxVm1zOTlEZEppcXhhbmhpWmlLUTFRX2JxbVV2aGU3N1dpd2dVelBITU5MSTZQejBrMzNGUlVQTy01OGFuSFpTbA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T06:19:54+00:00",
+      "summary": "“鹰序TST”大模型2.0版发布 已应用于大型金融机构现金流预测与外汇管理  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范 - DoNews",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmY1BpTFBBTVptXzJpaFJxWWFoR3o5VTJ5dk5VaXl2S0ZhYlRFaXRpbXBIenJkcnctQWtvWVF3RkgzTTY3VkgtbGplaXYwaURiLWJLemVWY2R2c0p6X1E?oc=5",
       "source": "Google News - AI(中文)",
@@ -214,16 +258,6 @@
       "summary": "特斯拉车机上线豆包大模型，使用受限仅聊天无法语音唤醒  新浪网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "交通运输部答海报新闻：第二届综合交通运输大模型智能体创新应用大赛赛题取自一线真实业务痛点 - 大众网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zMEZHc05XTGV1UGE0WFV0ejFsVnVMYW1sTEEtRjZ6ZF9ub3JjNE5DSWFMZXRmaHRrSVBBQXEwY3JFTzJfQUdHc2UzTFVOTWtEdEJtVTJnWHhxSEg4alByUkVNbDNVQVVILWcw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T05:17:00+00:00",
-      "summary": "交通运输部答海报新闻：第二届综合交通运输大模型智能体创新应用大赛赛题取自一线真实业务痛点  大众网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -299,26 +333,6 @@
       ]
     },
     {
-      "title": "火山引擎宣布特斯拉上线豆包大模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFM4OWR2U08wNzI4bHNtamctTmNreUU3cVNUdlZUS0NrTFdSckVRTmRQYUtsTVBlSTlQSDM0Tll2WUk5VnhWLXgwcENFSU41cHpPaE5UaG5feFJ6R29xV2pWMmdneHFNZHZaeldVa3dnWVo3V1NsaFduZ2VkQW9La29kZG1ncXVhWS1ibg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T04:19:18+00:00",
-      "summary": "火山引擎宣布特斯拉上线豆包大模型  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "交通运输部：由人工智能科技企业牵头突破交通专用垂直大模型等“卡脖子”环节 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13QV91TTcwbE1DMkhrNFVOQnFxc3ZnS2NXUmdoOFJPcVRfLTNfMHlrdHNwbWFzME5ORjVFa0tnWWxVekd0YnlJdGNlRUY2TXJNN2xid284S0otSWJtQnhpdQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T04:10:00+00:00",
-      "summary": "交通运输部：由人工智能科技企业牵头突破交通专用垂直大模型等“卡脖子”环节  thepaper.cn",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
       "title": "DeepSeek Harness发布v0.1.0-rc.8：14项更新强化多模态 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SNnllNkRGdmVhLVh0Tmp4TER3WHJNUURRSElXMGZBdHk3VE4tdlgycVRNSkc3c1ZuSkZWT1R6azVkQ3c0cjY4dkVQRnZlVy1BTy1uMGJjRmtTVUE0Ym50SGxR?oc=5",
       "source": "Google News - AI(中文)",
@@ -329,33 +343,23 @@
       ]
     },
     {
-      "title": "ChatGPT突发全球大规模服务中断，OpenAI称正在修复 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBRmJUUDFXTnh4Q0NlaVQ3V2RCNVRucHliM3BCZmp6bnZER1ZpY0VzbnVwNWtVRFVTZlZnN3V6S2hWaXYzal9LTjRZSzhyd2kxUEY4amRSYmhMVG1OZXlWSUhIM1VDZ3Y5ZElEMG9acS0xT1Fp?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T00:41:15+00:00",
-      "summary": "ChatGPT突发全球大规模服务中断，OpenAI称正在修复  金融界",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVG5nRlRjY21DbG1xLTFBMmg5cnNpZ0JUblpXMVRSeVl1Qm9jZ1ZRRGs1VE1zdkdmSGpDU3BQYWJoSGtIekp6M3VvRk9PTnE1cmdqa2pGWThENm9iaENmemxR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T23:25:21+00:00",
-      "summary": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "广州越秀发布一批AI场景清单与大模型成果 - 手机新浪网",
+      "title": "广州越秀发布一批AI场景清单与大模型成果 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzFFck1sdHJ3dUZEUFBUb3NwTWdZSUFDZ1dYcHRNRENqRWhtVzVHMjUzZW9leXlXYXBOLXcxM2VTa3U3MnhUakZwN3Rqb2hTdExJNzdPYWwzV3U4NVkxekRUQVlCeEtnYXpxM2JFQUJSSjdDeFJucVNBOVh3RDN1VVNBcDFfdDZQOEphSXZHMG5HeHhG?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-19T16:45:16+00:00",
-      "summary": "广州越秀发布一批AI场景清单与大模型成果  手机新浪网",
+      "summary": "广州越秀发布一批AI场景清单与大模型成果  新浪网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "ChatGPT发生全球大规模服务中断，OpenAI正开展故障修复 - 环球网",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Nd1dhTFIybkltM2ZUeExNMEpHcWVOLUlmR1Nrd2pfckJIX0lfdkN1UDh2UmJDdnFHd0p4LWpSQ01JVlM1SHplMW1rdEJfOWJSdlJ0a0ZYaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T14:26:00+00:00",
+      "summary": "ChatGPT发生全球大规模服务中断，OpenAI正开展故障修复  环球网",
+      "categories": [
+        "openai"
       ]
     },
     {
