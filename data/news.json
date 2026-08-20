@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-08-20T11:55:47.061615+00:00",
+  "updated_at": "2026-08-20T12:57:11.792285+00:00",
   "items": [
+    {
+      "title": "特斯拉上线豆包大模型 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoN3F3d0w5Q09waWNRZndCbU9LY0YwM3BsOU1Sbm1RM3dYWmItYU92TktodHFBXzRXeHBHOC1CZlRsTkczMUpJdGJGd2RhdThUeDRnVWkxRl9IUmV5RmNqYUtvZXFqU1h2QkkyU1gzVWoyMXh0Tk4zQy0xUE1EUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:41:00+00:00",
+      "summary": "特斯拉上线豆包大模型  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "优克联旗下乐宠它推出宠物AI智能体 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHpNRW9rWU5HN0M2Sk5TMmlXbzVxN1dWUXQwTldCdGlmRkZtWG9pdERWRk9ocXIyR2VZMWRXb3Mzd2Nwd29hdktnQkNTcDZobThoOHZoaF85dU9BVUNwMGVOVTdySnhuSmRnY3V1TlFQbnF2T00zZXFROHRqQllEQU5n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:10:05+00:00",
+      "summary": "优克联旗下乐宠它推出宠物AI智能体  video.sina.com.cn",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "浙江省首家人工智能体检示范基地揭牌 - 央广网",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42ZUo2cGlpOUlUY2VCWGZpenMwSjA3TUo5N1NTdGJvb0RsX0g1WlNRMTdyelJKeHBrVHNFR2ZvTWh1bEozclNhOEtfN21HajlvMndUbGZYb3dqTEVrTUxiVEVrVmhncF9xby1fWXg5Zw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:06:03+00:00",
+      "summary": "浙江省首家人工智能体检示范基地揭牌  央广网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "阿里发布Qwen-UI-Agent，移动端基准超越GPT 5.6与Claude Opus 4.8 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HeXZXcTN2NmJ5NFFOeHhMd2V4d2dhSEpGUmdIX3FnR2pMay1UM0F2NkNza3ZmSmU3TXNseFFkYTdidFUtOThsNjJwT0s?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:05:55+00:00",
+      "summary": "阿里发布Qwen-UI-Agent，移动端基准超越GPT 5.6与Claude Opus 4.8  凤凰网科技",
+      "categories": [
+        "anthropic",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "新石器发布行业首个安全智能体“玄武” - 财经号",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YVUxUUUpwdDJBZGFzMm5pWWltcHV5MUN1R3h2V1lqbTFjb2RtVW1hZVY3Mm04cEpuOHJsSkpJamdGOHY4bDZUZFdlNmgtRDhaNmR4cUhCQzdjc09lM21ZcDIzNVhuR2VFUGhr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:01:27+00:00",
+      "summary": "新石器发布行业首个安全智能体“玄武”  财经号",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek Harness 是自进化 Agent 的基石 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjdVMwekx4dm9jRC00QmQyMWUwLThvTTV1bzVMRU5hSTduMUtzUWIyUmVjZGM3blJMdkhEdFBkY3RCdUMyY09iSi01VUw3aU02YWNPT1RROG9GSVdpQ0N4MU15bmtsSDZkbGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:56:08+00:00",
+      "summary": "DeepSeek Harness 是自进化 Agent 的基石  53AI",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "欧菲斯品商通采购智能体上线 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHNMeGlCTmQzX2llMTBOT2V3eGlOMmFwd1MzRFJuemlVeFA1WGR1bzVLcl9DZWI3c2ZlM0lIZHAwMFVFdzJtd0tYMzExSk45eEsyNDJLVnBoeG9NYXF6V1phcjBIYTB3WW12RjFzMVBkM0JBS1p4TkV0OTdnbS1SRWZZbTlMbTlkdFo5cw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:46:17+00:00",
+      "summary": "欧菲斯品商通采购智能体上线  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？ - 第一财经",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBobEdTUVdteVpOd2RIQ0ZwSGgyOFRadFE2TzZJZU1FTkd1UjRXQmNVdHk2S2tZeF9xa3RjMW9lNXd5MzZZRnY4bkpKTHpmT2hKYU5r?oc=5",
@@ -41,17 +115,6 @@
       "summary": "黎曼猜想之后，Claude再破百年猜想！  搜狐网",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "新石器发布行业首个安全智能体“玄武” - 风闻",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FOGxCdXk1NG52UmNhWWN4NDhjUi1vd0hCRjZvaVJFdFVPdzN0c0FGQW5EMFYwOTJnQUk3RmI3X3RhelIwNl9qaVlCUWVjeUtDd2tNZm1oRnZBOC1RaTFIVGhSdG9KRzZzcFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T11:06:32+00:00",
-      "summary": "新石器发布行业首个安全智能体“玄武”  风闻",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
       ]
     },
     {
@@ -117,16 +180,6 @@
       ]
     },
     {
-      "title": "王兴兴谈具身智能ChatGPT时刻：快则两到三年，慢则五到十年 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWdsTWtIZG95cW9NTkJLZ1RLSmFURkh6azBpaFhiV3dPNGFrQktTMUk3MUtncGN1WnRGR3ltenB0X2F6NDJGUVdpSVEya0JINS0taEh5dG5NLVMxWkFKTkh2Q3FaQWFCOHZMcVRtWmdCQXBFRGxnY2Zka1RZYkk1LUVVZjVXMEFEcXZiUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T09:41:14+00:00",
-      "summary": "王兴兴谈具身智能ChatGPT时刻：快则两到三年，慢则五到十年  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUgzbGlsaTA2cm1YNFh3MXBnbTI1RTBZNkg2dUdHSDFiUk5jc0xIeWtwQWJ2Rkg2MUtwRGctcTB2Vkl0M3VWNEFoTzFoMVFuVXM1cGVSMDVJUUN4VzZ0Z3VxV3NwMnVndHpFNktSZ3NOaHZUSkd6N1Z6anZnZ0ZUYXdidUd0VjBI?oc=5",
       "source": "Google News - AI(中文)",
@@ -154,16 +207,6 @@
       "summary": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座  风闻",
       "categories": [
         "open_source"
-      ]
-    },
-    {
-      "title": "AI智能体推荐安装恶意软件包 工程师差点造成大祸 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVBuQVVWZmpJcEotOTFNekxCbTlySXFqaEVfOUpVNkZBTlNuZG13aDQ2NFhuSFFvS2NVNVc3N0pRQ2ViMGRDQU1jZTNiT3QwU1kwY0FnRkYweFRFU2tBSGI5YnhlRk16VkVKS0R5dkJzS0tYOUhYM1JGaF9vNFQ4bE9BRnNJLXJ3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T08:37:00+00:00",
-      "summary": "AI智能体推荐安装恶意软件包 工程师差点造成大祸  搜狐网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -198,17 +241,6 @@
       ]
     },
     {
-      "title": "具身智能的突破预计在2到10年内实现，迎来“ChatGPT时刻” - 虎嗅",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9abWVBaHNnT3RRb1hmM3RleGNsT0ZTZjVJT21xVVlJdG50NGJVaC0tcV9OWVhCeml5MzU3dUFHMFdVaDl3bUdmaUg4TXh6V1F2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:22:47+00:00",
-      "summary": "具身智能的突破预计在2到10年内实现，迎来“ChatGPT时刻”  虎嗅",
-      "categories": [
-        "openai",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "Waymo在Ojai自动驾驶出租车中整合Gemini AI助手 - 网通社",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nUTdWS05JLV9yTHpEbUkwYW5fZW5tdk1mdkIyY1pSenlMQU5rMEhYcGotSTE4X2VvQ2VkUGVqR0pfTk9qanh0SmswVXc1SEVjRkcxNjNuQ2FlWDg?oc=5",
       "source": "Google News - AI(中文)",
@@ -216,16 +248,6 @@
       "summary": "Waymo在Ojai自动驾驶出租车中整合Gemini AI助手  网通社",
       "categories": [
         "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "优克联旗下乐宠它推出宠物AI智能体并宣布完成旗下AI养宠生态的全线升级 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGxhRUhyLVA2cUZ3Vng4dVFZVFlLSUVuZlN4eTA0Z2hUZDVnNEtBa21iNTFLRm1USUZUcWs1Z1l6TW8wMWoyaHZXT1A2Q1g3RlVOckNNSWtNbmVnV0xMNGh6VUNjdXlzc3F3cEtFMDIyeGtXNF9ndDhJLXV4NEEyU3Vn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T06:45:33+00:00",
-      "summary": "优克联旗下乐宠它推出宠物AI智能体并宣布完成旗下AI养宠生态的全线升级  video.sina.com.cn",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -248,36 +270,6 @@
       "categories": [
         "image_video",
         "chips"
-      ]
-    },
-    {
-      "title": "“鹰序TST”大模型2.0版发布 已应用于大型金融机构现金流预测与外汇管理 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVJtMmt5cU9UZ3gzVWNBZlpDNlBuUnFBVjVYM2RDOXBZZ3FVMUlyUXNaQ2Z4R2toa21DR0JXWkxQckRURTJnVk1iR2RxVm1zOTlEZEppcXhhbmhpWmlLUTFRX2JxbVV2aGU3N1dpd2dVelBITU5MSTZQejBrMzNGUlVQTy01OGFuSFpTbA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T06:19:54+00:00",
-      "summary": "“鹰序TST”大模型2.0版发布 已应用于大型金融机构现金流预测与外汇管理  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmY1BpTFBBTVptXzJpaFJxWWFoR3o5VTJ5dk5VaXl2S0ZhYlRFaXRpbXBIenJkcnctQWtvWVF3RkgzTTY3VkgtbGplaXYwaURiLWJLemVWY2R2c0p6X1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T05:30:49+00:00",
-      "summary": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范  DoNews",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "特斯拉车机上线豆包大模型，使用受限仅聊天无法语音唤醒 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92eWtpY2o0NGVBTjBqRVN3YVpqbU80aEZVYmNvTjBoSGJzcm92V1NlUnlhaE9XSV9fTUxESklZMkxISVpnU1JhWmdMdEdTVGVBMm4tb1FzdnhNdDFxNE1SdHZmWVZTdGtwMHB6X1ZUNGNZWmxVLUg0dmZPSHB6dw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T05:19:00+00:00",
-      "summary": "特斯拉车机上线豆包大模型，使用受限仅聊天无法语音唤醒  新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -318,6 +310,16 @@
       "summary": "重大变化！特斯拉正式接入豆包大模型，中国市场专属AI来了  搜狐网",
       "categories": [
         "breakthrough"
+      ]
+    },
+    {
+      "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RaG93YXVURkFWd09NdTgzUVRocUw4NEczb0oxUE5ENVlPSDdpTUNKTG94QmV4ZmltVDZPZXlmZWNNcER4MFY5Ny1XaUp4SEE5TkRLWElkVzRHZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T04:06:00+00:00",
+      "summary": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范  上观新闻",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
