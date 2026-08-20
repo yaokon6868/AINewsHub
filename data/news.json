@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-08-20T17:31:41.226097+00:00",
+  "updated_at": "2026-08-20T18:42:12.519720+00:00",
   "items": [
+    {
+      "title": "铁路AI发展趋势：从智能巡检到大模型全覆盖 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90QWE5QzVTbncxMXFhT0t0eW1sSW1iRGNkeS1iUlM2TTJWZlZiM3NyeDhxU2JlR3JlNUxDeE9SczFQNDdPdGlLcG1HRWpLNVBFMTRwNjViZ3psM1RkLTZtaW0zVDY4TzIwZTZBb2wxX0Vic3dzN3QyWjBuakdRb28?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T18:22:14+00:00",
+      "summary": "铁路AI发展趋势：从智能巡检到大模型全覆盖  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Gemini和GPT-5.6相比，哪个更适合做智能体？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTnkxY1NCTTV5dlZsMUpESDlLVWNNblRRdndPX1ZZdW9XYVpscFFGYXhGZnM1WWJVRUtTM0t5dnUxcUJtby0zS2oyZmE2cjd5dUtyWEFVYmdLVE5oX053bVFxVUpDZElxUjFZeXcwclVGMnh5RVpoa1JIcWpmQWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T18:14:00+00:00",
+      "summary": "Gemini和GPT-5.6相比，哪个更适合做智能体？  手机新浪网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌AI Studio和Gemini到底有啥区别？一文讲透 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSExEQ18zYVo1WmRtcllWMVZCQml2VmVrTFVhQWVXSzhuSFpVTjJZZGFFUW5YcllHZUo1bElsYmM2dHVEbFRkbzRaQnl0a3hPUTNfcTZxM3JFV0NVVmM0ejJWdjJGZmN0c2tiSW1fTi1UekJKOGtlU2QtTU9FRXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T17:43:47+00:00",
+      "summary": "谷歌AI Studio和Gemini到底有啥区别？一文讲透  手机新浪网",
+      "categories": [
+        "google"
+      ]
+    },
     {
       "title": "OpenAI：ChatGPT计算机网页向欧英瑞部分用户开放 - video.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFRFX2dBd0dzSzk5Y0FnNVFOSlVhNGFHdnNGdjBMdy1BbVRXN1RVYWVBQlZ3aGVrVzNLZU5Nc01LTEFlZk1xTXliOGEzNXhCVXB5akI4X0F3OU5mcEd5Y0ZVbmUyb3VwTWFTMl94cTZxTGhJSWhwaGxBdmUwNWNUT1Rn?oc=5",
@@ -40,16 +71,6 @@
       "summary": "ChatGPT新功能：无需截图即可记住你在Mac上的操作  搜狐网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "协创数据：公司没有自研通用大模型的规划 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdzc4OHEzNnFWQ2wzdTZRODkwSUt4ZlVka1BET2t0UFo1cG9wbDJfX1lkNE1MUFJPZG1BSmdReWxNeUtlbzdwQkxMUzVtX2dmRmt4a0VaQmRFR3hyVzNtaVNtVFJ2Rng1eHktaG42d3RDcWgxRjdHRmZuMU5rWFNMQXZhUk1OMVIy?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T14:08:54+00:00",
-      "summary": "协创数据：公司没有自研通用大模型的规划  搜狐网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -94,17 +115,6 @@
       ]
     },
     {
-      "title": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXF5QTlJaDE3TEROek1NN2JKaEhncEc5RnQ0V1V3RE9QVHR1aXJhQVFibXlqM3RycVRNcXZ1ZHg5aFhZay1sM1gzVGxsaUZLSDM3ZS02djBfS0tveEdLQUFvRU1IYXJPV2xRcktIZ3V1S2NuT2tTakZZRlZSN01ZXzZR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T13:13:00+00:00",
-      "summary": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场  video.sina.com.cn",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVRfU0RMR0FXWGFic082dGFBR3FYMW1hWVNaVHpXcWg2d3pRT05sYzVvUXU3Vm9VN3hlMGFLQ2JCa01VQm5XTU1rak5XWTY2UXMyVkFSNEdheGV1cVZhaVgyMGtxT1pMUkJqXzdBeFpMX0daR2ZRMG02dmNyUDV4TWcxclJFN01UcXdubw?oc=5",
       "source": "Google News - AI(中文)",
@@ -136,21 +146,11 @@
       ]
     },
     {
-      "title": "优克联旗下乐宠它推出宠物AI智能体 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHpNRW9rWU5HN0M2Sk5TMmlXbzVxN1dWUXQwTldCdGlmRkZtWG9pdERWRk9ocXIyR2VZMWRXb3Mzd2Nwd29hdktnQkNTcDZobThoOHZoaF85dU9BVUNwMGVOVTdySnhuSmRnY3V1TlFQbnF2T00zZXFROHRqQllEQU5n?oc=5",
+      "title": "浙江省首家人工智能体检示范基地揭牌 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUw4VGdJeUhjRHFTREVEQzJLclhYYVdaemFiUmR4TGdfYXhOcGNZUTR1UVJEc1pkNzd3aXlJZlRhNDVjcklBeGhBMHoxekt2Y1BkUTNqeklra01SSkhmQTVWcHdBMnFGYXM1eVdfcnpTc0RzdUNkU2dNNGxObkxBQmJfNUtqemlW?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-20T12:10:05+00:00",
-      "summary": "优克联旗下乐宠它推出宠物AI智能体  video.sina.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "浙江省首家人工智能体检示范基地揭牌 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42ZUo2cGlpOUlUY2VCWGZpenMwSjA3TUo5N1NTdGJvb0RsX0g1WlNRMTdyelJKeHBrVHNFR2ZvTWh1bEozclNhOEtfN21HajlvMndUbGZYb3dqTEVrTUxiVEVrVmhncF9xby1fWXg5Zw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T12:06:03+00:00",
-      "summary": "浙江省首家人工智能体检示范基地揭牌  央广网",
+      "published": "2026-08-20T12:06:04+00:00",
+      "summary": "浙江省首家人工智能体检示范基地揭牌  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -167,11 +167,11 @@
       ]
     },
     {
-      "title": "DeepSeek Harness 是自进化 Agent 的基石 - 53AI",
+      "title": "DeepSeek Harness 是自进化Agent 的基石 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjdVMwekx4dm9jRC00QmQyMWUwLThvTTV1bzVMRU5hSTduMUtzUWIyUmVjZGM3blJMdkhEdFBkY3RCdUMyY09iSi01VUw3aU02YWNPT1RROG9GSVdpQ0N4MU15bmtsSDZkbGc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T11:56:08+00:00",
-      "summary": "DeepSeek Harness 是自进化 Agent 的基石  53AI",
+      "summary": "DeepSeek Harness 是自进化Agent 的基石  53AI",
       "categories": [
         "other_big",
         "tools_apps"
@@ -282,26 +282,6 @@
       ]
     },
     {
-      "title": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUgzbGlsaTA2cm1YNFh3MXBnbTI1RTBZNkg2dUdHSDFiUk5jc0xIeWtwQWJ2Rkg2MUtwRGctcTB2Vkl0M3VWNEFoTzFoMVFuVXM1cGVSMDVJUUN4VzZ0Z3VxV3NwMnVndHpFNktSZ3NOaHZUSkd6N1Z6anZnZ0ZUYXdidUd0VjBI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T09:13:05+00:00",
-      "summary": "北京加快布局智能体产业，通明湖中心推动AI创新应用落地  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "ChatGPT搜索大调整：Reddit引用量几周內骤降至近零 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHNuOTBhT0xMUmd1dmZSSnZJZl8tWk1VTDdnY2UySXJpR09rY0ZkWURiQXNsQmYtcHhoYVBrSGxfY3c0VFhzaDd1alZ1clRXcHdkUG5LRUxRTDJydXZ1dE9XN0tSbnV3RjgwT3JKMDhscDRRVHhPRFhaaFNXcEhkRU40TjFnYjdiSExhbA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T09:09:19+00:00",
-      "summary": "ChatGPT搜索大调整：Reddit引用量几周內骤降至近零  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座 - 风闻",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jN2VJTVBMeWdpM0V4UGl1QmtRaGxDQjhvU1JqRG9FN1Y4QmttaW1ScmNESDBQdjF2WWs1bjB3S2tGR2tOWHJJcldaR1h0ZDR3c3BoSjBfRXFfR1Q1MU5WOVpzSFp2dDdfdHc?oc=5",
       "source": "Google News - AI(中文)",
@@ -319,6 +299,26 @@
       "summary": "值得买科技接入智谱GLM-5.3大模型  DoNews",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功 - 中华军事",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGs0NjV6QlFiMmh5Y0dPX05PdEFYbE9SaGNlOTAxWjBHbEtqbGg1MGhydXBBaWVnUjZuUEFzMm04S09wMkVDeVowSGtEeHZmRmpycFZScFgtM0xXN3ZoYi1xVFZvOG1Uc0RzdG1NTmI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T07:50:45+00:00",
+      "summary": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功  中华军事",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "飞渡科技\"峥嵘大模型\"斩获HICOOL 2026全球一等奖 空间智能基础设施赛道迎来领跑者 - 中华网生活",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fX0F4N2ZtV3FCWFJOREI0dmpRdmRyN0tTYlNnUzlrU3IwdzJ4MGtxNGV5Rmc5WHlkcXB0WC1GYi1IaURTeXNSOWxEeEtrWS1FXzJnbzl6eGhrd3U4Sm5iTjhSaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T07:34:49+00:00",
+      "summary": "飞渡科技\"峥嵘大模型\"斩获HICOOL 2026全球一等奖 空间智能基础设施赛道迎来领跑者  中华网生活",
+      "categories": [
+        "other"
       ]
     },
     {
