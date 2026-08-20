@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-20T11:29:02.750185+00:00",
+  "updated_at": "2026-08-20T11:55:47.061615+00:00",
   "items": [
+    {
+      "title": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？ - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBobEdTUVdteVpOd2RIQ0ZwSGgyOFRadFE2TzZJZU1FTkd1UjRXQmNVdHk2S2tZeF9xa3RjMW9lNXd5MzZZRnY4bkpKTHpmT2hKYU5r?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:45:35+00:00",
+      "summary": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？  第一财经",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "特斯拉车机换上“中国大脑”！豆包大模型上线 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wNXgyS0RJcEpNdDJMbVFKaDBIS3ctY0dUYWxBMGdIbmJvQUJBRlBJSkUya096SnNQVzNvOVlDMC1lMEFRSGgxcm8xa0EzMlNjQUFsT2hQZlI0Z2s?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:31:03+00:00",
+      "summary": "特斯拉车机换上“中国大脑”！豆包大模型上线  汽车之家",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "支持 DeepSeek Harness 接入：AgentScope Service 开源智能体服务控制面解读 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpbnFFR05EM0JnTkN6empBLU43bnB0akRrdC0waVdLTzNMNmpfNVotSlhVVmxWR3hvU3E3RXk2M2xNVnVsNDlITnlqMzctMUhLRExpOHYyNHNldDh1cGU2ZjZOeU9WTnBGSlE?oc=5",
@@ -11,6 +31,16 @@
         "other_big",
         "tools_apps",
         "open_source"
+      ]
+    },
+    {
+      "title": "黎曼猜想之后，Claude再破百年猜想！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSklSNUozOWxoOVlvOFBTZVNZTlFMMS14LXRGRmlVdjczaHdpSUJ5OUxFTEhKV28tclc3M3NDcE0wQzFtbmJZUDFmWkphQmpFZ0Q0RFY1WXpyTHVGN1RFSVVqSUhZMFFqX2N1OV9ZNzRpd0xaT2xTcVN2WTB2OFdoaFktc3A2aS1v?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:07:00+00:00",
+      "summary": "黎曼猜想之后，Claude再破百年猜想！  搜狐网",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -94,16 +124,6 @@
       "summary": "王兴兴谈具身智能ChatGPT时刻：快则两到三年，慢则五到十年  搜狐网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "豆包大模型登上特斯拉，可提供实时信息并进行自然对话，但目前尚无控 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXRhMUhVMDE3clc2NmxGOVNaR3dzLVdCV0dtekVmVHVGZGg2VlliTVVqZ3F1a0gwLUxqbkdYUGUwZm5Sb2NNaGU5Nm50MEFyZVJ2UV9rZF9XSVpNazVGZWN4YmEwVXZpb3dEU0gzR0xseWtmOXBPSGF6Tm9kYmpHYjFPbWRrU3R1NjBtSV9RY1lLSkxxRGs4YzM1V0s4TkM3SDdSem12WllWbHVEeEdzM1Q0VVRzZzZQNXQxcVdsdUk3ZnBNcDhyZ2duS3FCcnVKTG9PUUNpcmZMZXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T09:21:00+00:00",
-      "summary": "豆包大模型登上特斯拉，可提供实时信息并进行自然对话，但目前尚无控  新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -301,38 +321,6 @@
       ]
     },
     {
-      "title": "中国算力呈序贯突围之势：DeepSeek-V4等密集发布 - 风闻",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRkZvUzNUdjB6eGVnWTZKZWlWNU1SbXl4M3g1eWNlb2JoMlN5WHFza1VYVHZsSm9fMVlVQjVsR3hmakhtNzdIcXlvVU9QelNIX29oZXpkXzI1MHRfYjgzWlI3ekc3QmgzQUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T04:25:16+00:00",
-      "summary": "中国算力呈序贯突围之势：DeepSeek-V4等密集发布  风闻",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
-      "title": "王兴兴谈具身智能\"ChatGPT时刻\"：最快或需2至3年，瓶颈在“最后几厘米” - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFZTFNZW15Q2tuYmpBeVdpdWtNemhMVFl2ZEc4bU9EVTFRek9ZcXZUSU9rZ09RXzQzWmxsOERtczZPeGV0eFhqNmlUcFZYQjFnazlpMUZsSXlzc25Fd29hT3RWVHRjY3B2NU1nWHZOTnhtV0I0WUc1R1dhSUNJZkk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T04:25:00+00:00",
-      "summary": "王兴兴谈具身智能\"ChatGPT时刻\"：最快或需2至3年，瓶颈在“最后几厘米”  新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "谷歌在搜索和Gemini中推出多款全新AI学习工具 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMzNKTzVJMjVmdFFMVmVUMGlDZzJZbWxpdE5vS1VRSU1kSVdXbmtuTnBsTnlzeE9yaHVQQUNiNmZXTFNkdzZrdmhrMmlHYkxuT2JtSjg0Z05DTlNNaVBOdXdEaUg2QVA2cEhyQlMzUGN3Ym1zVVZyZ2lVeHppTUpqbW1pYTJFYTRtTVBPMw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T04:24:45+00:00",
-      "summary": "谷歌在搜索和Gemini中推出多款全新AI学习工具  搜狐网",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "DeepSeek Harness发布v0.1.0-rc.8：14项更新强化多模态 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SNnllNkRGdmVhLVh0Tmp4TER3WHJNUURRSElXMGZBdHk3VE4tdlgycVRNSkc3c1ZuSkZWT1R6azVkQ3c0cjY4dkVQRnZlVy1BTy1uMGJjRmtTVUE0Ym50SGxR?oc=5",
       "source": "Google News - AI(中文)",
@@ -340,6 +328,16 @@
       "summary": "DeepSeek Harness发布v0.1.0-rc.8：14项更新强化多模态  观点网",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVG5nRlRjY21DbG1xLTFBMmg5cnNpZ0JUblpXMVRSeVl1Qm9jZ1ZRRGs1VE1zdkdmSGpDU3BQYWJoSGtIekp6M3VvRk9PTnE1cmdqa2pGWThENm9iaENmemxR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-19T23:25:21+00:00",
+      "summary": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案  手机网易网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
