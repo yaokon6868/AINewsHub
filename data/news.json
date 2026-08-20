@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-08-20T16:37:47.067014+00:00",
+  "updated_at": "2026-08-20T17:31:41.226097+00:00",
   "items": [
+    {
+      "title": "OpenAI：ChatGPT计算机网页向欧英瑞部分用户开放 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFRFX2dBd0dzSzk5Y0FnNVFOSlVhNGFHdnNGdjBMdy1BbVRXN1RVYWVBQlZ3aGVrVzNLZU5Nc01LTEFlZk1xTXliOGEzNXhCVXB5akI4X0F3OU5mcEd5Y0ZVbmUyb3VwTWFTMl94cTZxTGhJSWhwaGxBdmUwNWNUT1Rn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T17:22:07+00:00",
+      "summary": "OpenAI：ChatGPT计算机网页向欧英瑞部分用户开放  video.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "将 Pod 作为 worker 而非智能体：在 Kubernetes 上重新思考 AI 智能体的部署单元 - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYThiTG5CSGJYOXNJOVhsekJkR2szWUxZM25QNU9pV25QZWdYSjN2V0ktTWFjVWVoQmRsNVZlWjRRNFZ6bk55R3pVRVF6UFNCSmJDdWJ5U0E2cFpnOXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T16:45:04+00:00",
+      "summary": "将 Pod 作为 worker 而非智能体：在 Kubernetes 上重新思考 AI 智能体的部署单元  InfoQ-CN",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "NVIDIA SkillEvaluator：智能体技能性能评估基准发布 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEdrRXhWQmY1ODh6Zk02TTdpOFBkbUtkTmVNejlnbHhXREVoZ2VwTngxRnJpQV9EN0RXWXMtQVpJSzJSbEpNLV9RWkZxT0NiRWFfMmFoTkFLNXZ2ei10V0ZPMHo4S0J6WGtPcUNxT2RkRlRXZFJqczZ4REZPaEFrdTlaaFphdWtV?oc=5",
@@ -9,16 +29,6 @@
       "summary": "NVIDIA SkillEvaluator：智能体技能性能评估基准发布  搜狐网",
       "categories": [
         "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "哪款手机的AI智能体Agent功能更强大？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNHE2WmJyX055R1dOdFJGLVRZNFdGa3ZUbjR4MERjOUcwVkpodWE5MkgxRU9jV1EzaXJIZzNrZ2lDa0lxT3duMWlraUo3by1HUnJZMzZnQ1VicC1naEdkZFdVT0pUTFRLLTlJMTVoUzFhTTZIY2M2aHd0QXkxZU0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T15:10:54+00:00",
-      "summary": "哪款手机的AI智能体Agent功能更强大？  新浪网",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -105,11 +115,22 @@
       ]
     },
     {
-      "title": "特斯拉上线豆包大模型 - 新浪网",
+      "title": "OpenAI接近实现AI智能体自主操作电脑 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84bWdzNXRjYms0ZkNLNWFxVU5RSlFWZUs0eVZzVmZJRU1DUUFzZlYyRU4tUFo0Q296MHpDZVpsNERBeFU2QWI5Y0RpS3dDT1JWaFJfUGNOZmJmdG5SY3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:44:03+00:00",
+      "summary": "OpenAI接近实现AI智能体自主操作电脑  DoNews",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "特斯拉上线豆包大模型 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoN3F3d0w5Q09waWNRZndCbU9LY0YwM3BsOU1Sbm1RM3dYWmItYU92TktodHFBXzRXeHBHOC1CZlRsTkczMUpJdGJGd2RhdThUeDRnVWkxRl9IUmV5RmNqYUtvZXFqU1h2QkkyU1gzVWoyMXh0Tk4zQy0xUE1EUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T12:41:00+00:00",
-      "summary": "特斯拉上线豆包大模型  新浪网",
+      "summary": "特斯拉上线豆包大模型  手机新浪网",
       "categories": [
         "other"
       ]
@@ -131,18 +152,6 @@
       "published": "2026-08-20T12:06:03+00:00",
       "summary": "浙江省首家人工智能体检示范基地揭牌  央广网",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "阿里发布Qwen-UI-Agent，移动端基准超越GPT 5.6与Claude Opus 4.8 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HeXZXcTN2NmJ5NFFOeHhMd2V4d2dhSEpGUmdIX3FnR2pMay1UM0F2NkNza3ZmSmU3TXNseFFkYTdidFUtOThsNjJwT0s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T12:05:55+00:00",
-      "summary": "阿里发布Qwen-UI-Agent，移动端基准超越GPT 5.6与Claude Opus 4.8  凤凰网科技",
-      "categories": [
-        "anthropic",
-        "breakthrough",
         "tools_apps"
       ]
     },
@@ -198,16 +207,6 @@
         "other_big",
         "tools_apps",
         "open_source"
-      ]
-    },
-    {
-      "title": "蚂蚁国际“鹰序TST”AI大模型2.0登顶全球测评，突破时序预测上限 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzNzaGtiSl84WDUwc3JqV3h0dkk2QmVMSU5scE1sUENscXQxbTNFNVZYc0kxVEdDRmFsWG81aFRXUzZpYjlfSkgyamx4eV9kci1TLWQ5VlhySTM4RERYNnlPUDBxLWRTMG9fQkdsdndSU3hLVllBZm5tV0ZTb1NYM2Q2VWRjUEJGa29PNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T11:08:28+00:00",
-      "summary": "蚂蚁国际“鹰序TST”AI大模型2.0登顶全球测评，突破时序预测上限  搜狐网",
-      "categories": [
-        "breakthrough"
       ]
     },
     {
@@ -323,21 +322,21 @@
       ]
     },
     {
-      "title": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功 - 中华军事",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGs0NjV6QlFiMmh5Y0dPX05PdEFYbE9SaGNlOTAxWjBHbEtqbGg1MGhydXBBaWVnUjZuUEFzMm04S09wMkVDeVowSGtEeHZmRmpycFZScFgtM0xXN3ZoYi1xVFZvOG1Uc0RzdG1NTmI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:50:45+00:00",
-      "summary": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功  中华军事",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "我国发布三项教育大模型团体标准 为“人工智能+教育”立规矩、定方圆 - 中华网科技频道",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nTzdkUGppMmFncGxKdTBLdkpyZElheXpZZ1hXRlRaVGVxaVRhdEQ4RHhISTN5SlhkS3BZcFdIbkZKMUZOWkJyYnd4OEFhUHUyOG9UZjhiS0Q3V2pSOE5CdmZyb2pfM0Zna2FfRzN3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T06:31:05+00:00",
       "summary": "我国发布三项教育大模型团体标准 为“人工智能+教育”立规矩、定方圆  中华网科技频道",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "蚂蚁国际“鹰序TST”大模型2.0版发布，AI金融预测能力再升级 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOenNESERrcFNadFk1d0E5bE51QlpKTzdtdGFoaFZWYzA1VnVZYXgzVUZ2bzVTeS05SFA1cXNHa3NUOVRUdG94amhXWG1jbEE4Z2Y3TExVZkhHaWc0X2R3WkFOZmg4Y0ltUHl2UDc2UXR2WHZueFVrOXVZQkY0aGE2M25sVGdpUWdiV0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T04:58:32+00:00",
+      "summary": "蚂蚁国际“鹰序TST”大模型2.0版发布，AI金融预测能力再升级  广州日报新花城",
       "categories": [
         "other"
       ]
