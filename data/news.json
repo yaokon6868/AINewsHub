@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-20T18:42:12.519720+00:00",
+  "updated_at": "2026-08-20T19:33:45.302364+00:00",
   "items": [
+    {
+      "title": "谷歌Gemini的原生多模态能力是如何实现的？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSFNkb2NFbW1ob21sWW45dXlYc1JVTTBZdjhKX201YWRyZTJ1a3Z5aW5pRnRsVzBCQm5XaGZNUTRRbVNrVDYwUWplMUVDMXhWS0pCZkVFSmZHdGpKOTFTMWswYnNxOTlFMTRUSlUtZVhPQUtWYWV2dENiRUZFN0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T19:07:53+00:00",
+      "summary": "谷歌Gemini的原生多模态能力是如何实现的？  手机新浪网",
+      "categories": [
+        "google"
+      ]
+    },
     {
       "title": "铁路AI发展趋势：从智能巡检到大模型全覆盖 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90QWE5QzVTbncxMXFhT0t0eW1sSW1iRGNkeS1iUlM2TTJWZlZiM3NyeDhxU2JlR3JlNUxDeE9SczFQNDdPdGlLcG1HRWpLNVBFMTRwNjViZ3psM1RkLTZtaW0zVDY4TzIwZTZBb2wxX0Vic3dzN3QyWjBuakdRb28?oc=5",
@@ -20,16 +30,6 @@
       "categories": [
         "openai",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌AI Studio和Gemini到底有啥区别？一文讲透 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSExEQ18zYVo1WmRtcllWMVZCQml2VmVrTFVhQWVXSzhuSFpVTjJZZGFFUW5YcllHZUo1bElsYmM2dHVEbFRkbzRaQnl0a3hPUTNfcTZxM3JFV0NVVmM0ejJWdjJGZmN0c2tiSW1fTi1UekJKOGtlU2QtTU9FRXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T17:43:47+00:00",
-      "summary": "谷歌AI Studio和Gemini到底有啥区别？一文讲透  手机新浪网",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -74,6 +74,16 @@
       ]
     },
     {
+      "title": "协创数据：公司没有自研通用大模型的规划 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdzc4OHEzNnFWQ2wzdTZRODkwSUt4ZlVka1BET2t0UFo1cG9wbDJfX1lkNE1MUFJPZG1BSmdReWxNeUtlbzdwQkxMUzVtX2dmRmt4a0VaQmRFR3hyVzNtaVNtVFJ2Rng1eHktaG42d3RDcWgxRjdHRmZuMU5rWFNMQXZhUk1OMVIy?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T14:08:54+00:00",
+      "summary": "协创数据：公司没有自研通用大模型的规划  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长 - 国际在线",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LcXRXbEdKXzdjWW9xWHd0eUw2U1Q1andHTVdrNWY1RlNWWnVIMVc2T0xGX2hvZTVZWkVmYlRkZnAwa1BCWG1maFgyNk5vS2poTWh4TmpHdEZ5N2gxQ3JqOUYzN2gtd3JyNTUtandDSTZ3OHBIVVJKd2JR?oc=5",
       "source": "Google News - AI(中文)",
@@ -105,6 +115,16 @@
       ]
     },
     {
+      "title": "《数据基础设施 智能体交互技术要求》等9项技术文件公开征求意见 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFpvNEFUelppMHlxbnM3NnJ3ZzBuOHNvdUh1WV90cDhlOGtBNjNOUTc3NzVWbDYxcjRqZFZXVDVvcGZiS0NEYi04c0tqUnAtM0hJMlhWa1RFaF80cmFVaDEwcHIyMGhYcE9LOFpaQWxvV2FuYlNLMFp6dUZEcWppMmNMbHFMTEtZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T13:18:00+00:00",
+      "summary": "《数据基础设施 智能体交互技术要求》等9项技术文件公开征求意见  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "银河通用王鹤：中国人形机器人出货量占全球80%以上，2028年将迎行业“ChatGPT时刻” - 凤凰网财经",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZeVBrc1BYMHVNN2VsNW9IQTBybFpsNHIwMy1KTVRYbkREN1hsYkV1VTl4eDNCajloOWVrMnNuR1FLclk2MGR1VUJBVWRnUURU?oc=5",
       "source": "Google News - AI(中文)",
@@ -115,11 +135,32 @@
       ]
     },
     {
+      "title": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXF5QTlJaDE3TEROek1NN2JKaEhncEc5RnQ0V1V3RE9QVHR1aXJhQVFibXlqM3RycVRNcXZ1ZHg5aFhZay1sM1gzVGxsaUZLSDM3ZS02djBfS0tveEdLQUFvRU1IYXJPV2xRcktIZ3V1S2NuT2tTakZZRlZSN01ZXzZR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T13:13:00+00:00",
+      "summary": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场  video.sina.com.cn",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
       "title": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVRfU0RMR0FXWGFic082dGFBR3FYMW1hWVNaVHpXcWg2d3pRT05sYzVvUXU3Vm9VN3hlMGFLQ2JCa01VQm5XTU1rak5XWTY2UXMyVkFSNEdheGV1cVZhaVgyMGtxT1pMUkJqXzdBeFpMX0daR2ZRMG02dmNyUDV4TWcxclJFN01UcXdubw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T13:09:07+00:00",
       "summary": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "宇树上市后王兴兴最新发声：具身智能“ChatGPT时刻”最快2～3年到来 - 世界浙商网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBscGMxb1l3Q254OW9zck44aDZIMktTX1FBOWhBbHJoNFRDUzB5aFBOU2ptVXlkQkJvWXZFTnktYl94aUNDb0ktQ19Vb254Q2liRUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T12:48:28+00:00",
+      "summary": "宇树上市后王兴兴最新发声：具身智能“ChatGPT时刻”最快2～3年到来  世界浙商网",
       "categories": [
         "openai"
       ]
@@ -292,36 +333,6 @@
       ]
     },
     {
-      "title": "值得买科技接入智谱GLM-5.3大模型 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2Z2IzZnV2WGloa3NaUDV6cmhfV2YzUVhiMnBXZEp3bWlYZXZIY1NOZ3ZRTEliRnF5OVg0a0VYUmlsX2owdUNqMTRXVndiNlluR25VRnFRX29DWVAxMGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T08:10:04+00:00",
-      "summary": "值得买科技接入智谱GLM-5.3大模型  DoNews",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功 - 中华军事",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGs0NjV6QlFiMmh5Y0dPX05PdEFYbE9SaGNlOTAxWjBHbEtqbGg1MGhydXBBaWVnUjZuUEFzMm04S09wMkVDeVowSGtEeHZmRmpycFZScFgtM0xXN3ZoYi1xVFZvOG1Uc0RzdG1NTmI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:50:45+00:00",
-      "summary": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功  中华军事",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "飞渡科技\"峥嵘大模型\"斩获HICOOL 2026全球一等奖 空间智能基础设施赛道迎来领跑者 - 中华网生活",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fX0F4N2ZtV3FCWFJOREI0dmpRdmRyN0tTYlNnUzlrU3IwdzJ4MGtxNGV5Rmc5WHlkcXB0WC1GYi1IaURTeXNSOWxEeEtrWS1FXzJnbzl6eGhrd3U4Sm5iTjhSaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T07:34:49+00:00",
-      "summary": "飞渡科技\"峥嵘大模型\"斩获HICOOL 2026全球一等奖 空间智能基础设施赛道迎来领跑者  中华网生活",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "我国发布三项教育大模型团体标准 为“人工智能+教育”立规矩、定方圆 - 中华网科技频道",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nTzdkUGppMmFncGxKdTBLdkpyZElheXpZZ1hXRlRaVGVxaVRhdEQ4RHhISTN5SlhkS3BZcFdIbkZKMUZOWkJyYnd4OEFhUHUyOG9UZjhiS0Q3V2pSOE5CdmZyb2pfM0Zna2FfRzN3?oc=5",
       "source": "Google News - AI(中文)",
@@ -347,16 +358,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T04:06:00+00:00",
       "summary": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范  上观新闻",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yVG5nRlRjY21DbG1xLTFBMmg5cnNpZ0JUblpXMVRSeVl1Qm9jZ1ZRRGs1VE1zdkdmSGpDU3BQYWJoSGtIekp6M3VvRk9PTnE1cmdqa2pGWThENm9iaENmemxR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-19T23:25:21+00:00",
-      "summary": "数商云深耕企业级AI智能体定制开发服务，打造可落地专属Agent解决方案  手机网易网",
       "categories": [
         "tools_apps"
       ]
