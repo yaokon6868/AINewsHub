@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-20T21:30:16.772500+00:00",
+  "updated_at": "2026-08-20T22:30:06.531485+00:00",
   "items": [
+    {
+      "title": "王兴兴上市后首发声：人形机器人2-3年迎ChatGPT时刻 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FdGRQQnMyamJNOGdDbVlHQkZRNDExVkktc2NrQUFta1dkRGJSc0JZdXc3S1k0d0dwSkJZeXR3dFdFZGNCZy0xak94cmt4NUNvN3lDVFpCU3NodEV6dnBseHIzNkpiUS0tcHNOUGZKUnFVY1BrSzVsRjFxekZNajg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T22:10:00+00:00",
+      "summary": "王兴兴上市后首发声：人形机器人2-3年迎ChatGPT时刻  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "文心一言和谷歌Gemini哪个强？ - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sb0tvbjRIbHNUQ1pRY3RCdi1WQ3o3X3pVbW1FS1R4Z0pwVmVuNWtUeGVJendHREk3RFQxVkdVV3lLaDYzS1VOUU8zdDFXMzJvbmlHdWhpQVFHNENGQk5KT3dqWHY2YTBLdnJleGk3dzctQmpGYS13QmFBOUxiVXc?oc=5",
@@ -22,16 +32,6 @@
       ]
     },
     {
-      "title": "具身智能的ChatGPT时刻还需要多久到来？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnbjhrak13V3pyaDRYaTg0UUNnSWYyTUVnZ0ZpbDhXMWVzUlVrUThnSlRoSnRzQmg1X3FZbWJGbVR4LWZIR2RBYVh3NndDS19NYTBNUGlDN0FfdkJlOTVhXzMtaXlTRTRUQmdvTVpvcnlmOVhPWFRRUFo2RnFBM2s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T20:40:00+00:00",
-      "summary": "具身智能的ChatGPT时刻还需要多久到来？  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "谷歌Gemini平等爱世人，网友直呼被治愈 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HVTJfMXIzRk03dFdoYnlGMlFkYVJ3OXZQNUxRTlRaaGp1b3JkaGh6SHRld2cyODBRMmN1V0YwSWgyZXFIak1xQ0ZUMFpLbkdMWndVTlpYT0xTZ09LQWVrQ2N1a19iWVduVVdYc3FVWTl6MGhhUndiYXJ3cGxRQ1k?oc=5",
       "source": "Google News - AI(中文)",
@@ -39,16 +39,6 @@
       "summary": "谷歌Gemini平等爱世人，网友直呼被治愈  手机新浪网",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "这场对接会着力推动AI智能体落地应用 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNmtDV3VHUzA3UmlpXzBBRE5kOERwY1VPeXI5M29mZHE5d2dkYkM0bXBTcmFaV2RSa0ZERlhQRVF5cTNDSi1RX05qb2t3WldCWGlUMlIzeHNONWdWakp0WW82OU9MRGR4LVFCalJLeV9GT1I3blIxemtsX2Q4QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T20:19:00+00:00",
-      "summary": "这场对接会着力推动AI智能体落地应用  手机新浪网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -67,6 +57,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T16:45:04+00:00",
       "summary": "将 Pod 作为 worker 而非智能体：在 Kubernetes 上重新思考 AI 智能体的部署单元  InfoQ-CN",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国平安发布2026年上半年业绩：AI智能体辅助实现销售额超573亿元，AI日均Token消耗量飙升至1200亿 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fWUdEbEc4a1p6RXg2akNyWDhDb05aRF8yaEQwX2E5ZG95ZXlrcGhrYWtwSlBsdDFrU29aUXhPZkc4RmdRYWx0RV9mUUxvTGZvTHZ5a0puc2tMaE1idUVjaWhrQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T15:45:08+00:00",
+      "summary": "中国平安发布2026年上半年业绩：AI智能体辅助实现销售额超573亿元，AI日均Token消耗量飙升至1200亿  东方财富",
       "categories": [
         "tools_apps"
       ]
@@ -114,16 +114,6 @@
       ]
     },
     {
-      "title": "【视频】特斯拉用上豆包，本土化大模型上车！ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wajc4S3Vlajc3TkR0Q0V2bHU1Yk1aTTRFSXdSejRGZC10R2NKU2VaWUdUWGVNMzgtQUNOdGFJdWtnX3I3VExwSzlfUzVhZnVsMEliWUZzXzFfM0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T14:36:58+00:00",
-      "summary": "【视频】特斯拉用上豆包，本土化大模型上车！  汽车之家",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
       "title": "焦点访谈丨开放+普惠 中国开源大模型在千行百业扎根生长 - 国际在线",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LcXRXbEdKXzdjWW9xWHd0eUw2U1Q1andHTVdrNWY1RlNWWnVIMVc2T0xGX2hvZTVZWkVmYlRkZnAwa1BCWG1maFgyNk5vS2poTWh4TmpHdEZ5N2gxQ3JqOUYzN2gtd3JyNTUtandDSTZ3OHBIVVJKd2JR?oc=5",
       "source": "Google News - AI(中文)",
@@ -162,17 +152,6 @@
       "summary": "《数据基础设施 智能体交互技术要求》等9项技术文件公开征求意见  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXF5QTlJaDE3TEROek1NN2JKaEhncEc5RnQ0V1V3RE9QVHR1aXJhQVFibXlqM3RycVRNcXZ1ZHg5aFhZay1sM1gzVGxsaUZLSDM3ZS02djBfS0tveEdLQUFvRU1IYXJPV2xRcktIZ3V1S2NuT2tTakZZRlZSN01ZXzZR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T13:13:00+00:00",
-      "summary": "Anthropic合资公司Ode收购AI咨询商拓展Claude企业市场  video.sina.com.cn",
-      "categories": [
-        "anthropic",
-        "breakthrough"
       ]
     },
     {
@@ -238,6 +217,16 @@
       ]
     },
     {
+      "title": "特斯拉车机换上“中国大脑”！豆包大模型上线 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wNXgyS0RJcEpNdDJMbVFKaDBIS3ctY0dUYWxBMGdIbmJvQUJBRlBJSkUya096SnNQVzNvOVlDMC1lMEFRSGgxcm8xa0EzMlNjQUFsT2hQZlI0Z2s?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T11:31:03+00:00",
+      "summary": "特斯拉车机换上“中国大脑”！豆包大模型上线  汽车之家",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "支持 DeepSeek Harness 接入：AgentScope Service 开源智能体服务控制面解读 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpbnFFR05EM0JnTkN6empBLU43bnB0akRrdC0waVdLTzNMNmpfNVotSlhVVmxWR3hvU3E3RXk2M2xNVnVsNDlITnlqMzctMUhLRExpOHYyNHNldDh1cGU2ZjZOeU9WTnBGSlE?oc=5",
       "source": "Google News - AI(中文)",
@@ -267,18 +256,6 @@
       "summary": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基  DoNews",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "阿里虎鲸文娱自研AI大模型，并内测视频创作工具 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMldQVjZlWUh5T0h5V0oxR1V1Q2tLaDgyZWZnZVF1S1VkbTR5SnBETDNSMGgyaGl4NlRtblZjMk9FUWI4bGNybzFBUUIxRFFIbzBMV3JPRVBnaTREcHlFUVp1QnNwMVhVVXctUURuU1gtQTlOcl9XU1N1SVBFNEZwOUQyZFNDX1hz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T10:55:30+00:00",
-      "summary": "阿里虎鲸文娱自研AI大模型，并内测视频创作工具  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps",
-        "image_video"
       ]
     },
     {
@@ -329,6 +306,26 @@
       "summary": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座  风闻",
       "categories": [
         "open_source"
+      ]
+    },
+    {
+      "title": "值得买科技接入智谱GLM-5.3大模型 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2Z2IzZnV2WGloa3NaUDV6cmhfV2YzUVhiMnBXZEp3bWlYZXZIY1NOZ3ZRTEliRnF5OVg0a0VYUmlsX2owdUNqMTRXVndiNlluR25VRnFRX29DWVAxMGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T08:10:04+00:00",
+      "summary": "值得买科技接入智谱GLM-5.3大模型  DoNews",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功 - 中华军事",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sZGs0NjV6QlFiMmh5Y0dPX05PdEFYbE9SaGNlOTAxWjBHbEtqbGg1MGhydXBBaWVnUjZuUEFzMm04S09wMkVDeVowSGtEeHZmRmpycFZScFgtM0xXN3ZoYi1xVFZvOG1Uc0RzdG1NTmI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-20T07:50:45+00:00",
+      "summary": "美国25岁男子向AI透露杀人计划，ChatGPT主动报警 AI立大功  中华军事",
+      "categories": [
+        "openai"
       ]
     },
     {
