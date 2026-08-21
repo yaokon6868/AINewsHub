@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-08-21T11:55:51.836460+00:00",
+  "updated_at": "2026-08-21T12:56:31.654223+00:00",
   "items": [
+    {
+      "title": "刚刚！Deepseek多模态模型发布，不仅能看图，还能写PPT、做动态网页！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGIwcklEVFY4WWhuZ3pseGFudElQcVgyTDNFTDZBVTgyTkt3Y2NweXE5MGtOZlRXZjlYVWlib3pYWVIxUnhZWHI0N0FvQUNGbVNZSmhoaXMwYnJQdW44UUlYZHNPVUFHZDRfUWlnQlRLZkR0ZUU1eUkteUFSZkkyNUJpTEdTUnZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:54:17+00:00",
+      "summary": "刚刚！Deepseek多模态模型发布，不仅能看图，还能写PPT、做动态网页！  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "AI进化速递丨DeepSeek上新多模态模型 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXlIekhaNkJFV3NXNmM3T25oMzVVb0RHWEdpRExEclV2ZHZUUEJPdDRYZlVxVVdvV1o5R0VsdXUyalZ1dzJJX2U2WEJ2RnNIVnZiN3dpeWd2T0hya2xUTDZGdHFmR0cwZ3M5QnRRNXBpV0dVbnprRmRmY2dId2ZGaE8yeFhYRG1uYktpQmtreF9VRVhf?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:49:52+00:00",
+      "summary": "AI进化速递丨DeepSeek上新多模态模型  手机新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3U5dFRhX1pwaE1IMG5MNEIyZVctR2Q2MTRKWTQ5aGpybkNxOWw5d1FQc3lxZk1mdmU5TWtZV2JwX1IxcVlNV1dKOGx2VE1pLTYwb0lPc0JXWV84aFZVei1HMHBvNmZZdWhUVEd2RlVKcnpmRG5uVEhvYUpSQzZpQ0R1YWJ6MmRE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:37:04+00:00",
+      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌Gemini的算法偏见是如何产生的？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zeVl2dm14WXl6Q3pIZTVuUXJjWnoxNU14TG1KNmlVTGxSWk5qY09mTVd6RHh2blZubzY4ZWZnTmZuTTVoRVdaU1VFWkUwY1VNREZwUk81UDlHTUxqQi1ZMmN2VUJldDgyWVlhdk1kWUZQUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:19:00+00:00",
+      "summary": "谷歌Gemini的算法偏见是如何产生的？  手机新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "摩尔线程张建中：产业正迎来具身智能“ChatGPT时刻”，算力底座是关键力量 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXp1MWVwLTh6MzlDdFNiQkZwQmcxa0ZWei0wSDUtMWVEbjhqOTRlNXAta0FscnRpbFRpY05jQnMzZ2VSbktkVGl1VE9aekV4eHc0TnNEYllXdzJCeVljNDdhQkJLa2YxUW1JSzRVdnVwR1FUNVFQMTRVRXFTQlRUaTNVNHU5MVBE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:12:12+00:00",
+      "summary": "摩尔线程张建中：产业正迎来具身智能“ChatGPT时刻”，算力底座是关键力量  搜狐网",
+      "categories": [
+        "openai",
+        "chips"
+      ]
+    },
+    {
+      "title": "人形机器人的 \"ChatGPT 时刻\"，卡在最后几毫米 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmZpQXgzZm56R0pseFZSU0J2YTFPTUxMencxMElvTXhXY285TlVZdGZVelhrTFMyQ2gxaGtSbHRUVEhKMVJ3QlZhMERZR2doN1lQaGRKU3VNYzNTYTByZEtZWW5OMXRBUUhqVUZ4SjYza05ic3FCYUxLcjZ6NHJ5NW4tMzhGU0d5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:00:00+00:00",
+      "summary": "人形机器人的 \"ChatGPT 时刻\"，卡在最后几毫米  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "适创科技十周年：以自主CAE筑基向超级智能体跨越 - 经济参考报",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTl2M1hnakw5bFlNbWFONEM1ZFoyUkFWOUhxbzAzT0NMTjN0eWk5bmZWYS1pOWl6cUNyUlNqNEZVT3dUT2hrRDRyR0pqMkpuLXRGNVBVRjgtYmRwdHpIV3RNR3htSXRfc2F1MHZlb1FTejhpX3RkNjJpN0xibF9iXw?oc=5",
@@ -9,6 +71,26 @@
       "summary": "适创科技十周年：以自主CAE筑基向超级智能体跨越  经济参考报",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "神秘“牛来大模型”上线，背后厂商到底是谁？_精彩视频为您呈现 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YWRfTlRseWRXa1pqdG14VTFsRy1idGdDVUFnNy1VSWpaeHZpUUN1NDhBNWJpRFJuMm5tWGJDUUNyX3RaZ2tjMGhoeHgzSXpHdWQ5a1Zn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:51:58+00:00",
+      "summary": "神秘“牛来大模型”上线，背后厂商到底是谁？_精彩视频为您呈现  36 Kr",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "AI赋能智慧教育，广州海珠举办教育垂类大模型发布暨产学研生态战略合作签约大会 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzJDLWhTeWlfUXZ3cXR3ZkcwZ2dmcmNIMVpXc01SUUx2UTE5UFJxVXJOcVZPVHZCMVV2Q2R1NFNZYU90TWtvLVprVVNDSWkwZGdIRUp4NHEydEpnQlI2VWFnWFM0Si1QTFlHNkFiN0FFelVZUktOSS1CNXJJLVc3YVRpVE8yWTZF?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:51:14+00:00",
+      "summary": "AI赋能智慧教育，广州海珠举办教育垂类大模型发布暨产学研生态战略合作签约大会  搜狐网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -32,24 +114,13 @@
       ]
     },
     {
-      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 时代在线",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TRWZlRnY2X0R6Mnhrc1pqX1BJa0R4d2NzSlZ6a3NiMkFGVlJsLXVTQlNCamVoa2QxczR5WGJ3RVRkb2VGUnlMcFRfMA?oc=5",
+      "title": "突发！DeepSeek多模态来了：会做图，不涨价 - 雷科技",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92ZDN2ZEk0ZEhEOHlYbkFETWlLd3l3TzBTLTJjd2pLbzFRQm5XZTVZWGhBSGN2cHVDRkc2M0x0STh3TFlGcGtBTkpBN2FCdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T11:22:28+00:00",
-      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  时代在线",
+      "published": "2026-08-21T11:26:50+00:00",
+      "summary": "突发！DeepSeek多模态来了：会做图，不涨价  雷科技",
       "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic等公司如何执行AI内容水印标识？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02Y25zNkRxZUdzWTNLeTVrNEoyY0ZFd0YtV1MtaVljZVlDaHBSWXNQZDFFTXRMRlNSREx2YVY4V2M2V3VYZnFiRkI4bGhkclhOZklhYkhNQzkyZGZ3dXozRmt3QmlOTFNSZTRfcHk5MFgtUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T11:13:00+00:00",
-      "summary": "Anthropic等公司如何执行AI内容水印标识？  手机新浪网",
-      "categories": [
-        "anthropic"
+        "other_big"
       ]
     },
     {
@@ -71,6 +142,16 @@
       "categories": [
         "anthropic",
         "image_video"
+      ]
+    },
+    {
+      "title": "岭南文化大模型入选第六届中国报业创新发展案例 - guan.media",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uOERnVlRqUlpXZ1BoMF9iRXlTZ3B3OVR2aXd5TmFQWE5lSDBNa0hrQXd4Z043WFd6UUdncjhIU1phVnhxaEloRGdnaHU0QW1uVUdV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:52:00+00:00",
+      "summary": "岭南文化大模型入选第六届中国报业创新发展案例  guan.media",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -134,6 +215,16 @@
       ]
     },
     {
+      "title": "多模态Agent能力更是大幅跃升，直逼Opus-4.8！🔥现在不仅能秒级识图（连猫咪品种都能精准分辨），还能一​_新浪新闻 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZQXFzVVRCd3A2YTFRd0paNm4xNUFIVFFoQkh1MUZuMUxjSGJfeWpia0JPNmdGdkNnWGZSU09pdUYxV3kwTTFUMldqQ2RnRU1zX3pXRWNQMVliS2kxeE9PZVNWTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:16:00+00:00",
+      "summary": "多模态Agent能力更是大幅跃升，直逼Opus-4.8！🔥现在不仅能秒级识图（连猫咪品种都能精准分辨），还能一​_新浪新闻  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "北京市首批人工智能赋能科学研究典型案例发布 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTBMbVVydjNaTVN6UkFzMUZYMV9UbWdqLVFzdnd1OEZCc0RzdHBMeUJubFZCcXlJeWcwZXV5SFZfN3IyUFN2U1VXbU05UDhRSXpTTVktei1KOTRfWGxxd2g4YzE5N0Juc1dJcGFPTzVTSnQ5UDI2M0VkLW9rVlRrUmhOQktQWGp1?oc=5",
       "source": "Google News - AI(中文)",
@@ -176,16 +267,6 @@
       ]
     },
     {
-      "title": "刚刚，DeepSeek正式发布多模态模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXNpbGhnd0lCdFZRc1JQZl92MFpCcEdJTW9NQXF1R05NUGVYT0QxV3M4SE0wamdPN3RjUE5za1JXZTBrcmtaVDNfUXJDelRVeHVhSlpmbUdjdWhmRzFoaHRsOExSS1VVYW5kMWxtdUF6LTBsX1VIbk9MS3hsRFV3bDBwb09vOTlL?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T09:58:54+00:00",
-      "summary": "刚刚，DeepSeek正式发布多模态模型  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "DeepSeek V4-Flash-Vision-Exp 上线，开启多模态 API 服务 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3U3WE9kN3hLM1M0RjNWUEc0TF9idHNWa0NFX2NmNXdKaERfclFJSmZSUTBLTnlKTFRxa21yTWFGcnFCbEVfSFJvUkxsYno2RDJ0QWdZcERIaTU5UFZOaDU4V1ZKQkduQ0FjOXU1b1l1OTVyZjJuYzV0T296Unc5S1VNaWxQVGMtbHh4Vw?oc=5",
       "source": "Google News - AI(中文)",
@@ -207,16 +288,6 @@
       ]
     },
     {
-      "title": "Salesforce推出Slack Code，让智能体编程走进团队协作 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW45eExrUFUtbDlKemR1WWNOcnlFc093dHdHb3RjUnhUT04ydGo5Q3hFMzJDQUlmUVRlV0FzYlFBd3JpbVNOWkVpbTJ3eU4wWlZxdXZySDZQNy0tYWhDcFdZNXdxY25FYVVTcGVlMzl5N2x6WXM3MXZjeVhRb1BsWUFhbWRBd1lK?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T09:39:00+00:00",
-      "summary": "Salesforce推出Slack Code，让智能体编程走进团队协作  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "研究发现：ChatGPT发布后三分之一的网页存在AI创作痕迹 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFl3NllqZXpyQkphOTFqSUFrYUFkTkdCUWhlQ0dJalFOX2lkVURBQWtnZ2JxMDgwUng2VFppRTV4WTVoOEt2WXIyLUphYjZmSjh1WHFOYUl3Y3p6d3Zod0d6M3dmenN1LU1sTThqanAyOGxKTG9kd0xjNF9fbkQwUUNfUy1obmNm?oc=5",
       "source": "Google News - AI(中文)",
@@ -224,16 +295,6 @@
       "summary": "研究发现：ChatGPT发布后三分之一的网页存在AI创作痕迹  搜狐网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "Claude 设计蛋白爆火，但 90% 的人都看错了 - 虎嗅",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wWHFjSmVHQjJEaEVlcTFNSkJ0aG44elctNDRnNi1YMlo2OEN5Ti1nU19uTVFJVkVVbWdiMWtnQWJlc2lCTkNydzh5MEs0a3F6aHY3Qg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T09:28:50+00:00",
-      "summary": "Claude 设计蛋白爆火，但 90% 的人都看错了  虎嗅",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -248,77 +309,6 @@
       ]
     },
     {
-      "title": "视频生成迎来“Claude Code 时刻”，MiniMax Design “杀入” Adobe、Canva 腹地 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcW81a1hObWRsTXRtaHk4Si1lblpId1VLcmRsbFB3emJWUUF0Z2ZMRERfc3JNX3dvVHZhS1M5dHhuMGR3OWRDNEJvQUx0ZEY1LWhhREtKbzBVb1RhcFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:56:29+00:00",
-      "summary": "视频生成迎来“Claude Code 时刻”，MiniMax Design “杀入” Adobe、Canva 腹地  InfoQ-CN",
-      "categories": [
-        "anthropic",
-        "image_video"
-      ]
-    },
-    {
-      "title": "一份阿里财报，揭开大模型生态战的财富密码 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iMWhkNEFxckdpTllsSGxwX3FJTFNCRUFtZlo5M2ZHRjYxalR1aUZ2QmZMM19kZExFNFpfOUk2bGhUM3Y2UzNXMnEwMUFESWpyU0Nn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:52:00+00:00",
-      "summary": "一份阿里财报，揭开大模型生态战的财富密码  电子工程专辑",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "AlphaFold刚解散，Claude进军蛋白质设计：15个靶点拿下14个 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tZzZnUGVLcUlJallUZ2tyWGJHa0wxU2NqeVJZRnBkaldoQlF1TmQtWWpiakJlYjNfbHFpUlpNdUVRQzFMX1FEZQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:50:00+00:00",
-      "summary": "AlphaFold刚解散，Claude进军蛋白质设计：15个靶点拿下14个  智源社区",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHpudkYxc25VZW82dGlsbnJjN3pVVUtyYnllbGlBazR1UVNZUmtzemk4WWw5WEN5LUNFUnZ3SkRTWEVydk5EX3JGdEFtVzJNOXp5dHBiSlRxYTVWUVpObzROeTFiNkc1Vkp2eTR5QVE2YUF4UFYzZjVyUldwc3dZYkpnWEhTRElx?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:49:59+00:00",
-      "summary": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "“家装智鉴”智能体上线，破解装修“信息不对称”难题 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlczUkFBSXpGSkZYYU8ybk9zS05oSUNRaWRGWEVZclJOMnVDcDlMSjl3NEs5RE1OVXRyMnNiQ1hyLUFFVm1fUUZHWDRSYmFMNzFxeF9OWDZMRUxqNDZDa0p3ZUdUSjZOWmJBR20xT21nbnJGSDNIUU9EOGlMa3JFcDRXRGFnNzhY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:28:22+00:00",
-      "summary": "“家装智鉴”智能体上线，破解装修“信息不对称”难题  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "特斯拉上线豆包大模型，大模型相关企业1.46万家，多为资金密集型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjlwQ1FGalZrbFQ1Y0k4S0FZZWNqZlZGNC1ZRUJoNmo5SkRNdWFINHQ5SmRZTE1mbWg3UkpXcEhuRHhMeV9pQTF4aEZwWW5YdmltNm51eWtqVXBkbTFkYjlIRTB2a0JqTmpaYVBTVWRaWmR2dnM0SUNLbGFCVldXakdCeFVta0VKZWgzUg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:19:58+00:00",
-      "summary": "特斯拉上线豆包大模型，大模型相关企业1.46万家，多为资金密集型  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "2026全球智慧教育大会开幕，发布全球智慧学校倡议 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hU09LNzd6a25vME5adktFYXJJWER1dVlQMTVtS1VwS3FuSGV4dnExRmJsWXJSQVM3dGI5M3FNUzNwZDBMWXAtTi16UXl2Rk9YLXV6eDAzd3ZZNW5ha29WdDZJOVREd2lZTllFTUJXTG1zUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:13:00+00:00",
-      "summary": "2026全球智慧教育大会开幕，发布全球智慧学校倡议  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒” - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNm1uaHFPRm9KOUczN29lQlExa3FFRTBnWVYybTVKLXlYUHhmX2U0SERQQ0hOSVc4cTB5WUhrclFyZ1hXR0NlOTRSd0h2NmVRQlFTazltX0lqcU1QUFY1T0s1bkRObzlOQ1pVRDZRWUpaaV9KMzQwOVI1UHJMb1NLNTZOWDBYYkRj?oc=5",
       "source": "Google News - AI(中文)",
@@ -327,6 +317,16 @@
       "categories": [
         "anthropic",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EM1habDRNTTdUbVhwUnBMR0tTUVVPLS01eGd3QjFUNHQyazVTOWNtYlBOLXB5WGRQVmtidE5oaDRPZWI3QjhRWlBKVjY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T06:19:26+00:00",
+      "summary": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座  极客公园",
+      "categories": [
+        "open_source"
       ]
     },
     {
