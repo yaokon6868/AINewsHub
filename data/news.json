@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-08-21T06:51:47.549876+00:00",
+  "updated_at": "2026-08-21T07:45:00.656519+00:00",
   "items": [
+    {
+      "title": "大模型与Agent攻击风险受关注，AI基础设施安全产品发布 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDFfd0loTlZ2Qk1nZ0ZrRGhCcHNMcDM1V2x4WmVZUXhUaVAyZXhDMHBpZVNJSFQtYVhQZTlRT2FrRldrZWZTWFpYcm5vT1NCVk55aEhkakhIVU9maFpZb0YwdHVoSWZfU2x2bGx1WEliaFd3NEdmQVVjYl82QXFfTjNPOXB1ckNCOHh3dTl3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T07:28:00+00:00",
+      "summary": "大模型与Agent攻击风险受关注，AI基础设施安全产品发布  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒” - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTHpCZDlvWDFQa291Q3QzVWhrZi13bl9sQlpVMjdYTzVrT1BzZ05mMjIyeTdJX1lYQ2dDWXhLTl9YbnNGaENBREI0VXI3Y0tYOExiVzdDb1c3YzNjdlg3ZHdxNlplQjh2NWRTQUFwcy14T2c5TWZ5TmFKU0xNaUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T07:25:38+00:00",
+      "summary": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒”  手机新浪网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "来伊份×火山引擎：200+智能体跑进“货”与“店”，AI重塑零售运营 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXhITmhMWFkzdWR3Y0VBdm8yUkVEaEJxTTNWRmM2Nl9MV25QVGxodDRPcnNDMWZYWlJncUJ6Ym0xSjdsN0NIeVd1TkFmQ1IzbFB1Rmc5clJ5SVRocUJrT1dFcjc1WUlab21OQWdpYW1XV05qSE5vYXZ3Tmx5S24xNFhIOXA5UGdX?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T07:09:36+00:00",
+      "summary": "来伊份×火山引擎：200+智能体跑进“货”与“店”，AI重塑零售运营  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "MiniMax新品发布，港股大模型双雄携手大涨 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDlZZ09TekRjSVlXR1lmTVByb3RRMlJFNG9NNkR0V0h4MHZHcVcyTVl2a2VLc05GT1Z0NzYtRm0zMnRROUtrZUhHWURfSGVfc0oxSFBzUVRxV08xbWFTajhsS3VkeVJ2VlJIT0kyanlzQUVTN3Jwek9Pc0ZscjJrWlhoeHYzUmVWUEVfRw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T06:59:00+00:00",
+      "summary": "MiniMax新品发布，港股大模型双雄携手大涨  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "ChatGPT将允许接入苹果Mac端iMessage - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0ptSHRRbFFMQWx4WGpjSkhkQ1dtaHBKTHNlOUhvMXo0NXRUSURadWxzX0N1dkdxbFdETHp0WWVvU1JQOU9GZXpweklxOE4wOVNndGp1R05HdHRaeXkwOFRDWS1TNEd6bFVsTGY5YWxMNVhzOVZ1U1RHZXdmM1hzZFIzQ0ktdEhWTWg1WGdHNkhMbnkzMExBSnpPcDYzanpu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T06:54:38+00:00",
+      "summary": "ChatGPT将允许接入苹果Mac端iMessage  finance.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "港股大模型双雄短线拉升 智谱涨超11% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxMXo0WXVoNUdVRjJ4OHhXVnZUTXlWWWRwVUZUMWt2MlM0QThGX21UZVEzWGNwS1Y0QlR1dWxzbDh6c2ppd2xBVmxUSGNybnpwbWh1cGNuZ3VpWTJseHROS2hRTQ?oc=5",
@@ -12,23 +63,23 @@
       ]
     },
     {
-      "title": "当\"问大模型\"成为主流,AItab为什么还要做全局搜索? - 中华网科技频道",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fQkFWTUpIbTdkTnNubWZhWUt4aUI2UngyNHdJUTcxZ3A5SEo3NnRGWVJRNHVEeENwUXZIUGNTbXlESE9hYVFycE9iY0xlR1dYWXBNcEl4TWlzTmZ3bm9Ra0lIOGlnYnhnU3B1cW9n?oc=5",
+      "title": "谷歌Pixel 11开机动画移除安卓标识 突出Gemini智能 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb042TEkwNVZTNWxMb2tfZTEtQklEWG5uVHczVjhRM0FvSksxRUhicnFZSDlPbHg5U3VGZU9JUVh5ZGZOdENaeEl4WGMxbGdwZmE0SWhUTkN5Mk9uRF96V1FoLU1mZVZQbEhJak1yUE01Q256M2Vja2NFcVg0bGt0MjU3VG9seXhO?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T06:35:17+00:00",
-      "summary": "当\"问大模型\"成为主流,AItab为什么还要做全局搜索?  中华网科技频道",
+      "published": "2026-08-21T06:43:00+00:00",
+      "summary": "谷歌Pixel 11开机动画移除安卓标识 突出Gemini智能  搜狐网",
       "categories": [
-        "other"
+        "google"
       ]
     },
     {
-      "title": "ChatGPT将允许接入苹果Mac端iMessage - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FVlpVV1ZDRkFHUGJ0akZhLTFDblM5RjV4TE5qOHYxTF9LVUFYbVc2TVNiWkxNYTRrel84WlZBWGxrQXQ0UU5LMmZRWQ?oc=5",
+      "title": "当\"问大模型\"成为主流,AItab为什么还要做全局搜索 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVreVRzWEdJQ0MtbUlHcEY5ZU1PREpKMElYVjFEcy1iM1dBSmNDX2YyVnQyMl9kdnVPRHY5TThQN2sxWTlwb3VqUFVNaXZZa0VCV0ZLWGIzaWEyaWFoYS1KbGlqMmE0Rjlja1RxUmlpaVc0VVhGU0h6Q2phZklxSzdfdVZzTUlq?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T06:31:25+00:00",
-      "summary": "ChatGPT将允许接入苹果Mac端iMessage  finance.sina.com.cn",
+      "published": "2026-08-21T06:42:25+00:00",
+      "summary": "当\"问大模型\"成为主流,AItab为什么还要做全局搜索  搜狐网",
       "categories": [
-        "openai"
+        "other"
       ]
     },
     {
@@ -184,16 +235,6 @@
       ]
     },
     {
-      "title": "2026全球智慧教育大会在京举行 发布“全球智慧学校计划” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhVUlFQUFNazkxQWYwUUxKbmQybjhEOUtTakUwcmFjaVlEOExHc1BoYnFOZ0FXTVJ0VERoSEhJNjBGcmRCb3JhQUNKUXJKUHJNYWk3X1RoTnVaaVBKS01hV0toOE5BWUJhWjVBWkNEN1g?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T04:24:35+00:00",
-      "summary": "2026全球智慧教育大会在京举行 发布“全球智慧学校计划”  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "龙头企业与重点高校同台竞技，2026年AI智能体决赛在沪举办 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tN0ZaLWQ1SDJRbGVCcGhwR3lkazRCeGhwYzhHRmlxa3pKdjczRGZUTGJqOWVZLWpFS0FXeU5vWGhobkd4NTJlam1YM200cXp2S29jU2hEQ0ZhR0Q2eWo2a1lFWWk0eFVPYTVKV0g2aHI?oc=5",
       "source": "Google News - AI(中文)",
@@ -212,6 +253,16 @@
       "categories": [
         "other_big",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI 把手伸进 iMessage：苹果筑了十多年的沙盒，正在被 AI 串联 - 爱范儿",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KR0UzRHBBeEdNY3BnTWk1VFoyQWl3TjM4OGpDemlXcEZCd2p1QXgwdEl2ZXREZXZRZ2ZHVG9jeDl3dGM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T03:39:03+00:00",
+      "summary": "OpenAI 把手伸进 iMessage：苹果筑了十多年的沙盒，正在被 AI 串联  爱范儿",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -276,37 +327,6 @@
       ]
     },
     {
-      "title": "品商通采购智能体正式上线 让买家更懂价格、卖家更快找到商机 - 中华网科技频道",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZOTNGWFpoMFBkekE1d2JWblRvTnAxa2VFZEJ0MFRqZlZiaU9jVk1JRHVLSVNRR1E2V1g0eENrLXNoQ3UzcndIdzhOVy1JRnFpbHg3M1djOGZSQlE4Zml4b1JVTzVyNVY0ckttWGVB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T02:55:28+00:00",
-      "summary": "品商通采购智能体正式上线 让买家更懂价格、卖家更快找到商机  中华网科技频道",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "博通洽谈逾600亿美元债务融资，总规模或达1000亿加码AI芯片 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuZjhLSjZvTHdTeUEwTHVGcF90MGpSUXI4OVRnMnFWUjVSVEd2VjFMQWh3Yzd2ZGUtTEEwV3hDWUdNSWdEMC1GbGx6YWFlbWNxSzlhUURYRVdob0g2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T02:46:54+00:00",
-      "summary": "博通洽谈逾600亿美元债务融资，总规模或达1000亿加码AI芯片  电子工程专辑",
-      "categories": [
-        "breakthrough",
-        "chips"
-      ]
-    },
-    {
-      "title": "VIPKID参与教育大模型相关标准建设，探索智能化学习新路径 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTVHRnB3dTdRTGEtQnF2cTlwYTQ4RWNnWDJ5bXZ6amwyUThna3pIUmF1Mzk4dGpGeUJ5T2dCckgtdXZxZURMM0RKcjI2bFFCdEpfLXBtdlZtRXZtS3p1UlpXNlZrTEY5TVlTLTNkeUZYV2Q1LVpYNE1qWFRlUXVUSkhYa0VXdnVJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T02:44:08+00:00",
-      "summary": "VIPKID参与教育大模型相关标准建设，探索智能化学习新路径  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "慧闻机器人刘天纬：让大模型进入工业现场，从AMR业务到工业智能体的产品化路径 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWNzaUI1c3hKSGhqWHJGdnZGbUNzcmpTZ3lGeWliWUpCN1ZTRGxSTWdlNldkTkJTRW90MTljZGJ2d0pLaFhSbnpvYW5yU0gxMHVVd1p1LXZjNHk4T3ZkbGQxeWFnaWMxQVFNRUVPeEtNY1VmeDVfQ3Y1TFh1dVJYaDdpXzE1Mmo3UWNUWQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -327,16 +347,6 @@
       ]
     },
     {
-      "title": "OpenAI升级macOS版ChatGPT，支持读写发送短信 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CRGZNM0lLd1ZobVA0TEd4V3g0QkIzczBNVGNVUmxfcXZidUM2QVV0SEtJYnNJTzFWamwwalQ0V3FBUld3Um5jSmM1V1RzdE4yYV9reVJKa1RUUFVsM1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T23:55:03+00:00",
-      "summary": "OpenAI升级macOS版ChatGPT，支持读写发送短信  DoNews",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "DeepSeek Harness 两天冲上 10 万 Stars：AI Agent 的真正前沿，已经从模型转向基础设施 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcmlESUNMUXhJenh2R2hqeFlOTGRHVWJhX3QyOEtUbFJfU1RuejM2UWxYRGVJb2pxZFFjQjQzRUFwZ1VwZ2VkZFpOb3ZDZlpiY3VzY09uWXoxZ3Z1Ukl0blFRc1JFT0RjLXc?oc=5",
       "source": "Google News - AI(中文)",
@@ -348,21 +358,11 @@
       ]
     },
     {
-      "title": "OpenAI加速追赶Anthropic，企业人工智能竞争持续升温| 乌克兰新闻 - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OOHRUYVd1Q0hzZHdFRTk0TU83STBWanV6RUFFQUZVeWFSQ1JQQWxxeWdlZFl2OVhPQzdETWE5cC1yeE9LVTF3cU4zYTNSUEZOanFWN1VHeXFKRThWaF9TM2hkVmJLcnlhempZczdPZkw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T18:05:00+00:00",
-      "summary": "OpenAI加速追赶Anthropic，企业人工智能竞争持续升温| 乌克兰新闻  Межа. Новини України.",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness一周三更：集成Claude Code与Codex子代理 打造AI Agent时代核心调度层 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZ1FvSE1CdGktczBjWF9Mc1FUdXZiS2ozNW40NnVjX21abHZGU1QzRVNmSkpJQzRraWJTaDgxOGFfV2xHLXlxUkppNzM1RWNIajVN?oc=5",
+      "title": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Agent时代的“调度层”？ - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAweHZBOGdLZkRJRXN6YzI4RnZmTHpMd2JobGxMdi1meWY3ajhfUnpfQWVEeFNQVmNlNmpLUkU5ZHlsNllLUFhyUzJqS3VSZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-20T09:01:00+00:00",
-      "summary": "DeepSeek Harness一周三更：集成Claude Code与Codex子代理 打造AI Agent时代核心调度层  36 Kr",
+      "summary": "DeepSeek Harness一周三更：把Claude Code和Codex收编成子代理，要当Agent时代的“调度层”？  36 Kr",
       "categories": [
         "anthropic",
         "tools_apps"
