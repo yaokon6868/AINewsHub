@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T19:27:26.957402+00:00",
+  "updated_at": "2026-08-21T19:49:34.668102+00:00",
   "items": [
     {
       "title": "DeepSeek的多模态模型，憋了这么久终于来了。。。 - 搜狐网",
@@ -12,11 +12,11 @@
       ]
     },
     {
-      "title": "广州大学城词元·智能体联合创新工坊启动 - 新浪财经",
+      "title": "广州大学城词元·智能体联合创新工坊启动 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVJIQUJobUVGRzhwWGhzNVVrLWpWYjd2RWcxN0hGQ08yQjBwZV8wcXpzbThSSzRidDA0bDZIdmY2c3lmdWRVRjdJU2pSV3lNdm9TSzdJbFVkWGhKYXQxdElZVW4yNC1PXzhudXFrUmNFSWVlTHVqa05LTGRLZXh2d1JIazg1T21ybEFOT2lvb0kyZnp0RXNTVVE1eVp4SDVO?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T16:16:53+00:00",
-      "summary": "广州大学城词元·智能体联合创新工坊启动  新浪财经",
+      "summary": "广州大学城词元·智能体联合创新工坊启动  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -52,11 +52,11 @@
       ]
     },
     {
-      "title": "明略科技吴明辉：具身智能“现在差不多是ChatGPT时刻” - 新浪财经",
+      "title": "明略科技吴明辉：具身智能“现在差不多是ChatGPT时刻” - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1MkkzekhtazlNRjJTemE2QWRKTzNrbmR5S2NVaEFjSEFkMGNuNEpOQS1pMHJ6VW1hTjk1SG53UFBDWWoyaG9kdVZwNEhPLXU1QXpwSzdqUDg4bHI2SW1zQVd6TnUxSFB1aVdaYmZBWUN2QVJGc0NIcA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T15:11:15+00:00",
-      "summary": "明略科技吴明辉：具身智能“现在差不多是ChatGPT时刻”  新浪财经",
+      "summary": "明略科技吴明辉：具身智能“现在差不多是ChatGPT时刻”  新浪网",
       "categories": [
         "openai"
       ]
@@ -269,16 +269,6 @@
       ]
     },
     {
-      "title": "海尔食联网发布数智美食AI智能体 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPME12eVFZYTJLa0xCVXBINU16UE1ITjlNcndLVTNrdEc3ZlQxMnA5bld5VHlTREV1Tk5WaFp0bnNVS0VkcHVjc2x6b3F4cjBVc2d1czJCei1SejRyNWtHNVdLRURLQlByZWtxRUVCcFJSQlliS3J3VXliMDFqamp4NmJQRlBJTzFkaUZPMQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:46:00+00:00",
-      "summary": "海尔食联网发布数智美食AI智能体  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "隧道股份科创孵化中城交科技完成第二轮融资，投后估值2.58亿元 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84X3NRcEhqRFpnVDFNMFRzLVl6cmNxUzVKcm1OSGFHaHl0UGxwd1JINGhsOXVQV2FYQXRYV1d1TFJxU3c4ZDZjZjRta01aRW1Sd2Zsa2laMFVLNHFSNmpkR0hB?oc=5",
       "source": "Google News - AI(中文)",
@@ -336,6 +326,17 @@
       "summary": "DeepSeek多模态模型终于来了！一张图最高只要0.001元  凤凰网科技",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "国产GPU巨头：算力底座决定机器人“ChatGPT时刻” - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3bFlIYzducS1jQktUdnItUlhROXpmbGtQMUF6RWZ2ckRsTEhyeXRQRDczRUJsZzFJY2w1SFduMjEwbGdaSDktSkVBY0xjX1lH?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:02:25+00:00",
+      "summary": "国产GPU巨头：算力底座决定机器人“ChatGPT时刻”  凤凰网",
+      "categories": [
+        "openai",
+        "chips"
       ]
     },
     {
