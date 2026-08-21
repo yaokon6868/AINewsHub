@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-08-21T10:33:02.419721+00:00",
+  "updated_at": "2026-08-21T11:29:10.515190+00:00",
   "items": [
+    {
+      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 时代在线",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TRWZlRnY2X0R6Mnhrc1pqX1BJa0R4d2NzSlZ6a3NiMkFGVlJsLXVTQlNCamVoa2QxczR5WGJ3RVRkb2VGUnlMcFRfMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:22:28+00:00",
+      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  时代在线",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic等公司如何执行AI内容水印标识？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02Y25zNkRxZUdzWTNLeTVrNEoyY0ZFd0YtV1MtaVljZVlDaHBSWXNQZDFFTXRMRlNSREx2YVY4V2M2V3VYZnFiRkI4bGhkclhOZklhYkhNQzkyZGZ3dXozRmt3QmlOTFNSZTRfcHk5MFgtUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:13:00+00:00",
+      "summary": "Anthropic等公司如何执行AI内容水印标识？  手机新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "刚刚，多模态版DeepSeek「长眼」了！1000张图只要1块钱 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTZ6ejdMbXJDdG5HSzZSUlU0N0M0RC1OOUp1N0FyVnd4QndPY01rODNpWXlDZDhwRHB0dmlZekIyQWlYS0dBZXJHX191aW4wTFk0MGRtcklsRGx3SElNZHZ3amx0cjZxTVFkTExjdjF2Y25EbEtqcnI5OU5QTk4tNVB2MUd3ZzhF?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:09:20+00:00",
+      "summary": "刚刚，多模态版DeepSeek「长眼」了！1000张图只要1块钱  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50T3BwNkF4UUdaeVdOWlRXXzJSaDl4WDBzMTlCZ1lCOXowejZwd3liOXRlUkJObWRrVmhVMmJRU0Roby13aFg2TkhRNmI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:01:01+00:00",
+      "summary": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了  极客公园",
+      "categories": [
+        "anthropic",
+        "image_video"
+      ]
+    },
+    {
+      "title": "智谱唐杰：大模型只看参数的时代，结束了 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iQ2VIamNvR1U5U0h1WEFERzc1clVxNXFhMkVlY0RWdS1VWnlxckQtbXJvQnVMNFlNNkN5a3JFbkp5OU4yZEUwLQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:50:00+00:00",
+      "summary": "智谱唐杰：大模型只看参数的时代，结束了  智源社区",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "海尔食联网发布数智美食AI智能体 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPME12eVFZYTJLa0xCVXBINU16UE1ITjlNcndLVTNrdEc3ZlQxMnA5bld5VHlTREV1Tk5WaFp0bnNVS0VkcHVjc2x6b3F4cjBVc2d1czJCei1SejRyNWtHNVdLRURLQlByZWtxRUVCcFJSQlliS3J3VXliMDFqamp4NmJQRlBJTzFkaUZPMQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:46:00+00:00",
+      "summary": "海尔食联网发布数智美食AI智能体  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXWldPYV9xcUZnNHAyQkJNcTk4V20wSVY4eFAyZFpWZ3lYbUNCUkhDTUVyei1WSE5LTkNpSFJDVEJFNXdQQWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:41:27+00:00",
+      "summary": "DeepSeek多模态模型终于来了！一张图最高只要0.001元  智东西",
+      "categories": [
+        "other_big"
+      ]
+    },
     {
       "title": "隧道股份科创孵化中城交科技完成第二轮融资，投后估值2.58亿元 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84X3NRcEhqRFpnVDFNMFRzLVl6cmNxUzVKcm1OSGFHaHl0UGxwd1JINGhsOXVQV2FYQXRYV1d1TFJxU3c4ZDZjZjRta01aRW1Sd2Zsa2laMFVLNHFSNmpkR0hB?oc=5",
@@ -22,6 +94,16 @@
       ]
     },
     {
+      "title": "赋能商户迈入智能体商业新时代 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zNHZWeDRDZGYxR1libTNIcXlldmcydnBkMTlkSUgwQjZ5ZHZadVMyd041bnFLN0drOWs3cXd0dGpnbHA2V3dsNVBaaXZRNEpRakphNW5IeVBOQUJ0YVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T10:17:35+00:00",
+      "summary": "赋能商户迈入智能体商业新时代  DoNews",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "北京市首批人工智能赋能科学研究典型案例发布 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTBMbVVydjNaTVN6UkFzMUZYMV9UbWdqLVFzdnd1OEZCc0RzdHBMeUJubFZCcXlJeWcwZXV5SFZfN3IyUFN2U1VXbU05UDhRSXpTTVktei1KOTRfWGxxd2g4YzE5N0Juc1dJcGFPTzVTSnQ5UDI2M0VkLW9rVlRrUmhOQktQWGp1?oc=5",
       "source": "Google News - AI(中文)",
@@ -32,13 +114,13 @@
       ]
     },
     {
-      "title": "机器人离自主还有多远？专家：2到10年迎\"ChatGPT时刻\" - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByVm9MejRmMlUyY3o5Z0ZzVFVFaU5EaENyTElyczZfenc0YTdzOFRGLXNoOWluaXBKZXQ2MnhCNzQ3dm5ZNkUwQ0s5b0xXdTJDcG5ZM1c3X2V1VWI0RkkzbENxTEFreFFnbDhHMHdTeFYxdTdrMU5YVVdvbkNLRTg?oc=5",
+      "title": "万众期待，DeepSeek 杀入了多模态！ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySjRTRW81M215d1pxZ0JBeGk1S1I4d3VFcDVxLWRCRndPdVE1djcyNEVraV9wZHo5QkpwaVdpTGdpc3NyZWZndnNfUXZ3aHNSTWk4?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:07:12+00:00",
-      "summary": "机器人离自主还有多远？专家：2到10年迎\"ChatGPT时刻\"  手机新浪网",
+      "published": "2026-08-21T10:15:00+00:00",
+      "summary": "万众期待，DeepSeek 杀入了多模态！  电子工程专辑",
       "categories": [
-        "openai"
+        "other_big"
       ]
     },
     {
@@ -64,13 +146,13 @@
       ]
     },
     {
-      "title": "为什么精明的疗愈门店投资人正从投影仪转向TCL AI大模型电视？ - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IR1A4ZnZrTHhvRlkxcVVzVFZoVENrRVA3S0tsdXVJR2F6b2VKMHBLcWs1c05MemthRVhzXzdWQTNmOGN1c3o1WjNzWk94UGNDaWZCTnkxVV9vQ2hPbkxVWWZEYzFNMDNCOEhhTQ?oc=5",
+      "title": "刚刚，DeepSeek正式发布多模态模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXNpbGhnd0lCdFZRc1JQZl92MFpCcEdJTW9NQXF1R05NUGVYT0QxV3M4SE0wamdPN3RjUE5za1JXZTBrcmtaVDNfUXJDelRVeHVhSlpmbUdjdWhmRzFoaHRsOExSS1VVYW5kMWxtdUF6LTBsX1VIbk9MS3hsRFV3bDBwb09vOTlL?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T09:53:46+00:00",
-      "summary": "为什么精明的疗愈门店投资人正从投影仪转向TCL AI大模型电视？  中华网",
+      "published": "2026-08-21T09:58:54+00:00",
+      "summary": "刚刚，DeepSeek正式发布多模态模型  搜狐网",
       "categories": [
-        "other"
+        "other_big"
       ]
     },
     {
@@ -136,16 +218,6 @@
       ]
     },
     {
-      "title": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54QnI1aXZwSzk0dnA5Y25uNE1GODFua1FMYUNCTlVHcXRNZmFvT1N5U2JwSGhlNnpLUWVjSzV3bkk0V1dpMm5iQ21WQTNiM3VCejczdWlKMkRkcTdBZjZUQktwRVVYRkcxXzZ4eE91SUZNZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T09:09:00+00:00",
-      "summary": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "视频生成迎来“Claude Code 时刻”，MiniMax Design “杀入” Adobe、Canva 腹地 - InfoQ-CN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcW81a1hObWRsTXRtaHk4Si1lblpId1VLcmRsbFB3emJWUUF0Z2ZMRERfc3JNX3dvVHZhS1M5dHhuMGR3OWRDNEJvQUx0ZEY1LWhhREtKbzBVb1RhcFE?oc=5",
       "source": "Google News - AI(中文)",
@@ -177,6 +249,16 @@
       ]
     },
     {
+      "title": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSHpudkYxc25VZW82dGlsbnJjN3pVVUtyYnllbGlBazR1UVNZUmtzemk4WWw5WEN5LUNFUnZ3SkRTWEVydk5EX3JGdEFtVzJNOXp5dHBiSlRxYTVWUVpObzROeTFiNkc1Vkp2eTR5QVE2YUF4UFYzZjVyUldwc3dZYkpnWEhTRElx?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T08:49:59+00:00",
+      "summary": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "“家装智鉴”智能体上线，破解装修“信息不对称”难题 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlczUkFBSXpGSkZYYU8ybk9zS05oSUNRaWRGWEVZclJOMnVDcDlMSjl3NEs5RE1OVXRyMnNiQ1hyLUFFVm1fUUZHWDRSYmFMNzFxeF9OWDZMRUxqNDZDa0p3ZUdUSjZOWmJBR20xT21nbnJGSDNIUU9EOGlMa3JFcDRXRGFnNzhY?oc=5",
       "source": "Google News - AI(中文)",
@@ -184,17 +266,6 @@
       "summary": "“家装智鉴”智能体上线，破解装修“信息不对称”难题  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "港股收评：恒指、恒科齐大涨；大模型概念股飙升，MINIMAX涨超11%；黄金股大涨，房地产、半导体上涨；医药生物下跌；科网股普涨 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdkotZmxFaFlYdHUzdjA3NXJ6SXc3dVlnVU1HVVZrdEc3X05IWlA4M2gxamJRWUNUYmR6cVIwQ3hjemxBQjlyb2p6VVBCU3F3ZWZiazBkVm5iT1NibEFyVGdWNG43QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T08:20:46+00:00",
-      "summary": "港股收评：恒指、恒科齐大涨；大模型概念股飙升，MINIMAX涨超11%；黄金股大涨，房地产、半导体上涨；医药生物下跌；科网股普涨  东方财富",
-      "categories": [
-        "other_big",
-        "chips"
       ]
     },
     {
@@ -236,77 +307,6 @@
       "summary": "研发投入超过30亿，科大讯飞正在穿越大模型最贵的一段路  搜狐网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness更新多模态支持！剧透V4视觉版 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFUV9TY1E2bGJRX2xXa1JQdnpOVGFEbC1DUEhTV2hFSEdVZzY0LUVCRHVURVQwNHpyQWtSU0ZlcjNRSHVMZnk1Sw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:40:00+00:00",
-      "summary": "DeepSeek Harness更新多模态支持！剧透V4视觉版  智源社区",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "02718吴明辉称“现在差不多是具身智能的ChatGPT时刻” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVqZVhHQlYybkZQUlZHXzFmMl9Ld1pCd2RZc0VQbE9wRTVkRDZPanNWUmVlU2xMTU5WeFltQThQNXhzd2RZeXBCMEtzSTFNTDRrMjZZRnpYVGNQLTNieHJ0b0hxYlNlZlJiaTZ4WkJKZFZQbmZUbW9kOGM1cWdaX2lCZ1NoaVVUYWp6Sw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:40:00+00:00",
-      "summary": "02718吴明辉称“现在差不多是具身智能的ChatGPT时刻”  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "数字孪生与行业大模型驱动，亨通光电打造棒纤缆全产业链智能闭环体系 - 新华报业网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wam9NcWt6eUdIZUlhUVB4MWc2c1hHRjFxUldLMGN5M1dNOTBJRElYNS1pZ25VS3hmaDZMdGtfNUxrOXNRcEZVOF9mMUYxYzN2bmlmV0k1YjhDM2c5cnY0YkxpUlp0bF9IQmFv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:14:00+00:00",
-      "summary": "数字孪生与行业大模型驱动，亨通光电打造棒纤缆全产业链智能闭环体系  新华报业网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "来伊份×火山引擎：200+智能体跑进“货”与“店”，AI重塑零售运营 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXhITmhMWFkzdWR3Y0VBdm8yUkVEaEJxTTNWRmM2Nl9MV25QVGxodDRPcnNDMWZYWlJncUJ6Ym0xSjdsN0NIeVd1TkFmQ1IzbFB1Rmc5clJ5SVRocUJrT1dFcjc1WUlab21OQWdpYW1XV05qSE5vYXZ3Tmx5S24xNFhIOXA5UGdX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:09:36+00:00",
-      "summary": "来伊份×火山引擎：200+智能体跑进“货”与“店”，AI重塑零售运营  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "ChatGPT可以看短信了，AI想从你的App里拿到你的一切 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NY01fZFR1WS1uS3R6UHVTS2p5ZDBjUXdfaWo2YnN4YjQwdVNia3JOYUdEMWliSWdtTkVKbmZ0S0RLTjRQdnVTNmR5T0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:00:00+00:00",
-      "summary": "ChatGPT可以看短信了，AI想从你的App里拿到你的一切  凤凰网科技",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "MiniMax新品发布，港股大模型双雄携手大涨 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDlZZ09TekRjSVlXR1lmTVByb3RRMlJFNG9NNkR0V0h4MHZHcVcyTVl2a2VLc05GT1Z0NzYtRm0zMnRROUtrZUhHWURfSGVfc0oxSFBzUVRxV08xbWFTajhsS3VkeVJ2VlJIT0kyanlzQUVTN3Jwek9Pc0ZscjJrWlhoeHYzUmVWUEVfRw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T06:59:00+00:00",
-      "summary": "MiniMax新品发布，港股大模型双雄携手大涨  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "ChatGPT将允许接入苹果Mac端iMessage - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0ptSHRRbFFMQWx4WGpjSkhkQ1dtaHBKTHNlOUhvMXo0NXRUSURadWxzX0N1dkdxbFdETHp0WWVvU1JQOU9GZXpweklxOE4wOVNndGp1R05HdHRaeXkwOFRDWS1TNEd6bFVsTGY5YWxMNVhzOVZ1U1RHZXdmM1hzZFIzQ0ktdEhWTWg1WGdHNkhMbnkzMExBSnpPcDYzanpu?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T06:54:38+00:00",
-      "summary": "ChatGPT将允许接入苹果Mac端iMessage  新浪财经",
-      "categories": [
-        "openai"
       ]
     },
     {
