@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-08-21T08:43:24.282167+00:00",
+  "updated_at": "2026-08-21T09:39:30.495958+00:00",
   "items": [
+    {
+      "title": "17:28:13【DeepSeek-V4-Flash-Vision-Exp上线 开启多模态API服务】 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNaXotdlBlVGNnMkREOTJ4S3NzQ1FsSjZQUVZSNmUwQkZleW82UW9GUi1nempqc3hOS2dmUzh0dnZqaHdLU1E1Mg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T09:28:13+00:00",
+      "summary": "17:28:13【DeepSeek-V4-Flash-Vision-Exp上线 开启多模态API服务】  财联社",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Claude Code被轻易攻破，仅需一个假工具 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LaHM4NUdnaWVKQWgySW1pWGRXbGIzWnpFdFJOOHIwTzJEbl9hbHV4bVZwNzNOckdLajRjdE1LekpCMXlMczRRVG1nZDE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T09:27:12+00:00",
+      "summary": "Claude Code被轻易攻破，仅需一个假工具  凤凰网科技",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54QnI1aXZwSzk0dnA5Y25uNE1GODFua1FMYUNCTlVHcXRNZmFvT1N5U2JwSGhlNnpLUWVjSzV3bkk0V1dpMm5iQ21WQTNiM3VCejczdWlKMkRkcTdBZjZUQktwRVVYRkcxXzZ4eE91SUZNZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T09:09:00+00:00",
+      "summary": "头部机器人厂商竞逐“大脑”，王兴兴：行业“ChatGPT时刻”至少还要2年  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "视频生成迎来“Claude Code 时刻”，MiniMax Design “杀入” Adobe、Canva 腹地 - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcW81a1hObWRsTXRtaHk4Si1lblpId1VLcmRsbFB3emJWUUF0Z2ZMRERfc3JNX3dvVHZhS1M5dHhuMGR3OWRDNEJvQUx0ZEY1LWhhREtKbzBVb1RhcFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T08:56:29+00:00",
+      "summary": "视频生成迎来“Claude Code 时刻”，MiniMax Design “杀入” Adobe、Canva 腹地  InfoQ-CN",
+      "categories": [
+        "anthropic",
+        "image_video"
+      ]
+    },
+    {
+      "title": "一份阿里财报，揭开大模型生态战的财富密码 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iMWhkNEFxckdpTllsSGxwX3FJTFNCRUFtZlo5M2ZHRjYxalR1aUZ2QmZMM19kZExFNFpfOUk2bGhUM3Y2UzNXMnEwMUFESWpyU0Nn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T08:52:00+00:00",
+      "summary": "一份阿里财报，揭开大模型生态战的财富密码  电子工程专辑",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "AlphaFold刚解散，Claude进军蛋白质设计：15个靶点拿下14个 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tZzZnUGVLcUlJallUZ2tyWGJHa0wxU2NqeVJZRnBkaldoQlF1TmQtWWpiakJlYjNfbHFpUlpNdUVRQzFMX1FEZQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T08:50:00+00:00",
+      "summary": "AlphaFold刚解散，Claude进军蛋白质设计：15个靶点拿下14个  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "摩尔线程张建中：算力底座是具身智能ChatGPT时刻关键变量 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRYXVlWlh5S1JHU21UcU11YURBVFJXVHZHNW1sLW1lUVh6TTh0b2tDMTY0c1QtbldGRGQ4STJOLWNvMU5hOGtJaTEtUnY2bkdManM0cDdkbjFydV9qWC1zeUJPVU03QXR4MFpxQ2dsYWtyalhMU09wVEs1dnRVLUk?oc=5",
@@ -20,6 +82,16 @@
       "summary": "谷歌Gemini的原生多模态能力是如何实现的？  手机新浪网",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "韩国IT巨头Kakao计划年内完成分拆，新实体将聚焦AI智能体 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mbTdYTFF2Mkp4dWxBTndtcEVyOUJvb3R3VnFmNE1vbF93SmphWktTQlNMNDdkV3Z5MlAyUkxtd1FmXzZEVTVESDh2Tmo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T08:32:11+00:00",
+      "summary": "韩国IT巨头Kakao计划年内完成分拆，新实体将聚焦AI智能体  凤凰网科技",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -105,27 +177,6 @@
       ]
     },
     {
-      "title": "大模型与Agent攻击风险受关注，AI基础设施安全产品发布 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDFfd0loTlZ2Qk1nZ0ZrRGhCcHNMcDM1V2x4WmVZUXhUaVAyZXhDMHBpZVNJSFQtYVhQZTlRT2FrRldrZWZTWFpYcm5vT1NCVk55aEhkakhIVU9maFpZb0YwdHVoSWZfU2x2bGx1WEliaFd3NEdmQVVjYl82QXFfTjNPOXB1ckNCOHh3dTl3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:28:00+00:00",
-      "summary": "大模型与Agent攻击风险受关注，AI基础设施安全产品发布  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VTHpCZDlvWDFQa291Q3QzVWhrZi13bl9sQlpVMjdYTzVrT1BzZ05mMjIyeTdJX1lYQ2dDWXhLTl9YbnNGaENBREI0VXI3Y0tYOExiVzdDb1c3YzNjdlg3ZHdxNlplQjh2NWRTQUFwcy14T2c5TWZ5TmFKU0xNaUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T07:25:38+00:00",
-      "summary": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒”  手机新浪网",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "来伊份×火山引擎：200+智能体跑进“货”与“店”，AI重塑零售运营 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXhITmhMWFkzdWR3Y0VBdm8yUkVEaEJxTTNWRmM2Nl9MV25QVGxodDRPcnNDMWZYWlJncUJ6Ym0xSjdsN0NIeVd1TkFmQ1IzbFB1Rmc5clJ5SVRocUJrT1dFcjc1WUlab21OQWdpYW1XV05qSE5vYXZ3Tmx5S24xNFhIOXA5UGdX?oc=5",
       "source": "Google News - AI(中文)",
@@ -164,6 +215,17 @@
       "summary": "ChatGPT将允许接入苹果Mac端iMessage  finance.sina.com.cn",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNm1uaHFPRm9KOUczN29lQlExa3FFRTBnWVYybTVKLXlYUHhmX2U0SERQQ0hOSVc4cTB5WUhrclFyZ1hXR0NlOTRSd0h2NmVRQlFTazltX0lqcU1QUFY1T0s1bkRObzlOQ1pVRDZRWUpaaV9KMzQwOVI1UHJMb1NLNTZOWDBYYkRj?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T06:53:43+00:00",
+      "summary": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒”  搜狐网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
       ]
     },
     {
@@ -217,6 +279,16 @@
       ]
     },
     {
+      "title": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基 - 潮起网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40dWx2ZkRQc09STGpFeHk5aW9WejEtc3c3RzRrQWVkVjVkNlhVRnExdWxPN1lvQ2ZRVmtCVXpzSXhZSTJUVElJbEtLUHl6aWloLXF5ZmVxRS0zLWQ5RE9YRm9n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T06:14:31+00:00",
+      "summary": "科大讯飞上半年实现营收116.23亿元 自主可控大模型构筑AI自主创新根基  潮起网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "DeepSeek Harness做完网页，用花生壳，一句话AI就能直接发布！ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRm95SEJWZnBzalpwaHZSYldaU2c2VGwtOUQ3TDBOUXc4QWp5TkFwd042S3d1MEN2TUNPZF9KLWpvaE01VmV2eEdDWXJ4R3BVcU1mbkJmTWJ6YWEzZGZJWkFKMGxWWjkyR1VodFpQNGR5OEN2UUMwLWo3N09Ebm9vbFlUSXQ2RGJn?oc=5",
       "source": "Google News - AI(中文)",
@@ -248,41 +320,11 @@
       ]
     },
     {
-      "title": "破局政策查重“表面比对”痛点 政策查重智能体全新上线 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ETUl6TXZSdEVQMWo4TFR2NHYtQ1FMd2V4VEtxM1B0TlZTS3g5WkNIVnlSN3drMjcyRUt5SXIyU285WVJkdnlGUDNUQmFtMGdJaVd5SXlCRm1CTjRGVVN0TzNB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T05:17:31+00:00",
-      "summary": "破局政策查重“表面比对”痛点 政策查重智能体全新上线  同花顺",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "拉萨市纳金数智研究院揭牌 “阳光清言”藏语大模型同步发布 - 中国西藏网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MREJEYlo3Y2swX2s0TDA1SERidnNtd2EyYTBEd3NFUFZXMHNRNUFUcmR0TDAxT2xic3ZYYmhNdzB5TFBJRHpDRFNXa3NrNDltTUxPRGdSLXRNVzI2bTljUndSM3IzNEtXX0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T05:13:21+00:00",
-      "summary": "拉萨市纳金数智研究院揭牌 “阳光清言”藏语大模型同步发布  中国西藏网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "IP会客厅・企业家访谈⑥｜视觉智能体来了， AI怎样兑现技术价值？ - 中国江苏网",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWJJLTBueFJvS2JVMUtwSWZKZHQ2cUpBUVJkbEw0QnY3a0JFdHNTbFJrZ0tBbUxjc3daMG1xdWpndTI0QzNvTVRSSE1PRmlUUDJQS1ZtM0czak9UVURqaXdTcHdyTUU5RjhoV0tNN2hjX0lDM1VtOVprVVlkeGh2enFPOHRIWTlPenZ3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T05:05:00+00:00",
       "summary": "IP会客厅・企业家访谈⑥｜视觉智能体来了， AI怎样兑现技术价值？  中国江苏网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "贵州长江汽车有限公司新能源载货汽车供应链智能服务大模型应用平台项目荣获2026年“数据要素×”大赛贵州分赛决赛三等奖 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDNWhwSWh3eXU1NHBwcFVrb2hMYndkb3ZJb0dEaXQ0cUk1SUZBSk56WWdMT3pzQ211eHJEdWhqOHgtTV9oT3QwVXFISTZZVUR0cGtwZ3NoV1lHbGVUT05nTVhYa2tLQUszRG9wSXZVMHloUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T05:04:50+00:00",
-      "summary": "贵州长江汽车有限公司新能源载货汽车供应链智能服务大模型应用平台项目荣获2026年“数据要素×”大赛贵州分赛决赛三等奖  手机新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -298,23 +340,13 @@
       ]
     },
     {
-      "title": "商汤开源轻量多模态大模型SenseNova U1.5 Lite - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12MFQ0SjdRdzNRd3IzTnJCdm9LQXZrNzV0ZDBuVHY0ckVvNi00eXJabUVkVEVpVW96Vkt1UTZIeFoxS3BXTGV5REZpYkZwUDI3UnNTelBpY0dDODdySVE?oc=5",
+      "title": "一起教育科技发布个体教师个性化智能体，打造每位老师的智能助手 - 芥末堆",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BV3U0eUhUWVJaRFd4bUliODNFcXNWcEg3WHAwMGNsUDNfMUhoNUJNYXdsNHVpd3FoX0ZrRXAzTlFiQUNrbDk1UmhsdW5SVUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T04:30:03+00:00",
-      "summary": "商汤开源轻量多模态大模型SenseNova U1.5 Lite  DoNews",
+      "published": "2026-08-21T04:30:23+00:00",
+      "summary": "一起教育科技发布个体教师个性化智能体，打造每位老师的智能助手  芥末堆",
       "categories": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "AI毒舌翻车？网友求刻薄，Claude秒回“泔水” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcXp5VndRMDRrSVQ4SXdrajNqeU4zVGdEaDdhSGQ0ZXFkdF9UakRvYjBLNF9iZWpPa3lPRThaNEZyd0FEdUstT0xzb3FteThlVWdZdUtWRkxMcXFBR21lb3Rac3FpTy05NkFKQlFPcDVKUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T04:29:38+00:00",
-      "summary": "AI毒舌翻车？网友求刻薄，Claude秒回“泔水”  手机新浪网",
-      "categories": [
-        "anthropic"
+        "tools_apps"
       ]
     },
     {
@@ -328,44 +360,12 @@
       ]
     },
     {
-      "title": "龙头企业与重点高校同台竞技，2026年AI智能体决赛在沪举办 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tN0ZaLWQ1SDJRbGVCcGhwR3lkazRCeGhwYzhHRmlxa3pKdjczRGZUTGJqOWVZLWpFS0FXeU5vWGhobkd4NTJlam1YM200cXp2S29jU2hEQ0ZhR0Q2eWo2a1lFWWk0eFVPYTVKV0g2aHI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T04:12:15+00:00",
-      "summary": "龙头企业与重点高校同台竞技，2026年AI智能体决赛在沪举办  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "阿里云MaaS接入GLM-5.3与DeepSeek-V4-Pro，重点覆盖编程与智能体场景 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uai1YRGd4MjRONUdMaURUQW4xM091MXJLSDVLMVFPMUpRaUZRanhCMEtmbWRQZzFsY2xxSTFoZC1OOGNnX2hDcGlVam0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T03:39:55+00:00",
-      "summary": "阿里云MaaS接入GLM-5.3与DeepSeek-V4-Pro，重点覆盖编程与智能体场景  凤凰网科技",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "慧闻机器人刘天纬：让大模型进入工业现场，从AMR业务到工业智能体的产品化路径 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWNzaUI1c3hKSGhqWHJGdnZGbUNzcmpTZ3lGeWliWUpCN1ZTRGxSTWdlNldkTkJTRW90MTljZGJ2d0pLaFhSbnpvYW5yU0gxMHVVd1p1LXZjNHk4T3ZkbGQxeWFnaWMxQVFNRUVPeEtNY1VmeDVfQ3Y1TFh1dVJYaDdpXzE1Mmo3UWNUWQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T01:20:16+00:00",
       "summary": "慧闻机器人刘天纬：让大模型进入工业现场，从AMR业务到工业智能体的产品化路径  搜狐网",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness 两天冲上 10 万 Stars：AI Agent 的真正前沿，已经从模型转向基础设施 - 53AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcmlESUNMUXhJenh2R2hqeFlOTGRHVWJhX3QyOEtUbFJfU1RuejM2UWxYRGVJb2pxZFFjQjQzRUFwZ1VwZ2VkZFpOb3ZDZlpiY3VzY09uWXoxZ3Z1Ukl0blFRc1JFT0RjLXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-20T23:19:44+00:00",
-      "summary": "DeepSeek Harness 两天冲上 10 万 Stars：AI Agent 的真正前沿，已经从模型转向基础设施  53AI",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     }
