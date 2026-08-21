@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-08-21T14:37:49.219616+00:00",
+  "updated_at": "2026-08-21T15:36:16.259287+00:00",
   "items": [
+    {
+      "title": "谷歌Gemini的原生多模态能力是如何实现的？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5QXVXaWQ0YnE3TGZjdW84NXVFZC1Eb0RXRzVWZHl3RFNRMEVzZ3hjaU9HT3JNY1FFU19WR1Q3VHVfaEE1WXFjSVphY0pqVUZGaDhZanlWb1ZLbmY0dDc0d096Zm8tdnJuVUFFMmlaZWIzbEJIMGkwNXlMYUdyaU0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T15:19:00+00:00",
+      "summary": "谷歌Gemini的原生多模态能力是如何实现的？  手机新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "明略科技吴明辉：具身智能“现在差不多是ChatGPT时刻” - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1MkkzekhtazlNRjJTemE2QWRKTzNrbmR5S2NVaEFjSEFkMGNuNEpOQS1pMHJ6VW1hTjk1SG53UFBDWWoyaG9kdVZwNEhPLXU1QXpwSzdqUDg4bHI2SW1zQVd6TnUxSFB1aVdaYmZBWUN2QVJGc0NIcA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T15:11:15+00:00",
+      "summary": "明略科技吴明辉：具身智能“现在差不多是ChatGPT时刻”  finance.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT可读取和发送iMessage 引发隐私担忧 - 8world",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ya2J6enhjNVh2OThRZm9wSkt6UWk5MHExbHZuN1BzWk50elFveFhxTER5SUxtcFFGZS1QbXhsb2JDa1hRZE9KNjJQUXhmQmxJMUszMVFpd3U0aFY2anRmZF85NFpDdWhzU0VjUy1yM2hObFk4UDBhQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T14:52:13+00:00",
+      "summary": "ChatGPT可读取和发送iMessage 引发隐私担忧  8world",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUko0UV9qeER1a0MzTHFWTno5dFIxX3NERlRHNURrcWpVcTVsbmdnNkNnYTJhb3ZlVU9MbU41R1E0NGF2Y1M1QWNOTlBWMjdqVjNHUDhOczRFWTgwTWVQd1ktamVOeGo5SWNvSnJqRFFzMWN1VE1SeGNjQVEwZVJoQ3JLeE9rQ3dT?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T14:49:55+00:00",
+      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型 - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSlVxRHYzT0JIc2tlaF9qSEpFRTZSbFk0UEN2dTRsc0lXbXZTVHpSYWI3NHRrdU5rNWhmZDY4ZXJlQmVDWXZ6NndKOUF0S3p2cDQwbGlSYzhYenF5ckE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T14:48:21+00:00",
+      "summary": "本地运行、支持视觉与工具调用：Meta 开源智能体模型  InfoQ-CN",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "WPS Comate百城AI智能体赋能计划在京启动 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVk80eGhrdE42WnZGNXRmODRybXFmNldpeGVjVHM4Z1hUWjdsQUFHd25WY3I0VWIzRU0zbEpDeG41Z081dzRfWm5iMkNIbEZoQjZfczE5S3FBZmJneVRFLWVvdnlFRVotQUZjdVIzWkhNNml5UkVpTVdrNzd4WkRKZWFnb0VibFpS?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T14:38:29+00:00",
+      "summary": "WPS Comate百城AI智能体赋能计划在京启动  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "“火眼金睛”的芯片、AI大模型应用都来了！创客中国湖北大赛解锁产业硬实力 - 极目新闻",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtZWhTNXlPdE1PY0IxXy0zUXllNTZNNXRNeDJ5cFJwX3VrOFBkN0o2cG5qZmk1RVNSaDdJNzVwa3ZCLU1CLUF0ekk0WS04UTNJMWc3T3d4Skt2am8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T14:11:52+00:00",
+      "summary": "“火眼金睛”的芯片、AI大模型应用都来了！创客中国湖北大赛解锁产业硬实力  极目新闻",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
     {
       "title": "【教育新闻直播间】“范蠡大模型4.0”和智慧渔业公开数据集发布 - 中国农业大学新闻网",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94NE1KQ1EtMEZ5SEJpSTdnOHlQbGttcHNrNzdJd2VxZjlWREE1dEZsRXM0YmxDVERvcVN3Sld3aVlxMUx5VUItRlJSZHZmTDJmdEtrLTJ3blEtMWVMbEVKVTdQdUJFTWxYZWRnOUxCbEZZUHpQeUxB?oc=5",
@@ -22,21 +96,21 @@
       ]
     },
     {
-      "title": "WPS Comate百城AI智能体赋能计划启动 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUxPRXpQSzZXZ283ZXU3LXRSWjU2dVR0UHpONmVRZnZQR3VqMDZsM1F6eXdyTzZGWDlWaGRzZnl6Si1JR202aEhfcXV2U0ZPenZRQ1VSd2ZqQVYyaGd4YzZ1R3FyTWd4MmdyOW91bUFUTU00Y0tWMHotT0Vfa0U5bU1ZTE43cUJmaUxpbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T13:53:57+00:00",
-      "summary": "WPS Comate百城AI智能体赋能计划启动  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "又蹭牛来！神秘大模型Ox Alpha匿名上线 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4aXJabnNiaWptbHNQeWl0ZE83aUhDd2wwcnVRdHRWckl2LXY1S3RGRjE1M2ZkVlFvWkQxcUU5aHRRaDE0bWZGUE1YeFA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T13:45:55+00:00",
       "summary": "又蹭牛来！神秘大模型Ox Alpha匿名上线  凤凰网科技",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "东莞发布首份AI城市建设方案：“6+28”矩阵推动全域落地 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEh2VUFpTVd5LTdrWmh2SlI4eHpJT2MyOVY0ZEtzUWlzQjcxOWN4QnJmYzN0aFFPZmJLME11Mml3NmdIRlhnZ2tDeTVUbFdIR0lTVTBYaGllLVpqWWNTb0pzQTE3R3hycXBSSnBmNldKQU44U1FEd0hiWDRvQUR0N0thZFVMRU9nOUs0Sg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T13:35:01+00:00",
+      "summary": "东莞发布首份AI城市建设方案：“6+28”矩阵推动全域落地  搜狐网",
       "categories": [
         "other"
       ]
@@ -49,26 +123,6 @@
       "summary": "广州大学城词元·智能体联合创新工坊启动  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness更新，增加多模态能力 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yVWRTaTRtR3RSWlhkS0ZzX0U4ZjRHcE0ycUM5eVFPaTRncUdSS1MycEVwWE9rbkhnRk0teFo1UUd5eWZOMnpwd2hmWEV2MXdJNHl0UFBfal9HZkN3bl9mZE02ZUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T13:22:00+00:00",
-      "summary": "DeepSeek Harness更新，增加多模态能力  新京报",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhYl9hQ3N5OEVJRW1uYi1ueWc0NlpkNzdQeXE3WHZVVmxLU3diNEgydzYyUUplaFE2RmQ2QjFxM3FQSU8zSmU4ak53S05lUlFycWJoTXdsUHBhbGdyOElwMmJja2FkTDNhZ0dvajJhenRYeU5uZV9iNC1pVmJ2QnM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T13:15:30+00:00",
-      "summary": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新  手机新浪网",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -97,6 +151,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T12:49:52+00:00",
       "summary": "AI进化速递丨DeepSeek上新多模态模型  手机新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZSWJUU0phT2RIVDVvdllNRk1LR1lOdzRGSFYyWkJfbGJlalhVYUx3djd4Ulk1em1yTUxzWWw0Ny03dVdYUVp5cHA2V0RrTTZxM2pPdEd0UDlNbFJ4TkVacWgyVjQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T12:15:00+00:00",
+      "summary": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致  财新",
       "categories": [
         "other_big"
       ]
@@ -149,6 +213,26 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T11:51:14+00:00",
       "summary": "AI赋能智慧教育，广州海珠举办教育垂类大模型发布暨产学研生态战略合作签约大会  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛 - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mU3hXd01ZOVRyNjhVNmVDcGtrTFFNSFZ4UUs2c3QtbWJtV1ROTTJ4SlpWem9PTEV2OS10TERnTVV6cmc0R3Y1eGlJMnhUWk1xVjJVbm9ta25OTzQ4M0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:37:51+00:00",
+      "summary": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛  InfoQ-CN",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "2026世界机器人大会｜擎朗智能KOM 3.0大模型：让机器人在干活前先“想”一遍 - 机器人大讲堂",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXQVB0WDdUTmVHV1FxaGpsMlg2QWZxR1F3V2ZUTzhlOHUwcjUxS3VaQV9tT3puRDYyY3JPSl9mTl9zNlpnOEFCS2VXQ1I?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T11:30:45+00:00",
+      "summary": "2026世界机器人大会｜擎朗智能KOM 3.0大模型：让机器人在干活前先“想”一遍  机器人大讲堂",
       "categories": [
         "other"
       ]
@@ -225,16 +309,6 @@
       ]
     },
     {
-      "title": "DeepSeek多模态模型终于来了！一张图最高只要0.001元 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXWldPYV9xcUZnNHAyQkJNcTk4V20wSVY4eFAyZFpWZ3lYbUNCUkhDTUVyei1WSE5LTkNpSFJDVEJFNXdQQWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:41:27+00:00",
-      "summary": "DeepSeek多模态模型终于来了！一张图最高只要0.001元  智东西",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "隧道股份科创孵化中城交科技完成第二轮融资，投后估值2.58亿元 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84X3NRcEhqRFpnVDFNMFRzLVl6cmNxUzVKcm1OSGFHaHl0UGxwd1JINGhsOXVQV2FYQXRYV1d1TFJxU3c4ZDZjZjRta01aRW1Sd2Zsa2laMFVLNHFSNmpkR0hB?oc=5",
       "source": "Google News - AI(中文)",
@@ -242,46 +316,6 @@
       "summary": "隧道股份科创孵化中城交科技完成第二轮融资，投后估值2.58亿元  同花顺财经",
       "categories": [
         "breakthrough"
-      ]
-    },
-    {
-      "title": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxVlBtYTBlV3FaQWg1X2t0WjgtYUl5cFpXbHA1azNpUjlQS1NBa3F1YWhwQlZXYmxualZRRjZiNHpScHM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:25:53+00:00",
-      "summary": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了  爱范儿",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "赋能商户迈入智能体商业新时代 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zNHZWeDRDZGYxR1libTNIcXlldmcydnBkMTlkSUgwQjZ5ZHZadVMyd041bnFLN0drOWs3cXd0dGpnbHA2V3dsNVBaaXZRNEpRakphNW5IeVBOQUJ0YVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:17:35+00:00",
-      "summary": "赋能商户迈入智能体商业新时代  DoNews",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "北京市首批人工智能赋能科学研究典型案例发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaTBMbVVydjNaTVN6UkFzMUZYMV9UbWdqLVFzdnd1OEZCc0RzdHBMeUJubFZCcXlJeWcwZXV5SFZfN3IyUFN2U1VXbU05UDhRSXpTTVktei1KOTRfWGxxd2g4YzE5N0Juc1dJcGFPTzVTSnQ5UDI2M0VkLW9rVlRrUmhOQktQWGp1?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:15:17+00:00",
-      "summary": "北京市首批人工智能赋能科学研究典型案例发布  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "万众期待，DeepSeek 杀入了多模态！ - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySjRTRW81M215d1pxZ0JBeGk1S1I4d3VFcDVxLWRCRndPdVE1djcyNEVraV9wZHo5QkpwaVdpTGdpc3NyZWZndnNfUXZ3aHNSTWk4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:15:00+00:00",
-      "summary": "万众期待，DeepSeek 杀入了多模态！  电子工程专辑",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -293,16 +327,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "研究发现：ChatGPT发布后三分之一的网页存在AI创作痕迹 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFl3NllqZXpyQkphOTFqSUFrYUFkTkdCUWhlQ0dJalFOX2lkVURBQWtnZ2JxMDgwUng2VFppRTV4WTVoOEt2WXIyLUphYjZmSjh1WHFOYUl3Y3p6d3Zod0d6M3dmenN1LU1sTThqanAyOGxKTG9kd0xjNF9fbkQwUUNfUy1obmNm?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T09:38:00+00:00",
-      "summary": "研究发现：ChatGPT发布后三分之一的网页存在AI创作痕迹  搜狐网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -327,31 +351,11 @@
       ]
     },
     {
-      "title": "ASU 魏华：大模型智能体正在重蹈强化学习的覆辙，如何跨越「仿真到现实」的鸿沟？ | IJCAI 2026 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1dMRTBZaXZfUHNVZ3ItVVgxdkhVbTliSy1QSkwtMS1nZmg0WWdrSHFubF90Y213ZWJTUy1Ua21DUTBSc1FqZUZYZXlKRHJMRHM1S213MXZqaklhdnRlbTEyLVhJbzJLS1RZZmFGYWd1OFpJUDNNTVN6RndXeFVXNVRMX1piTHp4dUg4Ug?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T06:16:52+00:00",
-      "summary": "ASU 魏华：大模型智能体正在重蹈强化学习的覆辙，如何跨越「仿真到现实」的鸿沟？ | IJCAI 2026  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "新石器发布L4无人车安全智能体“玄武” - car.tom.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mWVd6c1hRUVF2OFJ1UUNlSnBXcTNfcGNTcHNDOE9QdzAwZG8tb1hRY1FGb0RXNzVBRkxkNmVvTjJGeE1LMEpZVUNreVdRNWk2QmtlNg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T04:35:00+00:00",
       "summary": "新石器发布L4无人车安全智能体“玄武”  car.tom.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "一起教育科技发布个体教师个性化智能体，打造每位老师的智能助手 - 芥末堆",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BV3U0eUhUWVJaRFd4bUliODNFcXNWcEg3WHAwMGNsUDNfMUhoNUJNYXdsNHVpd3FoX0ZrRXAzTlFiQUNrbDk1UmhsdW5SVUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T04:30:23+00:00",
-      "summary": "一起教育科技发布个体教师个性化智能体，打造每位老师的智能助手  芥末堆",
       "categories": [
         "tools_apps"
       ]
