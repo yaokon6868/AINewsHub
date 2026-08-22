@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T17:47:39.287523+00:00",
+  "updated_at": "2026-08-22T18:34:13.030037+00:00",
   "items": [
     {
       "title": "DeepSeek的多模态模型，憋了这么久终于来了。。。 - 手机新浪网",
@@ -59,16 +59,6 @@
       "summary": "观察 | 从岭南文化大模型看报业创新发展之路  搜狐网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "DeepSeek API计费调整：周末统一按低谷时段价格计费| PANews发布于币安广场 - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kV0wxYTgyUGtlNVhvNmtBWVFEUTdiSGozcEVXNGZUbmVWU2pIazktdEpwV0lyUEUwdC1tUW5QcmRUTnpxVG9kSFBYMDVBeklYSkhLZnJkNXFCT1JUdHJMWUFsbWZVMmh5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T13:39:54+00:00",
-      "summary": "DeepSeek API计费调整：周末统一按低谷时段价格计费| PANews发布于币安广场  Binance",
-      "categories": [
-        "other_big"
       ]
     },
     {
@@ -256,16 +246,6 @@
       ]
     },
     {
-      "title": "强化学习之父Sutton最新访谈：合成数据是巨大错误，大模型只完成了四分之一的智能 - 麻省理工科技评论",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qSUt2R2hwVVdJNjF3RVRkcmRJcm4zVE5TRzhtcHNYZFFLdml4STMtcDQ0T1Q3MTNaRFVzWmdQUW9yMnR0RFM4dlJ4dXFELVFFOVJaMEY5SQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T05:50:04+00:00",
-      "summary": "强化学习之父Sutton最新访谈：合成数据是巨大错误，大模型只完成了四分之一的智能  麻省理工科技评论",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "DeepSeek 多模态深度实测，确实有东西的。 - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSzM5Umt6S293eUl3bEZISm9ad2JxendDeTVPbmNFZ1BOZWdsdTFJR1VCVVk1S3N6YjIzOHkyRFBxbEpOVnRuUkhLRE02cU0zX29R?oc=5",
       "source": "Google News - AI(中文)",
@@ -273,6 +253,17 @@
       "summary": "DeepSeek 多模态深度实测，确实有东西的。  电子工程专辑",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "国产AI算力再突破 中诚华隆发布新一代推理芯片及超节点集群 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mMnE4cE1ZZUFlMkpWNHRjWTI1NzNfbk81VDJWVDdRZGxYUFJYa1gxZkkzYXpGYXhBVXN2VEQ2dnZscDVVUjFrczJ6eEw2a2lMVGhIc1dNWTd0dmItYU9YR2I3TEY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T03:13:00+00:00",
+      "summary": "国产AI算力再突破 中诚华隆发布新一代推理芯片及超节点集群  新京报",
+      "categories": [
+        "breakthrough",
+        "chips"
       ]
     },
     {
@@ -323,6 +314,16 @@
       "summary": "黎曼猜想之后，Claude再破百年猜想纪录！  thepaper.cn",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "科大讯飞回应亏损质疑：在大模型等方向投入造成短期压力 - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMVpST2FlaVN3a3FLaVZKMms2b2J0Y1lPU1NFU2c5NWFtYk1fUWI1R011R2wxQzIzcEMtNjNfR05jT2ZhZkhmbDhjSVVsZENUMV9RRDFQWWxzX0RzQ3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-21T23:35:20+00:00",
+      "summary": "科大讯飞回应亏损质疑：在大模型等方向投入造成短期压力  京报网",
+      "categories": [
+        "other"
       ]
     },
     {
