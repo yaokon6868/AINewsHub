@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-22T06:51:10.267622+00:00",
+  "updated_at": "2026-08-22T07:33:45.849968+00:00",
   "items": [
+    {
+      "title": "AI相关搜索量增长470%，大家在关心什么？《小宇宙AI趋势报告》发布 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQktINmhXSXNOQXliOTU3SEJzYjdKUk9peDBMNVFFeHBvNlBPREExR1JtdFlaMEg5bjR1anBTdkhIWGRfQ3NwZG1rWnVRMXE5SlJUOFlPTXN1cVFib2xLU1hiMVVaRGR6WWdCVVhJZFA3WWFGc2FJSVRPdXFwZFNNcG9xWURkcURuUmpSSg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T07:06:47+00:00",
+      "summary": "AI相关搜索量增长470%，大家在关心什么？《小宇宙AI趋势报告》发布  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "神秘Ox Alpha模型限免：DeepSWE跑分碾压Claude Fable 5 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPV24taWV3NE5NSGJJVTlEY0ZTQ0d6UmQ1N3dTY25RaUpIMXQ2TG9wNExnSUJZa0lZWTRFZ3FnOFlIYzdmYlJwQmlhU3k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T07:03:38+00:00",
+      "summary": "神秘Ox Alpha模型限免：DeepSWE跑分碾压Claude Fable 5  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Gemini 3.7 Flash成爆款：上线一周破增长纪录 - BlockBeats",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GU2I5VW1Va0RGanA1X0lkSHdua0tOTWczWURVS2FwOW1pOG1IZDBVOS1pQ1hGZmlEUE5sZUF1UGtiLTNzMUpLQ2lETUhPZjZrVV9CZzJB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T06:55:38+00:00",
+      "summary": "Gemini 3.7 Flash成爆款：上线一周破增长纪录  BlockBeats",
+      "categories": [
+        "google"
+      ]
+    },
     {
       "title": "本地跑AI不输云端 vivo蓝心拿下手机端侧大模型第一名 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWpBa2s0M2k1UmdkbmNYUE5MakF3S0hpYXNlV2JwNm5LeGlNNGdnTnpkRE9oeUpCUHRnWEZKMU95TXZiTHFjdWdfT3FzSjhRNWcydHJ1QnJUVk5tVkhubndDLV9iamtUcXNOa1NKZ2NiQkhyYXRkMkh5LW1oRzBsbUpZZXY2TGJoRFktclBRRTZuSUlK?oc=5",
@@ -22,13 +52,14 @@
       ]
     },
     {
-      "title": "千元机AI功能哪家强？5款实测最低1104元起，端侧大模型不输旗舰+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjNIV2NmbUViRVcySS0wdENTX2tZdlhzcFd5bkc3NU90ZnNabzZBejRndzU4RHJfRnZERFFUWXNUdFNCT3dJcDRBU3I4NmlvOUxiMDVVZ2JhV0N0TFVxZm9JTTBSVm0yMWh2Ri1HRjRzeXVrVEYtblAtcmU2U2UwQg?oc=5",
+      "title": "Everything is a plugin，DeepSeek Harness 的真正野心，是 Agent 的自进化 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrb1M0TWJYZGVTdC15M3IxVFNxZE9yRW1sSV9GNFZQVFJZTnNxMUFxRFpMNEdGWGx1ZGpxVU1tc1hoOTZUcWFXQg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-22T06:01:22+00:00",
-      "summary": "千元机AI功能哪家强？5款实测最低1104元起，端侧大模型不输旗舰+FAQ  手机新浪网",
+      "published": "2026-08-22T06:00:00+00:00",
+      "summary": "Everything is a plugin，DeepSeek Harness 的真正野心，是 Agent 的自进化  智源社区",
       "categories": [
-        "local_model"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -165,16 +196,6 @@
       ]
     },
     {
-      "title": "DeepSeek的多模态模型，憋了这么久终于来了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmdCWldERldqelhUcDJtQmMyeE9TUUlwWDlCQzl1akROUjRWZ0Z2MXdVamtrWW9nZWdpdlVYcGVPVV9XRHJwMlNlYW02V01pSC13ZG1ZcmdQMmFCY0E3VEdkekF2cjFfcV9pX2p0Q3RWaHVIaEQ4ZFdqV29wbm1HME1mT0YzWGFV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T02:05:06+00:00",
-      "summary": "DeepSeek的多模态模型，憋了这么久终于来了  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "黎曼猜想之后，Claude再破百年猜想纪录！ - thepaper.cn",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RFdHMlpHR2x1dXNFSXNIYlF3bEhDX0lSTTd6T1FNb19qbFd5Zm8wdlRyY0IyVnhjTjNORzFwTmtuVW13VkdVNnZmUkdRUG9ieEYtMzFrWjB4RlZkQ3BJLQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -190,6 +211,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-22T00:36:51+00:00",
       "summary": "特斯拉车机接入豆包与DeepSeek双大模型摘要  新浪新闻_手机新浪网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "DeepSeek的多模态模型，憋了这么久终于来了 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pN1Z5UWF1a1ZMSmdScWV3RUZVdTdlOWVxbG9kSmxQYzgweDVRcUFrQ1ZYTFNzNmMzR0UyWHZHTkdFUERRY19tSVF2RC0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T00:32:08+00:00",
+      "summary": "DeepSeek的多模态模型，憋了这么久终于来了  凤凰网科技",
       "categories": [
         "other_big"
       ]
@@ -293,36 +324,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-21T14:11:28+00:00",
       "summary": "【教育新闻直播间】“范蠡大模型4.0”和智慧渔业公开数据集发布  中国农业大学新闻网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "东莞发布首份AI城市建设方案：“6+28”矩阵推动全域落地 - nfplus.nfnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JQTZqaVlqb0ZQS21WdDFncXJGdFNlMUgtUkQ1T3luMWVUWDRUYTFYUmdnbDJ0SUloSGs0VnhZdDd0SU13TldIZzhQZGN4alY4ZXUydWJHZFVSTGMxZFdMSkpmMk9GcDJ3Qmc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T13:34:00+00:00",
-      "summary": "东莞发布首份AI城市建设方案：“6+28”矩阵推动全域落地  nfplus.nfnews.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness更新，增加多模态能力 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yVWRTaTRtR3RSWlhkS0ZzX0U4ZjRHcE0ycUM5eVFPaTRncUdSS1MycEVwWE9rbkhnRk0teFo1UUd5eWZOMnpwd2hmWEV2MXdJNHl0UFBfal9HZkN3bl9mZE02ZUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T13:22:00+00:00",
-      "summary": "DeepSeek Harness更新，增加多模态能力  新京报",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "多个AI大模型平台推荐！广州天河这个文明宣传活动火了 - 奥一网",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xUkNMcHUxdUhzMS1mOE9NZXY0WFZfS0tiY1EtUFhESUZmSUJLU0h0N3VtTk4tOUVwWUN6dEdNNEg5dE80TEJ0UTdMQjItdFl4VVhtUXliZlZqS2RVdFBZVVhJQ2E1UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T12:53:50+00:00",
-      "summary": "多个AI大模型平台推荐！广州天河这个文明宣传活动火了  奥一网",
       "categories": [
         "other"
       ]
