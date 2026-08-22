@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-22T16:27:20.085894+00:00",
+  "updated_at": "2026-08-22T16:52:26.911306+00:00",
   "items": [
+    {
+      "title": "科大讯飞：大模型高强度投入致短期阵痛，新版本即将发布 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEFMTkphNkMtajZUUUJ6SFhUMFZ4RnI2b0xYTnJCSHlyLTJ1YU1iS2E2d3BpbU5YYk1kUTNjaF9Ea0V6NmVsTERSdkNpSzN0MV9WMXljX0hwaVVJaVNQQ2dBR2x6RWZNeWh1akNhT1pNLUZGYXlySlI2MzlKaFhkbXVtcWpkaTJf?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T16:25:00+00:00",
+      "summary": "科大讯飞：大模型高强度投入致短期阵痛，新版本即将发布  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "全线控底盘、AI智能体加速上车，“技术普及”成为下一阶段市场竞争关键词｜成都车展 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3FINWIxRklvVGh4T3pNc3RSbVE1THlxR1JBaW9BQTFkc296c0xxTDJZNXR3Um9iTFZzbWgzMTdFOVNBSWtCVk56YjN3eFZlZDlyQWZZSUNJc0dXemx6STVhaGtzQ2RmRF9zbEJHSnE3STVzandUVGVMT3ZkUHY5QXo2WVJmczhMMTRqVg?oc=5",
@@ -205,6 +215,17 @@
       ]
     },
     {
+      "title": "Everything is a plugin，DeepSeek Harness 的真正野心，是 Agent 的自进化 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrb1M0TWJYZGVTdC15M3IxVFNxZE9yRW1sSV9GNFZQVFJZTnNxMUFxRFpMNEdGWGx1ZGpxVU1tc1hoOTZUcWFXQg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T06:00:00+00:00",
+      "summary": "Everything is a plugin，DeepSeek Harness 的真正野心，是 Agent 的自进化  智源社区",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "神秘“牛来大模型”火爆外网，部分测试超过 Fable、GPT-5.6 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVExVSDhBYVZhTmJOc20teV9hcG5aUlR6QTNQMG5WU21kaDhtV0pLdHZqLUY1V1lia1hDajJlZ1QyX29tQ2VXc0I0RGRZZFBlVExMMTJ5U25KMEJCSURQOVc1SFJMYXRRVFFLRU9seGxHbElsZk1xNmxIY2NaMTFYak4wNzUtdlJa?oc=5",
       "source": "Google News - AI(中文)",
@@ -302,26 +323,6 @@
       "summary": "黎曼猜想之后，Claude再破百年猜想纪录！  thepaper.cn",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "DeepSeek的多模态模型，憋了这么久终于来了 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pN1Z5UWF1a1ZMSmdScWV3RUZVdTdlOWVxbG9kSmxQYzgweDVRcUFrQ1ZYTFNzNmMzR0UyWHZHTkdFUERRY19tSVF2RC0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T00:32:08+00:00",
-      "summary": "DeepSeek的多模态模型，憋了这么久终于来了  凤凰网科技",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "科大讯飞回应亏损质疑：在大模型等方向投入造成短期压力 - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMVpST2FlaVN3a3FLaVZKMms2b2J0Y1lPU1NFU2c5NWFtYk1fUWI1R011R2wxQzIzcEMtNjNfR05jT2ZhZkhmbDhjSVVsZENUMV9RRDFQWWxzX0RzQ3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T23:35:20+00:00",
-      "summary": "科大讯飞回应亏损质疑：在大模型等方向投入造成短期压力  京报网",
-      "categories": [
-        "other"
       ]
     },
     {
