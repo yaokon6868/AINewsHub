@@ -1,6 +1,59 @@
 {
-  "updated_at": "2026-08-22T04:35:09.753928+00:00",
+  "updated_at": "2026-08-22T05:29:49.699865+00:00",
   "items": [
+    {
+      "title": "AI 对话的算力与电力消耗|ai|大模型|数据中心_新浪新闻 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWnpnX3ZIc3I4clBRd09vSG1JQW1zSllfLWpUTXNmT1d1UThsRU1jdkZJckNGbUVQLVBsSHFlTWhDcWJzcFNMeFlBamJQaTI1U196bGFud2REd3duODBiUGVTZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T05:02:00+00:00",
+      "summary": "AI 对话的算力与电力消耗|ai|大模型|数据中心_新浪新闻  手机新浪网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "DeepSeek-V4-Flash-Vision-Exp上线，多模态Agent能力提升 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVekxCWjlrclJ1X2N6R2ZoNlZIUFE2UWlIcUdNUXNpZWJNZEhrZmV6M3BfV056LUhKbGtzV244aXlqLTVSamZBWUV1emJ1UHctbHE4ZQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T04:59:00+00:00",
+      "summary": "DeepSeek-V4-Flash-Vision-Exp上线，多模态Agent能力提升  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code 被轻易攻破，仅需一个假工具 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ROEtYVE1VRTFBMi1GVHo1VXJnUWo2X2k3QWdYRk04QkRWUUtndERfa1I5UHpEcXBMeV9EZXppTDJDOXpDaldiNA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T04:40:00+00:00",
+      "summary": "Claude Code 被轻易攻破，仅需一个假工具  智源社区",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "具身智能的\"ChatGPT时刻\"还没来，但\"算账时刻\"先到了 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlVNWDE3WndBWXlRNWlkOGVCUXdyTzJxQmlxWmpHb2c2cVBvMk9kcUtOSmM0RWI0ZVNDczlpYmx5U1BvS1c1Qm5HVGhWcm1ubWtqcEtVVk9jLUNXeFFQbEpKdEdyd3Z4YmVCX1VQdzBMOHJTLWYwalJJb2MxWVZKMFVkQm5TMURp?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T04:33:42+00:00",
+      "summary": "具身智能的\"ChatGPT时刻\"还没来，但\"算账时刻\"先到了  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "从代码开发到自动化执行，Muse-Glimmer-30B让本地Agent更强大；Qwen3.8-27B-FP8发布，270亿参数挑战高效推理极限 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxZmEtQ3UtTE9EY2F0SlpMaDFKZkJ2SGE4dHBpU3FIVlJSQkZEeHJnUjdoZHhGNF9pajFabVc5VUloLXdCR0tTcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T04:30:00+00:00",
+      "summary": "从代码开发到自动化执行，Muse-Glimmer-30B让本地Agent更强大；Qwen3.8-27B-FP8发布，270亿参数挑战高效推理极限  智源社区",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
     {
       "title": "刚刚，DeepSeek多模态模型上线！ - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdUWGhkQzBNMENpWWZENXBPRFc2emJmVUEzeVR1UXQzVHBDOE1mYy1JYkR5ME1xNEhhV19mZzZhZGtpdHlOYXc1dXcwSFQxVWhHeHpyeExuUXFSN2ZiS1FHTXZjTzUxbzJIX05MYlNkRkRZS2JYbXNCV3d1UDZ6UzY1UWlkUUUwaU4tWTdSWHU5NmFpcmtaOA?oc=5",
@@ -12,24 +65,13 @@
       ]
     },
     {
-      "title": "用AI算碳足迹，搭建AI智能体，松江二中牵手工程大探索“大中贯通” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iUlQ4cHlaYXJCMlhpemRtckIzX3hsVnhJcHZpUldESEt3LXB2SThWYVBkU0N3U3pkUFpMRTNvRUw4aUUyUjU1VmVtUDNyR0Q0TkFILXQ3SndqZVBvV25WYjJ1T2ZlVG5TUF96dVkzMncwd1lwbGtRMElEbHg4QQ?oc=5",
+      "title": "用AI算碳足迹，搭建AI智能体，松江二中牵手工程大探索“大中贯通” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0dlYVllZkhIclctbzJ2cTdTLW5pem9sS2lBOXhtY1lEWlZMMkMxYkIzZjBuZ21GMGFZTGRjMEgtS2VOd0tqMm5zOGplWS15amg5ZjAzRkhfNFdhbzg5amJ0SDNQV2gtVVNRUmE2alh1ZVJVRHVfd01YZkpscnF3TDdDNVA5X3piMTdLSQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-22T03:37:26+00:00",
-      "summary": "用AI算碳足迹，搭建AI智能体，松江二中牵手工程大探索“大中贯通”  手机新浪网",
+      "published": "2026-08-22T03:32:55+00:00",
+      "summary": "用AI算碳足迹，搭建AI智能体，松江二中牵手工程大探索“大中贯通”  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "国产AI算力再突破 中诚华隆发布新一代推理芯片及超节点集群 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mMnE4cE1ZZUFlMkpWNHRjWTI1NzNfbk81VDJWVDdRZGxYUFJYa1gxZkkzYXpGYXhBVXN2VEQ2dnZscDVVUjFrczJ6eEw2a2lMVGhIc1dNWTd0dmItYU9YR2I3TEY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T03:13:00+00:00",
-      "summary": "国产AI算力再突破 中诚华隆发布新一代推理芯片及超节点集群  新京报",
-      "categories": [
-        "breakthrough",
-        "chips"
       ]
     },
     {
@@ -227,17 +269,6 @@
       ]
     },
     {
-      "title": "“火眼金睛”的芯片、AI大模型应用都来了！创客中国湖北大赛解锁产业硬实力 - 极目新闻",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtZWhTNXlPdE1PY0IxXy0zUXllNTZNNXRNeDJ5cFJwX3VrOFBkN0o2cG5qZmk1RVNSaDdJNzVwa3ZCLU1CLUF0ekk0WS04UTNJMWc3T3d4Skt2am8?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T14:11:52+00:00",
-      "summary": "“火眼金睛”的芯片、AI大模型应用都来了！创客中国湖北大赛解锁产业硬实力  极目新闻",
-      "categories": [
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
       "title": "【教育新闻直播间】“范蠡大模型4.0”和智慧渔业公开数据集发布 - 中国农业大学新闻网",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94NE1KQ1EtMEZ5SEJpSTdnOHlQbGttcHNrNzdJd2VxZjlWREE1dEZsRXM0YmxDVERvcVN3Sld3aVlxMUx5VUItRlJSZHZmTDJmdEtrLTJ3blEtMWVMbEVKVTdQdUJFTWxYZWRnOUxCbEZZUHpQeUxB?oc=5",
       "source": "Google News - AI(中文)",
@@ -308,27 +339,6 @@
       ]
     },
     {
-      "title": "OpenAI宣战DeepSeek，开源Harness - 虎嗅",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82QVQ2RWRnZzVvZGhQUDFpNVhVNG9ORS1BUDZJVEJtUzdqVGJaVDhwUkg4T1FGUDl0WnJORG53alVEMWhOTkRvUmxaX0tZLUV4THprRA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T12:00:01+00:00",
-      "summary": "OpenAI宣战DeepSeek，开源Harness  虎嗅",
-      "categories": [
-        "openai",
-        "open_source"
-      ]
-    },
-    {
-      "title": "适创科技十周年：以自主CAE筑基向超级智能体跨越 - 经济参考报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTl2M1hnakw5bFlNbWFONEM1ZFoyUkFWOUhxbzAzT0NMTjN0eWk5bmZWYS1pOWl6cUNyUlNqNEZVT3dUT2hrRDRyR0pqMkpuLXRGNVBVRjgtYmRwdHpIV3RNR3htSXRfc2F1MHZlb1FTejhpX3RkNjJpN0xibF9iXw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T11:53:43+00:00",
-      "summary": "适创科技十周年：以自主CAE筑基向超级智能体跨越  经济参考报",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "DeepSeek V4终于补上视觉：多模态Agent能力逼近Opus 4.8 - 麻省理工科技评论",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SZ0JwWDVObkJaUTVSUFlYaUk2UERvelN5WjExa3NFbmFlR2lBaGJDMWZWV1NNNmJYSEZNbVZMQ1o2SHNBT2hWTk82aXZnXy02ZEE3STdMMA?oc=5",
       "source": "Google News - AI(中文)",
@@ -337,16 +347,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "智谱唐杰：大模型只看参数的时代，结束了 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iQ2VIamNvR1U5U0h1WEFERzc1clVxNXFhMkVlY0RWdS1VWnlxckQtbXJvQnVMNFlNNkN5a3JFbkp5OU4yZEUwLQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T10:50:00+00:00",
-      "summary": "智谱唐杰：大模型只看参数的时代，结束了  智源社区",
-      "categories": [
-        "other_big"
       ]
     },
     {
