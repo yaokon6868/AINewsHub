@@ -1,14 +1,24 @@
 {
-  "updated_at": "2026-08-22T05:29:49.699865+00:00",
+  "updated_at": "2026-08-22T05:56:37.142904+00:00",
   "items": [
     {
-      "title": "AI 对话的算力与电力消耗|ai|大模型|数据中心_新浪新闻 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VWnpnX3ZIc3I4clBRd09vSG1JQW1zSllfLWpUTXNmT1d1UThsRU1jdkZJckNGbUVQLVBsSHFlTWhDcWJzcFNMeFlBamJQaTI1U196bGFud2REd3duODBiUGVTZw?oc=5",
+      "title": "DeepSeek发布视觉理解模型，大蓝鲸等来迟到的眼睛 - BlockBeats",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qRWJXVXZ0TjdtR2laVWV5TXJQb09iVktpa3FoenRmUTgzbkxFWEFmSVZhUzVES2Ztb3JDcllRQVl6VzMzcUwzZ1dRNXcybkc0cklB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-22T05:02:00+00:00",
-      "summary": "AI 对话的算力与电力消耗|ai|大模型|数据中心_新浪新闻  手机新浪网",
+      "published": "2026-08-22T05:55:52+00:00",
+      "summary": "DeepSeek发布视觉理解模型，大蓝鲸等来迟到的眼睛  BlockBeats",
       "categories": [
-        "chips"
+        "other_big"
+      ]
+    },
+    {
+      "title": "强化学习之父Sutton最新访谈：合成数据是巨大错误，大模型只完成了四分之一的智能 - 麻省理工科技评论",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qSUt2R2hwVVdJNjF3RVRkcmRJcm4zVE5TRzhtcHNYZFFLdml4STMtcDQ0T1Q3MTNaRFVzWmdQUW9yMnR0RFM4dlJ4dXFELVFFOVJaMEY5SQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-22T05:50:04+00:00",
+      "summary": "强化学习之父Sutton最新访谈：合成数据是巨大错误，大模型只完成了四分之一的智能  麻省理工科技评论",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -226,17 +236,6 @@
       ]
     },
     {
-      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUko0UV9qeER1a0MzTHFWTno5dFIxX3NERlRHNURrcWpVcTVsbmdnNkNnYTJhb3ZlVU9MbU41R1E0NGF2Y1M1QWNOTlBWMjdqVjNHUDhOczRFWTgwTWVQd1ktamVOeGo5SWNvSnJqRFFzMWN1VE1SeGNjQVEwZVJoQ3JLeE9rQ3dT?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T14:49:55+00:00",
-      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型 - InfoQ-CN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MSlVxRHYzT0JIc2tlaF9qSEpFRTZSbFk0UEN2dTRsc0lXbXZTVHpSYWI3NHRrdU5rNWhmZDY4ZXJlQmVDWXZ6NndKOUF0S3p2cDQwbGlSYzhYenF5ckE?oc=5",
       "source": "Google News - AI(中文)",
@@ -319,13 +318,14 @@
       ]
     },
     {
-      "title": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致 - 财新",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZSWJUU0phT2RIVDVvdllNRk1LR1lOdzRGSFYyWkJfbGJlalhVYUx3djd4Ulk1em1yTUxzWWw0Ny03dVdYUVp5cHA2V0RrTTZxM2pPdEd0UDlNbFJ4TkVacWgyVjQ?oc=5",
+      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcmZra0JxTVZheWhlYzNJUk5UcnBscjg0ZFcxalJfRTFsQW5RMWg3UHkxX3FnbzNDWWJEdklPTS1YZHNTemIwbTVrVW15WUgtTkxoS2dwUGJMNDctdXdDNGdDa0FPN2s2T29iUnN4WE5HMWFr?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-21T12:15:00+00:00",
-      "summary": "DeepSeek上线多模态模型 价格和V4-Flash正式版一致  财新",
+      "published": "2026-08-21T12:37:04+00:00",
+      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  金融界",
       "categories": [
-        "other_big"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
