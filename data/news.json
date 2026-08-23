@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:54:41.068405+00:00",
+  "updated_at": "2026-08-23T17:22:23.165723+00:00",
   "items": [
     {
       "title": "DeepSeek这次调整会影响AI应用落地吗？ - 手机新浪网",
@@ -20,6 +20,16 @@
       "summary": "荣耀新品官宣：耳畔AI智能体，8月24日开售  搜狐网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "9月上海站：沐曦股份、具身机器人、特赞科技——芯启智算·AI中国力量 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYTl1SE9HcDdLb2RzYXlIMGNockg3c3BOZGw4TUNiZUxid0w5NUFqRTI0ZExUVktzeF9pS1cxaEtHaVAwbGplMjJQQTRsWllOVUtUMXNPT3JkUjJ6YlNJNTJhZTc2Z1lmZVdfQWw2b2c4XzhhaEdWcnlQeHAxeHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T16:16:26+00:00",
+      "summary": "9月上海站：沐曦股份、具身机器人、特赞科技——芯启智算·AI中国力量  手机新浪网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -101,6 +111,16 @@
       "summary": "DeepSeek周末API“打折” 大模型价格战生变  亚洲电视新闻",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "乳腺病理信息哪里查更靠谱？大模型对比搜索引擎的权威评估与指南 - medfind.link",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTX0ZnQUFZbUItdXc4a0FudC00ZDMzSWxfc3hZRXdvVjhqSXJNV0FQRWd2Y09zelNLS1duNExfRF9NNGV5dXk4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T09:56:25+00:00",
+      "summary": "乳腺病理信息哪里查更靠谱？大模型对比搜索引擎的权威评估与指南  medfind.link",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -250,16 +270,6 @@
       ]
     },
     {
-      "title": "OpenAI上线青少年版ChatGPT 研究称青少年正把自我认知外包给AI - 茉莉花新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1QelNVaFdfWWZ2QVUwZndUU3l0b3FiS0hPRGtrZ1IyUTJXVWY1WUJkeXdnUnJkS1dZMkxCdGZSVDdpYnN1?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T01:09:02+00:00",
-      "summary": "OpenAI上线青少年版ChatGPT 研究称青少年正把自我认知外包给AI  茉莉花新闻网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "《Pi Agent + DeepSeek 深度优化》 - 53AI",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRDdxa2Z3X0hWU0d2bUV6Q3o5cGNQTFUtdEUzcWNQSjFwVHBXN2Zlbjc3cVVXUmJLd3N4WHIyQlp4NjJScDlkelVleHpiQ3lvb2h6X29Oa0NZdUR1Wm9WZl9OWllYamc4SGxRRA?oc=5",
       "source": "Google News - AI(中文)",
@@ -362,16 +372,6 @@
       "summary": "神秘“牛来大模型”火爆外网，部分测试超过 Fable、GPT-5.6  麻省理工科技评论",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XcWJFQ0xZNllHU19lNmZjb0w4ZU5aNGRsWnVsU09yakpQaW83UmVUcS1NTnM0ckxYbGd1eUJBZ0o5ZEt3NEczMDlxdmRFTlRMTk9fb3g1NF80dUo4R1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-21T22:26:41+00:00",
-      "summary": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网  InfoQ-CN",
-      "categories": [
-        "anthropic"
       ]
     }
   ]
