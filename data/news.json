@@ -1,376 +1,429 @@
 {
-  "updated_at": "2026-08-24T12:56:45.199667+00:00",
+  "updated_at": "2026-08-24T13:56:16.734320+00:00",
   "items": [
     {
-      "title": "孩子只听几千万个词就能学会语言，大模型为什么做不到？ - 麻省理工科技评论",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80cWVXOF9HdFdnSFBkeExqQUNiWW5nT3dlQWlJSlZaaURUN2c3OGlURUlvblU0M3otbFVDWUJBRUJaOERLSkZxTXNpZlpIVHA3emNXdFRMaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:38:01+00:00",
-      "summary": "孩子只听几千万个词就能学会语言，大模型为什么做不到？  麻省理工科技评论",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "芯报丨阿里视频大模型Wan3.0正式上线 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NUnVKTGxQQk9NalM2NTl6alpOWDZnM0xRNlR2amR2c2Zfd291YmhtdWV5NmVXbHU1WEhFbVBvU25mVWozZTBrajcwRnNPR09qRHZN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:30:00+00:00",
-      "summary": "芯报丨阿里视频大模型Wan3.0正式上线  电子工程专辑",
-      "categories": [
-        "other_big",
-        "image_video"
-      ]
-    },
-    {
-      "title": "阿里视频大模型Wan3.0上线，单段30秒PPT也能变视频 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmWUQ0Rnd3QXZlVjVxVmlvaVZ5Qm9VUERrd0w1bUx5eUFYSS1SVS1sdk5QNHJ2WEM3ZmFfeGpqTXppbXJMYmZNV3hiNUI1SHJjX0NZRWgzTEZubjVzT1Z6RkV2M0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:22:00+00:00",
-      "summary": "阿里视频大模型Wan3.0上线，单段30秒PPT也能变视频  新京报",
-      "categories": [
-        "other_big",
-        "image_video"
-      ]
-    },
-    {
-      "title": "“牛来”找“爹”！干掉DeepSeek的大模型是智谱、小米还是谷歌？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnRRdjRERW1qOTFILVRuWW5RUGJuM28xd3dRUTBFenR6and6WE5JNXFmRGVRcnBZUXR5MDhkRkQwM1B5UjIwVUI4YUVzTUMtY3VXbW91anBCZ2VyNHVMdHgzOTFhTk9JWTlmQWdEOTdUT1FYdHg3NV9DdjlTV1ktc0RlU01zdWJt?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:17:46+00:00",
-      "summary": "“牛来”找“爹”！干掉DeepSeek的大模型是智谱、小米还是谷歌？  搜狐网",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "建筑环境将成为AI智能体首个真正落地应用的领域 - 千家网",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QndqeW14WVN4NzkzNmhaRFlxMlJaZV9SckFkSFJmekpiRGp2OXdyWnpSTjhIQ1VKQUVRWDcxbm5Jdm43akI0RUxoelY5SmRNdUVSZjBOOW5VQjhNOG5jTA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:08:39+00:00",
-      "summary": "建筑环境将成为AI智能体首个真正落地应用的领域  千家网",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-24T13:47:26+00:00",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
+      "translated": true,
       "categories": [
         "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude文本水印引争议： 自己写的， 也可能被标成AI？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelNTQ0k5QzA0aGNNX3ZyTlNGb3hfV3lsLXE5M1dsbkh5cjd1NVVJSjZWaTQ1Zks3ODFzcG51TjFPZjluZ2hZdXVHazctbGpYNzF1MXVNS2ZSS0UwN2hTZ0w2alVNNzEzMnNCeW5tVVQxVlBRZXR0X3BDRThRU3U0ZWROMEpmZ05F?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:06:41+00:00",
-      "summary": "Claude文本水印引争议： 自己写的， 也可能被标成AI？  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "有头有脸的大模型公司，集体搞起“匿名公测” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtmUmFocV9TUlBTRGlpUnVmdFM1eDBWMVlGOGd3WXdHRXpBVmtIRFVPb0ZFaHo4a05kTHdRMzhROW5OZ0s5ZnFsTkZ1MHUxMHhLelFlcGZnTjNmX0h3RUpGYUxFWTFQTTVBZUlrSlNLMXBuZXpQSFhEV0loMVlUdUtRMUJ0WmxU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T12:05:58+00:00",
-      "summary": "有头有脸的大模型公司，集体搞起“匿名公测”  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONmpZZ1R4Rm9MSlhYTzNjWm10dy0xaTV0a0pYRkZ4Qlp4bEhxajhUUUxRQWplRUFxbmtmNFZwYTlWVUhYcjJmMHBnbEFiMU54ZVJHRllPbEFtZ2MxT3Bhb1FJRmRfNVNNOW9GRUNGODJSUmY5bXBDd2dLQ016aWJWTGlGMk41dW5jWkgyY1dVa19rQ21MRUpNNFFBZzNjRnBzVHZvSDUxQ04xWHBZbmtlUWdCQWUyRDhSOXIyODBUV2ZXNjRnYkJLd09RT004V01uRmdseGRWSVFLb2JudmdiU1JmNllMaEtXYUlHR2tsUERKVTlQV0VrSUdobFZBUGdKcXQtcTN5U1c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T11:59:33+00:00",
-      "summary": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS  新浪财经",
-      "categories": [
-        "other_big",
-        "local_model",
-        "chips"
-      ]
-    },
-    {
-      "title": "小米三芯齐发：除了玄戒O3，还有大模型加速芯片和智驾芯片！ - 芯智讯",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12ZFZVX25GNFpXMHFxSmJOdndocEhXMzBjeWRoZjNUVUNiU2UtbVJHa05aeElWWk8xYlVSRG8yaXc1QV9W?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T11:55:40+00:00",
-      "summary": "小米三芯齐发：除了玄戒O3，还有大模型加速芯片和智驾芯片！  芯智讯",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
-      "title": "小米发布三款玄戒芯片 玄戒O3将在9月首发上市 - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0t2ZVNmdlRHcWNSbFBzMWp0VGI2bnY0eWQwVVZUSmRqY2lyeXNhelVfV2hlckNoR2tOT0VEbEJ5S2wzVzVPeWFsRk9nVmNMdTRDUEtBRElETG95ZHd4bWxFWmczMTNTQ1FlM0Uxd2E3dGYtX0tOQXhZNDRENmhJM0swZ25JcmlXcFJiZE9ZZG5tcER1U09jS25QcUM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T11:51:54+00:00",
-      "summary": "小米发布三款玄戒芯片 玄戒O3将在9月首发上市  新浪新闻_手机新浪网",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
-      "title": "浙江舟山公安海防领域智能体：AI护卫千岛之城 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXVmelU1MWRKOWwtUU1lZXk4RER2RGkyN0w1ekZZR25LcGFadVVDdzhOenlqVERlVFBtRVV4LXE3Y2xHclQxUXVNeHlDd2NFUmd0WXZJUlhtRkdaWXgtcWVnQk50OThGbzVMN1B3U1A3N2w1dVRtaV8tZXBWQ2ZUM24zd1B2UHNnZWl6Ng?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T11:42:13+00:00",
-      "summary": "浙江舟山公安海防领域智能体：AI护卫千岛之城  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTEhYaTE2T3ZLeXdlOGVrYWxIYjk1VkphMVZ1T3RIS0w2U3pZa0ZYU0V1aWNEa3I0dHhyczBDeVVMRlRoNzA2TXFLTmFEVW9sQzdDRGloemtva1o3cGpnSm9zdVZ4azJEM0xrQ2F5M0Q0MnRoR2ZwUzd1ZjljckpHYS02UEFadzduWGtQUzlNOTR1TVByREpRSHZCRnJ5eHdnOUQxOEpzWGQ2UkxCQlNibm5mZWtIOFhBajE1N0MtOHJBNTdYRlMtMWxRYm1FTWgtMUgzMjB4cw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:40:06+00:00",
-      "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "创立大模型检索采信域控理论 肖邦：企业竞争进入商业数字疆域主权博弈新阶段 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83NmVDY0ZidnNDYUhhUGtlclJCamM2OVRnY0FreXloMnJERGVsMTNDRFFmXzJZMnFGWlVnM2ZPdkhqVy1IVFBDVXB0VE15Vm04OGxmSDNJS0pfRF94dXUxcGFVTkpIQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:31:49+00:00",
-      "summary": "创立大模型检索采信域控理论 肖邦：企业竞争进入商业数字疆域主权博弈新阶段  中华网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "十方融海联合高校破解视觉大模型 “幻觉” 难题，成果被国际顶会 EMNLP 收录 - news.tom.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41UVlGVFg4dDJueVZfNGc0UkZLamVUZFgxejlVb1pxRWdWOEp5a1FwbGVNc1NSVnFReHBpN2dza3VqRVZ0NE16YWh2NzAxSDFYaGZXakZB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:04:00+00:00",
-      "summary": "十方融海联合高校破解视觉大模型 “幻觉” 难题，成果被国际顶会 EMNLP 收录  news.tom.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "不止通用大模型：跳跃视界自研导演 Agent，把数百位影视导演经验写入 AI 底层 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnWjZSS3daVTQtVUlRbnYxaDE2WERDYXNxYmpPMzJLYWc4aTFzMF9PVXFBdkh2YW1zd2JjYlFWYjdoTFljRlpncEloR2tIcXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T09:42:29+00:00",
-      "summary": "不止通用大模型：跳跃视界自研导演 Agent，把数百位影视导演经验写入 AI 底层  凤凰网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "美国大模型价格被中国打下来了。OpenAI降价不是良心而是被逼。打败美国AI的不是技术内卷，是中国开源 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzRIdlJhUy11VG5Namc0bFZ6ZXMwTFJCVUtxYlFBal9yWWtDQjhBOXdBMXQ4bHI3M0RPb3RJbVJ1WW1kQ2o2ZHJPWld5ejRfNkJhWWc1czBtRGtqSWFnRXV6NGFVSllrTTA5QllIUHlFWFFOdHZBNHowMTF2aTNnTC11ZzFOS21p?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T09:32:39+00:00",
-      "summary": "美国大模型价格被中国打下来了。OpenAI降价不是良心而是被逼。打败美国AI的不是技术内卷，是中国开源  搜狐网",
-      "categories": [
-        "openai",
         "open_source"
       ]
     },
     {
-      "title": "小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5GVGV5c0hHY29PWFRkSUJ6amEwNm5WaUlzV3M2YWpCc291Vk5QcVBuUDd6aExRcG5fWC1zRmxYZl9KVTg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T09:09:47+00:00",
-      "summary": "小米发布玄戒 AI 芯片「全家桶」，还官宣了小米「阔折叠」  爱范儿",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
-      "title": "每个AI智能体都需要一套明确的责任体系 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFNCSklpYkZpS0dhUmN5Tk9oZXdPRjNCc0pOQVA1azJkcWZ3U2Fxb2pPdUx1Vmg2eFpRZXByQjFSemdtY0xDS0Y5VjdtVTROQzVqbFRrM1I2THB4RkU5ZVBBNWtncDNIamdLNEF0Ujhob0ZpNTV6WXcxUkRmVFZNVDVzMEo5NW9a?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T09:00:00+00:00",
-      "summary": "每个AI智能体都需要一套明确的责任体系  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "邬贺铨：智能体时代，互联网基础资源技术创新正当时 - 经济参考报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkxEa3R1X1lUNWpfdzhvVnFMSk13Rlk1OHluQktHY1NvRUFaR2VLRVIzZTVxSW85aU1oRzhiTzdtbTlaaF9WTFhlLVBkdmpGYnJfSXVVVEhyRHlrSUQ2Y1JHMHZUV1RaNDh1Zl9YcjE4cXRrYnlqNnhJYUJJb2ljOA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T08:57:03+00:00",
-      "summary": "邬贺铨：智能体时代，互联网基础资源技术创新正当时  经济参考报",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "原小艺大模型技术负责人唐都钰离职筹备创业 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWxfOVhIU1l2dUpKOENjaHZTUEgyTkg3TTUwdGw4RDlVTU9kSXVlaTdLdHpMSDBRTDNCbjFJc0RndDdERzZnckJlVmN5eHhWSWludjdLZm1wOUp2TDdJTHlIZU5GQk5Sc1FRaXp5bl85d1N5WmN3NUpDWXdCejBaWFNGd1IxTzQz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T08:49:29+00:00",
-      "summary": "原小艺大模型技术负责人唐都钰离职筹备创业  搜狐网",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-23T20:01:36+00:00",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "translated": true,
       "categories": [
         "other"
       ]
     },
     {
-      "title": "菲尔兹奖得主都栽了！Claude终结78年悬案，或成最重要AI数学成果 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanlBSUVJb3lnZDlIVzRpc2JaazdmOEZHSWVhMVpzdEw5RENSYjdvUVFkXzF2R0NDOFRoREZLVWltRjRwbUMtRlh6dWhEWXZDYkNHbExTVHZQNWE0N0VhSHBqOWQ4T21XUGVfcWhHekdDLTRqUzI0WTgxZ2JWY2lMc1ZYbDhJZW50?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T08:10:00+00:00",
-      "summary": "菲尔兹奖得主都栽了！Claude终结78年悬案，或成最重要AI数学成果  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "爱康集团与华为云联合打造健康管理智能体 构建企业级健康管理方案 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTk9FMDhGR1JDMVBRNFFvQTZreFFuVDlSTHJ4cDhzWE1QMkxUWjFGYTJUUnNhMl82RkNtcVFPcWVqaEc4TWdHUUk5c3VpenZKdWNqS2wzdmZVc0dnVW9XUFl4bHJQWEVSaEFJNzdDMmNtWWVvQmRGS3FFRmR6Rkg5Zk5VU0NHV0hh?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:58:27+00:00",
-      "summary": "爱康集团与华为云联合打造健康管理智能体 构建企业级健康管理方案  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGOEFaY3J6UFBLUmlCdXQ2SW9nUmZoUnFJcVhjdS14ZjJ4WHJCVXhPQ1c4QTBpc3BCUnRpem45bzF4cEM4dzExOGhUdlI5eTlibVpEMXp4SHVjMVpmc3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:47:53+00:00",
-      "summary": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算  InfoQ-CN",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型上车之后 一辆“会办事”的智能车，背后究竟研发了什么？ - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMmVzOTI2ZmZrRXpCcEpwZGJWcTZTNS1kN0RTTEdaYXczZlRnZktqWjlaWnlVcjdmN2YzNVJvRGhZYWo2YUx3YUJuQ3B1OHdESi1KeFhHSDNXQVlhRUlNMGpB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:35:27+00:00",
-      "summary": "大模型上车之后 一辆“会办事”的智能车，背后究竟研发了什么？  手机网易网",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-23T19:14:08+00:00",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "translated": true,
       "categories": [
         "other"
       ]
     },
     {
-      "title": "多项算力成果在2026绿色算力（人工智能）大会上发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVRpeTJ3UnNtOS1NNHVjenI2UExwaWtuRFFDYXd0a0pCNTZsNXQ2alNJTGNiS1ltMjZFUFpZeWRpRWpJLTJGQWN4Q3NyWjZpNWF5VG1Ta2ZsLWYtdTZVYWNhZUxWdXhFb1ZncEVrZFRMRi1Ib09Wc3JWa2NpU0V0RWd5eGJnQ1hPT1Bmbg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:34:04+00:00",
-      "summary": "多项算力成果在2026绿色算力（人工智能）大会上发布  搜狐网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "港股大模型概念股持续下挫 智谱盘中跌超11% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05TTVPOUFKY3VXZER4YUJYdVNCQmFZUDF4WTlUSUFVRlFWV0M4Rlk2VDRlaWk5MF85alBTeVVsUi14QjZsVDZON1BVRzJGZFZZb1RKbmZqZVZTcGoxcUZkeg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:31:10+00:00",
-      "summary": "港股大模型概念股持续下挫 智谱盘中跌超11%  东方财富",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "神秘“牛来”大模型上线即登顶 背后厂商至今未揭晓 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kWE05WlZydlRPT0s3eHBBb2k5Q0N4Z3RwbEpQXzlMaVVjbTFDS3hZSGJUd3UzaE1CZnRBQnJ2dEd0eU40QUpBZWozeUREV2RBT1JKVkZ5NUxsSUJieFByZ0Nn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:23:07+00:00",
-      "summary": "神秘“牛来”大模型上线即登顶 背后厂商至今未揭晓  手机网易网",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "小米玄戒O100 AI芯片亮相：端侧大模型提速10倍！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGdPSHNBMnJueUowTHYxYll6b3VVTDVSel9nU1dNWWFFM3BWVV9tNkthRk93a0xrVUl5X1h2ZTRaQ0FsMFdVRzlySU5tMUtIcG9CZ1dkS2VCSmd0YThLR1A4M3M0a1FPNmxVVC1CcDVETUM3QXVDbGEzR09rWFlld2VkYWkyVWtC?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:03:03+00:00",
-      "summary": "小米玄戒O100 AI芯片亮相：端侧大模型提速10倍！  搜狐网",
-      "categories": [
-        "other_big",
-        "local_model",
-        "chips"
-      ]
-    },
-    {
-      "title": "2026年上海口碑优异的AI大模型应用场景定制开发公司盘点，上海AI大模型应用场景定制开发公司推荐 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JWUVXSEtzc2NDV2kwR1F4bFJWVDU4VWNLNUYwdTlPQ1c2UGliZnNBUEZvdUZEblVyT3Z3bzJjbVduODU0b29GMnNZS05Rc1UzdjEyT1N1N0o0azlURkZCXzVR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:00:33+00:00",
-      "summary": "2026年上海口碑优异的AI大模型应用场景定制开发公司盘点，上海AI大模型应用场景定制开发公司推荐  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "小米发布大模型专用AI加速芯片玄戒O100 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmdFNPVHgwTTVPeHAwYUhHamVDRXB1UElCMV9KMjdlSDVSUmVoNENXZUlGT1RpejNLWmNpX1R2WlNhT2M1c2hIOVlnQUh0dWE3QUJBVkM5bEdCVTd2UExKXw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T06:51:24+00:00",
-      "summary": "小米发布大模型专用AI加速芯片玄戒O100  东方财富",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
-      "title": "小米朱丹：玄戒O3专为大模型优化NPU架构 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42SXdLZGdkTG9jNkZfc1BDVU1rOG5CTlhGMmdHRVl5ZXZicjFvdjhsWnJEdTJCYktmY2NoUktRWnNVVmZSeFhJOWNLSXJHSU5YbElLUFo4SDBzbGZBVGkwYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T06:45:35+00:00",
-      "summary": "小米朱丹：玄戒O3专为大模型优化NPU架构  东方财富",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "从“影子AI”到大模型投毒，如何破解AI供应链攻击风险？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlE4TW5Gb2dTSm1tVnYtdlBNWHlGSnVHRHpRMUw5MzhQREt6UlR4alJtOVFRYUg2N09UZTU3cHJGVjBUZnFSMWtRcFhPbW8tSGZPWndQLTgzVU90bTdsRS1IR2ZjTmc2bHREQjZDUTU5dnhvNl9JRnl5ZzJNbGZIUXIyaFcyX0ZB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T06:21:34+00:00",
-      "summary": "从“影子AI”到大模型投毒，如何破解AI供应链攻击风险？  搜狐网",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-23T15:30:00+00:00",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "translated": true,
       "categories": [
         "other"
       ]
     },
     {
-      "title": "从Google Assistant到Gemini：大模型正在重构智能家居的“智能” - 千家网",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xR3h2UDJFdlVVOFRkNW95MVlmek9tZl9MZjRqUzlTVDBlWTlpbGFMM2stbzVXNzFfdTlLM2JySmdNcURTeDgtWnBia3NTa3lQUUVlb3VndFZpbmpuNUhKZQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T02:46:23+00:00",
-      "summary": "从Google Assistant到Gemini：大模型正在重构智能家居的“智能”  千家网",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-23T15:00:00+00:00",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "translated": true,
       "categories": [
-        "google"
+        "other"
       ]
     },
     {
-      "title": "凯度发布幂境套系与AI智能体“小紫”，厨电竞争从参数转向体验 - 雷峰网",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtUFg5M1FVSldvQU01bkJ3Y1hxZndzc1M4anZBdm9YaF9wdXdZUTdROUpnVWh6WmtrQnFqMVprQ2RUeFdIM1ZvRGJ5eXk1SDY0REs5emVINU13UlVUSl90VUEwc00zT1ZkQ29tWEZNa0NROUk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T14:35:00+00:00",
-      "summary": "凯度发布幂境套系与AI智能体“小紫”，厨电竞争从参数转向体验  雷峰网",
+      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "link": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+      "source": "Hacker News - AI",
+      "published": "2026-08-23T11:28:08+00:00",
+      "summary": "15 赞 · 0 条评论 · Hacker News",
+      "points": 15,
+      "translated": true,
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "OpenAI 推出青少年版ChatGPT，多名儿童安全专家质疑安全机制透明度|IT之家|科技产品|家长|自动系统|系统_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNU3BIeVdsM1hiQzZIcFV2WW9lb3ZpaHhhNzZEdmNGLUk2akxLTHJqZi1yRElVWFE0ZmI4RUxCcm1iNEswWE9Zb0E3T09QRm9KS3lxUjNLZnFqek5LUlJ0TF9MTTRlb1hjendadXViYjd3c1ZmTW4yUXVBUldoc1dZeE1LdHZEZXpjQzdkeHRScWVONDBMaGhSWUc0YmJJcWV5Tl9GWjNGWXo1U21oVGF2OVFqYk4yYXlJcEZ3WnNJVTdwZkh6eUJ1Z0tLZm53bERkYnhnRzVpQW9oVlBWUzI4TWVzOXlNdV9WTU9vejAxeFgySGdzT0QtMTBTekNjQTJpY0pIUFd6ckFheFd4MzFWU1Fmdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T14:21:46+00:00",
-      "summary": "OpenAI 推出青少年版ChatGPT，多名儿童安全专家质疑安全机制透明度|IT之家|科技产品|家长|自动系统|系统_手机新浪网  新浪财经",
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "link": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "source": "Hacker News - AI",
+      "published": "2026-08-23T10:54:35+00:00",
+      "summary": "34 赞 · 39 条评论 · Hacker News",
+      "points": 34,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+      "link": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "source": "Hacker News - AI",
+      "published": "2026-08-23T04:03:46+00:00",
+      "summary": "19 赞 · 8 条评论 · Hacker News",
+      "points": 19,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "link": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "source": "Hacker News - AI",
+      "published": "2026-08-22T23:30:20+00:00",
+      "summary": "28 赞 · 5 条评论 · Hacker News",
+      "points": 28,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-22T19:00:00+00:00",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "translated": true,
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-22T16:30:34+00:00",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "translated": true,
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "湖北首款公证行业AI智能体发布，单案文书处理进入“分钟级” - 湖北日报传媒集团",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RkMweTlLTlpoWE43SE0yWGVLTHZCY184Zi0zMVVEWHRDOXRIZzBWWWt6OWFCOUk4Z0cyQnkwQThILW5lb0xuak82T1lHYjBadDNHdEx2cUo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T11:07:58+00:00",
-      "summary": "湖北首款公证行业AI智能体发布，单案文书处理进入“分钟级”  湖北日报传媒集团",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "source": "Hacker News - AI",
+      "published": "2026-08-22T16:23:09+00:00",
+      "summary": "37 赞 · 80 条评论 · Hacker News",
+      "points": 37,
+      "translated": true,
       "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "Hacker News - AI",
+      "published": "2026-08-22T14:13:05+00:00",
+      "summary": "55 赞 · 70 条评论 · Hacker News",
+      "points": 55,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+      "link": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+      "source": "Hacker News - AI",
+      "published": "2026-08-22T11:27:29+00:00",
+      "summary": "21 赞 · 4 条评论 · Hacker News",
+      "points": 21,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Embedded AI",
+      "link": "https://nostarch.com/embedded-ai",
+      "source": "Hacker News - AI",
+      "published": "2026-08-22T09:07:26+00:00",
+      "summary": "37 赞 · 9 条评论 · Hacker News",
+      "points": 37,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-21T23:07:25+00:00",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "translated": true,
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: Study",
+      "link": "https://canews24.online/?p=71",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T15:25:42+00:00",
+      "summary": "165 赞 · 11 条评论 · Hacker News",
+      "points": 165,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+      "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T15:21:10+00:00",
+      "summary": "16 赞 · 0 条评论 · Hacker News",
+      "points": 16,
+      "translated": true,
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T13:43:33+00:00",
+      "summary": "188 赞 · 98 条评论 · Hacker News",
+      "points": 188,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "link": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T11:48:05+00:00",
+      "summary": "487 赞 · 492 条评论 · Hacker News",
+      "points": 487,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Young Americans increasingly fear AI will take their jobs",
+      "link": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T06:49:46+00:00",
+      "summary": "28 赞 · 16 条评论 · Hacker News",
+      "points": 28,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T02:37:47+00:00",
+      "summary": "623 赞 · 898 条评论 · Hacker News",
+      "points": 623,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "source": "Hacker News - AI",
+      "published": "2026-08-21T00:15:12+00:00",
+      "summary": "189 赞 · 209 条评论 · Hacker News",
+      "points": 189,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T22:36:37+00:00",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "translated": true,
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch AI",
+      "published": "2026-08-20T22:09:51+00:00",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "translated": true,
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T19:46:49+00:00",
+      "summary": "32 赞 · 8 条评论 · Hacker News",
+      "points": 32,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "link": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T19:05:36+00:00",
+      "summary": "379 赞 · 209 条评论 · Hacker News",
+      "points": 379,
+      "translated": true,
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI at Home Part 2: Multi-GPU Drifting",
+      "link": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T16:53:55+00:00",
+      "summary": "29 赞 · 1 条评论 · Hacker News",
+      "points": 29,
+      "translated": true,
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T15:06:53+00:00",
+      "summary": "210 赞 · 165 条评论 · Hacker News",
+      "points": 210,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Could AIs Become Conscious?",
+      "link": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T14:47:12+00:00",
+      "summary": "26 赞 · 101 条评论 · Hacker News",
+      "points": 26,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T11:42:20+00:00",
+      "summary": "89 赞 · 143 条评论 · Hacker News",
+      "points": 89,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Don't paste the AI, please",
+      "link": "https://dontpastetheai.com/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T08:20:44+00:00",
+      "summary": "1044 赞 · 579 条评论 · Hacker News",
+      "points": 1044,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "source": "Hacker News - AI",
+      "published": "2026-08-20T06:40:14+00:00",
+      "summary": "27 赞 · 1 条评论 · Hacker News",
+      "points": 27,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Mathematics in the age of AI",
+      "link": "https://arxiv.org/abs/2608.16753",
+      "source": "Hacker News - AI",
+      "published": "2026-08-19T15:14:25+00:00",
+      "summary": "208 赞 · 265 条评论 · Hacker News",
+      "points": 208,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat AI",
+      "published": "2026-01-13T13:00:00+00:00",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powe",
+      "translated": true,
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "source": "VentureBeat AI",
+      "published": "2026-01-12T11:30:00+00:00",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team bui",
+      "translated": true,
+      "categories": [
+        "anthropic",
         "tools_apps"
       ]
     }
