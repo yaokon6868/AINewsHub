@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:29:15.595964+00:00",
+  "updated_at": "2026-08-24T22:56:04.144254+00:00",
   "items": [
     {
       "title": "人形机器人卖爆了，但王兴兴说“ChatGPT时刻”还没来 - 风闻",
@@ -33,6 +33,16 @@
       ]
     },
     {
+      "title": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1pGc2NTUl90MEI2MHRReUZlM0tXOVFMZjFHWnFQTkpveTF0bFdJb19CQXpYR3BNZ3ZVSTNaeUdETjNEN21xdzRPdF9XbGI2YUVUTmNfREZYcTFSdFZud3I4N3VteWcxMHQ0emtfZENoc2V1NkxCMkx6cEZsS0NNdER6clZELWxo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T16:30:06+00:00",
+      "summary": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "AI智能体迈入量子计算：根据自然语言生成并运行代码 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnYxeXZ3clBwTjVydWJhaTBCUkVfeHhHN1VZaEtSVGtiQW9Vb0tybk9FUS0tVWh2RUNaVlZzSGlTRU54SUprbk8xLW5XN25Sbi1ZcGJpTWo5M1ZkM05EWVBkbmNER3I2LWlFR0t3R2RBeFJvXzlzMDRiSXFSTTFMZGQ0bG1TZW9s?oc=5",
       "source": "Google News - AI(中文)",
@@ -61,16 +71,6 @@
       "categories": [
         "tools_apps",
         "chips"
-      ]
-    },
-    {
-      "title": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过 - 时代财经",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdmQyRU9UVzZOZUVFeUNpX2tZczVQRjFIc3ZNa0NnUENIMGwwZXVtMXNGNG16d2xzakROQ29ZTUhKOUs4WC1MZk53bmVRbWhCOXdQUFZTLThXOUlHWDlXUTc2TDJmaXdyV19hNXNtcmxyTUFuN2RsalEzOWs2em0wR3kyUUNSaDUxRzZ0YjcyLVg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T14:37:00+00:00",
-      "summary": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过  时代财经",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -252,16 +252,6 @@
       ]
     },
     {
-      "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oYldlV2ZKd1BDUHV2ckx6YU9uSjlkR3VSQXNtVU53M3FJaFhBWVl5aER5NzZlblFoYmh0c2NuZFZRd25ua0w2WGJaZG1ncDJ6RGhFMDQyU0lLN3gxWXFtY1lGREwyM3FLNjRYVW9n?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:25:42+00:00",
-      "summary": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机  央广网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "有头有脸的大模型公司，集体搞起“匿名公测” - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aQk1tdy1JVGN5NkpHRG9qcERsdzZGbWJxMHJmRWVDRmR3aGxETEdvMEtoY0oyS1BhQWpuLVFXMFpEdzBmSGhqazY3eWo?oc=5",
       "source": "Google News - AI(中文)",
@@ -280,16 +270,6 @@
       "categories": [
         "other_big",
         "chips"
-      ]
-    },
-    {
-      "title": "十方融海联合高校破解视觉大模型 “幻觉” 难题，成果被国际顶会 EMNLP 收录 - news.tom.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41UVlGVFg4dDJueVZfNGc0UkZLamVUZFgxejlVb1pxRWdWOEp5a1FwbGVNc1NSVnFReHBpN2dza3VqRVZ0NE16YWh2NzAxSDFYaGZXakZB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:04:00+00:00",
-      "summary": "十方融海联合高校破解视觉大模型 “幻觉” 难题，成果被国际顶会 EMNLP 收录  news.tom.com",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -313,6 +293,36 @@
       ]
     },
     {
+      "title": "每个AI智能体都需要一套明确的责任体系 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFNCSklpYkZpS0dhUmN5Tk9oZXdPRjNCc0pOQVA1azJkcWZ3U2Fxb2pPdUx1Vmg2eFpRZXByQjFSemdtY0xDS0Y5VjdtVTROQzVqbFRrM1I2THB4RkU5ZVBBNWtncDNIamdLNEF0Ujhob0ZpNTV6WXcxUkRmVFZNVDVzMEo5NW9a?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T09:00:00+00:00",
+      "summary": "每个AI智能体都需要一套明确的责任体系  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "邬贺铨：智能体时代，互联网基础资源技术创新正当时 - 经济参考报",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdkxEa3R1X1lUNWpfdzhvVnFMSk13Rlk1OHluQktHY1NvRUFaR2VLRVIzZTVxSW85aU1oRzhiTzdtbTlaaF9WTFhlLVBkdmpGYnJfSXVVVEhyRHlrSUQ2Y1JHMHZUV1RaNDh1Zl9YcjE4cXRrYnlqNnhJYUJJb2ljOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T08:57:03+00:00",
+      "summary": "邬贺铨：智能体时代，互联网基础资源技术创新正当时  经济参考报",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国再次主办APEC能源部长会议，五项“中国方案”将集中发布 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ldzRWY1psb1RyZjlXMlBfQTVIU0JNZW9SSXlKN3E4OFNJSVNwWUNiQ3AxTm1IZzJEYVh4SGN2Y25MWHFXZ2NEZGQtTTNRTkh0UzRIeXRUX3FSWFM1NjFfX2xoWVY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T08:34:00+00:00",
+      "summary": "中国再次主办APEC能源部长会议，五项“中国方案”将集中发布  新京报",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "小米发布大模型专用AI加速芯片玄戒O100 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmdFNPVHgwTTVPeHAwYUhHamVDRXB1UElCMV9KMjdlSDVSUmVoNENXZUlGT1RpejNLWmNpX1R2WlNhT2M1c2hIOVlnQUh0dWE3QUJBVkM5bEdCVTd2UExKXw?oc=5",
       "source": "Google News - AI(中文)",
@@ -321,16 +331,6 @@
       "categories": [
         "other_big",
         "chips"
-      ]
-    },
-    {
-      "title": "Anthropic最强大模型Fable 5遇冷 高成本致用户转向廉价替代品 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mUU9CcExibEhuNG5tTFJPbWt6bVhpZ0tXODdId0NvbzNhakRXMmUweTVIcGRWNHN6Sm5aNVNaVE1OWFd2Zm9MSk9VT3pTQnRqNVBOTVNPMnNSMnRZX0hoWVZYaDBNUHNRVXkwYTNXMmg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T05:31:35+00:00",
-      "summary": "Anthropic最强大模型Fable 5遇冷 高成本致用户转向廉价替代品  中华网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
