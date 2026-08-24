@@ -1,55 +1,134 @@
 {
-  "updated_at": "2026-08-23T23:47:18.197941+00:00",
+  "updated_at": "2026-08-24T01:26:45.496423+00:00",
   "items": [
     {
-      "title": "AI初创Hugging Face探索出售，估值达130亿美元 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xQTVURmhGVkhwTnpsOUNYQXN2bEFHU3hCa1NxVXlCTFJZZUdsTG5NS1JoVEtGR1dqLXhJeHZxU1RUX3E4OWV5amxZam9sZU84WWVEZU53a1pPS1R0Mm1lUksyc09aaWo4aEdDWEJyUXVFVDhXcjA0QnBkbnFPZw?oc=5",
+      "title": "行业巨头纷纷试水 智能体商业化进程提速 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNEtrSHg5ZUdoelVXM0JGM3dyQ0J2bzQxM3h5TFc2bDZOOHU3UWZQd2hfeFk0UW9NTHJBaEVQRUhUZGIzOVpLRHgwRFlpQU53MllhZFNGSlRVWVpyTFU1U3BaMi1kTXdZWk43MlNrOUhjTnRTM3FEaURIYUlvY0JyX2FPYlRUUkJfNzNBRVdUMUNUSUR3eGNpVWNKaXhkOXdRNTBPT3dILTQteE9aNVk3YXgzUUY4cFE4TEdocW1YTTdiRUhVU29EeVFldGZGOTAxZWRCODhNRU5veHJWMEZkTjNLaGh1aHBpcU45ZmRMN1JCYjhQNUdxNVJB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-23T23:40:40+00:00",
-      "summary": "AI初创Hugging Face探索出售，估值达130亿美元  手机新浪网",
-      "categories": [
-        "breakthrough",
-        "open_source"
-      ]
-    },
-    {
-      "title": "港大数学系教授莫毅明谈AI与数学 称技术尚未能产生突破或新概念 - 星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPZTJtX3NYendDREhxNW1PcE41b2FzcmFJejFpNElfOHV6R0ZhMXhpSTZoUzJROFM1X2EyTFBPV1dydS04SUhzcjVPa1RrNmZtbUlmYk9CZU9VeWFaREhMRVpuNkFLNG1kc014Z0FlbWFUUUUyQXMwbXNMRExPbTJzN21GRDIzYXkxUmVYb19qckNtQzdWd0FVSHJ3am4xZm9wQWEwbV9TOFVNNjhhal9Vc1o3cTNGSmJhVEZZOEdZejlOcUFUM0ltVkRuM2t6R01rMURXTlJmczNXSDNtcDJ3Q2R1LVF4M3dNS0NPaWFKYTM5RzVpYUxQUUhIdEdsaGNOOU5CMm1pZWNBa1hIVHVTOGtjMmtvVnZGeFFpRFBVR09JWGk2STd1RnpCWDd4M0JPMDFVYWpSbG1YclBsWktOaTFzbkpNcWdQcWhWNkVNUUtxNHBQd2UtdzQwSGhXRlFoMExiOXl6OFM3WVdvOHpNREFUOGRSeU85NEJEbmUzTVh1UFdPOEdmejhGZDBlQ0RSOXZ2UDIzSC1kTUVyNkxrSGRCcVh6OTlzaEM3ZFJYS19CQk9jRXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T23:30:00+00:00",
-      "summary": "港大数学系教授莫毅明谈AI与数学 称技术尚未能产生突破或新概念  星島頭條",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "从“师带徒”到“数智链”，AI重塑广东中医教学 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcVZHallWVHNUcVVpMUxfd1dyb3BheVdkUG5aR081UFlTdGhNYWU5b3ZNallOV1NVZEJCREY0M0lrRWxKOXNIa2pCc05zeW91TzhHdi1YZFVSME1UX2tfMlFsVHZCVmFsTUJHUV9tZWtWZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T23:25:20+00:00",
-      "summary": "从“师带徒”到“数智链”，AI重塑广东中医教学  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI赋能主流媒体内容生产范式革新——以南方日报报端应用实践为例 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWJLVE9BcTRZOWdZZUV2Z1pWLURJTVF6Y3hFZ1lGVkVPbGJ2RzdPekszVG1Jc3ZWNW1ZWl9DQWZZMHNXdElSeTdhRHpkLWpsbjl5VXNvYTdzb2hHNGFWOXUwZUNXZEZ3bHFkd3ZCa05yLWREUThlN0JnR3RxWGMzcTBJenFHeF8zOUtoNA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T23:09:04+00:00",
-      "summary": "AI赋能主流媒体内容生产范式革新——以南方日报报端应用实践为例  搜狐网",
+      "published": "2026-08-24T01:24:01+00:00",
+      "summary": "行业巨头纷纷试水 智能体商业化进程提速  手机新浪网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "2026年语音助手智能度横评：华为小艺夺冠，但分场景选对才不踩坑+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LNWhFd3RodmVsOUJReFJVa1lFazRxYkJPSlpfTW83VDFQZGlSSDNDNzhKMFhheUdkSE1NenlOQW0wYUwxYzJEOFkwSjhsclFaZ3FwRDlRdndDbTZWNW9nSmp6YTE5dklMcElDS2tVVEVRZw?oc=5",
+      "title": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazRwTUs2emNVLVIwSld6VUxGamVLQVFvVHhsdThfWkd4Ym90QTh0T0NaLWNFYjZfWXlkUUJNMmlzSTVoRml5TXJ2QXRBaW1iNlZGTGRlTW0tU3NuOUw3R1FDcDNzVDZkREd3c3VDTmFsVzkxRXFjWHR4ZGRESzJyRlRwcTk1Q0thY2RiVzQ3WE5qczlCemJscEhtZER4cGJKWjZ2VzZsVE9xVlpHVEhSU1lTeDFybXVNV3otV2NLNDRyb0Z3Q3d3N2tnT3VHTnZZa2d6d3JlYkk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-23T22:17:12+00:00",
-      "summary": "2026年语音助手智能度横评：华为小艺夺冠，但分场景选对才不踩坑+FAQ  手机新浪网",
+      "published": "2026-08-24T01:20:10+00:00",
+      "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪财经",
       "categories": [
-        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "聚焦“人工智能+城市建设”应用落地，2026年AI智能体决赛举办 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ocktDMVRZN3pXSmZSVmN2ekRoeThab0xnUE9QZEpJWE1PcW5zUjB0OFhZYkdPWUN6R0ZQcjRpblcxM2JLejhnRW05QUtqUlRlVEVyUkV1b3RyNF9uWjdYRmZKb0lQWG5FVTUtZVZoTzM5dFJ1US04OFRFVEpyelk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T01:06:01+00:00",
+      "summary": "聚焦“人工智能+城市建设”应用落地，2026年AI智能体决赛举办  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "国产算力“卡脖子”之下，讯飞星火押注国产大模型的另一条路径 - 时代在线",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wSXo1MWN5cVU2UHBmemktWnRMS3NQdjZXLWdIb2JFd1ltLWRBX3ZQTHVSdzMzc2ZRejduaGRYcUw1SDFqUkZWaGU5OA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:59:16+00:00",
+      "summary": "国产算力“卡脖子”之下，讯飞星火押注国产大模型的另一条路径  时代在线",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "ChatGPT有哪些功能？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FSzZVbUdLaGhJM0R4S0RBR1l2NXlERnhQb3BNTFJpS2lHNHVGeVhkRklEc1hrT0pwVjdzb3JwR1FINzBfS3FVV3pTMmNGTVlPbE1hQnNRVTV6eWxjTUppQl8tOUM2ZUgyLWpneW5KTWJUSEE0M29wbURvV2oyTWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:50:23+00:00",
+      "summary": "ChatGPT有哪些功能？  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Keep 26半年报：自研大模型能力落地，AI应用提速 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWR6YmV4WDBoLUk3UEF3bGo4S0pMYTc2UnlqRGprSXVrRDl4TVN4TmRfcEw4Q3RLVmtPalVjajJrYnpaWjlzU3lOMWQzbUhrQ0E4RFNDeFcyMTlaaU1NSUxnN0xfSGphLS1ReVVHTnNNaGxUR3JzT01GYW1LajFrSW9SVjRlanBm?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:47:21+00:00",
+      "summary": "Keep 26半年报：自研大模型能力落地，AI应用提速  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "大模型就像发电厂，可能不是最赚钱的方式 #李开复 #刘润进化者 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1NGRWtBNktjYnpxUWtNRTlMMGh2cl9GNXVFbEphUWtvM1R3WHVTTTFpVnE1ODBsMjhkUHRXWnN3eDBRU0I4TWM3OVJNaWUybVVadERFd1NlZzhNNTFVbU92WjIyaHNGNGJaMkxNMUdLcDBhaWE2bTVnMjNodmpnLTNxLU83SVJBOUE3UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:26:40+00:00",
+      "summary": "大模型就像发电厂，可能不是最赚钱的方式 #李开复 #刘润进化者  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI CEO奥尔特曼：担心人工智能会被少数强势主体掌控 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VcUZ1YTVNYWhWNTZwZTF5NEcybmctUXYxcDVYNWpsM1J0RGdfaUVNQkNEX3RIcTZGMERNUkNOVkR5YjRWOFNicGtuY1hKcldjM2hYQUJjSFQ2Y1VEMTJhaVhRZ0pzS3A5Z3ZwVi15bFpzdTJGcVp2RDdyV0U1Rjg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:24:33+00:00",
+      "summary": "OpenAI CEO奥尔特曼：担心人工智能会被少数强势主体掌控  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "目前人工智能机器人ChatGPT的最大瓶颈在哪里？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiY2JESjZacWNselllbzU4bXI4UE9UbnhheTYwWllWYWJhel9nRXNWbnBUcktyX0VqWlJ6Q19mdjBsdjc2blZrbFg1VkcxNzZpZWFEOEhVOG5HVTJDdV9HVUdFb2d6TzdhZVFnMU8zTWNndjh5VDBJOHZoeHdLdVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:09:53+00:00",
+      "summary": "目前人工智能机器人ChatGPT的最大瓶颈在哪里？  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "刚刚，Claude两个新模型曝光 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVZUM2xwd1Yxak00WVZWWEkxdzNHM3dFWnFrUDY0UWtxR3pYSlpQUzNXbGRhUkJYVlRrUERzYm1IUVJxV3FPTmJ2X3NSOWc3UVNISnRGUm5YbFZwNGM1ZWY2N05SZjNpRFFrQVFmeUJQejE2LVZDZ2ZRSjFDRGdrRHpPUGFzakF6?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:06:07+00:00",
+      "summary": "刚刚，Claude两个新模型曝光  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "部分美国人工智能公司下调大模型使用价格 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2pPOVpaZXVyOVI3VWJ4b0ltUUVKX0tQS0dtVlBaSFB0V1NzSjUwME1FeFVCbW1Rd0RtNlg2UmZuenlraTJmYTVBM3pMM05OLVU4TENVT1pLZ3UwZTBBQkRkSGplYlBsSnhoTXJFZndGRC1SUGp6TmZ5QjhnWHZxcVZqM0NoY0JXS3I1bw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:04:32+00:00",
+      "summary": "部分美国人工智能公司下调大模型使用价格  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "英伟达砸60亿美元押注「开放权重AI模型」！迎战中国AI巨头，或成OpenAI、Anthropic竞争对手 - 集微网",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE92SHNsTDNxQ19UZlc5U2g1OVZoc2k5V0paalJKMEJlN05UZF9OMWlwMXJnTEFYeG9SV3dHOFFrLU1mU3M?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:00:32+00:00",
+      "summary": "英伟达砸60亿美元押注「开放权重AI模型」！迎战中国AI巨头，或成OpenAI、Anthropic竞争对手  集微网",
+      "categories": [
+        "anthropic",
+        "open_source"
+      ]
+    },
+    {
+      "title": "智能体时代的新基础设施｜爱分析报告 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zX0NrcHo2LVgxQ2ZiU1l2OHBibld5ZjZJNV96N25fdWlRaVo1M1RuZXkxcXkxdGM4WWtUQmNZZDZoWFp1MUxZSVFjREY3MldSa3FZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T00:00:00+00:00",
+      "summary": "智能体时代的新基础设施｜爱分析报告  电子工程专辑",
+      "categories": [
         "tools_apps"
       ]
     },
@@ -64,51 +143,11 @@
       ]
     },
     {
-      "title": "2026绿色算力（人工智能）大会召开|国家能源局|内蒙古自治区|呼和浩特市|产业|数据_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTNTbzk0aFY3VHFWblNJU09VM0pPRi1heUd6ZDVLaUIzQmMyNVhnVEc0ZDVzNkNEeWtvYm8yVXJ6RVFZdlBVOUlfX2UyOWVCQkZMVjRiaWl1bXNuMWZ3Q2Jha2dsQTB1TVRBa012Nms5LVVyN1IyZ3d6aXhzcWlvNTd2MDNrdTVHVGpfLXdIM0NaWU9XcUQtUUlENUhIYnFN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T22:10:20+00:00",
-      "summary": "2026绿色算力（人工智能）大会召开|国家能源局|内蒙古自治区|呼和浩特市|产业|数据_手机新浪网  新浪财经",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "中国正在打造“全栈AI国家” 真正可怕的不是机器狼 - 文学城",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEUFVzelIyQ1JyNWZ1eDVDTi1Udy15RU9VYmNDN1I2X25IWkFEaDN4bGVnNmxZZXVoTUVWUG16SWRvYUZvazdVbHE0cHhEdkVwOHdoSnltTjZvbTBTMnpQMlY2R2pOTzBs?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T22:07:03+00:00",
-      "summary": "中国正在打造“全栈AI国家” 真正可怕的不是机器狼  文学城",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "刚刚，Claude两个新模型曝光 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KdVJfWVFIUHRLbENFbk1VQlJLb1ZPbUJTc3B0ZzVNUEdMeDY2cTBPX2EwVUd5SF84Q1drVTgzclBFVlVGaVZxdQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T22:01:35+00:00",
-      "summary": "刚刚，Claude两个新模型曝光  凤凰网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "人形机器人ChatGPT时刻还需要多久才能到来？ - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0weEF6ZkdkSHBOTzdUSUNraDR1WDlPSnpjMkM2Y2ZyenNvd0RWdkRadUVjMS13RzVsWUMxUHhINTVMZTdxTGkxOHJpWTBxdHc3TzRoaWQ5aGhIaENxanR2aTdGUWFxekJtakhVbi16NHlHYzlXUTByTnVLTHZyNGc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-23T20:28:13+00:00",
       "summary": "人形机器人ChatGPT时刻还需要多久才能到来？  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "DeepSeek、OpenAI日前相继下调大模型API价格 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tYk5meDNBRGFYMmdtMnp6MmVFSkEyRXFHTnltTlpfSkZVNTJZbWFDRy1BWG5EMjFoaXMzVXJOWTRveVcyXy1NS1hsMGR1MW9BR1JfaTdjQU5JUTRvajBnbXVKQ1pBemRq?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T19:32:44+00:00",
-      "summary": "DeepSeek、OpenAI日前相继下调大模型API价格  三易生活",
       "categories": [
         "openai"
       ]
@@ -151,6 +190,17 @@
       "summary": "武汉AI智能体创新大赛收官，现场项目颁奖路演、签约对接同步上演，看见人工智能产业的无限潜力  搜狐网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "开源编码智能体借MCP接入工作流，测试修复缩短至58秒 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOZXFxNEQxal9GOGFkeC1jRnd6R3NfSXhMUGR1WGNidjFlTnQ4c2J3OU5pejBGZVRWSWJRdjJfaGkyR0hmS0tvVC0yQ1JrWmd3aWUzc1dOWldPUEhmVlFRZVpn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T13:27:33+00:00",
+      "summary": "开源编码智能体借MCP接入工作流，测试修复缩短至58秒  手机网易网",
+      "categories": [
+        "tools_apps",
+        "open_source"
       ]
     },
     {
@@ -224,6 +274,16 @@
       ]
     },
     {
+      "title": "ChatGPT可监控电脑功能实测体验：解锁AI实时桌面操作新玩法 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44cTMtbW11Z3VPNVFFSkVMSUlxVERKZUh5Rkg3YndzVDVMZjBsWnlLcFZkMnhHcmVQckxVY3hZcVo2eHBXQk9BQm5jaXBudmRjMTJV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T09:04:00+00:00",
+      "summary": "ChatGPT可监控电脑功能实测体验：解锁AI实时桌面操作新玩法  36 Kr",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
       "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩 - InfoQ-CN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX2Jhb3kwdE1RbnRLQnV1QTI5TWtaZlN3NFY5MVo0M1U4NGE3dXhXUW9ONWF6SlgyaU1Ca2VBRFk2Y1BUS0dwa1UyOW41WDZwcGthdENXcmZCNGZTaXc?oc=5",
       "source": "Google News - AI(中文)",
@@ -266,50 +326,6 @@
       ]
     },
     {
-      "title": "人形机器人的“ChatGPT时刻”何时来 芯片技术待突破 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yZUpBVWZ0U3UyN0lEMU1iaFlVbjlEUlFzMzlzUnBaaHNXdTBBbVlGTEgyZ2pxczB1VkI5NUtabGJUeU9yWkJ4NDNXNDZwT2dmTFc2SnhCMzJwSkZ4OVA5dF9rTkNyNy1PNGU1WkdOaHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T06:25:02+00:00",
-      "summary": "人形机器人的“ChatGPT时刻”何时来 芯片技术待突破  中华网",
-      "categories": [
-        "openai",
-        "breakthrough",
-        "chips"
-      ]
-    },
-    {
-      "title": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型：抢中国AI市场 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWF9TMzlfQmdmOF9zdVl5dFFxdGJRRDNjSWZ1RUVpaVRJcVd4SDlXTkhaelp0MmFPOEZDVWZMbkxjbVNWS1NpVXZOWUhmamlhY0dyRER3LWp6RDgtQl9vb2RVajNkSHVvQ0JfQ3phaGZDLWM2Mmp6OHRRRVNJN1dtUXp2bmVUWjlHX1NSVlNEd3cwQWVEVi1UMjhTcm8xa2s5RWtkOW1VS3I5cmY4aEVKVmo4ZjlOTXpfMWQ2dEJNMHJ2bmJhdEpoVXZleU1FSUQyRjFLS2t3a3VmQlRJalVnNE1XUnMyNEdGZUxpX2VxTVBCTWdJUEh5VDl5OE1vQmNSZU9tc1p3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T06:00:00+00:00",
-      "summary": "70亿美元买100多名人才 NVIDIA要搞全球最强开源模型：抢中国AI市场  手机新浪网",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQU1SSGM1ZVlxMmxtSnBJRFZScTRPUzlQSXJTY19GeFJ0Vmo1dzJld3VSWDllVGZpLUN2NUZWaDdHY0p5clZGb3h2X3RuWWxVVVB6OVdFQmNGRXJLeHNldlNqVmZRbkJoVG95WHVDaUlhZmhXMDd2MFgtWnhCRDZ4Z3BlaXQ4WkpR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T05:30:00+00:00",
-      "summary": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的  搜狐网",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "神秘「牛来」大模型刷屏，限时免费 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFZMdlBCcklXbEtYNVhWUEUtYTBsUDJqUlR5VGxwSUNMOXIzeUtJTGNuQWZPNTFFenJtZGFjdkRhRTNXRE5YeGNrUkJ0NkhmSkZLenY2c21MczZvZEZ1R19VNDNxV0FVTWdYRmROQ1pHSktqa2lmbjgtWlRRZXNMd0RuOWp6eE5F?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T05:15:05+00:00",
-      "summary": "神秘「牛来」大模型刷屏，限时免费  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQU1BOaXlPMEN0Z2Uyb3hIM2UybUhUTUJGdnlYWWJaV1RLUkxnYzlRUzQyMlZvWFJyOGFNZVowTS1jS0Iwcm5NeTl3Z1paMjdQOEV3dlJWMV9aSXo3RnF4VWFGVW0zeTdpNFNIXzVQZGhKWk56RThLUlR5M3k0d1htQlB5LS1PaU42UWpvZEZrWHdsM3VpZnFKVXE1YVkzaVU4aTNUdUwyNzBWSEpNWlJxT2Y3LWxjVldNdktmcnJYbzVjTmotemFtWDk4SVF4UXVibXZqMnl5ejk3R0NSaC02OFZHMU4wMXZZaWhwcGh2ZWpNT2gwNjhLUzM2cHY0M0N1c1QxN193?oc=5",
       "source": "Google News - AI(中文)",
@@ -317,16 +333,6 @@
       "summary": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容  手机新浪网",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "福建三大人工智能行业行动同场发布 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyQjNuRDk1RTN5Wm9DSGhDSWFxY2hCMjJ4NE44ZC15YlVuZnUwUS05aXlFRGdtZUlxck5vbUNNMzE2VF9yOGxVMnpWMlc0SkdrN1JNWkdmNm9UcWNWLWRfVnlmNHFDUjB1aDRhSzZTV0J5MWhhelNwemtVYXZTZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T02:26:33+00:00",
-      "summary": "福建三大人工智能行业行动同场发布  手机新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -361,16 +367,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "对AI大模型竞争下半场的思考近期，随着各大公司前沿模型的密集发布，全球大模型产业竞争格局正也在发生微妙的变化。过去，市场对AI企业的关注点几乎都集中... - 雪球",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HeEZIQXhQbUhicjR3OFJWUmF2TDZFZ1NQOUZLVFFXZG5pcC12VEZLTGhjNUw3UnVtelpJcDhiUUR6WGhOWVpiWVhKWGZ1RGpH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T10:18:00+00:00",
-      "summary": "对AI大模型竞争下半场的思考近期，随着各大公司前沿模型的密集发布，全球大模型产业竞争格局正也在发生微妙的变化。过去，市场对AI企业的关注点几乎都集中...  雪球",
-      "categories": [
-        "other"
       ]
     }
   ]
