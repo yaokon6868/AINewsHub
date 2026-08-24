@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-08-24T11:55:24.702958+00:00",
+  "updated_at": "2026-08-24T12:56:45.199667+00:00",
   "items": [
+    {
+      "title": "孩子只听几千万个词就能学会语言，大模型为什么做不到？ - 麻省理工科技评论",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80cWVXOF9HdFdnSFBkeExqQUNiWW5nT3dlQWlJSlZaaURUN2c3OGlURUlvblU0M3otbFVDWUJBRUJaOERLSkZxTXNpZlpIVHA3emNXdFRMaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:38:01+00:00",
+      "summary": "孩子只听几千万个词就能学会语言，大模型为什么做不到？  麻省理工科技评论",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "芯报丨阿里视频大模型Wan3.0正式上线 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NUnVKTGxQQk9NalM2NTl6alpOWDZnM0xRNlR2amR2c2Zfd291YmhtdWV5NmVXbHU1WEhFbVBvU25mVWozZTBrajcwRnNPR09qRHZN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:30:00+00:00",
+      "summary": "芯报丨阿里视频大模型Wan3.0正式上线  电子工程专辑",
+      "categories": [
+        "other_big",
+        "image_video"
+      ]
+    },
+    {
+      "title": "阿里视频大模型Wan3.0上线，单段30秒PPT也能变视频 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmWUQ0Rnd3QXZlVjVxVmlvaVZ5Qm9VUERrd0w1bUx5eUFYSS1SVS1sdk5QNHJ2WEM3ZmFfeGpqTXppbXJMYmZNV3hiNUI1SHJjX0NZRWgzTEZubjVzT1Z6RkV2M0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:22:00+00:00",
+      "summary": "阿里视频大模型Wan3.0上线，单段30秒PPT也能变视频  新京报",
+      "categories": [
+        "other_big",
+        "image_video"
+      ]
+    },
+    {
+      "title": "“牛来”找“爹”！干掉DeepSeek的大模型是智谱、小米还是谷歌？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnRRdjRERW1qOTFILVRuWW5RUGJuM28xd3dRUTBFenR6and6WE5JNXFmRGVRcnBZUXR5MDhkRkQwM1B5UjIwVUI4YUVzTUMtY3VXbW91anBCZ2VyNHVMdHgzOTFhTk9JWTlmQWdEOTdUT1FYdHg3NV9DdjlTV1ktc0RlU01zdWJt?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:17:46+00:00",
+      "summary": "“牛来”找“爹”！干掉DeepSeek的大模型是智谱、小米还是谷歌？  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "建筑环境将成为AI智能体首个真正落地应用的领域 - 千家网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QndqeW14WVN4NzkzNmhaRFlxMlJaZV9SckFkSFJmekpiRGp2OXdyWnpSTjhIQ1VKQUVRWDcxbm5Jdm43akI0RUxoelY5SmRNdUVSZjBOOW5VQjhNOG5jTA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:08:39+00:00",
+      "summary": "建筑环境将成为AI智能体首个真正落地应用的领域  千家网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude文本水印引争议： 自己写的， 也可能被标成AI？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelNTQ0k5QzA0aGNNX3ZyTlNGb3hfV3lsLXE5M1dsbkh5cjd1NVVJSjZWaTQ1Zks3ODFzcG51TjFPZjluZ2hZdXVHazctbGpYNzF1MXVNS2ZSS0UwN2hTZ0w2alVNNzEzMnNCeW5tVVQxVlBRZXR0X3BDRThRU3U0ZWROMEpmZ05F?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:06:41+00:00",
+      "summary": "Claude文本水印引争议： 自己写的， 也可能被标成AI？  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "有头有脸的大模型公司，集体搞起“匿名公测” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtmUmFocV9TUlBTRGlpUnVmdFM1eDBWMVlGOGd3WXdHRXpBVmtIRFVPb0ZFaHo4a05kTHdRMzhROW5OZ0s5ZnFsTkZ1MHUxMHhLelFlcGZnTjNmX0h3RUpGYUxFWTFQTTVBZUlrSlNLMXBuZXpQSFhEV0loMVlUdUtRMUJ0WmxU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T12:05:58+00:00",
+      "summary": "有头有脸的大模型公司，集体搞起“匿名公测”  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONmpZZ1R4Rm9MSlhYTzNjWm10dy0xaTV0a0pYRkZ4Qlp4bEhxajhUUUxRQWplRUFxbmtmNFZwYTlWVUhYcjJmMHBnbEFiMU54ZVJHRllPbEFtZ2MxT3Bhb1FJRmRfNVNNOW9GRUNGODJSUmY5bXBDd2dLQ016aWJWTGlGMk41dW5jWkgyY1dVa19rQ21MRUpNNFFBZzNjRnBzVHZvSDUxQ04xWHBZbmtlUWdCQWUyRDhSOXIyODBUV2ZXNjRnYkJLd09RT004V01uRmdseGRWSVFLb2JudmdiU1JmNllMaEtXYUlHR2tsUERKVTlQV0VrSUdobFZBUGdKcXQtcTN5U1c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T11:59:33+00:00",
+      "summary": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS  新浪财经",
+      "categories": [
+        "other_big",
+        "local_model",
+        "chips"
+      ]
+    },
+    {
+      "title": "小米三芯齐发：除了玄戒O3，还有大模型加速芯片和智驾芯片！ - 芯智讯",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12ZFZVX25GNFpXMHFxSmJOdndocEhXMzBjeWRoZjNUVUNiU2UtbVJHa05aeElWWk8xYlVSRG8yaXc1QV9W?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T11:55:40+00:00",
+      "summary": "小米三芯齐发：除了玄戒O3，还有大模型加速芯片和智驾芯片！  芯智讯",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
     {
       "title": "小米发布三款玄戒芯片 玄戒O3将在9月首发上市 - 新浪新闻_手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0t2ZVNmdlRHcWNSbFBzMWp0VGI2bnY0eWQwVVZUSmRqY2lyeXNhelVfV2hlckNoR2tOT0VEbEJ5S2wzVzVPeWFsRk9nVmNMdTRDUEtBRElETG95ZHd4bWxFWmczMTNTQ1FlM0Uxd2E3dGYtX0tOQXhZNDRENmhJM0swZ25JcmlXcFJiZE9ZZG5tcER1U09jS25QcUM?oc=5",
@@ -30,27 +126,6 @@
       "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪财经",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "中国版“AI for Teacher”飞象老师发布新版本，再次拓展教育AI能力边界 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tZjdEanRMOFQ1b1g1OExLempqV1RoUk1JV09GYy1vZzNfelhOakRnN1lhRzR5WG84UTNkY1ZnSUgyLWlHOWFtaUM2ZTRqWm0xc2RwLW53am5uS01ac0JDY3VoM3kyV1BLUERaSU1tbWFhTHF2dnZadk43SXoyQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:39:47+00:00",
-      "summary": "中国版“AI for Teacher”飞象老师发布新版本，再次拓展教育AI能力边界  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "小米发布玄戒D100智驾高算力AI芯片：2027年商用 - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zN2UyUnlxRGpDZ3EyUzNNdXhDMkFYc1ZVd0J4cnZRd1ctV0xpdUNZOXEyS3psRGpwSm9ZTkVaSUN4b0V4MlRvZjJvR2dNMDRfUzJSM1BWT2o3OVU5OWwtcUdBb0xjOVJ5b2c2MEg3U3hkQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T10:32:35+00:00",
-      "summary": "小米发布玄戒D100智驾高算力AI芯片：2027年商用  新浪新闻_手机新浪网",
-      "categories": [
-        "other_big",
-        "chips"
       ]
     },
     {
@@ -103,16 +178,6 @@
       "categories": [
         "other_big",
         "chips"
-      ]
-    },
-    {
-      "title": "有头有脸的大模型公司，集体搞起「匿名公测」 - 风闻",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QdlJYUGJKNElhSUFvOWhlRnp1RWJ1UkZhZTF3dmtJejl2eVRsLWhsQ0NzNExQTkRCNVRneG1HRnRIUDkzSE80LTFMQTFYSlh0cVItQnN4WVZzb0d3TS1Dd1N1aHVIekFCM055aXhqRHgxWV81?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T09:03:19+00:00",
-      "summary": "有头有脸的大模型公司，集体搞起「匿名公测」  风闻",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -207,16 +272,6 @@
       ]
     },
     {
-      "title": "港股大模型“双雄”持续走低 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTdSRGFsX0RrX2pINkRYQlhneTNlbTI2cFVON3hhR2QwMjdLWDlWVGlfOVlLbjJQUk04d01Wc1g5dGt0NWYzc2ZHdzdMU1Zhd2VlTFhkZFFJNTVaRks4VmVqWDQtT3hLcWxpaEN6QThpTmkyVmJBUWtFd1RFWDhuM0NSUGUwTV8w?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:25:00+00:00",
-      "summary": "港股大模型“双雄”持续走低  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "神秘“牛来”大模型上线即登顶 背后厂商至今未揭晓 - 手机网易网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kWE05WlZydlRPT0s3eHBBb2k5Q0N4Z3RwbEpQXzlMaVVjbTFDS3hZSGJUd3UzaE1CZnRBQnJ2dEd0eU40QUpBZWozeUREV2RBT1JKVkZ5NUxsSUJieFByZ0Nn?oc=5",
       "source": "Google News - AI(中文)",
@@ -261,24 +316,12 @@
     },
     {
       "title": "小米朱丹：玄戒O3专为大模型优化NPU架构 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54S0YwWW83cFlnVzV2MkpTQk0wZ1QzUlZKNW9rRFp3MWFwVXdJdWx3cjBreWlmOE01aTZDd2lJelZBbnNtRXpIS0V6bzJlaGFCQmhmU0lsUHJPRUltTERFaWxsSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42SXdLZGdkTG9jNkZfc1BDVU1rOG5CTlhGMmdHRVl5ZXZicjFvdjhsWnJEdTJCYktmY2NoUktRWnNVVmZSeFhJOWNLSXJHSU5YbElLUFo4SDBzbGZBVGkwYw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-24T06:45:35+00:00",
       "summary": "小米朱丹：玄戒O3专为大模型优化NPU架构  东方财富",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2VyUVEwaXpFNWtZTS1ITXJNdkMtR0doc0sycjlNRlhzUm9hUldjT2txWWE0aFR3NE9RXzkzVjVmRzEwTzZfdlNWanlOcjdGQktoZFZaSTkzckZZNGQ1bmJVQzZ5RldaV2lNZXJPLW05Qm9nYlBPdEF4OGtMYWMtNXd1a2t1dXlZclp6dA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T06:41:18+00:00",
-      "summary": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS  搜狐网",
-      "categories": [
-        "other_big",
-        "local_model",
-        "chips"
       ]
     },
     {
@@ -292,37 +335,6 @@
       ]
     },
     {
-      "title": "全球AI大模型每周Token调用榜 ：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM01mRmtMMlFiSTY1clZUN3VBX2Z5Ui1ISmVfVXZmMUd6b0twSjRTdTlfY0dMcWJ2UEJndG1lalo1bzJ0MXhsNzJuWjJvVGFJdHoxQmNzeVZ6MUk0QWdIZWtNdG16NW9Nalo0SlI1bFA1YUVkdHZoMEtmbDdZRU8yMThHZ1VwUUNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T06:11:17+00:00",
-      "summary": "全球AI大模型每周Token调用榜 ：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "阿里视频大模型Wan3.0上线，单段30秒，文档、ppt也能变视频_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRUVjRjZoZE5hZ3NpeGZpYklpdWoxQVhvNnlwaTVQNlo1QXN0M29CVG9OU1oycmlJeERaakZOaGQ2eGVmcnE3WDVsY2JoVVdad01VY0hvYXNRT1Nsc2hxWXV3eVdGV1hOX2x5a194cUp2aFIxZm42VkRJVGtTdkJKYVd4X3RJNWZiYWlndC1KNHpwYkJrNWlpWWp6Y1RwS254N3UwUzFmaFZVNm9oWDhrLVVkM0FWV05sNmQyMTN5akc0LU9zQlJqclpqRFF4aUppVDRTa1N3T0lYWDB3b3R0a3R6dVFCWUtmQmtjc0h0clFpZGl1RlM5anVDN1BmaFJwVTA5NXRKYWRnMVZKZk1YRFNwYkp4X1dU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T05:49:26+00:00",
-      "summary": "阿里视频大模型Wan3.0上线，单段30秒，文档、ppt也能变视频_手机新浪网  新浪财经",
-      "categories": [
-        "other_big",
-        "image_video"
-      ]
-    },
-    {
-      "title": "多家美国AI公司下调大模型使用价格 - 大河财立方",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZEdYOVVJYWlfTWx1M25QSHZTbEhRV1hDbERJOFJBWGdETWRzY2VqZG9pMEliRU5TcDloYlZvNzctVGE3V25YZTJXTkozb3dXdFZwTmp4b1JNUkZHeW0xcmZsWUNzWnZYOWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T05:34:24+00:00",
-      "summary": "多家美国AI公司下调大模型使用价格  大河财立方",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "从Google Assistant到Gemini：大模型正在重构智能家居的“智能” - 千家网",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xR3h2UDJFdlVVOFRkNW95MVlmek9tZl9MZjRqUzlTVDBlWTlpbGFMM2stbzVXNzFfdTlLM2JySmdNcURTeDgtWnBia3NTa3lQUUVlb3VndFZpbmpuNUhKZQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -330,16 +342,6 @@
       "summary": "从Google Assistant到Gemini：大模型正在重构智能家居的“智能”  千家网",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "深耕行业大模型应用，靠谱AI智能体定制开发服务商有哪些？ - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3UjV3WjJ6RG5OYnY0MW1yNmxhaXRLOUR4ZWpaZ2VDNF9XZ1hwT1FTRDNHRE5YN2l4VkN6cUQ0MFBmc3Atd2N5X3V3Vk92VTF0dVhqOHh3XzNFeW5hZmtGYW5R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:30:14+00:00",
-      "summary": "深耕行业大模型应用，靠谱AI智能体定制开发服务商有哪些？  手机网易网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
