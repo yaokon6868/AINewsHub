@@ -1,6 +1,47 @@
 {
-  "updated_at": "2026-08-24T02:48:29.919350+00:00",
+  "updated_at": "2026-08-24T03:56:16.002739+00:00",
   "items": [
+    {
+      "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹 - 飞象网",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMnV0Q21LTUstVjRVWHlXa2NLYk5nYktsUjFHbnY1TlBDbGRzd0tnZThzWU5wWFNkUXZwekNiUDJpSzlzVGdMYkhOWE9CNlUxSUkxZkxXYTVkOXg5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T03:53:04+00:00",
+      "summary": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹  飞象网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "2万亿大模型巨头，虚高了 - 投中",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2akluOVFOZGRPMjNKTVdBNDVwMDFsLWdTTFo4eVpQSzJPMVNhZmlRenNRSUlfdF9MYkxjdVJlZUdyYzUzbDR6OEthdEJWUEN6WXh1eHpwNWVnTl9GQ3E1U1RPRkFFSVZ5YTI1Sg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T03:07:03+00:00",
+      "summary": "2万亿大模型巨头，虚高了  投中",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "阿里视频大模型Wan3.0正式上线，单段30秒，文档、ppt也能变视频 - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96NFJ2N0h3NWFjSk1KRFF2bHQtNHFMSzVNM2FmeDBDUTFGYU1RcS0wdWVSN1NOeGRUa1oxbUFRbjUzNjVvNkcxRm1UWlhRQ0p1Ykpmb0ttaHJwbWlkTVE5YnVyM0tYcnFUUE43TnRBNA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T03:04:16+00:00",
+      "summary": "阿里视频大模型Wan3.0正式上线，单段30秒，文档、ppt也能变视频  金融界",
+      "categories": [
+        "other_big",
+        "image_video"
+      ]
+    },
+    {
+      "title": "刚刚，Claude两个新模型曝光！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVNjc2hNOUV1eGtiUmRCb09MbElkekhjWWZQNXdOQ3hNOFZHZ3g4cWFWMTY4Z1EtM1pDS2ZlQUs2TjdtejFMWG9VZ1NVUG1LckY3OEMtNjhRSldFclgyZHdISXdoM2ZvMGYxMUNnZ0NrY0dIUE5xTEpJRW5FYWhwbmo3ODhpaEct?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T02:54:26+00:00",
+      "summary": "刚刚，Claude两个新模型曝光！  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "【视频】智己汽车IM Claw智能体，一句话搞定复杂行程 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWUJydlRFY3p2SHd5cTI2eHUzdlJSX1B4aWxVbTFGejhRLXRIUXJFQ1Y4NE1HNVpwanduTVVER3ZaUVFnOU8tM3czb3drVmVCdHlvVkRIT09qR21QUU9FQ3hKUXJxb0lpRnV3?oc=5",
@@ -23,23 +64,23 @@
       ]
     },
     {
-      "title": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0V0UEF1NkU2Ny0yUUxScWg0a1J3bXI3c0VZQ3BIbUtXUk0yTDlEMnd1eEJmcTQ1SUJaTWtfaV9remM3UTJJRHlnVmFJa0ZkbnJBTHI0U0tyQU4xYVZsYUNoQUNTRFU4TDI3SFE4X01ZQUM3ajljYnRlV3lEUkhOQ01n?oc=5",
+      "title": "OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制！ - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wRy1mM0lfZUY0SlMxQ1BBTElMUDYybVA3c1NyRXlienRMeFJubUVEdVk0MDhkSkllby1ELWs3YkZQOEVIRnFDeQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:54:05+00:00",
-      "summary": "皮尤研究中心：ChatGPT 问世以来的新网页中，三分之一存在 AI 痕迹  新浪网",
+      "published": "2026-08-24T02:14:00+00:00",
+      "summary": "OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制！  财联社",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "ChatGPT是由哪家公司研发的？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTS1Ib24xNE5ZeFBSYnJYTlh3ckQ2ank3Sk1BZkhyOFJfM2lTUmUwbDJzQlUwMnl4em92VS1xTGlVdkFZN3FMNVlJakxyTGxTTG5pc1pzZXhaMnY4WTVqY2tQcW9aR19HSURpaVQ5OGNHdWlYb2Q0eWdkZzNRLU0?oc=5",
+      "title": "刷新OpenRouter历史纪录！神秘牛来大模型Ox Alpha火爆外网 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pd09SSW5WU01hckFnTHUtT1FRQjZrSVlkRnJlbjZqalVPc29GMkN1ZU82bDlCX2p2UmhpMkFqTnNpWUNWX0pFSFZVZWE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:51:49+00:00",
-      "summary": "ChatGPT是由哪家公司研发的？  手机新浪网",
+      "published": "2026-08-24T01:58:24+00:00",
+      "summary": "刷新OpenRouter历史纪录！神秘牛来大模型Ox Alpha火爆外网  凤凰网科技",
       "categories": [
-        "openai"
+        "other"
       ]
     },
     {
@@ -83,6 +124,16 @@
       ]
     },
     {
+      "title": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXZjY1J4UE9xZy1wVDN1c081eEFEU2I1VnJVcTJIU041alRyYVU2OWpFUV9iYU9PajAxZDhtWGxMcnA0Z3lWOVFxYTVmWGFnWE9mY0VjVVQ1R2NtOVZHZlV1SEpuV2p4WUtzOWZ1V2s0MzNWSk80NUdCekJnUmNVN05jQzN6N1NWTmpGeVVMdVJaSlc2cUpyZjNpT2pUZ3hrSzFGSGlqNk5MM1Blb3pXejVjMEFRWEw2ZG14Ymx3NVpUSHhWeWpEN1NvUWlUaGNCZnRwOGpXVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T01:24:15+00:00",
+      "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "行业巨头纷纷试水 智能体商业化进程提速 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNEtrSHg5ZUdoelVXM0JGM3dyQ0J2bzQxM3h5TFc2bDZOOHU3UWZQd2hfeFk0UW9NTHJBaEVQRUhUZGIzOVpLRHgwRFlpQU53MllhZFNGSlRVWVpyTFU1U3BaMi1kTXdZWk43MlNrOUhjTnRTM3FEaURIYUlvY0JyX2FPYlRUUkJfNzNBRVdUMUNUSUR3eGNpVWNKaXhkOXdRNTBPT3dILTQteE9aNVk3YXgzUUY4cFE4TEdocW1YTTdiRUhVU29EeVFldGZGOTAxZWRCODhNRU5veHJWMEZkTjNLaGh1aHBpcU45ZmRMN1JCYjhQNUdxNVJB?oc=5",
       "source": "Google News - AI(中文)",
@@ -108,26 +159,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-08-24T01:22:00+00:00",
       "summary": "艾瑞报告认证：唯一双维度标杆！东软添翼定义医疗大模型产业化新范式  icloudnews.net",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazRwTUs2emNVLVIwSld6VUxGamVLQVFvVHhsdThfWkd4Ym90QTh0T0NaLWNFYjZfWXlkUUJNMmlzSTVoRml5TXJ2QXRBaW1iNlZGTGRlTW0tU3NuOUw3R1FDcDNzVDZkREd3c3VDTmFsVzkxRXFjWHR4ZGRESzJyRlRwcTk1Q0thY2RiVzQ3WE5qczlCemJscEhtZER4cGJKWjZ2VzZsVE9xVlpHVEhSU1lTeDFybXVNV3otV2NLNDRyb0Z3Q3d3N2tnT3VHTnZZa2d6d3JlYkk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:20:10+00:00",
-      "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "多模态烹饪AI基座“CookingMuse厨启”的发布，标志着中国在具身智能与垂直产业深度融合上迈出了关键一步。它不只是“会炒菜的机器人”，而是一个能理解厨房复杂环境、具备持续学习能力、并能与人类协作的“数字厨师大脑”。在中国推动新质生产力、人工智能赋能实 - 潮新闻客户端",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5WTVLRGZSRHF6dE53MUluOHg5WjV6S3ZsTTdZTUdFNXhIM2VHU2lCQUlBRTZPZ3l5OGxVZXR6X29xaG50RmxBOWFyUnFIZGF0a1FLYjlqR3BleGItM05ONzk3bk16c0EwZGdvSzdRX3VVcS1DVUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:20:00+00:00",
-      "summary": "多模态烹饪AI基座“CookingMuse厨启”的发布，标志着中国在具身智能与垂直产业深度融合上迈出了关键一步。它不只是“会炒菜的机器人”，而是一个能理解厨房复杂环境、具备持续学习能力、并能与人类协作的“数字厨师大脑”。在中国推动新质生产力、人工智能赋能实  潮新闻客户端",
       "categories": [
         "other"
       ]
@@ -183,16 +214,6 @@
       ]
     },
     {
-      "title": "刚刚，Claude两个新模型曝光 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVZUM2xwd1Yxak00WVZWWEkxdzNHM3dFWnFrUDY0UWtxR3pYSlpQUzNXbGRhUkJYVlRrUERzYm1IUVJxV3FPTmJ2X3NSOWc3UVNISnRGUm5YbFZwNGM1ZWY2N05SZjNpRFFrQVFmeUJQejE2LVZDZ2ZRSjFDRGdrRHpPUGFzakF6?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T00:06:07+00:00",
-      "summary": "刚刚，Claude两个新模型曝光  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "部分美国人工智能公司下调大模型使用价格 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2pPOVpaZXVyOVI3VWJ4b0ltUUVKX0tQS0dtVlBaSFB0V1NzSjUwME1FeFVCbW1Rd0RtNlg2UmZuenlraTJmYTVBM3pMM05OLVU4TENVT1pLZ3UwZTBBQkRkSGplYlBsSnhoTXJFZndGRC1SUGp6TmZ5QjhnWHZxcVZqM0NoY0JXS3I1bw?oc=5",
       "source": "Google News - AI(中文)",
@@ -233,16 +254,6 @@
       ]
     },
     {
-      "title": "荣耀新品官宣：耳畔AI智能体，8月24日开售 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzJTMEkwZnFKSEo3ZTh6bTRBMXVJSWc5VUFfVWlDSi1PVjZDR2RJTmdTbjJTbzhINERnU29jWmhVODQ4V1NPQnZzYVJuQUFjX3pXUlNGZXNHQjhNV3Z0Ny1tY2hBNXIzQk9vZVlHang5TzhZaE9zZ3d4WnlEcDQ2a2d1RVRiNHNjcEEyWA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T16:18:01+00:00",
-      "summary": "荣耀新品官宣：耳畔AI智能体，8月24日开售  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "凯度发布幂境套系与AI智能体“小紫”，厨电竞争从参数转向体验 - 雷峰网",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtUFg5M1FVSldvQU01bkJ3Y1hxZndzc1M4anZBdm9YaF9wdXdZUTdROUpnVWh6WmtrQnFqMVprQ2RUeFdIM1ZvRGJ5eXk1SDY0REs5emVINU13UlVUSl90VUEwc00zT1ZkQ29tWEZNa0NROUk?oc=5",
       "source": "Google News - AI(中文)",
@@ -260,27 +271,6 @@
       "summary": "OpenAI 推出青少年版ChatGPT，多名儿童安全专家质疑安全机制透明度|IT之家|科技产品|家长|自动系统|系统_手机新浪网  新浪财经",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "武汉AI智能体创新大赛收官，现场项目颁奖路演、签约对接同步上演，看见人工智能产业的无限潜力 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ1dEU09iVHN0dHNXcTlSaFJxQVAwMG5NMnREV3FBYnhmM2hiM3BieS0yUURHeDdWeUltVjZ6RUtnVXROeU81TEJLVWJ0NXdtNTl5OER0YmM1S25rS3JQNXFndm9yYWRKU3hMX09wYXZzdkpjUlRkS0hOWnRfaERDZE5LNFBjMzBPY1JqRA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T14:11:34+00:00",
-      "summary": "武汉AI智能体创新大赛收官，现场项目颁奖路演、签约对接同步上演，看见人工智能产业的无限潜力  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "开源编码智能体借MCP接入工作流，测试修复缩短至58秒 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOZXFxNEQxal9GOGFkeC1jRnd6R3NfSXhMUGR1WGNidjFlTnQ4c2J3OU5pejBGZVRWSWJRdjJfaGkyR0hmS0tvVC0yQ1JrWmd3aWUzc1dOWldPUEhmVlFRZVpn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T13:27:33+00:00",
-      "summary": "开源编码智能体借MCP接入工作流，测试修复缩短至58秒  手机网易网",
-      "categories": [
-        "tools_apps",
-        "open_source"
       ]
     },
     {
@@ -314,13 +304,25 @@
       ]
     },
     {
-      "title": "ChatGPT可监控电脑功能实测体验：解锁AI实时桌面操作新玩法 - 36 Kr",
+      "title": "ChatGPT可监控电脑功能实测体验：解锁AI实时桌面操作新玩法 - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44cTMtbW11Z3VPNVFFSkVMSUlxVERKZUh5Rkg3YndzVDVMZjBsWnlLcFZkMnhHcmVQckxVY3hZcVo2eHBXQk9BQm5jaXBudmRjMTJV?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-23T09:04:00+00:00",
-      "summary": "ChatGPT可监控电脑功能实测体验：解锁AI实时桌面操作新玩法  36 Kr",
+      "summary": "ChatGPT可监控电脑功能实测体验：解锁AI实时桌面操作新玩法  36Kr",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩 - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vX2Jhb3kwdE1RbnRLQnV1QTI5TWtaZlN3NFY5MVo0M1U4NGE3dXhXUW9ONWF6SlgyaU1Ca2VBRFk2Y1BUS0dwa1UyOW41WDZwcGthdENXcmZCNGZTaXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T09:03:53+00:00",
+      "summary": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩  InfoQ-CN",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "open_source"
       ]
     },
     {
