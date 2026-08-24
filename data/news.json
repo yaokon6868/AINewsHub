@@ -1,6 +1,133 @@
 {
-  "updated_at": "2026-08-24T05:39:59.605463+00:00",
+  "updated_at": "2026-08-24T07:03:25.461183+00:00",
   "items": [
+    {
+      "title": "小米发布大模型专用AI加速芯片玄戒O100 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmdFNPVHgwTTVPeHAwYUhHamVDRXB1UElCMV9KMjdlSDVSUmVoNENXZUlGT1RpejNLWmNpX1R2WlNhT2M1c2hIOVlnQUh0dWE3QUJBVkM5bEdCVTd2UExKXw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:51:24+00:00",
+      "summary": "小米发布大模型专用AI加速芯片玄戒O100  东方财富",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "再见，深夜值班！Anthropic自用秘籍曝光：出事直接@Claude，4分钟搞定 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lWE1uQ1pVell3aVlSVVdiMldYM3ZNYnBXdDNPdjQxQWZtYWx1RUV4aEE4TWNoQ1gyVTFkNmZmeEZnMG5VWVpLUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:50:00+00:00",
+      "summary": "再见，深夜值班！Anthropic自用秘籍曝光：出事直接@Claude，4分钟搞定  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "小米朱丹：玄戒O3专为大模型优化NPU架构 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54S0YwWW83cFlnVzV2MkpTQk0wZ1QzUlZKNW9rRFp3MWFwVXdJdWx3cjBreWlmOE01aTZDd2lJelZBbnNtRXpIS0V6bzJlaGFCQmhmU0lsUHJPRUltTERFaWxsSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:45:35+00:00",
+      "summary": "小米朱丹：玄戒O3专为大模型优化NPU架构  东方财富",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性 - article.9466.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QMEt2TjltZ1N2NDZLdjZaTzRoS2FLQ0JMYzZoR1lKeWQxTTRHMjFxTlFUX05KelRNWUZOc004SHFRLWViUVZQamVSY25hRFk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:45:00+00:00",
+      "summary": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性  article.9466.com",
+      "categories": [
+        "other_big",
+        "image_video"
+      ]
+    },
+    {
+      "title": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2VyUVEwaXpFNWtZTS1ITXJNdkMtR0doc0sycjlNRlhzUm9hUldjT2txWWE0aFR3NE9RXzkzVjVmRzEwTzZfdlNWanlOcjdGQktoZFZaSTkzckZZNGQ1bmJVQzZ5RldaV2lNZXJPLW05Qm9nYlBPdEF4OGtMYWMtNXd1a2t1dXlZclp6dA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:41:18+00:00",
+      "summary": "小米自研大模型专用AI加速芯片玄戒O100亮相：支持1.22TB/s超高带宽，端侧推理速度最高可达330TPS  搜狐网",
+      "categories": [
+        "other_big",
+        "local_model",
+        "chips"
+      ]
+    },
+    {
+      "title": "小米玄戒O100亮相：首款端侧大模型专用高带宽AI加速芯片 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUZhYzN0WGpUbC1VcU15TTVlbmtpOUx3ZHZiRTZhM2VFc0hGWEMzOGJ1QkJFX3FtZm1TbWFSUENfMmpxYWE4MXpQM2VXZldwR1NGeUZpd1dVajluVmo2dTFacEdQMVMxeFZMaUF0S093bEFON19KVG92bHhUTHhkeEZUaElyOUpu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:40:48+00:00",
+      "summary": "小米玄戒O100亮相：首款端侧大模型专用高带宽AI加速芯片  搜狐网",
+      "categories": [
+        "other_big",
+        "local_model",
+        "chips"
+      ]
+    },
+    {
+      "title": "从“影子AI”到大模型投毒，如何破解AI供应链攻击风险？ - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LM0V6dktZbENUMW9xdGxkQjZSYThNQ0pXdFhSQzZHOEpVM0hnRUZJWVg2d0VtRDZHSnRJNWRXcEM5RmVCUGVEX0xqaGRTRVIwcDVBaXpvVGpDczVQd0cwbS1n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:22:07+00:00",
+      "summary": "从“影子AI”到大模型投毒，如何破解AI供应链攻击风险？  手机网易网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "明途智能体首秀东盟AI峰会，Wesome AI出海开启全球化新征程 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmhMbHNjMDJyWDEtQnVIamR4VUxUTFNtdERKWlFYcFVuV09taE8wNFdSbUJTVC0ycURmVWtMUXd2R2dPdnowdHdyNHNSV0VZeXpvbzB2dzRMcklLbWpnVElvd0RpWXpiMVc5NjQ2UC1qeWpxVnBvVzlXcnl0dmgyU045WnFNa0Vu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:21:12+00:00",
+      "summary": "明途智能体首秀东盟AI峰会，Wesome AI出海开启全球化新征程  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "全球AI大模型每周Token调用榜 ：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM01mRmtMMlFiSTY1clZUN3VBX2Z5Ui1ISmVfVXZmMUd6b0twSjRTdTlfY0dMcWJ2UEJndG1lalo1bzJ0MXhsNzJuWjJvVGFJdHoxQmNzeVZ6MUk0QWdIZWtNdG16NW9Nalo0SlI1bFA1YUVkdHZoMEtmbDdZRU8yMThHZ1VwUUNw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T06:11:17+00:00",
+      "summary": "全球AI大模型每周Token调用榜 ：神秘“牛来”大模型上线四天冲至全球第二，DeepSeek-V4-Flash正式版连续三周第一  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "ClinFusion：视觉为核的医疗多模态大模型，与临床对齐的评测新范式 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaURCd2hUSnpmcUZieWhOaHBaVXRkQVpQeU9xdHllam5zX25oMUxYem1VLXpGT2NTRFd3ZWJhNEJVZ3dQUmoyZjk4RWhpUmNuclZ3bkdhUG9GVFY4SXJ3VC1FeEkxTFJRTkxtM1NoZjRGQzJPQkN5VnVscEFvZHZYOThFeVFscHJMRzh4Sw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T05:53:40+00:00",
+      "summary": "ClinFusion：视觉为核的医疗多模态大模型，与临床对齐的评测新范式  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "阿里视频大模型Wan3.0上线，单段30秒，文档、ppt也能变视频_手机新浪网 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRUVjRjZoZE5hZ3NpeGZpYklpdWoxQVhvNnlwaTVQNlo1QXN0M29CVG9OU1oycmlJeERaakZOaGQ2eGVmcnE3WDVsY2JoVVdad01VY0hvYXNRT1Nsc2hxWXV3eVdGV1hOX2x5a194cUp2aFIxZm42VkRJVGtTdkJKYVd4X3RJNWZiYWlndC1KNHpwYkJrNWlpWWp6Y1RwS254N3UwUzFmaFZVNm9oWDhrLVVkM0FWV05sNmQyMTN5akc0LU9zQlJqclpqRFF4aUppVDRTa1N3T0lYWDB3b3R0a3R6dVFCWUtmQmtjc0h0clFpZGl1RlM5anVDN1BmaFJwVTA5NXRKYWRnMVZKZk1YRFNwYkp4X1dU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T05:49:26+00:00",
+      "summary": "阿里视频大模型Wan3.0上线，单段30秒，文档、ppt也能变视频_手机新浪网  新浪网",
+      "categories": [
+        "other_big",
+        "image_video"
+      ]
+    },
+    {
+      "title": "多家美国AI公司下调大模型使用价格 - 大河财立方",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5ZEdYOVVJYWlfTWx1M25QSHZTbEhRV1hDbERJOFJBWGdETWRzY2VqZG9pMEliRU5TcDloYlZvNzctVGE3V25YZTJXTkozb3dXdFZwTmp4b1JNUkZHeW0xcmZsWUNzWnZYOWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T05:34:24+00:00",
+      "summary": "多家美国AI公司下调大模型使用价格  大河财立方",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "2万亿大模型巨头，虚高了 港美股资讯 - hstong.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBES3l6cDNLUUJzbTA3bkZZclc5VXNIbkt4YnBLQWxZSnBCckRXN0wweE9DYThULTB0Q0VDLXI0R1FIUmFLVHM3bGwxdEhLSk16dDJoTk5ubjRHaFhUOENqZ2JB?oc=5",
@@ -19,16 +146,6 @@
       "summary": "从全球AI格局到Agent产业化，APUS AI亮相清华五道口“学长讲堂”  中华网科技频道",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "智平方与康龙化成达成战略合作，类脑大模型拓展生命科学“生产力”边界 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51blNRNkZTRW9LY05MQW15SkJ0RzRXNmNqNUREa1c2UnFHajlncS1rT1huelRxdUhVeEJKWGlwc3VXVGQ5ZzZRcjhBRklfOUVf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T05:14:22+00:00",
-      "summary": "智平方与康龙化成达成战略合作，类脑大模型拓展生命科学“生产力”边界  凤凰网财经",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -62,24 +179,13 @@
       ]
     },
     {
-      "title": "阿里视频大模型Wan3.0正式上线，单段30秒，文档、ppt也能变视频 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFBCaF92NDBod1dlRXZyYXByQ0dRTUItMkFfeTZNamNxc1ppUkxtQVJCT0tsaGpxR3pIRm5lc2ZlVHVYQUZHYmZFRHNVUkcwRnJidTBsMElZV2Njd295Y19fSnpzVXZUd1dYcDM2eHhreGJBQWhELTVZRV9qRUw5SGpWaVpEV195Y296Xw?oc=5",
+      "title": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVVUbzhILUNJbFZ4ZUZFd01obUlNZ2ZLbXFrcFhfanZzU0Q4UFpiZUlraDMtU2dVTnF2UWJ3Uk5vaTJRejZmby14eE9aaWFjWXVzaUFoSG4tMEt3R1RSZVRpdnp6eXlLWkZ5OWY0dWJOSUlsSHp1akZJZGtBSld2RTN2WDJoYVRRM0VONkpBTDBvMjk2NUNoM3NOUmp5NGNPT2FNUGRqTDYyTktOVnVmU3RYUUV6ZTFIeWQ3V2F4V1ZINDQ3b2ozdy1MUXlNbmYxQ0ZyOWp1NA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T04:22:03+00:00",
-      "summary": "阿里视频大模型Wan3.0正式上线，单段30秒，文档、ppt也能变视频  搜狐网",
+      "published": "2026-08-24T04:29:35+00:00",
+      "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪网",
       "categories": [
-        "other_big",
-        "image_video"
-      ]
-    },
-    {
-      "title": "神秘“牛来”大模型冲上榜一！厂商身份指向智谱、小米或谷歌 网友：股市给答案了，直接拉爆 #牛来 #大模型 #人工智能 #股市 #你怎么看 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGdkenV0WS1GbXE4MnNWbGNQb0tVUl83bGp4eUtqbkVpRjB2UDlQNmVVaEdSQkswM3ZSQXhYMUM0bHZMZVBCWTBnQU5QMGkwTXRWTXhQbnJraVlqc29wOWtkT2twUHRENlRJdUdpeURpcDFYN2VodUtqVk5zMEEtZDIyV0luS1FMZFZCaA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T04:13:05+00:00",
-      "summary": "神秘“牛来”大模型冲上榜一！厂商身份指向智谱、小米或谷歌 网友：股市给答案了，直接拉爆 #牛来 #大模型 #人工智能 #股市 #你怎么看  搜狐网",
-      "categories": [
-        "google"
+        "tools_apps"
       ]
     },
     {
@@ -94,6 +200,17 @@
       ]
     },
     {
+      "title": "阿里视频生成大模型Wan3.0正式上线 首月限时7折优惠 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnBJRVJhTjVhZnk4VWU1eVFZV1Z4empLV3dqZzhnRDkxQVNCNGlYdzN3RTlrV1FSbEZ4MnZmcHBBU0pybzhSZjBoelZtVXlHbWxHREhXTGcxVmRLY2dvM3ppWVA1N3RuQkx0NDBjaWxRUHU4R0QzMTZCXzRzUUtsMF9sckpKSkNCNGVINg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T04:09:00+00:00",
+      "summary": "阿里视频生成大模型Wan3.0正式上线 首月限时7折优惠  搜狐网",
+      "categories": [
+        "other_big",
+        "image_video"
+      ]
+    },
+    {
       "title": "日媒发布全球AI大模型实力调查报告：Kimi K3第六 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFpzUjBYZmJnOFU2eXBoMVRjUWw4Rzdtd2lxTW1YbkJ5V0JhSlJ0Z2dxR2hjTkJiRWpRVm1JSGxlaGxQbjBnYWVKaXRudmIxTXR1UXhUZVpoNWQ5c0xlVWJkal9xMEdpTU44aF9pVTZJbHNaT0F3bndMTXZvcjAtVXlCWFZJcHZa?oc=5",
       "source": "Google News - AI(中文)",
@@ -104,14 +221,13 @@
       ]
     },
     {
-      "title": "阿里视频大模型Wan3.0正式上线- 快讯 - 亿邦动力网",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PUHowa3cxeVhrU2pGemY1TENXcjJwYjZRZC1DMkx1RXl0S211bjNRTHRvSHFqNXBRZ01nU1o5WW1xU0JPSmhfZE8zTlI0b0ZaSkgzdlJvMmk?oc=5",
+      "title": "智平方与康龙化成达成战略合作，类脑大模型拓展生命科学\"生产力\"边界 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBITkxrbjVXaWt3MVNraThqTzhtLXB0bHJ4UW8wQWJxakZ6bzN3SDFBOUFCSHBoenBrcHNyS2VyOGxJZ200UHVJWWZlUlc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T04:01:12+00:00",
-      "summary": "阿里视频大模型Wan3.0正式上线- 快讯  亿邦动力网",
+      "published": "2026-08-24T03:57:45+00:00",
+      "summary": "智平方与康龙化成达成战略合作，类脑大模型拓展生命科学\"生产力\"边界  极客公园",
       "categories": [
-        "other_big",
-        "image_video"
+        "other"
       ]
     },
     {
@@ -155,6 +271,16 @@
       ]
     },
     {
+      "title": "从Google Assistant到Gemini：大模型正在重构智能家居的“智能” - 千家网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xR3h2UDJFdlVVOFRkNW95MVlmek9tZl9MZjRqUzlTVDBlWTlpbGFMM2stbzVXNzFfdTlLM2JySmdNcURTeDgtWnBia3NTa3lQUUVlb3VndFZpbmpuNUhKZQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T02:46:23+00:00",
+      "summary": "从Google Assistant到Gemini：大模型正在重构智能家居的“智能”  千家网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
       "title": "【视频】智己汽车IM Claw智能体，一句话搞定复杂行程 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWUJydlRFY3p2SHd5cTI2eHUzdlJSX1B4aWxVbTFGejhRLXRIUXJFQ1Y4NE1HNVpwanduTVVER3ZaUVFnOU8tM3czb3drVmVCdHlvVkRIT09qR21QUU9FQ3hKUXJxb0lpRnV3?oc=5",
       "source": "Google News - AI(中文)",
@@ -176,63 +302,13 @@
       ]
     },
     {
-      "title": "OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制！ - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wRy1mM0lfZUY0SlMxQ1BBTElMUDYybVA3c1NyRXlienRMeFJubUVEdVk0MDhkSkllby1ELWs3YkZQOEVIRnFDeQ?oc=5",
+      "title": "chatgpt|学狗叫|吓退坏人_新浪新闻 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaa3VZcmpDbl85MjQyMmZicG1PcnFZQ2N0OFl5QnA1cHlxa1ZpMFdKU0MtV2Nka21VVUJUSVpqdklmM2d2RnhBeU1wcWlKLURBTjV6ZTlYS3FaU1VfaG4yaGNtQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T02:14:00+00:00",
-      "summary": "OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制！  财联社",
+      "published": "2026-08-24T02:18:00+00:00",
+      "summary": "chatgpt|学狗叫|吓退坏人_新浪新闻  新浪网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "AI“追新”风气悄悄结束 Anthropic顶尖模型在企业市场遇冷 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lckRTVDVFVkVjYWV0STU4dkV6UjJPRmQxYjBNTkY4bTk0Rk9DSHlCNFdMczhIV0tVTENwTWVpbzNDWkJyOGEzNA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T02:14:00+00:00",
-      "summary": "AI“追新”风气悄悄结束 Anthropic顶尖模型在企业市场遇冷  财联社",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体 - 华尔街日报中文网",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02aUstdEJ5UFNBVWlnbXJwTzgtTll5cEhRMkZ5MlNEc1R6ODJpckxWRzB2UW1rNDBjLURqdzRfbDNtRThCa3lQLUZrUjdWODlRaE01cmtEQmlINzd0c0RzOXNRVm0wRkozZ0VEbEtHcnEwQnRnNFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T02:08:00+00:00",
-      "summary": "初创公司创始人恨不得24小时工作，以跟上自家AI智能体  华尔街日报中文网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "刷新OpenRouter历史纪录！神秘牛来大模型Ox Alpha火爆外网 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pd09SSW5WU01hckFnTHUtT1FRQjZrSVlkRnJlbjZqalVPc29GMkN1ZU82bDlCX2p2UmhpMkFqTnNpWUNWX0pFSFZVZWE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:58:24+00:00",
-      "summary": "刷新OpenRouter历史纪录！神秘牛来大模型Ox Alpha火爆外网  凤凰网科技",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "大晓机器人王晓刚：具身智能“ChatGPT时刻”的前提是数据和模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmlBOE52b2tOUzRhb1RCSi1YUk5ZMlNaVjJGMzB5cm5aTUhsTWtaS2g0VjJZUnhxMTE3eEE4bTFseTk0OTJpMFZTQmlnZ09MeUxPamFFbUlPNnVwdVBfV3J4Ym56cmZKdnMyT3RSamI0enJBajQtbmNGR185WFBoVzYtUnNETWdEbVIyMQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:40:00+00:00",
-      "summary": "大晓机器人王晓刚：具身智能“ChatGPT时刻”的前提是数据和模型  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "兼顾数据安全与业务适配，企业专属AI智能体开发服务商推荐 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlTlBaOC1KNUlGd0VBU2pkUVZSZEh3bjlDMVQ1UThfMUUxSzdHZUJ0U3JTOFNvN1NNUlZOZzJQeXJhb1FsMmV0ZVRCWThwOVdiM3dRakV1cDU2NnhrN011ampB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:30:53+00:00",
-      "summary": "兼顾数据安全与业务适配，企业专属AI智能体开发服务商推荐  手机网易网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -246,56 +322,6 @@
       ]
     },
     {
-      "title": "面向集团企业场景：专业企业级AI智能体定制开发服务商盘点 - 手机网易网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YWTFsc3pKaW1teDBHcTI5empMbE5SYzdfRWlrUXpJdmREb1ROWXlXWWdIb3FLVDBFWnMtMTNQaVV1b2lzLTVERzlITVpiX0I5Z1UtQlJpSlhoMGI1dWVWMDNB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:29:53+00:00",
-      "summary": "面向集团企业场景：专业企业级AI智能体定制开发服务商盘点  手机网易网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZXZjY1J4UE9xZy1wVDN1c081eEFEU2I1VnJVcTJIU041alRyYVU2OWpFUV9iYU9PajAxZDhtWGxMcnA0Z3lWOVFxYTVmWGFnWE9mY0VjVVQ1R2NtOVZHZlV1SEpuV2p4WUtzOWZ1V2s0MzNWSk80NUdCekJnUmNVN05jQzN6N1NWTmpGeVVMdVJaSlc2cUpyZjNpT2pUZ3hrSzFGSGlqNk5MM1Blb3pXejVjMEFRWEw2ZG14Ymx3NVpUSHhWeWpEN1NvUWlUaGNCZnRwOGpXVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:24:15+00:00",
-      "summary": "AI在河南丨在智能体大潮中找寻平安力量|AI大模型|河南理工大学|软件学院|河南省|新能源车_手机新浪网  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "行业巨头纷纷试水 智能体商业化进程提速 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNEtrSHg5ZUdoelVXM0JGM3dyQ0J2bzQxM3h5TFc2bDZOOHU3UWZQd2hfeFk0UW9NTHJBaEVQRUhUZGIzOVpLRHgwRFlpQU53MllhZFNGSlRVWVpyTFU1U3BaMi1kTXdZWk43MlNrOUhjTnRTM3FEaURIYUlvY0JyX2FPYlRUUkJfNzNBRVdUMUNUSUR3eGNpVWNKaXhkOXdRNTBPT3dILTQteE9aNVk3YXgzUUY4cFE4TEdocW1YTTdiRUhVU29EeVFldGZGOTAxZWRCODhNRU5veHJWMEZkTjNLaGh1aHBpcU45ZmRMN1JCYjhQNUdxNVJB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:24:01+00:00",
-      "summary": "行业巨头纷纷试水 智能体商业化进程提速  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "用AI写论文？Claude宣布：将向文本注入“水印” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQak1EUVA0Uk0wd21QVjJMRzJRcmZBMVhkS1V0b01sbExHTDBSbGdleWNQQUJJaVQzY1pGRm9xdE9mSGpkNHhmbzR2SWx5czNQbEdjYUlCdW9ZSTVXNTdTX1dubmNXMm1ZUVRwQkFFaUduQ2h3ZlUxd2pjd2dzcFhpVElnRi1FaGVKRjltWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:23:18+00:00",
-      "summary": "用AI写论文？Claude宣布：将向文本注入“水印”  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "艾瑞报告认证：唯一双维度标杆！东软添翼定义医疗大模型产业化新范式 - icloudnews.net",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLWgxb1I3UFRCbG95YjZZLWtLY2ZFSkVhTkMyYk01aEJZMWlKdmY5YThhN2VvRXQtbUxHbnNrbzdtd1l5VnVjdmdsV0RGQzlQcGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T01:22:00+00:00",
-      "summary": "艾瑞报告认证：唯一双维度标杆！东软添翼定义医疗大模型产业化新范式  icloudnews.net",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "Keep发布2026年中期财报：自研大模型Keepace.ai加速商业化 ｜#AI资讯# #Keep# #大模型商业化# - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXFrcjJabDJxeENQMnhRemtxT2RwOThmdXFOd0JrSmF2ZFkxZmVCNlY5VzdaYS1JVGJObUszR3BlVGVvODdfdXBlbHBNRnI2TFVpME95Y1hBY1YyN0VwZmNvSUFwOVZhaWRma1FnbVd3bUVjZnprZXNzYzBYQloyYUhlRDZ2c0dPLXJzQQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -303,6 +329,16 @@
       "summary": "Keep发布2026年中期财报：自研大模型Keepace.ai加速商业化 ｜#AI资讯# #Keep# #大模型商业化#  搜狐网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "烧钱堆大模型走到了拐点？2万亿估值遭遇“性价比”狙击_科技_全球资讯 - bihainews.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PX21xSlpuWVdCczF5ZUEzaEZoYWpzWVl1Q25VSUs3STZDTE9remtwdEx3WHNIVEpTYUNiNGF6Z3ZkR1Atbld4VUI5SFU4UUIzNkdHTlJMaWN3MzF5QV9ZS0V2ZnVubXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T14:47:00+00:00",
+      "summary": "烧钱堆大模型走到了拐点？2万亿估值遭遇“性价比”狙击_科技_全球资讯  bihainews.com",
+      "categories": [
+        "breakthrough"
       ]
     },
     {
@@ -333,40 +369,6 @@
       "summary": "湖北首款公证行业AI智能体发布，单案文书处理进入“分钟级”  湖北日报传媒集团",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "黑鲸之后，OpenAI开放Harness，争夺“Agent运行时” - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JVDRYamd3ZG5jOVpIZFdBanY1WTRmWmJva1l6czhXMGMxNWdmQzE1WGxJX3pIZmo1cXowT1JBSFJXWnQ2ZlJRdjRRdGh0QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T09:46:00+00:00",
-      "summary": "黑鲸之后，OpenAI开放Harness，争夺“Agent运行时”  36 Kr",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "小参数AI智能体Faraday，科研复现超越GPT-5.5与Claude Opus 4.8 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMnAzbURqc2d4czVFQWFvQjRvUV9KcTVZal9CQzhhSzdnWW5Ia2w4WmpnSDN1Wm5hUURpenVTdEFJSmN6RDNmN2lfYmhyRXFWRTFoMHpwY21kUXJFbU1jX1ZEeEh4cUt1djJUbTN4VFNfQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-23T00:27:56+00:00",
-      "summary": "小参数AI智能体Faraday，科研复现超越GPT-5.5与Claude Opus 4.8  新浪网",
-      "categories": [
-        "anthropic",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "视频丨部分美国人工智能公司下调大模型使用价格|GPT-5.6 Sol|Gemini 3|OpenAI|谷歌|Gemini_手机新浪网 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PVDJFRHgwbVVPTnB6OWhJY1RzTVRManRYTjFndkpVZWxhNDU0U2xQSUU0QmtXZTFPR0tVX1ZRUE5vU3NWLVMxUkNZaWgtV3RWWGhJSTQtbFdPOXhIejY0N2p2VVlWTzlYWm1yN3BJcTBIWmlPblRuWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-22T22:41:15+00:00",
-      "summary": "视频丨部分美国人工智能公司下调大模型使用价格|GPT-5.6 Sol|Gemini 3|OpenAI|谷歌|Gemini_手机新浪网  新浪网",
-      "categories": [
-        "openai",
-        "image_video"
       ]
     }
   ]
