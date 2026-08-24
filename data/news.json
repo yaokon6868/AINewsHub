@@ -1,12 +1,33 @@
 {
-  "updated_at": "2026-08-24T14:45:53.082775+00:00",
+  "updated_at": "2026-08-24T15:41:21.302988+00:00",
   "items": [
     {
-      "title": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过 - 时代财经",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdmQyRU9UVzZOZUVFeUNpX2tZczVQRjFIc3ZNa0NnUENIMGwwZXVtMXNGNG16d2xzakROQ29ZTUhKOUs4WC1MZk53bmVRbWhCOXdQUFZTLThXOUlHWDlXUTc2TDJmaXdyV19hNXNtcmxyTUFuN2RsalEzOWs2em0wR3kyUUNSaDUxRzZ0YjcyLVg?oc=5",
+      "title": "“火眼金睛”的芯片、AI大模型应用都来了！创客中国湖北大赛解锁产业硬实力 - 湖北省经济和信息化厅",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KSGdQRGhWTkhMWXNwR2xFTTllLXVrZzBGb19TenRhMGdpbFJsMkttUDMwRXI3MjB6NmpJWjVSaWhDTVlEamE5aVpZWThiUGxWc002ejBxS1dVTWdDblR0OWVSTnpTZGVzWDQ3aXE2QU1fZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T14:37:00+00:00",
-      "summary": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过  时代财经",
+      "published": "2026-08-24T15:00:00+00:00",
+      "summary": "“火眼金睛”的芯片、AI大模型应用都来了！创客中国湖北大赛解锁产业硬实力  湖北省经济和信息化厅",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52V2d3X05FRUlEWnFhZ3ZURnc2N2Vad19ZQWlyRm4zX3RGRjVPZW8wRW1sR0ZkcUpLcWtmMnc0RmtFV3F6YVliSU9ZOUd4UGVkYmNJMHg4TFk2RzlkNWpEeUlSTUZGNHdXZF90bFVLcVpEWTA0eVRzYWl2d0R3blE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T14:55:33+00:00",
+      "summary": "对话大晓机器人王晓刚：具身智能的“ChatGPT时刻”不会凭空到来，需要数据和模型“两道关”一起过  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT有哪些功能？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XYkNwY3RJb0FvQkM2MkR6cmdmVU9rMlRIUEFXME9RMTk3T0dmY0l2ODdhaHY0Y0c2d2JkeEZQMjJxWUpaU21lLTdiaUlMcWVWWDlqcGlfN0dOS0thT2Jydm9JRW1WYVB6RkFxeWNpUmFlUWJaY3I4TlE4TVA4Rms?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T14:52:44+00:00",
+      "summary": "ChatGPT有哪些功能？  手机新浪网",
       "categories": [
         "openai"
       ]
@@ -30,26 +51,6 @@
       "categories": [
         "other_big",
         "chips"
-      ]
-    },
-    {
-      "title": "汤森路透发布自研大模型Thomson，基于阿里Qwen3.5-397B - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tMnJ2a3dqZHRZdW5VSnJCV3JONlR5a3NTWW1BUzRIeWhfbWVWQzRiNmVDUWl4TjQyekZFcl9MZFNQUVpmV0F6TVo2WV9aWGFrRk54TTh3aDA4Y0dLRWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T14:03:03+00:00",
-      "summary": "汤森路透发布自研大模型Thomson，基于阿里Qwen3.5-397B  DoNews",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "中国版“AI for Teacher”飞象老师发布新版本，再次拓展教育AI能力边界 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0NuOVZ1YkhSdHBqUmlsV2hQRkZMZWlnZFRTa0E5NTM4VzFKWXd4OEU2OTF2NkVWZE5KenhTSG9RT1VyZWtOaDQxaXdFbVF2MUl0TmpqY201anBNa0xBOFlBVWtlNVNIQjRRa21kbFl4OS1LZWVyMVYwZElsaERwWkRIVndhN1F6aldIX2RR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T13:48:17+00:00",
-      "summary": "中国版“AI for Teacher”飞象老师发布新版本，再次拓展教育AI能力边界  手机新浪网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -124,17 +125,6 @@
       "categories": [
         "other_big",
         "local_model",
-        "chips"
-      ]
-    },
-    {
-      "title": "小米三芯齐发：除了玄戒O3，还有大模型加速芯片和智驾芯片！ - 芯智讯",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE12ZFZVX25GNFpXMHFxSmJOdndocEhXMzBjeWRoZjNUVUNiU2UtbVJHa05aeElWWk8xYlVSRG8yaXc1QV9W?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T11:55:40+00:00",
-      "summary": "小米三芯齐发：除了玄戒O3，还有大模型加速芯片和智驾芯片！  芯智讯",
-      "categories": [
-        "other_big",
         "chips"
       ]
     },
@@ -272,16 +262,6 @@
       ]
     },
     {
-      "title": "原小艺大模型技术负责人唐都钰离职筹备创业 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWxfOVhIU1l2dUpKOENjaHZTUEgyTkg3TTUwdGw4RDlVTU9kSXVlaTdLdHpMSDBRTDNCbjFJc0RndDdERzZnckJlVmN5eHhWSWludjdLZm1wOUp2TDdJTHlIZU5GQk5Sc1FRaXp5bl85d1N5WmN3NUpDWXdCejBaWFNGd1IxTzQz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T08:49:29+00:00",
-      "summary": "原小艺大模型技术负责人唐都钰离职筹备创业  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "中国再次主办APEC能源部长会议，五项“中国方案”将集中发布 - 新京报",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ldzRWY1psb1RyZjlXMlBfQTVIU0JNZW9SSXlKN3E4OFNJSVNwWUNiQ3AxTm1IZzJEYVh4SGN2Y25MWHFXZ2NEZGQtTTNRTkh0UzRIeXRUX3FSWFM1NjFfX2xoWVY?oc=5",
       "source": "Google News - AI(中文)",
@@ -312,16 +292,6 @@
       ]
     },
     {
-      "title": "菲尔兹奖得主都栽了！Claude终结78年悬案，或成最重要AI数学成果 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanlBSUVJb3lnZDlIVzRpc2JaazdmOEZHSWVhMVpzdEw5RENSYjdvUVFkXzF2R0NDOFRoREZLVWltRjRwbUMtRlh6dWhEWXZDYkNHbExTVHZQNWE0N0VhSHBqOWQ4T21XUGVfcWhHekdDLTRqUzI0WTgxZ2JWY2lMc1ZYbDhJZW50?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-24T08:10:00+00:00",
-      "summary": "菲尔兹奖得主都栽了！Claude终结78年悬案，或成最重要AI数学成果  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "大模型上车之后 一辆“会办事”的智能车，背后究竟研发了什么？ - 手机网易网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzMmVzOTI2ZmZrRXpCcEpwZGJWcTZTNS1kN0RTTEdaYXczZlRnZktqWjlaWnlVcjdmN2YzNVJvRGhZYWo2YUx3YUJuQ3B1OHdESi1KeFhHSDNXQVlhRUlNMGpB?oc=5",
       "source": "Google News - AI(中文)",
@@ -332,12 +302,34 @@
       ]
     },
     {
-      "title": "多项算力成果在2026绿色算力（人工智能）大会上发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVRpeTJ3UnNtOS1NNHVjenI2UExwaWtuRFFDYXd0a0pCNTZsNXQ2alNJTGNiS1ltMjZFUFpZeWRpRWpJLTJGQWN4Q3NyWjZpNWF5VG1Ta2ZsLWYtdTZVYWNhZUxWdXhFb1ZncEVrZFRMRi1Ib09Wc3JWa2NpU0V0RWd5eGJnQ1hPT1Bmbg?oc=5",
+      "title": "港股大模型概念股持续下挫 智谱盘中跌超11% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05TTVPOUFKY3VXZER4YUJYdVNCQmFZUDF4WTlUSUFVRlFWV0M4Rlk2VDRlaWk5MF85alBTeVVsUi14QjZsVDZON1BVRzJGZFZZb1RKbmZqZVZTcGoxcUZkeg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-24T07:34:04+00:00",
-      "summary": "多项算力成果在2026绿色算力（人工智能）大会上发布  搜狐网",
+      "published": "2026-08-24T07:31:10+00:00",
+      "summary": "港股大模型概念股持续下挫 智谱盘中跌超11%  东方财富",
       "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEczdzckV0ZkJxa0FhZHZFbkVLS3k1ZjV5cUVXSjVKWk9TVVRfNjQyZjBJdHhTdG5EZ3JXdWtGMTF4MGNCM2JFSHJybUM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T07:14:25+00:00",
+      "summary": "DeepSeek 上线多模态，我用它做了《牛来》小游戏｜AI 上新  极客公园",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "小米玄戒O100 AI芯片亮相：端侧大模型提速10倍！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGdPSHNBMnJueUowTHYxYll6b3VVTDVSel9nU1dNWWFFM3BWVV9tNkthRk93a0xrVUl5X1h2ZTRaQ0FsMFdVRzlySU5tMUtIcG9CZ1dkS2VCSmd0YThLR1A4M3M0a1FPNmxVVC1CcDVETUM3QXVDbGEzR09rWFlld2VkYWkyVWtC?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-24T07:03:03+00:00",
+      "summary": "小米玄戒O100 AI芯片亮相：端侧大模型提速10倍！  搜狐网",
+      "categories": [
+        "other_big",
+        "local_model",
         "chips"
       ]
     },
@@ -370,6 +362,16 @@
       "summary": "OpenAI 推出青少年版ChatGPT，多名儿童安全专家质疑安全机制透明度|IT之家|科技产品|家长|自动系统|系统_手机新浪网  新浪财经",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "湖北首款公证行业AI智能体发布，单案文书处理进入“分钟级” - 湖北日报传媒集团",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40RkMweTlLTlpoWE43SE0yWGVLTHZCY184Zi0zMVVEWHRDOXRIZzBWWWt6OWFCOUk4Z0cyQnkwQThILW5lb0xuak82T1lHYjBadDNHdEx2cUo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-23T11:07:58+00:00",
+      "summary": "湖北首款公证行业AI智能体发布，单案文书处理进入“分钟级”  湖北日报传媒集团",
+      "categories": [
+        "tools_apps"
       ]
     }
   ]
