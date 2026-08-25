@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-08-25T17:33:33.941735+00:00",
+  "updated_at": "2026-08-25T18:42:02.444808+00:00",
   "items": [
+    {
+      "title": "中消协发布消费提示：使用人工智能服务需谨防误导 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXpQcXoxZE85OF92NTVxNGN4WmlhT2dqWndkZEc0RXZ1UE9wd3RoaTl4UThtWjJEakxYWXdpMXNVWG9reUJCUnJDejhpakNNRDlLLTM1eDIzdm40Ty04NVBkRm02eHo2Q3hkY25yeUZUVFVGWWd0RUFnQWtxZUxPQVV5WHZxMHdaZm1XTWw0VzdvUkxsX0hESw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-25T18:07:38+00:00",
+      "summary": "中消协发布消费提示：使用人工智能服务需谨防误导  finance.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "【视频】成都车展｜风云T7 灵犀智舱2.0×豆包大模型 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuY29MM3hRZjIwOWg5RXNuS1d5U2VnM0JTTUFsV1VlRWhMN3YyVFlMQ2txZ29RNEs3NzN1Tm1NNVhDcld3OW1Ebnl0SG1MMS00Ml9wcjZrdVR4YVU?oc=5",
@@ -13,20 +23,10 @@
     },
     {
       "title": "从传统控制、RL 到大模型：我眼中的具身智能不是骗局 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmRVSGR0NVVSRjEyVG5zT1E0U05IUWFvRURsR3h6U3VKb0lhQWFhZzVXaVZQWG9JeUpvZmJoT3FNVkZlanJVdEFsVkU1ME1HRWpqNTh6ZFRqb2xqc0RESUUxMDh1VENQckE4YTV2bkl4Z1FKOGlRbkFxV3FYUFJhOTFDeTVqN21wbjlZNg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBScWlIa29QZTNUemVHcTc1T25OYm96VEZDdW9fLWRBVnptTUJHeVdYSWh3ZmdSMlhva0Jxb0gzSTg3VzdRUkNVMlZMYXM3czRQR3RHUHp3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-25T17:19:24+00:00",
       "summary": "从传统控制、RL 到大模型：我眼中的具身智能不是骗局  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "中消协发布消费提示：使用人工智能服务需谨防误导！ - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2IzNFJoNHVld0xoOHU0NmRGMkhuQWRhZlhVYzUzSkNPRlZXVWxzZVZvSTBfay1DRjlVcXVkdWtGeE9laEd4WU9BU3NGV3ZubDBVb0hSNFNNc0RweXJyRFFMWDhMOGFPTWZJczVlUU02TXVZQmFWaFRZMkd0cDlTSHhIY29yWC1WWThXalBFUmVtZUxqT1hHUg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-25T17:03:34+00:00",
-      "summary": "中消协发布消费提示：使用人工智能服务需谨防误导！  finance.sina.com.cn",
       "categories": [
         "other"
       ]
@@ -147,6 +147,27 @@
       ]
     },
     {
+      "title": "Claude两个新模型实测流出，空间推理封神，算力直接榨干了- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBraVdSY2IxQlR4dy1yYUxhaXFYR1Z2ZUMtOTZJSWhZR1dOQ2FqdHVxdnZwOU95QWZKZi1nRHdzOFUwdHBwZk1EXzJSWm5aMU9rc0xCN3l3UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-25T12:18:09+00:00",
+      "summary": "Claude两个新模型实测流出，空间推理封神，算力直接榨干了- 产业链  光通信Pro",
+      "categories": [
+        "anthropic",
+        "chips"
+      ]
+    },
+    {
+      "title": "邬贺铨院士：智能体时代，互联网基础资源迈向高质量发展新征程 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ta09hUHJRcS12ZFc3c2FrWHFDalJtM2FwcXBjT205djZYcm1GRVd1T2pPWGdCeEYxRVZVS1JsZVhWWGpOWXBWREF4bGtXLW53enA4RWZ3MzRDVjMxXzdmcG9CWms?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-25T12:11:00+00:00",
+      "summary": "邬贺铨院士：智能体时代，互联网基础资源迈向高质量发展新征程  光明网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "财报速递｜叉车龙头转型工业具身大模型与叉车机器人 上半年智能物流新增订单近9亿元 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX044WTlKanpuWmg4VE1wRlZFSEx6U0U4OGRZNXlDcVJnR1hXakMwVXBjWWhrLXFnTklZNVYtQnRuZU10ZnBRb250R0YyU3dZdjJEVWFTWkJ3UV96RjBQZDd2SkpyZG1tdU15Q3p6SWxNZG54TUlTTjdMM3FYbXdIWWk1ZnhIZWNobHJRTA?oc=5",
       "source": "Google News - AI(中文)",
@@ -160,7 +181,7 @@
       "title": "看懂智能体AI：核心≠实力，产出才是关键 - 三易生活",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tS0gzNWxQNmhtTFhCU1V4aHJHYnNrRGswVGJVblRsSURJRzNLN2QtS1FYU1VWRnBHWnRUSVNyVWlOajNrTnRMSjVpTlpCTnA0akNjS1drSlk3OC1zNHcwcg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-25T11:46:03+00:00",
+      "published": "2026-08-25T11:45:34+00:00",
       "summary": "看懂智能体AI：核心≠实力，产出才是关键  三易生活",
       "categories": [
         "tools_apps"
@@ -174,17 +195,6 @@
       "summary": "河海大学团队研发大坝全域实时感算智能体  紫牛新闻",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude两个新模型实测流出，空间推理封神，算力直接榨干了 - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZDZIUHR5MnZlR0ZtMHlBMl9YbHlWajBMc3FvbHFjNkYtc0pjTmUwZmgzM0JoV053Z0czLUpKVERvd3E4TmhOMm85UlhVVHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-25T11:37:22+00:00",
-      "summary": "Claude两个新模型实测流出，空间推理封神，算力直接榨干了  36 Kr",
-      "categories": [
-        "anthropic",
-        "chips"
       ]
     },
     {
@@ -361,16 +371,6 @@
       "summary": "OpenAI推出ChatGPT Work 面向全白领群体开放AI代理  亿邦动力网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "国产智能体平台哪家好丨九科信息跻身2026深圳瞪羚企业，bit-Agent助力中国企业数智化升级 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QVWlWVUhtd0daNGpRMEtNejRiOG82MkFGbmE0aUJVdEEzRVJQa1dYaFRUVjQ0VzVCYXgwSWNPSVRFdEVFYklBMHBqQmY2T3RSUS1kYkZOaFA5bnFoWTdPQTJiRW5sSExFZzd4MDdpVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-25T01:44:35+00:00",
-      "summary": "国产智能体平台哪家好丨九科信息跻身2026深圳瞪羚企业，bit-Agent助力中国企业数智化升级  中华网",
-      "categories": [
-        "tools_apps"
       ]
     }
   ]
