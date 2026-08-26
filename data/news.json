@@ -1,25 +1,45 @@
 {
-  "updated_at": "2026-08-26T18:15:43.037847+00:00",
+  "updated_at": "2026-08-26T20:37:54.604030+00:00",
   "items": [
     {
-      "title": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fLTJvNnBvV3hLeWN3dmxtUlVydlFFR0gzSVdJZEFlSHBIY0U0MXdXcmdobFVvTWFGV3lwY3FyY1FZeVAtLUZiRkZaOHFXcUVVMC1kc2p3LXJlY2lYRFlTd01JdWlubGxZSldWLXAxQ3ZDdEN2Znd5d3JKcHhXdEU?oc=5",
+      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3ppNmNwbXExQWNLSjE5MzdFUGRPMjlDcjJfdWUtOWg1RzY2TGxiUmhJWGlReG83N1hMM3loZHFvZGhKSjVFajVOMkFCMDQxU05UVXBRRmliamtVSHVzWE1oUjZnNUdzOC15QXV2dTd4RWJNdXE5c3BLZGFOOUFBZUZBQVhqWFJX?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T18:11:10+00:00",
-      "summary": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战  手机新浪网",
+      "published": "2026-08-26T20:18:30+00:00",
+      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  搜狐网",
       "categories": [
-        "openai",
-        "chips"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
-      "title": "谷歌发布Gemini 3.5 Transcribe。 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnWlF4LWVwNTh3WmxncGhqMmlzRGVOeUFPUHRyc1Q0WDlFcTQ5dU5fUGlVc2dsd2p0VmFCREk3SDJFYnladU0wOUZmTQ?oc=5",
+      "title": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控|AI Agent|Token|成本|风险|升级_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQLVEzdExoQVVrU3BERUFNUngyYTBSbEF6dGJMVEdZRzRvZ2h3SjVEd3AzWUl0UlcxSDlBUjlvdGtwRFRISkxvNHNUUWo3SHlwYnUyUGMtdV96SkZfRFlRSDVvVzJMNmZmelpZR1pnR3otcnJ6XzEzdk1DdTctMlVxYl9uTlNaZVl0RHhtdnRSdkZtVFIwX0tudUF3NHdNRVJ5N1RTdE1GMHdEVnFKcTI2OVJXRU9aRDd0VjA5R1lQUDVwZ25XNkc3UzZWYV9SNFFsRkRSRGp2NUxmZms5S2Y2dENOSjJTc1l3Snp1bE9VSjJjTkZ5RmhCWWxNSVRrOUlIY0RBSVVrQ0hRLUFMVVh6Snc1QQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T17:02:57+00:00",
-      "summary": "谷歌发布Gemini 3.5 Transcribe。  新浪财经",
+      "published": "2026-08-26T18:56:15+00:00",
+      "summary": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控|AI Agent|Token|成本|风险|升级_手机新浪网  新浪财经",
       "categories": [
-        "google"
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "人工智能开源大模型累计下载破百亿次 工信部详解三大着力点 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlp6U3Jjcmw0a0Z5SFFaQnM1MmxwVHZrRFBka1FqNGQ5Y0NGdnM0a0hHeTgxdEhUVm9YX05PTFB4LXI1TTRvVGFxZF9yUE8zMjBjbXp4TEZIZ1lmLThVbzNsQUNDVXlRTFlxcDNGQ1VsYm54YVZEQU9UQ1hmN1N1Y3h0V0piX1Bkd21fSkMxNHZzWVpudmJtMQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T18:37:00+00:00",
+      "summary": "人工智能开源大模型累计下载破百亿次 工信部详解三大着力点  新浪财经",
+      "categories": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "观点直击 | 大模型竞赛中场 MiniMax收入与亏损赛跑 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nYXJ6d2x2clFDZXNJTkZtMWhCeEhUcUlIWlBjMW1jZXhlVXJlQU45N1FvWVRlUlItWkcyal96b1l1SHFlMXpxN2ZneXVEdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T16:48:37+00:00",
+      "summary": "观点直击 | 大模型竞赛中场 MiniMax收入与亏损赛跑  观点网",
+      "categories": [
+        "other_big"
       ]
     },
     {
@@ -51,6 +71,16 @@
       "summary": "上海发布，事关集成电路、商业航天等  21财经",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "【视频】15万级轿车配三大AI大模型？捷达M6首款纯电轿车亮相成都车展 - 车家号",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM1FscERBeXVRemJHOVF0ZFFSTkw1RlBNNU92VUJTaXdQZWdUQnNiTnlCT2lSazljMFhXNVRCdlZaU3h6VnYtcXVxSDhNYjNBaUpmZF9ndk5qbXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T15:31:08+00:00",
+      "summary": "【视频】15万级轿车配三大AI大模型？捷达M6首款纯电轿车亮相成都车展  车家号",
+      "categories": [
+        "image_video"
       ]
     },
     {
@@ -104,17 +134,6 @@
       ]
     },
     {
-      "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3ppNmNwbXExQWNLSjE5MzdFUGRPMjlDcjJfdWUtOWg1RzY2TGxiUmhJWGlReG83N1hMM3loZHFvZGhKSjVFajVOMkFCMDQxU05UVXBRRmliamtVSHVzWE1oUjZnNUdzOC15QXV2dTd4RWJNdXE5c3BLZGFOOUFBZUZBQVhqWFJX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T14:18:30+00:00",
-      "summary": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "浙江：“神农大模型”赋能智慧农业新图景 - 中国农业大学新闻网",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YNHFCUU1heUdlaUVKejU2UlBfOVNaTFh3dGowU2ZhWG1UWkZrNTJjdHo5Qzgtblk5T1FRVkl0VEY2MWxTdWNtYnFkVVNZb0t1bmxaUmpLbXZ3NjVpZWdlMFZLYnNhTE5GeHFTM3pTdW1vRmZsdWl3?oc=5",
       "source": "Google News - AI(中文)",
@@ -122,17 +141,6 @@
       "summary": "浙江：“神农大模型”赋能智慧农业新图景  中国农业大学新闻网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "中国电信AITMark奖出炉：华为小艺拿下AI手机智能体综合评分第一 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDN6TWRoZ0RnMmpYcXlldFpMZV9ES1NFM1FZWE5zSTdGRDdLbTM3NTcybW91UzVBVEF2akRvYk96Nk5LX0EzV0J6STlsXzZlMDFlYm13bnltek55UzZWM25Zb3JvY2hiYk9iX0Q4OFhTeGc4cFMxN2w1c0VMcnNYa2R3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T13:41:53+00:00",
-      "summary": "中国电信AITMark奖出炉：华为小艺拿下AI手机智能体综合评分第一  新浪网",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     },
     {
@@ -148,23 +156,14 @@
       ]
     },
     {
-      "title": "2026国际智慧渔业和水产大会开幕 发布智慧渔业公开数据集和“范蠡大模型4.0” - 中国农业大学新闻网",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NeExtM1F0VldWaGZ3aGs2bHl3RUVDZGZPRjlTVmlpcGZ0OEx2T1JTNUlGZXc1NHRseEJzZjlxMXhrcWZuNnVlUzU2Vi05SjYtWTd6VUZwQnVyX0lrTVZmanNtNjA4MkZtZGEtbzhpNzNBQ2phcktR?oc=5",
+      "title": "Google ADK 上新：实时语音智能体，也能像软件一样自动测试了 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmdElfWnE0a0tJRTlBY1IxRllSZXl4REw0a1B5NW14amw4dFRNb2ZJbjQza2c1YVBuYzdpY0VGekhySW9UV2FZYzlpSWxrUFNwbGRielUxaVhGSjRmME1na0VKVl9ZOTRmaURLX04zRkI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T13:20:44+00:00",
-      "summary": "2026国际智慧渔业和水产大会开幕 发布智慧渔业公开数据集和“范蠡大模型4.0”  中国农业大学新闻网",
+      "published": "2026-08-26T13:22:21+00:00",
+      "summary": "Google ADK 上新：实时语音智能体，也能像软件一样自动测试了  53AI",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI 开始给自己造芯了，OpenAI 只用了九个月 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15RjU5bjA3eXpBTmVJeGp3TGFKSm5WUXM4VVVHdzljNVhTaDZUakxCSWdxUG5zdEJZQURjaXN1Y1FDSWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T13:12:30+00:00",
-      "summary": "AI 开始给自己造芯了，OpenAI 只用了九个月  爱范儿",
-      "categories": [
-        "openai"
+        "google",
+        "tools_apps"
       ]
     },
     {
@@ -220,25 +219,14 @@
       ]
     },
     {
-      "title": "专治Claude不说人话，哈佛博士怒做一键翻译神器，火速吸引百万网友围观_精彩视频为您呈现_36氪 - 36 Kr",
+      "title": "专治Claude不说人话，哈佛博士怒做一键翻译神器，火速吸引百万网友围观_精彩视频为您呈现_36氪 - 36kr.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWNHZ2h5WGtHT0cxR1VJcTNqMWpiQ0NkZGF2azlwWWRwTHBTZE53ZnhJbUdHMzZ2ZTB1MU5XcTRHZ3BKaWYyUWJGS2JDaVFjdnJCT2RR?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-26T11:24:52+00:00",
-      "summary": "专治Claude不说人话，哈佛博士怒做一键翻译神器，火速吸引百万网友围观_精彩视频为您呈现_36氪  36 Kr",
+      "summary": "专治Claude不说人话，哈佛博士怒做一键翻译神器，火速吸引百万网友围观_精彩视频为您呈现_36氪  36kr.com",
       "categories": [
         "anthropic",
         "image_video"
-      ]
-    },
-    {
-      "title": "OpenAI自研AI芯片媲美英伟达！相关概念股梳理 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1USTdiY3dlNzI0Zmt6b01xSFhHSllLMzFJbFctQmNaQkhkXzBKQ3RjN2U2UnhlaV9nOVQtbVZ2OHl6SHJEZ3hQT2ZyVHFYVURYdF9mNjh1NjV5aTFsMUpMbQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T10:47:52+00:00",
-      "summary": "OpenAI自研AI芯片媲美英伟达！相关概念股梳理  东方财富",
-      "categories": [
-        "openai",
-        "chips"
       ]
     },
     {
@@ -274,16 +262,6 @@
       ]
     },
     {
-      "title": "王兴兴：具身智能“ChatGPT时刻”最快两三年到来 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRC1yb2NieFVDNHZONXBvWG1WZmZ2WURPLWVoeTB4c2s0TWdTdmtPd25oNVY2RU10M1o5X1ducm1LZTdTalpubHJzQlZKYmRKSnlyN2pLSHZBbUxnWTlPZFE3ZzZKOENTVmFhTE16R08zRVdvNWFSTlFhX0JqOHV4X0t3dTVxS3ZH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T10:20:44+00:00",
-      "summary": "王兴兴：具身智能“ChatGPT时刻”最快两三年到来  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "Shopify CEO考虑禁用Claude Code，因其不兼容AGENTS.md - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEVZUktScndiWElTbWJ3ZlhpWnNBZFNEXzZnS1RfUWE2UE9LR3RDUWNnSlIxWWlqNjNzUUlWZnNTemdOSHh1ckxoRU1XUTBWVGdzbl9aM09zVTRGRWVGd3NfcWwxOEJsYkxPS3NySEppWTc1eG43Snc1ZU5OSEhhZzhuR1QyRnpX?oc=5",
       "source": "Google News - AI(中文)",
@@ -305,15 +283,33 @@
       ]
     },
     {
-      "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分” - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvVUtZSUlYTWl1SWtCTDk5eEluZmtxd0thekVZRUpLTHBWc3RoOXRPY051NUk0RGlCaHhueXRGcDAtV3pzdXF0VjFkU2ZDNzBqTXFyVTRQV0tkanFvc2c?oc=5",
+      "title": "智能体支付公约出台！谁来掌管AI的钱包- 零售 - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZmVHTEZrMjFtQjhPMDBvM3VEbkFiY0FZMXd6MjlNSS03djdGd09qdmI2aGg3QVRidlJpZFhCQWUtOG55bnAxRDdxQ2lfS0hKdnoyWG9B?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T10:05:38+00:00",
-      "summary": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”  InfoQ-CN",
+      "published": "2026-08-26T09:52:45+00:00",
+      "summary": "智能体支付公约出台！谁来掌管AI的钱包- 零售  亿邦动力网",
       "categories": [
-        "other_big",
-        "tools_apps",
-        "open_source"
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "F5推出下一代智能体就绪型AI网关，优化企业AI成本效益与治理 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3Y3RzFpNEt2a0djaUtRdi1LSnZaR0RGZjRjMXp4MXEzc3Fld2laRDVDRE1UZzd4bFZyM0d5MVZLZHM4Q0ZkcXpJT0I0MXY2T3hOdzBTNXlSQjZWWWhnaU5lMlVNbnBabk0xZW14LU5pNk5lR2lkcDcyaUZMRW1kOXZsaG1ONHpz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T09:30:00+00:00",
+      "summary": "F5推出下一代智能体就绪型AI网关，优化企业AI成本效益与治理  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "重新定义行业标准 WPS Comate百城AI智能体赋能计划在京启动 - 新华网客户端",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVVkTFJINHV5Q1VmUlR4OVlUOWdJbGc0bEZ5UFE5WEFTejFlU1duakdHVU5JSDNOWVRfNC0yZFhQSkVoaEVWQUloTElVczJmMVpEWEhWZDdaQjlCRlFtTFVWLWVHVmZKc252NHd0R1lVSEl4LUxYLWZ2N0lpT2ItY0pDVjRXS3cyYkNvTURwWU1OTy1RcHhMSEl3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T09:28:52+00:00",
+      "summary": "重新定义行业标准 WPS Comate百城AI智能体赋能计划在京启动  新华网客户端",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -360,21 +356,21 @@
       ]
     },
     {
-      "title": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBWGRBM05DR1ZPcEJHaDNGQTBBcTgzSF9VUkszQlZBZ2pGaV85TVB3OGxVTnBXNWVJcWstOFBQS2VlMEt3cEliaWlYd2M0azVvaFpXZDNMMGdvam1lQVJWVU1xTkRzVVVZMXVVV0pBb1FmaWNL?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T04:14:46+00:00",
-      "summary": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "Anthropic用Claude从头设计蛋白质，命中率22%-35%远超行业水平 - 虎嗅",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Qc2s0WnJMd3V4RHN5cjBOZ0g0ZFJIU2dRbUhKSThadU9qT0VzNUZLaGxQclFHM21yRmxXY29la1BPaldUZ0VnbEN4WE9ibDdJVGhuRw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-26T02:36:30+00:00",
       "summary": "Anthropic用Claude从头设计蛋白质，命中率22%-35%远超行业水平  虎嗅",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic升级Claude记忆系统跨功能信息无需重复录入- AI - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jUjZMVnYyaWwtMnNSYTM5R3daOXlzNU1uck1lbG00QnNYUUsxME1vcU5tQzBlaG8yQVgxb1EyWXI1WmhYN1dwNVExMzkydXNmZjdQY0ZR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T02:14:22+00:00",
+      "summary": "Anthropic升级Claude记忆系统跨功能信息无需重复录入- AI  亿邦动力网",
       "categories": [
         "anthropic"
       ]
