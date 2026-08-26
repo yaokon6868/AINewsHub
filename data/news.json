@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-26T12:57:18.186996+00:00",
+  "updated_at": "2026-08-26T13:58:51.517036+00:00",
   "items": [
+    {
+      "title": "中国电信AITMark奖出炉：华为小艺拿下AI手机智能体综合评分第一 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDN6TWRoZ0RnMmpYcXlldFpMZV9ES1NFM1FZWE5zSTdGRDdLbTM3NTcybW91UzVBVEF2akRvYk96Nk5LX0EzV0J6STlsXzZlMDFlYm13bnltek55UzZWM25Zb3JvY2hiYk9iX0Q4OFhTeGc4cFMxN2w1c0VMcnNYa2R3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T13:41:53+00:00",
+      "summary": "中国电信AITMark奖出炉：华为小艺拿下AI手机智能体综合评分第一  新浪网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300|ChatGPT|处理器|测试所|开发商|博通_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ObUtsbUtYOXFLZ29Ga2J5NTJNbEo0ZFJaakNjX1NjU1VrczFuUTAxaUJDZjJneGd2NnZvRGZneEVMYUVsby1DWTBpRGtoYUg5NlFaTjlhZExEc3V3b3I4anhrY2xJSDg3RHY2Y3VoY19LZVJvV0I1QQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T13:41:43+00:00",
+      "summary": "OpenAI称自研AI芯片测试表现超越英伟达GB300|ChatGPT|处理器|测试所|开发商|博通_手机新浪网  新浪财经",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源 - 紫牛新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Vk5sX2NlcEdzcW1veUloeTFaZUpCVGpEcl9RbHZEYS1ORjVqVURjZHNUZDgxSmVPeGxDZzNMYjFHMDdJNklTZkY2c1VyRmtjYjZYQ0xZMzVVQ3Z0bWVJdjV2a1A3NGF6?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T13:35:00+00:00",
+      "summary": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源  紫牛新闻",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "浙江：“神农大模型”赋能智慧农业新图景 - 中国农业大学新闻网",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YNHFCUU1heUdlaUVKejU2UlBfOVNaTFh3dGowU2ZhWG1UWkZrNTJjdHo5Qzgtblk5T1FRVkl0VEY2MWxTdWNtYnFkVVNZb0t1bmxaUmpLbXZ3NjVpZWdlMFZLYnNhTE5GeHFTM3pTdW1vRmZsdWl3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T13:31:03+00:00",
+      "summary": "浙江：“神农大模型”赋能智慧农业新图景  中国农业大学新闻网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "2026国际智慧渔业和水产大会开幕 发布智慧渔业公开数据集和“范蠡大模型4.0” - 中国农业大学新闻网",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NeExtM1F0VldWaGZ3aGs2bHl3RUVDZGZPRjlTVmlpcGZ0OEx2T1JTNUlGZXc1NHRseEJzZjlxMXhrcWZuNnVlUzU2Vi05SjYtWTd6VUZwQnVyX0lrTVZmanNtNjA4MkZtZGEtbzhpNzNBQ2phcktR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T13:20:44+00:00",
+      "summary": "2026国际智慧渔业和水产大会开幕 发布智慧渔业公开数据集和“范蠡大模型4.0”  中国农业大学新闻网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI公布首颗自研推理芯片成绩，下一代已进入制造阶段 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSWJYaVc4T0VLR2xab2ptdVl5QUpIbGVXM2VaMmJ3NHlLNDBKMjFaNEQxS0FQMko2TEZaN0Z4Q3NYZHkxMFRId05lTnlxZmJZUkg4ajZ6VWtlclYwMFRNU2NueWpBWHFjMHdHd2hmTXZHSEl3MjF2Z2RrWDNoQ0k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T12:58:30+00:00",
+      "summary": "OpenAI公布首颗自研推理芯片成绩，下一代已进入制造阶段  新浪网",
+      "categories": [
+        "openai",
+        "chips"
+      ]
+    },
     {
       "title": "浙江发布人工智能OPC创业地图 汇聚117家社区 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2EyMFJJLVN0aXRMeDlFdktJQ3hxdnNoNHdZWUFCTjRuUE81WDFETHFpbWZrSTF0TE1IRDdWWlRWRkJsbTdLbDhvWVdYZnFyYlNPRDh2WkdqNGFEUlhIeDd0Y0l2ZVNIT0M3b0FFTVE2dkc1M29VaWhpbG5QWHhVbkVB?oc=5",
@@ -12,13 +77,14 @@
       ]
     },
     {
-      "title": "AI 开始给自己造芯了，OpenAI 只用了九个月 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43cXRVcHBLenhYS1RhRS02azR6YkgwcmxqRWVqT2Z1ZmZTZ2tnRm9DeTJWTlNaLWlYMG1UT3dKODNUbGRCSUhJUlNFbVhhY3loblgzX0hDNXJQTHIzWjg3RXFXQ0xpY2toeVBCTDhtbjZEaW5WTFVSZEQ1S3RLVjg?oc=5",
+      "title": "彭博社消息：因梁文锋对网络流传的会议纪要不满，DeepSeek 已告知第二轮融资的意向投资方，将暂停本轮融资进程。 ​​​ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qUjFrcExKUXVnQzg2TEp0Q3VRNlhFN1hSYlNLT1FLYmlhejcxT05ZUFJXQXV1S2ZDTm9LUjhPNkN5U0VrOUdUY3RZbFhLMGUtTFpWYjl0emlMMlY3Zmtka2NTTQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T12:28:01+00:00",
-      "summary": "AI 开始给自己造芯了，OpenAI 只用了九个月  新浪网",
+      "published": "2026-08-26T12:29:00+00:00",
+      "summary": "彭博社消息：因梁文锋对网络流传的会议纪要不满，DeepSeek 已告知第二轮融资的意向投资方，将暂停本轮融资进程。 ​​​  新浪网",
       "categories": [
-        "openai"
+        "other_big",
+        "breakthrough"
       ]
     },
     {
@@ -29,6 +95,17 @@
       "summary": "警用智能体、虚拟解剖实验室 国新办记者会上，他们亮出“科技家底”  搜狐网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI自研AI芯片媲美英伟达！相关概念股梳理 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1USTdiY3dlNzI0Zmt6b01xSFhHSllLMzFJbFctQmNaQkhkXzBKQ3RjN2U2UnhlaV9nOVQtbVZ2OHl6SHJEZ3hQT2ZyVHFYVURYdF9mNjh1NjV5aTFsMUpMbQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T10:47:52+00:00",
+      "summary": "OpenAI自研AI芯片媲美英伟达！相关概念股梳理  东方财富",
+      "categories": [
+        "openai",
+        "chips"
       ]
     },
     {
@@ -115,17 +192,6 @@
       ]
     },
     {
-      "title": "华为终端旗下小艺在AI手机智能体评测中获得综合评分第一 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mUHRPUEo4MVEwdTlhSG1hUWVNUzZRcWZLY2s4LXAzQ3V2cGFSU3dnZG5FLUNsVm1zTnBwNElmZHg1OG1TZzBTbkxxVGYyaGowVTFlbHY5WlBXeUJ4d2hCQ2RFdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T09:52:00+00:00",
-      "summary": "华为终端旗下小艺在AI手机智能体评测中获得综合评分第一  新浪网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "爱康集团与华为云联合打造健康管理智能体，构建企业级健康管理解决方案 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ0phZW9iS2VnS3dQUUNTOExMNlk3Q1RvSV9OTmpPZ19IeTkzRG1vTmZLQ0cxdGpUZERmakQ5clN2ZkoyRUUyaG1GcFp1dXFIS3o2X2RKOG9BZWJ3RFdlWlE3SnQ5a3V1UTkteUUwTzd5dUxHalZPZDYwNUpuRjllaEhtTHU5V1p0NV9oNA?oc=5",
       "source": "Google News - AI(中文)",
@@ -178,17 +244,6 @@
       "categories": [
         "openai",
         "chips"
-      ]
-    },
-    {
-      "title": "全国首个！山东莱州启动教育智能体全域部署，全市6000多名中小学教师配备AI助教 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFNPVEFtR3BVcjVKeEYwTnBRNVU1UnRkRnJKSm5MQWNVU3FTdmtQMXpfYnhZUURjNDBnNHV0Nmp3ZVd3a0dEQlZCNFBqbVEtdVhydDU3Sk1IdEVuVHI0NE03UmR0Y24zZF93dUNvVWxWdGFjZWxLM3pOd2I5emVNZ3VoNlBBVkxXLXV4WQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T09:36:07+00:00",
-      "summary": "全国首个！山东莱州启动教育智能体全域部署，全市6000多名中小学教师配备AI助教  搜狐网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
       ]
     },
     {
@@ -252,23 +307,13 @@
       ]
     },
     {
-      "title": "BOE（京东方）蓝鲸显示大模型亮相央视《焦点访谈》 让AI真正走进制造核心环节 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPOU5MNEktZnc4UUFMYU1fZUltLUM3d1M4WXlLb1FxdFY3bTI5cVh5Nlc0TXNEc1Bfd1Bvak5JNjdJa0h0VWFpY2xRTlhGbmdTWHVsOXJzNW5pZFpTOXdFN1RFM2RHOF9XQm1Zc1JrYjZFVHZlTmdIbG82Skd3d2M?oc=5",
+      "title": "山东莱州启动教育智能体全域部署 全市6000多名教师人人配备WorkBuddy - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGJOeW9rd040TnI0Qy05WDdMN3ZOcF81MTJWa3h1TWFEZjcxRzNkNE5nMEt4X0lMMlhhOVpKOS1MalhUQWtsNjRuT0xzYmhOWlRqV0R5T3RJSjh2b0ZGZnF5WE40em1fTUNPZTBxLUpOeUUySlBtMW9kM3NCbGRjR1dmd1NpWFpN?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T08:48:40+00:00",
-      "summary": "BOE（京东方）蓝鲸显示大模型亮相央视《焦点访谈》 让AI真正走进制造核心环节  新浪网",
+      "published": "2026-08-26T08:48:49+00:00",
+      "summary": "山东莱州启动教育智能体全域部署 全市6000多名教师人人配备WorkBuddy  搜狐网",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "微风企×税问科技达成战略合作，共筑税务垂类AI大模型新生态 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81WUlaWjk4LTg3T2JIeVFRUVdueElzb1JlMEZlMGY3Y0lJVnNvcGNGeVNCeDVMOUl0ZGM3MEJqek1NWVlpXzl4U19Ra1FLSFU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T08:43:12+00:00",
-      "summary": "微风企×税问科技达成战略合作，共筑税务垂类AI大模型新生态  凤凰网",
-      "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -282,26 +327,6 @@
       ]
     },
     {
-      "title": "钛动科技用营销多智能体重构出海增长新范式 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHg4c0otWi1pMi1hbnVUZi11ckVvMUdfel9VZmM0c2pDaVQ4Qk9TYkEwVzFLNVliYlNCcFdEdk9pYktKaGthZnZJRGJHX2h6M3dpYzRLVHVKUDVva0dMbkNrTjlteXZYUU5kYmx6R3NQaFpoQmNWMG03X0kwU093UDhjd1JuZHg4dnR3UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T08:32:13+00:00",
-      "summary": "钛动科技用营销多智能体重构出海增长新范式  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "联想的C端智能体梦，还在路上 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlYwODJad0FEMi1NeTNreGUtb2xJUEZaZnd6M0YxRDFIWXdVY3VPaXdvNmJFNVFkaEdTemIzRVUtRUgzZUg4bFhpd29XWjhNSGRBRVZybGtfVlhLMGxnbkFsbi0wb1QzTWNUSVdSWjJzYlpKNFNJblJnWHdlYkQyWC04bjZjbUlSNXNVSA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T08:24:21+00:00",
-      "summary": "联想的C端智能体梦，还在路上  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Anthropic发布论文预警，智能体悄悄聊天就能传播病毒 - 第一财经",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHUEFoZnlrWVZwLVhSTGNIMFJBUm5paS1vTW1Sekh4N1JtS0w1TVh6ek0zY3ZaSnJJWVVNSF9rUGwxMDRpU2NNbjlTaUE4UFFLbUgw?oc=5",
       "source": "Google News - AI(中文)",
@@ -310,17 +335,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "网传DeepSeek营收达去年同期10倍，正全力推进第二轮融资 - 电脑之家",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rdW9ZT054U1ltMlI4TlNHTi1fdEpUQUlTUVp2VkV2UG53R3EzWXdTVDlrY3lZYkN5VGFOdmZrb21TYUNCNng0dHlValAySFcza1NPTQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T08:11:06+00:00",
-      "summary": "网传DeepSeek营收达去年同期10倍，正全力推进第二轮融资  电脑之家",
-      "categories": [
-        "other_big",
-        "breakthrough"
       ]
     },
     {
@@ -363,16 +377,6 @@
       "summary": "Anthropic升级Claude记忆系统跨功能信息无需重复录入- AI  亿邦动力网",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI重启ChatGPT Plus账号五小时限额机制，Pro账号暂不受影响 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UdlAzREdIVWZXbDkxRnZTal9FN2ZELW1TcFdPbmRlQjB6MFQzcWVPbUFGbmc0NTgwVFdwLWY3S3lZcmlMUTFuSGY4Q0U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T02:14:19+00:00",
-      "summary": "OpenAI重启ChatGPT Plus账号五小时限额机制，Pro账号暂不受影响  凤凰网科技",
-      "categories": [
-        "openai"
       ]
     }
   ]
