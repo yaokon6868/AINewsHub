@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-08-26T10:37:23.563853+00:00",
+  "updated_at": "2026-08-26T11:32:24.277591+00:00",
   "items": [
+    {
+      "title": "一个指令让ChatGPT从附和变批判，效果惊人 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udHVhbGxhbWc5UU1ZNy16aFNiWXVOb25MLVBPbjg5Ym0xWEU3bGVMaXhmODJLaE8xU1dVRkp0Q3BXc0VqNmpJQ2ptTzNHc1RwV1cwZ3FHYnB2NEJtT3JWLWdweHJjci1jSWFMWUIxcWsxLW1iSnlQektvUFg5QWM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T10:58:33+00:00",
+      "summary": "一个指令让ChatGPT从附和变批判，效果惊人  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "大模型时代，语言不再只是文科，上海多校语言科技项目入选国家案例并结盟赋能 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmlFT3dIUVRldU9zcURlWGlKUzZGS2d1b0NDTzF5VElNZnB3YUpKMEREVnI4QlgtclJHZV82SUtFVXZiQlJnQV9sdHVnaTFOZngxa05nY0VVUHlaWkYxTDNoazJiSFEtTlFVekNndDFmZHVDZkhBZFU4RjBGbnl5UVgtUXVkVVB1LTQ3bw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T10:34:53+00:00",
+      "summary": "大模型时代，语言不再只是文科，上海多校语言科技项目入选国家案例并结盟赋能  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "27B AI 科学家论文复现能力超越 GPT-5.5/Claude Opus 4.8，Faraday 探索长程科学创新 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXWXB5TGVvMU1fb1hjUmN5OHNqem9OTldPczZDem03ZHdRQ0d6R2pNSXh1UEVEc0J4UXI2TldTM2NMSVpTRlJwRA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-26T10:34:00+00:00",
+      "summary": "27B AI 科学家论文复现能力超越 GPT-5.5/Claude Opus 4.8，Faraday 探索长程科学创新  智源社区",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
     {
       "title": "专治Claude不说人话，哈佛博士怒做一键翻译神器，火速吸引百万网友围观_精彩视频为您呈现_36氪 - 36 Kr",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWNHZ2h5WGtHT0cxR1VJcTNqMWpiQ0NkZGF2azlwWWRwTHBTZE53ZnhJbUdHMzZ2ZTB1MU5XcTRHZ3BKaWYyUWJGS2JDaVFjdnJCT2RR?oc=5",
@@ -284,34 +315,13 @@
       ]
     },
     {
-      "title": "网安行业首个！启明星辰集团AIDR获智能体安全管理系统认证 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDFEeVdLTGtVY2ZQRDV6NHRORXNzVFN0dUNYU0xuZTFTYjkwaFpKZUZrT1lKSXh1OVgyTUo4SEU2SkNzU3ZJUU9yMEcyNG1FSlVrbEs5a2YydE45ZTlIejJnQjd3ZjFka0hXd3ZrSWZhVm9peGZYQTRZUmY2RFhyWEsyeE5SVG1Y?oc=5",
+      "title": "AI智能体流量一年激增1700%，占网络总流量六成 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ekI5WXFESUp4Qk5HeEpCb0ZrRDNxUWZZQ0JPeDhuLTM4R0xfM0ZnTURTeEg0TTJ4eUF2RnZxR2hFRXBnXzE3X2xtS0ZjWGJoS0JuUEx0ZFBsd1FTWUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-26T07:39:33+00:00",
-      "summary": "网安行业首个！启明星辰集团AIDR获智能体安全管理系统认证  搜狐网",
+      "published": "2026-08-26T07:53:02+00:00",
+      "summary": "AI智能体流量一年激增1700%，占网络总流量六成  DoNews",
       "categories": [
-        "breakthrough",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "开源！乐聚机器人正式发布垂域大模型KUAVO-VLA - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSVVJUEl0Y056M05MQlNZUW1renZQMVd6WEdVeE9NX0RqQnlEUUpFMDItamRHWUlIQnAxUXZQbEw1c2JRbGhaT1dYYWRNdDBHSXhFT3BpV3JCVEFOTXo0NktPQnVzWnZ6cWhQc095bjhWNHQ1MkR5WlZySFlxel9HUmpIbDd3eTlF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T07:33:00+00:00",
-      "summary": "开源！乐聚机器人正式发布垂域大模型KUAVO-VLA  搜狐网",
-      "categories": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "新能源、低空经济、人工智能，自贡特色产业发展如何再进阶？丨起步奋进“十五五”自贡专场新闻发布会 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3OGlJaEtBR1BJMmc4SG1ONHZhUzhJWVE4ZndobU1zSGtSVXNLdmQyUDlBeE1EUzdOUUpaOUFhM2hnN29IVDJyZ0dtWDFYWTJQTDBTZ3BEOVBJMGhBNEV1UnF2WQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T07:31:49+00:00",
-      "summary": "新能源、低空经济、人工智能，自贡特色产业发展如何再进阶？丨起步奋进“十五五”自贡专场新闻发布会  四川新闻",
-      "categories": [
-        "breakthrough"
       ]
     },
     {
@@ -334,16 +344,6 @@
       "summary": "网宿科技AI新品发布，让大模型用得稳、算得清、可管控  新浪网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "Google Cloud发布Gemini Enterprise for Legal 面向法律行业推出专用AI解决方案 - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fcjJHSGR5VzJwLWY4NW03YllpWmhkamREYXRpeEM1TFlIV2hCVy1QZ0VQVWRvUVUwTEhPRXoyQVk5WGhfbWpPQg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-26T03:20:09+00:00",
-      "summary": "Google Cloud发布Gemini Enterprise for Legal 面向法律行业推出专用AI解决方案  品玩",
-      "categories": [
-        "google"
       ]
     },
     {
