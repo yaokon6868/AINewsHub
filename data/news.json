@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-08-29T14:14:10.537956+00:00",
+  "updated_at": "2026-08-29T17:48:13.097818+00:00",
   "items": [
+    {
+      "title": "Gemini Nano 4 登陆 7 款手机，谷歌抬高了硬件门槛 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkVlcGljcHZzYTRFRjZWLUcwVnBFdTgzTHpybUlrY0diTWxvSEV5ajFFa2x4cEZKM3M5X2MyUU9GZzBmcnNPdUpQQmQzLWdiWTVUR2NqRUNVUkdiMm1xdUtFbUNRd3AyTk9ILUVlLThtd0MxYnZhNzdpWHFhd0VnNmZJX1Zmdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T17:25:47+00:00",
+      "summary": "Gemini Nano 4 登陆 7 款手机，谷歌抬高了硬件门槛  Pasquale Pillitteri",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic最新多智能体研究来了！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbklKS2lzdGU3b1dJYUpWS3Q2b1loVFk4eWY1TjNkb0cwS19PaFBER2xHb3BCRUpOV1ZuODlZYnZpemJnQ2M5djZXWnByaVlCNVA4R0x4cjA5c2RIdi1aV0xibjRjaEE0MkM2VjZOSV90a2pQRHZ5V3FrUjBkTmRqalIwd2xsMVRMXzFlMQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T15:45:28+00:00",
+      "summary": "Anthropic最新多智能体研究来了！  搜狐网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "小鹏二代VLA拆解：四张图看懂智驾与座舱前沿车端大模型架构 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zeHRMemVLUnMzLWlsTTVPU29NcktGby1iQkZIMjJOTjBOMmItWUd6bFNSaDhJMXdwYzRjWDRSNG1tNXZEdkhGQXV4X3VOLVVQVGpv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T15:31:00+00:00",
+      "summary": "小鹏二代VLA拆解：四张图看懂智驾与座舱前沿车端大模型架构  电子工程专辑",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Claude Code 或将支持免选文件夹启动会话 - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFeWJYenh3b2RZMW05a09FNWNsVlBxOXFuRXFIU1hGV1pSLWtpVE1jT3FHbUFYTGtmVFlRcGdVZVhsSzd4OXFzaHU1VXNjZVpzbXhNZ056MEF4Q0Jma21qdkhB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T14:52:47+00:00",
+      "summary": "Claude Code 或将支持免选文件夹启动会话  手机网易网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "百度输了！1897万元，数据要素（大模型智能体、可信数据空间）大单|数据治理|数据资源|信创|会展|招标_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IRXJZM0dJQnFKNkJMQmNqTjBCVVN4YVE0MEo5eWFHaHA5OENteHlYQU1RZU50akRQdGtwT3JENjFVR0hOb0NhWGpiNnlaeFlCbXNoempXT0s5ZGl6blN4YXJMNmlabVdodTdvQlc2QmZKSERTWUN0bw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T14:22:06+00:00",
+      "summary": "百度输了！1897万元，数据要素（大模型智能体、可信数据空间）大单|数据治理|数据资源|信创|会展|招标_手机新浪网  新浪财经",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "具身进化论|加速进化程昊：当80台机器人拼出“BEIJING”，具身智能的ChatGPT时刻还要多久 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URjMzZnVmLThSTFBuTXhzQXNLRG1pWWV1MXVHc2J3cnZDeGNsQkVua1lLTmt5djdVTHY0OW9ZczlPRWs1T3VQY0RHZXlmcXdLaG1SWHQ4QkNCdXlCdFFsTHE2aHo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T14:13:00+00:00",
+      "summary": "具身进化论|加速进化程昊：当80台机器人拼出“BEIJING”，具身智能的ChatGPT时刻还要多久  新京报",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "都2026了，还在问数眼智能能不能上生产？手把手教会企业判断大模型API平台的7个硬指标 - e0734.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QTjZJcTdTQ1RteTNjdGZzRnF4VHhtN1FDOWw3Ukt3VFhQdDJuXy1iQ1U4OFZ0VFZUbl9BUFRxZG9SaFdtaXozTVVWei1NSW9mbmp0TUh3TzkwY1JDYkQ5U0ZzbU8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T13:53:48+00:00",
+      "summary": "都2026了，还在问数眼智能能不能上生产？手把手教会企业判断大模型API平台的7个硬指标  e0734.com",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "大模型透视产业链，黑色金属产业链研究报告发布 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oYzh4Ym5iRDhyMHJldjFiVVE1QnV0VF8xNnJiTTdQV1hGVllNTnd1MnJZNDlxNl9pOEZkMmpXWGUzV3FtallGYjBGeXRWbUw4UkhhNkRzRHoya0pHZld0dnlPNHRmdUk4cng4aV95cDFldG11WW9HR3V2dGEtMzg?oc=5",
@@ -9,16 +81,6 @@
       "summary": "大模型透视产业链，黑色金属产业链研究报告发布  新浪网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "OpenAI计划停止向SpaceX旗下AI编程平台提供AI模型服务，马斯克表态 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ya18xUWhxalNEYzZROGZDX1pSMWxwQXgxdWtlWXJNc3pBMUlublp5eWx2ZU1RZG9ScVlEMGVzRnhJTkhOeTN5ZVFRbzVOZG9YZENHSi1fb1gtS21yMUUwLXVCNGlOQWNDUVhrVFJ5VVpfT2E0T2gxajdueXZ2b0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-29T13:11:51+00:00",
-      "summary": "OpenAI计划停止向SpaceX旗下AI编程平台提供AI模型服务，马斯克表态  新浪网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -49,6 +111,16 @@
       "summary": "科技部原副部长吴忠泽：智能体应用生态迎来爆发式增长  搜狐网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI计划停止向SpaceX旗下AI编程平台提供AI模型服务，马斯克表态 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUJKQ2s3QVNjVWJDalpKMzBSdUdFLVZBNHYwdUJxa2FiWE42OFdOT1dMdm82TkNnM1BUbklvVkdIa1lpY3dKN0gtdDl6Qml3M3pNbzVaWjRxdGZGNENQM2VSNHU3Z3ZvTTd2amdBZWViSExtRFRZdGdWelU2RXM5bV9kS3lVc3hrTkxyU0xGVlQ2OGp3bGFQWUhtLTNPcmQx?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-29T12:47:49+00:00",
+      "summary": "OpenAI计划停止向SpaceX旗下AI编程平台提供AI模型服务，马斯克表态  新浪财经",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -113,9 +185,9 @@
     },
     {
       "title": "让大模型少做重复计算 中科曙光发布ParaCache - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlNSNEJTb181WnJFck9ZbFVoY0J4bGFSWVVwa29nMnJHVHMwQ25xcW9ldU5JY3J3aUwtOTJ4N2R0RW5IRFY3MTg1eE5ySDNKMU1BQ0MzOGtaV1drUFhjblhiZk94bHo4YWJFeGFYN1lrX3dXVWZLZVNERHY3clFqb255ekxUajRBaENteg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXcwWWFvSVlVWkR3YlNCeGVDdTNTb0xieFJld3RMY1UxdjNEN3c5MUdDZGU3aXJYYUlMRmM2d25LX3RtZEZuLXA2QlZCYTl0bnczaHpEQUxCYVVUNHN5ZTRPYXlpOWktUmRTYXREZmZtODBFcHJkR0t3bzV3NWVwUEJiSnktdU1JS2NPWg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-29T11:26:09+00:00",
+      "published": "2026-08-29T11:04:55+00:00",
       "summary": "让大模型少做重复计算 中科曙光发布ParaCache  搜狐网",
       "categories": [
         "other"
@@ -162,11 +234,11 @@
       ]
     },
     {
-      "title": "2025年我国智能体专利授权量超过3400件，增速是上一年两倍以上 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6bHFUUU1qcjE0UHZEaEluRXBoUy05TUtsSFpmOGMzcEw5TlBiZ0Zadk9BNGdfSmpOYU9XdTJ6QmNhd0JpbjF4ZVdpd28?oc=5",
+      "title": "2025年我国智能体专利授权量超过3400件，增速是上一年两倍以上 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0J6R3RLeXkyYk1CRmZiTkl6am9URGg2ZTZwOV9pV3k5UW9jTEZuS3NiektKNk9MQWxQeTc3UVBwZ1dNakRKakdKY3ZLczliMHlPaTNaUEh6VFpGeWEtZl9LQk5WcWdacDdPWVdla3R2VEFvSU1aMVR0Y1F2cXBRNUV4VVFpckdN?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-29T08:10:52+00:00",
-      "summary": "2025年我国智能体专利授权量超过3400件，增速是上一年两倍以上  凤凰网科技",
+      "published": "2026-08-29T07:57:27+00:00",
+      "summary": "2025年我国智能体专利授权量超过3400件，增速是上一年两倍以上  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -212,17 +284,6 @@
       ]
     },
     {
-      "title": "泰国携手OpenAI推出亚洲首个国家级AI孵化项目 助力构建东盟人工智能中心 - 东盟头条",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MY2U1b2htOThBVzJ1OGNOZlhKNVg3X3BnQ1UzMUFxYVcxYmo2SW0yYnVmRTNEN3BBV1hZRWtnQ0RZQ1gzYm1vRzYyTQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-29T07:30:41+00:00",
-      "summary": "泰国携手OpenAI推出亚洲首个国家级AI孵化项目 助力构建东盟人工智能中心  东盟头条",
-      "categories": [
-        "openai",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "终于，Claude Code打通了桌面端与终端！ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHBteFh3Rm9BamU2NldzUy1FVWs4WE1yVDNUMUtuc2NiQ2gzaGdXNWdqREJKbGVEQzBxdzFmcHB5NGIzNTMtQjBOWUM5U3RxWVhqRlgtQlRvNmNrZF9ZS192NXhqcHhJMGphZHZBUXN2Qzh0YXo3X1pwUE1DLTFDVGY5WEtFbE50?oc=5",
       "source": "Google News - AI(中文)",
@@ -263,36 +324,6 @@
       ]
     },
     {
-      "title": "GCSA Agent 在 CyberGym 取得 91.3% 成绩，跻身全球领先 AI 网络安全智能体行列 - ForesightNews",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teGdmVVl4R3hQS1Zyb1BjV3ZRR3U3YzlESUNiRmhxbFJFTWRnQzczV013bGwyYXdseE1EcWhJdDNsaDNETWRXNlZDTWUtZ0xzbHJ3SWstbkY5QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-28T19:19:00+00:00",
-      "summary": "GCSA Agent 在 CyberGym 取得 91.3% 成绩，跻身全球领先 AI 网络安全智能体行列  ForesightNews",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "美团发布万亿参数大模型LongCat-2.0，王兴称AI将全面革新公司业务流程 - 网通社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wT29qNUY1blRrcGZZMS1yQXc5YUUwZGtxZjVxcjZZSXkzemxSYXBmRlpraDVJS3Zsc2N5RzdvdzdkWkIzSVVRZ2xudXlXZGVScGFzM3lld1ZzZkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-28T15:42:00+00:00",
-      "summary": "美团发布万亿参数大模型LongCat-2.0，王兴称AI将全面革新公司业务流程  网通社",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Claudeforce发布：37项销售技能进入Claude，CRM管权限 - quasa.io",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmRTTDFoRGdHbVF5bWZ4VkdfT0lsRnRwX0dOTlVtZzlNcFl1UHY5MjRkQVU5aXNRaE9aMnl5elQ0MlJNTXJFT25IRnhIZERxUXBMYkU0SDBGWGpROVI3TDFoNjY1MzkwV0tQR0o3bEkzczlBODByak5GT25YM1NyV0NxckZKNENoM0lrMWZ3YjRicnRTZkh0MWlnX21UZEdwb0NrbGtodlprLVBIemc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-28T11:00:00+00:00",
-      "summary": "Claudeforce发布：37项销售技能进入Claude，CRM管权限  quasa.io",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xaGhMb2M4SU5DQS1LMFplcXZxdWxqN0ZmeDhjeHJiZlRRdmp5OFFvd2pUeks4UlpRdHhEX05XbEFQdUJxUjJMNQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -313,56 +344,23 @@
       ]
     },
     {
-      "title": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网 - 36 Kr",
+      "title": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网 - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZTkxHQ0RBVEY1UkxXT2MwNzhjTHRqWW1raGZaZU9xWmZKanJDekczakxKYVZoR3ZndkpXdTRCazVvZUdsM0VoVTdOUExKUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-27T17:45:00+00:00",
-      "summary": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网  36 Kr",
+      "summary": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网  36Kr",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界 - 36 Kr",
+      "title": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界 - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvUlFLWG5iSEY3bTFaQUNya05LRjd0RDU1UnBWcC13S3c5TFhTcDJ5V24yU29nX0JkT3JaS3hGSVZEOEtDS1c0eFVXWjZyQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-27T09:44:00+00:00",
-      "summary": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界  36 Kr",
+      "summary": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界  36Kr",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Code Security发布，安全智能体实现从“助手”到“协作者”的范式跃迁 - IDC | Trusted Tech Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOVlE0NFNDdUhKVzRUOTV5TVAzamtuUWtGR3RMM0FzMWdodVpGMENTZkMtcFhmUzNBRERhZGFCdHBwV2M0RGtGNHFfZ01FQl85MUM4blNUQWpEaDkxczd3b3ItSGU0TkYzYkVlUUo1dGlBVDgxdnN6WXdxTTNYZmVBdVlrZzREYlE4eXNXS3BMeWRWOTV2dS10MjNEekxXeXRyQl9TWGRCUnVlcVNXektQRXJsckkyV2dYbXFsWUN4SzBxXzB0R3ItVW03a0VtSHE5R2pWVHZWa1h1cXlkTFlhSWhCakQzS1VfdVlXU19PQWQ1RHNjNmRBTzR3YzZ4UW1EQTFsOFZNRVFxaDMzSVA5S0ViZWdoNDNTT2MtMlNFN1JXLTNILXJkZW53Qm52ZUhUbE5ubFJHbkhLR3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-03-03T08:00:00+00:00",
-      "summary": "Claude Code Security发布，安全智能体实现从“助手”到“协作者”的范式跃迁  IDC | Trusted Tech Intelligence",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "华为将发布Agentic Core解决方案，加速智能体网络商用 - Huawei",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWkFJdmx4ZWVBdVk1UlFzb185MldobjNwclFPX0tOT2pwTmg5WHM4WHVuVzFlSFk2enlfeHFRZV85ZmRlQmhKNDlPTWUxRFdLRDd3YmRVaGlyZ2hkNGRSbmY2M2dJUng2QTZvSVp6UmI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-03-01T08:00:00+00:00",
-      "summary": "华为将发布Agentic Core解决方案，加速智能体网络商用  Huawei",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     }
   ]
