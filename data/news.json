@@ -1,54 +1,109 @@
 {
-  "updated_at": "2026-08-31T21:33:39.409064+00:00",
+  "updated_at": "2026-09-01T01:04:33.181983+00:00",
   "items": [
     {
-      "title": "中国工信部组织开展人工智能应用服务商培育专项行动 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGE5Nzg1c0lteFhNRDFTb1NrUVd5VE9hTndkbnpJay1tSGNhS2RDVW9qM2xlU1ppUjNnQy1KbThmWl9IUnRPME9HOGVqQmNpYUViNzdoUk5wc0daWU9FVWwwREMzb3lnVkprZzY5TE56SHdRVHYyTVBLN1Exa0tqMk9HWV9Yd0pWZHBiVXdJSDl5VmhfQTJ0Zg?oc=5",
+      "title": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Q29OV1dZRWkzcTJkanRNR1ZhQUxZRHZmbzZkV1I1ZElyYkhINVRwWnhMLWJMVndYQWFkQlhDT2VsYzlyalFnQ2tQaXA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T21:27:56+00:00",
-      "summary": "中国工信部组织开展人工智能应用服务商培育专项行动  新浪财经",
+      "published": "2026-09-01T00:00:42+00:00",
+      "summary": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "欧盟将对ChatGPT等3家美国服务平台加强监管 - 星岛环球网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ncVJwU19vUEVzb3RzRDMyWjlfcGtJXzNBWnM2UlRFUXJRVkk3OERQWUVMTlA3VWVMX3RsMlp6SjNZVWVxUlJlUDVLbElTcFk3Y3F2dnh0ODBLVGZISmlGVUJ3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T23:44:00+00:00",
+      "summary": "欧盟将对ChatGPT等3家美国服务平台加强监管  星岛环球网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI广告业务年化收入突破10亿美元，推出仅约200天；OpenClaw发布史上最大更新，新增长期记忆与多Agent协作｜全球科技早参 - mrjjxw.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DX0VHbHE3cVQzWG1NZ2RjNVhlNW1XZTVoTHNwSlN2cm5GXzZqWlZJRndYZUtQT1ptNXNzM1FMZnI0akotdUVWS2pmeGZYWGVhVDVoWmx6eTNjaXlSTmFFME1qdkt5UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T23:43:00+00:00",
+      "summary": "OpenAI广告业务年化收入突破10亿美元，推出仅约200天；OpenClaw发布史上最大更新，新增长期记忆与多Agent协作｜全球科技早参  mrjjxw.com",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "欧盟将对ChatGPT、Reddit和Roblox实施更严格审查 - 华尔街日报中文网",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVWx1MVpQUTlvTVdPdUxZTS1FdldXZ3czVjRTRWRFTDRBTnFfNTZ1a1BOYmljZW9MWmlnQTY3VWNaTnpEdUxVVnZwRVlKWm9mTFVfdF8xek9ydklXaGk3WE92RnFRU1pGLTBnX1pBei1ONHB5LXNjdEpYVHF3b3BsOEI0Tkt6YUJNS3BVNUZ5alFNVm52eV9KcS1oY2kyWktUQVlFSkYxbFJUS2xDdXp4WjdmczNOYjhGX3VkbUFyT3hsWnI1TkJ0dm5QbEQzMHpCWnlkRndYZDMyaWZabzVpOGFGcnNlU1kzcEJONWNpWTBxaXFETEtGUw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T23:22:00+00:00",
+      "summary": "欧盟将对ChatGPT、Reddit和Roblox实施更严格审查  华尔街日报中文网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "今年已发布新兴产业国家标准1400余项 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10T1FCblBTZTRyYjU1dUNDWFJiT0RoQnk5cC0xTmI2ZGZYVFBxcU1VQTN6UzhfdG1pblFNbWNkRU93T0tGMmRUbXZqTkxfUmo3Y1ZTSlp4cV93ME5VUXdvTzdiN1FibWxCUy00UnA0MERIZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T23:13:00+00:00",
+      "summary": "今年已发布新兴产业国家标准1400余项  新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "智能体请求暴增 9.4 倍，token 账单却没涨：Uber 公开 AI 软件工厂省钱方法 - infoq.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fLTl4Z0MtUmtyci10N0g4NHdsUnFRRXh2MGpXTHIzcjhPRlRseEZTSlFxcjRxUnBzUnJFUXZ0UFVpdkJLZTJEeWtFTnlTRGF2cGFjWXJrbDl5SENQTGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T23:04:02+00:00",
+      "summary": "智能体请求暴增 9.4 倍，token 账单却没涨：Uber 公开 AI 软件工厂省钱方法  infoq.cn",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "[人工智能代理战争] 超过10亿美元的企业中有40%引入AI...企业间的两极分化加剧 - 亚洲日报",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wZEg0TjNEd1BiZEtUdk9oazl0MnprVHV3N2ZVdjNYX0lhTVB1YzVkWW9iaXBLbFFOMnU3Zi1yN3NkN21Wb2VRdE9lSE9Yemh3dUpDeDNpVURIdlE?oc=5",
+      "title": "【视频】15.6寸华为屏+Mola大模型，深蓝G318智能再升级？ - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52QVllNmNzWUdoLWV3c0ttRmdOdkh5LVQ0T1l2djdkeGtpNVBCWUgxVU84ZHhScnhRUjM3Wlk1REItU3djSHFFSmJ6Wmg2dkRsOHZxVWJ2Rm5ZMHc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T20:04:00+00:00",
-      "summary": "[人工智能代理战争] 超过10亿美元的企业中有40%引入AI...企业间的两极分化加剧  亚洲日报",
+      "published": "2026-08-31T22:44:22+00:00",
+      "summary": "【视频】15.6寸华为屏+Mola大模型，深蓝G318智能再升级？  汽车之家",
       "categories": [
-        "other"
+        "other_big",
+        "image_video"
       ]
     },
     {
-      "title": "全球扩张与人工智能 家电工业战略 - Shangbao Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lUUpKWjdXWEt3aGhVZE5Delo2WloyQ2dMTmpYYnIxSTJ2S3lKWFR6dmpUOUFvMlhxQ2VHdUQ4V1lHbWlqVEFBQ1pOYU8tSmtUcWR2VmxYeThKa2JjWkZPNWRoUWlmbURiSXhGWUZibl80OEpKQmVn?oc=5",
+      "title": "影响市场重大事件：全球首个！太空算力在轨试验实现常态化；工信部探索通过首购首用、风险补偿等模式，加大大模型、智能体采购力度；工信部开展人工智能应用服务商培育专项行动 - mrjjxw.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZSVU1Wk1VSkswY3UyYXVFZW9fUUZFQXJPcWlPUDZvcGNSZU1URkVkZF9QUnFVZWlGd1l0eTctdVVPRFkzTWdmOVl3RGc5UzlFVEgwWXEwQzlQcFdiMG9odUpqal9tdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T19:46:00+00:00",
-      "summary": "全球扩张与人工智能 家电工业战略  Shangbao Indonesia",
+      "published": "2026-08-31T22:11:00+00:00",
+      "summary": "影响市场重大事件：全球首个！太空算力在轨试验实现常态化；工信部探索通过首购首用、风险补偿等模式，加大大模型、智能体采购力度；工信部开展人工智能应用服务商培育专项行动  mrjjxw.com",
       "categories": [
-        "other"
+        "breakthrough",
+        "tools_apps",
+        "chips"
       ]
     },
     {
-      "title": "新学期，江苏中小学课表迎来新变化 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aLWoxSXppLWg3MTBqTlJ1VWNaYVdhZk5DY2lTck01M1FRVGc2eG1mNG95Tmw4LWRRRUF5aHk5a0Q4czV3ejhGV3pBZnRaYTVDdjdxa1g4eTFLZTEwYzk5OHZKLWNrUHkwSUtKRzd1R3I?oc=5",
+      "title": "五角大楼推出军用版ChatGPT和Grok 覆盖约300万名军政人员 - cnBeta.COM",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rNHFYem5TMFhDWjNnR0t6cTlpYjV4NmFiVTlVQTg5cUpxMy0xU1JMdGE3Wlk0b2MwNVdqTnVtUHF4OWdVeGNDRFZrWXpsNnprWWc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T19:22:05+00:00",
-      "summary": "新学期，江苏中小学课表迎来新变化  新浪网",
+      "published": "2026-08-31T22:04:01+00:00",
+      "summary": "五角大楼推出军用版ChatGPT和Grok 覆盖约300万名军政人员  cnBeta.COM",
       "categories": [
-        "other"
+        "openai"
       ]
     },
     {
-      "title": "特朗普称美国反对数据中心“中国会很高兴” - RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaVd3T0w5UFVPTTQ5LUVFMl9WcVNHVnI0SVROeG9VVEl2UUx4cFF1WXJYTDJIM1MwUmtmR2N1MWQwd2UyOG9oQWVQcGUycGxyWmZFVzRselotbjFXaUZObVYwNFo5YXJ4NVFpUjZtZkhSVjJfM1lWenN4NmFIbEFxdURCcVl1UFUxODJtM0U3X1NnZzIzTWdEOHVCOU9GRkxKazNScE45bUUtUkVZbkFYRldtM09qQ2RFZnBKTzdNczN1RExnNHJvTGhvLVpkWURpY0ViY092Y19WNWZEV3hVd0RZdnc0STN4TEp6OEZ5SWhhY1lsdUhlUW1iNVZ3S1FKQVQwM3paUENlOEl0X0hMQ1poYk1DbFctc0pZLW00U0pGcHBpTDZNSGFhbkpSdEc1RVRzdGxEMDQ?oc=5",
+      "title": "Gemini还是很会总结的[锦鲤附体]LFC社媒运营的审美也不错[期待]… #巴尔科拉加盟利物浦##巴尔科拉[超话]# ​ - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SeG8zOWIzeHp1d3J5LU8xM1g4aG5YWjFQTW9UNDZxM2FhNExVYVNLcExuU1FER2lobDNHcXZqODhBX21qNFk2ZmZNMUdKTWlQckdmanhEdHhXMXhzMGp3Sl90TQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T19:14:11+00:00",
-      "summary": "特朗普称美国反对数据中心“中国会很高兴”  RFI",
+      "published": "2026-08-31T20:52:00+00:00",
+      "summary": "Gemini还是很会总结的[锦鲤附体]LFC社媒运营的审美也不错[期待]… #巴尔科拉加盟利物浦##巴尔科拉[超话]# ​  新浪网",
       "categories": [
-        "other"
+        "google"
       ]
     },
     {
@@ -62,174 +117,165 @@
       ]
     },
     {
-      "title": "工信部开展AI应用服务商培育专项行动，今年底资源池企业将突破2000家 专家：“首购首用+风险补偿”有助于降低采购方“试错成本” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDdFem0wVFdweFNnUE5lQjd6M2Vkb0pyTTRYTDhkTGFmMlhkSGJJSkRfbG5KblFlTE9YaFczeVlFSTEtSFpXaFhDUzVrb1UyeXBDMk9sVXJlN0hVY1FOTGZ5emxSZlltMUN3Z3JpRktGMkIyYndXdkk1cGtVTFRqUzE2NHU2bjNPaUJZcw?oc=5",
+      "title": "大模型第一股智谱的首份中报：收入超去年全年，MaaS ARR达16亿美元 - 凤凰网财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pWnpFdWRURExTRGxUWFJZX0hFMmlwQ3R4eThCTkwwQVpsc0RIcjFMYlhiRG1aOWdjd0NKR3ExVmFxNkRiWml1NlZtZ0dlc19P?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T18:14:10+00:00",
-      "summary": "工信部开展AI应用服务商培育专项行动，今年底资源池企业将突破2000家 专家：“首购首用+风险补偿”有助于降低采购方“试错成本”  Sohu",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "2030年社零规模瞄准60万亿元！消费扩容升级迎来实施“路线图”，要形成智能消费等10万亿元级市场 - mrjjxw.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yR0Q3NDZVQXYwRjFyNDBWX3FKRzlsTnpWSkR0UXpKbW54ZG1teU9Bb0FuT1RITkIwcmtzV042NjNOeWVMUndvMlVkVi0zN2J5OGRXcjdlX1JOTllmRTZIT3NBUVhlQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T17:36:00+00:00",
-      "summary": "2030年社零规模瞄准60万亿元！消费扩容升级迎来实施“路线图”，要形成智能消费等10万亿元级市场  mrjjxw.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "王英杰：民营重资产园区的AI路径｜2026博鳌产业科技大会 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFJNUWgzYkwxSDdBMVRnM24tNVh0RktZMUtaVU8xZXU2bkhmd2NYa2ZULURaRi12Nk50OHhsakplbkxySnlGYWttVFVmWms2TS1GNlU5S09ldGw5c1ZfWTRBdDZ2ZWFEVC1TaVlFT1BfVG1IWlpnbDRGaDFaU2p3Z0pmWkJvbk5mNWVhbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T17:03:26+00:00",
-      "summary": "王英杰：民营重资产园区的AI路径｜2026博鳌产业科技大会  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "2026年电力行业职业技能竞赛(生成式人工智能系统应用员S)决赛成功举办 - 电力头条",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yRF9DNlJudG44OHFCRXdBd0tiU1d4TGpYcUE3SEhDWDh5XzAteG1YYnlrVnRjeUxfS24wdENLa1E4aWh0WkptendXWmZIclZRUmlzUHNrUDJfdVhV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T16:56:08+00:00",
-      "summary": "2026年电力行业职业技能竞赛(生成式人工智能系统应用员S)决赛成功举办  电力头条",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI时代的美国“一人公司” - 新华网",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX1RwUnNfRUJHYlI1eWpHX243akZEWXNDXzVQdUpWOXRaNEIxM2pDOC1DOE85eHhjeFVNVG5NemdLS21pSG5xYjNaMXlNeUNGX2h5MkI5Z3lNRzQwQW42OXc0N19na0V1VVhwNXU4d0ZVTkZSRUxPeDJjRktrS08zUENwUVh6dw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T15:13:55+00:00",
-      "summary": "AI时代的美国“一人公司”  新华网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "澎湃新闻生成式人工智能产品再上新：“星映AI短剧创作平台”完成服务登记 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UamxxX3RoTHh2WnZYNFBBMXFmWHkyeWhmaWU0U1UwMUVWT0xZSjZKTHVlNXVhdzFEMWgtNmlST3BVN1gxeXRBTg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T14:59:47+00:00",
-      "summary": "澎湃新闻生成式人工智能产品再上新：“星映AI短剧创作平台”完成服务登记  凤凰网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "演员要失业？中国首部AI长剧《后西游记》黄金档播出 - 文学城",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMl9PY0x0eVNtLTU4RVdZWWRhbEZIdE1EWU5aT0NyeV9VVlZiVFVOVUg0bzN1NUQ5OEZkMVdwY3l4aExLaDQ5SlhVcHRMV25uTGszSzhWZGF0Q3A0Y25GYS1WbXBsa1B3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T14:58:57+00:00",
-      "summary": "演员要失业？中国首部AI长剧《后西游记》黄金档播出  文学城",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "北京自贸试验区联动发展区设立，聚焦医药健康、人工智能、集成电路、商业航天 - jfdaily.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyb1BBakxGN21oSDN1UnJmYlg4Y0ZUWC1ZX0pyRnE4b1VSRUxVdHA3SlZzcnIxclVxc0ZaMElETmpzaDFzZWxYUnJXaTFkYkVlZmlGMmtvWTcyWThZS2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T14:22:00+00:00",
-      "summary": "北京自贸试验区联动发展区设立，聚焦医药健康、人工智能、集成电路、商业航天  jfdaily.com.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "浙江省数据集团正式成立每日互动成首批数商生态伙伴|杭州市|DeepSeek|人工智能|要素|战略合作 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUC13R0p1c1BZWDFUTElwZDFpbmQ5OHcwb3FDMXdxTHJuYzVCMmhCNkxWS1c1eV9zdHVQZG9JUWJHSjNwM3ZlUUc1TkU3Zkc4c1ItOHBnUVl1bGRYeElaZV9GcHBlZjRWRnpIcXFlakdrTXRTV3BrTlkyOHJXU05SRG1CSmVYY2xxcU1xSTBQN0R0M1hvb1NvRg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T14:20:44+00:00",
-      "summary": "浙江省数据集团正式成立每日互动成首批数商生态伙伴|杭州市|DeepSeek|人工智能|要素|战略合作  新浪财经",
+      "published": "2026-08-31T14:38:35+00:00",
+      "summary": "大模型第一股智谱的首份中报：收入超去年全年，MaaS ARR达16亿美元  凤凰网财经",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "新学期，南京娃的课表上新了！南京AI通识教育“百花齐放” - 紫牛新闻",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tMW1INkl1bUlXOWdIXzg4cXVYWU1hTzE4VldESWlySURSWHdBSncyT3NNbjE0cGhYSzMwX1JkRGxUQm9BTmppdXl0UmlSYVgxdWF0Q1B4VDF5bEVRNUQ2cC1IVnpicXEwUUdiRVgwSmp6ZGs?oc=5",
+      "title": "明略科技发布2026年中期业绩：智能体化服务收入同比增长605.7% - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUh3R2c4ZEpxZFFBdm9RRW5RR2pHN3RWVTEtRDhnc3lLS0VudThxbmFfWjNCRkF2cExrbEZnMVpyczlLZXRDUUFTV3BjdXlqS0FTc0UxeG42XzFJd0pmSEFWNkZhZWVHb3BIelNydDVMd2U0bHFUMU5jNUJ1UE1nQ1R4V0tuNGFEVHc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T14:15:00+00:00",
-      "summary": "新学期，南京娃的课表上新了！南京AI通识教育“百花齐放”  紫牛新闻",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "“数字员工”助力，“一人公司”到底怎么干 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwVXZhOTFfS3RPb1o0UnBIbzU3ZktaRE9UdE1vT1BSdHhMOGVycW1CN2ctVGllUml6MXd3dUhDUTgzdC1TTk9WM2FBZVhVOVpJRFRQQjlKNmdCOFp0bTM5ZVVpQVVJZEczT1daZUpfLThoVGlhVTRQajRCd19sTE0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T13:40:54+00:00",
-      "summary": "“数字员工”助力，“一人公司”到底怎么干  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "超7亿元！长江计算中标中国移动人工智能超节点设备采购项目|智算中心|呼和浩特市|内蒙古自治区|呼和浩特|份额 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OaTQ1bUxJNEVxQlo3Q29JbjFkcGN1Mm4yQW1MNFRVRndHTUZyZDh5UWxGZlcwdHBOcWVsSkZmUW9LOG5oYTB1cHl3M1VhOGFGYm5qZGl3U2YyMV9Hc2JEa090Yi00ZUI2SkZ1b0lNQUx6YVhUYjNtOA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T13:33:33+00:00",
-      "summary": "超7亿元！长江计算中标中国移动人工智能超节点设备采购项目|智算中心|呼和浩特市|内蒙古自治区|呼和浩特|份额  新浪财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "机器人做“同学”、智能学伴上线——新学期中小学人工智能通识课更“时髦” - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvRVlpeWNwTThRby1RT0xzc29BWWd2TTJ2RFo0UVBoSG5lNTFjelVjV2lSbjlhNFdPZFlFRVJuWVRtTWI0NThUWmdmdmtBT2x3ekhUdE5HTTFzOVVwc2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T12:44:13+00:00",
-      "summary": "机器人做“同学”、智能学伴上线——新学期中小学人工智能通识课更“时髦”  京报网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "产值超3500亿元增速30%！海淀人工智能产业集聚效应持续凸显 - 京报网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NZldJWGFGcmgyVzRUaG9PT1Y4SHk4X19ZQmdyeFFORm53VVpDUWdzSUFlTFpLVWY2RFZSSUQ3Slk4Rm1WNDRlckdsV0hJWktLQVlUdGg3N2IwMHNRcWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T12:31:00+00:00",
-      "summary": "产值超3500亿元增速30%！海淀人工智能产业集聚效应持续凸显  京报网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "芬兰人工智能超级计算机LUMI-AI将采用AMD硬件，2027H2部署 - tech.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95SVZPZm1QSnhXYzBwbVY0RkhGbUhPZWxndWsyYVhRWkhZTkEzcFlVazUyLUhqRXR4WU91MzBKSXE2SWhwRnhUbG1SMlI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T12:24:12+00:00",
-      "summary": "芬兰人工智能超级计算机LUMI-AI将采用AMD硬件，2027H2部署  tech.ifeng.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "七问七答，解读“人工智能应用服务商培育专项行动 ” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTJpbGlwYlZsMHdNejlXQWdDZ2t0bG0yVnJJcDktUlY1WXZoSXVqUW1HUVNYSHZ4Wmw0dXBlRGg2Q3pHbWh3aXlzT3F4anF1NFBVZTFEM3JJYS1Nd2k2azAwR3NYUUQ1ZFFlMXpibUd3MVNxeHl4MXpiZGtrRTVNemdCZElLYnlj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T12:21:23+00:00",
-      "summary": "七问七答，解读“人工智能应用服务商培育专项行动 ”  Sohu",
+      "published": "2026-08-31T14:36:57+00:00",
+      "summary": "明略科技发布2026年中期业绩：智能体化服务收入同比增长605.7%  广州日报新花城",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "中国再保总裁朱晓云：推动低空经济、人工智能等新兴领域产品创新落地 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCQ0xGUnRGdTNVZk1heGQxR0E1MnZYZHNXZlB4aUtFTHlxWTJzdWRZM19CeWZ1SXVRNzVLSnB0UGdoTnAzSWhkV29LVUJPMml3cnVGdFpLUWRrZmJoR3JBYQ?oc=5",
+      "title": "OpenAI 和 Anthropic，正在抢夺「AI 硬件」定义权 - wallstreetcn.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85dmxFZGprek9FUTV2OWdJNkNtS21aSmFXNzF5Mi1WcVdIdUd2QWxtTlZINDJtYzRmMnZ4Zm84STA2SF9DbG1OaDF4WEhYUDRmZUJz?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T12:18:36+00:00",
-      "summary": "中国再保总裁朱晓云：推动低空经济、人工智能等新兴领域产品创新落地  东方财富",
+      "published": "2026-08-31T14:31:36+00:00",
+      "summary": "OpenAI 和 Anthropic，正在抢夺「AI 硬件」定义权  wallstreetcn.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic为Claude聊天与Cowork推出统一记忆功能 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMERUSmNReFdlVHhsX2NIU09EM0J2a3VFTzJjaWdfNTdZMVdNeGpMT1EzQXBGWV9meklsczI4cXpYUzhsYTN4VzhDLTBheHo2RUMwMUZ5a19aMXBRTGNJZzZKc01oeDN4TnhHdXlLMjl0YWtlTVRBenZZNndKTGk3M0RmbjVsYmNu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T14:01:00+00:00",
+      "summary": "Anthropic为Claude聊天与Cowork推出统一记忆功能  Sohu",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "三大调研报告揭示企业落地智能体AI的共同困境 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEphTkVnUFp6cGhXaGtud093cFgtbG9lUGpmV1czLVZWUzJydW1reksyb1ZUb29MdDdRcktIUFJRQlFSLVU0Q3hTNm1rR1l4WVJiODlMYWxhTDFwMU1OQ1N2WnFFalAyU1pjUVhKRHg1ZjJHcjcwNUo3VkhyUWFmd0wxUHIzREZT?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T14:01:00+00:00",
+      "summary": "三大调研报告揭示企业落地智能体AI的共同困境  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "八月收官，九月不容乐观|Token|工信部|大模型|服务商|贵金属 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjd4LWQ2RFZCNTN3c3RYTUkxN0N0TVcyNEdTdVVldjZla3BEQllrSk8yVzFIMFBDVWNOWVkzUlFtdlhWajBNZFZ1Y0gzM3BybTZ2RTZYVVIyUVQ1aTVzc19qTV9IMkZNNWVienVWeksxakxQRlRuRFQySndyUldJaVFmOHFFaWZHdFFQWEZya2sxR1gw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T13:30:23+00:00",
+      "summary": "八月收官，九月不容乐观|Token|工信部|大模型|服务商|贵金属  手机新浪网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "星巴克凭什么有护城河？大模型也是这个道理 - wallstreetcn.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xUTh1TEdreWpIZzY1dTllQ3A5aGM5dFlYWlVZbTcxdm8yVDc2cXNnT3prWWJkQXBsaW1lcUotZmhsTmQ0S005RmhBQnphQWR4VWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T13:27:40+00:00",
+      "summary": "星巴克凭什么有护城河？大模型也是这个道理  wallstreetcn.com",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UYTRRVTVqeWIxMzlxS21SbEdCR3hLV3hJek55YXlITTlVSFp3Y012TlVRLVpKbnMydEpZOEhEY0JINDJkcmtfRlB0S2tHRGVlX0laTUhkbDdrR2hfQ3NFYTNhVkxDUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T13:22:16+00:00",
+      "summary": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布  东方财富",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI：ChatGPT广告年化收入运行率已达10亿美元 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4Y1dBem1FcEhKeDhUclotV3RER2dpNGpzMWpGT1pFd0RmWTdBa1p6SWVSWUhrVnI1VVpvRzFfc0NINHEzbFFXX3Q5WkM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T13:20:15+00:00",
+      "summary": "OpenAI：ChatGPT广告年化收入运行率已达10亿美元  凤凰网科技",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT广告业务年化营收破10亿美元，OpenAI再添变现引擎 - wallstreetcn.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tNzR5QnJCZXd4S3REWkZqMnpYVHdCdldscFpxc01pSS1ob1k2VE1Sb2VmMGF5ZDhwbWtRNUJ2bWpYODM1N0UxOTBuQk9PWmRFNXZ3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T13:15:57+00:00",
+      "summary": "ChatGPT广告业务年化营收破10亿美元，OpenAI再添变现引擎  wallstreetcn.com",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "欧盟加强监管 ChatGPT成首个被纳入的AI聊天机器人 - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cm9pS3l5Zk1zRFNxeHQ3cFdGRmU2TWFodko2WEw5WVNha2E3VW13b0k2S3h0VFFaNDk1T3J5S3NGeDlvOTZocmsyLThTc3NaZHppRVljUVEwV0JhS2pRbm10Yk5rY2QxdHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T12:55:12+00:00",
+      "summary": "欧盟加强监管 ChatGPT成首个被纳入的AI聊天机器人  联合早报",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "复杂化工任务有了“智能伙伴”，智能化工大模型3.0 Pro正式发布 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMGVZeGtNWVhob0F1ZVRqS3hEMC1qN1FNS3pLVTJ0NlZqZEV0MWxJU1lxWWFzNk9sbEdwOWFfNGpEME0yV281ZFlnU3VrSEVvRU55cUFmMlJXdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T12:52:00+00:00",
+      "summary": "复杂化工任务有了“智能伙伴”，智能化工大模型3.0 Pro正式发布  上观新闻",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "刚刚，DeepSeek-V4多模态模型开源 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TVFUzZ1U4T1VhRzNOUDhJaDFNOVVQUkVhMmVnUDc5QmxXQm1Udk1ZN0xyMWh4MDZxREJwZmkyTFZjRFdIcnc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T12:33:39+00:00",
+      "summary": "刚刚，DeepSeek-V4多模态模型开源  智东西",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "上周全球AI大模型总调用量113万亿Token，环比增长21.11% - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHlkTUR3U2ZQTjNzVEh4dzBqTVpQemozbDZDOVhlZWttQnF5cVo2NTA0Ny12d05tNDdDQWdybURVaE51aWZJeTNyb3hxQno3S2F6TUlMS1RiTXBMSmZ5RUVqZWRVcGptX2VndmkzZk8wQ0J6d3ZoU3hoRUQ2anpDdUdFaXhxbUtPWndfQ1JRMm1xQWo5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T12:28:17+00:00",
+      "summary": "上周全球AI大模型总调用量113万亿Token，环比增长21.11%  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "工信部：加大大模型、智能体、Token等服务采购力度 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFhLRjIzSDlFR1Y5YzE0SGJzdWhkWmo1U0xpN1daV040eGU2N2pEcnQ2WjFwNmZGd2llT25qQUs5bm0yQlNBbV9kNXMwam8tU2FEbHBPQ1FPNWNaOUxWRTFOTkoxbFlGWTZYejQxazg0VTlsNnl6bHFBTk04U294QmhSYVBfRnc0cEYwUTREdll5Sm1RRXNheA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T12:24:09+00:00",
+      "summary": "工信部：加大大模型、智能体、Token等服务采购力度  新浪财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI智能体业务取得新成效，酷特智能2026上半年营收3.5亿元 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHl5VzFoclBLVEloVW1oOGZrUjVtMmxDc0Zady1kd0h3ZEIxalBTOFA3a1lsdWZzRFFQSzIwVlJVRXVzOGtGS0VnM0pRUFEzcjlHZjE4RS03YU0yRlVnYVAwekhuUGxHNHhWWUwtZm5kNzJyNnJBTG1sUWR4RWdpVmtsN2tiazh2cEZOXw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T12:19:00+00:00",
+      "summary": "AI智能体业务取得新成效，酷特智能2026上半年营收3.5亿元  Sohu",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -243,123 +289,85 @@
       ]
     },
     {
-      "title": "人工智能揭示癌症隐藏特征 - fznews.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWLTVPdjlXTmlqUnJfVk5OYjQ2WjlkTlNxc2Jha2tzN3Jsd08zU0tjMl9hSThBVDBLMWx5akV6MXZkcmg4R2hGV1BGYnhmUEFWcVdVa3VmUE4yMS1jTmxVWFBWU3g?oc=5",
+      "title": "OpenAI宣布广告业务年化收入达10亿美元，ChatGPT加速拓展全球市场| 乌克兰新闻 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBya0ZjRWI5eFJXN2NqNExjYmMwODNJTVIzRVlybkQ0NkJKVFgxYmJVMjYxdVJzRnE5azdkbzN4bUVXT2dFMHB2dkU1N19IQ2w3YTUxRnlwVG1mN2VvRlZiZG0yU1hZYXM?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T11:38:14+00:00",
-      "summary": "人工智能揭示癌症隐藏特征  fznews.com.cn",
+      "published": "2026-08-31T10:53:00+00:00",
+      "summary": "OpenAI宣布广告业务年化收入达10亿美元，ChatGPT加速拓展全球市场| 乌克兰新闻  Межа. Новини України.",
       "categories": [
-        "other"
+        "openai"
       ]
     },
     {
-      "title": "数博会上感受人工智能科技魅力 - 极目新闻",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EQ0Y1alRsNEM2MWQtQU1zVVluakVUYkNlLWIxMy1jYTlsRGpxNDJoTGg2S2p5WEJGTVB2LW9wVTJXdF9mUnNTZG9Ccjh6YkpmQm9JR09KS1JfWGc?oc=5",
+      "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wRDdXN2FCNGVxOGhlZ2hSUlI3ODluRGJYdHRaNEVsaEdvR2ZvRzdoZmR4VGZURjUteUdScExtUEhMMi04SFZhZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T11:18:17+00:00",
-      "summary": "数博会上感受人工智能科技魅力  极目新闻",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "海南瑞泽等成立智算科技新公司 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0xXaGs2alExWnpwVzR3aEYyRExueVdfbV9lVVFEdm5VUk5NZ3NGcXFXZm8weGcyNy1WMG9QeGp4THRLZndES1ljYTQ1azBzN0FFTGFSS0J2VG5FWVZvWGJWdXJXNHYweGE3VXZlMlMxZ2F5Q3ZkLTN0ZlFfaDBTcER0MA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T11:13:18+00:00",
-      "summary": "海南瑞泽等成立智算科技新公司  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "海淀AI产业再提速，联动发展区划定8.65平方公里“新赛道” - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5acjJEbXlLeVItb3U1SEJtWUpqdGRuWkJ5elV2ZkdfUDQwZHdfLUpQRHZYSmVpOFk0aV9LNWJ4V3h3S242UkNEVjQ4V3BlbGpVNVdPemxNeVFJNC1ZMzQ3Q3hld00?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T10:55:00+00:00",
-      "summary": "海淀AI产业再提速，联动发展区划定8.65平方公里“新赛道”  新京报",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGVocm9tUGwxNUdhNkdjdWxJZTd6ZlRUUms0cnJxaW5DV2FUcXFjNWNkTncxSmZNb1BaTTZJYV9EOE5UMkV0TXhadlliRWtEUm4wbmhBdEo4clBNMGs1U3ZGeUlVR3lBdHJNa2FpalFaZmtYak5UbG1VVUFETW1qQjNHUUpWdTMwM255ZXR4OG9wcjRremxsNXRqUUdZTkht?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T10:35:00+00:00",
-      "summary": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件  新浪财经",
+      "published": "2026-08-31T10:37:24+00:00",
+      "summary": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件  财联社",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "CCTV《新闻直播间》：高校开学季“科技迎新” AI领航员机器狗上线-新闻网 - 北航新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Xb2VNek5fY09aSnNmNzlpR1h2WHVCWFQ0SmkxNjVJcWpCdW9oOEdrNEN3QlBaWmJ4dDdnR1lqM2dhUGFnZnVRcGM5QlVHSmpPOENBOTE4dw?oc=5",
+      "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0 - 雷峰网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xYmYycUdheG1rZ3NCTENPYmlRWHJRZmhoaTc1MUNsY3hYOVJUeml2S2RzeVZxSWlBNHRzOHRaS19xd0JQalRUZlpYNUljVHpzbmZjV2tZbldJVkZDamQ5T01zWlgwUU1wRm1HMnJwTHlhdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T10:33:51+00:00",
-      "summary": "CCTV《新闻直播间》：高校开学季“科技迎新” AI领航员机器狗上线-新闻网  北航新闻网",
+      "published": "2026-08-31T10:35:00+00:00",
+      "summary": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0  雷峰网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "联合OpenAI首办亚太区大会，钛动科技分享ChatGPT Ads 落地路径 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IZUg0dlphZmJ0d1FsVzVTX202aktqeDluNXE2YjNqaGtCZ3RIQWxHUk5uOEoxa204TnRnbE5ic2VCY1dEUlE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T08:11:49+00:00",
+      "summary": "联合OpenAI首办亚太区大会，钛动科技分享ChatGPT Ads 落地路径  智东西",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "国光量超发布玄幂大模型，将量子算法融入模型决策任务之中 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lOEhYU2Z3T01IbDgtM2hlUk5neE5qcXB5RldkZmV0NUd3SnhZN2ZIMVRPNThUbE40Z0dwZzNwZkZxSVRDTUpZOXZGZEFoS2ZlRTlhZXNQMXQ3M0RvemV0Vw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-08-31T03:12:00+00:00",
+      "summary": "国光量超发布玄幂大模型，将量子算法融入模型决策任务之中  光明网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "人工智能可能重塑金融市场：经济学家警告央行或将失去先机| 乌克兰新闻 - Межа. Новини України.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bd3FCbUNpbVNobEhDalE0Z053bHdSeC1UbVNqQTRTYlB0Y3FkWXJIUm5aTjJwUGpuT0Y1Qm02YmJlXzloaVlBc1JZTEFvbDRkc09RYTBWV2UwWTNNd08zRDVBSQ?oc=5",
+      "title": "Astra接管OpenAI，创立第三代智能体文明的新模型有多猛？|ChatGPT|Hugging Face|通信|测试|评测 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHZub2k3TjBWM2ExMjFOMHJWT3VISkRxRWtqMWwzQ2gtLWlESkdfZTRFcmlXMDRsczl0SEE4MjJrN0xMSDJyUlQ1aV83VUJLX29WMGNxanJvWVFBdWNyTGFuNnlXWE51TklteEo0TDJYQlN0TWU1VjdzLUduemp0MHJrdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T10:20:00+00:00",
-      "summary": "人工智能可能重塑金融市场：经济学家警告央行或将失去先机| 乌克兰新闻  Межа. Новини України.",
+      "published": "2026-08-31T01:19:32+00:00",
+      "summary": "Astra接管OpenAI，创立第三代智能体文明的新模型有多猛？|ChatGPT|Hugging Face|通信|测试|评测  新浪财经",
       "categories": [
-        "other"
+        "openai",
+        "tools_apps",
+        "open_source"
       ]
     },
     {
-      "title": "中控技术以产业经验参编工业人工智能领域三项国家标准 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSG1WdGhqOXRZYW1uTU1aMWRWWnk1M2JyS1I4dFBETUtOYkNoY24zZElpTUtWQ3AyU0ZPNmJ1RVpCczlkcjZYSkJtano1ZUREZzNLalpSRW9kdTJveUZ6WHZQMF92VVZoYkpjY2pIYTA5N1FkX1pSRkV1eTczV0FqeERJWFk2TE5SMHNRXw?oc=5",
+      "title": "OpenAI高管：ChatGPT与Codex合体，终局是个人AGI - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VTU9JNnBkM2lGT01iQlZjVm0wQ0lLTEN6R0VjUGEtTkgwY2JsTi1teG1xbG8wRGRQbXBiWmZHQW9uNWxjWS1CNUtjcTBNQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T10:13:20+00:00",
-      "summary": "中控技术以产业经验参编工业人工智能领域三项国家标准  Sohu",
+      "published": "2026-08-30T17:04:00+00:00",
+      "summary": "OpenAI高管：ChatGPT与Codex合体，终局是个人AGI  36 Kr",
       "categories": [
-        "other"
+        "openai"
       ]
     },
     {
-      "title": "浦发银行首席人工智能科学家郑波答上证报：AI在高频业务中成为稳定生产力 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxal9lRVk5aS1qUmFRVnhiaUMyTFNRYTZuMnZFZE9IU29PNnE4VDRYektQNFR3TzdndEdiUXRRNG50UXVpM1dDSUVqVzh0aXpnUFB0LXZwdkxFdzBJMXh1Rm9aTUVYdw?oc=5",
+      "title": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvUlFLWG5iSEY3bTFaQUNya05LRjd0RDU1UnBWcC13S3c5TFhTcDJ5V24yU29nX0JkT3JaS3hGSVZEOEtDS1c0eFVXWjZyQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T10:04:20+00:00",
-      "summary": "浦发银行首席人工智能科学家郑波答上证报：AI在高频业务中成为稳定生产力  东方财富",
+      "published": "2026-08-27T09:44:00+00:00",
+      "summary": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界  36 Kr",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI•边界：智能体的底线与天花板丨引领区观察 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sTktUOTR3SzhZS0sxVzFoX0J4ZzVjbDExRTlMcHZ3c2FNWHpjR3UyTU9Ld0NVay1MeXh2UEpTZ2xpRHF5YXZqNURkNy1vanBMRS1PdA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T08:54:15+00:00",
-      "summary": "AI•边界：智能体的底线与天花板丨引领区观察  第一财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "工信部：探索通过首购首用、风险补偿等模式 加大大模型、智能体、Token等服务采购力度 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtSUNrSVN6eWQwR2V4SWdTdmVuQVZERF9MaU84YzZLcmVxakU5MGQyN0gwa2RwaDU3UnRLZ2RoQi1hN3gzOXZCag?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T07:16:43+00:00",
-      "summary": "工信部：探索通过首购首用、风险补偿等模式 加大大模型、智能体、Token等服务采购力度  财联社",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "全国首部公职人员人工智能素养评价指南在贵阳发布 - hainan.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yd1FZVlVxS3VhZ1U2RWg5eDlINGpia2stNDNNVEcyN1dBX3dDRkMzcGppWUtOeVF2T1hNSHJ0aEFtTkFtTDFJZXp5V2RsVHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T05:00:00+00:00",
-      "summary": "全国首部公职人员人工智能素养评价指南在贵阳发布  hainan.ifeng.com",
-      "categories": [
-        "other"
+        "anthropic"
       ]
     }
   ]
