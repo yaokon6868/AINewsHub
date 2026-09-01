@@ -1,25 +1,95 @@
 {
-  "updated_at": "2026-09-01T12:25:54.752089+00:00",
+  "updated_at": "2026-09-01T16:50:40.597002+00:00",
   "items": [
     {
-      "title": "谷歌前应用人工智能专家创办Guickly，获420万美元种子轮融资，助力企业掌控人工智能投资。 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zUHJBbW5NeXQ1UmhYamVfTmtRU1NHRWdrWnRYTEFyR28yZHhrVUNqR0R6WXh1bWFuWGdpYjVDSmV6cWNmZC16LTc5QQ?oc=5",
+      "title": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》 - 发现报告",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPNk5sSWNrREtBcFA5eTR3U1ZNVmtEMlBOeVBkVzkzV25vRzFaUTBuYkNqQXVmRzBZYVRxdFVLZ19URWp2U0pmMlJ1V29jb0lO?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T12:13:47+00:00",
-      "summary": "谷歌前应用人工智能专家创办Guickly，获420万美元种子轮融资，助力企业掌控人工智能投资。  finance.sina.com.cn",
+      "published": "2026-09-01T16:36:48+00:00",
+      "summary": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》  发现报告",
       "categories": [
-        "google",
-        "breakthrough",
+        "other"
+      ]
+    },
+    {
+      "title": "大模型两巨头交卷：智谱开放平台及API翻27倍，MiniMax亏损21亿 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2hjb2lSVWw2R3Q1U1Fqa1pHWk5ET1BhNmxaMXlpeHdDZkFLZzhQaDJZcFU0bzBoZW1fMTRubFpEZzh1WWxBTl92VzVlVS15bzdfTDVjZGpONUVDQ1Zyb1ViT1Q1RkJiajFJUUdaRnlRMC05VWRUaG5nNzlxT0Zpcm5JcHd0dGdC?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T16:19:00+00:00",
+      "summary": "大模型两巨头交卷：智谱开放平台及API翻27倍，MiniMax亏损21亿  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "科大讯飞开源两款端侧支持百万上下文的大模型 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZY05TYnVENG5PRkZxcWxFNDI1N21yLUMwQmQzSGg4Q3d5WGJJQUNwTnRUOW80NXBNZFJuWTRiTnpQY0tFajd6eU05aUNSTHRjUmd5MTlhOXBoZGsybW8xWEZrQmQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T13:57:00+00:00",
+      "summary": "科大讯飞开源两款端侧支持百万上下文的大模型  新京报",
+      "categories": [
+        "local_model",
+        "open_source"
+      ]
+    },
+    {
+      "title": "CPU在智能体AI时代迎来复兴？ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWRaRWgtcnBUWHFkWm5zUUhqeEpqX0J3RUZ5T1RwMGVjRkN4QVZjcGNyMHd6M0l5cmp6VUxiQnJvUmYzckpTTGYtWldFRENoUHZaakJKS1JzMXkyTVhMQy1wWkVHbzZ3RHBHNElYaEgxMHJpeldTTTZ1NjBBUzF3TTlGR2Vxd0tDZlozdA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T13:38:00+00:00",
+      "summary": "CPU在智能体AI时代迎来复兴？  Sohu",
+      "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "上交所与中证指数9月2日发布上证科创板人工智能应用臻选指数 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBObE85ZlZaRVV5c0pfbzVCYUVyS1dCc1BtS0xkbm1BbGtUODUtWHB0WHFNbzd2RUh3ZGlNRWZ3amtzLUx5VEZUdUp4aE1NLWtFSWFwcW5HR2VoeE9mS3dGaFh3?oc=5",
+      "title": "刚刚，A社自曝「最坏Claude」！150人紧急转岗，新品开发全停 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYndxaTV0ZFpSNjhadFprVEhOVC1vZjZobjUxRFBvRzdMTU1MbzUwSDMwRV91VzB3UF9xSHFqSmNGYWNrbEJuelZDb2psaXVScGF3WW40dnI3OXg1bVowZHVJbWlRMFlzOElhWEdQdzZyTWFZeTBreGxicGh6RVQ3emloNHZBRGdR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T12:12:11+00:00",
-      "summary": "上交所与中证指数9月2日发布上证科创板人工智能应用臻选指数  观点网",
+      "published": "2026-09-01T13:12:56+00:00",
+      "summary": "刚刚，A社自曝「最坏Claude」！150人紧急转岗，新品开发全停  Sohu",
       "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "沈阳：“智慧和平”智能体进校园 以科技赋能教育场景创新 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9BbVo3TlFpTWRVNDlJQkRyU2xQeEI0MGpWcXJSeW5lN05FQ01RRkFLeEtXTmpoNjY3MWV5MFhkSHdiVkdHOHhVSGNJbmQ0REVMN3JLRDJ0OUdDWnYzTWFSZDA0X2tJMktqcThpSWlIeTJLbmJJZ1p5eFNrTExteUpjVlRDcTh4Yms2Mw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T13:12:23+00:00",
+      "summary": "沈阳：“智慧和平”智能体进校园 以科技赋能教育场景创新  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "「AI新世代」大模型终于学会“赚钱”了？智谱业务“大换血”，API收入占比超八成 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVlQQ0pReUVNRklrVHFuMm14MDh4LW81ZnRucDRvT3pVT01IaU5XREpxdU43NTFOWWZncWU3UVJsRUMtZkExU09QWTJvSkFLQzBhTmNRSHc4cFpjTi1peW91bFhaZ1FGMnZrSTdWdGhwcUZLM2VLTE5HOWxmNFN5akxVeldhc09Z?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T13:07:00+00:00",
+      "summary": "「AI新世代」大模型终于学会“赚钱”了？智谱业务“大换血”，API收入占比超八成  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "印度拟在统一支付接口推出智能体支付 食品杂货或为首批场景 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ySDJqRVE5OUlkc1FLZWtNbUxxYnVxTXVPQzZRdFd6YVB3U2ZURVVxTENsdFRQWW8tN0tHS3hkUGg4NWtFb0dRMTdaTVJJZXh4SExRdkFlUFVsQ1RnSUx0YnZn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T12:52:17+00:00",
+      "summary": "印度拟在统一支付接口推出智能体支付 食品杂货或为首批场景  观点网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "“豆包手机”量产机型9月上市 全球首款AI智能体手机 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51b01uUlc4azAxSnhicDZfN2xNMnlPVWlNOVJGMTdhcTVHQ3h2VG1KNlF1WEttckhDTzNTc0NYVFpPeF9nZlFVUDBPLWg1MllDQWRBeldZRlFqWWhWNkdFTUdMdGFoeDZFY3BBQzVXSDY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T12:47:11+00:00",
+      "summary": "“豆包手机”量产机型9月上市 全球首款AI智能体手机  中华网",
+      "categories": [
+        "breakthrough",
         "tools_apps"
       ]
     },
@@ -34,24 +104,24 @@
       ]
     },
     {
-      "title": "罗永浩质疑新能源车企未接入顶级AI大模型 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHazZLcUJhSXNlZlJxWmVpcVJZODZjS1hOdnVpVGV2YWRMb1hhbFhYVFk0TnFXcnRSTHV6MnVCVXpkWG5Pc1lVaXA1QmdpMzBjUFdEMy1hLVhXRENYa1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T12:00:03+00:00",
-      "summary": "罗永浩质疑新能源车企未接入顶级AI大模型  DoNews",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市|中兴通讯|大模型|倪飞|Agent|豆包_手机新浪网 - finance.sina.com.cn",
+      "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市|中兴通讯|大模型|倪飞|Agent|豆包_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQVFtN3VBLUVaUF82Zm1nLVg1LVlwb0pFeFdGczNPRGpvelItM2lydG5vWlFWR0x2MU1jM2FBdmF1RkRoMi12RnFJU2lmX1k0ZVBWejFyX0VuaGwwQUVaTl94c2M4bEUzQmhhSEJEM05tbkQ4c0xPOUdfZHhwbWs?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T11:59:00+00:00",
-      "summary": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市|中兴通讯|大模型|倪飞|Agent|豆包_手机新浪网  finance.sina.com.cn",
+      "summary": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市|中兴通讯|大模型|倪飞|Agent|豆包_手机新浪网  新浪财经",
       "categories": [
         "breakthrough",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "罗永浩吐槽新能源车企AI大模型“垃圾” - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLa1NMVUhsUFpJVC0yRGY4RjVPQk5rZnFRc1ZzRDRHX2l5M1IxZGc0Nks2RmVPOEZYcExoS1lKSC0zenF6MTVXZFZVTVg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T11:58:48+00:00",
+      "summary": "罗永浩吐槽新能源车企AI大模型“垃圾”  凤凰网科技",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -65,54 +135,13 @@
       ]
     },
     {
-      "title": "AI时代我们为何“用而不言”？|ChatGPT|经济|财报|纽约时报|使用技巧_手机新浪网 - finance.sina.com.cn",
+      "title": "AI时代我们为何“用而不言”？|ChatGPT|经济|财报|纽约时报|使用技巧_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QRU1EM3N2VVY3by1yMFRwMzNUOV8xU280cXFSZzktOFJDVXVyWVFBVmQtTnZqUzRnY00yaUhaZmV5RWdmX0JMbHh2MHB6LWh1ZmFzSTRQN1ZOajY5STU0Y19tclhTd3VTcUxlLWNkSHpEU0V3RDVweg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T11:53:26+00:00",
-      "summary": "AI时代我们为何“用而不言”？|ChatGPT|经济|财报|纽约时报|使用技巧_手机新浪网  finance.sina.com.cn",
+      "summary": "AI时代我们为何“用而不言”？|ChatGPT|经济|财报|纽约时报|使用技巧_手机新浪网  新浪财经",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "罗永浩吐槽新能源车企AI大模型“垃圾” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0YtWGtSSUVZbHhHS1k0ZEF2QVQ3Z2tJSzJ0T1JfdDRTWnNzMVdXVjNaSVhLVFE2dGFNRXNWMVdlNnU1YmdKVEVZYXpaajRFa0lKajJGNkZtN0lkcHY0aVZpNlJVNjBGeHJTdzhtRWN0bklmV3FaVlB6QUdXTFNVMWNaanVrNXoz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T11:50:49+00:00",
-      "summary": "罗永浩吐槽新能源车企AI大模型“垃圾”  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "全球首款AI智能体手机努比亚NaviX Ultra获入网许可，9月正式上市 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeWtMOGk0WFN0WlFLMnJuM3Z6U2E0dllxZVAxZ1FISjFQTkhGMW9HbDJ2VENiNldUZnppZWtCQk15cnNhckQ0b0o4U3VuQVBJTUJHUGxkOFJPYXdPSlBPa0pPd3NJdHhCRER6d0xyMlNNSWxQRnlqNWJONXVMekVrVGhRZl9sZW9zWWoxVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T11:45:00+00:00",
-      "summary": "全球首款AI智能体手机努比亚NaviX Ultra获入网许可，9月正式上市  Sohu",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "印度准备在统一支付接口（UPI）推出智能体支付功能 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90SmxHdjVnLVIyQnBaZWxpc2hGMEVlT2l2NG9MU2JDdTB6b3dKMm5jUXVKSHQxRDlYN0otUjlQYnV2dTJtTVlhbDR6TQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T11:40:09+00:00",
-      "summary": "印度准备在统一支付接口（UPI）推出智能体支付功能  finance.sina.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "新政驱动AI家电扩容升级，头部企业加速布局智能体赛道 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTFicEROTFlnczd6Nk5ZcjdhVHNHbDRlTVh4dUlMcGM1RC1EVmpGNlFtQ3FLckFJOVlFZnMtU1djZndwZmdUdDVRb3BSOGtVam04UnlXMFA5YnBTU0RqRm41Z1RqTG5kTGw5RWU5dlFFVy0xR09oMDNUY0JMN3dWTjNUTUJpOXhv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T11:37:23+00:00",
-      "summary": "新政驱动AI家电扩容升级，头部企业加速布局智能体赛道  Sohu",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -126,14 +155,23 @@
       ]
     },
     {
-      "title": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍 - 雷峰网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waXk3SFdWU3lmbEZtYy1ndHJSeVV3aGJUXzRrTG9EV1cwdldXazBJcjdEMlpUZmNjSS1EblRWcDVDZjIwQnNHbjBjQ3BycURBNzZKM1pUWFdjVWF6MENUbDZ1LUlZOUJwUnc?oc=5",
+      "title": "合见工软发布下一代EDA智能体及三维设计产品 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3c4dXRET2FiR29CT19DR3hDbnYzNm9aaHVOMzJROFA0enhqXzR0LWc0eDJMZ3V4eVlDU3NuZWhMMTB6OGFveDUySFF6QXFiY01pRXFVUXRwWEc4OFpNN3pOc2M2cy1sQlRHWU5zOWZNdWh4ejdHcGlBcHlLSGRESEptWTJpUENX?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T10:43:53+00:00",
+      "summary": "合见工软发布下一代EDA智能体及三维设计产品  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "吃菌控血糖？合成生物学造出“降糖智能体” - 新华报业网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zYzh4NW5kVjFDQzNpTGVNMjZzNElJT3gtZkw5cXRCVGtZUXc2bFlMUnNRYVBlTlZaektiLVcwMGRRbjFZWWlnY1hBUmlDME51bTVCbENvNVV6dXJWa25nUGg0ZjA1eXdSYlRJ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T10:38:00+00:00",
-      "summary": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍  雷峰网",
+      "summary": "吃菌控血糖？合成生物学造出“降糖智能体”  新华报业网",
       "categories": [
-        "other_big",
-        "open_source"
+        "tools_apps"
       ]
     },
     {
@@ -157,32 +195,11 @@
       ]
     },
     {
-      "title": "罗永浩吐槽车企AI 大模型太垃圾|罗永浩|新能源车企|ai大模型|kimi - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5TTJ4RF9PeTNJZ0NEeXo2allROGpZNnNuSlltRVM5MjFrTGdUN3lJUmZjV0pJMEU5dzFoa3VwYThPQ0hEX3J3ZW9WcDhPT3BXT0FwLUNCQjVtOU5jOGZsSld6MA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T09:59:00+00:00",
-      "summary": "罗永浩吐槽车企AI 大模型太垃圾|罗永浩|新能源车企|ai大模型|kimi  新浪网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "【视频】4纳米芯片+AI大模型，车机体验全面升级 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LSEJkazQ3emVqMURzd1Q2emdqUEpNNVhFRHNwRFlqSmxlR0UwQkpRelc5bmJIeVBhSXdkckV2UGhZcmNteVhVVXlJcmlkaFBHYzJLTGpNbEZTd3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T09:42:41+00:00",
-      "summary": "【视频】4纳米芯片+AI大模型，车机体验全面升级  汽车之家",
-      "categories": [
-        "image_video",
-        "chips"
-      ]
-    },
-    {
-      "title": "创业江苏│5瓦，让大模型走下云端，走进普通人的“口袋” - tech.jschina.com.cn",
+      "title": "创业江苏│6瓦，让大模型走下云端，走进普通人的“口袋” - tech.jschina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdUF1UVdPRGJlLTk2aEkyZ0VDc1BTamEwTXgxLUFjUTg5OFBYaENXSFl6WDVRcXFxUm9abU9mVjFfSldnNWpQMEw0eUVyc09xeDBjc2JEZzNvdi1CaExKUThwWDhLNFAtNFNQNllzMThIVmlLUVBwWEpnWmxXaS1mX0x3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T09:36:00+00:00",
-      "summary": "创业江苏│5瓦，让大模型走下云端，走进普通人的“口袋”  tech.jschina.com.cn",
+      "summary": "创业江苏│6瓦，让大模型走下云端，走进普通人的“口袋”  tech.jschina.com.cn",
       "categories": [
         "other"
       ]
@@ -198,6 +215,16 @@
       ]
     },
     {
+      "title": "工业世界模型解析：大模型、工业小模型与物理AI如何分工？ - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jc1pZUHplTlZsZGoyVEQ0RlkzZjFEbDVGVVUySGJhRXFaR0lQQVVLRk52dUdzTmRyaGQ2ekNMX0g1blh3X19DMUZENS1vNHBSSjY0U04zREdTeHppWlZPRHlMMWVDa1ZtcjZYbm5R?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T09:15:55+00:00",
+      "summary": "工业世界模型解析：大模型、工业小模型与物理AI如何分工？  中华网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "Anthropic为Claude推出内置浏览器，正面竞争ChatGPT - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmc4ZWZLVnhiUl9FcXQ2V28tSUkwTVotakdPOVFweTRIMGpYYmpYcHF6NFlNbFUtblpjMU51dThGX2hQSkJCLXpYM1RFeGRwMEpUWDl0dklaWUhneGRIdDBWUDd4M2tBLXpiaFpuQzd5NkN6SWNaeXNfcVZNQ0R0cnZ2VDhpb0ct?oc=5",
       "source": "Google News - AI(中文)",
@@ -208,13 +235,13 @@
       ]
     },
     {
-      "title": "合见工软发布下一代EDA智能体及三维设计产品 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWEg4cUt1aWVuZm9tM000TWFoMGxtdzMyb3BOV2hpY1d2SFVCTFFSdkhKNlVDQjE2LTYwMUlNbUU4Q21jVHhHbGtBRTYwNzQyRG1BWWJCaTl6YXJ3WmNvNUtjZ1ZFR241UEpXWTR0ZmlaOXdEemxocXlrU2FmM3JNbVZ1SThlS0FoQzZnRw?oc=5",
+      "title": "Anthropic Claude 完全指南：功能、模型与定价全解析 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTE51eEhpS3hlMzdaX0kzTUtucThjU0duTjMweFRYUE1VZEh1OE53R3BQWlZMTzNTaTM1QUtYTDh2cEljejdVRkh1YmhQTHVzc29kMlZZd2ZfUnBraW5xQXBhVnpocTFLbE5XZ1ZodlN5Y01mSnF6dDdWdXNRUXpnckxhYloxY2xX?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T08:54:15+00:00",
-      "summary": "合见工软发布下一代EDA智能体及三维设计产品  Sohu",
+      "published": "2026-09-01T09:10:00+00:00",
+      "summary": "Anthropic Claude 完全指南：功能、模型与定价全解析  Sohu",
       "categories": [
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
@@ -223,16 +250,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T08:36:00+00:00",
       "summary": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？  雷峰网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI：ChatGPT广告年化跑速达10亿美元 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2l3MUdBRDVHUEc0ZktFRzZ0YU5LZDFBdDdZTENVTllSU3ljdWZ2cGhjOE5ZbXlwMnVRejJGYjBtUm1PVkMxVko2Q1lXa3Y5MFNVMktqd2tOYVgxTkFkaGo2VXgwblZCVVBkNmVqbmlsQ2U1VFYtYU1fU01yNVp3WXA1ZW53enEx?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T08:14:22+00:00",
-      "summary": "OpenAI：ChatGPT广告年化跑速达10亿美元  Sohu",
       "categories": [
         "openai"
       ]
@@ -258,13 +275,13 @@
       ]
     },
     {
-      "title": "2026年“数智赋能云课堂”第1期“从大模型到智能体时代AI进化新路径”9月3日开播 - acfic.org.cn",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGdxbDJSM2U1YWo4S28xelB4RFRQTGE0cG8tNXZwdmNOa01mb2IySDdVNUlJQVpvaS1nSWVBMmQ5Mk9LRk9LTVBCTElQQmpqU1Rldy1pRUxGZWxpSHNqb3R6ZGdJVkpSbUhwQUxsR08wZ3paaWRHWTY0Y2FpNklERFc2MWgzUQ?oc=5",
+      "title": "五角大楼官宣：战争部今天启用了军用ChatGPT，此前人工智能公司Anthropic因拒绝向五角大楼敞开全部权限而遭政府“封杀” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUl5bzR5OXhOUmVNUnpjTWlSZzZtbEVtd0IzczA4Z2k4WmVISVVHTnRpQVZON0VMOG1POG91OG1kc2RDbFl6bjZBcHpTeHljS1JKRWFfdkVQLVRsdVl0NW12UDhxN0lsR01mMlh2YXJGVHpDREdiLVhmQ1pha3VsMlRtNDdob3lQa2RkdA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T07:31:39+00:00",
-      "summary": "2026年“数智赋能云课堂”第1期“从大模型到智能体时代AI进化新路径”9月3日开播  acfic.org.cn",
+      "published": "2026-09-01T07:34:40+00:00",
+      "summary": "五角大楼官宣：战争部今天启用了军用ChatGPT，此前人工智能公司Anthropic因拒绝向五角大楼敞开全部权限而遭政府“封杀”  Sohu",
       "categories": [
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
@@ -298,33 +315,23 @@
       ]
     },
     {
-      "title": "微软Outlook和OpenAI的ChatGPT Work出现用户宕机 - finance.sina.com.cn",
+      "title": "微软Outlook和OpenAI的ChatGPT Work出现用户宕机 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM202bklRajZ1R1ZtV0o3YjdxNmV0M2lKRjdFQnJsOGtNeU9lX01QMHVHVXZHZEgyWnlhak9sLTRwUEN5dHVBWUNiQkxmSDRaTmRZMEowbmRwbUtTcDhEVjIzal9UTmRXc2xYZHRkSFExUEtaWHZCTVZWQ002cGZNbGtwWmRHQjZYZ2E4S2RSYjhYU1dXdGFKZ1Qxc1ltWExYODB2ejJHTnlXUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T03:35:18+00:00",
-      "summary": "微软Outlook和OpenAI的ChatGPT Work出现用户宕机  finance.sina.com.cn",
+      "summary": "微软Outlook和OpenAI的ChatGPT Work出现用户宕机  新浪财经",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "我国化工行业首个大模型3.0版发布 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnowOWdQT3JfQmVuMjJzaGp2b1FENUpSLWotQU44VzZVSlJ1R3lvUUhYWU5IcEo2NjREZVQwUG5XVzJ2bkR4dzltNWQ0X3c3VEZXTEtrM2sxa0dacEJrZWFqeUtsMGtFQ2tJQ0J1dGJETkUtRGh6Z3pJelJNb19OcGxVWjh3MWlTZDlrMg?oc=5",
+      "title": "中通云仓科技发布“云知AI大模型平台” 开启物流AI应用新篇章- 跨境电商 - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZFR5ZFFpMmV1cU9kMWQ2cmhNTmxIdzE4a0NTOXdFa2tDUE9vUDl3WUxleG8yUkllanBCVTBSb0ltTG1EbE0yb0luTHdTZHJUU2VFUm1B?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T02:49:02+00:00",
-      "summary": "我国化工行业首个大模型3.0版发布  Sohu",
+      "published": "2026-09-01T01:51:24+00:00",
+      "summary": "中通云仓科技发布“云知AI大模型平台” 开启物流AI应用新篇章- 跨境电商  亿邦动力网",
       "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业 - tech.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Q29OV1dZRWkzcTJkanRNR1ZhQUxZRHZmbzZkV1I1ZElyYkhINVRwWnhMLWJMVndYQWFkQlhDT2VsYzlyalFnQ2tQaXA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T00:00:42+00:00",
-      "summary": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业  tech.ifeng.com",
-      "categories": [
-        "anthropic"
+        "tools_apps"
       ]
     },
     {
@@ -339,31 +346,21 @@
       ]
     },
     {
-      "title": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布 - 东方财富",
+      "title": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布 - finance.eastmoney.com",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UYTRRVTVqeWIxMzlxS21SbEdCR3hLV3hJek55YXlITTlVSFp3Y012TlVRLVpKbnMydEpZOEhEY0JINDJkcmtfRlB0S2tHRGVlX0laTUhkbDdrR2hfQ3NFYTNhVkxDUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-31T13:22:16+00:00",
-      "summary": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布  东方财富",
+      "summary": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布  finance.eastmoney.com",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "ChatGPT广告业务年化营收破10亿美元，OpenAI再添变现引擎 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tNzR5QnJCZXd4S3REWkZqMnpYVHdCdldscFpxc01pSS1ob1k2VE1Sb2VmMGF5ZDhwbWtRNUJ2bWpYODM1N0UxOTBuQk9PWmRFNXZ3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T13:15:57+00:00",
-      "summary": "ChatGPT广告业务年化营收破10亿美元，OpenAI再添变现引擎  华尔街见闻",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Astra接管OpenAI，创立第三代智能体文明的新模型有多猛？|ChatGPT|Hugging Face|通信|测试|评测 - finance.sina.com.cn",
+      "title": "Astra接管OpenAI，创立第三代智能体文明的新模型有多猛？|ChatGPT|Hugging Face|通信|测试|评测 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHZub2k3TjBWM2ExMjFOMHJWT3VISkRxRWtqMWwzQ2gtLWlESkdfZTRFcmlXMDRsczl0SEE4MjJrN0xMSDJyUlQ1aV83VUJLX29WMGNxanJvWVFBdWNyTGFuNnlXWE51TklteEo0TDJYQlN0TWU1VjdzLUduemp0MHJrdw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-08-31T01:19:32+00:00",
-      "summary": "Astra接管OpenAI，创立第三代智能体文明的新模型有多猛？|ChatGPT|Hugging Face|通信|测试|评测  finance.sina.com.cn",
+      "summary": "Astra接管OpenAI，创立第三代智能体文明的新模型有多猛？|ChatGPT|Hugging Face|通信|测试|评测  新浪财经",
       "categories": [
         "openai",
         "tools_apps",
