@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-09-01T19:46:26.283802+00:00",
+  "updated_at": "2026-09-01T22:27:39.476120+00:00",
   "items": [
+    {
+      "title": "《哈萨比斯：谷歌AI之脑》：DeepMind的使命只有一个：解决智能问题，然后用它来解决其他一切问题。 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vcmZPdTRVaWtXV3FVQmI2c19lZDcta3k5OWI2cjhnTDBzd1JCSVJqcEl6TDlCYUVsenM3SkZMNGhTWXg3bl9yOHIyM0t1TmZRTlJpc1g0Qk9ReGRJUGJPNmM1RUJRaE1fN2ZVNmJsaXI0aWJHaXFIeWlIU0xqd1k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T21:31:48+00:00",
+      "summary": "《哈萨比斯：谷歌AI之脑》：DeepMind的使命只有一个：解决智能问题，然后用它来解决其他一切问题。  新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "地球最强大模型也开始强调性价比！Anthropic上新Fable 5.1 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDd5Q1lEcF9VWTdEbEVHUy1WM0p6c2t2UnZpOEZyM3pCdldzcF9WNFZIei1walJSZnNpU01vd2dKTlNFOU5XY3VDVllZcXZyVGUwa3ZLeGJvWGFKNVNvMDdmYV9WWFRwV0s2Q0xyMWlJRDhzUHh3OEJrLW85X0loTTI4aXJPTXVz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T20:43:00+00:00",
+      "summary": "地球最强大模型也开始强调性价比！Anthropic上新Fable 5.1  Sohu",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "罗永浩吐槽车企车载AI大模型，呼吁接入豆包、千问满血版本 - 雷科技",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16dVJhSjdHQUk0YW1ZcDh6M2FYSU9DbXU1MzBaR05WWXN1TDRhMm51R1ZqSlJkUlQtSXRYbV9oUEFWVTN2ejViVzQxZllxUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T20:03:45+00:00",
+      "summary": "罗永浩吐槽车企车载AI大模型，呼吁接入豆包、千问满血版本  雷科技",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "DeepSeek 开源的第一个多模态模型，不是拿来「看图说话」的 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbW5hVHh2R0lUTDFWc05FcUpRRW1TejMwanpJQTZKcXdRU0I5WjRjZG54THM2VzRWaTV6b1F2NDRoTG1PWDdJYjN5dksxazVXYm4xNmNBUUxSRDQ0RXFHMS01SVE0aTFWRDc0YWprSmdnbWMyX1B6eks3cXJiTVR4dnNOQkgtUllraGdCQXhhM3VDaG8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T19:32:09+00:00",
+      "summary": "DeepSeek 开源的第一个多模态模型，不是拿来「看图说话」的 - OSCHINA - 开源 × AI · 开发者生态社区  OSCHINA",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "Android 9月 Drop：Find Hub 可记忆无追踪物品，Gemini Live 推出 Guided Vision ｜#AI资讯# #Google# #Android更新# - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjBOeC1XdDVobjl3cXB0NlYwUXdrV0Q5ejVGVEFiMnEyZmFuVHA4T2dZT3NSUnlCUEZQcHFsM2tmRU5vNlVOUXU2dHdDU2ZmTnpnQkZwak1YaWstNXozWHNleGJVanJ1aFVXdFd5eE5sSGQ1Vk5VRWpQbTU0YzNpRTluc2d4SExrNk9GMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T19:07:26+00:00",
+      "summary": "Android 9月 Drop：Find Hub 可记忆无追踪物品，Gemini Live 推出 Guided Vision ｜#AI资讯# #Google# #Android更新#  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
     {
       "title": "汽车行业内的首个AI大模型发布 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQVEpSOWxiOWZMejFrYUhQcjFsaVRHaUk3bzZUQi1SUmFtLThHdnFyU291OTZ5WHU1b2ZkRXZNQnZkaV9FWmxUX1Ewc2ozLXhsUExXaFU1YUhQcHI4RGE0WlowRlcwQjJBTS0wbWNaRVVIeFlyRGJRRg?oc=5",
@@ -22,16 +73,6 @@
       ]
     },
     {
-      "title": "2027款帕萨特Pro正式上市：双大屏+AI大模型，1.5T/2.0T双动力 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sYWhseEtpaFpDV0Nxb3kxYlFIb3NNUmJsUVVqc0oyTlUzN1RyYkUzSS1aNF92eWZyUGVObHFlLVJfUDB3dVloekFudmY4bnVnZkIzUmZPeTJNcUU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T17:08:15+00:00",
-      "summary": "2027款帕萨特Pro正式上市：双大屏+AI大模型，1.5T/2.0T双动力  汽车之家",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "21评论丨全球垂直AI开始拥抱中国开源大模型 - 21财经",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRxcWdQN2FDNXM3NmJmbG9GaUVMaXo2NklZZkcwOUpZSHppMHdIMGdnTWpabVhQMlE4RHh6aHpUaXVCdV9EdTBEOF9rekRDdzVrSk12R2NuWi1HWXZCQmVOTThLYy0zMU1SVUJzRVk3VWlYUUxMNTAzYjl3NHJrcUxRMA?oc=5",
       "source": "Google News - AI(中文)",
@@ -42,23 +83,44 @@
       ]
     },
     {
-      "title": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》 - 发现报告",
+      "title": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》 - fxbaogao.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPNk5sSWNrREtBcFA5eTR3U1ZNVmtEMlBOeVBkVzkzV25vRzFaUTBuYkNqQXVmRzBZYVRxdFVLZ19URWp2U0pmMlJ1V29jb0lO?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T16:36:48+00:00",
-      "summary": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》  发现报告",
+      "summary": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》  fxbaogao.com",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "大模型两巨头交卷：智谱开放平台及API翻27倍，MiniMax亏损21亿 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2hjb2lSVWw2R3Q1U1Fqa1pHWk5ET1BhNmxaMXlpeHdDZkFLZzhQaDJZcFU0bzBoZW1fMTRubFpEZzh1WWxBTl92VzVlVS15bzdfTDVjZGpONUVDQ1Zyb1ViT1Q1RkJiajFJUUdaRnlRMC05VWRUaG5nNzlxT0Zpcm5JcHd0dGdC?oc=5",
+      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相 - 时代在线",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tSms2Q0N0ZURHSC1taVczdm41VkVrakx3bEJYVmlxNDJ2LVNzUVRfVXotZFFHUzZlS0N6MmpQTUFLSzlZSjkxYzM5bw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T16:19:00+00:00",
-      "summary": "大模型两巨头交卷：智谱开放平台及API翻27倍，MiniMax亏损21亿  Sohu",
+      "published": "2026-09-01T14:59:07+00:00",
+      "summary": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相  时代在线",
       "categories": [
-        "other_big"
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "九章云极缪旭谈AI for Science：我们需要大模型和符号系统的组合拳 - techwalker.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBidDFYSl9wV0tmUEdkaE81OWtlWUIwblVPQTRtQ0tVTFhTQ0dDX0ZxcHkxc3N4SFVQYjRPRUtlT3FlcUZoeDc2ZGd2S1pNRjVLb21qU0ptTWRIZnZwQTA4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T14:51:00+00:00",
+      "summary": "九章云极缪旭谈AI for Science：我们需要大模型和符号系统的组合拳  techwalker.com",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "科大讯飞开源两款端侧支持百万上下文的大模型 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZY05TYnVENG5PRkZxcWxFNDI1N21yLUMwQmQzSGg4Q3d5WGJJQUNwTnRUOW80NXBNZFJuWTRiTnpQY0tFajd6eU05aUNSTHRjUmd5MTlhOXBoZGsybW8xWEZrQmQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T13:57:00+00:00",
+      "summary": "科大讯飞开源两款端侧支持百万上下文的大模型  新京报",
+      "categories": [
+        "local_model",
+        "open_source"
       ]
     },
     {
@@ -92,26 +154,6 @@
       ]
     },
     {
-      "title": "罗永浩吐槽车企AI大模型[吃瓜] ​ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SNTR6d0dWNHp1NUM0OG1aWDBVNmZIOUU1a2otNDNHOUE4N0dhQ3hWZldIaGpiTFJqSmxiUlNsRUdJNm9MOVFrZ1BrVFYyWWE1d2JEMmgzeXNRR2NFOTFOLWlFbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T12:44:00+00:00",
-      "summary": "罗永浩吐槽车企AI大模型[吃瓜] ​  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "​合见工软发布下一代EDA创新矩阵 Agent智能体战略正式落地 - 广州日报新花城",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbzFXNHdtTFl4WW9SUGktaUEtSFZKRC1DX21ZeGV1MEtzeVNIT0hBTmQ2Z0M5MEtQX2F6ZVFXeVN3eFZMcWtaRzZfVGU1Vmp4M3RlM29EZUJISnVpdVJKeFJVY2ZKZmZrQ0FKWjVFS1FzNTVINHBsLS1sSTZmMlMtUExIT3ZXS0I2LWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T12:15:32+00:00",
-      "summary": "​合见工软发布下一代EDA创新矩阵 Agent智能体战略正式落地  广州日报新花城",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "全球首款AI智能体手机！努比亚NaviX Ultra正式入网：9月上市|中兴通讯|大模型|倪飞|Agent|豆包_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQVFtN3VBLUVaUF82Zm1nLVg1LVlwb0pFeFdGczNPRGpvelItM2lydG5vWlFWR0x2MU1jM2FBdmF1RkRoMi12RnFJU2lmX1k0ZVBWejFyX0VuaGwwQUVaTl94c2M4bEUzQmhhSEJEM05tbkQ4c0xPOUdfZHhwbWs?oc=5",
       "source": "Google News - AI(中文)",
@@ -120,6 +162,16 @@
       "categories": [
         "breakthrough",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "罗永浩吐槽新能源车企AI大模型“垃圾” - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLa1NMVUhsUFpJVC0yRGY4RjVPQk5rZnFRc1ZzRDRHX2l5M1IxZGc0Nks2RmVPOEZYcExoS1lKSC0zenF6MTVXZFZVTVg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T11:58:48+00:00",
+      "summary": "罗永浩吐槽新能源车企AI大模型“垃圾”  凤凰网科技",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -143,16 +195,6 @@
       ]
     },
     {
-      "title": "印度准备在统一支付接口（UPI）推出智能体支付功能 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90SmxHdjVnLVIyQnBaZWxpc2hGMEVlT2l2NG9MU2JDdTB6b3dKMm5jUXVKSHQxRDlYN0otUjlQYnV2dTJtTVlhbDR6TQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T11:40:09+00:00",
-      "summary": "印度准备在统一支付接口（UPI）推出智能体支付功能  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "智能体浪潮之下，我们需要什么样的信贷文化？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZ2xKeW1qaEEtMzRudGdkUWlrUHdYZ3Q3QUFUTVBMLTBVclZNdEQ2SU1lZHoxQ1NOQlhSbEZZaTdRV2piRENPYzN5Y2tUX0dnNHgtanJja0k5T282SWJHRlB0Tm1raGJfZDNTRnJJSktDQQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -173,21 +215,11 @@
       ]
     },
     {
-      "title": "合见工软发布下一代EDA智能体及三维设计产品 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3c4dXRET2FiR29CT19DR3hDbnYzNm9aaHVOMzJROFA0enhqXzR0LWc0eDJMZ3V4eVlDU3NuZWhMMTB6OGFveDUySFF6QXFiY01pRXFVUXRwWEc4OFpNN3pOc2M2cy1sQlRHWU5zOWZNdWh4ejdHcGlBcHlLSGRESEptWTJpUENX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T10:43:53+00:00",
-      "summary": "合见工软发布下一代EDA智能体及三维设计产品  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍 - 雷峰网",
+      "title": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍 - leiphone.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waXk3SFdWU3lmbEZtYy1ndHJSeVV3aGJUXzRrTG9EV1cwdldXazBJcjdEMlpUZmNjSS1EblRWcDVDZjIwQnNHbjBjQ3BycURBNzZKM1pUWFdjVWF6MENUbDZ1LUlZOUJwUnc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T10:38:00+00:00",
-      "summary": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍  雷峰网",
+      "summary": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍  leiphone.com",
       "categories": [
         "other_big",
         "open_source"
@@ -199,16 +231,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T10:32:34+00:00",
       "summary": "从大涨9%到跌3%！大模型双雄股价巨震  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "国产大模型要和硅谷巨头们抽成30% - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONThvS2pYcDIwUzZPUlRZZ19jMzRSNU9wd1JVVFJrM0lZZFprN1NQMC1UWUN1dXlQd0wwVHhDS0RRNlNWX3R6amh0bmVRQjRDSHlXdm43NGIzbUVGWjE5M3hxT2hycUk1MHpMMGlkMmMwMzd0SmtHbU9KMFB5WFp5dkFSc0hjVjZvSXY2ZQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T10:01:01+00:00",
-      "summary": "国产大模型要和硅谷巨头们抽成30%  Sohu",
       "categories": [
         "other"
       ]
@@ -234,41 +256,11 @@
       ]
     },
     {
-      "title": "工业世界模型解析：大模型、工业小模型与物理AI如何分工？ - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jc1pZUHplTlZsZGoyVEQ0RlkzZjFEbDVGVVUySGJhRXFaR0lQQVVLRk52dUdzTmRyaGQ2ekNMX0g1blh3X19DMUZENS1vNHBSSjY0U04zREdTeHppWlZPRHlMMWVDa1ZtcjZYbm5R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T09:15:55+00:00",
-      "summary": "工业世界模型解析：大模型、工业小模型与物理AI如何分工？  中华网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Anthropic为Claude推出内置浏览器，正面竞争ChatGPT - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmc4ZWZLVnhiUl9FcXQ2V28tSUkwTVotakdPOVFweTRIMGpYYmpYcHF6NFlNbFUtblpjMU51dThGX2hQSkJCLXpYM1RFeGRwMEpUWDl0dklaWUhneGRIdDBWUDd4M2tBLXpiaFpuQzd5NkN6SWNaeXNfcVZNQ0R0cnZ2VDhpb0ct?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T09:12:00+00:00",
-      "summary": "Anthropic为Claude推出内置浏览器，正面竞争ChatGPT  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic Claude 完全指南：功能、模型与定价全解析 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTE51eEhpS3hlMzdaX0kzTUtucThjU0duTjMweFRYUE1VZEh1OE53R3BQWlZMTzNTaTM1QUtYTDh2cEljejdVRkh1YmhQTHVzc29kMlZZd2ZfUnBraW5xQXBhVnpocTFLbE5XZ1ZodlN5Y01mSnF6dDdWdXNRUXpnckxhYloxY2xX?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T09:10:00+00:00",
-      "summary": "Anthropic Claude 完全指南：功能、模型与定价全解析  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？ - 雷峰网",
+      "title": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？ - leiphone.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ec2UxcXFqbjhmQ1BjS3Q4TFFjNGxMQU05djFVejdmaENXOGkwNkt3UEYxbGE1dzdyX0lMc0poTjlHOHZub29fZ3cydTJZZHhkbWdncUxuQUl0NVVjS2hiZENoMFItZkY0enc1RVlUWVpkZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T08:36:00+00:00",
-      "summary": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？  雷峰网",
+      "summary": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？  leiphone.com",
       "categories": [
         "openai"
       ]
@@ -301,6 +293,16 @@
       "summary": "战争部今天启用了军用ChatGPT，此前人工智能公司Anthropic因拒绝向五角大楼敞开全部权限而遭政府“封杀” | 极目新闻  极目新闻",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "合见工软发布下一代EDA智能体及三维设计产品矩阵 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUnBvQXNZQTMtRC1YVVc4aVZoOS1SUWdUZ194Zm5oazk1WDBRWnQ2R3ptSVY5b3ZZNEQ0bEZGNHRad2RCTkZBY0hSRTZSMXZJZVFxaWVlMEZ4NDg4NFhBLXc3WkY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T06:58:00+00:00",
+      "summary": "合见工软发布下一代EDA智能体及三维设计产品矩阵  光明网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -355,13 +357,13 @@
       ]
     },
     {
-      "title": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UYTRRVTVqeWIxMzlxS21SbEdCR3hLV3hJek55YXlITTlVSFp3Y012TlVRLVpKbnMydEpZOEhEY0JINDJkcmtfRlB0S2tHRGVlX0laTUhkbDdrR2hfQ3NFYTNhVkxDUQ?oc=5",
+      "title": "明略科技发布2026年中期业绩：智能体化服务收入同比增长605.7% - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUh3R2c4ZEpxZFFBdm9RRW5RR2pHN3RWVTEtRDhnc3lLS0VudThxbmFfWjNCRkF2cExrbEZnMVpyczlLZXRDUUFTV3BjdXlqS0FTc0UxeG42XzFJd0pmSEFWNkZhZWVHb3BIelNydDVMd2U0bHFUMU5jNUJ1UE1nQ1R4V0tuNGFEVHc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-08-31T13:22:16+00:00",
-      "summary": "MaaS收入同比增长2736%！“全球大模型第一股”最新发布  东方财富",
+      "published": "2026-08-31T14:36:57+00:00",
+      "summary": "明略科技发布2026年中期业绩：智能体化服务收入同比增长605.7%  广州日报新花城",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     }
   ]
