@@ -1,14 +1,75 @@
 {
-  "updated_at": "2026-09-02T09:27:13.353088+00:00",
+  "updated_at": "2026-09-02T13:48:21.803979+00:00",
   "items": [
     {
-      "title": "九章云极缪旭谈AI for Science：我们需要大模型和符号系统组合拳 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hNTV0Ump6MFpXeTVSWGRKOHhPOVFZdGwxQVJsU3hDRXFtNlF0QUliaEZVdDV6UXZyOWw5MC16em10YWtuSkFERG5hTnJLbGNvbzB5aHRqdWlyaVN2Z2szUDRqb3dkdmZTTVpWWlRaWjcyMGpFeWJtVnNNSmR0RXc?oc=5",
+      "title": "制造业有了本体，大模型就能落地吗 | 智造观察 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGFtTmhtOWFIT0Y0YklNN2VyVVdHRC1LMkxlcG00MHp4YTlkWU5YUzJhajhTbm9yVXRMUXFJei1XRTdkdkR6MUF5cWhZb3c5cjMzYWVteWUyUjI5RHVRYmJ6UFc3WVhpSlgtUUpYRnJUTUJfS0txZTQtcV9OSzF0bWlKV3VURXY4VUlQdA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-02T09:10:32+00:00",
-      "summary": "九章云极缪旭谈AI for Science：我们需要大模型和符号系统组合拳  新浪网",
+      "published": "2026-09-02T13:02:58+00:00",
+      "summary": "制造业有了本体，大模型就能落地吗 | 智造观察  Sohu",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "Kimi API 已原生支持 Codex 和 Claude Code - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54UWJJRUlQQUpVWmVPdnNKaDlJLXdRT0dOcHhHeDlWeE1Ebno4bEFnaHRybkdManFPOEZqWTQ0OEJiTWJ4WTJzTHltWWxtVDhPOGJqUGRWM3l3NmZTYmpmT1VxbXJEa3RRQ0JfMEFINW8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T11:41:55+00:00",
+      "summary": "Kimi API 已原生支持 Codex 和 Claude Code  53AI",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "2026年网安周将发布《2026年人工智能技术赋能网络安全应用测试结果》 - 光明网",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyQUtzUW8xTDBvS2ZlSWIybHhaRWZkMlFtRFVkTGtRNnBvWWRwdFRUWVlaRndsTEZEVk5MUEY3S1Z5RnNNYmJMQnU1VkRkd0kyMjVtbXBhclpVZE9FYlFuNg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T11:11:00+00:00",
+      "summary": "2026年网安周将发布《2026年人工智能技术赋能网络安全应用测试结果》  光明网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Fable 5.1发布：跑分翻倍是面子，思考块\"上锁\"才是里子 - 潮起网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOR0YwZUFWdzFVNk0yVTBqcy1NVlVfNU5mQkh3THRlZ2dlVXVOOUF5UTVUMTdTUEd2Ty1TOW5UTWsyekcwRUQwc3piTmpRcnU5NEtQNmFpNmJhMDhSb1RMU3JPTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T10:30:02+00:00",
+      "summary": "Claude Fable 5.1发布：跑分翻倍是面子，思考块\"上锁\"才是里子  潮起网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "谷歌Gemini 3.8 Flash被曝将发布 编程能力有望追赶Claude - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1pXamxvNDZrOVRGQXhTLWpHdkwzNWc4eS00bldmMkltVEptLVRyLUdWT1c1b2JIaWlmTktkMll1dlNabjhIbEFJT1h2LVNfX1JCYmNIRkU1NUFleDZjb0F3VTVyOG9SZnliM0dlSS1TcnpLb0NEM1JKTVVidDYteUlWeGJhcnoy?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T09:44:00+00:00",
+      "summary": "谷歌Gemini 3.8 Flash被曝将发布 编程能力有望追赶Claude  Sohu",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "AIR获5000万美元融资，助力企业审查AI智能体所用工具与插件 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUpFV1NSYWFsXzh4SXVTWGZiZDg4QkVuLWt3eTJuNkhiM1l5NTRmclBDVUY4TlJ4ZEtaOEtlSjhnWHd0LTRXeG9maWRWMHp4R0pMQXhxZTE4d3R2UElWSlNtQmhQc19lWFZPM2puajN2ZHRYUU1XR01JdVdoakdmTmZMQUgwNTlp?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T09:40:00+00:00",
+      "summary": "AIR获5000万美元融资，助力企业审查AI智能体所用工具与插件  Sohu",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Fable 5.1，宣布与Lambda签署云服务协议 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTY5MC16ZEhiUlJRcExHY2lCWDRKSHo4Vm1hZEZLbjhVUDBEZHR5LUlSQWNLenotSXhzcTVlb1NHdkxYS3NmMjJXSDdjeGxnVGRBdzFRYmlUQU1RUFdtQlVoZFgtUGc4UE9VQ1ZQLXQ4c1JnMV9JV3ZYSGdvSkdEVTE4eVZ4OUxp?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T09:16:00+00:00",
+      "summary": "Anthropic发布Claude Fable 5.1，宣布与Lambda签署云服务协议  Sohu",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -22,6 +83,18 @@
       ]
     },
     {
+      "title": "肖志夫：ChatGPT加入美战争部AI系统将成为“超越对手”的工具？ - 乌有之乡网刊",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vQmdtcGN3RmlHR05RRHJsNUpiczV0MjFwRGNITXotdjl0amMyZmZEMVVwTF8tdmlKdjBiRV9oWVdkY2pVbnZmbkVEaVpwckxTUUJLZXlVaTZvYm85c0xuWV9ySlRfN2s?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T09:05:13+00:00",
+      "summary": "肖志夫：ChatGPT加入美战争部AI系统将成为“超越对手”的工具？  乌有之乡网刊",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "“远景天机”气象大模型迎战“三台共舞”，护航风机安全发电 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakx6VUc2eXNLQkd1ZnVNUUJTYzItcVFqbk9GWllPcjZYMlZFT0hiWTFBNHdjdFdESVhRUEtGbXFteDVRem5TN016bjFxdE8wZk9pQ0pzOVZoZE5USWxOOTd6X2ZyQUliMkVjMmhjTi16Q3AtNXdFeUZaMEhJaFJ6ZGpHWlBQRHdOc0lXSQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -29,6 +102,16 @@
       "summary": "“远景天机”气象大模型迎战“三台共舞”，护航风机安全发电  Sohu",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "豆包工作功能更新，支持多智能体并行 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Wm5JMC1JLVpmVHpDQUFmTzBDTmt4dVBXdEJfUlhLNzBfSlY1ZzVobTJYcFFQeUlkUUhjWVNTcnREZFRRLXh5RHU1elRIVnMzc0VTeUpYYldobkppU3l6cnZGMDk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T08:46:00+00:00",
+      "summary": "豆包工作功能更新，支持多智能体并行  新京报",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -53,16 +136,6 @@
       ]
     },
     {
-      "title": "Fable 5.1来了：号称全球最强，Anthropic也开始卷“缓存价格” - 36氪",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15QUV3bWEtX2t2VVVCNUxWTFB0bkdnVGpiUkF3WHVXNzF1OWJoQm55Rm5UbG82OVk5ZzRVUlo5eExjdlBRVVI3UklKWkQtVjg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T08:06:18+00:00",
-      "summary": "Fable 5.1来了：号称全球最强，Anthropic也开始卷“缓存价格”  36氪",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "洪祖运：12年积累，大模型让智合重新被看见 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdE9wbkdHRHBHY2R1dEN6UUpROFpPWG5RVXRCYUh0cXI4dUNIb0hBd0t0S0NLbTJfdnBVb3NURXFFR01JbU50M282cXZael9yV1JVMlBiQk1YanN5RHktbjRRZDJJbEhDR19USkdZT1dfVnVWVVdscVZ4Y2JBN01IY0RIVmw2Nmc5?oc=5",
       "source": "Google News - AI(中文)",
@@ -73,21 +146,11 @@
       ]
     },
     {
-      "title": "马斯克预告Grok 4.7大模型十天后上线 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNU45TW9XS3ZLSVFzQXp5QXhlck5MMjRXc0JkWW5XUEVodklMNkRDRlI5V1ZFQkUxUHUzbGJkNHBPOXNDNm9QdzZDZ0FIZzhWREJpUS1rQ00tcGJsWHh6MHMyZm95OURDcHJ4by1leU9ucEM1TmhQZ01WbjJOZXpDZFRndGxHRmxo?oc=5",
+      "title": "腾讯AI智能体开放平台上线 - zaobao.com.sg",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Xb0xEa0cySUlUaXZoS2U1a3pqVW94QTB0VU50ZWMxcGI0TXhubDJaM3hHbi1HdWdPdlBfTEw1N0M5TXo3cksxUzIwaDFBcFF5azB0UzBDYXJqbEpza1JDVWhVRFp3cWFfSVE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-02T07:25:46+00:00",
-      "summary": "马斯克预告Grok 4.7大模型十天后上线  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "智谱入驻天猫开旗舰店 上架大模型订阅套餐 - 联合早报",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52OWpaWkdmalJ0UWhHUjRpX1NDOHlLUkpKeFdYUFRTc29JR1dIX0lnUTJMZ2NMcjZieHNRTmlvOE1TR3VlSC1UbjVkQWt1aVl3VGl3SjhvZGpQQU5ZVURrNzlLOS04UE1CdXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T07:05:27+00:00",
-      "summary": "智谱入驻天猫开旗舰店 上架大模型订阅套餐  联合早报",
+      "published": "2026-09-02T07:22:57+00:00",
+      "summary": "腾讯AI智能体开放平台上线  zaobao.com.sg",
       "categories": [
         "other_big",
         "tools_apps"
@@ -104,13 +167,13 @@
       ]
     },
     {
-      "title": "10亿美元只是开始，ChatGPT终于露出了广告生意的野心 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTlaV0FNSWhKV2Z1VUFHY2pwS3dLUmJTR0E1clRPMnNlWmFPQTRfUnlPQ1RhYWNNMGQwbmJyUlhCOEdkSEwwNjJJUUZ1TWJYNlhfX0pxcTF6azNrUHNRTXlMb0dXM3d1YjRJelAzQkVHc0xTS2dKRWhEeEU1Q0d6aDZrTnRkLXRTYTN5Xw?oc=5",
+      "title": "AI大模型周榜：国产GLM-5.3-Flash首秀杀进代码榜前十，千问3.8-Max登顶前端榜 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CV0dsTm84VTZtTHV1eW5lejJjRUlUOGhIc3BxV2NYWEJCN19mVTNLZGtNWXlPeUNYenNIS1pRRzh3SmVMWjBfakNLZVc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-02T06:59:00+00:00",
-      "summary": "10亿美元只是开始，ChatGPT终于露出了广告生意的野心  Sohu",
+      "published": "2026-09-02T07:02:48+00:00",
+      "summary": "AI大模型周榜：国产GLM-5.3-Flash首秀杀进代码榜前十，千问3.8-Max登顶前端榜  凤凰网科技",
       "categories": [
-        "openai"
+        "breakthrough"
       ]
     },
     {
@@ -144,16 +207,6 @@
       ]
     },
     {
-      "title": "行业给了具身智能五年,为什么还没等来 ChatGPT 时刻? - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXF5cFlLSDdfUkI2aU0telh2LWhfaUp6MkFNR3B0ZUdBZnF4ME9kaTlrWnlIUFdORFhsOFh6SXJXVlItOHFDdlZCU1g5eVA4TFhBdzhlTEp5dVk2aFVQMTJNd0YtTUVHQTV5OTJpZEJQVTlGRkRDMmpMMWYySTk5Skc2eDdDNGp1d1hSRg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T06:27:24+00:00",
-      "summary": "行业给了具身智能五年,为什么还没等来 ChatGPT 时刻?  Sohu",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "谷歌最早将于周三发布 Gemini 3.8 Flash AI模型 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9obVFVVHZGVzhYOE51SVdjWS1oLTN4YkstZ1JWQnhKTU5yWXlmMU5WSmM0WW80WGlJQURya1hrVDZfamd3ZW9wS2lxcWtBNjN5Q0ZUU1lrckM4ZDV1dEpCRDVyTQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -161,6 +214,16 @@
       "summary": "谷歌最早将于周三发布 Gemini 3.8 Flash AI模型  东方财富",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "用ChatGPT算作弊，那找人代笔呢？新争议背后藏着老问题 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOU5oeHhxUFJxLUM0UWlmMFlVbUwzeS1BdTFVTnUtR2ZVdUd2RV9uTUotLVFmd0EwRGl0c3BvMEJOMk95cjFhV1Rway1LNXJKZUIxMHJtUVViS1kyNnAwZ2licmR3dUQ5UlcxV1NIRk5EVXUySkJHdV9md1VRTVZ1a1RSMjV4cGRKOUY2aA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T06:07:04+00:00",
+      "summary": "用ChatGPT算作弊，那找人代笔呢？新争议背后藏着老问题  Sohu",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -175,13 +238,23 @@
       ]
     },
     {
-      "title": "谷歌被曝本周推出Gemini 3.8 Flash，Pro还在拖 - 网易新闻客户端",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTlmQXk4MnBMcDR5cm0xZFNEUDNMN0xta2ZQdEEwT3EwQnNJTWN5dnhLZWhKanZUTEE5MHRBa2xpNWQ4a2NCUkRVYnB3OV9WYjJWUFNaSjBvdmkyN1NaNHRnTHJ5M3lTTWdwRTBlOGNYLWF6UGE5NnkyV204eDR5RVdn?oc=5",
+      "title": "俄罗斯联邦储蓄银行亚历山大·韦佳欣：今天，我们正在搭建中俄智能体经济的新桥梁 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjTXFIWU50SzN3dzJIR0c2TTBldFdZZ24xRERrdHVHaElTaXRjS1ZPVTJSNDF4bmhTNGxjc1pueUZqYzRLZXN6eTU3MnU0Q3ZjUGxlc3NrWWVsak56dFE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-02T04:58:21+00:00",
-      "summary": "谷歌被曝本周推出Gemini 3.8 Flash，Pro还在拖  网易新闻客户端",
+      "published": "2026-09-02T05:06:29+00:00",
+      "summary": "俄罗斯联邦储蓄银行亚历山大·韦佳欣：今天，我们正在搭建中俄智能体经济的新桥梁  中华网",
       "categories": [
-        "google"
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "罗永浩炮轰新能源车企 “做的AI大模型都挺垃圾” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVYzUTJ4UXZVOG9DQld3YmZ0UjYzbFIzRU43TU9jME5WTlFvbUxOMXdzSVZ5YkdJakFKa0FEeTJsUURtc0lGcEgxWm9MdzNmRnpod2ZpT1VJcUV6U1dPNHhuTGplUk15Ul85eExsRU9ibWlwMkJqblVUZ1ROSjluLUR6d0ZRVGVz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T04:26:19+00:00",
+      "summary": "罗永浩炮轰新能源车企 “做的AI大模型都挺垃圾”  Sohu",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -190,48 +263,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-02T04:25:00+00:00",
       "summary": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "肖志夫：ChatGPT加入美战争部AI系统将成为“超越对手”的工具？ - 乌有之乡网刊",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vQmdtcGN3RmlHR05RRHJsNUpiczV0MjFwRGNITXotdjl0amMyZmZEMVVwTF8tdmlKdjBiRV9oWVdkY2pVbnZmbkVEaVpwckxTUUJLZXlVaTZvYm85c0xuWV9ySlRfN2s?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T04:22:51+00:00",
-      "summary": "肖志夫：ChatGPT加入美战争部AI系统将成为“超越对手”的工具？  乌有之乡网刊",
-      "categories": [
-        "openai",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智谱入驻天猫开设官方旗舰店，大模型套餐可网购，个人月付118元 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xR0tER2k3czlwX2wxdndLUUp2V09HYUtRQXVJTDdrYXp0VFlWRzdMVW40N05QMTVsZWNhRE1UUllmUWJVbXB0SGZtSnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T04:05:43+00:00",
-      "summary": "智谱入驻天猫开设官方旗舰店，大模型套餐可网购，个人月付118元  凤凰网科技",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "大模型厂商，正忙着自备“干粮” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTZrMzNCX09MSDJhYTBMU1U5cGFCZmRULThCQXR0QzQyWlkyTjlBTjBKck85dVBLVDl0ZzJjNXFFMFdjX1JqaTJTelVfdzZVbzBvclpidUJZckRvSWtpeDFRSVV5Snl1Q0xHenF1MjlpVVlEWTFvdGZnV29Eb0tQMHFNXzRZRTRk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T03:53:25+00:00",
-      "summary": "大模型厂商，正忙着自备“干粮”  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Anthropic上新Fable 5.1！地球最强大模型也开始强调性价比 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlVUZDJKa19ibl9LRHJ1djAwV0VpeWlJT3RoUFdweEN5ZktDRkxhenZuci01Qk41bXJuZXFTTHpvQkZOZk1jQkF0V0w5aTllOE1kN012S01DZnQ4aHpWSlIwRHc3WDFsTlRkTlRyTHFibVFxQkpNdW84ZDdsdlJ0eUpIYnVvUnFC?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T03:02:24+00:00",
-      "summary": "Anthropic上新Fable 5.1！地球最强大模型也开始强调性价比  Sohu",
       "categories": [
         "anthropic"
       ]
@@ -268,24 +299,13 @@
       ]
     },
     {
-      "title": "地球最强大模型也开始强调性价比！Anthropic上新Fable 5.1_快讯 - iheima.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tMUlFMlVpZ3RMLV8tV0x4aExsTzdtTUF1S2J1ZVVJN2RUMlFQYWdDXzdjY2h3SjQ3V0RtMUdncVdTT1JWZTAxVTliVDVfQmp1ejZR?oc=5",
+      "title": "Claude 越狱后，Anthropic 停掉训练、150 人紧急转岗 - infoq.cn",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSDlZdWpzNURrVGtTLV9mTUJkTnczazQ1dEFvMDZSU1AwcGF3YkNKWVpUbDVIeTU3MnFRdVc5R0tHXy1xaHhzdWd6Z3dFdFZJcy1zYWpXLUlXUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-02T01:50:00+00:00",
-      "summary": "地球最强大模型也开始强调性价比！Anthropic上新Fable 5.1_快讯  iheima.com",
+      "published": "2026-09-02T01:43:18+00:00",
+      "summary": "Claude 越狱后，Anthropic 停掉训练、150 人紧急转岗  infoq.cn",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "报告称中国AI大模型无需超越Claude：位居第二即可 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZndsWndybVVsLXh5RmFiTV9sa19pdkpyeDNkQldhYWV5UVl0Vkxua09Kdl9NckR6eE01NHN1ZVgzQVdDa0lZdW9BVUR1ZnlFam5WNnJpQmtKUjNqV3VHWVNCczRQc0hOdGt0WElrNEpDaldQdWliaWRDN01PWkRmWENrSDVNSGl4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T01:40:00+00:00",
-      "summary": "报告称中国AI大模型无需超越Claude：位居第二即可  Sohu",
-      "categories": [
-        "anthropic",
-        "breakthrough"
       ]
     },
     {
@@ -294,27 +314,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-02T00:16:44+00:00",
       "summary": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业  新浪网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic 发布 Claude Fable 5.1：智能体任务成本直降 45% - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2hSQ0ZnTWxfT05pNHdxTE9YZlpoMFViT3FUZUJXUlVhVkh1b3N3bGNCWERHUzJLTFBXNGtzOVZlRTIyVERXZ3E0dlM1NDdBMDEyTFJRUWdHMjQ5TjRtcjlCT1JYdUt6YWp5aTFDMEVHMDNQS1N4d1NGUjhja05QcG5ZT3h0WlFReVBvUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-02T00:02:30+00:00",
-      "summary": "Anthropic 发布 Claude Fable 5.1：智能体任务成本直降 45%  Sohu",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFVvSFhIU28yWW1LSWJ1NFU3NnlOLVJGQ2Y1ODhES0IzOEtLekg3cU9GcnhGNlVaaV9maFFsZEJJRmptZmdBWG0yTHFUd2s2b1hvUWJjOV9zU2pGanR0cHlxZmNCNGhBcklQRDhZMGlJQ1czTG9CRHNzeXJOMDVCSldHSTZLWURB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T21:58:43+00:00",
-      "summary": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线  Sohu",
       "categories": [
         "anthropic"
       ]
@@ -363,13 +362,13 @@
       ]
     },
     {
-      "title": "中国化工行业首个大模型发布最新版本 从知识问答向智能执行跨越 - fj.chinanews.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fTjRyTlBJeGs2bzN0bEtLQWcwQmVZdGtRMDRjM1N5TmJITjgyeGtJbDFDc3FzVmFGczVaWXVnbjAwaW5CSEJTZjNFWmMxWFZXeUxqWmsxQUZiaUhSc21oblRkbklmaU1ZSm9iZ3FhV1dvdw?oc=5",
+      "title": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvUlFLWG5iSEY3bTFaQUNya05LRjd0RDU1UnBWcC13S3c5TFhTcDJ5V24yU29nX0JkT3JaS3hGSVZEOEtDS1c0eFVXWjZyQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T07:43:10+00:00",
-      "summary": "中国化工行业首个大模型发布最新版本 从知识问答向智能执行跨越  fj.chinanews.com.cn",
+      "published": "2026-08-27T09:44:00+00:00",
+      "summary": "刚刚，Anthropic发布物理MCP：Claude开始接管真实世界  36 Kr",
       "categories": [
-        "breakthrough"
+        "anthropic"
       ]
     }
   ]
