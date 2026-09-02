@@ -1,12 +1,83 @@
 {
-  "updated_at": "2026-09-01T22:27:39.476120+00:00",
+  "updated_at": "2026-09-02T00:26:53.573675+00:00",
   "items": [
     {
-      "title": "《哈萨比斯：谷歌AI之脑》：DeepMind的使命只有一个：解决智能问题，然后用它来解决其他一切问题。 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vcmZPdTRVaWtXV3FVQmI2c19lZDcta3k5OWI2cjhnTDBzd1JCSVJqcEl6TDlCYUVsenM3SkZMNGhTWXg3bl9yOHIyM0t1TmZRTlJpc1g0Qk9ReGRJUGJPNmM1RUJRaE1fN2ZVNmJsaXI0aWJHaXFIeWlIU0xqd1k?oc=5",
+      "title": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02ai1zSnBySTU2c0JRZk4xaDVPcEs2MHhjLTZxSS1NTGVHLXJRLWYtd29kMjlVaEpvQllFcUlxQTFTbDhmbHFFci14TDBkTEgwYk1EUGJXQ1lDNmlaYWdsNnhGSW5BanpyaXFESHp2UEF2U0l2MUZDZjFkbzNVQk0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T21:31:48+00:00",
-      "summary": "《哈萨比斯：谷歌AI之脑》：DeepMind的使命只有一个：解决智能问题，然后用它来解决其他一切问题。  新浪网",
+      "published": "2026-09-02T00:16:44+00:00",
+      "summary": "Anthropic详解7·30安全事件：配置错误致Claude“入侵”真实企业  新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic 发布 Claude Fable 5.1：智能体任务成本直降45% - icloudnews.net",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94MGdrZTV0VWtyMXhoY2xIaU1aNGhGM2EtenBsakdZNzJfakRSbm9UQ3lydEMtcUdRajJDdEFCRTh2Zmc2VnN1RjZrbFFCQ19ya3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-02T00:02:00+00:00",
+      "summary": "Anthropic 发布 Claude Fable 5.1：智能体任务成本直降45%  icloudnews.net",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "火山引擎发布AgentSentry 打通三大安全产品 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UMThSSTZDYWdkWFRLaFhUeml6TEFtT3BRTzBfU01xem5KTFVUX0h2ZjFBbEJVWFBvMHVDT1JuT0RrVW1pMDJkbVV5eDZVM3FUd2Vya1ltelhDVGFmTEhzSUZB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T23:58:32+00:00",
+      "summary": "火山引擎发布AgentSentry 打通三大安全产品  观点网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic发布Fable 5.1：科研、编程能力翻倍，成本最高降45% - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVE1uYV93U1pjUTJSeUhISkJfUmsxMk41SkF5eTJ3QXphdTZsemlmeGFxUVNHY0VaRXJ0NE42QXVJWjZDYUdnT3BpWXNUNTN4dno1MVhWQmF0T3VWU0JHckZFbTVaUVdlRVVOMzE2MHhXcUpCUmI4eW5JVTJNcWo3aHlHWUJtUER6YWNWeE1rbEJ2MmNX?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T23:50:48+00:00",
+      "summary": "Anthropic发布Fable 5.1：科研、编程能力翻倍，成本最高降45%  手机新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线 - tech.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5palU1aXRzNVZwNjdqSDdZTmlEc2pJTnViX0ZZcnBvQ245cUVsVTJuUGJhS1ZKSEdCbGZFWXRyYWpOaHloWjVzd3gyVUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T22:59:14+00:00",
+      "summary": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线  tech.ifeng.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Fable 5.1与Mythos 5.1：全球领先编程与知识工作模型，强化安全、降本增效并支持AI合规水印 - SmartHey",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6Y056T1RTWDdwQkUyWWRmWUcybDJDRjB0eTQwcG5qYWNUcGZvWldkUDFNZjhmcEVVTkVMZjhZUTFaX3o2clJhdWQ4UkJuS2NSVmZrX0JFUG1uWDU1RVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T22:55:00+00:00",
+      "summary": "Anthropic发布Claude Fable 5.1与Mythos 5.1：全球领先编程与知识工作模型，强化安全、降本增效并支持AI合规水印  SmartHey",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "无锡“芯”火的迭代与新生|AI大模型|集成电路产业|无锡市|江苏省|产业链 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaXhxVzNLbmc3UE5yRjg4R0ktQ20zMGVFNFUtYkZvNlZka2x2d2hBdWFINHlWeXJlMklKY0M1bi1VaURCQ1BpTmdCR2NEYi1zSEYzOTE5ZUNJNXpHSUswdUpkazE5bmIxWVB5UzFKcmVUWUxSUk5tYm1DcEh4RVBMcHd2TDR1TnJEdkUxeU9mQnZudUZncHNxeWQyYXZSMnN6?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T22:54:17+00:00",
+      "summary": "无锡“芯”火的迭代与新生|AI大模型|集成电路产业|无锡市|江苏省|产业链  新浪财经",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "《哈萨比斯：谷歌AI之脑》：DeepMind的使命只有一个：解决智能问题，然后用它来解决其他一切问题。 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXFuN08zcy0yYlVYWnZ3YWZGUnhqZ01SS1N5VGZPQU1aOVdDLVFMX0lCVXV1akh3VkE2eGhZN1pKSGkwcmF4NnhzbVp4LTE5NmpiQzN1aHZxRkYxUzFRSGE0WWowSkJqUTNQSkhiLUxDTWczQW5famxsRDVFR09Kc25TWkFjRlNFZVZQdQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T21:26:15+00:00",
+      "summary": "《哈萨比斯：谷歌AI之脑》：DeepMind的使命只有一个：解决智能问题，然后用它来解决其他一切问题。  Sohu",
       "categories": [
         "google"
       ]
@@ -22,11 +93,11 @@
       ]
     },
     {
-      "title": "罗永浩吐槽车企车载AI大模型，呼吁接入豆包、千问满血版本 - 雷科技",
+      "title": "罗永浩吐槽车企车载AI大模型，呼吁接入豆包、千问满血版本 - leikeji.com",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16dVJhSjdHQUk0YW1ZcDh6M2FYSU9DbXU1MzBaR05WWXN1TDRhMm51R1ZqSlJkUlQtSXRYbV9oUEFWVTN2ejViVzQxZllxUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T20:03:45+00:00",
-      "summary": "罗永浩吐槽车企车载AI大模型，呼吁接入豆包、千问满血版本  雷科技",
+      "summary": "罗永浩吐槽车企车载AI大模型，呼吁接入豆包、千问满血版本  leikeji.com",
       "categories": [
         "other"
       ]
@@ -73,21 +144,11 @@
       ]
     },
     {
-      "title": "21评论丨全球垂直AI开始拥抱中国开源大模型 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRxcWdQN2FDNXM3NmJmbG9GaUVMaXo2NklZZkcwOUpZSHppMHdIMGdnTWpabVhQMlE4RHh6aHpUaXVCdV9EdTBEOF9rekRDdzVrSk12R2NuWi1HWXZCQmVOTThLYy0zMU1SVUJzRVk3VWlYUUxMNTAzYjl3NHJrcUxRMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T16:58:03+00:00",
-      "summary": "21评论丨全球垂直AI开始拥抱中国开源大模型  21财经",
-      "categories": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》 - fxbaogao.com",
+      "title": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》 - 发现报告",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPNk5sSWNrREtBcFA5eTR3U1ZNVmtEMlBOeVBkVzkzV25vRzFaUTBuYkNqQXVmRzBZYVRxdFVLZ19URWp2U0pmMlJ1V29jb0lO?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-01T16:36:48+00:00",
-      "summary": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》  fxbaogao.com",
+      "published": "2026-09-01T16:51:08+00:00",
+      "summary": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》  发现报告",
       "categories": [
         "other"
       ]
@@ -100,27 +161,6 @@
       "summary": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相  时代在线",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "九章云极缪旭谈AI for Science：我们需要大模型和符号系统的组合拳 - techwalker.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBidDFYSl9wV0tmUEdkaE81OWtlWUIwblVPQTRtQ0tVTFhTQ0dDX0ZxcHkxc3N4SFVQYjRPRUtlT3FlcUZoeDc2ZGd2S1pNRjVLb21qU0ptTWRIZnZwQTA4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T14:51:00+00:00",
-      "summary": "九章云极缪旭谈AI for Science：我们需要大模型和符号系统的组合拳  techwalker.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "科大讯飞开源两款端侧支持百万上下文的大模型 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZY05TYnVENG5PRkZxcWxFNDI1N21yLUMwQmQzSGg4Q3d5WGJJQUNwTnRUOW80NXBNZFJuWTRiTnpQY0tFajd6eU05aUNSTHRjUmd5MTlhOXBoZGsybW8xWEZrQmQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T13:57:00+00:00",
-      "summary": "科大讯飞开源两款端侧支持百万上下文的大模型  新京报",
-      "categories": [
-        "local_model",
-        "open_source"
       ]
     },
     {
@@ -165,11 +205,22 @@
       ]
     },
     {
-      "title": "罗永浩吐槽新能源车企AI大模型“垃圾” - 凤凰网科技",
+      "title": "700个智能体组队“自主攻击”，真正失控的是模型还是OpenAI？ - c114.net.cn",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93ZVFVNlFkUWVHa1N2VFFjZFNORkRTS19uZU9PRkxnVWZmQ3UtUWtPWVl2aUxIYzVWQURpQmtLNU1feGUycFlEZVFmY25zNDY4WWxKYzdPMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-01T11:58:54+00:00",
+      "summary": "700个智能体组队“自主攻击”，真正失控的是模型还是OpenAI？  c114.net.cn",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "罗永浩吐槽新能源车企AI大模型“垃圾” - tech.ifeng.com",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLa1NMVUhsUFpJVC0yRGY4RjVPQk5rZnFRc1ZzRDRHX2l5M1IxZGc0Nks2RmVPOEZYcExoS1lKSC0zenF6MTVXZFZVTVg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T11:58:48+00:00",
-      "summary": "罗永浩吐槽新能源车企AI大模型“垃圾”  凤凰网科技",
+      "summary": "罗永浩吐槽新能源车企AI大模型“垃圾”  tech.ifeng.com",
       "categories": [
         "other"
       ]
@@ -215,37 +266,6 @@
       ]
     },
     {
-      "title": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍 - leiphone.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1waXk3SFdWU3lmbEZtYy1ndHJSeVV3aGJUXzRrTG9EV1cwdldXazBJcjdEMlpUZmNjSS1EblRWcDVDZjIwQnNHbjBjQ3BycURBNzZKM1pUWFdjVWF6MENUbDZ1LUlZOUJwUnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T10:38:00+00:00",
-      "summary": "DeepSeek V4 多模态开源，我们把它的视觉链路拆了一遍  leiphone.com",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "从大涨9%到跌3%！大模型双雄股价巨震 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMFE0MFhPZVk4bmJBYUtXUzRhWEdBcXBtempHQmpUei1lamJHb0ZwRS15aGhwU25rNGFweGg2dWc5WW5JX0dHYmxxZjBGdmJkR0k5VFU3NnJRS081YVctRU9feTVNcjM2YXZrZGM1VWhKTER3V1VwbGR1c01rbG1qMk1ReW9NX1lPd091Tg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T10:32:34+00:00",
-      "summary": "从大涨9%到跌3%！大模型双雄股价巨震  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "创业江苏│6瓦，让大模型走下云端，走进普通人的“口袋” - 中国江苏网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdUF1UVdPRGJlLTk2aEkyZ0VDc1BTamEwTXgxLUFjUTg5OFBYaENXSFl6WDVRcXFxUm9abU9mVjFfSldnNWpQMEw0eUVyc09xeDBjc2JEZzNvdi1CaExKUThwWDhLNFAtNFNQNllzMThIVmlLUVBwWEpnWmxXaS1mX0x3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-01T09:36:00+00:00",
-      "summary": "创业江苏│6瓦，让大模型走下云端，走进普通人的“口袋”  中国江苏网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "国内首个校企合作园林行业垂类大模型发布 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNElaaWpwN0pJMDZMZW1nektYVEtTUWRjN3piX05OMGYwdGF1VzdRZEcwWnhhT1ZZekU4STVEVW15QVV0bnVqbFcwSFhQVmhJbEtwZkhHQVpnNmpjSXFOVUdnN2hnN0pkS3JFdHlodkZucUdmeDN2dGloUDk2WUprc1VTbWlNMmZp?oc=5",
       "source": "Google News - AI(中文)",
@@ -256,11 +276,11 @@
       ]
     },
     {
-      "title": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？ - leiphone.com",
+      "title": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？ - 雷峰网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ec2UxcXFqbjhmQ1BjS3Q4TFFjNGxMQU05djFVejdmaENXOGkwNkt3UEYxbGE1dzdyX0lMc0poTjlHOHZub29fZ3cydTJZZHhkbWdncUxuQUl0NVVjS2hiZENoMFItZkY0enc1RVlUWVpkZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T08:36:00+00:00",
-      "summary": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？  leiphone.com",
+      "summary": "我们用 Qwen 3.8-Max 做了一个 AI 大模型宇宙：效果竟然胜过 GPT5.6？  雷峰网",
       "categories": [
         "openai"
       ]
@@ -341,27 +361,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-01T01:51:24+00:00",
       "summary": "中通云仓科技发布“云知AI大模型平台” 开启物流AI应用新篇章- 跨境电商  亿邦动力网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "700个智能体组队“自主攻击”，真正失控的是模型还是OpenAI？ - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91WENaSVRrbDBhZWxKNnRVSW9Wcm1QSGw0TGNuQk9idzBnb1lRNzRCZnJjdkFybEFvVFdGaTdHNmFjVnBJUUdhSlJYOGN4QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T20:03:00+00:00",
-      "summary": "700个智能体组队“自主攻击”，真正失控的是模型还是OpenAI？  36 Kr",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "明略科技发布2026年中期业绩：智能体化服务收入同比增长605.7% - 广州日报新花城",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUh3R2c4ZEpxZFFBdm9RRW5RR2pHN3RWVTEtRDhnc3lLS0VudThxbmFfWjNCRkF2cExrbEZnMVpyczlLZXRDUUFTV3BjdXlqS0FTc0UxeG42XzFJd0pmSEFWNkZhZWVHb3BIelNydDVMd2U0bHFUMU5jNUJ1UE1nQ1R4V0tuNGFEVHc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-08-31T14:36:57+00:00",
-      "summary": "明略科技发布2026年中期业绩：智能体化服务收入同比增长605.7%  广州日报新花城",
       "categories": [
         "tools_apps"
       ]
