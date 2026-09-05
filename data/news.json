@@ -1,56 +1,208 @@
 {
-  "updated_at": "2026-09-04T23:48:28.049098+00:00",
+  "updated_at": "2026-09-05T03:37:19.968669+00:00",
   "items": [
     {
-      "title": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkM1c09KNzR0Z2NtenlJQlNIeEU2NzB2WTJxY1AtUU51RTBmclB0d3ExVFI1Y3dsX3V6OXpQQXhRZTRFekJxOUVCaE1KUTI1TmRYSlRuR1NBSWVOTkdqamNvYXY0YXhtSEFRYy1hTlpKNUhxN0R5VXB3bVZFUTVRYnhlQ1FBN0lN?oc=5",
+      "title": "“智”造黔程丨当AI深入工厂，贵州制造正在经历怎样的变革？|实施方案|贵州省|大模型|芯片|数据_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsV2FHbFgxbWdlbldqWGl2RC1lM1JqbnhTc0I2ZkNEUGZ5dE91MVBoVGlaaV93c1lHS2Z1alBwazdPQWlDWDdEckd2S3FkTlRDanRNQVF1SmlWaUlyaGhPd3QxOHFtMDdlaGYzTV9XdjM4UTJLRG53UQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-04T23:24:07+00:00",
-      "summary": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明  Sohu",
+      "published": "2026-09-05T03:21:59+00:00",
+      "summary": "“智”造黔程丨当AI深入工厂，贵州制造正在经历怎样的变革？|实施方案|贵州省|大模型|芯片|数据_手机新浪网  新浪财经",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈 - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hZ09iZld2MXlHdXU5UFluVzNUWUR6WmFjdWFxaTVKbzFsSkZiTkNqMDU5dEMwUldkUzlGOVIzSlRqUzUtUV9XRTVFdzNfMWdZRXlvVzJ0b1h1a3RmWnc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T03:21:00+00:00",
+      "summary": "Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈  thepaper.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "自主部署送培入校：鹤岗市多智能体互动课堂平台开启AI赋能教育新篇章 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LYjh0NUJLMmxWTlpHd2cyQ1FjalBOdWprTzdhb1N0WnY3NkRvX0RLR1AzZDlNdlZhQWU4VmYwc3NDV2ktQTlyb0VUcXFiQ1F3eDlIN1N2RkF5cWZFb1p3Q1ROeGJIMHJpQ0ZtT2ZWMVdYeG92S0ZiYXF2WGItQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T02:52:03+00:00",
+      "summary": "自主部署送培入校：鹤岗市多智能体互动课堂平台开启AI赋能教育新篇章  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "SpaceXAI拓展Grok Bot至iPad和安卓，让AI智能体全天候组队干活 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1U0hENHNHd1ZaZEJkN2xLZTZCdExuTWp5TWoteElUNlVBaGl2NmhlN0tMdnJra0NJRFNCV0o5eTJUMnh3UEVMc0tHbWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T02:37:21+00:00",
+      "summary": "SpaceXAI拓展Grok Bot至iPad和安卓，让AI智能体全天候组队干活  凤凰网科技",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "美国加州登山者轻信谷歌Gemini提供的登顶信息，最终被困山上 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FdG5EWFNLWDE0RnhyQ3E3NEdQRDdaZlQ0NjlVYUtYV280eDhTZkVjTjZMam1lX0s5M0V3N2xxaTZHdlZtcXIyUC1KNkg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T02:37:21+00:00",
+      "summary": "美国加州登山者轻信谷歌Gemini提供的登顶信息，最终被困山上  凤凰网科技",
+      "categories": [
+        "google",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "小米发布结构化数据大模型Xiaomi-TabLDM - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQzlMV0VtbmtOYUU4SktuYmdfUkpBNm5GaWptalBRUHNrQ2Q5eVBKMUxNWnF3bkpfYzdVZWl4cmFaRHluWlowdUZkMGlrcFN2ZU11SUZmLVA0WVJxUUJpaGdFZWRuSGZNX21wQjhVbUtjbDQ3Q1RoTzRUODd5azlXaGc4eHhQZFItZFRhTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T02:30:00+00:00",
+      "summary": "小米发布结构化数据大模型Xiaomi-TabLDM  Sohu",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "中国核电“知了”智能体平台正式发布 - 深圳核博会",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aYVlnNlVlcDUwNDNlLTQ3LWZnb29tU2UwUUIxTTloQnhyUTFoLVBYb1hGZlU5eFB0UWRmSHBQU196UTg3VjNzdXNxMG0xWUhSOXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T01:55:00+00:00",
+      "summary": "中国核电“知了”智能体平台正式发布  深圳核博会",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Fable 5.1、GPT-6 Astra 密集发布，智动未来推出“智子世界”让机器人看懂真实世界 - 霞光社",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9VMXk1WTNmUHQ2UHh3aEF4Qk5HdTFxX3QtaVVlS1pCVXQyVUhra1Y2VGNSdDdkZTZLX18zbkxyX29UQmoy?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T01:04:07+00:00",
+      "summary": "Claude Fable 5.1、GPT-6 Astra 密集发布，智动未来推出“智子世界”让机器人看懂真实世界  霞光社",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "ClearMaaS正式揭牌，为企业提供中立、透明的大模型入口 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3pvblp0dUtHZU8xcnFibTVJaEV1V2NCbnpfYUFZdUVTcnZ3WVQ5Tmlvb3JabmRoNlhYLXU3VmM3Q1lOdnlpM3FkY1JiTmFuMmliOUhIc1NqcE1IbUZ4UTY2RFBMOG10VXozUUh0QmpHYXR6WnlmRGpWNzBKdFVBMWVNVzA2OTJCcGJ5MA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T00:41:57+00:00",
+      "summary": "ClearMaaS正式揭牌，为企业提供中立、透明的大模型入口  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI GPT-6 Astra现已登陆ChatGPT Work、Codex及API - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qRVRqNDFwNDBFZVVvWlpCbk1vQVk5alJiR2R1Y1RDRHFOMmd0anFHMFNKc3RTaFVDZ0ZxY0tUSWx3N04wcTY5ZjU4V0Y?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T00:17:37+00:00",
+      "summary": "OpenAI GPT-6 Astra现已登陆ChatGPT Work、Codex及API  凤凰网科技",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "大模型蒸馏时代结束！Fable 5.1改写API，彻底切断蒸馏后路 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2Q3UXYzOVpJR2JXQ3dZb0FRdU1zcTZXR2FRUEF0LW1ZRFo4Mlg4cWxaeHlZZ1pLWG9UT2ZHSDI4TkdVZnc5MnJyWjNNM3dwUHlrTkZFRVJ4azRzYi1OdzBHQ0JEY2c3azNPQ0ZhYUQ5ZW5RNzFuMV9ndGdvM3RieGdIRnFCN2Rk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T00:06:21+00:00",
+      "summary": "大模型蒸馏时代结束！Fable 5.1改写API，彻底切断蒸馏后路  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMS1MSGxfWkNiU01heEExclpKakJMWGJnZ3plYTZUOU1ScXVGcHE0UVVMVmR2M0JtNmhoQ09QT21uZFJKUzhmRHZvRWNvUG1uN0FvOWR6YVRvUGxxU2d3YVkyRFN6akZLc1BXcGREaHdrVGhqRUJyTS1SVkNvcmRxQS1VNmNHbFoxOVMxSFBPSEhiUFht?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-05T00:00:47+00:00",
+      "summary": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明  新浪网",
       "categories": [
         "anthropic",
         "breakthrough"
       ]
     },
     {
-      "title": "医渡科技早盘涨超5% 公司持续推进医疗智能体能力的模块化和标准化 - finance.sina.cn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzdQUmdFRFVwNXRfOXZWbjRDV0hvdzlGSzNGcGp2UlNadnB0LXNOT0l2WVRqN2Q2eElxZE9zSHZjcC1uc0RkS3hjZDJlZjFJWXVGWDhPTDVtT1VSeVh5aloySHdoV0tzNTh1Y2wzOEpKME8wNGd2cW1tRzFrOGN5Zzl3Y2JaQ01rTUxVdW51R0RRRkJyVVkyOWNfTl9QRlduNVhZdlZFN1BNT0RmUHc?oc=5",
+      "title": "给大模型「投机解码」松绑：免训练，即插即用近似验证，速度再提15% - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkk3NjlQeFNHRTIxUC1OZmdtU0lCeXM3akFfSDhFM2J5cGZmbE1takFJdldRdzNhNG5ZNkltR3YxX2ZSSWJsbmVYWmxNbUpPbERhWkJULUludFIxOHBieW1CeG1sZlY2YTAxcy0wemN4S1IxNWQ0a2RGcE1OcWRoNDYtbVRCbDVX?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-04T23:15:00+00:00",
-      "summary": "医渡科技早盘涨超5% 公司持续推进医疗智能体能力的模块化和标准化  finance.sina.cn",
+      "published": "2026-09-04T23:58:47+00:00",
+      "summary": "给大模型「投机解码」松绑：免训练，即插即用近似验证，速度再提15%  Sohu",
       "categories": [
-        "tools_apps"
+        "other"
       ]
     },
     {
-      "title": "谷歌Gemini Spark新增Google Photos照片库管理能力 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYko0R3V3Z1F0aHFqMzhxVlNrSUtma3hXZ0VwdjhOcjBmMEszTUl2NHRnc1hubDVsVHhWc1ozQno4eEc0U0V5aE9LX3RyeTRPaUkwV3ZYZ1BhSTlTWkRWVXNxbkZCeWZkTGF1YWF1X1Y5b3JiaWhHRHZmamRMWFc2NTJMeUw2RXhf?oc=5",
+      "title": "谷歌最强音乐AI Lyria 3.5塞进Gemini：一键生成3分钟完整歌曲 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEJhVTVUZGk4ZlNTMElleVA5UXhSdF94dnA5TUpUQW1ob3h3bmpvNlVnN0Q5SlFiQ2wzdk5Rb1RJVVp1SDdUUG5EaVJNU3phYWk2TUhmb00wOWl3UFlzSmtaa29lTlloaXBFQjd2OGZTRzJJNnNqUlFwSnFaRk5IelVxWUhDVzF0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-04T23:14:19+00:00",
-      "summary": "谷歌Gemini Spark新增Google Photos照片库管理能力  Sohu",
+      "published": "2026-09-04T23:53:05+00:00",
+      "summary": "谷歌最强音乐AI Lyria 3.5塞进Gemini：一键生成3分钟完整歌曲  Sohu",
       "categories": [
         "google"
       ]
     },
     {
-      "title": "Anthropic Claude iOS版应用接入苹果CarPlay - tech.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zd0tpUXpTenU2VFRJZG9SM2dEMFZzWFM1ZlByZlpXc0x0d3hOS0xRaWRFNEdUbFRvRjk3VmtRTHZzUG9zMkxLYzFVdzc?oc=5",
+      "title": "AI 编程工具集体宕机事件评论|ai 编程|大模型_新浪新闻 - sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HNkhMOVpSVW1qN3VwT1BiOGV4U3J2UU1MRUw4c1Nqd1p1T0dSWTJnQ2hMYlhIajhNeVhmaEZuaWtlWWdqS1gxR2NwbUpvUDRNTGNxakkyMmZQUnFUUzZGMEFBRQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-04T22:54:03+00:00",
-      "summary": "Anthropic Claude iOS版应用接入苹果CarPlay  tech.ifeng.com",
+      "published": "2026-09-04T23:52:00+00:00",
+      "summary": "AI 编程工具集体宕机事件评论|ai 编程|大模型_新浪新闻  sina.cn",
       "categories": [
-        "anthropic",
         "tools_apps"
       ]
     },
     {
-      "title": "OpenAI GPT-6 Astra现已登陆ChatGPT Work、Codex及API - tech.ifeng.com",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qRVRqNDFwNDBFZVVvWlpCbk1vQVk5alJiR2R1Y1RDRHFOMmd0anFHMFNKc3RTaFVDZ0ZxY0tUSWx3N04wcTY5ZjU4V0Y?oc=5",
+      "title": "持续迭代的大模型，是AI持续进化的标志 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2V1Yk1lZkEyYkVDSGd1V1pXYU9FVkZsamVrYWlITUZzb3JhU1lkQ2lvSVhOSnBSMkYyVmVlUlpJemk4SThhNzJxWEM0cUlkUTN4TFhuTzVpLUNwR3MyRktVVU5NeVJJeDdSWDRQUE9jNGFXUmZKZUw1amVNb0owSnNZYjNGNUVhQ3BWWg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-04T22:48:59+00:00",
-      "summary": "OpenAI GPT-6 Astra现已登陆ChatGPT Work、Codex及API  tech.ifeng.com",
+      "published": "2026-09-04T23:39:33+00:00",
+      "summary": "持续迭代的大模型，是AI持续进化的标志  Sohu",
       "categories": [
-        "openai"
+        "other"
+      ]
+    },
+    {
+      "title": "大模型时代的基础架构：大模型算力中心建设指南 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOWhKeHJQeVlsR29lZWdFQm53Q3RSc1hmQVd2cTlvNXRzQ2ZTSDF2QnBDM1BNTjBabEtvVVhLZHRpNjVVenhqMWxQV3F3LUc1aWVz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-04T23:38:00+00:00",
+      "summary": "大模型时代的基础架构：大模型算力中心建设指南  电子工程专辑",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "谷歌Gemini Spark新增Google Photos照片库管理能力 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KNzVISGVjbVJFcERMeGNZeTZPeVdfMDU5RS1lV2ZidDNIOFV6bFR0MTN2N3NvZ2FBQXpVRnBFbk5NbzVwN0dfZDlZRG8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-04T23:15:05+00:00",
+      "summary": "谷歌Gemini Spark新增Google Photos照片库管理能力  凤凰网科技",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "医渡科技早盘涨超5% 公司持续推进医疗智能体能力的模块化和标准化 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzdQUmdFRFVwNXRfOXZWbjRDV0hvdzlGSzNGcGp2UlNadnB0LXNOT0l2WVRqN2Q2eElxZE9zSHZjcC1uc0RkS3hjZDJlZjFJWXVGWDhPTDVtT1VSeVh5aloySHdoV0tzNTh1Y2wzOEpKME8wNGd2cW1tRzFrOGN5Zzl3Y2JaQ01rTUxVdW51R0RRRkJyVVkyOWNfTl9QRlduNVhZdlZFN1BNT0RmUHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-04T23:15:00+00:00",
+      "summary": "医渡科技早盘涨超5% 公司持续推进医疗智能体能力的模块化和标准化  新浪财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic Claude iOS版应用接入苹果CarPlay - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zd0tpUXpTenU2VFRJZG9SM2dEMFZzWFM1ZlByZlpXc0x0d3hOS0xRaWRFNEdUbFRvRjk3VmtRTHZzUG9zMkxLYzFVdzc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-04T22:54:03+00:00",
+      "summary": "Anthropic Claude iOS版应用接入苹果CarPlay  凤凰网科技",
+      "categories": [
+        "anthropic",
+        "tools_apps"
       ]
     },
     {
@@ -74,17 +226,6 @@
       ]
     },
     {
-      "title": "用AI帮保险公司拉客年入近5亿 1200个智能体撑起IPO - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Md1Y3SUNUY3UzbzhaMWpBZkMwOWlHWVVOVnh0UmpuVkFwX1gtMFBuZkJXZTRZVktvNXYtVklSNVFBeU1JV3hMUmNHazdIdnhmUC1tT1MxZFN2aENnY0dtU2RaNjJxd0RjZUdvQnJ3Y1Y?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T16:17:51+00:00",
-      "summary": "用AI帮保险公司拉客年入近5亿 1200个智能体撑起IPO  中华网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "谷歌在Gemini应用和API中推出Lyria 3.5音乐生成模型 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PbVBJUXpCNlJuQU4teS1LOUVrRkp3STdIUVdtWXZzdzlxZUNHdVRBTDlMd1pTaHQ4WDhyRGxhVDJKQmNybFdaUVNSRGd3YVREYTM1UjI2aS01ZGwzUlIyMw?oc=5",
       "source": "Google News - AI(中文)",
@@ -96,171 +237,24 @@
       ]
     },
     {
-      "title": "三星与Arm联手杀入端侧AI！2nm定制芯片启动，OpenAI或成关键客户 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwdFh2YTEwa1l1c2Y4NW9hdWxSWHNRa3ZNYzZzWjFiY1hFOVd2bWZnRTBQQXU1R3BRS2lHRm9ZV1RncGxnbk56aHI4NlBfR2xBaE1r?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T15:05:28+00:00",
-      "summary": "三星与Arm联手杀入端侧AI！2nm定制芯片启动，OpenAI或成关键客户  华尔街见闻",
-      "categories": [
-        "openai",
-        "local_model",
-        "chips"
-      ]
-    },
-    {
-      "title": "端到端大模型+强化学习，2026年智能泊车辅助系统三大技术变革深度解读 - 网通社",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uS3VERHdrUC1QQUM3UXoycFRYRjlHb2hEODVCTGhpcE02aWpUZjMtTWRILUg1Ry1fMzFlcWVhQTc2YWhxWml2cEZXM3hZZTdlYmt1OVZOMkZxMXM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T14:24:10+00:00",
-      "summary": "端到端大模型+强化学习，2026年智能泊车辅助系统三大技术变革深度解读  网通社",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Nvidia PAIR:让局域网电脑协同加速AI智能体任务 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzFVaE95X1g0QUhrMy1SUTY5UTF3U0pERzFoTDJveWtZUEFFUC1JdjhDbWpOeUtjXzBnVHFiaVc1SGZ4LVJKb09EYmFmbUwzWkc3bVBhUUQ2WVFueXQzdWVRRElieGc0UTlKMUo5S0VlRVFrRGRFWHFpaE9ZaHBZMGNKMFVnRm5w?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T14:14:00+00:00",
-      "summary": "Nvidia PAIR:让局域网电脑协同加速AI智能体任务  Sohu",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "ChatGPT、Grok和Claude同时出现故障 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVFOdF93WjhXZW9OeWFlZ2RTQ3h0bUJzaHhjQ2NseHBhVFRLOE1uQWJVM3ZuMUZQTlIwZktoeEdLRi1lRE1qek1LNmlIWGlRYk1uR3RUQ2tMNERrWi12MDdxQWwwb1VkRkNrbXpJYXhZd3ExZDZGeEd4UXBRREZnSFJwTjlzcTlG?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T13:56:00+00:00",
-      "summary": "ChatGPT、Grok和Claude同时出现故障  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "罕见！ChatGPT等四大AI模型短时集体宕机 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FfUkpkUE1xZHFCOGJVbUtDa1R6OUROUndrcmhfMVBfZ1BzRjd3aHhUd29sWGdvRno0b1NTVFJoSUhMVDR2MXFtbUFDT2Y0REg4X1g2aXBfcFZ5N0FjeGxwVWVCTmNFTnFZOTJTU3BrbW9zdHpYV2s4Vm4xZWs3V1F2akpCeDVIUDlsVg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T13:53:56+00:00",
-      "summary": "罕见！ChatGPT等四大AI模型短时集体宕机  Sohu",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "国家人工智能应用中试基地（消费领域移动终端方向）正式发布 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzAxeEZOdXhDa21pMzlOVnFodUVJTzVzdk1lTjUzWTA3NllkYjN5Snd3Rng4X2RHSE1ic2lmbEFoWVlOaFl4Z19pbzcxOHQ0aEh0LThxQ0dJaDdMTXJiMnBxVUtIWWtrT2pEVTY2OUJ2YkZISkVPVDZodC1Hal90Yk9B?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T13:51:11+00:00",
-      "summary": "国家人工智能应用中试基地（消费领域移动终端方向）正式发布  video.sina.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "“2连板”新炬网络紧急澄清：AI智能体收入不足1%！公司上半年净亏640万元 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1VxUnVMTmphWnU4dmdERndwM0I1TFp6cFlqYnZfV0dtTGVxREk4d2NENVpsZmx5eU5WaEl6MGR2S2RuZENJUEhweVZKdlE2eVFkNGVVbG1kQThTSDlqZVYxZ3BfNVE0U3kyS0FNS0w1NXlCX1J6Rzhaby11U0o0bXNR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T13:43:09+00:00",
-      "summary": "“2连板”新炬网络紧急澄清：AI智能体收入不足1%！公司上半年净亏640万元  video.sina.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型套餐上架天猫，AI厂商争夺谁的付费订单？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdm9vSUtWazhCTEplY3hNOXlYUFhFOXcxTV9xSFFlanpFZUVxdngwdk1sTFZfNmRWc0h5QzV2WGdVMjNQRHRFbXlWQ1V2LTNGM2NDZjFURmdSY2l2MGRtcWVoRGtBSEhnUzc2OVVuS2tkRTgxLTJXS055Mi1vY21OcjZ0NVB5SGZrd3d0Rg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T12:28:00+00:00",
-      "summary": "大模型套餐上架天猫，AI厂商争夺谁的付费订单？  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "比亚迪投的AI芯片创企，完成B轮融资 - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xSlRPTkdEODRqZzdLZzZfcHcyUWRrdzVfMWJXMy1ZWTRxV1ZXS21uRU1PVFllaWUzOXRHRmlzNUxEdi1TR2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T11:43:35+00:00",
-      "summary": "比亚迪投的AI芯片创企，完成B轮融资  智东西",
-      "categories": [
-        "breakthrough",
-        "chips"
-      ]
-    },
-    {
-      "title": "OpenAI智能体未经授权改写德国DseWiki逾1.5万次 事件数周未公开披露 - 观点网",
+      "title": "OpenAI智能体未经授权改写德国DseWiki逾1.5万次 事件数周未公开披露 - guandian.cn",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xUExOZXRlUjI0UmlFdV85Q3V1c29XeE9KekwtMEFhcjV0RU1PVnhfNzJBUlhLMzhXM09zOEdDdVJXclF1dk9NWjFYWE1rMDRHcGRoU0JZY2FWelJaUy1sMTN3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-04T11:36:38+00:00",
-      "summary": "OpenAI智能体未经授权改写德国DseWiki逾1.5万次 事件数周未公开披露  观点网",
+      "summary": "OpenAI智能体未经授权改写德国DseWiki逾1.5万次 事件数周未公开披露  guandian.cn",
       "categories": [
         "openai",
         "tools_apps"
       ]
     },
     {
-      "title": "港股大模型“双雄”中报对垒：收入与调用量竞速，利润何时跟上？ - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3NEUnFPSkE5WEVPR3JnZVBtdjJzcTVFZU53WVAxcVAyczUweGY3c09xN29FRkZmYWpaSDFvbWdpdGpCY3otRnlKNFBUbEJKajh4ZWV2T21EX0pVZ3R6RFNiWnJnaEpXX3UtZHBvRUUyVzBhamdxUTEyVHh5NExueWJDSUtGTjZLUXdRaQ?oc=5",
+      "title": "ChatGPT、Grok和Claude同时出现故障 - 至顶网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3TmZDWnBQdTByWmRwVE5zR3NZR3dKazZMYkFCaVY4NGNTcXdRbkMxOUtyUWI1TXNpbU9nSVNHNmF1VFVOeUUwdGlKV3hLVTJNTGc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-04T11:35:00+00:00",
-      "summary": "港股大模型“双雄”中报对垒：收入与调用量竞速，利润何时跟上？  21财经",
+      "published": "2026-09-04T07:08:51+00:00",
+      "summary": "ChatGPT、Grok和Claude同时出现故障  至顶网",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "PinganGPT以75.9分登顶CNFinBench 中国平安金融大模型持续展现轻量高效优势 - TOM科技",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SMUJGQUFnNE1uVVZtdkFadjZEcmZlYWpVR0NKMUJhSUQ4a0lEWU5LOWl4bWJXWXRmVW4yUjcycF9rU3ZDMlE4aDFjb3k3RXlEN0JkUUpn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T11:14:00+00:00",
-      "summary": "PinganGPT以75.9分登顶CNFinBench 中国平安金融大模型持续展现轻量高效优势  TOM科技",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "齐鲁文化大模型获得“数据要素×”大赛山东赛区一等奖 - qlwb.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sVkJtbDV1MlJESDB4eVdVLTlBX2UyQmE4NDIwVUYybEliVk5iSTd6Ny1xcXZaNktTSEVBMGh2OGFvRG5qN1IzUlhyS1hLaVBJTXUtY2ZsWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T10:51:26+00:00",
-      "summary": "齐鲁文化大模型获得“数据要素×”大赛山东赛区一等奖  qlwb.com.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Meta全力防范即将上线的AI智能体“Hatch”失控 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMldDV1hwZUVqQVVlT3h5TkZxQThGb19fd29pa3lWZV9ISEladWdnMDRYUWNQT3p0TDctbExVeWFMd3hmUDBsMld1T0VWR25oNmtOMG1VUnZvSHZVVHNLTE5lRW9hVUIyQVRIMWlzY21TaDRRMGU4SWVNdGk1VWNKZzBsQkwxODlCSEhkWA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T10:29:16+00:00",
-      "summary": "Meta全力防范即将上线的AI智能体“Hatch”失控  Sohu",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Code 国内用不了？终端 Agent 直连替代方案梳理（2026） - 极客公园",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHVF9hZW1BNlE4NFhaRGIwa0Z1V3JBZ0hHSkh6Y2xPd3ZodGxodlUyWXhqbjFmV0tDVHdYWk5zUGtBcUpTVkFXcXJCSlk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T09:41:13+00:00",
-      "summary": "Claude Code 国内用不了？终端 Agent 直连替代方案梳理（2026）  极客公园",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "研究人员称疑与OpenAI有关的智能体活跃于德国维基网站 - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUpDQ3Q5a1lpRmdTWVQtNWtsUWNNR0FGcjAyeHVPRGlYRGNVUHNWcUV1T1picVd1YlN6YUpXMlJWX1l1N21FZkJCNk4wRU1aOVMtUUdYQmxzXzZyU3JWc1ZGZVRyblRLdGlrNWd4ZjF0cUEtdmlhNURnTmMyb1huSXdhNzBnZ2VQODEtem82RVV0TWN3SHVMMDVuVzlQNXNQZmd0YlJBdzNHeUlDOXBQU1AxZ3U4Zm44dUgxMWVB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T06:52:00+00:00",
-      "summary": "研究人员称疑与OpenAI有关的智能体活跃于德国维基网站  UA.NEWS",
-      "categories": [
-        "openai",
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
@@ -284,23 +278,13 @@
       ]
     },
     {
-      "title": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网 - finance.sina.cn",
+      "title": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGFUZjRkb3hvYmdHVEs3djRwckZ3NEtSdmpVU1gwX01VUlluajNGaFNJRmlkRGNHNjZDdXlOdFpzTXFHM1lHa1lNbUszT2F0MjU2MEZmam03X0xlZzBVcGVnNkZaM09JTmVlUkxHc1g5bmZ5Nm94OFpiQkJQdGlvSmFwZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-04T03:07:17+00:00",
-      "summary": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网  finance.sina.cn",
+      "summary": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网  新浪财经",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "ChatGPT、Claude、Grok集体宕机后服务现已恢复 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95dndMcDJOd0VNeVZXYVkyTUx0N3VjVllDZk1lTUNwUnpVU2VaendoRGU2cC1JUmVkTjZwVldjTFFWMkhvU2FobVd1RGpNVGJjdEFENDl3X0hGMDJNUVdocm13?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T02:15:27+00:00",
-      "summary": "ChatGPT、Claude、Grok集体宕机后服务现已恢复  观点网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -355,11 +339,11 @@
       ]
     },
     {
-      "title": "刚刚，GPT-6 Astra 炸场！Claude Fable 5.1 惨遭斩杀|MUSE|Gemini 3|Muse Spark|OpenAI|谷歌_手机新浪网 - finance.sina.cn",
+      "title": "刚刚，GPT-6 Astra 炸场！Claude Fable 5.1 惨遭斩杀|MUSE|Gemini 3|Muse Spark|OpenAI|谷歌_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WbGd1N00wMGxwMDZDbERxNzQ1NnY0Nk5OOHZMQmhCNUx4MnpLUTUxTGM3VmtVelRNNGhON0xCQTk4a3QyaHctd3Vhb19CZFMxb25PRDRPTExlMy05NnFNVE9sLWtBM1BUSUotTDhiMzRwNUF2eGxENnNNR3BQMHM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-03T22:57:04+00:00",
-      "summary": "刚刚，GPT-6 Astra 炸场！Claude Fable 5.1 惨遭斩杀|MUSE|Gemini 3|Muse Spark|OpenAI|谷歌_手机新浪网  finance.sina.cn",
+      "summary": "刚刚，GPT-6 Astra 炸场！Claude Fable 5.1 惨遭斩杀|MUSE|Gemini 3|Muse Spark|OpenAI|谷歌_手机新浪网  新浪财经",
       "categories": [
         "anthropic"
       ]
@@ -372,6 +356,16 @@
       "summary": "OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗？｜科技观察  封面新闻",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jTlFBWW9EQVY2OE5FMXlla0dRRGgzN0VvV3MtaFNuZmRDWjJzVlY1ckdFSmNhUDBUUFB6QXBwWFJINDlMOTBqQ1pERFlPeTJmcGpv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-03T19:39:53+00:00",
+      "summary": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复  华尔街见闻",
+      "categories": [
+        "anthropic"
       ]
     }
   ]
