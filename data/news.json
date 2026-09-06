@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-06T18:06:46.742999+00:00",
+  "updated_at": "2026-09-06T20:41:06.406702+00:00",
   "items": [
+    {
+      "title": "我国化工行业首个大模型发布新版本 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenJKSXJudWhHTDhLSWZqQl9QU3gxdkNtVU9ZMFFYaDN3X1h5OGZLaFZvUzNNdVNIR0Z2NUhpSGd5cUdVZ2xOWk1oOVUtak5wOG5lS2pYaVVqNURjUU5WS0tGVTNfcWV6bXZ4THpFeXlrSmZIQ3VtSFl1T2lFTThnekFVWTFlQ1lYbnpxNw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T18:20:42+00:00",
+      "summary": "我国化工行业首个大模型发布新版本  Sohu",
+      "categories": [
+        "breakthrough"
+      ]
+    },
     {
       "title": "智能体多场景“上岗”，激活创新创业新动能 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHM3ZVBVVUJ2Zk5jUmZJbmZpTnJzMWJ4ckYxV1oxNTF5V0hjOEpzY3ZsVFotOW5qenh4ZE5sUUFrVVhZeVk3UVk4aUx0NVZ3SUxwYllHSVBqa04zaDRXNjhoUTdBRVU1OFFBTFM5cHRDLXVzc1k2VEhtRnFoT19oREQ3akxFNXFY?oc=5",
@@ -18,6 +28,17 @@
       "published": "2026-09-06T14:26:40+00:00",
       "summary": "极摩客IFA首发300B大模型智能体PC，未来何在？  新浪网",
       "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code工具调用生变：读写文件弃用专用工具改走Bash，Windows端转用PowerShell - 80aj.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eGxKSXNUX2UxX0kyX2ZLMWtCU01MaENCTG9lTjYwbW53S3VXNUdiVzJGV2JkalZFajk4Yk54dXNMN2I2bkVRMUdxS0JqWnUtUWkxd3BlZnNobEtIWVhzZnhmY3Y?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T12:16:29+00:00",
+      "summary": "Claude Code工具调用生变：读写文件弃用专用工具改走Bash，Windows端转用PowerShell  80aj.com",
+      "categories": [
+        "anthropic",
         "tools_apps"
       ]
     },
@@ -42,11 +63,11 @@
       ]
     },
     {
-      "title": "小米发布并开源结构化表格基础大模型Xiaomi-TabLDM - guandian.cn",
+      "title": "小米发布并开源结构化表格基础大模型Xiaomi-TabLDM - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tM3lRVWFKSmRMVW9vZlJtaEV1MDY4NC1xeklud0JQcW1YWDR1eHhYVzRGOGhEUlN1aDlfcUFWdmJQV2VwdS1VT2hLbEZBU2JSeGNhM19jMEtJa2tCM0NJQ3FR?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T11:26:01+00:00",
-      "summary": "小米发布并开源结构化表格基础大模型Xiaomi-TabLDM  guandian.cn",
+      "summary": "小米发布并开源结构化表格基础大模型Xiaomi-TabLDM  观点网",
       "categories": [
         "other_big",
         "open_source"
@@ -73,16 +94,6 @@
       ]
     },
     {
-      "title": "汽车之家发布AI智能体“芝士车管家” 加速打通汽车消费全链路 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5dVJWclRTWTFwM3lyNDd5Z2pGSThrN3dyV0tkNWtVVm1iZFZZdzFISXA1dDc4SXJSQlN4RVJ3NlpIOEJoRDRDT2JxMTdlcHE0VFE2TTFB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T11:01:26+00:00",
-      "summary": "汽车之家发布AI智能体“芝士车管家” 加速打通汽车消费全链路  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI智能体被曝，“劫持”了一个网站 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVNjNHhFbzhNazMzb0ZsdTJrcGlMUnpoYThRekNlV0VmRnFjYkdaVDN0YnlzMlhHa1NNZ1RJOWVIMGthWVRuSFZJS2Ric0lDSFppNWx6emVoUktpZVc5dGZ6c0RKeGdLR3FRTGlNWnZKZ2hJSFBOLWlmOFY2Nm5JRjVUa19KaUo5N0JyNA?oc=5",
       "source": "Google News - AI(中文)",
@@ -94,25 +105,35 @@
       ]
     },
     {
-      "title": "【视频】智驾圈的ChatGPT时刻，被长安启源Q06按下 - 车家号",
+      "title": "【视频】智驾圈的ChatGPT时刻，被长安启源Q06按下 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05WXJnWldBZFgyQlVjMXg5dXE3WWN2cEIzR0VJcUd0ZHZlS3p2R0pFSkpDZVlOdkpKUlZvYTRhbFFRcHBIczJCSVJxR0l1ckJMNXQtZ1AzNlA3eHhYeXJ0aENRRGQ4dlVMM0xr?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T10:11:58+00:00",
-      "summary": "【视频】智驾圈的ChatGPT时刻，被长安启源Q06按下  车家号",
+      "summary": "【视频】智驾圈的ChatGPT时刻，被长安启源Q06按下  汽车之家",
       "categories": [
         "openai",
         "image_video"
       ]
     },
     {
-      "title": "OpenAI承认智能体劫持德国网站 将扩大失对齐披露 - guandian.cn",
+      "title": "OpenAI承认智能体劫持德国网站 将扩大失对齐披露 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aYVNWSDM1Y2J5N2hPZ0hFZmlEaFByakpFVmw1N3R5TURmTlBHNGJndnNZTWp6Zl93Vlg5MUp6VUxPZVdERjgwNlMxcnhmakxrRkxuS21LbmlXbkFuU2RhWXln?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T10:04:56+00:00",
-      "summary": "OpenAI承认智能体劫持德国网站 将扩大失对齐披露  guandian.cn",
+      "summary": "OpenAI承认智能体劫持德国网站 将扩大失对齐披露  观点网",
       "categories": [
         "openai",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "专家：新型电力系统呼唤垂类大模型 - 科学网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZW9xNllfZVFKRTV1ZjRzb00wLUVUYl9CVFhnZ2Jkby10TlZHQlJCQzV1RjhkQjRBcFhxNTA5Q0VHZE5sMkwwRnliQ29iME9ITEgtbmxZcG9zMTVFU0FEbUNJQV9WZkR4RXJwdEV1Qi05aUpidW5jZllNd2ZhUFk1THZ3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T09:45:00+00:00",
+      "summary": "专家：新型电力系统呼唤垂类大模型  科学网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -146,11 +167,11 @@
       ]
     },
     {
-      "title": "全球首款AI智能体手机努比亚NaviX Ultra合作商公布 - tech.ifeng.com",
+      "title": "全球首款AI智能体手机努比亚NaviX Ultra合作商公布 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNem01Y2JvTElySXo2Ukh2MkIyYUdqQXE0TktGZ0FJSzhLa1Vpak5QdVJMTEJJemZnVmpBUE1kaDlTejYza043V3p5eWs?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T08:11:27+00:00",
-      "summary": "全球首款AI智能体手机努比亚NaviX Ultra合作商公布  tech.ifeng.com",
+      "summary": "全球首款AI智能体手机努比亚NaviX Ultra合作商公布  凤凰网科技",
       "categories": [
         "breakthrough",
         "tools_apps"
@@ -212,11 +233,11 @@
       ]
     },
     {
-      "title": "OpenAI智能体“劫持”网站，高管数周秘而不宣 - 观察者网",
+      "title": "OpenAI智能体“劫持”网站，高管数周秘而不宣 - 观察者",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94dFlwUWZEdEx3NDVDcXhYVVNBT3IwS0J4RTF1VnhHTUVUM056VEVpNzA4N0d4d1FqZ2VlU293Rjloa0xOQUV6T3dOTDlsSjVaTl83R3hpMHVBODNjSDZnd3ZiOVE2dW1iQWc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T04:21:00+00:00",
-      "summary": "OpenAI智能体“劫持”网站，高管数周秘而不宣  观察者网",
+      "summary": "OpenAI智能体“劫持”网站，高管数周秘而不宣  观察者",
       "categories": [
         "openai",
         "tools_apps"
@@ -254,21 +275,21 @@
       ]
     },
     {
-      "title": "韦神主攻的千禧年难题，被Claude攻破了？ - tech.ifeng.com",
+      "title": "韦神主攻的千禧年难题，被Claude攻破了？ - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EVU85cGozMVN4bE13cW9rVEhjaUJNcEdOOE9FODlnWDZpNTVSTDBPRHJvQlNNR2o2WTB3dXoyUzRiV0VyVWM3X2k1N0U?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T03:55:24+00:00",
-      "summary": "韦神主攻的千禧年难题，被Claude攻破了？  tech.ifeng.com",
+      "summary": "韦神主攻的千禧年难题，被Claude攻破了？  凤凰网科技",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站 - yicai.com",
+      "title": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站 - 第一财经",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05R0l2UDlIZ2JjcjlhTEN5emhCMDYyWGkxdmgwdjNOTm9TUDVGeGhldGJUak44MzJNTVlsMFJOU2M4b0ZuWlkxeWt6RWYxVUllTGlz?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T03:50:34+00:00",
-      "summary": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站  yicai.com",
+      "summary": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站  第一财经",
       "categories": [
         "openai",
         "tools_apps"
@@ -296,41 +317,11 @@
       ]
     },
     {
-      "title": "大模型卷入“周抛时代”：谁最焦虑，谁又在狂欢？ - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zVkhhM2NPLXlKYkhwN05kT0pQSnhsNjFncExmWWdnU3BOSExyUGlpVHdHdk94emlmVi10Y0xYTnhBX1lqY05yQzJ1bTN3emhUZ1R4MVVyQXZpbzA2cVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T02:08:00+00:00",
-      "summary": "大模型卷入“周抛时代”：谁最焦虑，谁又在狂欢？  thepaper.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "中国大模型简史02：一张突然值钱的船票 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmdfcVNINEJ0d3ZmdzhuQWRxaDBTckRTWUlsLUQ3b0FTNzBGSTdGYW9ObGNkQTlHZXB0ZEs3b1VGTWJvLWtKMl9qdk9RRUlRODg5R0ZsckdQQUJZNFFnejZxMkd0eGk4MXp5QnlRWXBxdGtaRWdmNjhRUHNoNVF3Vm91RkpBQTV0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T02:03:50+00:00",
-      "summary": "中国大模型简史02：一张突然值钱的船票  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "2026成都车展AI座舱全景复盘：从语音助手到整车智能体 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OdFhZRUlsRkh4QXRZVzRPdC10OTgzRks3OWVudmItUW5Ldm5RMGMtaWlMaF9PZ21KX01lamphM0VwWDEyM1VCd190NmlVcXRQVjZB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T01:47:00+00:00",
-      "summary": "2026成都车展AI座舱全景复盘：从语音助手到整车智能体  电子工程专辑",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI承诺未来将更加透明地披露AI智能体失控情况 - tech.ifeng.com",
+      "title": "OpenAI承诺未来将更加透明地披露AI智能体失控情况 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LVnhPX1JGdTVJUFlTZ21PVWY0VHFxcGludWt3azlKR2tLQ1RmMlJiTDZROGFpdmVpd2xVbEJIVGRxajNYaXY3LTE5M0E?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-05T23:57:46+00:00",
-      "summary": "OpenAI承诺未来将更加透明地披露AI智能体失控情况  tech.ifeng.com",
+      "summary": "OpenAI承诺未来将更加透明地披露AI智能体失控情况  凤凰网科技",
       "categories": [
         "openai",
         "tools_apps"
@@ -376,6 +367,17 @@
       "summary": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网  新浪财经",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-06-15T07:00:00+00:00",
+      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     }
   ]
