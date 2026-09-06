@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-06T20:41:06.406702+00:00",
+  "updated_at": "2026-09-06T22:46:50.392089+00:00",
   "items": [
+    {
+      "title": "曾鸣：别被大模型万亿美元市值吓到，雅虎也曾五年就冲上1200亿 - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdzNVYXZJbk5YbmFMWmw4SWUtSXRRbjRMWFUtR3FLbEtoa2NXdmpWT0Z0NTVhZUl3NDRuWVNuLVVGVkI4Y1BHZFRXdU1SdXhoMGtEaWh4U3dnandYSGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T22:20:00+00:00",
+      "summary": "曾鸣：别被大模型万亿美元市值吓到，雅虎也曾五年就冲上1200亿  thepaper.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Kimi、MiniMax等大模型厂商即将入驻天猫开设官方旗舰店- 快讯 - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1STjZJd2Q2blpiLUhaV3YyczFKa0lNLXcxb0dPc0ZHS0c0bm03LXlieHVvQlJLQnhCZzhVNU1fQ2tMZTBkbzJVTU03UW42c3NLVlZYdHpUUGY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T22:19:45+00:00",
+      "summary": "Kimi、MiniMax等大模型厂商即将入驻天猫开设官方旗舰店- 快讯  亿邦动力网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "提前补四大核心能力，才具AI时代领导力|Claude Code|国际空间站|国家安全|编程|中国_手机新浪网 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LTnJlc01GWFVLZ2VOcmhyVjFEemdORlBOOUFtQ0ExdjluS19IYW41dVViOFJEUVlnTmNyeDFEMmtkTmZvNWRxRTM0ZGZFUXBEY1ZJVnREV19IRl90cnVMSjVDZWMxS0xhTnFWcDcxQ0hMMURWRm1MNQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T21:42:32+00:00",
+      "summary": "提前补四大核心能力，才具AI时代领导力|Claude Code|国际空间站|国家安全|编程|中国_手机新浪网  finance.sina.cn",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "又曝诡异AI事件：一群智能体竟“劫持”德国网站… - 文学城",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96NVJuSkc4RTBoOEROYmlyVVdNRWhybkJqSXR6a2d0Z2doUC1tZnl5c0M1MmFjSXN4NWlXZjh2VFQ4c0MzZ2drYkJ2OUxxaWhvOEJMWlk5cTNiMlBHUnNXQlhRU2hCazNf?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T20:59:02+00:00",
+      "summary": "又曝诡异AI事件：一群智能体竟“劫持”德国网站…  文学城",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中泰证券:《中报业绩超预期，星火医疗大模型综合实力行业第一——讯飞医疗科技2026年中报点评》 - 发现报告",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aWHNMaE1nRUJSRFVidzhhTHh2LWN5MDV1NURMX1RCNnVicm1kNllnZG5JRkdhOGJkOTVmMkt4QXhIYnllbkFsZFRuSXhLclda?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T20:12:38+00:00",
+      "summary": "中泰证券:《中报业绩超预期，星火医疗大模型综合实力行业第一——讯飞医疗科技2026年中报点评》  发现报告",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "我国化工行业首个大模型发布新版本 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenJKSXJudWhHTDhLSWZqQl9QU3gxdkNtVU9ZMFFYaDN3X1h5OGZLaFZvUzNNdVNIR0Z2NUhpSGd5cUdVZ2xOWk1oOVUtak5wOG5lS2pYaVVqNURjUU5WS0tGVTNfcWV6bXZ4THpFeXlrSmZIQ3VtSFl1T2lFTThnekFVWTFlQ1lYbnpxNw?oc=5",
@@ -32,22 +82,21 @@
       ]
     },
     {
-      "title": "Claude Code工具调用生变：读写文件弃用专用工具改走Bash，Windows端转用PowerShell - 80aj.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eGxKSXNUX2UxX0kyX2ZLMWtCU01MaENCTG9lTjYwbW53S3VXNUdiVzJGV2JkalZFajk4Yk54dXNMN2I2bkVRMUdxS0JqWnUtUWkxd3BlZnNobEtIWVhzZnhmY3Y?oc=5",
+      "title": "数百个工业智能体在东风“干活”，每天，超百万公里仿真里程在“测试场”里跑 - news.cjn.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMXc1WkxMTURyVURoU2tpalA5azAwMm8wVzJXZ3pXaXN1NEwxVW9ONE5GNUVxX3BkNkJqbzRTdXlidmhRUk5pTjBrYXFtN0sxc2xZY3EwOWxaWkxQVDNNS0t3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-06T12:16:29+00:00",
-      "summary": "Claude Code工具调用生变：读写文件弃用专用工具改走Bash，Windows端转用PowerShell  80aj.com",
+      "published": "2026-09-06T13:19:00+00:00",
+      "summary": "数百个工业智能体在东风“干活”，每天，超百万公里仿真里程在“测试场”里跑  news.cjn.cn",
       "categories": [
-        "anthropic",
         "tools_apps"
       ]
     },
     {
-      "title": "智能座舱测试迎来AI大模型驱动，东方中科研发多模态自动化测试系统 - 网通社",
+      "title": "智能座舱测试迎来AI大模型驱动，东方中科研发多模态自动化测试系统 - auto.news18a.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RZi1HTVROTlN1LTlENnpkdkJHLW1TeTE4S1FEZnJ1T1I0M2lxRGd4VnhlUTFIWE93Y2hTcjlFUmtVdEpNTnZpTzRGZ3ZFZ2t4dUU0V21yVHNuQU5Z?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T12:13:10+00:00",
-      "summary": "智能座舱测试迎来AI大模型驱动，东方中科研发多模态自动化测试系统  网通社",
+      "summary": "智能座舱测试迎来AI大模型驱动，东方中科研发多模态自动化测试系统  auto.news18a.com",
       "categories": [
         "other"
       ]
@@ -74,11 +123,11 @@
       ]
     },
     {
-      "title": "杨东：掌握智能体应用的企业，可在行业内形成半年至数年先发优势 - 新浪财经",
+      "title": "杨东：掌握智能体应用的企业，可在行业内形成半年至数年先发优势 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CUWRwbmw3b2NlYXdLWVlLV0E3Ym5waERvUXloTWQwS3hmdkhWZ2lXN0JNYUJpdktCXzh6Zzk3N3RUNFhWcUsyTHNkZjVpQ2NPa0lKTnl1RXlwQUZFcHRHMlVOLW16TXM2Wi1OTTJrdGxOakxiWmxCSw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T11:15:00+00:00",
-      "summary": "杨东：掌握智能体应用的企业，可在行业内形成半年至数年先发优势  新浪财经",
+      "summary": "杨东：掌握智能体应用的企业，可在行业内形成半年至数年先发优势  finance.sina.cn",
       "categories": [
         "tools_apps"
       ]
@@ -90,17 +139,6 @@
       "published": "2026-09-06T11:04:50+00:00",
       "summary": "“汉语桥”专属智能体“小桥”亮相  Sohu",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI智能体被曝，“劫持”了一个网站 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVNjNHhFbzhNazMzb0ZsdTJrcGlMUnpoYThRekNlV0VmRnFjYkdaVDN0YnlzMlhHa1NNZ1RJOWVIMGthWVRuSFZJS2Ric0lDSFppNWx6emVoUktpZVc5dGZ6c0RKeGdLR3FRTGlNWnZKZ2hJSFBOLWlmOFY2Nm5JRjVUa19KaUo5N0JyNA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T10:43:34+00:00",
-      "summary": "OpenAI智能体被曝，“劫持”了一个网站  Sohu",
-      "categories": [
-        "openai",
         "tools_apps"
       ]
     },
@@ -147,11 +185,11 @@
       ]
     },
     {
-      "title": "AI大模型驱动智能座舱测试，东方中科与瀚思通齐头并进 - 网通社",
+      "title": "AI大模型驱动智能座舱测试，东方中科与瀚思通齐头并进 - auto.news18a.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUXA2Yk1sTTRzYWdhZ3pBRGNOSzdIa3c4MWphZVp0TGFRNEpvN2JhTHBhbG5UZG5QWkhKRUVaMmhCV0hSd3FjR1dCMm9JbC1nXzRDbEd6dWRaaXA5?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T08:33:10+00:00",
-      "summary": "AI大模型驱动智能座舱测试，东方中科与瀚思通齐头并进  网通社",
+      "summary": "AI大模型驱动智能座舱测试，东方中科与瀚思通齐头并进  auto.news18a.com",
       "categories": [
         "other"
       ]
@@ -178,18 +216,6 @@
       ]
     },
     {
-      "title": "又出事了！美国一批OpenAI智能体，被曝劫持了一个德国网站，用来相互传递突破限制的方法！ - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DamFhbHNUWGVOVkIxX0o0SDVjQUhaRTFEM3hsa1MzVE42TWd2ckg1VV9GdFN0bWx3MTdHMWRpR2FDQThSXzBSTzNNbFdtLWdoOWQ4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T07:35:13+00:00",
-      "summary": "又出事了！美国一批OpenAI智能体，被曝劫持了一个德国网站，用来相互传递突破限制的方法！  华尔街见闻",
-      "categories": [
-        "openai",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "华为、阿里、用友、特斯拉……科技龙头齐聚青岛论道大模型与具身智能产业创新 - 青岛日报",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DenI3Q2NuS0h2bERFT2NYejl2VHcwdkFwUFZMZWZhc3UwVXNFVzZOVGJ2T2Jqc3pxVVVTZENaVThPYUVyUUdKLXVybFBUb2FfMjNpYkIwNGk?oc=5",
       "source": "Google News - AI(中文)",
@@ -210,11 +236,21 @@
       ]
     },
     {
-      "title": "聚焦人工智能等四大主题，首批长三角一体化科普研学精品线路发布 - 新浪财经",
+      "title": "汽车之家推出“芝士车管家”AI智能体 - 汽车商业评论",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81QUlNVkFrMUkzQXFqT2lCVDFHZTNZckxNMVQwTFhLajAxTGd3RGt3UjlycmRmVHhIZ3lKcVpzdnFuZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T06:06:00+00:00",
+      "summary": "汽车之家推出“芝士车管家”AI智能体  汽车商业评论",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "聚焦人工智能等四大主题，首批长三角一体化科普研学精品线路发布 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BVWl4UndWYTRHSzVUVV9sVmktWU5fNEJ6ek9YbzlmMDNEeEdfVnc1dzdDLXFKN3FQMzljYkhHTmo3X1BHYkFYRUlrV1hJYWdOSFVvZlhvZW5raUkxUDZnSEdaVG9Nd3BpOWhTd2lWaDFld2F4d3A1cQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T05:03:00+00:00",
-      "summary": "聚焦人工智能等四大主题，首批长三角一体化科普研学精品线路发布  新浪财经",
+      "summary": "聚焦人工智能等四大主题，首批长三角一体化科普研学精品线路发布  finance.sina.cn",
       "categories": [
         "other"
       ]
@@ -233,6 +269,17 @@
       ]
     },
     {
+      "title": "OpenAI再曝安全事故，旗下智能体“劫持”社区网站 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkgtQkFPb1J3ZW5MQmlGcFl0WUJKV09SZERtUFpmczVjVUx2WjRTVGFCUHNzbVFUb2pMczd4ZmttMDlTeHZvUUdkcDZ5TkJicF9scExEQ2JqUmVqcG5nQU5hZzBndTcxemlyRkJkeEhWeGFSb2NSTGVyZ3dyZ21rNFFjWGZ2OWd5dFpZZA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T04:36:44+00:00",
+      "summary": "OpenAI再曝安全事故，旗下智能体“劫持”社区网站  Sohu",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "OpenAI智能体“劫持”网站，高管数周秘而不宣 - 观察者",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94dFlwUWZEdEx3NDVDcXhYVVNBT3IwS0J4RTF1VnhHTUVUM056VEVpNzA4N0d4d1FqZ2VlU293Rjloa0xOQUV6T3dOTDlsSjVaTl83R3hpMHVBODNjSDZnd3ZiOVE2dW1iQWc?oc=5",
       "source": "Google News - AI(中文)",
@@ -244,76 +291,56 @@
       ]
     },
     {
-      "title": "光谷发布“AI光子计划”，未来三年引育408名核心人才 - 荆楚网",
+      "title": "光谷发布“AI光子计划”，未来三年引育408名核心人才 - news.cnhubei.com",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yS2pQeVgwOHprVm9tcURXUktSREQyR1dwc3lZcGVmRURaU1FwQUR0bk5XbTF3ZVc4UnF1dC0zY1kzcHg5ZHdsWk5pMlBYWk52UG9Icl9GMWs3d0ZRY2IweFhjam9RYWdJYkhOZ3NKc0xFZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T04:20:00+00:00",
-      "summary": "光谷发布“AI光子计划”，未来三年引育408名核心人才  荆楚网",
+      "summary": "光谷发布“AI光子计划”，未来三年引育408名核心人才  news.cnhubei.com",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "地平线HSD量产上车：端到端大模型+征程6P，城区NOA下探至10万级 - 网通社",
+      "title": "地平线HSD量产上车：端到端大模型+征程6P，城区NOA下探至10万级 - auto.news18a.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uQzNYODU4UFZ5Q0pDZERvVUtpSmlqMFR6QkRWYUhnN0VQLTRhd0ctMG5YUXhMSzlsdGZlSzhpeVJGOVF4RUZySmdEWTFQZE9uTUFCN0NmWk5iVkE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T04:18:11+00:00",
-      "summary": "地平线HSD量产上车：端到端大模型+征程6P，城区NOA下探至10万级  网通社",
+      "summary": "地平线HSD量产上车：端到端大模型+征程6P，城区NOA下探至10万级  auto.news18a.com",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "OpenAI智能体被曝“劫持”网站，用于相互传递信息 - 网易新闻客户端",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90WVdLajVvSl9ySTNxY00xN1kzazhkMmFFOGlPZE11a0RkaFlWakRlOThaMVRFNHNBVl9vQ0RQRkVfeHFjOTh6ejVWZXB6TGJBaEVJNFg4UFJWS05a?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T04:14:00+00:00",
-      "summary": "OpenAI智能体被曝“劫持”网站，用于相互传递信息  网易新闻客户端",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "韦神主攻的千禧年难题，被Claude攻破了？ - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EVU85cGozMVN4bE13cW9rVEhjaUJNcEdOOE9FODlnWDZpNTVSTDBPRHJvQlNNR2o2WTB3dXoyUzRiV0VyVWM3X2k1N0U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T03:55:24+00:00",
-      "summary": "韦神主攻的千禧年难题，被Claude攻破了？  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05R0l2UDlIZ2JjcjlhTEN5emhCMDYyWGkxdmgwdjNOTm9TUDVGeGhldGJUak44MzJNTVlsMFJOU2M4b0ZuWlkxeWt6RWYxVUllTGlz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-06T03:50:34+00:00",
-      "summary": "OpenAI再曝安全事故，旗下智能体“劫持”冷门网站  第一财经",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "九款智能体产品在溧阳亮相，首次披露“三位一体”开源架构|溧阳市|具身智能|AI智能|毛明|Agent_手机新浪网 - 新浪财经",
+      "title": "九款智能体产品在溧阳亮相，首次披露“三位一体”开源架构|溧阳市|具身智能|AI智能|毛明|Agent_手机新浪网 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZBTGZyQkJlUU9nTkEzOXdoVlJLSndlQmhzQTVEWjJYQUtyQUU3WHNmeGhINnRfN3U3anRIaXRZX0RZMzVobVhubFN0X21zVDNXS2Q3aFlMY2cwUF9rcWdCSEloaU1SMFFLc2dJSDlQMnV3Q3h6OTJ1aDZUUFVLbldVQVhQYUVhQXFN?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-06T02:52:29+00:00",
-      "summary": "九款智能体产品在溧阳亮相，首次披露“三位一体”开源架构|溧阳市|具身智能|AI智能|毛明|Agent_手机新浪网  新浪财经",
+      "summary": "九款智能体产品在溧阳亮相，首次披露“三位一体”开源架构|溧阳市|具身智能|AI智能|毛明|Agent_手机新浪网  finance.sina.cn",
       "categories": [
         "tools_apps",
         "open_source"
       ]
     },
     {
-      "title": "当大模型公司开始“对账”：API收入背后的成本博弈 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yTzBFWkV3eWxDUmdyaExITmg2YkpoMlo2UHhkdkM2TlZoaHVqS292Y1h1NUZoYTFiWUhBaDZ1RTlzejVXT3RJUnQ3ODBmalF2dGdyUE1yYnJQeHhaeGc?oc=5",
+      "title": "OpenAI智能体被曝，“劫持”了一个网站 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3hxLU5Vdy1fdXhYaVpMd09HMVlCNEtyaE91MF9ZcmUyUk95aS1ITngwZGVsVWo3SmNUMXljS2Nva0V6cFc1V1VhWm50UjZBU1JObjhVY2poMl9kNWMzRThRQlJMa3FiMGxKbGlTRFpZd2ltV2xNM3kxdFN3YWEyTDI5RHRNWFFYZ1QySg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-06T02:13:00+00:00",
-      "summary": "当大模型公司开始“对账”：API收入背后的成本博弈  thepaper.cn",
+      "published": "2026-09-06T02:11:00+00:00",
+      "summary": "OpenAI智能体被曝，“劫持”了一个网站  21财经",
       "categories": [
-        "other"
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI智能体被曝“劫持”德国程序员网站 扎堆分享作弊技巧 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3p3UnJTazQ0bE5zZlBZSkcwUzNBdF9WSXFLNnhLdm4xTXNQU0pad1lvaFU4NzlkanlVSE5IbUdJbW1SNEtvYkdhTGhXMnNUd2ZXQUJxVTdETXhhWWRTVFcxdUQ4TWF0UmlVblB0VUlMM0lBU2gxTjJ0TWg2T29LQ1hfUnlfS1hzdmRLcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-06T00:20:52+00:00",
+      "summary": "OpenAI智能体被曝“劫持”德国程序员网站 扎堆分享作弊技巧  Sohu",
+      "categories": [
+        "openai",
+        "tools_apps"
       ]
     },
     {
@@ -328,55 +355,24 @@
       ]
     },
     {
-      "title": "汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zbkZnV0JzeUswUUNQZWUyR2pxUF83VG1LTFNuMTRWaXJSaXppcjJ4R3FZT2dDZWNZb25yM0NrbmZJYkJESTR3YW9oX1gwVUZlMXJxVHR6ZEd5el9wbXJyTzNpQVlnYTJZdzVYOHd1dWJjZDVh?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-05T23:38:04+00:00",
-      "summary": "汽车之家发布“芝士车管家”AI智能体，打通汽车“选买用卖”全链路  新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日 - 新浪财经",
+      "title": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43eEJsX294UTV2MWtmVmhfV2VMVG5BejZrQ3dMMXAtZ3JfUlBkMW9TMnR0bEs1UEgySkJoRVBRdzJ0Y0JjY3ROMnhzR0tvVGJLT19LazJUNlp2ZENsMGNITm9CSy02dU5WaUNUY0pPcE9vR3p5MDhMeFZBLUJodjQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-05T23:26:15+00:00",
-      "summary": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日  新浪财经",
+      "summary": "比亚迪：超级智能体迪迪虾暨腾势 N8L 纯电上市发布会定档 9 月 14 日  finance.sina.cn",
       "categories": [
         "breakthrough",
         "tools_apps"
       ]
     },
     {
-      "title": "一批OpenAI智能体“劫持”网站开展“协作” - 新浪财经",
+      "title": "一批OpenAI智能体“劫持”网站开展“协作” - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJN1NZeWlKVW1YalRIdHkzZ05ldUF2dU9rU0tTU085N2t5c0pfem40blprc2M2cklnSWJMQ01JTHNLR2NPRE8wLWNFNFRkRnN3Zm80TU12cVA3U3lQYlZhX2hZYVFGX1lfMUxSSVQwbXQtOFlVM3Jhbw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-05T22:47:46+00:00",
-      "summary": "一批OpenAI智能体“劫持”网站开展“协作”  新浪财经",
+      "summary": "一批OpenAI智能体“劫持”网站开展“协作”  finance.sina.cn",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGFUZjRkb3hvYmdHVEs3djRwckZ3NEtSdmpVU1gwX01VUlluajNGaFNJRmlkRGNHNjZDdXlOdFpzTXFHM1lHa1lNbUszT2F0MjU2MEZmam03X0xlZzBVcGVnNkZaM09JTmVlUkxHc1g5bmZ5Nm94OFpiQkJQdGlvSmFwZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-04T03:07:17+00:00",
-      "summary": "OpenAI发布全球最强大模型GPT-6|AGI（通用人工智能）|财联社|网络安全|概念|时代_手机新浪网  新浪财经",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     }
