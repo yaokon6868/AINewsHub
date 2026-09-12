@@ -1,22 +1,73 @@
 {
-  "updated_at": "2026-09-11T23:03:46.601262+00:00",
+  "updated_at": "2026-09-12T01:23:39.936969+00:00",
   "items": [
     {
-      "title": "面向全球首次发布“智能找矿”“智能填图” 系统--> - 天津日报",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlJLTElXRVFiQkYtVXJxNV9xekw2WVJ0M19uaVVrUENEWVBNNTBOb3lPUmZUeGhBeW1TeVhxbUpZNDBlbEQ5bVczR3JRalgwWHVoYzdoMzNLakhldnhHZm5JVzRmNVZJSDIwNU5XUUg3X2wteW9XbTNZSkhLX0w2aHVn?oc=5",
+      "title": "AI可能消灭人类？Anthropic研究人员警告行业发展过速 - zaochenbao.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcmI4UzVVcEsyOENySlJWM1R3LVgySnNjNlliSUNpY1JUdVNVb2w5SXNIdl9zUXlqRV9SSHlxT3FnQmE1bjVGaHFwblZuWVBHZnZwWnpCd1pzNEU5TmRYRW5qUUJOcnVhNElB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-11T22:28:15+00:00",
-      "summary": "面向全球首次发布“智能找矿”“智能填图” 系统-->  天津日报",
+      "published": "2026-09-12T01:10:00+00:00",
+      "summary": "AI可能消灭人类？Anthropic研究人员警告行业发展过速  zaochenbao.com",
       "categories": [
-        "breakthrough"
+        "anthropic"
       ]
     },
     {
-      "title": "ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVy12SkRLSzRwV2tPNUpjZ3NCamZkQ1VuampzSE83QXBoMTlpb0hLOVJDeDBIOUpkbzk2NFp2Z2RSUklhSnB3enRxZnRkRklxbWlqcTNnZ3kxaWpINlFXNVNjTU5Ya0JCUXNsTUxrMDNSaTdlMWhqN1haTzljMDNiSQ?oc=5",
+      "title": "OpenAI AI智能体曾攻击RubyGems涉及利用未知漏洞窃取凭证 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTVjWDNfdkVzMXJ0aEZJVWRRQmRVNjYtTjc1SlFLX2ctUzhqRGlFd0pSRmNVTUF5X3RlYzBuenpjWWMyTWxoQXNEY0NTcVJfWEJ1VjJ6djlyWTZWVF9sZ1VpLTFQM1lPMGVrTkZuckFmLUhNT1k0akQ1RGo5MTNGaExoZWViSDQ1?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-11T22:18:51+00:00",
-      "summary": "ChatGPT Images 2.5 发布 3 天，12 个宝藏玩法来了！附提示词  新浪网",
+      "published": "2026-09-12T01:05:15+00:00",
+      "summary": "OpenAI AI智能体曾攻击RubyGems涉及利用未知漏洞窃取凭证  Sohu",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI将Habitat从Python迁移至Rust，服务10亿ChatGPT用户 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IMGludFhEdFNGckR1MFRucXU4eTlNTWM2VXhIMy1tLXQyOHpOSHN0X1FZeWRtblpuQjlBSVhuRnM3QjhVZkVQQktEeUIwU1JWX1Mta1ZSU05RdHN6M05Ta3BHZTJfUVNTbU9veFloQjhfN3R6bXM3NlQ0TFNJZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T00:26:24+00:00",
+      "summary": "OpenAI将Habitat从Python迁移至Rust，服务10亿ChatGPT用户  k.sina.com.cn",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEYThZaEdZZnpIQUVhVXdxeXhxdERjNlg0R1hpTG81aTl3OXhPcE8zMW5jbWZVTVRYOE1rekJ6SXZUTTEwbkd5Vkc3NnVHQ1EycDhkYjlQZDJIZXFzWk5LWjBUb28?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T00:06:00+00:00",
+      "summary": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练  财新",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI升级ChatGPT Sites：新增协作开发与自定义域名支持 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iUkFrYnc2MTJRTkVVT2RyWTBtWllRVU4zanJqSHVZcEp0RmU1NWF3T2t1d3AwcWg0ajJxNUJrZ1VTTjdNemF2NV9ZUkhwTzhyMmdGSUc4ZklkdTBKVUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T23:25:03+00:00",
+      "summary": "OpenAI升级ChatGPT Sites：新增协作开发与自定义域名支持  DoNews",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CX1NsMUtvWjhSbWtoTWdMcUs3SGV5SmpTcXRWZ2tuNmJDd0doT0E3dnpYNVVtazNiTFhaQ3VFeWJ1RVhIWl9NYlZVX2ZpaFlnZkpB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T23:14:29+00:00",
+      "summary": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户  华尔街见闻",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI进一步完善ChatGPT Sites - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnJYeE1adGw1REhRclFBZC1ycEVkTEFsWDR5Y2hmc3ExOWd3aHlvLWJLRHBDV0tuSkZyY05nc3g2RlF1cUNGYTVkU3Uwd00tMGRkeGpjX281RHBBaUZFOFM1Y1NvRWpPRktXSlo0UEN4cnJuUWR2MGE5UTIwMzJSUDR4eGpnUEFu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T23:10:51+00:00",
+      "summary": "OpenAI进一步完善ChatGPT Sites  Sohu",
       "categories": [
         "openai"
       ]
@@ -52,6 +103,16 @@
       ]
     },
     {
+      "title": "美国参议院磋商人工智能安全法案，政府或可叫停危险模型发布| 乌克兰新闻 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HWXJPQ2hQa1hBVm12Q0llZEk4UU1USFM1VmFuVUJyZ2E0WFR1ZnBoVUM3cXhfNjJJVWs0dVdSUU9OWkFiLWlLQ2MtWkZRelpKUkktVG9kM3k4YVlYeF9xczFHT3ZqVmI3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T16:36:00+00:00",
+      "summary": "美国参议院磋商人工智能安全法案，政府或可叫停危险模型发布| 乌克兰新闻  Межа. Новини України.",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控 - 美国之音",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXJFUWN0QS1OenNsd3lGVWlpU2pvYW9IR2V1QW05V0NsdVBfRExXSjdwUC0walJuRGxoZUFVRDhhLXRKUkY0VWpfY2dBZFpwbjBDYi1IeXNJRjZLVkN4YlhUWE1JX3V4OEJwUlUwcFFuSDZySjd3OVg4U1hkRmNiS25EODRFaFBrTTFfUnlxVk13NGZtbEJYY3Nlbm83VHNfRTdEYlVsaVhXTFdmVXpNRG1GS0E3WVhHYTR3M2RXVGthNXFpUVVGbnlGQ1dIcGlFcmJFTjk4dzNweTNJTDdNR0tkenp1SHVmamoteUJpRWNTbFA0WWRybndXeUFVSmdXQTl1SS1qUQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -72,11 +133,11 @@
       ]
     },
     {
-      "title": "银行智能体采购近期大单频现，最高近6500万，打包建设智能体“地基” - finance.sina.cn",
+      "title": "银行智能体采购近期大单频现，最高近6500万，打包建设智能体“地基” - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTlMOEdrUEdZanc0aDZZOFZucFJGZVJKMGkycnQ4N284Y3gxSGJJeHNSVUEwTGUtZnpVOGJ4aU9wQTNFOVBLVjJiSWRWVnU5VUQweUNMWXVFMDFpN1RZbGI1aklvQXRzYld3Vm1HOEZwYUVhdjN2QkJUbGgxNDhBSGhmYWpWaEw2OGJ1cGlYeXRpNWRNdjVfNA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T15:45:00+00:00",
-      "summary": "银行智能体采购近期大单频现，最高近6500万，打包建设智能体“地基”  finance.sina.cn",
+      "summary": "银行智能体采购近期大单频现，最高近6500万，打包建设智能体“地基”  新浪网",
       "categories": [
         "tools_apps"
       ]
@@ -93,6 +154,16 @@
       ]
     },
     {
+      "title": "关于征集高等教育领域学科大模型的通知 - 辽宁师范大学",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SZkpNODdJMDhrRmpKYnEzb1B3dFVxalV6TVd0ZUx1bGt0RTEzaHg3YkpJZG92RmF2OW1zTWh4a2o5T2hEQTJ0UEFGNXhEak8yV0JtaUN0MA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T14:05:00+00:00",
+      "summary": "关于征集高等教育领域学科大模型的通知  辽宁师范大学",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "AI投标灵在重庆正式发布 垂直大模型延伸至投标实操全流程 - 华龙网",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfTG5mTW92NkxPR2s0dE9ST0kzRk9rLTkxbWVuVmFDd3F2NmxKUjZWRU1SNlpFQXdFNXhmZW1hamdrNGJFbzRYcm9ZRjZ2WGl3TndXSW0wbmxmMVFMTUxfcFJ2c19HYjg5VlVF?oc=5",
       "source": "Google News - AI(中文)",
@@ -103,11 +174,11 @@
       ]
     },
     {
-      "title": "让更多国产大模型用上优质国产算力，中国联通“十五五”预计撬动千亿元级投资 - 新浪网",
+      "title": "让更多国产大模型用上优质国产算力，中国联通“十五五”预计撬动千亿元级投资 - k.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSFBnMFlreEZuWHlQRjFqNXlpZjVobTRFVXk2NURDUk9ybEVWUW8xSUxxSW5qQ0czd2NnZkg5M2ZHZXNBc0E2ekFRWWlNY2h2ZjJQd0hMOF9scFZDQlRuNXphckp5eHAySS1BbUg1cnFRV0ZPMk9iTGpQbFNDMDg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T13:56:58+00:00",
-      "summary": "让更多国产大模型用上优质国产算力，中国联通“十五五”预计撬动千亿元级投资  新浪网",
+      "summary": "让更多国产大模型用上优质国产算力，中国联通“十五五”预计撬动千亿元级投资  k.sina.com.cn",
       "categories": [
         "chips"
       ]
@@ -123,11 +194,11 @@
       ]
     },
     {
-      "title": "赛富时为Agentforce新增一批AI智能体产品组合 - 东方财富",
+      "title": "赛富时为Agentforce新增一批AI智能体产品组合 - 东方财富网",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ua3JBTFFUWGV6czJYX2NicGdia2tqX045cEJCVG1xdjlYdTM4YkV4bUNtcGVINWNFQnRrZlJZdEdHaTFhNVlmdDZCTzZPY1JVd1ViUlFsUkpkZmYyVEpUWg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T12:28:38+00:00",
-      "summary": "赛富时为Agentforce新增一批AI智能体产品组合  东方财富",
+      "summary": "赛富时为Agentforce新增一批AI智能体产品组合  东方财富网",
       "categories": [
         "tools_apps"
       ]
@@ -143,11 +214,11 @@
       ]
     },
     {
-      "title": "让智能体拥有自己的语言，蚂蚁密算开源可信原生智能体HOP 3.0 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFN4RnZubUNTM0JXVzZBWUt0Xzd0TW9LM3M2TDN6T2hGWlJKb3VmQ3k0dExpMGZheEsteC05UmNSd1F5NjFNZ2F1dlhlUVhDRzFRXzJxa05FV0pCNVZKWVZvMnFtcE1Ec2o1WFpENUdrcHdPZDVpUFhZb2h1OEdhUmR5TnY3Rzc0?oc=5",
+      "title": "让智能体拥有自己的语言，蚂蚁密算开源可信原生智能体HOP 3.0 - bjnews.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1ZEN2tCLVJ0WjV1Z21iSk5tbFBWWTFSa3NDUF84RC1LRlI2MFdVX1FuY1hsQ0FkYVpjYWlvQmtCWDIyam9LOFpvQ2ZQRGdzaGdSXzM1cEt5WUhtQUJiV09kc2k?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-11T11:55:02+00:00",
-      "summary": "让智能体拥有自己的语言，蚂蚁密算开源可信原生智能体HOP 3.0  Sohu",
+      "published": "2026-09-11T11:54:00+00:00",
+      "summary": "让智能体拥有自己的语言，蚂蚁密算开源可信原生智能体HOP 3.0  bjnews.com.cn",
       "categories": [
         "tools_apps",
         "open_source"
@@ -174,11 +245,11 @@
       ]
     },
     {
-      "title": "淄博发布“人工智能+制造”三年行动方案 - finance.sina.cn",
+      "title": "淄博发布“人工智能+制造”三年行动方案 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qX2ZHQ1FwS1RwdnFpeWRtQndZbVN1d3lMblBxblNjTXZyRDg0emdlYzduV1pDOURqa1hZWmhTaTVoWWpzVlVtWlg5eUFNbHJ4X3NNMTYtSzRNQktSaWRkMTBJZW9sQW1URjhybTZpZnlDM042ZXhnRQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T11:30:40+00:00",
-      "summary": "淄博发布“人工智能+制造”三年行动方案  finance.sina.cn",
+      "summary": "淄博发布“人工智能+制造”三年行动方案  新浪网",
       "categories": [
         "other"
       ]
@@ -204,41 +275,21 @@
       ]
     },
     {
-      "title": "支付宝将推 AI 钱包智能体 - tech.sina.cn",
+      "title": "支付宝将推 AI 钱包智能体 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3FtbVhVREI2SFVidTlWTXZsa19XTVRsN1RvYkZKS05CTlItNy05b19lQ2k2Zk9Lb1NIRHM1eTNJYVVuNk5kZGtZZTZYRkRIUUJjMDVsVWZtUjZCUFRWOUJqdkdhSFJ0WmljZTEyTllfaUUzOTFhY2tKdkc0R29oaDF3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T10:51:12+00:00",
-      "summary": "支付宝将推 AI 钱包智能体  tech.sina.cn",
+      "summary": "支付宝将推 AI 钱包智能体  新浪网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "入选2025金融智能体未来破局者象限，同盾科技支撑金融智能决策升级 - finance.sina.cn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LUXFFWHBxVWc3Z0hCTWlvTDVPdDJzMmpBeklFT1NCWm1iVVV2Yk9taVdPaEh0TC1ycG1rSXFCR3V6VkdONm0tNE1OTEhDR282STc3ekJTMkhzZGxsdkVwWUN1YzdpQ3Z5ZzAtTjR0YTdoc3YwQUMzSlN1WVdra2M?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T10:36:55+00:00",
-      "summary": "入选2025金融智能体未来破局者象限，同盾科技支撑金融智能决策升级  finance.sina.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "企业级智能体商业演进十大趋势来了！高金联合蚂蚁集团研究院发布最新洞察 - 上观新闻",
+      "title": "企业级智能体商业演进十大趋势来了！高金联合蚂蚁集团研究院发布最新洞察 - jfdaily.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zaGtiRW9lcW1Yb3pLd21nOVVhR20wOFc1Q1NRVFRncTJ5X0I4YTBQRVp3WkQzT24tRHp4Z2pKNkxUU1FfYVBKMmgwWHR0NWFoVld1c3owZlRtQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T10:36:00+00:00",
-      "summary": "企业级智能体商业演进十大趋势来了！高金联合蚂蚁集团研究院发布最新洞察  上观新闻",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKc21YeHFMY2JoUTc5anNjVElYaWFHUTFIOHY3bi0xaW04RGFHcUtmV0JqZDhjTElUUTlsdnFmZG1zUkhuTy1yVEFOZDA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T10:29:57+00:00",
-      "summary": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营  凤凰网科技",
+      "summary": "企业级智能体商业演进十大趋势来了！高金联合蚂蚁集团研究院发布最新洞察  jfdaily.com",
       "categories": [
         "tools_apps"
       ]
@@ -255,26 +306,6 @@
       ]
     },
     {
-      "title": "AI大模型为何摆上电商货架？丨兄妹财经 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tTzJJUmZSNjhZVWhtWG8ySTgza0tkT21qYUVuZDd1NExyemZ4dXB0U2NITjgxMG5zTDhxUWlmNEdLeGlmRnZ5OGp1MkdqUnphbHBQVDQzM0Nycy1sWlNfZmo1bw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T10:19:05+00:00",
-      "summary": "AI大模型为何摆上电商货架？丨兄妹财经  四川新闻",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "“AI智能体+工业品”驱动 苏宁易采云订单、客户双增 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43SE1LVS02X0QzUUlJSmxzWDdBOWVVODl1NFdPMFdPcExEdjNxeDBka0tzMFhhWHhHZnF4czFkZnlVMUdELVRiQkhyS3BLTDJWY2Jta085X2lGT1huVWJmMWV6a3lJU3dXUjdTbk1B?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T10:11:26+00:00",
-      "summary": "“AI智能体+工业品”驱动 苏宁易采云订单、客户双增  央广网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "DeepSeek V4.1 Flash 发布：更小、更快、更省的下一代多模态模型！ - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zbHBYNG9zOF8yaW43ekoxaVc0TkVrenlNaHRxV0lYeVBidW1TckgzX2I1VnkxSWF6aVJxMHhUYmZIX194enNqRmFrU1hyUGI1djNV?oc=5",
       "source": "Google News - AI(中文)",
@@ -285,31 +316,11 @@
       ]
     },
     {
-      "title": "Token可以去电商充值，大模型把自己摆上了货架？ - mp.cnfol.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93V2EzYVc0OFE5T3p0NGR2dnBPNFZCa0QtUVBlY0ctV0g0X1JnelVtb1hhbVNEYjc4QUxhZ09ieWJEQlF2MDJNWkk3QmZ0V2hBb0N5TnVvdHFURFpVYTNWVHdMUWc5X1JsTnJV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T10:05:47+00:00",
-      "summary": "Token可以去电商充值，大模型把自己摆上了货架？  mp.cnfol.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "工业和信息化部“人工智能+软件”专项行动实施方案发布 - 腾讯新闻",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UUFZRSXdfNHYtN3RpUC1uMGFndXd2M0o1Qjd1TVNpbXZmaTNnNEh1aGQ1bEpSYndlbTlRNklOdV90c1ZxNHNlSjMwenVKLThkYlU0RjJR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T09:24:00+00:00",
-      "summary": "工业和信息化部“人工智能+软件”专项行动实施方案发布  腾讯新闻",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "蚂蚁集团CEO韩歆毅：智能体商业的ChatGPT时刻已经到来 - finance.sina.cn",
+      "title": "蚂蚁集团CEO韩歆毅：智能体商业的ChatGPT时刻已经到来 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ0FRNU15Q2tsbl9rZ0MySTRHUXlPSHA3RVpMdzFHUFNteVFLQjlUb3NNa0s2dWV3UnJfcUI2NTBtQVNlU3RrQWlNeFJkZ3d0Y2h6bzVJWnF1d2lvR3J1d3ZPZkxwYW1zNHE0QTdDY1pkeFNFUDJmQg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T08:28:14+00:00",
-      "summary": "蚂蚁集团CEO韩歆毅：智能体商业的ChatGPT时刻已经到来  finance.sina.cn",
+      "summary": "蚂蚁集团CEO韩歆毅：智能体商业的ChatGPT时刻已经到来  新浪网",
       "categories": [
         "openai",
         "tools_apps"
@@ -327,17 +338,6 @@
       ]
     },
     {
-      "title": "数之联重磅发布UMind工业智能体平台，赋能企业全链路智能化跃迁 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uS2JKeUNIRmVRQk9jdm9kWHhsMk8wU20xUU9maS14aVdPOGRRY0RqcFVqWk1kNFRMYzd3WW1mZzU1R1kyYWlIbW02ZDV0cXczc1VLNlItM3liRWgtX2NTeEtqT0pwVXNLNzhLTmpn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T07:46:06+00:00",
-      "summary": "数之联重磅发布UMind工业智能体平台，赋能企业全链路智能化跃迁  中华网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI暂停ChatGPT Pro 200美元套餐新用户注册，称算力负载过高 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81NkJfQV9Lbmd2dUJhS2xPSnliRUFZaUdVcXFGUndnUUR0U09wN05lLXQzT0Y5dWxCQ3VlTFkzVUxGeU81VXptRnRBdmlScW0xUmhmSA?oc=5",
       "source": "Google News - AI(中文)",
@@ -349,11 +349,11 @@
       ]
     },
     {
-      "title": "金融智能体从单点工具走向岗位协同 蚂蚁数科发布 Agentar 金融版 - zhidx.com",
+      "title": "金融智能体从单点工具走向岗位协同 蚂蚁数科发布 Agentar 金融版 - 智东西",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UMkhGY2VoTjROTjhGUlIwU3VjRmlsNTIzbG85a2VleGM1c2NXMEhMcXQtVHpIb2tDN2xUUjBSd1JNXzgtWEE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T01:57:59+00:00",
-      "summary": "金融智能体从单点工具走向岗位协同 蚂蚁数科发布 Agentar 金融版  zhidx.com",
+      "summary": "金融智能体从单点工具走向岗位协同 蚂蚁数科发布 Agentar 金融版  智东西",
       "categories": [
         "tools_apps"
       ]
