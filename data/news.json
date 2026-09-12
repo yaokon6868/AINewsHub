@@ -1,437 +1,373 @@
 {
-  "updated_at": "2026-09-12T17:22:37.705608+00:00",
+  "updated_at": "2026-09-12T19:34:15.400061+00:00",
   "items": [
     {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-12T15:52:11+00:00",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "translated": true,
+      "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVU1VakttdXRJUTF4cnNiVk5zeWNESkVjT1dZREt1a0hzTGRXS01IZlpjRTJCd2Y2RkdNdTQ0SzJZaUVUVXhQbzZuY1llLUlFWTRPR0pjZG5sbEV4TjVhem95NHhmZUp6Sk51NlcyWjFnUEV1TDR6WHBPc2UyZUlBN3NWTUVKdk9DZmc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T19:07:30+00:00",
+      "summary": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同  新浪网",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News - AI",
-      "published": "2026-09-12T15:08:27+00:00",
-      "summary": "138 赞 · 118 条评论 · Hacker News",
-      "points": 138,
-      "translated": true,
+      "title": "AI代理可能“接管互联网”：马斯克、Anthropic和OpenAI负责人呼吁放缓AI发展速度 - 欧洲头条",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDAxYlNUaHQxYzEtX003RW52QjVWbVdJeTB4ZG1jMGFoY3ZlT0x5M2tJSVNFMUtETWFSLXJOSU1GN29tRGJwNWcwSFRVcUFGNmlXbDhtaEo4YTdqY2g5MjNjaVBsNUVKYVBxbUZKZmp2RnZBTXBicGxiS1N6LTh3LUZUblBQT0ZwN2g1QjdVdFRKdTJNVThWdloxUG5RNHdGTDZkVEp2VXI3eTNFVkkyZHJSUThEWF9JWWQ1YV8tWFhNVG1EN1ZLTWsyRXZsSHA5RDRaTWFBYWxkbkpaM0xjMWNsY054S0kw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T18:01:55+00:00",
+      "summary": "AI代理可能“接管互联网”：马斯克、Anthropic和OpenAI负责人呼吁放缓AI发展速度  欧洲头条",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI承认其AI智能体曾对RubyGems发起网络攻击 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEJPd01fVlN1R2QtSlVyemtVV3RZQ3RwYi1LWlJnbWdIcVU4Y0R2VFJYZWp6NXFidi11VUNjcHpkSG1MRHd4Tl9xbEMwd21wQVpVdVFYLUtvUkU5aTBJbld5TnM0cUZwenBwaFJDR21LOUk4M3pmWEdYREtBQmZNS2dCdTM4Vi1n?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T16:36:00+00:00",
+      "summary": "OpenAI承认其AI智能体曾对RubyGems发起网络攻击  Sohu",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "服贸观澜｜新东方发布AI成长模拟产品谷积App - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XQjZrbjUwbkZadWd0cEcyNmdfTFNLcDhidnhjS3l6UjRHVVNjODdZbzdXT1RDU1V0RWZkSTUtRVk1VWZiUzhsUm81VjBsNjQ4MVNKdmp3YUNIMXpWbGhXS3lEOFBuYVpDT20yTURKQUVHeFFSM0xtR082M3ptZm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T15:52:32+00:00",
+      "summary": "服贸观澜｜新东方发布AI成长模拟产品谷积App  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Win11每月更新必演的一出戏：AI大模型及A卡都有出bug - tech.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUnVxSkdSTVhfQjJJRWlpUzdxSVBkQkE0TTVmYkVuZkxqRjc4M2M2T2Z6QlNrOXlEaHQ4cVl4a0MtSWZsYkduSWlKNUk4dmFWN0ctbFNCR2t5REdnYml1MXBtZHFRVVJESU12ZWk3RUNxSGVsR0s4N0tkb2ZQN1ZYMjc3TG1DNGM0YjVic004cmNSTjNx?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T15:24:40+00:00",
+      "summary": "Win11每月更新必演的一出戏：AI大模型及A卡都有出bug  tech.sina.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Anthropic首席执行官发表公开信 呼吁放慢AI模型的发展速度 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVluWWpqeHJZcUdjM2hYd3BZN2pTVXpnUWtXbmVMckIzanpVVTBTeUh2VWg2WWhpQ0JRNThSX0lkRUtGd1hyUHhYbGo2LUlydVdsSGRHVWY0TG11MzhlajlaR2pJdWNSWTJpWFNpN1VheDN4OVJVNV9kMTRQaF9XVEg4Nm1vX1YxOHZIbDBkanRjbDVkSGI1WEthWlJuZkNQb2o2eThSLTQzUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T15:14:35+00:00",
+      "summary": "Anthropic首席执行官发表公开信 呼吁放慢AI模型的发展速度  新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI智能体还攻击过Ruby生态？但选择当鸵鸟！ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnZ0NVZ2Qm5pcGlyM25tMzdvMFFVaFAwZW1Ja05FRW1xc3IyVjZvem5IaTlxTHpTbWFSUHNfazVQaTRhb3lWVTgwZVVRcEpBaWZWTk16Xzlxc1pfaldyRWxzdFhCOUZyc0ZCbTI4SGtGekUtWEtrRDk2cDZZaU0xc2ZvMzdSRXV3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T15:02:02+00:00",
+      "summary": "OpenAI智能体还攻击过Ruby生态？但选择当鸵鸟！  Sohu",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "全省算力总规模多少？有多少浙产大模型？浙江数字经济“家底”首度全景亮相 - 浙江新闻",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUXZmcnlseXpla05wMkw1SklrTVUxTEhfLTBtbUlNei1tR1RVLXdHZHEwazFWQW9fZU13bmdSVG9FX3JEcjBsNUhlQVRKdzZleDVmYkM1OEZEZGsxWWd5cWxuOERDcmpScjRVQWpDMXBjUVU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T14:09:06+00:00",
+      "summary": "全省算力总规模多少？有多少浙产大模型？浙江数字经济“家底”首度全景亮相  浙江新闻",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "AI智能体\"连环越狱\"一周全曝光：美国监管被迫按下加速键 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeURzc2VkX2dhQVU1WVhLbF9CQTJiS2pja0pTdUYtN0JXV0pMNTN1TERpbVc2MllkMjJmYTVDaHNNSjFhNXJ0QVAzOEw0RjJ4UzFsUkF4bEk2UnpXQ0VyOVhndHN0czRhWUpRWGYzU1YzV3NZVzJuOW1KV1B2UUxDeWowdWhaaHlQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T13:46:00+00:00",
+      "summary": "AI智能体\"连环越狱\"一周全曝光：美国监管被迫按下加速键  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "服贸观澜｜AI加速诊疗与制药创新，多项创新成果集中发布 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjlodzBxV2FyTkd4Z2xDRGNzZlJhQnFGd21FZjRXSWJJWEhvV2NwdnZpdzFLSlJub2JhV05CN0hwRkVRVlpadS04ZXNOeHhaQWV4YXAyaWlfTmx1ZlRQTHNHeGlUQjYxY0pOcllXUF9VbUVvTmpaUXZQSlFLVmZlUV9iVnVmTGxZOW1jRQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T12:51:42+00:00",
+      "summary": "服贸观澜｜AI加速诊疗与制药创新，多项创新成果集中发布  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Meta智能体应用Muse登顶美国App Store第二名 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFluaWZyWjFfVzFZR3FtX3lqSERZMC1hNkdlZkkycXZkWTJPa1Z0R1RYOTFSTDVabVdzT0dfM1dKeEFYTXZzNjJuNkdZWXktb2U5TUZIOGpmZnhPZzFqaFZ5UFlkVmZyQzQ1MU1rNTVYcEpfU0dNWU1VSF9rYjN0a3ZsQnVvOHYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T12:11:00+00:00",
+      "summary": "Meta智能体应用Muse登顶美国App Store第二名  Sohu",
+      "categories": [
+        "other_big",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "视频｜具身智能的“ChatGPT时刻”何时到来？三位百亿具身CEO外滩大会回应“泡沫论” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CbmphQ3REOXVmY0dSMGJaang0Y2RnY28zWWI1aGFqX05qSVJFWWF0ajRVVTNYTVpiOUZZWHdMZGxPZ2tSdG5YalNpLVhrNWNNWUp6NEpB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T11:29:29+00:00",
+      "summary": "视频｜具身智能的“ChatGPT时刻”何时到来？三位百亿具身CEO外滩大会回应“泡沫论”  Sohu",
+      "categories": [
+        "openai",
+        "image_video"
+      ]
+    },
+    {
+      "title": "老虎发威 谷歌不想再当哈基米：Gemini 4大模型要有大升级 - tech.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OV0Z1dV9UbU5yQ25fU0hYZ05SZlpVMG1nMDRTc19fdHFnaE1KcUxXaDV5T2FucjROWGptV093anJNZEJfQVpCXzBsTkdDOWFIRDQ2Ym1ZbXU1ZGx5OVdTY2NqcUZPUEFvUjlvTVhBY2ZuUzkx?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T11:26:15+00:00",
+      "summary": "老虎发威 谷歌不想再当哈基米：Gemini 4大模型要有大升级  tech.sina.cn",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "如何管行为、管关系？外滩大会纵论智能体安全坐标与责任边界 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEU5aGRSREhKYmtsOFBpMnRxTkJnTVdZd3o3VDB4VHJ0blB5YUF6cUx3RFdYU0MyRDduOGNfZERROVBEM1pxdC1yWjhyRk9wcnVsT1lLTkhQemg0MTFsdFRJZHpPLTMwYkVlVk43b3B1bWo1bzQ2b1hSTWd1UklRUjgtWEluM3h2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T11:02:21+00:00",
+      "summary": "如何管行为、管关系？外滩大会纵论智能体安全坐标与责任边界  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式 - C114通信网",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tbUhFNXBNbFdHX2lMSXdwOEluUUc5QkFxUnFzSWNVWVZIenZMNmtLWFJidGNqeU5MSndocG1nNmtJTi1MN3pkVGxwbTVWbE9CbTlqYnI2VDk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T10:50:00+00:00",
+      "summary": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式  C114通信网",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "专访｜科大讯飞雷琴辉：大模型上车 真正的产业拐点在于主控智能体 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0RGZmMFFGam03ZzhjQUd5SUgzZlFNTlpGeGdMWG1SQTVKZGNpZ3VsZTZuR3RkdV9ERlRhV0VIeUhQV0lReHlEN3lDYmxWV0ZSV0VkQUxDUl9uRVZpT3E5RFJHcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T10:43:31+00:00",
+      "summary": "专访｜科大讯飞雷琴辉：大模型上车 真正的产业拐点在于主控智能体  东方财富",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "企业级智能体商业演进十大趋势来了！高金联合蚂蚁集团研究院发布最新洞察 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pZEdwcmwtMllpZWkwV0hINHVWVEpiQWhCQjlZSlhtcVpza2F4eDl6WnRia1BFQnVIT1ZVVmlPaFl4SmF1YmNiTVM5RE1TM19VUm9RUmdQbHBncmJUMWEyUnJCSlppQnlCWl9FQmZhNnVDRVV5RXFJag?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T10:11:50+00:00",
+      "summary": "企业级智能体商业演进十大趋势来了！高金联合蚂蚁集团研究院发布最新洞察  新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "“北大—星网元智—工业软件研发智能体联合实验室”成立 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUWFabEQ4LVF0T25vU3hsTmh5Z0Rsc3dzSG03aWxzNGFOSF9icHBjWjg3ODBnRkdQRGlIS2tkT1daTFZDa055NWVyS0tJbk1jM0xuTHE5dFVlb1dtR2VDSw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T09:59:09+00:00",
+      "summary": "“北大—星网元智—工业软件研发智能体联合实验室”成立  东方财富",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "智能体如何持续进化？产学研共议Agent后训练新路径 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oc19NTmhTc0N4dkYzYS1uYkNlLUhUYUNyVFRRLV9GUURSeEdOengzaDc0TS10V1N6ZlF0QUw1SE9vQWNjY3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T08:25:39+00:00",
+      "summary": "智能体如何持续进化？产学研共议Agent后训练新路径  智东西",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国科大大模型公共服务平台上线DeepSeek V4.1 Flash - 中国科大新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KczZXdjZCNXFweWZkVzhzeW9IT0FOb2IzU05pSmVzMWh5WDZudVhmOGR1NGlKZmtVSFBVTzVjallRRVhfbVR0NzU5RVExVlVkSkRPbEFR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T08:14:48+00:00",
+      "summary": "中国科大大模型公共服务平台上线DeepSeek V4.1 Flash  中国科大新闻网",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "LLMs are real, AI is fake",
-      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-12T13:47:28+00:00",
-      "summary": "61 赞 · 28 条评论 · Hacker News",
-      "points": 61,
-      "translated": true,
+      "title": "论文汇总丨Agent Harness新进展：阿里/Meta/谷歌等探索长程执行、自演化与评估 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMG94N0dNOUd2QjMxMVo2REs0ZnN2N2RzaHR0ZU9YVjJPQWI4dHpENnZJUjV1ejlmVG1jTU1USkFpSGtjNlJrYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T08:03:00+00:00",
+      "summary": "论文汇总丨Agent Harness新进展：阿里/Meta/谷歌等探索长程执行、自演化与评估  智源社区",
       "categories": [
-        "other"
+        "google",
+        "tools_apps"
       ]
     },
     {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-12T11:13:38+00:00",
-      "summary": "75 赞 · 42 条评论 · Hacker News",
-      "points": 75,
-      "translated": true,
+      "title": "通明湖中心主任谢涛：灵玑OS为智能体搭建“手脚”和“神经” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkRHdktNb25IZG5GZzVPSWRaVWhjY2VEbWxPYXpqOGdIYTZEalNrdmFpRFMwR20zVWxoa29ZSGFIVDJDeWNicTlfVzB3cm9ZWVVsUFc0TmRXOHFIVi03bTVib3J6V1BjU0UzbUp3LVB4Vjh4RGJPRUIyRzN2b3JDR0JuQWtCa1RNV2Z3OA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T07:50:03+00:00",
+      "summary": "通明湖中心主任谢涛：灵玑OS为智能体搭建“手脚”和“神经”  Sohu",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "link": "https://twitter.com/venturetwins/status/2098456905526211026",
-      "source": "Hacker News - AI",
-      "published": "2026-09-12T00:24:36+00:00",
-      "summary": "60 赞 · 59 条评论 · Hacker News",
-      "points": 60,
-      "translated": true,
+      "title": "谷歌Meta被锤刷榜！Gemini暴跌70分，Top 2秒变倒数第三 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXNBS0M4ZG1WaElVeXN1N0VlQ1lvNC01SnhrLUwwaEF0bmVMRW93OTVyT3ktRHpRT1RJbjNBU2hKY21pOXIxQjdJZG5uSDZIVkFLclFiekdJSWh5S28zQng5WDA2YUhxeEZuWXZRYjVTSzRITXdEcjhtVFVHNVdjT0h1MTRNS0gxTDBCcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T07:35:38+00:00",
+      "summary": "谷歌Meta被锤刷榜！Gemini暴跌70分，Top 2秒变倒数第三  Sohu",
       "categories": [
-        "other"
+        "google"
       ]
     },
     {
-      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-      "link": "https://www.firecrawl.dev/blog/ai-software-factory",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T23:43:53+00:00",
-      "summary": "30 赞 · 13 条评论 · Hacker News",
-      "points": 30,
-      "translated": true,
+      "title": "蚂蚁数科的AI转型：业务增速达到三位数，打造智能体超级工厂 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52LV85LXNuT2swUUp3cnVHb09nZWNBT3MxMU4wSnN5b1dxaDhnTjVBWkgxeFlPUWFPWHNuMTFqUVhXMDhaWHZNRWtSZlR3aEl6RTRv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T07:28:00+00:00",
+      "summary": "蚂蚁数科的AI转型：业务增速达到三位数，打造智能体超级工厂  电子工程专辑",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T21:35:29+00:00",
-      "summary": "113 赞 · 115 条评论 · Hacker News",
-      "points": 113,
-      "translated": true,
+      "title": "智能终端T台秀来了，AI眼镜、智能体耳机成主角！ - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pVnlFUm1Na2NqWllwXzR0MElsa0pNdklJWXJOc05uUlpCR2hIMDZMTnQxWnYzVVBEMFVRNjh5SU9EVU55VXJwRUNhM0lWVnNrTHh0WktpOVMzb1MtTWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T06:08:00+00:00",
+      "summary": "智能终端T台秀来了，AI眼镜、智能体耳机成主角！  上观新闻",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "link": "https://mathandai.org/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T17:45:12+00:00",
-      "summary": "1134 赞 · 1063 条评论 · Hacker News",
-      "points": 1134,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Feeling Sad about AI",
-      "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T16:50:51+00:00",
-      "summary": "176 赞 · 302 条评论 · Hacker News",
-      "points": 176,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Show HN: Hacker News, Without AI",
-      "link": "https://www.unslop.news/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T16:08:50+00:00",
-      "summary": "191 赞 · 80 条评论 · Hacker News",
-      "points": 191,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Hacker News with reduced priority for AI driven content",
-      "link": "https://sprinklz.io/public/pdwt4dve5uai",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T15:52:49+00:00",
-      "summary": "120 赞 · 56 条评论 · Hacker News",
-      "points": 120,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "link": "https://news.ycombinator.com/item?id=49657850",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T13:11:04+00:00",
-      "summary": "808 赞 · 378 条评论 · Hacker News",
-      "points": 808,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T11:17:50+00:00",
-      "summary": "328 赞 · 299 条评论 · Hacker News",
-      "points": 328,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Resist \"AI\"",
-      "link": "https://ronjeffries.com/articles/-v026/x/t/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T10:19:59+00:00",
-      "summary": "65 赞 · 179 条评论 · Hacker News",
-      "points": 65,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "How My Students Think About AI",
-      "link": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T01:33:36+00:00",
-      "summary": "48 赞 · 10 条评论 · Hacker News",
-      "points": 48,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI considers slowing advanced AI development, Sam Altman tells employees",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
-      "source": "Hacker News - AI",
-      "published": "2026-09-11T01:05:59+00:00",
-      "summary": "58 赞 · 101 条评论 · Hacker News",
-      "points": 58,
-      "translated": true,
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "link": "https://system76.com/workstations/thelio-mira-ai",
-      "source": "Hacker News - AI",
-      "published": "2026-09-10T23:10:06+00:00",
-      "summary": "121 赞 · 127 条评论 · Hacker News",
-      "points": 121,
-      "translated": true,
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-10T17:54:44+00:00",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "translated": true,
-      "categories": [
-        "anthropic",
         "tools_apps"
       ]
     },
     {
-      "title": "Detecting and countering misuse of AI: September 2026",
-      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "source": "Hacker News - AI",
-      "published": "2026-09-10T17:23:42+00:00",
-      "summary": "180 赞 · 238 条评论 · Hacker News",
-      "points": 180,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-10T14:21:20+00:00",
-      "summary": "122 赞 · 70 条评论 · Hacker News",
-      "points": 122,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-10T01:59:51+00:00",
-      "summary": "94 赞 · 64 条评论 · Hacker News",
-      "points": 94,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
-      "source": "Hacker News - AI",
-      "published": "2026-09-10T01:02:44+00:00",
-      "summary": "84 赞 · 124 条评论 · Hacker News",
-      "points": 84,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T23:57:29+00:00",
-      "summary": "184 赞 · 8 条评论 · Hacker News",
-      "points": 184,
-      "translated": true,
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AirPods 5",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T17:39:24+00:00",
-      "summary": "508 赞 · 451 条评论 · Hacker News",
-      "points": 508,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
-      "link": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T15:10:39+00:00",
-      "summary": "47 赞 · 108 条评论 · Hacker News",
-      "points": 47,
-      "translated": true,
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案” - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBod1lZemc2NFFlazVSNE8xbGpRSVFXR3FWSlVBdDJaMHFQcVVsU2xzd3BIVXBBMGE5RDJEaGZ0QXZvVVBmM2U2bg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T04:50:00+00:00",
+      "summary": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”  智源社区",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "link": "https://github.com/Atomburstofficial/geiger",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T14:54:49+00:00",
-      "summary": "48 赞 · 24 条评论 · Hacker News",
-      "points": 48,
-      "translated": true,
+      "title": "智能院集团发布E灵超级智能体，AI+政务迈向全域协同新阶段——首个全域一体化政务超级智能体原生平台 - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wcVdXNWphanp0NE1wa21BcllNTGh4WU1VOV9ZcDc0MTE5azNIdGpWVzU2UUxNal9MREVHeXZCclQ0M0xxTFduZFNhN0tOT0JQTXA3N0Rvd0s1dGxzMkE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T04:32:03+00:00",
+      "summary": "智能院集团发布E灵超级智能体，AI+政务迈向全域协同新阶段——首个全域一体化政务超级智能体原生平台  京报网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Arm的“统一平台”与“多种选择”：智能体AI时代，如何押注中国生态|vivo|物理AI|Agent|环球网|CPU_手机新浪网 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tcUhaUDBwSVZ4c0tZOU1PZktCRWdmNDdLajBnVUxEMVF6WFU3U1dmb3VyX293UGhPa1kyc01GVFgtN2JxX2xmbmYzczF3LWRHSWNsMXR2ZTM4XzdSeVVqMHFCTURjQUhlSmpqaU5MUm9oa2hnSTNodA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T03:59:35+00:00",
+      "summary": "Arm的“统一平台”与“多种选择”：智能体AI时代，如何押注中国生态|vivo|物理AI|Agent|环球网|CPU_手机新浪网  新浪网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "How An AI math breakthrough ignited a controversy",
-      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T10:25:41+00:00",
-      "summary": "220 赞 · 231 条评论 · Hacker News",
-      "points": 220,
-      "translated": true,
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-      "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T08:43:27+00:00",
-      "summary": "82 赞 · 102 条评论 · Hacker News",
-      "points": 82,
-      "translated": true,
+      "title": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEYThZaEdZZnpIQUVhVXdxeXhxdERjNlg0R1hpTG81aTl3OXhPcE8zMW5jbWZVTVRYOE1rekJ6SXZUTTEwbkd5Vkc3NnVHQ1EycDhkYjlQZDJIZXFzWk5LWjBUb28?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T00:06:00+00:00",
+      "summary": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练  财新",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843",
-      "source": "Hacker News - AI",
-      "published": "2026-09-09T01:32:49+00:00",
-      "summary": "90 赞 · 22 条评论 · Hacker News",
-      "points": 90,
-      "translated": true,
+      "title": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户 - wallstreetcn.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CX1NsMUtvWjhSbWtoTWdMcUs3SGV5SmpTcXRWZ2tuNmJDd0doT0E3dnpYNVVtazNiTFhaQ3VFeWJ1RVhIWl9NYlZVX2ZpaFlnZkpB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T23:14:29+00:00",
+      "summary": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户  wallstreetcn.com",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "link": "https://mathstodon.xyz/@tao/117237320796901560",
-      "source": "Hacker News - AI",
-      "published": "2026-09-08T21:00:52+00:00",
-      "summary": "490 赞 · 420 条评论 · Hacker News",
-      "points": 490,
-      "translated": true,
+      "title": "Anthropic表示，阻止了可能利用其人工智能Claude模型进行的生物武器研究 - voachinese.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZE9Qa2JtTzV1czlLZHJFQ0YxSEh0S282WTZPVlFNTlNDY2hWTWZlaVg2QmF0c3NBMUpyTXZLV2JhaWNCYlFZbjBTNXVEWnBZaEJDUllvZ2hOVER2cXRodUt6MU9QV2lreEJjdkJ6UU5oT1lMcnpjaEQ5TVVhZXZOVzNmMGdXLUdUVlV3bzRjWENTY0M4cElXcTIwZW1yZ1pKNkF2V1k3TlY1aDl5SEJPaWszVHIyTTAtaFUzbDNJOVNaV3BWYkpPUmpURGRGQnV6UGR5aGl30gHYAUFVX3lxTE5iZkNwVWRCVE82ZGVKaGFmc09aU0oyV3hXZlpMTHZ3d3E3ckQ0ZXJXNjZPeWtqQmdFNzQ2Ti1OUzFOOFBZSXp1OTBEWkliWmdtZzI1TVZiVktFTTNMdDRiVENuU19NanJnSlExd3dLVVdQWUxpUXJHcy1QbnhNQmpHZ3ZtY1NUTGw3bFpNcG5QcHBBdlVkcG42SDBrOW9UdGo2TXlBTEc1dnREdHdwNG9zd3o0UDZkaDBOeWMyVUlvR0owZUU1MXR3RWNzaWdWYUtuQTl2MkUtNg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T20:24:13+00:00",
+      "summary": "Anthropic表示，阻止了可能利用其人工智能Claude模型进行的生物武器研究  voachinese.com",
       "categories": [
-        "other"
+        "anthropic"
       ]
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
-      "link": "https://ai.meta.com/muse/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-08T19:25:00+00:00",
-      "summary": "657 赞 · 738 条评论 · Hacker News",
-      "points": 657,
-      "translated": true,
+      "title": "Anthropic称：也门胡塞控制区用户曾尝试利用Claude研发先进导弹 - rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNcG1vX1FrUEpQSnZGU0JadHdwUzJnQlFnb3F5Y0hqOURoenB0VjBWVG9vX29wLXdsRDh4Wm1weXlVTDVTbVgyNzdFVlVZcnpPZWFFWUlyeFBZdUpuOGY2b3VEM2VDSmZmcjN6S0JTLUI5N3A1RXYxZGdTWUludXdTMUhIOWZRTEpWcS0tTnE5YkViRTdSUW13T3FONWpjU3RIazdCWmVPTkhlajJlRXJvVFRtdjZjaDE4bnp2ckNNdHIzN0tZekZNMUN6UVhQQWl3bTdPZ1FxYlpMVEdYU3hla21vNVp0RExCQ043ME5RSVJ2T1g4WFBTd1ZZTzQ1T2c5QTFBR3FYTDZWZ2M5b1JPWXZmU3oxd2RBeFpJRndFQldScUlKc0RmMklRNWdKSUVZZGRQUjNzZldKQWFfdUVvRzRfSkh1ZjFWY2VrQWZzdE1uS3VmU1V0THp5SUZ2eGpzNk9Rcm1qZUxoMmc4cGd6Xw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T18:58:21+00:00",
+      "summary": "Anthropic称：也门胡塞控制区用户曾尝试利用Claude研发先进导弹  rfi.fr",
       "categories": [
-        "other_big",
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控 - voachinese.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXJFUWN0QS1OenNsd3lGVWlpU2pvYW9IR2V1QW05V0NsdVBfRExXSjdwUC0walJuRGxoZUFVRDhhLXRKUkY0VWpfY2dBZFpwbjBDYi1IeXNJRjZLVkN4YlhUWE1JX3V4OEJwUlUwcFFuSDZySjd3OVg4U1hkRmNiS25EODRFaFBrTTFfUnlxVk13NGZtbEJYY3Nlbm83VHNfRTdEYlVsaVhXTFdmVXpNRG1GS0E3WVhHYTR3M2RXVGthNXFpUVVGbnlGQ1dIcGlFcmJFTjk4dzNweTNJTDdNR0tkenp1SHVmamoteUJpRWNTbFA0WWRybndXeUFVSmdXQTl1SS1qUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T16:05:43+00:00",
+      "summary": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控  voachinese.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "赛富时为Agentforce新增一批AI智能体产品组合 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ua3JBTFFUWGV6czJYX2NicGdia2tqX045cEJCVG1xdjlYdTM4YkV4bUNtcGVINWNFQnRrZlJZdEdHaTFhNVlmdDZCTzZPY1JVd1ViUlFsUkpkZmYyVEpUWg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T12:28:38+00:00",
+      "summary": "赛富时为Agentforce新增一批AI智能体产品组合  东方财富",
+      "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "Flights cancelled at UK airports due to ATC issue",
-      "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-      "source": "Hacker News - AI",
-      "published": "2026-09-08T18:26:27+00:00",
-      "summary": "126 赞 · 127 条评论 · Hacker News",
-      "points": 126,
-      "translated": true,
+      "title": "金融领域首个智能体安全标准发布 - 央广财经",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dlI5M3Y1dzRxM2FPbFpRYVBiMVpDNG1WeFNXQ3UwemZRMDVPWGwtNlVPbmpHMTMwSi14LUV3bE91NmhpNnBTQ1BhQk9fX0dvZTBUVzVpal8xQkxXTkdITFV5VkxVbDdMTmx3WlFWVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T10:27:55+00:00",
+      "summary": "金融领域首个智能体安全标准发布  央广财经",
       "categories": [
-        "other"
+        "breakthrough",
+        "tools_apps"
       ]
     },
     {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-08T14:05:57+00:00",
-      "summary": "716 赞 · 237 条评论 · Hacker News",
-      "points": 716,
-      "translated": true,
+      "title": "DeepSeek V4.1 Flash 发布：更小、更快、更省的下一代多模态模型！ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zbHBYNG9zOF8yaW43ekoxaVc0TkVrenlNaHRxV0lYeVBidW1TckgzX2I1VnkxSWF6aVJxMHhUYmZIX194enNqRmFrU1hyUGI1djNV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-11T10:10:00+00:00",
+      "summary": "DeepSeek V4.1 Flash 发布：更小、更快、更省的下一代多模态模型！  电子工程专辑",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "We Must Return to the Office to Use AI in Person",
-      "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "source": "Hacker News - AI",
-      "published": "2026-09-08T13:41:25+00:00",
-      "summary": "396 赞 · 68 条评论 · Hacker News",
-      "points": 396,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "source": "Hacker News - AI",
-      "published": "2026-09-08T04:06:20+00:00",
-      "summary": "84 赞 · 74 条评论 · Hacker News",
-      "points": 84,
-      "translated": true,
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "source": "Hacker News - AI",
-      "published": "2026-09-07T18:24:32+00:00",
-      "summary": "101 赞 · 119 条评论 · Hacker News",
-      "points": 101,
-      "translated": true,
-      "categories": [
-        "other"
+        "other_big"
       ]
     }
   ]
