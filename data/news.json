@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-09-12T22:00:18.643302+00:00",
+  "updated_at": "2026-09-13T00:08:53.044266+00:00",
   "items": [
+    {
+      "title": "报告：中国AI发展重心从大模型转向智能体 - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZmd2c1JWbm9IRzdYWWxvV0FKYUp1c3FhYnlNcWpsNlZJR2xlTHRwUGlOaWg2dnZtUEVteW1fdFZjQ1ROOTRQODZOZzlwcmZqMzlIU2ozUTdSVzctQVJ6S1pLbklqZGp3OFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T23:56:00+00:00",
+      "summary": "报告：中国AI发展重心从大模型转向智能体  联合早报",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "奥尔特曼：OpenAI年内不会IPO 公司将优先关注AI安全 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WUVWSVlwd01XQmp0TXRuOGJoYTJOR3djRXJGMFg3NXU2TERaTy1zb0I2dFBuVUdtMncxYW56T2gtR0JCMTZQaDkwY1BXeE1pVHQ0NnZfMFk2U2p3X1N0TG1nNWtrNXJtdjI5YTcwWDJCSU55UFpucjB6TlloNXM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T23:49:39+00:00",
+      "summary": "奥尔特曼：OpenAI年内不会IPO 公司将优先关注AI安全  k.sina.com.cn",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Token可以去电商充值，大模型把自己摆上了货架？ - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wMlhlWjR3VG9Sd2hmMmI5ak5YSk03eHZSa1AzZGhUQXNPU0pkQzFLZ2toVFFsZlc4N2pUNHowci1DZ1hZUlhVdGRoVkJWYkx6dVI3VllxMVlmb2plcWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T23:29:00+00:00",
+      "summary": "Token可以去电商充值，大模型把自己摆上了货架？  thepaper.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "研究称OpenAI智能体“劫持”网站开展“协作” - 集微网",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DeEQzMGNGMjZmcld1RUtiOTF6czZZTDhLT1FVal9LQUhFd2tMMWxnbTRDd3Z1bVJtbkNDM2VPX1pxY28?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T23:07:16+00:00",
+      "summary": "研究称OpenAI智能体“劫持”网站开展“协作”  集微网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic踢爆：中共利用Claude實施跨國鎮壓 - 新唐人電視台",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQbWVPTVlTdEJFcDhROVhhcWZIRlNoODBoQkZXS0VUck4yeWY4V0lvZHlzX2ExTENJZjBEU2VIUXVHZ0FSdFpicjV2Q29NdV9KeEw0dFVQUnlCVHBLMUdWUdIBZkFVX3lxTE55a3EwYlVyY0IwMDNLYjZHX1RJcVV1dm9mOV9odENPYWxrTHhMUGdWWEtfUUVxaUZxMF9CT1FhcWx4LWFaZUNuRWJXYV8wRmN6NmU1SksySERHVXY3S2FadWpHVF9aUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T22:53:58+00:00",
+      "summary": "Anthropic踢爆：中共利用Claude實施跨國鎮壓  新唐人電視台",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "百年难题被智能体攻破！上海AI实验室主任周伯文：问题越古老，AI空间越大 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yU3VxTDBGb1hYNEY3OFN4YWRKamJGZjBxZHZkempzU0JFc0g3WTk4TU5YQ2d2bm40V0pRLXYtSFgyeHBjZ3NZSUk0Z3pWVjIzX0UxaS1sT1MxQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-12T22:00:00+00:00",
+      "summary": "百年难题被智能体攻破！上海AI实验室主任周伯文：问题越古老，AI空间越大  上观新闻",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "科普AI智能体上线运行|AI科普|海东市|DeepSeek-R1|Agent|青海省_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hVFk3OXQyNFgyNDdmbVZZaEZJZmJJWjk0aDVaU0xSNzJQUzhTS0ZmTEZzNWFZbmR3ZnNnNUVNVHMtVFJPeTNlelVQT1MyNkxUbEVlb3NSYWIySnlSME1MUmVjQ185YVI4RU4tOWVyb3RLSlZON0paLQ?oc=5",
@@ -33,13 +95,14 @@
       ]
     },
     {
-      "title": "AI代理可能“接管互联网”：马斯克、Anthropic和OpenAI负责人呼吁放缓AI发展速度 - 欧洲头条",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWDAxYlNUaHQxYzEtX003RW52QjVWbVdJeTB4ZG1jMGFoY3ZlT0x5M2tJSVNFMUtETWFSLXJOSU1GN29tRGJwNWcwSFRVcUFGNmlXbDhtaEo4YTdqY2g5MjNjaVBsNUVKYVBxbUZKZmp2RnZBTXBicGxiS1N6LTh3LUZUblBQT0ZwN2g1QjdVdFRKdTJNVThWdloxUG5RNHdGTDZkVEp2VXI3eTNFVkkyZHJSUThEWF9JWWQ1YV8tWFhNVG1EN1ZLTWsyRXZsSHA5RDRaTWFBYWxkbkpaM0xjMWNsY054S0kw?oc=5",
+      "title": "OpenAI承认其AI智能体曾对RubyGems发起网络攻击 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEJPd01fVlN1R2QtSlVyemtVV3RZQ3RwYi1LWlJnbWdIcVU4Y0R2VFJYZWp6NXFidi11VUNjcHpkSG1MRHd4Tl9xbEMwd21wQVpVdVFYLUtvUkU5aTBJbld5TnM0cUZwenBwaFJDR21LOUk4M3pmWEdYREtBQmZNS2dCdTM4Vi1n?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-12T18:01:55+00:00",
-      "summary": "AI代理可能“接管互联网”：马斯克、Anthropic和OpenAI负责人呼吁放缓AI发展速度  欧洲头条",
+      "published": "2026-09-12T16:36:00+00:00",
+      "summary": "OpenAI承认其AI智能体曾对RubyGems发起网络攻击  Sohu",
       "categories": [
-        "anthropic"
+        "openai",
+        "tools_apps"
       ]
     },
     {
@@ -95,16 +158,6 @@
       ]
     },
     {
-      "title": "蚂蚁数科外滩大会推出Agentar能源版，助力能碳行业打造智能体超级工厂 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWF4cUNWbDNJam1rT196bEQ0WmtjQzVpbm1US1RYYzM5MzdlZTQ1UVMzZENxY3VTVHU3a05xMEdIQXNfQ2o2ZnprSVpMZzg4UFM5UWd0bW5GNnlPVk43WkFJQUJLUTBFbjB6Z2xxOUI5a3dUclJiaU15TXdkYzVlY1RUbFppaFA2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-12T13:57:46+00:00",
-      "summary": "蚂蚁数科外滩大会推出Agentar能源版，助力能碳行业打造智能体超级工厂  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "AI智能体\"连环越狱\"一周全曝光：美国监管被迫按下加速键 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeURzc2VkX2dhQVU1WVhLbF9CQTJiS2pja0pTdUYtN0JXV0pMNTN1TERpbVc2MllkMjJmYTVDaHNNSjFhNXJ0QVAzOEw0RjJ4UzFsUkF4bEk2UnpXQ0VyOVhndHN0czRhWUpRWGYzU1YzV3NZVzJuOW1KV1B2UUxDeWowdWhaaHlQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -126,22 +179,11 @@
       ]
     },
     {
-      "title": "AI进化速递丨OpenAI证实其AI智能体曾攻击RubyGems - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE90TDVpTTJrVks3U2F3MWZLY1ViRnJLdTNHOWFVekV0bTBKSkJpUnhZamF4Q0N1UXVKbENvTkUtNk9HSkhxT1ZReVhfTHJTcXFEZ0E5ZmxNZUZMTDFqY1B0RHU3c21ZbDVLcm5Lc2ZyekJYQ1RZTXpveE9rcC1FRFZQdDRqSDgy?oc=5",
+      "title": "视频｜具身智能的“ChatGPT时刻”何时到来？三位百亿具身CEO外滩大会回应“泡沫论” - 紫牛新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02NnRlM19PNHE2NWZHS1FoV1VfZkNHekhtVXp6N0gydmxpQjNnZGp1NlhhbnljNl92ZVkwU1JWbG5WbkFuazJkX2NyMnM1UDlfbDB0eWpFdFVkZHRPTEx5WVZ4d2lqWXhM?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-12T12:34:00+00:00",
-      "summary": "AI进化速递丨OpenAI证实其AI智能体曾攻击RubyGems  Sohu",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "视频｜具身智能的“ChatGPT时刻”何时到来？三位百亿具身CEO外滩大会回应“泡沫论” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CbmphQ3REOXVmY0dSMGJaang0Y2RnY28zWWI1aGFqX05qSVJFWWF0ajRVVTNYTVpiOUZZWHdMZGxPZ2tSdG5YalNpLVhrNWNNWUp6NEpB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-12T11:29:29+00:00",
-      "summary": "视频｜具身智能的“ChatGPT时刻”何时到来？三位百亿具身CEO外滩大会回应“泡沫论”  Sohu",
+      "published": "2026-09-12T11:29:00+00:00",
+      "summary": "视频｜具身智能的“ChatGPT时刻”何时到来？三位百亿具身CEO外滩大会回应“泡沫论”  紫牛新闻",
       "categories": [
         "openai",
         "image_video"
@@ -168,11 +210,11 @@
       ]
     },
     {
-      "title": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式 - c114.com.cn",
+      "title": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式 - C114通信网",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tbUhFNXBNbFdHX2lMSXdwOEluUUc5QkFxUnFzSWNVWVZIenZMNmtLWFJidGNqeU5MSndocG1nNmtJTi1MN3pkVGxwbTVWbE9CbTlqYnI2VDk?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-12T10:50:00+00:00",
-      "summary": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式  c114.com.cn",
+      "summary": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式  C114通信网",
       "categories": [
         "tools_apps",
         "chips"
@@ -209,11 +251,11 @@
       ]
     },
     {
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案” - 量子位",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案” - qbitai.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56WmJKdWNHZzBKemVvM00zNzMwc2xhRml3LXl3R0E5RXh5ZDFHWVhWSkNfb0x4bmVrMjFCbnpjUmJDWkM2eVRPbExlRkRrc2Zmb0hNVQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-12T08:49:02+00:00",
-      "summary": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”  量子位",
+      "summary": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”  qbitai.com",
       "categories": [
         "anthropic"
       ]
@@ -234,36 +276,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-12T08:25:39+00:00",
       "summary": "智能体如何持续进化？产学研共议Agent后训练新路径  智东西",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国科大大模型公共服务平台上线DeepSeek V4.1 Flash - news.ustc.edu.cn",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KczZXdjZCNXFweWZkVzhzeW9IT0FOb2IzU05pSmVzMWh5WDZudVhmOGR1NGlKZmtVSFBVTzVjallRRVhfbVR0NzU5RVExVlVkSkRPbEFR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-12T08:14:48+00:00",
-      "summary": "中国科大大模型公共服务平台上线DeepSeek V4.1 Flash  news.ustc.edu.cn",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "通明湖中心主任谢涛：灵玑OS为智能体搭建“手脚”和“神经” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkRHdktNb25IZG5GZzVPSWRaVWhjY2VEbWxPYXpqOGdIYTZEalNrdmFpRFMwR20zVWxoa29ZSGFIVDJDeWNicTlfVzB3cm9ZWVVsUFc0TmRXOHFIVi03bTVib3J6V1BjU0UzbUp3LVB4Vjh4RGJPRUIyRzN2b3JDR0JuQWtCa1RNV2Z3OA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-12T07:50:03+00:00",
-      "summary": "通明湖中心主任谢涛：灵玑OS为智能体搭建“手脚”和“神经”  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "蚂蚁数科的AI转型：业务增速达到三位数，打造智能体超级工厂 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52LV85LXNuT2swUUp3cnVHb09nZWNBT3MxMU4wSnN5b1dxaDhnTjVBWkgxeFlPUWFPWHNuMTFqUVhXMDhaWHZNRWtSZlR3aEl6RTRv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-12T07:28:00+00:00",
-      "summary": "蚂蚁数科的AI转型：业务增速达到三位数，打造智能体超级工厂  电子工程专辑",
       "categories": [
         "tools_apps"
       ]
@@ -300,11 +312,11 @@
       ]
     },
     {
-      "title": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练 - 财新",
+      "title": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练 - companies.caixin.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEYThZaEdZZnpIQUVhVXdxeXhxdERjNlg0R1hpTG81aTl3OXhPcE8zMW5jbWZVTVRYOE1rekJ6SXZUTTEwbkd5Vkc3NnVHQ1EycDhkYjlQZDJIZXFzWk5LWjBUb28?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-12T00:06:00+00:00",
-      "summary": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练  财新",
+      "summary": "Anthropic称中国大模型泄露中国用户数据给其模型用于“蒸馏”训练  companies.caixin.com",
       "categories": [
         "anthropic"
       ]
@@ -320,11 +332,11 @@
       ]
     },
     {
-      "title": "Anthropic表示，阻止了可能利用其人工智能Claude模型进行的生物武器研究 - 美国之音",
+      "title": "Anthropic表示，阻止了可能利用其人工智能Claude模型进行的生物武器研究 - voachinese.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZE9Qa2JtTzV1czlLZHJFQ0YxSEh0S282WTZPVlFNTlNDY2hWTWZlaVg2QmF0c3NBMUpyTXZLV2JhaWNCYlFZbjBTNXVEWnBZaEJDUllvZ2hOVER2cXRodUt6MU9QV2lreEJjdkJ6UU5oT1lMcnpjaEQ5TVVhZXZOVzNmMGdXLUdUVlV3bzRjWENTY0M4cElXcTIwZW1yZ1pKNkF2V1k3TlY1aDl5SEJPaWszVHIyTTAtaFUzbDNJOVNaV3BWYkpPUmpURGRGQnV6UGR5aGl30gHYAUFVX3lxTE5iZkNwVWRCVE82ZGVKaGFmc09aU0oyV3hXZlpMTHZ3d3E3ckQ0ZXJXNjZPeWtqQmdFNzQ2Ti1OUzFOOFBZSXp1OTBEWkliWmdtZzI1TVZiVktFTTNMdDRiVENuU19NanJnSlExd3dLVVdQWUxpUXJHcy1QbnhNQmpHZ3ZtY1NUTGw3bFpNcG5QcHBBdlVkcG42SDBrOW9UdGo2TXlBTEc1dnREdHdwNG9zd3o0UDZkaDBOeWMyVUlvR0owZUU1MXR3RWNzaWdWYUtuQTl2MkUtNg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T20:24:13+00:00",
-      "summary": "Anthropic表示，阻止了可能利用其人工智能Claude模型进行的生物武器研究  美国之音",
+      "summary": "Anthropic表示，阻止了可能利用其人工智能Claude模型进行的生物武器研究  voachinese.com",
       "categories": [
         "anthropic"
       ]
@@ -340,34 +352,23 @@
       ]
     },
     {
-      "title": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控 - 美国之音",
+      "title": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控 - voachinese.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOXJFUWN0QS1OenNsd3lGVWlpU2pvYW9IR2V1QW05V0NsdVBfRExXSjdwUC0walJuRGxoZUFVRDhhLXRKUkY0VWpfY2dBZFpwbjBDYi1IeXNJRjZLVkN4YlhUWE1JX3V4OEJwUlUwcFFuSDZySjd3OVg4U1hkRmNiS25EODRFaFBrTTFfUnlxVk13NGZtbEJYY3Nlbm83VHNfRTdEYlVsaVhXTFdmVXpNRG1GS0E3WVhHYTR3M2RXVGthNXFpUVVGbnlGQ1dIcGlFcmJFTjk4dzNweTNJTDdNR0tkenp1SHVmamoteUJpRWNTbFA0WWRybndXeUFVSmdXQTl1SS1qUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-11T16:05:43+00:00",
-      "summary": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控  美国之音",
+      "summary": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控  voachinese.com",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "赛富时为Agentforce新增一批AI智能体产品组合 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ua3JBTFFUWGV6czJYX2NicGdia2tqX045cEJCVG1xdjlYdTM4YkV4bUNtcGVINWNFQnRrZlJZdEdHaTFhNVlmdDZCTzZPY1JVd1ViUlFsUkpkZmYyVEpUWg?oc=5",
+      "title": "AI投标灵在重庆正式发布 垂直大模型延伸至投标实操全流程 - 华龙网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfTG5mTW92NkxPR2s0dE9ST0kzRk9rLTkxbWVuVmFDd3F2NmxKUjZWRU1SNlpFQXdFNXhmZW1hamdrNGJFbzRYcm9ZRjZ2WGl3TndXSW0wbmxmMVFMTUxfcFJ2c19HYjg5VlVF?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-11T12:28:38+00:00",
-      "summary": "赛富时为Agentforce新增一批AI智能体产品组合  东方财富",
+      "published": "2026-09-11T14:03:38+00:00",
+      "summary": "AI投标灵在重庆正式发布 垂直大模型延伸至投标实操全流程  华龙网",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "金融领域首个智能体安全标准发布 - 央广财经",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dlI5M3Y1dzRxM2FPbFpRYVBiMVpDNG1WeFNXQ3UwemZRMDVPWGwtNlVPbmpHMTMwSi14LUV3bE91NmhpNnBTQ1BhQk9fX0dvZTBUVzVpal8xQkxXTkdITFV5VkxVbDdMTmx3WlFWVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-11T10:27:55+00:00",
-      "summary": "金融领域首个智能体安全标准发布  央广财经",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
+        "other"
       ]
     }
   ]
