@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-09-13T22:59:33.300693+00:00",
+  "updated_at": "2026-09-14T00:57:31.929027+00:00",
   "items": [
     {
-      "title": "AI不只会“解题”，现在要“做完整个课题”了！书生·端砚“上新”发布 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEF2V1BTUTJna1M4bG01QXZWMEN4NGZBQVJtVDBJNVh2bDZVLU5NSm1Sd181UFFwak9YRF95ZFZxeTZxVlUwMkoyT09WUEZZWUF0QmJvU2U1RFlTY3ZUWUMtZlo4NUF6bm9hS25QbjB2N241OS1ETlJZRW5tak1mMWRpczZmS01mcnhkZQ?oc=5",
+      "title": "T早报｜智谱融资393亿港元；OpenAI：年内不会上市；新能源乘用车销量占比要达七成；AI芯片公司燧原上市 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wX2N3MHljbW5NM0Fvczk3V0FCbC01UGtGVXpoc25JY1l1SVNDLThWQUZ2c21JeVlOOEJnYWNvS0JkMDZHZXUwTU1fN3RIQU94aEY2ZTlyRHoyNjhEemtRa1BRaHA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-13T21:12:27+00:00",
-      "summary": "AI不只会“解题”，现在要“做完整个课题”了！书生·端砚“上新”发布  Sohu",
+      "published": "2026-09-14T00:42:00+00:00",
+      "summary": "T早报｜智谱融资393亿港元；OpenAI：年内不会上市；新能源乘用车销量占比要达七成；AI芯片公司燧原上市  财新",
       "categories": [
-        "other"
+        "openai",
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei发文呼吁放慢AI模型能力速度获马斯克和奥特曼响应 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LaDRWQm1jSXBmM0Jrd0ZTTThUNkRqUTRSOVpyRUVZVzZ2Y0drZHVBZUVZbUpiR1ZpRHNOMVlHdzlqTmdORlMwUnI4TExKUEVBNXJjODN4dThVd1RsTWI0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-13T23:56:44+00:00",
+      "summary": "Anthropic CEO Dario Amodei发文呼吁放慢AI模型能力速度获马斯克和奥特曼响应  虎嗅网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "中国算力平台实现全国一体化算力统筹监测 接入大模型超300个 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56dUhJUTBDUHp1V0NWVlJWMFhkay1EV2VweXdsdl9nc1RSS1lYQWpacFlHMkVaa2kwT3MzeXFnTUlLRE1lUmZ2aWZqNFpTQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-13T23:41:24+00:00",
+      "summary": "中国算力平台实现全国一体化算力统筹监测 接入大模型超300个  观点网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "AI智能体集群或6至12个月内接管互联网 Anthropic PBC首席执行官*「6至12个月后，更强大的智能体集群可能接管整个互联网」*在公开发文中警告AI失控风险 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOG44d2dPbHd2NUNubFZvWjQ2WVkwTXNnUkdzS1gtTnFWWmtrYmd0MDh2eXpkZkZNTURtMG1HR3lnR25RWWRkbTdBUGRZMlBDZXlqTUdJNDB6cHUtTmZkRF9RVzFnTVEwNlpWc1F5WDJxMGs4Tm52Z0c4X28tUVhmTTRlWTJReFVu?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-13T23:22:58+00:00",
+      "summary": "AI智能体集群或6至12个月内接管互联网 Anthropic PBC首席执行官*「6至12个月后，更强大的智能体集群可能接管整个互联网」*在公开发文中警告AI失控风险  Sohu",
+      "categories": [
+        "anthropic",
+        "tools_apps"
       ]
     },
     {
@@ -32,11 +65,11 @@
       ]
     },
     {
-      "title": "胡塞用Claude做导弹！试射失败反问AI触发警报 - wenxuecity.com",
+      "title": "胡塞用Claude做导弹！试射失败反问AI触发警报 - 文学城",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpU3l2NG1aRjAzYkJCWkpKemxQWmFPVU84TVVNemxuY1BDYzY0eFRMaVJpX2t2NENfXzRwLXhmakMxa2E2QTVUeHNfY3lpY1RYejd2eHlJZVZMdS1LWl8ySWNybUhxRFFV?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-13T15:15:58+00:00",
-      "summary": "胡塞用Claude做导弹！试射失败反问AI触发警报  wenxuecity.com",
+      "summary": "胡塞用Claude做导弹！试射失败反问AI触发警报  文学城",
       "categories": [
         "anthropic"
       ]
@@ -82,26 +115,6 @@
       ]
     },
     {
-      "title": "从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3JKT2hYZXZuSW5YbTNFZjdmTGFTQ3BkQkxXVFpJaXJ5NkRJMkFlSWVzZVhWejdRVy1GNGZIclRGZnZfTWhhbVRCZnRudVc3MzVJcGJaVVhiUnYtaGJfNTFIbFhNZllad0YyUm82Y2pXMWQ1QXdnVlB3U3BtRnBBcm9WczNBVXdj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-13T10:48:42+00:00",
-      "summary": "从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1ZSNTJTdXJUd3gxVGNUcmM2LWNCUFdJWUt3QW5WUklpNmNjcWh3OURYU191QlpBMzRYRWlvYXM0OGNiLWRva1hLVHZ2UmVTWTdPUXR3Q0hQeThidjRmaFRWQkcwcUFCN0NQUFcyclZ6TlZjT29Xb2hRQ1J0dnVuTFRIdnFQNF9h?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-13T10:39:02+00:00",
-      "summary": "破局单模型局限！清华大学李秀教授团队提出EMERGE-Policy：以多智能体协作迈向「具身智能系统」时代  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91MVo0d2NQRjN3VTB1YXZEc0dlQWhJR1BQbmZqQWx3V1RId1BNQWp0YVl4dV9Za2Z5MkJYQ080UmN2TEJxRHh1YUtHV1F5aEF0QmdMQUZEWC1tNklOcjVNYkFrNUVVZHhYTlBnTnVSOTlQTVRNQVczTFhiMnR5WVU?oc=5",
       "source": "Google News - AI(中文)",
@@ -140,16 +153,6 @@
       "categories": [
         "breakthrough",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "中关村两院发布八项最新科研成果 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84MGRicWVMSUxGeElBdVFzcFE2TDZ3UzBYUXlUX0dVZlhBZGNNQTYzRVE1SmsyanVXWFRKUU1DeWdUNmZhS2hvVXhQbWJvMWJMbmhYQUs5NFJYQlVuRU9seF92NVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-13T09:19:00+00:00",
-      "summary": "中关村两院发布八项最新科研成果  新京报",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -214,11 +217,11 @@
       ]
     },
     {
-      "title": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地 - cyol.com",
+      "title": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地 - 中青在线",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlaUJSbFJoNFkzOG0zRGlCZzVuMkpVeHVQUURMU1Frd21GOEd3czRrZmVRdW5lb2NqSnpmT0JSajRtdFNoeTlHUGlfWUxzY0luMW9pUUJCaDJkSkkwLW40cXYzelNQeWI1ODNsOWx0Tk80cUtYNVk2OA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-13T06:50:00+00:00",
-      "summary": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地  cyol.com",
+      "summary": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地  中青在线",
       "categories": [
         "chips"
       ]
@@ -231,6 +234,28 @@
       "summary": "市级托幼服务智能体再添新功能，“京娃守护计划”启动  Sohu",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "倒计时9天！看Demo、上手实操，英特尔这场大会让你一站式啃完智能体、端侧AI与算力干货 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IcnRjZEFJeWdsR3RCMVV3M3NZRFprT2d0WE9ZQ3lEckI5N182Z3daZDZrbUJMcGx4djV3aEdTTWNzWHZLOGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-13T05:24:54+00:00",
+      "summary": "倒计时9天！看Demo、上手实操，英特尔这场大会让你一站式啃完智能体、端侧AI与算力干货  智东西",
+      "categories": [
+        "tools_apps",
+        "local_model",
+        "chips"
+      ]
+    },
+    {
+      "title": "美国一律师用ChatGPT生成的文书出现伪造警察证词，被罚5000美元 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsVV9IM2JVdUFpalMxbFVhT0ZGMk9mRF8td29DTEdWZktkQ2dqMkNpMTduMVVqSGNaUndzNlg4Q0xYR2VCN2p1X3lzWUpLWlZFdmh3RkdObGgtU0lSSEdCT0JlT2tVVXkxejZ5OVZlYzQ3TXVMUzd2dw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-13T05:24:20+00:00",
+      "summary": "美国一律师用ChatGPT生成的文书出现伪造警察证词，被罚5000美元  新浪财经",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -267,26 +292,6 @@
       ]
     },
     {
-      "title": "GPT-6 Astra一年狂赚1.5万美元！3倍碾压Claude|Claude Fable 5|Andon Labs|OpenAI|ChatGPT|供应商_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yblVNaU1UMllWMWgwbHlzeklma1lTUmtva1VXNzNTMC1PSmVGWXRsUkFnNVZqRFJUZFJWYWZWbDlMM2tMblp3RTZvTW1YbFJiNHBvZnh1eVF0ejFRRVQ4VzhPWGtrVGlPekU5NlY3MjZvWlAzUTFSdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-13T02:39:54+00:00",
-      "summary": "GPT-6 Astra一年狂赚1.5万美元！3倍碾压Claude|Claude Fable 5|Andon Labs|OpenAI|ChatGPT|供应商_手机新浪网  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "大模型筑基、智能体破局 AI技术加速迈向产业落地 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGFIWlhiQnYtdFpyWWdDamNub3BrNmFUNkxpM21TeGZyck1oN01PbWdFZ1ctbE03MVVWRzNIbmRhWWEwWXlTNXRIcUtUU0Jub2N3R1h2TTdTbGhOZ1BUV2RLZnluajgyc0FhNTB1YjE3ZjZuRGZUN1dGc01TY3lUb0ZGWnJibTB5MVNJNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-13T02:20:00+00:00",
-      "summary": "大模型筑基、智能体破局 AI技术加速迈向产业落地  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "报告：中国AI发展重心从大模型转向智能体 - 联合早报",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXZmd2c1JWbm9IRzdYWWxvV0FKYUp1c3FhYnlNcWpsNlZJR2xlTHRwUGlOaWg2dnZtUEVteW1fdFZjQ1ROOTRQODZOZzlwcmZqMzlIU2ozUTdSVzctQVJ6S1pLbklqZGp3OFE?oc=5",
       "source": "Google News - AI(中文)",
@@ -297,11 +302,11 @@
       ]
     },
     {
-      "title": "研究称OpenAI智能体“劫持”网站开展“协作” - 集微网",
+      "title": "研究称OpenAI智能体“劫持”网站开展“协作” - laoyaoba.com",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DeEQzMGNGMjZmcld1RUtiOTF6czZZTDhLT1FVal9LQUhFd2tMMWxnbTRDd3Z1bVJtbkNDM2VPX1pxY28?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-12T23:07:16+00:00",
-      "summary": "研究称OpenAI智能体“劫持”网站开展“协作”  集微网",
+      "summary": "研究称OpenAI智能体“劫持”网站开展“协作”  laoyaoba.com",
       "categories": [
         "openai",
         "tools_apps"
