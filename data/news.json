@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-09-17T18:51:58.796859+00:00",
+  "updated_at": "2026-09-17T21:57:42.703668+00:00",
   "items": [
+    {
+      "title": "Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzcE8wQmlkVktfZWFWb2puaHN0NV8wa01OWTZtTzE2RDhzeDd5dENmZHJOYkRyQm9qUW5RajhmN2xpSkhFb0tZMkJLSmt6YmZZdlE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-17T21:13:33+00:00",
+      "summary": "Claude Code推出Projects：一个对话拆出并行线程，合上电脑任务仍在跑  Sohu",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "谷歌(GOOG.O)：我们正在用全新的工具框架更新Gemini托管代理。新版本“antigravity-preview-09-2026”将Antigravity工具和行为集成至Google AI Studio及Interactions API。 - 金融界",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52ZXVMQUk2amJaX2tJQzVWUVpJNjNOZm5Hb2g1VzRnUm5DTG5uY2dybWVpUzBXUkc4NXNFOFZLS2NyWEdXX3lhYmNmUmUzZU1VZ005U0FMeTRRazJ5SUgyZlFDTzN1TXJwc0xkUUZhYw?oc=5",
@@ -14,7 +24,7 @@
     },
     {
       "title": "谷歌推出Expert Intelligence 将专业内容接入Gemini Notebook - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41Uy1mMEQ3Um9XcjVDcFpEN3pFSGZGUUViWlU3Z2hfcnhsZXZEVFo0UnFHVXRpVkkzVExOWW90VnRYWE9yN3VsY1ZUb1pfb3FIOWhYcDlUNXdreUU3S0wzOU5Hbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oU1ZnblprV0FjcWFBMmhJa3dldlNBeWRRYzJmbEtJS2xoYVpHdGRLTjRnRkQzLTMwdGs4WS1kb0ppR3BYWXYwS0Vuc3pwQmlxYkNKY3VqTTZtRVFxVGVuYw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-17T16:36:24+00:00",
       "summary": "谷歌推出Expert Intelligence 将专业内容接入Gemini Notebook  东方财富",
@@ -24,22 +34,12 @@
     },
     {
       "title": "从“把脉”到“大模型问诊”：外国嘉宾探访中医药的“新打开方式” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW44X2pvXzlNeE0tMDBJZ0Q5SWJhN0I4bVBHd0pIdXlGYzhic3hraDNBT3YtaU41LWlDNHctTXdLWWhpOE52UWlpY0N2UndQc1EySU9hSzc4dlRNUUIxcGI4ampncS1YTVZxcTdkVFlQRGpxbzFxN0I2V2Y4alpGa3RVZ2thOHF5TFVqZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VeFNneldQQldZT2FYbDFaWjhCcDlJVnFsWDBkZzBYT1RZaWFncXRCWGhqUjlHcmJhRmlWdURqdm1iZlJjYzBUOFJYWmVOeU1kdmc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-17T15:14:00+00:00",
+      "published": "2026-09-17T15:14:21+00:00",
       "summary": "从“把脉”到“大模型问诊”：外国嘉宾探访中医药的“新打开方式”  Sohu",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "机器人正等待\"ChatGPT时刻\"：英伟达高管解读症结所在 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG5jbkRYSzFHdFZ6S2RITkpNZ0twYmVYcDVUbVBWSDlaOVl4VGFTUU5TZlVZdnlJdFdwX3dwbzhvbndMUWNNZkN1OUhfWEk5elZqRERLcTZqT2RfVkZzNGFZV2JYLU5FTi1QWmZfbjRNNW8yTFJkNmtIcnVac2MxMEVIbTJrbGR0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-17T14:47:00+00:00",
-      "summary": "机器人正等待\"ChatGPT时刻\"：英伟达高管解读症结所在  Sohu",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "title": "正式发布！AI赋能文化出海 - 潮新闻客户端",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lbTVURUczQ1lQaWRrRDlBS2ppMHF2eWFvX29udWVLV0RxQkp3bW43REZTQjhKZGNUSXZidXdvU3FWcHhSZ3F3b2NLZVBfRlhCalctcjZMSmY5QWNUa0J3ZkpReHFlTUd4eUw4aVhCeXV5Y1k?oc=5",
+      "title": "诺和诺德引入Anthropic的Claude AI助力药物研发 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUEd0b2N0UWUwZW5Ia2wyMGZGRlZxbkxTX0dzTTZaOWZWbnRROWVZdThZOE1WbTFjRW4tS09ZVVBiZFZSbmxrSUp5UFRhcnpkZVlpUFhhNzJ0czJ1U05BdVctTS14WGNlTWpSQ3U4b0x2VlllMkRLSW1CaUNBcER5RWJPeTlMNHZN?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-17T14:06:59+00:00",
-      "summary": "正式发布！AI赋能文化出海  潮新闻客户端",
+      "published": "2026-09-17T14:17:00+00:00",
+      "summary": "诺和诺德引入Anthropic的Claude AI助力药物研发  Sohu",
       "categories": [
-        "other"
+        "anthropic"
       ]
     },
     {
@@ -97,11 +97,11 @@
       ]
     },
     {
-      "title": "陈天昊：无尽的前沿——AI智能体的技术进展、应用风险与治理展望 - 智源社区",
+      "title": "陈天昊：无尽的前沿——AI智能体的技术进展、应用风险与治理展望 - hub.baai.ac.cn",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VOXBLRVdUOGx6T04tTFJFUGZlemFMVVktUlpWNmJqUmFwZUkteGptc3J5RTM0c1NVZHlLZjJ3QzRlc0RDczBkNA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-17T14:00:00+00:00",
-      "summary": "陈天昊：无尽的前沿——AI智能体的技术进展、应用风险与治理展望  智源社区",
+      "summary": "陈天昊：无尽的前沿——AI智能体的技术进展、应用风险与治理展望  hub.baai.ac.cn",
       "categories": [
         "tools_apps"
       ]
@@ -129,6 +129,17 @@
       ]
     },
     {
+      "title": "1人可管多省交易！首个全自主电力交易智能体Megatron完成实盘验证 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVhZaUdSU0dIT0JLNFNtNHV0Z1l0Y1ZUSVcwcGFPcFd4OVNaS2NkMy1COGRuNEFlRTNQZ1ZmalFxd0pBeWRfX1dlNkt4UFVDNmtxakNsVVE5SG9GRmNBU0xtYm45cTRUdVZvTkV0WFkxeTFpcVExUXVndUxJSWFuM0R2NF9veFhw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-17T13:36:43+00:00",
+      "summary": "1人可管多省交易！首个全自主电力交易智能体Megatron完成实盘验证  Sohu",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻 - InfoQ-CN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qMDR5b3JXTGlmdVdxWUZnSFAwek5JZkV0ek1uazRsYUlsUVZtazZ3WmdoM2hHSVpUVXBCOHlXT1h3d0F6OGZRd250dkdEU3BCWmR0ckFYT3NwMndJMHc?oc=5",
       "source": "Google News - AI(中文)",
@@ -137,6 +148,16 @@
       "categories": [
         "google",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek算子负责人长文引爆网络，《我不得不把才华埋葬在昨天》是在反击Anthropic吗？ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGZfNXJJRVBHV3VfOXBPUmNMTWlXT09fVDZNTE5aUmVMRTZ2aGVJTUo4UzB5eUdFdUVsMElveTBCb2F1YkFRTG44eVZaOHY0UHduUF9uTHdtMk5RRmJWQ3VRZmhWaTZMcE5YTnpVS3BwS0Q4VXdBTUU3c1o4eW9vOUNfUElTdW5u?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-17T13:00:00+00:00",
+      "summary": "DeepSeek算子负责人长文引爆网络，《我不得不把才华埋葬在昨天》是在反击Anthropic吗？  Sohu",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -157,6 +178,27 @@
       "summary": "首批面向东盟AI“跨境揭榜挂帅”场景发布  中国一带一路网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "豆包手机引发抢购潮，AI智能体手机离规模化还有多远？ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU19nVUI4b1NHVWoyRXVlZjJjaGE4dlRGblNWUUMteFhZT2hDSElpOGw0djhzQmtpNVhENGU2a2pDVjBHRjRIUDZwcWt0cXpHZmUwZF9UYWpQaVJOTzJMNk1qWHZhUkVNSklJQmliREJaazF1Qnc0aUNDWWVWVFVVanZWb3phN19w?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-17T11:56:33+00:00",
+      "summary": "豆包手机引发抢购潮，AI智能体手机离规模化还有多远？  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "全球首款，999元！ 阔直板智能体手机 DroiClaw诸葛3能办事，还有三层防护 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFcwT0VCMnpGb2thMjR1a2pLVmhfTXkwOW0wRjBhTWZJOEJiRHJyQ1dPSTBocDVGRVNBQ1hfdU5VRU5DWWxpcTdaZDJWNFpVT1ZaSGUwRVkwX1RtSmxiU2VBR2xkbHZfZFZiNC1MOVl0VjJzT3NURVYwOFhOLWRUMW51R0VHanNf?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-17T11:44:19+00:00",
+      "summary": "全球首款，999元！ 阔直板智能体手机 DroiClaw诸葛3能办事，还有三层防护  Sohu",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
       ]
     },
     {
@@ -202,21 +244,11 @@
       ]
     },
     {
-      "title": "美团发布并开源560B大模型LongCat-Flash-Chat - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlBMZG1uSmMwZkNpVHYzVTU5dDJmZDdhcjdtdHFIU29tN1Nha3lTRVVPeTBMQTY4TW5vT1d3ZnU0NTdjbnZfdzFneXNoRXcwVWJ0TlNRQ0dUeGlacmx6Q0hvWXV2cWpWa1lJZ3RJRFZLNGRxQ01VempKM09QMm5XNTZ4X1ZSNU43YjRGbg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-17T10:02:00+00:00",
-      "summary": "美团发布并开源560B大模型LongCat-Flash-Chat  Sohu",
-      "categories": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证 - tech.cnr.cn",
+      "title": "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证 - 央广网",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lYmUyV0ZqV1lJVGkyZ1QxMHdFbXJXRUJsR0NSempqSXRZdTdCY0xrY2JlS29uTVZsRHNVWW1LRlp0YnlJTkFFOU1vSk9uaTRzMnREVkpSNEhmZC1pbEl2dmZZcGlOU2VRRTV2YlB3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-17T09:25:03+00:00",
-      "summary": "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证  tech.cnr.cn",
+      "summary": "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证  央广网",
       "categories": [
         "tools_apps"
       ]
@@ -227,16 +259,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-17T08:46:41+00:00",
       "summary": "Anthropic合并Claude Chat与Cowork 推出Docs与Slides功能  品玩",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic统一Claude界面并新增演示文稿与文档功能 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aUXZNSUFPQ2FCMlJpenN2eXMzNFV5MVYtMUI2WWc3S0NNRS1qS3U2S0V1YUlhdTR4TDRZV2VXOUV2UmdWS3FVb1FWTDBUQXZ0NDlBMm9GSmE2blhSeFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-17T08:25:02+00:00",
-      "summary": "Anthropic统一Claude界面并新增演示文稿与文档功能  DoNews",
       "categories": [
         "anthropic"
       ]
@@ -259,16 +281,6 @@
       "summary": "阶跃发布全新语音大模型 StepAudio 3 系列：覆盖语音识别、生成、实时交互与音乐创作  InfoQ-CN",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "佳都科技参股公司宇算星河完成超亿元Pre-A轮融资 资金将投向天基大模型研发 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zWWl5c29GSlJjclhqemNoRHJCc2szblJjWE5EU0VRdkZEdU1BUjRaNzVPLVRXLTB3c3JZaVdLcEY5eEt3U250UUgxbzl0amZCNFJyTEVlU3hRVmhQTzUteThn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-17T06:07:07+00:00",
-      "summary": "佳都科技参股公司宇算星河完成超亿元Pre-A轮融资 资金将投向天基大模型研发  观点网",
-      "categories": [
-        "breakthrough"
       ]
     },
     {
@@ -336,33 +348,13 @@
       ]
     },
     {
-      "title": "扩博智能发布AI大模型驱动叶片智能运维方案，推动风电叶片运维走向一体化闭环 - 国际风力发电网",
+      "title": "扩博智能发布AI大模型驱动叶片智能运维方案，推动风电叶片运维走向一体化闭环 - mwind.in-en.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TbnNzTDdYSGVGc1Z4aVZRWnNfY0RHdDhrZFVkcGlaOEF5WVZWV2xKWWV4aTR0YWVFSmhQSW5YbkRZTWw5M0VkV3FCQW9MQmxRX2VESU94cjN5Zw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-17T01:43:15+00:00",
-      "summary": "扩博智能发布AI大模型驱动叶片智能运维方案，推动风电叶片运维走向一体化闭环  国际风力发电网",
+      "summary": "扩博智能发布AI大模型驱动叶片智能运维方案，推动风电叶片运维走向一体化闭环  mwind.in-en.com",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "Anthropic是否把Claude做得过于类人，以至于难以管控？ - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0hHTWttVWpsRzBOc3dWNEZXbll5bklKUVo4UFpoVFhMbjZPNlo1U21Qd0RYY29RZFdyWWE4RjJSZ0NDdXJwMlllSkRneXN6TXhsbDJLNkR6bndzV0xTZHZhVEZ1cnZabUQ5X1lVUHUyTkVVNHBuUmt3YV96SG5RazZRemxNdGxPd3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-16T20:26:15+00:00",
-      "summary": "Anthropic是否把Claude做得过于类人，以至于难以管控？  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "诺和诺德携手Anthropic 利用Claude加速新药研发 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKd2Nlc0I3MHRJM3ljeTYzc0ctamVkaWNjOUJnUERFV2JpZHNiYUVaMmdSZmQ0b3J0NE9ZN1Bvd0Fja1ZacnJuSw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-16T18:36:05+00:00",
-      "summary": "诺和诺德携手Anthropic 利用Claude加速新药研发  财联社",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -375,6 +367,16 @@
         "openai",
         "tools_apps",
         "open_source"
+      ]
+    },
+    {
+      "title": "OpenAI扩展ChatGPT广告AI功能，测试全新广告互动形式 - wallstreetcn.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiWUxEeDh3M1ItREItc1I0WUU2U29QdVBnY3YweG9DV3JJVXRMSjZOdTBjUXM1UnB6Y0FJRzEwMjlUalR5Qko0WVozMGxxTmpOT05J?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-16T15:52:25+00:00",
+      "summary": "OpenAI扩展ChatGPT广告AI功能，测试全新广告互动形式  wallstreetcn.com",
+      "categories": [
+        "openai"
       ]
     }
   ]
