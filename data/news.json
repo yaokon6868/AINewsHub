@@ -1,24 +1,88 @@
 {
-  "updated_at": "2026-09-18T20:37:01.404517+00:00",
+  "updated_at": "2026-09-18T23:07:09.023470+00:00",
   "items": [
     {
-      "title": "人工智能企业Anthropic和埃森哲打算在五年时间里分别投入10亿美元，搭建人工智能测评相关能力。_外汇动态报道 - 汇金网",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ULUpkcVlPZmt0SmdYYmFLOU8wRl9EazRTbTNTZFN4eG5xbWRWcnhpOV8wN0tUcXZNNGpBTFNvemRwTDBoa25qSmlWcGtFNWQtY0tRUW5qNElPZjA?oc=5",
+      "title": "亚马逊加入AI安全讨论，呼吁模型发布前严格测试|安全漏洞|风险|人工智能|发言人|合作_手机新浪网 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxVlFSLXlfVjBkTGFEMUpOb3F2ZWx1TkVEdEVfZFFlcnBnWjY5VjdTZUpJa0FrVFdacFozeVdyaWlIdnp4LXRzbFZ5bmJEWHZVMHp6UlctdnRqZThZSk8wMWYwVnM1M3MwZWZCRGNFMGdveFVGWGs4TQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-18T20:06:00+00:00",
-      "summary": "人工智能企业Anthropic和埃森哲打算在五年时间里分别投入10亿美元，搭建人工智能测评相关能力。_外汇动态报道  汇金网",
+      "published": "2026-09-18T23:01:07+00:00",
+      "summary": "亚马逊加入AI安全讨论，呼吁模型发布前严格测试|安全漏洞|风险|人工智能|发言人|合作_手机新浪网  新浪财经_金融信息服务商",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Claude Code 2.1.277 版本支持 AGENTS.md 配置文件 - Donews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkclg4bnN2VE1aOHF3eG51S2hCRzZ6ejY0Zk9SbGNRNGtWdktTZW5JS0V0LWxHUTVFODVMYUkyeU11LW5aTkNfRG1rOUUtZzM2WGc3MVJNOVViUnR2VFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T22:52:02+00:00",
+      "summary": "Claude Code 2.1.277 版本支持 AGENTS.md 配置文件  Donews",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业|OpenAI|网络安全|Google AI|Anthropic|Agent_手机新浪网 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVU1XVlhTT2F2Mlp0TmpXaHJlWHM3b3ppUThCOXE4bXptdWlDeDlHTFEwMUxCOHh1Q1pxZGZ2VVJPbGNodVhTRVhkc0JoZ0lHLXdNNWpLYW1VSWNDS1hrMzZmbGJ2M3N3b25rZVpvUUdDM0Vsb0p5SktpYVludkxEd196dkpRZkpvdDAyZy1kVHpFR3NnTGFnWlc2OWh1STNObEYxdURFdER2UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T22:35:58+00:00",
+      "summary": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业|OpenAI|网络安全|Google AI|Anthropic|Agent_手机新浪网  新浪财经_金融信息服务商",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "移动云发布国内首个国产GPU+类脑芯片大模型异构混合推理系统（附图片） - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16cWpKVW9Kd1ZnSTdxa1ZMTTA1eFBHdHlUeFZBMzNMMlUtbGFtQzl4TldJSURxbGQzZnM5WGlJZVdCZVhMZEJzVTREV2s5WG94Q3FobmRlTU9ONHFkd0Myb1lLcGZTRTlHWHY4azYxZWhpLWk2UmNfVw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T20:48:45+00:00",
+      "summary": "移动云发布国内首个国产GPU+类脑芯片大模型异构混合推理系统（附图片）  新浪财经_金融信息服务商",
+      "categories": [
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "咪咕音乐携手华为软件打造软件运维智能体，实现运维效率与能力双提升- 华为 - Huawei",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42V1ZDaldZOUxya0Q1elpIT0k5QjdCQkdMQnU1ajZPUVdsRVVzT2RiOEcycmxJLVMxUXJuY0MzUWV0dExrM2dLNHNPTnZrWkt4RjU3eThnUE93eVJiYmNycFZ1MFY1WHRS?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T19:09:53+00:00",
+      "summary": "咪咕音乐携手华为软件打造软件运维智能体，实现运维效率与能力双提升- 华为  Huawei",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic设立实体生物实验室，推动Claude参与机器人实验 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLV9FeUc3UE1OVFNQckVMSjZVMHNUNjl1ejQ3NWx1V0hiOW1DQ05hNWRYdTdZZEpPa01Xc0dzNEpsTjkyYTJwQzFMSXpyUGdVZVRCSnBYQWM2a3M2V2ExdjRDWnlLV3AxS2FobDY4Q2Y5XzZNYXdSVmV2blYtMnBoQ2xISHpTd3JyUFlIZWFSbkJFV09ZejZrZTR3WnV5S1l2SE5LNWF5Mjdidw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T18:42:08+00:00",
+      "summary": "Anthropic设立实体生物实验室，推动Claude参与机器人实验  新浪财经_金融信息服务商",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "Anthropic设立实体生物实验室，推动Claude参与机器人实验 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLV9FeUc3UE1OVFNQckVMSjZVMHNUNjl1ejQ3NWx1V0hiOW1DQ05hNWRYdTdZZEpPa01Xc0dzNEpsTjkyYTJwQzFMSXpyUGdVZVRCSnBYQWM2a3M2V2ExdjRDWnlLV3AxS2FobDY4Q2Y5XzZNYXdSVmV2blYtMnBoQ2xISHpTd3JyUFlIZWFSbkJFV09ZejZrZTR3WnV5S1l2SE5LNWF5Mjdidw?oc=5",
+      "title": "人工智能初创公司Naive AI估值达14亿美元 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc3F6ZWtiUVpBLU5zWVdhQU1ucGV2enlpa0VGX3ZJaGFYLXBCcE9hdG4weFFleXg0R1cwQXlZcGxrYWZRdEFDRnlXMGoxZ2E2UFF0ODdCRWZPR0JENFZXQkc1cXpwQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-18T18:42:08+00:00",
-      "summary": "Anthropic设立实体生物实验室，推动Claude参与机器人实验  新浪财经",
+      "published": "2026-09-18T17:52:29+00:00",
+      "summary": "人工智能初创公司Naive AI估值达14亿美元  东方财富",
       "categories": [
-        "anthropic"
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "北京发布“词元经济十条” 高标准建设词元工厂 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HUmxVWnBER0xIUWYtS2ZRSXVfNXF0NDVrU09hT0ZsRlFoSzYwWXByZGhxU2dzM2RzamdKTXdPYVlXbWR6b0pGMnZwQl95ZE41TGNN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T17:50:35+00:00",
+      "summary": "北京发布“词元经济十条” 高标准建设词元工厂  华尔街见闻",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -33,13 +97,12 @@
       ]
     },
     {
-      "title": "AI智能体争夺30万亿美元消费支出！大摩：Meta、苹果、谷歌具备基础优势 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDk4N0MyeGVIRGRRRzUySUswUWdQTG52SU5Fbkl0UXBoMllIWHFPOHN6R0lOSHZId1lwT2djRTBvUDV1Y2FRbE9QQXRGWWxlclBlMDdtOUNqMjJjMTdQeTZNZEpSYWJKMFhwTXg1SkhhNDZaYi1faE45WU45enRZNXU3bEFJTld3?oc=5",
+      "title": "Arcjet推出智能体运行时安全服务追踪AI行为 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFRnLVRqSUFQVFhzXy04YlR1Y3BYX1hwUGoxSm9GVzlsX05KZFhWS2lJMEtVSXZBTUxLaGdiZy15WklIMlByb1R3RTY0UVdjQi1RUVJPUWdZYVpraXZXSzRBZXBkTlNSMENTUUlhY2gzaFBQTDhmQndHZGozY1cydjk0UjF3WjFC?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-18T16:22:23+00:00",
-      "summary": "AI智能体争夺30万亿美元消费支出！大摩：Meta、苹果、谷歌具备基础优势  Sohu",
+      "published": "2026-09-18T16:20:00+00:00",
+      "summary": "Arcjet推出智能体运行时安全服务追踪AI行为  Sohu",
       "categories": [
-        "google",
         "tools_apps"
       ]
     },
@@ -55,23 +118,13 @@
       ]
     },
     {
-      "title": "北京：聚焦工业制造、科学研究、生物医药、教育教学等重点领域，开放智能体应用场景 - 新浪财经",
+      "title": "北京：聚焦工业制造、科学研究、生物医药、教育教学等重点领域，开放智能体应用场景 - 新浪财经_金融信息服务商",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFYzSnZzZkNwN3ZzZGFuQ2pWclJNQVIzRjRvOVp4WV9RLTFCSjhZUDcxVGdXbTdoNHdsTTQtTXlWendBb2JBWUtVWk90Y2xtR1VSU2l1UWNlYjd1UUtJeHRhVDA4X2pfbllVODhYbDVLbE9DYnpCVmFxOEszVlJfUW1nWWVzOXN2VF94X2FtUXZwT2gzM3ZQRQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T16:15:40+00:00",
-      "summary": "北京：聚焦工业制造、科学研究、生物医药、教育教学等重点领域，开放智能体应用场景  新浪财经",
+      "summary": "北京：聚焦工业制造、科学研究、生物医药、教育教学等重点领域，开放智能体应用场景  新浪财经_金融信息服务商",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVJYWmdadU5EMS1SbEE0bGdFMXVIR3ZEVTNpOVVqYTg0Z2dyNldmaDUzbXNCTmtiS20yTk5GODVaQVBkRnJmY21uTzhrenBXam1VYU11dVN5cVc5MEg3WlU3RmpBeER5MW8zUk43U3N3eEhuV0RONElSTlRNSlZXaVUzQzlPSUhf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-18T16:09:17+00:00",
-      "summary": "加州州长纽森发布行政令 推动建立人工智能“紧急关停”机制  Sohu",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -86,21 +139,11 @@
       ]
     },
     {
-      "title": "谷歌最新旗舰模型Gemini 4 Pro疑似“偷跑”，多项指标领先Astra和Fable 5.1 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmUtelZTRVhnMnBBYnprYVh6c3VlelNXeHVTYkxKb1R6ZzFfenBralJKUUJJTGkzMEZzVUdoNktnYi0zTGhuNkNFZTlOdWRmd0o4NnN6SlJiWGF6Qm4yOFpFOWRLUHUtR2lCVTFseTlEeFlLZ1pvTUlyUXVzX21BczRB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-18T15:04:03+00:00",
-      "summary": "谷歌最新旗舰模型Gemini 4 Pro疑似“偷跑”，多项指标领先Astra和Fable 5.1  video.sina.com.cn",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "Anthropic披露AI发展指标：Claude主导公司26%的AI研发工作|实验室|公众|运行|自主|协作_手机新浪网 - 新浪财经",
+      "title": "Anthropic披露AI发展指标：Claude主导公司26%的AI研发工作|实验室|公众|运行|自主|协作_手机新浪网 - 新浪财经_金融信息服务商",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1h3OWdFMjQ2STFDazgxam12S0pXWTc3NU83b0JGc2UzVUY2NTdwRFlCRUw4ZV9UZHNaY0hCU3lISEZXdUx2c0c3SW9ZZGVXTC1xZzI2aGNqYldwcC1zZS1fLXMzLWJwc0hTcjRTMFoxSVBpVHE0bjFKbnVWRXFtbGRDQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T14:59:43+00:00",
-      "summary": "Anthropic披露AI发展指标：Claude主导公司26%的AI研发工作|实验室|公众|运行|自主|协作_手机新浪网  新浪财经",
+      "summary": "Anthropic披露AI发展指标：Claude主导公司26%的AI研发工作|实验室|公众|运行|自主|协作_手机新浪网  新浪财经_金融信息服务商",
       "categories": [
         "anthropic"
       ]
@@ -136,21 +179,21 @@
       ]
     },
     {
-      "title": "易鑫出席数字价值年会，以长程智能体定义汽车金融AI新范式 - finance.eastmoney.com",
+      "title": "易鑫出席数字价值年会，以长程智能体定义汽车金融AI新范式 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxdnBmUzIxMEJSc2ZfYUtIalJ5WGdURVdGeVdJSV9YaDAyZG4wdWtBRTlKbVlfLWRLbWhLXy12OXhOVUd0V05fcktORW9uS3hDZ3dXYU93QkVEeHRLbk4tODhtOTlJQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T13:34:44+00:00",
-      "summary": "易鑫出席数字价值年会，以长程智能体定义汽车金融AI新范式  finance.eastmoney.com",
+      "summary": "易鑫出席数字价值年会，以长程智能体定义汽车金融AI新范式  东方财富",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "克劳德代码、Codex、Gemini 命令行工具与GitHub Copilot被发现存在同一安全漏洞 - 新浪财经",
+      "title": "克劳德代码、Codex、Gemini 命令行工具与GitHub Copilot被发现存在同一安全漏洞 - 新浪财经_金融信息服务商",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDJuT0ZGRWRhOWxqSnVIODhZaEkybmV3NFlDZzBaM2daTXZzaWNJUnZtUEp0a2FXMl9vZ0dyd3pOSHduRHdfdFJ6SFFnZUdDazFsOWc1emhUN21QTTNkcktIbjhOX3R1YlZwR2pBVGhTbUd3Smcza0xiZHltUFozdWJDbWtBSG9hRHc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T13:20:59+00:00",
-      "summary": "克劳德代码、Codex、Gemini 命令行工具与GitHub Copilot被发现存在同一安全漏洞  新浪财经",
+      "summary": "克劳德代码、Codex、Gemini 命令行工具与GitHub Copilot被发现存在同一安全漏洞  新浪财经_金融信息服务商",
       "categories": [
         "google",
         "tools_apps",
@@ -199,25 +242,25 @@
       ]
     },
     {
-      "title": "奇安信联合华为昇腾发布智能体安全联合解决方案 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYU1HQW1ja2FhVjdSQTB0elFPaFhnNk9XbkYzckRsUjU4VTNEVUtlMWV2RHJiV2RuSWFPWUpqSkFRRWkwcE93d3ctaWowb1RKc19peVlrY0VrOG8zUWxMd1hHdVVTU2IxVXpSblh5bDctay1HZmlpb1lQLVhYOG10dk5ra050eV96QzdlWA?oc=5",
+      "title": "奇安信面向全球发布代码安全智能体Qcode Agents - 紫牛新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wWmZ3eUt3bmRzYmE1bGJzRUh1ZjM5clNMeWhHaEVHQWZRVDNxMjBmazQyakxPZ0xrQ1gtelZueWgwanlBeGFYQWlSZ2t5dVR1a19tMVJDbkZMaFpnRmpSNWNHZlA5ZHhP?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-18T12:17:20+00:00",
-      "summary": "奇安信联合华为昇腾发布智能体安全联合解决方案  Sohu",
+      "published": "2026-09-18T12:22:00+00:00",
+      "summary": "奇安信面向全球发布代码安全智能体Qcode Agents  紫牛新闻",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "奇安信联合华为昇腾发布智能体安全联合解决方案 - 紫牛新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGTkZiMV9fWmRPV1RuTENhMC1tZnJuQlpWaUJOcGFFSlFXVjhMdTVSTmxfcV9mRHNLcnNuVW5IVldVTUQ3YzFleTFnTXVkUGpjdVdmcGxZNzcyXzhKR04wM2wxamFiZmZN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-18T12:17:00+00:00",
+      "summary": "奇安信联合华为昇腾发布智能体安全联合解决方案  紫牛新闻",
       "categories": [
         "other_big",
         "tools_apps",
         "chips"
-      ]
-    },
-    {
-      "title": "2396名患者/4类数据/2条AI路线，I³LUNG联盟用多模态AI探索肺癌免疫治疗决策，表现超越PD-L1等传统指标 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OdEtVQm9zUFYxM2ctUG1xbzlsWUl6VzZ5azN6MTE3ZTJScGdBV0ljRWxUMVdQYTcyanRkeFFxN00ySUx0ZV82bA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-18T12:10:00+00:00",
-      "summary": "2396名患者/4类数据/2条AI路线，I³LUNG联盟用多模态AI探索肺癌免疫治疗决策，表现超越PD-L1等传统指标  智源社区",
-      "categories": [
-        "breakthrough"
       ]
     },
     {
@@ -228,16 +271,6 @@
       "summary": "比亚迪发布AI超级智能体“迪迪虾” 首搭腾势N8L纯电车型  东方财富",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "中国大模型正影响全球AI流量版图 - 世界互联网大会",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdXdhMlVibUMtcEVtVzRzWU5qOUpuQlZBS2FkN0lVa2lqQ1EyYmptS2Z0WEl3dl9xaVZtYWM4RXMzZnFLSGs3aG02WklZdlJ4amVGbkpjV3FNYnpQVERlcWpwejdOR3FPN0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-18T11:05:43+00:00",
-      "summary": "中国大模型正影响全球AI流量版图  世界互联网大会",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -261,51 +294,31 @@
       ]
     },
     {
-      "title": "大模型、智能体结合科研级望远镜，读懂“星空低语” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjBiZ1gydE1PYzJLY0N0RDdXc3RGQ0xqRENTTGhMdjdxUnROODNwRzBNRG1WMHMzUzQycDd5dG1tYlgxMFlrRXdZQzdSX19xbktTcFVlNEdUZkxSOXgwODhrS2x2aVllZDJDR2lVUkpxX083SjRwb3VVcmEwdlRLRjRScWljVlBK?oc=5",
+      "title": "大模型、智能体结合科研级望远镜，读懂“星空低语” - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uUkZnNXJ5VFFIWHN5anR3YnpTckYyVzlTZlM0eDJjc3RFb2hZS216Zi1WaU1mbmhCZlhDQ0hBUThiV3FjTE5Hc21aT2FfX2hEbENWRUNPbjJ0UGpLc0E?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-18T09:55:00+00:00",
-      "summary": "大模型、智能体结合科研级望远镜，读懂“星空低语”  Sohu",
+      "published": "2026-09-18T09:52:05+00:00",
+      "summary": "大模型、智能体结合科研级望远镜，读懂“星空低语”  京报网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "黑客利用Anthropic Claude模型攻破OpenAI内部代码仓库 - huxiu.com",
+      "title": "黑客利用Anthropic Claude模型攻破OpenAI内部代码仓库 - 虎嗅",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Md1NqZl9BZWZ3anREcTNONU9VV1R6TV9rd1FhSUpiZTFpQ25QUEpBd2FCeHZxeTNXOXJjZVg0Yk03R21sdGNlcGtjOHpVcmlPUGc0V0U4dGdxeDhhWGE4?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T09:40:17+00:00",
-      "summary": "黑客利用Anthropic Claude模型攻破OpenAI内部代码仓库  huxiu.com",
+      "summary": "黑客利用Anthropic Claude模型攻破OpenAI内部代码仓库  虎嗅",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "迪拜GISEC｜奇安信面向全球发布代码安全智能体Qcode Agents - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdmdRb0hyY2lzMXhZTlVSMUw2dTA3VVh3ZWJONnZxeFdMcmhiN0J4VnRDN1NGYkNwaTZmT1NjOVBEQmdXMWtuMmdTM25qcTFRYVRrWkhHQTRvMnRlMUN2Q1BaRDBCWlQwN2V0RG1BNl9NNmth?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-18T09:31:53+00:00",
-      "summary": "迪拜GISEC｜奇安信面向全球发布代码安全智能体Qcode Agents  金融界",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "研究人员利用Anthropic模型入侵OpenAI系统 - 新浪财经",
+      "title": "研究人员利用Anthropic模型入侵OpenAI系统 - 新浪财经_金融信息服务商",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjRQWXFUV01pYTMzam9LTlhHdE95QWN5eW5Ka19iMVIzcjBZeV9sTUhfUDA1d3VHa1BJZE5jdkI5cDN3WkdzMTdwbnRoX0tEaElwcVRXbmI3bjktVVJ1a09JQjhyOE1Ua3ZoTktCMEdaOEdBYnFCb1h5bjBhRGtjLXNNU0dpdF9OeXBCVDI5WXJxV3gwdXNabFJQcjdtMURUSDd6a1JkYWhkQQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T06:45:00+00:00",
-      "summary": "研究人员利用Anthropic模型入侵OpenAI系统  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "白帽黑客借Anthropic Claude入侵OpenAI，获6500美元赏金 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1UUZpVVRFcjlDY1RZQTYxdE44NENlYkd0VXQzeFFmcmhERl9nZXdEcnY2SEVPdWRVZ3JnNlpMdjJoWEloazIyUmhvWUY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-18T05:36:42+00:00",
-      "summary": "白帽黑客借Anthropic Claude入侵OpenAI，获6500美元赏金  凤凰网科技",
+      "summary": "研究人员利用Anthropic模型入侵OpenAI系统  新浪财经_金融信息服务商",
       "categories": [
         "anthropic"
       ]
@@ -339,17 +352,6 @@
       "summary": "Anthropic：Claude模型在内部已主导26%的研发工作  联合早报",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "Claude已“主导”Anthropic 26% AI研发工作，3万Agent同时上岗，RSI仍未实现 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43c3RKOGg4SUNwMFdUbk53ckhpckl5dGNwNEZWMUdfd0xYekJQOGx3NXJIcUZBNHhIU1FzTnRfTWF3SUdwbWRjWk84Mmc0a05mNURr?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-17T22:04:41+00:00",
-      "summary": "Claude已“主导”Anthropic 26% AI研发工作，3万Agent同时上岗，RSI仍未实现  华尔街见闻",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     },
     {
