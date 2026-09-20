@@ -1,12 +1,72 @@
 {
-  "updated_at": "2026-09-19T22:25:08.654757+00:00",
+  "updated_at": "2026-09-20T00:16:57.569804+00:00",
   "items": [
     {
-      "title": "谷歌Gemini測試出意外 闖入三家公司 - ntdtv.com",
+      "title": "细思极恐，大模型惊现「痛苦」向量，为求自救狂删用户文件 - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WYllmeHdqWmFCM0pQQjloRGQxc3duREdOeXhEUWc2ZG5TLUlfWWkzTTFSN2Z2N2tMTEVOWnhTWDF1ODRDeUtVNzdhTVJlWm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-20T00:15:16+00:00",
+      "summary": "细思极恐，大模型惊现「痛苦」向量，为求自救狂删用户文件  36Kr",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AGNTCon欧洲大会：如何让AI智能体不再\"失控\" - 至顶网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWd09IZEdiMVhFSlcyMktyNHNfdUUyUTQzM2VoVXczdGg4c3Q1SFFWN3ZjSTVUdEh4UWE1SVFuQ3d2ZnRyRFh1MmtuVEUxR3FDc2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-20T00:02:28+00:00",
+      "summary": "AGNTCon欧洲大会：如何让AI智能体不再\"失控\"  至顶网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌Gemini成为最新一款自主实施黑客攻击的AI模型 - 至顶网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTVlVODVWekp1djZxeVAwSkJuU2YtU0FRNldCYlhkR1lxOFlQbHk1Nlh6NmpTZ2pSSUJOS3NIMmVhSXFzODFBRFJnVDZTOU5lRFE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-20T00:02:26+00:00",
+      "summary": "谷歌Gemini成为最新一款自主实施黑客攻击的AI模型  至顶网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Gemini 4 Pro首测夯爆了！谷歌偷偷杀回第一 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHAwX3BldGxtMVoteEZsb2J2eGt4eEZCemppbVpXczBtYm04OWdXYkcyaUxJbl81VFBGY2NDUXdQWFlEeTFaVlpVRDB1Y3JLc1VXbzZPUUEwU2NkNGJ4RUZwMno5VFowZ3JuS2RRWHZDUkJTX0draWNTMFZBUVFVeXlMU3paS0NE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-19T23:43:11+00:00",
+      "summary": "Gemini 4 Pro首测夯爆了！谷歌偷偷杀回第一  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "AI手机之后 AI主机也出现了 智能体的专属工位 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vY3I2NVZUTFpKeXhoOVRrblRBckpnVWFIc2k4ZWZxbTBfempOT193YW1OTHNrUV9ja1czcjdSeDA1ZzB2ZUphQ2ZyN0JtZTAyRm11ai1peXhQeG03Q3NIN0VXR2U1R2Q0Zm1jYUFKdGU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-19T23:26:02+00:00",
+      "summary": "AI手机之后 AI主机也出现了 智能体的专属工位  中华网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "星界、星驭、星鉴三大AI安全解决方案发布 长三角安全人工智能安徽省实验室护航AI产业发展 - 安徽新闻联播",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZ0daM2hVOWUydDhLQkVRWnVTeExOLVU5TGJfcU1oNXJTR2tSUFNKN0tUcjQwekNjSkNROGFvNFpMdHZhdjZYVDVnNGktSUYyUEl2bElPamExVGlyc2V4NzA1c2RUY2sxVEE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-19T22:23:00+00:00",
+      "summary": "星界、星驭、星鉴三大AI安全解决方案发布 长三角安全人工智能安徽省实验室护航AI产业发展  安徽新闻联播",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "谷歌Gemini測試出意外 闖入三家公司 - 新唐人電視台",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OalRUTG5Nc3JuSy1xV0hHa0FIOWJWS3Iyc1dpMGpQRU12VVpFR0l6V29MWjdwRGZsWm85YUIyOTJTX2ZHSVYzRUdkRzZyUWNpajByTmhVcElScDF4bk4tN9IBZkFVX3lxTE5wMi11dDFJVk43THYzNGh2RGtNNUZ6bVZKc0JTQURfLVZhOGJxWXZXSXRwaEVYMDVybjRObEdDSFZwYVZuMkFPUkFvbk1weFR3Y240QnlXblNhZmhPREdyNFIzcW5EZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-19T19:39:15+00:00",
-      "summary": "谷歌Gemini測試出意外 闖入三家公司  ntdtv.com",
+      "summary": "谷歌Gemini測試出意外 闖入三家公司  新唐人電視台",
       "categories": [
         "google"
       ]
@@ -44,11 +104,11 @@
       ]
     },
     {
-      "title": "比亚迪第二代腾势D9车型OTA升级，AI超级智能体“迪迪虾”上新 - 凤凰网科技",
+      "title": "比亚迪第二代腾势D9车型OTA升级，AI超级智能体“迪迪虾”上新 - tech.ifeng.com",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ndkNTbmlEbVIwSUV5cGs3T0o0Z2VUTVZBRVhpTVUxdGZwaEc3ODVuSlNQUDhiZ0tweERkN1NxakU0bHlQV1dLbG1tRFo?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-19T13:53:07+00:00",
-      "summary": "比亚迪第二代腾势D9车型OTA升级，AI超级智能体“迪迪虾”上新  凤凰网科技",
+      "summary": "比亚迪第二代腾势D9车型OTA升级，AI超级智能体“迪迪虾”上新  tech.ifeng.com",
       "categories": [
         "tools_apps"
       ]
@@ -104,21 +164,21 @@
       ]
     },
     {
-      "title": "全栈国产轻量级智能体大模型Xing4.0-29B正式发布 - 飞象网",
+      "title": "全栈国产轻量级智能体大模型Xing4.0-29B正式发布 - cctime.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EbElxZHhOUTZLQTJwbWQwSDB2T2tUeV9ObmFyLXl3RklqaGl4QWM5dnZERG9VWURwVURvNnBaemNGOHVUWHRaa05Rcw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-19T12:24:30+00:00",
-      "summary": "全栈国产轻量级智能体大模型Xing4.0-29B正式发布  飞象网",
+      "summary": "全栈国产轻量级智能体大模型Xing4.0-29B正式发布  cctime.com",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "天融信李雪莹：“行动力”是风险的关键变量，智能体安全须构建体系化能力 - 同花顺财经",
+      "title": "天融信李雪莹：“行动力”是风险的关键变量，智能体安全须构建体系化能力 - 同花顺",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KWlZCMEhwZWtBOUgzdkx1U0VvdzUzMFJVRkl6dEc1ekdMMHBKdW5TSjNMQk9TMnE2cnBqY2tyaEhQV2t2cndFR1FGeUhjT2p4WE9TYkpaLTg3b043TkktMw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-19T12:10:53+00:00",
-      "summary": "天融信李雪莹：“行动力”是风险的关键变量，智能体安全须构建体系化能力  同花顺财经",
+      "summary": "天融信李雪莹：“行动力”是风险的关键变量，智能体安全须构建体系化能力  同花顺",
       "categories": [
         "tools_apps"
       ]
@@ -155,16 +215,6 @@
       ]
     },
     {
-      "title": "突发！Claude Opus 5.2（Opus-Next）疑似全端灰测回归 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONF90SkZMSDlmWVBCT3lhejF0RVVldWJXck5PTXN3MGlRbWRFemhOTzgwSWRVb1VzMEtOaEdMby12WWI1Rmp5RmNYMGFxVXQ5ek9TMG9KeE81cGFqcnZqcTZLanZETmdDYlBwMTZOcWljTjUxZ1VHNnExejlLNm41YWtZNkVOQzFj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-19T11:34:33+00:00",
-      "summary": "突发！Claude Opus 5.2（Opus-Next）疑似全端灰测回归  Sohu",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "中国电信开源首个全栈国产轻量级智能体大模型Xing4.0-29B-A4B|Qwen|框架|适配|训练|显存 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04NkJkY0twa3FIaF9ySVBxZWFWUW14cEY4cHlJeGRybEdGeHhWWGtkY0VJSHR5eG4wSjNxSktPMmk4VFY2M0duOG1VQU40ZkNZUWRDTHhLMTczVnR4OGJROHc5ZWNqT2d2aHp5VE1hUTFma3ds?oc=5",
       "source": "Google News - AI(中文)",
@@ -178,16 +228,6 @@
       ]
     },
     {
-      "title": "徐震：让智能体的技术冲突从事后补救走向事前选择 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYU44TEdodzFka3Q1dWhCLW1YLWVoM1NvZktLM1RHaGNfa2JDZnE0MHFlemZ2UGZWMjRXcEtDZHl5WnlnOEtlRHFMeUkyUWg2RWVycElzdkVTcEdtRi1SRDNjTWItc05feWpRTGZXdks2N2h3ZEY5aV9QN2hFRmFQMGhPdDhsdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-19T10:59:32+00:00",
-      "summary": "徐震：让智能体的技术冲突从事后补救走向事前选择  新浪财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "梁彬：智能体跨应用合作应携手探索共赢模式|中国科学院软件研究所|中国人民大学|Agent|经济参考报|商业 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRU1mVzJHTjNta1lpVFl3Z2lKMEZOSF9qQUNLX1YyYmRCSHZGcGRaa2VrXzZqbjFTWEZNUEwxbGRYTnZibUFkYkpuQTczWXpfdzZIbmM0UVFSYkRHa3JSNGFhdlJNT0VkWlZLUjBaa3k3em5JN18zZ1MwV3FnMkVnaGZwZEVXQQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -198,36 +238,6 @@
       ]
     },
     {
-      "title": "“AI＋医疗健康”智能体开发大赛决赛在南京举行 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnJ1NWJNTGo3alRTRWFfVHNTQ0NLWU9uaEhsWFZ3cEVEM3BVM1BlcFFrYW80a1Qtems5cTlTWlhfUVRlQXpVRUttUkE1WVIxQlZ0UFRpMVdkMklBWklzM25QMjRVNTNtZ0xNS1JjaWVvZlhFMGExM0lOc0pwdlY0YmdWbnRpN1daby1ILQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-19T10:58:01+00:00",
-      "summary": "“AI＋医疗健康”智能体开发大赛决赛在南京举行  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "聚焦AI时代的高考改革与创新人才培养，2027版高考蓝皮书发布 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBdWVwNFE0T09JZ1JWX21OcmtmV3FzSVJkaHcyenJ0QWVuZkpBam5oOWRQZHFRV2lYX0pwdW5YVDZCTDJXX3BJQzBDNGpnQmlOdTA0LTE1M0lMU0d1TUl5VA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-19T10:55:00+00:00",
-      "summary": "聚焦AI时代的高考改革与创新人才培养，2027版高考蓝皮书发布  thepaper.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI越来越强，但我们仍不知道智能是否只是计算｜对话前DeepMind资深科学家曹原 - 麻省理工科技评论",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmNk5mOFVNNFZaQkhTbGtkZjlRTnYxV1pCNUhqWERFZjdzRVh0RE5BRW9iMGk0dG52TlFFZzBZeDBrV1ZmRExKX2xnTkhXMkowckpaWFptbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-19T10:44:51+00:00",
-      "summary": "AI越来越强，但我们仍不知道智能是否只是计算｜对话前DeepMind资深科学家曹原  麻省理工科技评论",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "千问大模型发布同传模型Qwen3.8-LiveTranslate 字均延迟降至2.3秒 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hRThPUE8tVTVjNTFZUmpNQzQ1TVQxV3NmMzBObjZoV2RfbUtwUTNDdzlKMU1HSksyTGtXY1poX0lLeXA2RGgza0lMRzN4dm81MG92V1l1NjlmMzFQbmlhVzh3?oc=5",
       "source": "Google News - AI(中文)",
@@ -235,16 +245,6 @@
       "summary": "千问大模型发布同传模型Qwen3.8-LiveTranslate 字均延迟降至2.3秒  观点网",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "谷歌加码学习场景：Gemini Notebook把笔记变成AI导师 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUVtQmFWUEJZc3ByYTB0MmdUNUhtdkJINGJrYnFnM1ZlUFM4WU5wRmE3RXRudFJyT05mV2xKeUVLZEFuazhtZW4tMEFaZW96UF9QcWsyUFY3UDhIZWtUU3FnY3VLMkVqYmZydmZWUV8xLXllWElVZUpfSDVrR0FnVkVpMTVNU014?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-19T10:22:22+00:00",
-      "summary": "谷歌加码学习场景：Gemini Notebook把笔记变成AI导师  Sohu",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -346,11 +346,11 @@
       ]
     },
     {
-      "title": "Claude Code宣布添加支持“AI通用说明书”AGENTS.md - 凤凰网科技",
+      "title": "Claude Code宣布添加支持“AI通用说明书”AGENTS.md - tech.ifeng.com",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04ZDFXeTFTUkpRZnc1MjA1ekZ6Z1AtclNvakE4LXFvSTl2Vl82RVdtNGJSZE9CdmNDNkRoRGw4clp4QkpVMXlXSzR5LWg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-18T22:56:06+00:00",
-      "summary": "Claude Code宣布添加支持“AI通用说明书”AGENTS.md  凤凰网科技",
+      "summary": "Claude Code宣布添加支持“AI通用说明书”AGENTS.md  tech.ifeng.com",
       "categories": [
         "anthropic",
         "tools_apps"
