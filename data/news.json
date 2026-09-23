@@ -1,14 +1,269 @@
 {
-  "updated_at": "2026-09-23T07:31:35.533146+00:00",
+  "updated_at": "2026-09-23T13:27:01.253040+00:00",
   "items": [
     {
-      "title": "Meta Muse 接入 PayPal 开启 AI 智能体购物，独立站卖家要重视 AEO 优化 - 全球定制网",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jSXBfMTItOWZ0R1VxcXU2QUE2aVdNTVJVcEdFWkJGZW40Ry12VnpONm5reTlhNFpxOEhPNS1JTFRGUEhfSm1pYW1lT0NzZw?oc=5",
+      "title": "全新深蓝S07 AI激光版官宣搭载豆包大模型 座舱竞争要变天 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FTXcxNTQyZkEyQkVUMkxDM0tWQTZNRUp3ak5pRVhrR2ctRDU4ejBMMGFvOXRQZElVSEpwZDhtU3FxS3dZb29rbnVVNjFMNnlBSHVQaFgwS3NFNU1XaXAwQzJUdkF2RHR0RzJzdUMySFFtNEZ3ci1sdHBOM0V3dw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-23T07:20:00+00:00",
-      "summary": "Meta Muse 接入 PayPal 开启 AI 智能体购物，独立站卖家要重视 AEO 优化  全球定制网",
+      "published": "2026-09-23T13:18:00+00:00",
+      "summary": "全新深蓝S07 AI激光版官宣搭载豆包大模型 座舱竞争要变天  k.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Claude Opus 5.5深夜发布，减价40%，大语言模型正式开始吞噬多模态-36氪 - 36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4VVFHUFFrSk9VeDRZNGhEQW5fekZhQ1F2NkNYWlJYTk05S2RGVzdrOHE4Q29yc2k3aGNLVTNyZHBPNW5jR1FZU3ZhTGRlT1Rp?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T13:15:28+00:00",
+      "summary": "Claude Opus 5.5深夜发布，减价40%，大语言模型正式开始吞噬多模态-36氪  36kr.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "梁文锋署名，DeepSeek发新论文，剑指大规模Agent训练 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ucElGanR2WkNUQmFrWk5hSi1QODExUVJnMGpTcGFadWVYZm9JTWx5VDA4UzJ1NXZRbVZETnVUSTdVS0xtSkU5QVN2bzE2VTdoc1VF?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T13:14:06+00:00",
+      "summary": "梁文锋署名，DeepSeek发新论文，剑指大规模Agent训练  华尔街见闻",
       "categories": [
         "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI大模型上车成新趋势 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15SnZ2TUlpbWxPUURvaElkV2o0VzZyWkJpSi1IRFFweV81SHRuRm85cWtQUy1yS29yS0FTbDlUUi04d296UXNkSl96VWkxTmVzOFE4V09sXzBLT09ZUm9zaUZmV0hBaG1kRzJmUkp0dVdoRXk3elQ3MGNlUGVPanM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:46:17+00:00",
+      "summary": "AI大模型上车成新趋势  k.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI CEO Altman将在联合国推动建立全球AI标准 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00eFZtbXVlN1lVeFpBd085VnlKM25VMWxYa1JiNWZ2NHZCdktPUjlhWmRQMEo2U093YUl3YTBWVjFGd3RRbmpQZG1vay1QTE91OTRVUGxxSHA0Slo0aUdiaDhB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:41:52+00:00",
+      "summary": "OpenAI CEO Altman将在联合国推动建立全球AI标准  观点网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "深蓝汽车与火山引擎官宣合作 豆包大模型首搭S07 AI激光版9月28日上市 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBET3ZKRWFBTWJVMTByQ0lITC1tUElTSGtzQXJ3SmE2YkdDYjVPUVVFYk9kdnpkcE5TUFk1b1BUOTVZMzBDak45YWwyYnRfd09yY2NKaTNibnp6N29lQ1I4M2dB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:39:59+00:00",
+      "summary": "深蓝汽车与火山引擎官宣合作 豆包大模型首搭S07 AI激光版9月28日上市  观点网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "智能体加速落地 英特尔意图推动CPU重回C位 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUtJaWxBTXBDWHRQaEFwdVVHRkhKOFN6UzFQUjVnYmI1UWg3cWJTY1I4RWJTaGozejRTdEpLVTdGT3RINmJyMi1XbjBGSjA2ZXRBU2pYRzRranNTdG9TQ21HTzNETi1PWjczT0YwOTRRMDl6OGhIZEJhYUk0eFJhaGxKQzBuQ0k4b0lIUnVldw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:39:00+00:00",
+      "summary": "智能体加速落地 英特尔意图推动CPU重回C位  21财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "广东“湾数”平台矩阵发布！给AI大模型喂“精炼石油” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDY5TVVPak5OLW5ZY1J6dHlwNEY0OUNKVUR5ZDJHNlN3ZXEzVGNpQjVOemRvWEFKQ2kwNUd1WWZBNFlSMlllZVRpUDNUZWE2dnBxQmxYRkZGc1drRHBMNEJrLXVhS0Z3T3JDeUJZVUtuT1ZVWjBRN1VuREx0YjJPLUxaZ3d0SlYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:27:43+00:00",
+      "summary": "广东“湾数”平台矩阵发布！给AI大模型喂“精炼石油”  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "熵基科技：加速火星慧知大模型及AI智能体与现有应用系统融合 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc2ZPdUZVZ0h4RmNLaEFlUHF6SDlheTV6aHQxeFRuUk1Pc0J2Qnd6elo2c2s4a3Z4ZnFZdHJmRHhCdzBwQ1RJU3U0LTdhZ0lpelNTSWQ5b29paDlhVGNkczlQajRqUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:27:39+00:00",
+      "summary": "熵基科技：加速火星慧知大模型及AI智能体与现有应用系统融合  东方财富",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "人工智能赋能大思政课教学，如何守住边界？静安区发布最新实施指南 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jTkIzbFFMMmhMeUFnT2dtZ1pkMmFSd05tMGQ2TDNpc3pPZHRRNHlFV3lRZm5ZOF9JdXJjN0J6S0E2TkVLS0Y1MWRtMDBGNWlvYm1jM1VvNlBPSEJzRC1TdDRQZ0xiOE85WmI0aHJ5X3A?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T12:13:46+00:00",
+      "summary": "人工智能赋能大思政课教学，如何守住边界？静安区发布最新实施指南  k.sina.com.cn",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "智谱Zcode上传用户数据事件，大模型应用不能只拼功能和速度 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96eGZvTUJCeXNseHVmSlo2VU85bTJROS1yZ1VEdXI4U2xZNXBwQk9nSm9rVGgyb18wZTBGTkxVaVFkRVRVTS10OW1RamFsd1BabWhIZ2pVbHJJTXRxZmc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T11:45:12+00:00",
+      "summary": "智谱Zcode上传用户数据事件，大模型应用不能只拼功能和速度  DoNews",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "阿里发布智能体电脑等多款产品 发力基建与应用落地 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HTGFQS0R1RjdIdXg4aUdra253NlRxX3Z2RDlPWll6UEhxYm02OVJJNHEwYmNoVnVjYzhISzRYZW1rdkhjZ2M1RUh6UUdxalphaHJFX1ZQVmw4VTRRemEtLXdGYzg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T11:42:00+00:00",
+      "summary": "阿里发布智能体电脑等多款产品 发力基建与应用落地  财新",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "荣耀通过端侧大模型备案，广东累计已有195款备案大模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXR4Q0hJYWJ3Mm5UUE5HNms1anV4UUpwMDBmODJiU2dhM1dua0NXRF8tWlNjWjVyRjQ2NHBGMWhUaFYtWE1tbnV0OUdlN05sR0dSSkxxQWtYS2NEcV8tYnF3UllDTk5OelplZ1RjeXktSnhtWThBekZUOFZEMm9ERnJpV3FxSGxo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T11:37:14+00:00",
+      "summary": "荣耀通过端侧大模型备案，广东累计已有195款备案大模型  搜狐网",
+      "categories": [
+        "local_model"
+      ]
+    },
+    {
+      "title": "市长顾问团会议丨肖松：以工业智能体、跨界融合与开放生态为支撑，助力重庆“十五五”产业升级 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnpjX0Z1MTM0d3kwZXUxTDVSeU9zMXd3a19pekUxUW16Vm4xWEhyU3ROSWVTQ0QxMDFOaTlhWWJaTjFBdDFPTTRJTTdqMURaUVN5OVA3VHltX0t4bjhxVjh4OG9iRHdKc1NCLVdCZkFWRkhHQ2RWdXl5THNQc3dVcnIxcHcweW5KbkdwZA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T11:36:44+00:00",
+      "summary": "市长顾问团会议丨肖松：以工业智能体、跨界融合与开放生态为支撑，助力重庆“十五五”产业升级  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "荣耀、小米、阶跃大模型手机通过网信备案 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0ttV1F0WUpWWklVdGpoZTE5YnRkZVJHS0hmODhBSXVhM2dfY2lrbEJPbTF2YzRPNDBtMVE4VmlmZ3NxQUM3R09Dc3BMclkwelFiVTJPako2NVRJTDNmQk16LUx6YUFVNU5nWFZMazd6d2JheWo4NnNrQ2VyR1VkaU1hTW5SWms2?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T11:06:48+00:00",
+      "summary": "荣耀、小米、阶跃大模型手机通过网信备案  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Opus 5.5|Claude Fable 5|Sonnet 5|Token|收费|界面_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84a05GWExPYzRnQTJhclh5dFJMMEExckw4cXgtcGtmTW8yelBCNXpXUjlITEVnNmRaQUltZmthVHY4Qmc1MWo1cFp6OXpSUm44NkJLcTZtMUpKSDM2LWN3ZGZfSUZGckN4M2dlR0xBTWtSekphNnUwZA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T10:58:49+00:00",
+      "summary": "Anthropic发布Claude Opus 5.5|Claude Fable 5|Sonnet 5|Token|收费|界面_手机新浪网  新浪财经",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "高通押注智能体时代：两款2纳米旗舰亮相，手机AI从“会回答”走向“能执行” - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50RjQ3WS1na2E1YVNEanZuRXdKS2hfY0pnel8wZ3AtNzJkM09TVDZCQ2s2N3RoTG1TVlFZNHFQYlFxeFM4MzRQVHM3alowTDlPcUY0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T10:57:55+00:00",
+      "summary": "高通押注智能体时代：两款2纳米旗舰亮相，手机AI从“会回答”走向“能执行”  第一财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "深蓝接入豆包大模型，S07成首搭车型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaExaaHozVlNQemh1SlNXWlpYWUFybUsyMVZxSXRoY2U0WktiMFprRjVuR0o1ZFhpMGVxczRJdkJwb1NWSUV1VUNvbjc4eUg0cmtpTFREclB3YWV1ckRfZEM5TWh0RmE3ZmhIc2IwV1Z2TktLYTVoUzlSN3l3cjJkdnNNRjRtRWFFMHVDdQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T10:54:00+00:00",
+      "summary": "深蓝接入豆包大模型，S07成首搭车型  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "213:1的Token悬殊背后，智能体正在改写推理方式 - 智东西",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QdXhBNXBfZ3dzRUQ5T0lKWnBvMWRZUlBuTXU5Q3l6Mk5hdHg3ekpWdzJlQm5MbkJSVjgwaVd3YnR1LTNPalE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T10:36:17+00:00",
+      "summary": "213:1的Token悬殊背后，智能体正在改写推理方式  智东西",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "赵彬彬：以事前边界协商机制构建终端智能体安全底座|中国科学院软件研究所|终端设备|浙江大学|Agent|设备_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUtPR2RZbWc1WnJjOEM4Mm84eFZSVnFFaUdvaVF3UXdqZ3d5TklIQlhTV1VoOHM2Z2ltZnY5dDZCczRQZERQZUJlX2lldzhiSjNKbWNfazIyQlJ3OGM4WEQtc2hCSkZKUmE2c2lWTVpFRjlqZGVIbWR0MkhQU04zYzRfRkV1dw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T10:32:45+00:00",
+      "summary": "赵彬彬：以事前边界协商机制构建终端智能体安全底座|中国科学院软件研究所|终端设备|浙江大学|Agent|设备_手机新浪网  新浪财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "阿里云首款智能体电脑Qwen Book亮相，采用全局AI按键 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUpwSlluM2JjM2xManJYUFd5ZUMxZ1N1amkyYjlFU080R3lPY0lhUzdpZnIxeVNhek5uUDFQNmk5NzVQOXhGRWNWdzgtSl9oazBzdTRrcmdWTVJHM3hZeXNScjdrRHFwUWttdHpnR3djYjBEMl9vY3RFYk1SRVRmVTEzbXl0QVY4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T10:24:00+00:00",
+      "summary": "阿里云首款智能体电脑Qwen Book亮相，采用全局AI按键  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI、Anthropic同日降价推新模型，比拼性价比 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFpyVEQwV1Q4TXhISURzOG1zazNQbmJKNjRwa1kzOEFwb3lHeldUNTJ2YjAxVHRkLVphNFpUNERuQUVwRFlIamY1dWVCRDJQRzZaUENBbTlTalh5RGhSRHdia252UV9CTmdVXzBrbDNDTFNyRjc3Z1QycFFtYVRXNjYzT1c3TUVpb3NvZ2VxWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T09:24:00+00:00",
+      "summary": "OpenAI、Anthropic同日降价推新模型，比拼性价比  21财经",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "智能体快速发展助推算力服务景气度攀升|智能算力|Agent|Token|康惠|合同_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1d4MnRYXzBiQXllUG9wZkdSZWlpTnNkTFo4cS0za2xEeEpWRHJORWk0ZDdDTnlMOWxVUXlZZ0ZYZERZUTllV1dNRjJXcWZqY1RWZGlJTTVlNFFySWtHTTd0cXFmWDBVcDJKcEVBbmNZc2VvUW52ZjVxN01YYXVvbXRhWGdXdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T09:22:30+00:00",
+      "summary": "智能体快速发展助推算力服务景气度攀升|智能算力|Agent|Token|康惠|合同_手机新浪网  新浪财经",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "科大讯飞发布最新语音识别大模型Spark-ASR-2.0，复杂声学场景表现突出 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90R0lnWjk3enlEd1k4RTdfN0E0ZkZMdGNFSjdqSEdXLWp0RFpqNklYWi14ZlVrVGM2RVA2dE1JQ0pTZ2NvX184N1VETkk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T09:21:39+00:00",
+      "summary": "科大讯飞发布最新语音识别大模型Spark-ASR-2.0，复杂声学场景表现突出  凤凰网科技",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Muse力压ChatGPT，Meta的智能体赌局刚开场 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUdMRk1QYTV4NGR4N3h1a0kwNVRIdDdIR2JDamt1eUg5MGc0N3JLMDA1LXQ0cVpGVmhXWlJKVFdnRERKcXFDN1ZFRVBYbVhxQ0ptcXN4c05tQ3NvNjRaS3R5SGxxNkkwLWxwRzVBTnZrdmNKVUx3Tk5rZkMzaFY5a3BoRWlabVl1VlZ2QWwzVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T09:16:00+00:00",
+      "summary": "Muse力压ChatGPT，Meta的智能体赌局刚开场  21财经",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "政务热线治理智能体发布，推动12345走向“未诉先治” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGg5cVJmaFRXMlJyR21EQWhmQjk0ckFYNjQyVk5kV3ZmNGZwU1pvcU5FbnBsb19hTW5wSEwxS2NuMlh3dzExdUJ4dTh0WGU5N1V5TmtUUFZScVZhWEp5NjlNRXp2NzZSRTBlbWlnWEFtLUktd0RJWU9aLWlPVUp3dkRnMTFQVzRr?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T07:23:14+00:00",
+      "summary": "政务热线治理智能体发布，推动12345走向“未诉先治”  搜狐网",
+      "categories": [
         "tools_apps"
       ]
     },
@@ -23,100 +278,6 @@
       ]
     },
     {
-      "title": "小摩：Muse有望成为ChatGPT后最广泛使用AI应用 重申Meta“增持”评级 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iZ0pvRU5ndkVRU1BQMDNDNUllNlFjVmtZWktxTjB5RFZBbTVtLW5KbnVkSXBjM1NNdi0wTnRTdW5PQTFtb0tQa29sMGtNV1hWaXdlQXRjd2laenpqRE5Damx0TQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:37:13+00:00",
-      "summary": "小摩：Muse有望成为ChatGPT后最广泛使用AI应用 重申Meta“增持”评级  东方财富",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "全新深蓝S07 AI激光版搭载豆包大模型，支持自然语言输入 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREVsV2hVZ2kwUVNmN0l5SE1DcVB0SkpHa3VQcEYtNWZIMVFRTHlVY19YVFhDYkhJd25wbDU4Y0N3dzBOMUZsaWgxRHFBUlNlaEhiWFZQTnFIaFBsUmVVVUJEbVFPQ1JIdHJPQVg2ZGtoeWp6QXhTTXYyWldfc18zUlQ5VTRXX3Rt?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:30:59+00:00",
-      "summary": "全新深蓝S07 AI激光版搭载豆包大模型，支持自然语言输入  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "天玑9600 Pro融合计算架构，改变了“智能体手机”时代规则 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPak1OcGhNSW1pYU1UZzhEWm03N3I2MnVHZmdvUGU0SU4tM3Nsb1l4NWR4MWg3a19jd3R4eWZtS2NZUUxRdGhJVjNxaml6Ym0zTm5kd3FhcnZGQ2pYTHNWeFhqUTVwQXVCbGk3WFN4SGxvZVpQb29KMmE1QWdtMld6S0lIblhkUTAz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:26:00+00:00",
-      "summary": "天玑9600 Pro融合计算架构，改变了“智能体手机”时代规则  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI连发两款GPT‑6新模型！API价格腰斩 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54TGtMZzhjSlJVWi1BbjA4ZmNramY0TDRZMEN5NUJnMEZiNk9NZnVDbTFyclhtWUY2VUE3OTV4bGRQMUVNQ216NGtOTmVXbmNZdVlsZ1NxbFRjTGZQcUtpazA0OGx0NHY0akpsWDlFY1N5OTVkc2RjZEFSeXVPRk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:25:33+00:00",
-      "summary": "OpenAI连发两款GPT‑6新模型！API价格腰斩  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "阿里、谷歌同时重做电脑，智能体PC真要来了 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsWDZIRnhaWjJuZE5zUjlsbmc2bDdiWGFrLUpaWW5nak1iLU01ejlBMkxWZUZXbk1zNzQyTGR5cGxBa3ZrYmZ1dWNSOHI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:24:32+00:00",
-      "summary": "阿里、谷歌同时重做电脑，智能体PC真要来了  凤凰网科技",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "刘大一恒，千问大模型负责人！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHVUWWl4OVpZdlEzb1hEazlQQjJXbjM4QWNTRXF5NHpXU0xwQzItc1Q2LS1YVVI0bUxjNU9PZ0NxMjlvaG1wMlJwc1hJRmd3d3QwLXJaT2RZYm8xYlpfQTQxNWVOaWxwWTZaRmNuQnVOWU9Sai1QM1V4LU5SN3lwcXFBOXc3c2toZVJybQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:19:54+00:00",
-      "summary": "刘大一恒，千问大模型负责人！  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "港股大模型概念股持续走低，智谱跌超10% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJYWVVVE93YUdQY0Y2SGpES1JWWENLNTZIa0l3RmZGNmZoOERLOFMxM1EyemJPbDBWY05RM2lkQW1TWkt5M3ZIWmVvZFFXNk1vWklrU0c1cVNoeHBmWDFrd3N4OXA3dw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:09:46+00:00",
-      "summary": "港股大模型概念股持续走低，智谱跌超10%  东方财富",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "5GHz！高通骁龙双旗舰发布：开启智能体AI新时代！小米将首发！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0tXVXRoRnNSenljeFAwVVVZejZlYzRwUnRkQlV6Qi1BVmgyVE1Tbng2UldQa21EbURubUM3U1Q4RWNKSVFhR1Y5WWl4UEpZdjJ6ZFJjcExZVENEanBqQ1ZTVTZxVjdPUjM4M1BPanpGa0Zoem5qMVg1amVGeTFHUkJLZEpnczI2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:06:19+00:00",
-      "summary": "5GHz！高通骁龙双旗舰发布：开启智能体AI新时代！小米将首发！  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "马斯克惊叹中国AI大模型“单位算力产出性能几乎是全球顶尖水平” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUk9UTzQ4eF9LQ2J3SDVSZjNyYWpsOWxOb3R4UkMybDBzZ2Zpd1JTU0JEcF9ENE9mTzBlNm1MQ24zTzhZcEZBRHNQRjh4dndZWFBIX0ZQMFZPXzNDOWp1VDBqa0dqd2VsZjd6OUxQQW5ob1BQbjNFeVktRFgxWThocEpJOTBoRFNrUWI5Ug?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T06:04:52+00:00",
-      "summary": "马斯克惊叹中国AI大模型“单位算力产出性能几乎是全球顶尖水平”  搜狐网",
-      "categories": [
-        "other_big",
-        "chips"
-      ]
-    },
-    {
       "title": "Anthropic推新模型Claude Opus 5.5 大幅降低综合成本 - 财新",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40amtBOWc1MFhXcEdGNnY0RnN2RUU0TS02YzZESlVrbW9VMDN3Uk15M1V4dGEtNzhMbjFqQmt5ekUxZy0zZ1RGVzlmV2pLcGtfMTExYU1NUnpSX1lSTHo1eEppNXA?oc=5",
       "source": "Google News - AI(中文)",
@@ -127,217 +288,65 @@
       ]
     },
     {
-      "title": "阿里云发布首款AI智能体电脑Qwen Book 9月23日2026云栖大会上，阿里云发布首款AI智能体电脑Qwen Book。该机以千问端云模型为核心底座，搭载Skill键盘阵列、全局AI按键、语音手写笔与AI Island副屏，支持跨设备接续执行任务，可主动理解用户意图、持续进化。 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2VGWnRBWm5CbEdSWkIzY0pscHhjeTdCc01Ga2Q5VTJpMkdMdEJURDhMWm1WZzNaUWFndWt6MXNBTGcyRlBvR1UwSTI5YnZoYmNoZlU0d1EtVDZLSElnc1ZadkM3VUNxU1JvdjFhTTlidDdWRGFKTndGMl83Q0JhVEtsdkNLM1pGVkFzcQ?oc=5",
+      "title": "Anthropic 发布 Claude Opus 5.5：跑分追平Fable、成本降四成，还顺手禁了越界- OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hLVJfdW9GMVB4ckFuRFBPZzQ5TFUtYTVSa1BXMV9TTmY3M3QyRzhQSW1xa1VkNTVKdUMxNy1UWmQtME1WWVVQaUxpVEJoc3JwdVlyRThuTGlDOHBiY1NLNjdDNUV2NWdibFlwenJR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-23T05:49:06+00:00",
-      "summary": "阿里云发布首款AI智能体电脑Qwen Book 9月23日2026云栖大会上，阿里云发布首款AI智能体电脑Qwen Book。该机以千问端云模型为核心底座，搭载Skill键盘阵列、全局AI按键、语音手写笔与AI Island副屏，支持跨设备接续执行任务，可主动理解用户意图、持续进化。  搜狐网",
+      "published": "2026-09-23T05:54:45+00:00",
+      "summary": "Anthropic 发布 Claude Opus 5.5：跑分追平Fable、成本降四成，还顺手禁了越界- OSCHINA - 开源 × AI · 开发者生态社区  OSCHINA",
       "categories": [
-        "other_big",
-        "tools_apps"
+        "anthropic",
+        "open_source"
       ]
     },
     {
-      "title": "高通发布两款第六代骁龙8旗舰平台 多产品组合适配智能体AI时代需求 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qck1rNGw5Z1dKNjYtX2NaUV93TExRVkxPc05qb2pYaXR6bmNsYjl3VUZhTEtLOTRQMVRaWmtIa3ZweUJFS1hIZmNiSUdwemtvUE9OVWlxR09qY2RTOGNKbS1SVG1OVlFVbklNZTg4MmNuSGozU05TNA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T05:44:31+00:00",
-      "summary": "高通发布两款第六代骁龙8旗舰平台 多产品组合适配智能体AI时代需求  finance.sina.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "高通安蒙：智能体重构移动终端体验 端侧芯片面临系统级挑战 - 财新",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X3NCallEa3MteXpVczhaQW5tZUZzTEU5ZkNFQWVoVHNEaHRuNHhHVUxSU2Zxc3pGdXh1c0ZlVWRwemlEWHhOSWxJRE02X3NrclhiOURqbFllNnAxelBiT2NPYUU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T05:09:00+00:00",
-      "summary": "高通安蒙：智能体重构移动终端体验 端侧芯片面临系统级挑战  财新",
-      "categories": [
-        "tools_apps",
-        "local_model",
-        "chips"
-      ]
-    },
-    {
-      "title": "“渝小健”AI就医智能体日均服务1万人次 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcktJN29QOW5UTEJLWlkxbzFiMmQ3ZXI5emVhSlhMLTJMX3JMQnl1NXk2OThJMERqaVVjZS1mTE92TXR2ZWduYWxNZzVwWHBLVHJpYlZnS0xmOGxadTMxTHlXMTN0SzhBeURjRkh5VTgwZzJNcVNacUx0ajM0ZEc0X2VMTEJsYXhWRXRCVkk1aWVtZEtTWG04bGFhaXFGQUtj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:58:33+00:00",
-      "summary": "“渝小健”AI就医智能体日均服务1万人次  finance.sina.com.cn",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzBIR2ZlUGZGOWZRcVI5eFpZUlAzalhVVi1FLTJFSXpMSWZsNW1GSDFyS0hkbXl4bkx4NTdpREQxNmR1SWxYX0RCeHdFRFZpWWRNUGI0ckh3VWw1TXZCVDl6MUI2eWwzUTVtZ3RxTkpFTFQ2bVctMFVsd1hRTFhFb3lNSmFTSlhhWU5GRA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:56:00+00:00",
-      "summary": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "深蓝汽车官宣合作豆包大模型 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0NkJWeHQ2Z0xNMWZoUmwyMmRycTRObWxGTGJ3UGY0Z2FtZFA1MjRvc1dhalZlWjZvUzU4UGhSaDZ3dVVRWnpkMklyT0NQU01HZ1h3QW83QUZmRjE4U1VYWXdDNURESG8xcHFz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:54:29+00:00",
-      "summary": "深蓝汽车官宣合作豆包大模型  汽车之家",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Jev揭示Agent架构痛点：高频语义判断无需深度推理 - 虎嗅网",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtR19wTmdFa1Z5c2pEb01sMkZQMU5Id0VLMDVQS1VJaFEtMWFOWTFmT3l1dFFwUFVPNF9ySHhycUdVaURvdEpYUmZ5aW8yQXJCdTNLMGxmSEpBNkpXLU1v?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:53:10+00:00",
-      "summary": "Jev揭示Agent架构痛点：高频语义判断无需深度推理  虎嗅网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "鲲鹏DevKit从“工具分析辅助”到“Agent智能执行”， 助力AI Coding天然亲和鲲鹏 - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLajFjVnlmMVQ4UDhxNk9KZmdCNEI3Q05YZUZwb1dsdGdhcWpZblRNRkU0V08zWXpwNEFXZzR6cVg5VzM3M0lhdmVtRmloRGsxS2dOVGtIQl9kMFVocXAwSFdRZEU4dTlEYzBRLTZMbEJnOWg1M1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:44:00+00:00",
-      "summary": "鲲鹏DevKit从“工具分析辅助”到“Agent智能执行”， 助力AI Coding天然亲和鲲鹏  新浪新闻_手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "高通：手机仍占个人交互C位，应用正从APP时代迈向智能体时代 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02WXZpMVhOaFVXdy1CYnkyTTJUVVpiTmh4eWhhWnBmMTA0ZDBFdmdVT0xWdWZ1VDBJbmtBdmVLUzdrMTZBVWxxeV9vbWs?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:37:11+00:00",
-      "summary": "高通：手机仍占个人交互C位，应用正从APP时代迈向智能体时代  凤凰网科技",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic与OpenAI同日发布新模型 价格战升级性能提升 - 虎嗅网",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BODdldXRNamR3MFJEc3NaMndndjdnam8xUWkwSjFWSFhFTWl2UDhFamlUY0Q1VmZZUm5yQnR3TE5ESGRLWHZHVUdCcVFMT25pbFJQVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:30:53+00:00",
-      "summary": "Anthropic与OpenAI同日发布新模型 价格战升级性能提升  虎嗅网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "AI智能体Muse爆发式走红，业内判断：AI终端将从工具走向伙伴 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclNJTzgwN3lSR2F4RWx3c3Z3TGpya1kwMUtRRWpNXzVTV2FsdEtadnFxbHdzRFhFSk9LU2x5RUFIU0w2Qm9YTWUyZm4tNUdXUWxRbXRSb280UHNyMXdLRmlDRjNsOVNtSEpMazlOYXQyekxCemg4NF9CamZOMlZMdk51TUFxMG5S?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:29:30+00:00",
-      "summary": "AI智能体Muse爆发式走红，业内判断：AI终端将从工具走向伙伴  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "深蓝汽车官宣合作豆包大模型，全新深蓝S07首发搭载 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMdDRfTVlONjZZLUZuQkEzUHVFNEk4cF8wU0NtaVl3M2pFNTdscGRIN1dlTmxqaGpnZXFwZF9QaUF3SjZ4elEzRFhuaGZOLXpxZnZyUW9sQmMxRVc3YzFJblE5bWU1MGw4NFptR1ptbmo5VndISkN2SkpTVzJuQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T04:25:04+00:00",
-      "summary": "深蓝汽车官宣合作豆包大模型，全新深蓝S07首发搭载  手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "阿里平头哥AI芯片真武V900发布，将于2027年一季度上市|云栖大会|216GB|并行计算|大模型|杭州市_手机新浪网 - finance.sina.com.cn",
+      "title": "阿里平头哥AI芯片真武V900发布，将于2027年一季度上市|云栖大会|216GB|并行计算|大模型|杭州市_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcjdUb2NMY25PUjUtSG9XNDB4NUZyVTFJcDJnUXNJS3dGZkRwX3dYUW9vZmstT1JKLXplWTVxYkM0VzVJNHZtamc1R3RBQ0h3bzdtT2NrMGppUFdOZEVFNFJJRU1HX3JuZkNSZDFWbHY2OXd0UzM1WUtBY2ZGY2pkR2pyT1hfbWx6dkxmNHd6MldOOF9G?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-23T04:03:21+00:00",
-      "summary": "阿里平头哥AI芯片真武V900发布，将于2027年一季度上市|云栖大会|216GB|并行计算|大模型|杭州市_手机新浪网  finance.sina.com.cn",
+      "summary": "阿里平头哥AI芯片真武V900发布，将于2027年一季度上市|云栖大会|216GB|并行计算|大模型|杭州市_手机新浪网  新浪财经",
       "categories": [
         "other_big",
         "chips"
       ]
     },
     {
-      "title": "比亚迪发布AI超级智能体“迪迪虾”，腾势N8L纯电版首发搭载 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LS1RDdml4UDQ5ZHgyZ3ptYnV2alp5SHlyTTh2bENaUjhadkFNUmJKVkItT0FEcDhEd0xKeGRmRGlaMTVLdlVvOEFMT2JuOTgxUUxzYWpEUV9RT2s?oc=5",
+      "title": "安卓一夜进入2nm智能体芯片时代，高通发布全球最快移动CPU - 36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zN1g3a3dQWHh5UjBSOThpZTBwT1huT0tLTXUwR0gwalNQenR2QzJTX2Uta2gyMmNjYXRGTmd0UjhyZzE5LTUwMUJ3QW9yUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-23T03:33:48+00:00",
-      "summary": "比亚迪发布AI超级智能体“迪迪虾”，腾势N8L纯电版首发搭载  汽车之家",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "3岁小朋友也能用大模型，噜咔博士发布新品牌“卡灵” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzVfbGZUam1PV0tMVUpFMDYteUtYU2JRVFI3S29UbHJvaW5ydElVRjZCelJHV042bmpTWVNTVlN3T1Vtck1Uc3VvS1VOM1p5ckFuSFdGZzYyS3ZHSlprTU9maTJrTG91Y2VUY0ZVVmVRb1JhZHlNZ3lTZzRRdlBlWjVSRzBNeHJ4Y2VrQg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T03:11:57+00:00",
-      "summary": "3岁小朋友也能用大模型，噜咔博士发布新品牌“卡灵”  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "安卓一夜进入2nm智能体芯片时代！高通发布全球最快移动CPU - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWhURzhrR3BjUU9UVnRBeUVseVd2bGNCbmNvM09obFRhRWtNOURRZmVlVXBrMUNxNEY0R0sxeEVDYzlISVl6aUMzdU96Sm5KR3kwVEx2a29SYVk2QlpMUktpNy02OHJsMkNSdWdEVlZUdmp3TkpxSUQ2RWJVdkxoeHRYUWJ3TUUy?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-23T03:09:51+00:00",
-      "summary": "安卓一夜进入2nm智能体芯片时代！高通发布全球最快移动CPU  搜狐网",
+      "published": "2026-09-23T03:32:00+00:00",
+      "summary": "安卓一夜进入2nm智能体芯片时代，高通发布全球最快移动CPU  36kr.com",
       "categories": [
         "tools_apps",
         "chips"
       ]
     },
     {
-      "title": "美媒：Meta新智能体走红但难保成功，隐私担忧、OpenAI竞品将成拦路虎 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9td1RJaWJLZlJDT1lfbWx4SkQzSFRWWGNfTGZrRVNmdkJOVG15d3lBQ1VqeXBmZmo5U04zNFRuaWMyUl9NM1ZjM2lHQzA?oc=5",
+      "title": "Anthropic发布Claude Opus 5.5 性能超前代API价降60% - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrdVhFWkpjSDFXa0JVTkdfMXNZNjl6M2VHNV84MlFJTExlcmJkZ1dWWno5T0NMcWh5TDRCdzVaVFBfQnlMbE9YWEFwUXJhcnB2cms2a0d3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-23T02:55:16+00:00",
-      "summary": "美媒：Meta新智能体走红但难保成功，隐私担忧、OpenAI竞品将成拦路虎  凤凰网科技",
+      "published": "2026-09-23T03:27:36+00:00",
+      "summary": "Anthropic发布Claude Opus 5.5 性能超前代API价降60%  亿邦动力网",
       "categories": [
-        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "title": "5GHz！高通骁龙双旗舰发布：开启智能体AI新时代！小米18 Pro系列首发！ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBreXJ5ekFzTC1EVE9iRzVES051MnBrY052bVFBWUhNcmhfMmMtWWUyOTZDOXkzTF9uZ2dNUzBBM3RqdHZLbk9uZUNZdGRaaUo4ZjU0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-23T03:10:00+00:00",
+      "summary": "5GHz！高通骁龙双旗舰发布：开启智能体AI新时代！小米18 Pro系列首发！  电子工程专辑",
+      "categories": [
+        "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格 - 爱范儿",
+      "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格 - ifanr.com",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FZWVSVjJSZVl6enBrbWxyaXVnY1BIc3BZZ3JDX0JyU0dNNDNEX28yU0I2ODNMNFRfbVlpaHVxZHlWVWs?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-23T02:26:34+00:00",
-      "summary": "Claude 5.5 发布，性能直逼 Fable，还要卷价格  爱范儿",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Claude Opus 5.5发布：Fable级性能降价四成，Anthropic也打性价比牌？ - news.qq.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKS0ZHd3lvUVBseUktQmNfZDlGTjEtejBJeEFQQzJsNnhnUFdJS0dTMngzd0N6OTFVelFjbnUya09XSXkydDJmYmN5YTFlYVdjOUxFYjNfbW5mZ3RuNHh5V21ENUxPVXdFZF9oRnRn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-22T23:57:00+00:00",
-      "summary": "Claude Opus 5.5发布：Fable级性能降价四成，Anthropic也打性价比牌？  news.qq.com",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic放慢AI开发后首次上新：Claude Opus 5.5 能力接近Fable 5.1，成本降40%；OpenAI再推两款GPT-6模型，Sol和Luna价格腰斩｜全球科技早参 - mrjjxw.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93NzdJNjhxRl8wcEpIeER5cVprckExOHhFd1BUbEJMdDFRaEVSUTliNXlZUWtITGRwWV91QVpXeXMwSW1hd3ZiX3BJVE5Ga2JicmZJQ2M1NHdoVFNhdVZ4R2ZnY2xiZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-22T23:51:02+00:00",
-      "summary": "Anthropic放慢AI开发后首次上新：Claude Opus 5.5 能力接近Fable 5.1，成本降40%；OpenAI再推两款GPT-6模型，Sol和Luna价格腰斩｜全球科技早参  mrjjxw.com",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI与Anthropic同日发布GPT-6 Sol/Luna和Claude Opus 5.5，AI模型竞争加剧 - 虎嗅网",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zVnNvYUt1Vm53XzhfNXlmUDNLM3dUWnhaendPal9ILUlpSURyNEZYSlo2UG1fMkdmTWplWHBWakxfUURkYmhpT1ZRdWZkem5nUkhQTDhDREI4WkJmWE1R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-22T23:40:16+00:00",
-      "summary": "OpenAI与Anthropic同日发布GPT-6 Sol/Luna和Claude Opus 5.5，AI模型竞争加剧  虎嗅网",
+      "summary": "Claude 5.5 发布，性能直逼 Fable，还要卷价格  ifanr.com",
       "categories": [
         "anthropic"
       ]
@@ -353,23 +362,13 @@
       ]
     },
     {
-      "title": "Anthropic发布AI滥用报告后 中国监管部门据报对DeepSeek和月之暗面展开调查 - RFI",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNVTdxLTlNR2hBSDhyR2VEbWh1VTV0TFNBZWFEN280bjNrTjVSenNuRVpjZW5VYnY3VElsOVVCaWFlYl9zNVNPTzEySUtTbnB0WDhWWEZSLV9TWWVFNjBvUHZjYkg3SUZUdWhTdDJnMUVkLV9lblhtMFREazNJaW04cFp1LUZqM01qUHhuTlJ2bkxzbDVmd1dUby1tSGczZTJmeWlpZ0ppcExEXzQ1QTZzc09WN1JUNzlFY1Eza2FxQmJFNEZseXdJRTM4SHFHZHNpVzZkcEh6XzVWV1JXQmFaOGxHQTFiNHFRMGNhQ1RtQ0lraUpjbGpsYklJemxkR19oeF9jTU1fYVhfZjgzOGNWMUVwYmtVZmZRWHptNDZpMkgxUjdPUDRxYTRJN1k2cFNqWk5HNkt2RVp5MmFRWnZZRG9SR2htLVNEcHBLZFFxazB3Q1hiUGltRVZJaXdqZFJYVC1pb1FkaVM4b2dydXV2bnRtR04xT1ZsbjVWUG5LUVprQks2U2VHQVNpSlduS2VFWXJKTWQ3TXRmRVlrVGprYlYxMnRKWVdfTjRaSG5YRkNYX1h6ci1INGNnUl9Jc2FrT0RxdFl4YldvUQ?oc=5",
+      "title": "Anthropic呼吁放慢开发后首次上新：Claude Opus 5.5能力接近Fable 5.1、成本降四成 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFQzhaSC1ZQnhsM3N6dTRkQTR2VDlGcmlRZ3A2bHRfYXdUUVViaVdsRk5tVHg0aExJWWd6dERZY0F0cW91aW5TRzBodklvQ2ZMWE5N?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-22T13:45:28+00:00",
-      "summary": "Anthropic发布AI滥用报告后 中国监管部门据报对DeepSeek和月之暗面展开调查  RFI",
+      "published": "2026-09-22T16:33:30+00:00",
+      "summary": "Anthropic呼吁放慢开发后首次上新：Claude Opus 5.5能力接近Fable 5.1、成本降四成  华尔街见闻",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByWUhwdWxKQWYtNUNqemhTbFl4OUsyWTJQYkthQ0lIQ0stbDFneTcyNV9tajQxd01CclI3b3BhQXJhMG5vbnpoQTVGN0tkU28wS0w0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-22T13:30:03+00:00",
-      "summary": "ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事  华尔街见闻",
-      "categories": [
-        "openai"
       ]
     }
   ]
