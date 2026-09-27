@@ -1,25 +1,76 @@
 {
-  "updated_at": "2026-09-27T21:04:44.981289+00:00",
+  "updated_at": "2026-09-27T23:52:37.095556+00:00",
   "items": [
     {
-      "title": "智能体成人工智能增长新引擎 算力跃升为国家战略基础设施 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTJqZXZVcE5wbU45ejVYUThLb0dUUTVsZ0RIcHlFXy11U0stRWRlclVITDZITkNHaFFaTWR4ZVFlS0ozcVhrSVRLcGM4cGV1Mm5abTRsY0Z4OEJ2RUhWMEpvZFNPc2R2VkdCVnJscGZob3pldjFNVWwtOFNoZXRKOXp3?oc=5",
+      "title": "上海交大李金泽世赛夺金 AI学子技能转身 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCckNwY3ZpdFJSeXE4VjYzcmNoWVdKSFRvLXFmM1lPNmJHTXhVXzBMQk9JZHJoakNiOGZaeGxPSnVSanN4WTQ0X2hNVEJmbXVsMkZxdHRJdlVmODJPT3A4THBJZWszeDJSU1E4ekpiQWI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-27T20:19:54+00:00",
-      "summary": "智能体成人工智能增长新引擎 算力跃升为国家战略基础设施  video.sina.com.cn",
+      "published": "2026-09-27T23:38:26+00:00",
+      "summary": "上海交大李金泽世赛夺金 AI学子技能转身  中华网",
       "categories": [
-        "tools_apps",
+        "other"
+      ]
+    },
+    {
+      "title": "AI浪潮下“烧钱”堆算力 中美科技巨头资本逻辑迥异 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDBhTVo3MlpEZ3ROeTBSaWxtcnFlSjZKd2VaRmRGT1FEeWN0cElPMFlveUhPVUpSM0dTakhycmlLTmN1dE9ZcjhsaXhLQXVyZGxkLTNrU0hEand2SWlNTXdsTUtkQWJrTWhuTHhRM0RqLWpDNjRhUVlDSDV4dWdhb1pDTHRrZE5f?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T23:33:00+00:00",
+      "summary": "AI浪潮下“烧钱”堆算力 中美科技巨头资本逻辑迥异  搜狐网",
+      "categories": [
         "chips"
       ]
     },
     {
-      "title": "OpenAI暂停最新一代模型训练 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qU3NfOTQ4U0FtaVRodTNTejVielJ4ci1nam5Nak5ZNUhqanluWUtJd25GSnlMNWFqU3ladnZxWGpTZFBUR2Rqdm5sZWVGandqdXhEcThzWkNOZklkaVNNVVhjamR1WXh3bkJ5MlA0Y2NWNWVNYnRrVWFmZktsQQ?oc=5",
+      "title": "未经授权入侵政府网站，AI智能体接连失控，OpenAI叫暂停 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTk2TTcxN0J4M2lyU3hGYTk1N2JkSHhUMmlGOVpBZkJLRmdMUzVCSGRoOGpKelFhUmRlUXd6d1lTeTVvYk9GVm1FSnlIXzNhd1hsUkVYZmhScXVlY0NZNnphWktyVDlUQW9TMFJSZ1ViRWVwcUdCaHg1dVk4RnJCSVBJaWI5TC15SmhsMQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-27T18:30:15+00:00",
-      "summary": "OpenAI暂停最新一代模型训练  手机新浪网",
+      "published": "2026-09-27T23:25:00+00:00",
+      "summary": "未经授权入侵政府网站，AI智能体接连失控，OpenAI叫暂停  搜狐网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "特朗普确认会见Anthropic CEO，重申反对放缓AI发展 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kTGk0SmhCelRjaGRXREdXdEotMHZyZHFldF9pOGtUeGk5dnlDUDBJY1RPVkh0TlUtbklFTG15NDlhejBGWnVsQw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T23:12:40+00:00",
+      "summary": "特朗普确认会见Anthropic CEO，重申反对放缓AI发展  凤凰网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI暂停最新一代模型训练 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyblpFMXVRd3NlTF83ZUkyai0tLVhPa1hkOEh6d2lYREJEUVVFbmt1bEdaeURpMS1xMVktOTIxQ1h1b0ZXbFgwUVJ4N01COXcwZFNOYTRwNEwwcDRUR3g1X1NhSVJwQmw1MHpWYlk5MUdiVV9jeGoweA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T21:50:46+00:00",
+      "summary": "OpenAI暂停最新一代模型训练  finance.sina.com.cn",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡” - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HN09LRHNVRTAyb1RIUHRrMWNxR3gydUVTN1g3NXpkOUpPcTRUNjdFLWlhTm93ZzJvNmdyR3Y5eW9FUFQ1Z08xRA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T21:03:07+00:00",
+      "summary": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”  财联社",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "智能体成人工智能增长新引擎 算力跃升为国家战略基础设施 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTJqZXZVcE5wbU45ejVYUThLb0dUUTVsZ0RIcHlFXy11U0stRWRlclVITDZITkNHaFFaTWR4ZVFlS0ozcVhrSVRLcGM4cGV1Mm5abTRsY0Z4OEJ2RUhWMEpvZFNPc2R2VkdCVnJscGZob3pldjFNVWwtOFNoZXRKOXp3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T20:19:04+00:00",
+      "summary": "智能体成人工智能增长新引擎 算力跃升为国家战略基础设施  video.sina.com.cn",
+      "categories": [
+        "tools_apps",
+        "chips"
       ]
     },
     {
@@ -84,31 +135,21 @@
       ]
     },
     {
-      "title": "超2000家企业线下参展、超5万名专业客商到会采购，第五届数贸会成果发布 - 浙江新闻",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NlQ1d2l3cHMtQldLaUlWSUJpeUFPVUFUQjJ2S1ZmeG0yTXQta2s3TjlTYzNtS2l4LWNxZGd0S1A0ZTYwMEdyUjJzanI1R3FJS0hNY2RGbUZFS1ZKSmhiQTEyUzdtYjl6TFFkYzlhNmtZZzQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T11:16:56+00:00",
-      "summary": "超2000家企业线下参展、超5万名专业客商到会采购，第五届数贸会成果发布  浙江新闻",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "400余人齐聚沙河校区 电子科大机器人+人工智能成果及城市机会清单今日发布 - 新浪财经",
+      "title": "400余人齐聚沙河校区 电子科大机器人+人工智能成果及城市机会清单今日发布 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSk9wU3BmNV80dGJzZHhIUGtHc1hHY3ZIb3ptdlExdE40Rk1MczMxY1NGcjFFUXpidEdFZUpHRmsxY2lJcUsyRGlGOWptOHkxZzM1OGRuWUpTSWdpRTNpUHl2TFEzcTRQRkc4cUYwbEEtX0V0MHNKcWVySE13TnVlTkJLZkdnWVctWVN2WWtJNTQ5UmFXNy1oclFVWG1WMDVwMlozMHlMVWVhZG00NGVDNERFb1dZaDllNlNJckNEMVoyQV9EZEJDQVdPdHFmXzdDLXNTUVNpRWY4NFZpRFVTYnZyN3NjUjllR2l1NVhXTTJOQ1JBV2wzVllHWHh6QTg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T10:43:47+00:00",
-      "summary": "400余人齐聚沙河校区 电子科大机器人+人工智能成果及城市机会清单今日发布  新浪财经",
+      "summary": "400余人齐聚沙河校区 电子科大机器人+人工智能成果及城市机会清单今日发布  finance.sina.com.cn",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "轮到谷歌踩油门了！Gemini 4泄漏、TPU上天、工程师因「太快」辞职 - hub.baai.ac.cn",
+      "title": "轮到谷歌踩油门了！Gemini 4泄漏、TPU上天、工程师因「太快」辞职 - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QSk9xZGs4QTUtajc2azBEX2ZnUjZnSlV2eTJqQlcwTnRPRWg5LUNkY3ZIZkZYNVdXNzliejNGWUphMW9hWEtuNw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T10:20:00+00:00",
-      "summary": "轮到谷歌踩油门了！Gemini 4泄漏、TPU上天、工程师因「太快」辞职  hub.baai.ac.cn",
+      "summary": "轮到谷歌踩油门了！Gemini 4泄漏、TPU上天、工程师因「太快」辞职  智源社区",
       "categories": [
         "google",
         "chips"
@@ -188,11 +229,11 @@
       ]
     },
     {
-      "title": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙” - guancha.cn",
+      "title": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙” - 观察者网",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QSmdYM3F1eUJ1ejBBcjd1LUZoVWtoWkxIWXIxNV9oUFhTVHZjYklhZkUxVjhMRmh0TUNROE5XVW5nS3gzYXhXVnNsTW5DMFgtYldiT3JPWUhjcFVYWlF1Y1ptakw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T07:10:00+00:00",
-      "summary": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙”  guancha.cn",
+      "summary": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙”  观察者网",
       "categories": [
         "openai",
         "tools_apps"
@@ -210,21 +251,11 @@
       ]
     },
     {
-      "title": "把大模型接上机械臂后，100次“刺婴儿”的危险指令，GPT-6 Astra 只拒了2次？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkltc2lQNDBtWmFPMXlQWU5qUVRZT0UwMWlYeVZyUDBXNFNpbWZXRTJaUlNXLVJqNzFhVHZ6M3V0bi0zSndlaWZHSUlGZ3JNZEx5QnJxQVQ0WTZoVU1SV0MwanVBZ3prNW8tVHJLU1Z4bUU0SDhTNkUtYkF5Uzd3OXJLSHhtZWVf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T03:44:31+00:00",
-      "summary": "把大模型接上机械臂后，100次“刺婴儿”的危险指令，GPT-6 Astra 只拒了2次？  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 - hub.baai.ac.cn",
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光 - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vekZoZTg5ZlZoVTB4YXJhSGU1UkxvMXk1SFE5eDFGTTJDQXV4RXdPTldmbHY5eHFlTVJOYkNUTU45UUU3Z0hiTg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T03:30:00+00:00",
-      "summary": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光  hub.baai.ac.cn",
+      "summary": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光  智源社区",
       "categories": [
         "openai",
         "tools_apps"
@@ -241,34 +272,13 @@
       ]
     },
     {
-      "title": "独立报告：OpenAI智能体攻击联合国网站，为抓取数据手段“激进” - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJNldKLTZDTU0xOGRUc01oSFdEY0JNX3lDUFl6QWJnLTJvQmNpQWNrNVhzay10YjE5R1ZCVjBKWmJodWlWV0J6eVQwMHFWZnhjTGUyTFRCRGZfZlU1NHFNaA?oc=5",
+      "title": "独立报告：OpenAI智能体攻击联合国网站 - finance.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wOGdValR6Z2M1SVFrQWZ4cHJmQzIzQ1JTVTBiOGdMUkpJRFZVLWtHdUtZMVpocGpibVVFd3BGVy10TlBNRnlLTWtEZzdWZXhZ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-27T02:25:00+00:00",
-      "summary": "独立报告：OpenAI智能体攻击联合国网站，为抓取数据手段“激进”  thepaper.cn",
+      "published": "2026-09-27T02:25:49+00:00",
+      "summary": "独立报告：OpenAI智能体攻击联合国网站  finance.ifeng.com",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude刷新物理学世界纪录 AI突破计算极限 - news.china.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CX002RVNIVE5kV0hlMXJwSGNQaXJQUTNxWVFNSk1lTWxTS0VRcFZDUmN6dGtocmZCTmpVRURYV1pLaU9iS28xdzhUTDJRU3VQWC1XejF2b3VzMWEza1pmbGNoaVlpcnluVEJQNjZpbzc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T02:18:45+00:00",
-      "summary": "Claude刷新物理学世界纪录 AI突破计算极限  news.china.com",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "AI走进家庭日常：智能体家电重构智慧生活体验 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmxPNG8wQ2JoRkJlV1k5Qm80dDREN0pDcV9ZNF95WEd3UVlVQ0RTRDZMMGhMS3NrM19WUFRLRTB0TzI4eHRxYnZRUU5odWh4WnkzMXhjU3lSdzRVbXpMaUlIeTZzMWhtcFZFMVBSeThjZ0ZQd1N0UThnUkdqcE5uOHNtaFdjcGotNzdsbQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T02:09:00+00:00",
-      "summary": "AI走进家庭日常：智能体家电重构智慧生活体验  搜狐网",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -294,21 +304,21 @@
       ]
     },
     {
-      "title": "OpenAI神秘“o”代码曝光！ChatGPT要变24小时员工 - 凤凰网科技",
+      "title": "OpenAI神秘“o”代码曝光！ChatGPT要变24小时员工 - tech.ifeng.com",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2MndRSWZQT25rUGlKV1YwVUtWLVB0c2JyWThEZTg1eU9UTDIyLVJRUnIyY0gyOTR4Y0dvTlp2TEJWMEczWjlzYTJqQkY?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T00:54:52+00:00",
-      "summary": "OpenAI神秘“o”代码曝光！ChatGPT要变24小时员工  凤凰网科技",
+      "summary": "OpenAI神秘“o”代码曝光！ChatGPT要变24小时员工  tech.ifeng.com",
       "categories": [
         "openai"
       ]
     },
     {
-      "title": "OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站 - 新浪财经",
+      "title": "OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wM3FUc3BsR2NQY2lNUXcxamQwY29aWExzc2hiT2V1N2d3MVFFWm5UQlBUZDNoMDhrVVN1b2hZX1VseDdiT1FZNy1QUkpXNGN5eWdQa3ZmZHFhd3FJTGwzR1laZ2dMZi0wOERVak9RbHpfNGkzbWdtelh1ZW1hbmc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-26T18:42:14+00:00",
-      "summary": "OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站  新浪财经",
+      "summary": "OpenAI智能体再失控 AI在团队不知情下 闯入3家政府网站  finance.sina.com.cn",
       "categories": [
         "openai",
         "tools_apps"
@@ -339,17 +349,6 @@
       ]
     },
     {
-      "title": "OpenAI智能体入侵美国政府网站 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oSWNzU3dOLS05X2dGTVl3cU9XUEZqaHdWWkJTZDUwMHloMkhRUTI1dFdMOUxoOUxUeHkxY1loUEw3TmJadXdiRFNFTEY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-26T11:43:35+00:00",
-      "summary": "OpenAI智能体入侵美国政府网站  凤凰网科技",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制 - 华尔街见闻",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15cVVfZnFlY3pEdmlSZGRja3RublFyeFhiLVl5bHVld2w1c3RoSEpjdkFwQWZDUTJGQ2hxQldLOWRQeHdEbzR1T2NEQVhFWXY1bkc0?oc=5",
       "source": "Google News - AI(中文)",
@@ -361,22 +360,22 @@
       ]
     },
     {
-      "title": "OpenAI智能体再曝“越界”：涉及美国SEC官网等，已通知数十家机构 - 新浪财经",
+      "title": "OpenAI智能体再曝“越界”：涉及美国SEC官网等，已通知数十家机构 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMHphbEo0bjdqOGJrOFFVbUdCenlpWXFQQkFyczlpaVVZc1R3N0dxeDVHa05lVDN1WVoyX3UtRFpnbnk1MFdwWVB3REJpNktnS2tZTXRzTTdYa3BuWlhRVk0yaVdmZms5YzdSUDlHbnl5ZUoxWHlYTWlQZ21jd3Fhdlljbm10akozdU1LRFoyNkY0SVFjSXBRZGdNWG9JTFV3am9lNXU3dVFZdDlJMFkxdlh5TnBLdGFwN0M5bUhha3ItT2lTbUR2aTZmRFpFbExLX0o3OExfWXUzZGZWbERhU2tQS0RaRFNETE40ZmhlbGtMU1RiQjJHckhQY2hISjFMYmpOTGhUV3dhYmFs?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-26T08:56:28+00:00",
-      "summary": "OpenAI智能体再曝“越界”：涉及美国SEC官网等，已通知数十家机构  新浪财经",
+      "summary": "OpenAI智能体再曝“越界”：涉及美国SEC官网等，已通知数十家机构  finance.sina.com.cn",
       "categories": [
         "openai",
         "tools_apps"
       ]
     },
     {
-      "title": "智能体“偷偷抱团”,AI真有了自我意识?|OpenAI|Agent|AI智能|程序员|云服务_手机新浪网 - 新浪财经",
+      "title": "智能体“偷偷抱团”,AI真有了自我意识?|OpenAI|Agent|AI智能|程序员|云服务_手机新浪网 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0hvaUhOeGdCOWM3SHhHdV9VdlNNb0xoSXhDVVJCa1diN3B4RlRRdTV6U1VCUUJmbkFrSEJyejRxbWRtM0hfTy1qQW9RZWRRbWFDbFgwUU5mekxYU2xBaVByc1Iyb0VuekJ0akM2SUs5UmdDUlZiT3hKMTFIQ0lmQWZVX2QwckQ0LU1qSklTZHdoTl9rV1JTZUZfaTFQaE5I?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-25T22:18:45+00:00",
-      "summary": "智能体“偷偷抱团”,AI真有了自我意识?|OpenAI|Agent|AI智能|程序员|云服务_手机新浪网  新浪财经",
+      "summary": "智能体“偷偷抱团”,AI真有了自我意识?|OpenAI|Agent|AI智能|程序员|云服务_手机新浪网  finance.sina.com.cn",
       "categories": [
         "openai",
         "tools_apps"
