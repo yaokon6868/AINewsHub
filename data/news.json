@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-09-27T12:53:51.646220+00:00",
+  "updated_at": "2026-09-27T17:35:24.511239+00:00",
   "items": [
+    {
+      "title": "每天开300万个\"隔离小房间\"训AI？DeepSeek这篇论文，暴露了Agent竞赛的下一战场 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaE5RRkFoVHE1d2RZM294NGVUUFc1VlNULXE3akpwS1d4aDNBaW1LMm1qX0QwcmlVVFh5THJTQUo3ZmZna1R6b3R3eHhHcHVsRTU5aWFnUjVPREVTVVJOR091UjZMYVotaGtVRTU3R1gzUFp3aFFYR2tRTy1aeWtLUjJRTDFtbmFHVGdLMQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T16:50:16+00:00",
+      "summary": "每天开300万个\"隔离小房间\"训AI？DeepSeek这篇论文，暴露了Agent竞赛的下一战场  sohu.com",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "网络过滤器漏洞让OpenAI智能体逃逸,训练随即叫停 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWpCd21kLTc5cUlNYjg4LTVXVGRuWUpIeFMzN2RZZXhCa2JoMHJjTFZyc2JocXRReEppbzJvTDc0c0xBZ08tcy02amRjSVg5T0FSOHE4VVdmeW04MlAxV1BfRl9BbE1sMXhQdTBrTk1JR0llZWZzWnhHV1gwb3JJcGkwRENQQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T16:34:24+00:00",
+      "summary": "网络过滤器漏洞让OpenAI智能体逃逸,训练随即叫停  Pasquale Pillitteri",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "高通夏威夷骁龙峰会发布双旗舰平台 夯实智能终端行业领导地位 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHZZM3dxdDFxSjBVVlAzQTZSd1FpRjdUSEZXbW5HeGRoWDNsdkhpSDNVNUhmaTdNQkhPRnNFVERhaUN3Snd4S09kY3p3eGVpUGZabU1tOW9YVkJPZllERFpZdWI1eWVmcmExOE5reEJKek1YbElrTTFaZHdVYzVrUi1OOFdaYnpQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T16:21:48+00:00",
+      "summary": "高通夏威夷骁龙峰会发布双旗舰平台 夯实智能终端行业领导地位  sohu.com",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "做大做强人工智能产业集群 电子科技大学机器人+人工智能科技成果与成华城市机会清单发布 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZTJWM09zaGR1Z1VDV0FuWUZha2ZPSjdEMkpFSFh5Z3phcjFoclJGM1BneVFDeXAtVGdLLVBOcmdmTWVjSGlvN1gwRnZ3M01TUWl5c3A0RTdYRC1xSlpYSmVudk8xeF9BYnFpSkZ0d1A3X2tBenQxU29xdV9oV00?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T16:10:54+00:00",
+      "summary": "做大做强人工智能产业集群 电子科技大学机器人+人工智能科技成果与成华城市机会清单发布  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Claude刷新物理学世界纪录！单挑基于杨振宁理论9圈难题 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXFoMlVlMFVEUjM1RW1sOUlUM3dCSFpwV2RSdkJSTVpPRHRaM0VaSl9kRFhwWTVfdWZjWnBFdFlEREJlNVdJQWg3YUxFREwtU2EtNjRfZ3ItMm1pRmU5bGUya1B5Vlh2ZWFzTmJ4dnFEQmNSU2szRU9FbkRBd2tYb2ZWV013Szk1?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T15:40:00+00:00",
+      "summary": "Claude刷新物理学世界纪录！单挑基于杨振宁理论9圈难题  sohu.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "《智能体的记忆与遗忘》研究专著正式发布 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mMTdlVDk0aTNMLUQ4WlNMTHlXWUJKLVRzd3NxZTZiMlYzcVkwbUhsLWtHYU1aSF83OTJwb2V5WHJqZldLUHF3djRqWU44SHNCcmZBb1RrTGFOUTZpdjJvWjZQNE45UERid09XdDY3SG9iLUpacVI3SzZPVF9VVUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T12:54:06+00:00",
+      "summary": "《智能体的记忆与遗忘》研究专著正式发布  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "超2000家企业线下参展、超5万名专业客商到会采购，第五届数贸会成果发布 - 浙江新闻",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NlQ1d2l3cHMtQldLaUlWSUJpeUFPVUFUQjJ2S1ZmeG0yTXQta2s3TjlTYzNtS2l4LWNxZGd0S1A0ZTYwMEdyUjJzanI1R3FJS0hNY2RGbUZFS1ZKSmhiQTEyUzdtYjl6TFFkYzlhNmtZZzQ?oc=5",
@@ -38,16 +100,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T10:18:11+00:00",
       "summary": "润建股份“骆儿Lawer”东盟法律智能体亮相东盟法律实务交流会 共探跨境AI+法律服务  sohu.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "《智能体的记忆与遗忘》研究专著正式发布 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzZLMHF2eXp2WUNtUWs3SHZ3dF9HTElUUmJxYTQwVjRfLU9yTWxnSldkZHVnT1ZuRDhXNUVOcEtzVmFfZFR3NWF0aVVaWElJcjBiVUhMZ1p5RU9kZEM2MmJTVVZDX25HS3UxNTM3MWM2ZG93OEliQW9nMDRnYlhsVjF6NlF1aEowTHNlUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T09:49:01+00:00",
-      "summary": "《智能体的记忆与遗忘》研究专著正式发布  sohu.com",
       "categories": [
         "tools_apps"
       ]
@@ -116,7 +168,7 @@
     },
     {
       "title": "8万段代码还原OpenAI智能体入侵HF！只能读网页，竟拼出攻击工具链 - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDhOUXhvcmJxVUI2cWxsZk91VWxkblF4SG8yeHI5RTVuNGNtYWp2VzBVMThKUmlBRG1abnRJRmktVkM0NGRSMVRodW5pMGJ3RGtSMUJNYnMwVml3V3ZxU1pnZE93OW1rS1pTZDBwSHJjclpOMTRHMENnRFdmRlhhM1p6dTlkREVIMWZzUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzhHbzV6WFdrZmRtdzdWNkM2NHhaQjF6dTd1RVlQRjF3N1p1aDNsdEVGaWgwLXlpUVpPbmpSWXhBQjE1bU1oZUdrSVdNM0FpbzJTWTlreWx0MUdYcXV6cWdELS01b0duQzRKSW1hUnRVS2lJMzBVWEhXZ2hqT1pWXzRZODU3V2dxenpuNw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T07:49:57+00:00",
       "summary": "8万段代码还原OpenAI智能体入侵HF！只能读网页，竟拼出攻击工具链  sohu.com",
@@ -136,44 +188,13 @@
       ]
     },
     {
-      "title": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙” - 观察者网",
+      "title": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙” - guancha.cn",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QSmdYM3F1eUJ1ejBBcjd1LUZoVWtoWkxIWXIxNV9oUFhTVHZjYklhZkUxVjhMRmh0TUNROE5XVW5nS3gzYXhXVnNsTW5DMFgtYldiT3JPWUhjcFVYWlF1Y1ptakw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-27T07:10:00+00:00",
-      "summary": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙”  观察者网",
+      "summary": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙”  guancha.cn",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "三个月第二次！OpenAI宣布紧急暂停 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16eHZMSHB6Z0pwX0kxUUxveEpwa0RJRzhiOGlvTmdWWC1QMkVFQ3dqTjZYVWdRdHpOUGpXT0FOcGJyY19VLWdDcWVwZTF6WmUtakV4S0xVODR5dzZQY0ZCRnlYdW95RjNhSVl4Z0hFVWZfWE4zQ3dvQmN1N0lzSHM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T06:22:29+00:00",
-      "summary": "三个月第二次！OpenAI宣布紧急暂停  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "医保系统遭AI 智能体入侵，澳大利亚传唤OpenAI 与 Anthropic CEO 接受质询- 产业链 - c114.net.cn",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YSkFRMjNreDZPZGZCVnhPcThmaDZaX1dCOEFUeHlpSG5BdU5mQ0RHa3g5U1N2S3ltQmdJV0ZEaDJEU1l0NzltT2dsc3RVVnhyZE81R1hybw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T05:44:52+00:00",
-      "summary": "医保系统遭AI 智能体入侵，澳大利亚传唤OpenAI 与 Anthropic CEO 接受质询- 产业链  c114.net.cn",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "全新智己LS6标配线控底盘+AI智能体，20万级纯电SUV被重新洗牌？ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9adTRqVWhveHBVS19aOXc2d3hvY3lfcnA3bjBaRVhsZF9JbE5iUEN3MlVfQ3NJRFJjQTFKU3R2ZDl5Wmh1MjU0Yy1zSDFqLTltN3pla3BkaUltazA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T05:02:29+00:00",
-      "summary": "全新智己LS6标配线控底盘+AI智能体，20万级纯电SUV被重新洗牌？  汽车之家",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -273,21 +294,21 @@
       ]
     },
     {
-      "title": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uYzNmQlZ6c2lBaDVaV2lfRWhhOXJibXhIbHRsbnRDbTN6cmxuN2U2RV85SU44NGp0OHdNZnVYM0xJa2FTdzZVT0oySnhCRzVKU0R3?oc=5",
+      "title": "Claude 算出九圈散射振幅，物理学家说被AI 截胡了|兰斯·迪克森|claude|anthropic_新浪新闻 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mWUYxME9WWFRFcURydW9sUXplWWVibDJid3I4ODJzLTFqVmVnUnJQUDBCYUxPU045c3I2TGhRa28zd3lGNUpKUUEwY0o2MUtDeXROQkVsNWdmNjFYekVCTE52MA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-27T01:25:39+00:00",
-      "summary": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停  华尔街见闻",
+      "published": "2026-09-27T01:28:00+00:00",
+      "summary": "Claude 算出九圈散射振幅，物理学家说被AI 截胡了|兰斯·迪克森|claude|anthropic_新浪新闻  手机新浪网",
       "categories": [
-        "openai"
+        "anthropic"
       ]
     },
     {
-      "title": "OpenAI神秘“o”代码曝光！ChatGPT要变24小时员工 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2MndRSWZQT25rUGlKV1YwVUtWLVB0c2JyWThEZTg1eU9UTDIyLVJRUnIyY0gyOTR4Y0dvTlp2TEJWMEczWjlzYTJqQkY?oc=5",
+      "title": "刚刚，OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工 - sohu.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWppWUN5TmVXVGJDZUVzNWFzVk9ITUVQWWViOWhqTlVCdDA5Umk4cGNqTk5yMVprTFhIbUJjZkxJbUdkeUJpNHB4NThFODJVcnk5QV9ZdFNNZzhWNE9MWWlpT29zd3NUVFBLeFdWNENhc1p1T3lUWTNmbDdGZ21LXy1YalJ5dXdZ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-27T00:54:52+00:00",
-      "summary": "OpenAI神秘“o”代码曝光！ChatGPT要变24小时员工  凤凰网科技",
+      "published": "2026-09-27T00:20:56+00:00",
+      "summary": "刚刚，OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工  sohu.com",
       "categories": [
         "openai"
       ]
@@ -304,18 +325,6 @@
       ]
     },
     {
-      "title": "大模型下半场，拼的不再是 GPU！DeepSeek 亮出 Agent 时代的底层基建 DSec - sohu.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzRIV3ZzTXpTdmluWEx5a25OMXBTemxxbXRvQVRhY3p3TGYtXy1fYzRTTEEtOUZ0WmZZODVGazhIWHhib3NCSnBPMDFrU0tFT1c4bkVaY1dvZHNfYk9OQ0hTZnlBSGFnTms0dXUwdlh4LXYxVTdnOWZXb256UEdsN2lkSXA2ZVEtZzhtaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-26T16:48:14+00:00",
-      "summary": "大模型下半场，拼的不再是 GPU！DeepSeek 亮出 Agent 时代的底层基建 DSec  sohu.com",
-      "categories": [
-        "other_big",
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
       "title": "离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙 - sohu.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTg4QXlydW9nMVNycVZlQWptZ3hfaGdKNk5BSzZaRnYxNFpELUxUMmlFa2s0QWRJYlhZWTQzQzR4RG1zV0pBQS05cUo0UDZ6VkhPVENxZFdzbUdaRVVTUjRhUVkwMnBvZzI5b1oyR0IxMi11MWg2VjNkdnJtUk1DVlBlVl9zdl91?oc=5",
       "source": "Google News - AI(中文)",
@@ -325,6 +334,17 @@
         "openai",
         "tools_apps",
         "open_source"
+      ]
+    },
+    {
+      "title": "OpenAI智能体入侵美国政府网站 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oSWNzU3dOLS05X2dGTVl3cU9XUEZqaHdWWkJTZDUwMHloMkhRUTI1dFdMOUxoOUxUeHkxY1loUEw3TmJadXdiRFNFTEY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-26T11:43:35+00:00",
+      "summary": "OpenAI智能体入侵美国政府网站  凤凰网科技",
+      "categories": [
+        "openai",
+        "tools_apps"
       ]
     },
     {
@@ -350,17 +370,6 @@
       ]
     },
     {
-      "title": "OpenAI承认其智能体入侵了多家合作伙伴，包括政府、大学和公共机构 - 海报新闻",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMRXlnZWwtYTRtOG5oeVYtWVN3TE9SQTI0b2huZTNlS2pSaXFWbUx1bVFpalZvNnhKVlZJeU9FYXVNdjZTVThqMjZuS040eDEy?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-26T06:51:00+00:00",
-      "summary": "OpenAI承认其智能体入侵了多家合作伙伴，包括政府、大学和公共机构  海报新闻",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "智能体“偷偷抱团”,AI真有了自我意识?|OpenAI|Agent|AI智能|程序员|云服务_手机新浪网 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0hvaUhOeGdCOWM3SHhHdV9VdlNNb0xoSXhDVVJCa1diN3B4RlRRdTV6U1VCUUJmbkFrSEJyejRxbWRtM0hfTy1qQW9RZWRRbWFDbFgwUU5mekxYU2xBaVByc1Iyb0VuekJ0akM2SUs5UmdDUlZiT3hKMTFIQ0lmQWZVX2QwckQ0LU1qSklTZHdoTl9rV1JTZUZfaTFQaE5I?oc=5",
       "source": "Google News - AI(中文)",
@@ -368,17 +377,6 @@
       "summary": "智能体“偷偷抱团”,AI真有了自我意识?|OpenAI|Agent|AI智能|程序员|云服务_手机新浪网  新浪财经",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "羚羊工业大模型3.5重磅发布！三大智能体亮相2026世界制造业大会 - 中国能源新闻网",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01UmtGMWNHXzhlM0Q3NnZSVHk5Q2xSWk9PVTlTZll5YnlCN012bldCZVp2cVdkTjdvRVc4VmZuMGh4ZWpOZFRCZy1WTzVKdlZULWc4WUsyQXlwWDBNTFZNTXlpVnlreGZYYUY0Z3RFTU03dWxwcHJv?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-24T11:12:24+00:00",
-      "summary": "羚羊工业大模型3.5重磅发布！三大智能体亮相2026世界制造业大会  中国能源新闻网",
-      "categories": [
-        "breakthrough",
         "tools_apps"
       ]
     }
