@@ -1,52 +1,250 @@
 {
-  "updated_at": "2026-09-28T11:10:06.187574+00:00",
+  "updated_at": "2026-09-28T18:40:41.843075+00:00",
   "items": [
     {
-      "title": "人工智能脑机接口标准发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzdfRFY3M2h3aFRyMHhKWFhGOVpPRkFBS0NRMGV3N2szVVoyYkdlT3Fzdkw3OE1xYlRLdmE4RExYNjhLSi0xWFp3NEZ1N0g2ejZwVV8tQi11YktwejFUampSb185dlVUQm5kaDRHbEVRcWFCenhySGF0ZDBBRmQtS1VlLWVNNjBCYk1lYQ?oc=5",
+      "title": "Anthropic发布Sonnet 5.5，为Claude 5.5模型系列的第二款模型。Sonnet 5.5的运行速度显著快于Sonnet 5，并且是Opus 5.5的低成本替代互补方案 - wallstreetcn.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90d1hpa2ZUOW1IclpST0dMclNjb28xQnNqanRETlpvdHRIT1dpRHZlcl9ZdVdsLU90LUd1ZzJWaDFnQU4zQU1DcWZkMjR0Uk9ZR3I4?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T10:50:13+00:00",
-      "summary": "人工智能脑机接口标准发布  搜狐网",
+      "published": "2026-09-28T18:01:54+00:00",
+      "summary": "Anthropic发布Sonnet 5.5，为Claude 5.5模型系列的第二款模型。Sonnet 5.5的运行速度显著快于Sonnet 5，并且是Opus 5.5的低成本替代互补方案  wallstreetcn.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "英伟达发布开放智能体安全平台，保障智能体从测试到部署全流程安全 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeU9iaE9lNDYzVDgzNUdDaUxNeFlpbG1tR3FWc2plRVNPV19ITXRXbWw2a1daQ3N1U3lzdDJDMUZRTjFXclh6ZE1tdVoxZnhIQUdyT2s5R1VLVGZNaVN1LU40RnZGeUF1ZVVETWRHVXhUR1R3czZtU2dwR2RvQXhORkpKOHpQVUpv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T15:56:50+00:00",
+      "summary": "英伟达发布开放智能体安全平台，保障智能体从测试到部署全流程安全  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI智能体将目标对准联合国网站 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55QWZ2VktWbFVrZnJmXzRSN2MwSGhkTktlMV9qTXZERkx1SGxvbE9EMDlkd3FRRUhXbnJWUG5uU05QT3RoVmhWa0RhdXlHVDFFamdFRXN3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T15:14:55+00:00",
+      "summary": "OpenAI智能体将目标对准联合国网站  搜狐网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "消息称小米大模型负责人罗福莉晋升至22级，已是小米职级体系最高级别 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFczMFNHUjgxNmxZdFVJUXFqMGxXVXFkQS1Qdjc5XzFYQXpfWURhQ1RxWTIyN0tudjY5XzJJck00cE5DdUg4b1ZZblpQVENTV0htRERJeUlJRDg0enVha1BQSWw3bS11eW91cGl0YURQbWdCT2FORkZZcF9xVE8tWHh1OVdkalBYR25Uaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T15:07:45+00:00",
+      "summary": "消息称小米大模型负责人罗福莉晋升至22级，已是小米职级体系最高级别  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Cerebras用2400次实验证明，大模型训练也需要这个\"老古董\" - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPclRjVk5jcDlHVU81dDNGNVA0ZDMxRjAzMEdxd2FfVFRwRWloVG9icUpzX1B5WDUtZ3NsSEdETUpTZ1JQY1BzTHE0WHU1ek1WSDU0V2FfMjlLTTJqVjE1MXJ2SEQzZVdnRXpIazVpQmJyYUdLZFZJMTFGOS1ybjdnZnpRcm1ncndsT2FSQg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T15:07:17+00:00",
+      "summary": "Cerebras用2400次实验证明，大模型训练也需要这个\"老古董\"  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "美国政府网站也被入侵了！AI智能体失控风波持续蔓延 - 安全内参",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QeHgxaEdZd1o2NmNqZWR0S3I0UzI1ZzFwc3UyT0RGTnNjYTYxbUZ0ZGdVRG1XSS1Zd29fdHNyWlRYVVpPdjVNX2Y4dTRCUQ?oc=5",
+      "title": "Gemini 3.8 Live推出虚拟形象功能，让谷歌AI拥有面孔 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVc0d29ud0lTVVYycGhfU192Uy15X1RTNlFDYXh5N29VNVYtZkN5azVEWjdYNlNZLUZrSEVOUGZvbU9jSzJKTmc3bXZUcWxJdnZFUG5pcXQ2aE5icTFuSVNkZVgxcTVlVEpaMGJLTlhaVngyMzA0SERBck01cnNsWGhaMmdMd3ZQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T10:41:15+00:00",
-      "summary": "美国政府网站也被入侵了！AI智能体失控风波持续蔓延  安全内参",
+      "published": "2026-09-28T14:44:00+00:00",
+      "summary": "Gemini 3.8 Live推出虚拟形象功能，让谷歌AI拥有面孔  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "限时14.99万起 搭激光雷达与豆包大模型 深蓝S07 AI激光版正式上市 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaRExicl82UXB1OFlhbWlkZjdVVGx1Snkybjc5cktRZ0pyRkxKdWp6MmJXSm5DOVpRT0pWNGVkZEpzbWY4cmROVHdpMUFJYjRMMGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T14:39:02+00:00",
+      "summary": "限时14.99万起 搭激光雷达与豆包大模型 深蓝S07 AI激光版正式上市  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "Claude Code现已支持OpenAI的Agents.md指令格式 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGcxd2hVMTkwdjJvSTBSMm83VEdURllUa21QR0M5eThteVFfMHJlNFBtQlk1bGZmdElpU21DYXNtWlNJVHc2WjhHblppR1ptbkdzdEczYVc2ZWxSUHhtcHJZWGZhc1BELUI0MmlQeFBDRHlLV1dTdVI0TFlDMkNKWTZzSUFpWEZk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T14:37:00+00:00",
+      "summary": "Claude Code现已支持OpenAI的Agents.md指令格式  搜狐网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "如何自定义你的AI工具，从ChatGPT到Gemini和Claude - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2dhLUg0QTJJaVJhN1RRR3FRbTZmaEkwbUdaaVF4RXVWb2k2N0k2eml0ZWphTGo4czJrTFZjRzN5aGVJc0tXdnR5dVN6MFlNMERRdW1BZGRtRDFxV1d6QU5ZT2gxRzg1X0pTcXJZSWJRVmIyelBDZkVXWC1HVFlvNllvR19MVlNj?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T14:26:00+00:00",
+      "summary": "如何自定义你的AI工具，从ChatGPT到Gemini和Claude  搜狐网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZEppNS1CUVF5ODdsV3dlZl9PanM2cWFiZWl2M1FNVlNuWHJWSUJUYmtHaGUzUzVCQmRZWWNOVkgyNEh2U2dkbUJEVlVEZWRKT3FrUVZpVXlHV0lCRVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T14:20:01+00:00",
+      "summary": "Cloudflare 推出智能体开发栈生命周期，以取代传统 SDLC  InfoQ-CN",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "CoGoLinks结行国际正式发布“全球AI生态收付款解决方案” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXFTeDZxLWhqWG5HLXdKS1NXY3hpNHZmZFZfMDFEa0UzcldsbERaaUxSdlZVVlY4dVR3eXpwaHFuTXhMWHdPREVScVFyWXhISDRRQm4zbHpDRWlxRndCZkpTS185b0pwMU5obXlxZUZzbnB5NHJTQU53Z0R4YWhIUXFEWWNyQU5i?oc=5",
+      "title": "英伟达推出Open Agent安全平台管控AI智能体访问操作 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnVqT1FxajdyUkF5dGtiUV8wUjZVNXZJSmxFQXRzelJ5a0hkaklRdFRSdm0zR3RPZ2RySzRfdkM5bE9lVGhOQ3FXTTV4SExZa0hzTTZUb1FFdUZZVnpoTnJtRVZQcXVXSEpvTnJYc0JPOFpVWWp4bWtfZjBxNEVsYnhR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T10:32:00+00:00",
-      "summary": "CoGoLinks结行国际正式发布“全球AI生态收付款解决方案”  搜狐网",
+      "published": "2026-09-28T14:18:26+00:00",
+      "summary": "英伟达推出Open Agent安全平台管控AI智能体访问操作  video.sina.com.cn",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "【视频】激光雷达端到端豆包大模型全新深蓝S07 AI激光版14.99万元起售 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZDRuOVprU3FXNUVhUkE1VmY3VUc2a0d0VThDdVB1c1JyZGcyS1ZHRlFldm53UHBDYUdnTTFwckxIeXhDVzR6b2I3ZE5PNmFtVVZHU2ZXTFZxSTA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T14:05:28+00:00",
+      "summary": "【视频】激光雷达端到端豆包大模型全新深蓝S07 AI激光版14.99万元起售  汽车之家",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "大模型练好“通用能力”学深“专业课”走进千行百业 将技术优势转化为产业发展新动能 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR18zcldfVnQ4MDJyRkdiTS1YUG1qcWdEbm5NSVg0NXZLbW5EUzVrQ2NWV3VzYkd5czVvb2VNSS02TGVVMFRJRzc4OHk1WXBwRnRYbFBlakI3cTZES3ZxdndaR2VzU1JGU092c1pKSkdxajdrazFvMzhfaFozQm03MTd4TGVSSDNCVFpFWg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T13:36:18+00:00",
+      "summary": "大模型练好“通用能力”学深“专业课”走进千行百业 将技术优势转化为产业发展新动能  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "最新发布！事关洛阳所有中小学 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDJoX3dsM0lsVFZKc2lhOTd3cUJqcTFaVXdIYW9taWdLTVZzeTl2RWE1d3JXcVgxcWpOdUVEWmR4V1dGbGNkTVFXRFBvbXRtbXE2SWhSRVR1WHlOZ0xMN0Y3VUVBQUN3RFNqdFdIQWNHVUpxOEhlWm1od1R4dHZVQzRrTHdONU5CTjRLd0ZVQVlCc2xiR1BLeQ?oc=5",
+      "title": "为了智能体AI，高通「新造」了第六代骁龙8超级至尊版 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFBEeXVGRjVxdzlGWlBFUlRLZ3VQQ202U1FNSkNCdkdwSnNXbUozdUFoOVVRcGdJR3NTOWdqOTZqYUZiVFRZSGp2b2NsTlp0dTlsSnByaVFFZGo4a0RiQ250c2U3TGI4MnN1Z3h5U1huczlMMDd2bWpFZU0zbXBNbW9mejlINGRM?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T10:30:51+00:00",
-      "summary": "最新发布！事关洛阳所有中小学  新浪财经",
+      "published": "2026-09-28T13:33:24+00:00",
+      "summary": "为了智能体AI，高通「新造」了第六代骁龙8超级至尊版  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "个人AI Agent，巨头们的新赛场 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmZ5aHlwa00waVh3SzhfQ1FGS3Q1NmdKR2tId2JYM1psS3A2cGFENTctNnRoM0tNQ3RtNGRkOGdFSFJyLUVzM3JsRGFtaXZnQWtMQ0lKM3gybldCTWIxUUVlVVBPLUR4OVg4M2otM2hqR1c1cXdEWHhkRnpYX1pRY3NsTVhXcXJDQ1FSbVdXMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T13:08:00+00:00",
+      "summary": "个人AI Agent，巨头们的新赛场  21财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic 断供，国产 Coding 模型的中场战事开启 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WN2FCemVPeXVlZG56ZXB2Q0l1ejczR1Bya0VESTFrckk4Y2xuZEdaRGtZSktrUVFPX2RLWkNVemFqaXV4eFpfalh0VE8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:59:24+00:00",
+      "summary": "Anthropic 断供，国产 Coding 模型的中场战事开启  极客公园",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "海光信息联合厦门大学附属第一医院发布全国首个通专一体医疗大模型“壹问” - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tLVlIVGxLYUh6cW80MkdtNkpqT0FJeW1LN2FIa2NSdWxlQllwZzVZRTlZaFJLWEdWdDRnSGZxV0lMUE1OaVZWVm81aVFMWVBQZnpIaDI4N1E0bk12YkNsclh3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:59:20+00:00",
+      "summary": "海光信息联合厦门大学附属第一医院发布全国首个通专一体医疗大模型“壹问”  观点网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "DeepSeek V3.2 发布：长文本能力新突破，API 价格砍半 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwOUxEVEZYMThmMEhxa3VJM0hHLTJxaDk2VjVHMFBvSDBDSHl0WWV5MmE3YjNlc1lxZUE4eVhEMnlpU2pFbVRSWHR3NTY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:58:54+00:00",
+      "summary": "DeepSeek V3.2 发布：长文本能力新突破，API 价格砍半  极客公园",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "豆包大模型 1.8 发布，通用 Agent 模型成为了 AI 行业的新叙事 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tUWZYZFhzbkZMRHBJQ0R2TVZsZ0EzUGZkd0swc1o1RVpGRHJsOHIxOXVlTVhna1oxck5SNURsdHNzdVZHUF9aMjR3bWE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:49:21+00:00",
+      "summary": "豆包大模型 1.8 发布，通用 Agent 模型成为了 AI 行业的新叙事  极客公园",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "对话阶跃AI：做桌面 Agent，要比 Claude Cowork 往前一步 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnMk1iY3RRWFE5bV9oQ2ZBcHVJMFc5Yk9GZHhyWkZ3emt1Vmh1LTZ4REMwUk1RbDFCUFI0QWtzbGs0R0dPcHFlTTZxdDM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:48:51+00:00",
+      "summary": "对话阶跃AI：做桌面 Agent，要比 Claude Cowork 往前一步  极客公园",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "全新深蓝S07 AI激光版正式发布：豆包大模型+6C超充 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYnBtTnZvZDNYR0NjSTZSUzRUZkdJQTE1ZG9DOTY1SnJpNEdGZ0J3dWs4SHNqckpkZGJEN3VBMTdUX2NUTTBoWXZtc3lObVIxd0FESkE3WFZUNHJoSVZGc09McEZ1T0ZRdXJSN2hTbkM0NWZZM09MQ25ZQWk4Smp6ZzFFTFNFQ2lf?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:48:00+00:00",
+      "summary": "全新深蓝S07 AI激光版正式发布：豆包大模型+6C超充  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "OpenAI智能体暴力扫描联合国网站1.6万次，还学会伪装绕过限制 - 华尔街见闻",
+      "title": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUpSS29URzJMaVh2OFZMaEJSSjhlbW0wSmxQUmRFQlBhdXVGMmtLMDRTTzVzcGxrVUdtaWU5dTBaQURHRUFGNVgySDBiQ3RPZU45blNUS0RfMWVRdVY2WTJVSEVFMmxrd3F2SkJsOVEzVU1BVDluT0FGdy1mbXFRTWtNRlFvbmxyUjJCcQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T12:35:39+00:00",
+      "summary": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "英伟达发布开放智能体安全平台，全流程防止AI智能体“失控” - thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90Z05hTXZ6OFFNT2J4eW5WRkpLN2NldUUwYXJHVmQ4RjBmY1dQa1hROUdDd2ItTkFnZE0zc0RYSi01bjNqcGJfWE9UVXRnLXJjc0ZZUGF4OGcxQ3p6bi1Meg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-28T11:42:00+00:00",
+      "summary": "英伟达发布开放智能体安全平台，全流程防止AI智能体“失控”  thepaper.cn",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI智能体暴力扫描联合国网站1.6万次，还学会伪装绕过限制 - wallstreetcn.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zTml6NjFMQ3BBNmRxallYUEhqdm5hS0dYZTVaZVl3MWFwZG94c3R1ZmtDV2x2Tk9PMGo5QUZoNzNVRlpMVm5vMDBUSEhZa3VuRE9r?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-28T10:23:45+00:00",
-      "summary": "OpenAI智能体暴力扫描联合国网站1.6万次，还学会伪装绕过限制  华尔街见闻",
+      "summary": "OpenAI智能体暴力扫描联合国网站1.6万次，还学会伪装绕过限制  wallstreetcn.com",
       "categories": [
         "openai",
         "tools_apps"
@@ -64,168 +262,33 @@
       ]
     },
     {
-      "title": "英伟达发布AI智能体安全平台，可实时隔离异常智能体 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RTU9xYmhIQWViNllrYUFUUjc2dkpYMFRvU1g5eVZUaWlYRk8tZFJrbzJVMUV5UjJXeFdkbFpNUThOR1R2NWlVM2YyT1RjeG1WekpULWc2X1hQaFNHcllRak1DZThxUVhyeWlPNlZPaklTQ3o5WWsxMHVIWlU1YjQ?oc=5",
+      "title": "英伟达发布AI智能体安全平台，可实时隔离异常智能体 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0pkV0tJR3BrOU1rb21jU1V1dVhkdzU5b3Zrc2N6S3RGR2pFOERXRF9pempMY2Frd2lyVkh2UWJwaXhXYnNYT29IMk01S1Y0djFpYVZ1MmhFU2stNmhneHlyN1dzY1VEbVlyeF9pNjBQRjdPMFlLd1VrdVNCeGZJZG01WEFjYllC?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:57:33+00:00",
-      "summary": "英伟达发布AI智能体安全平台，可实时隔离异常智能体  手机新浪网",
+      "published": "2026-09-28T09:33:59+00:00",
+      "summary": "英伟达发布AI智能体安全平台，可实时隔离异常智能体  搜狐网",
       "categories": [
         "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "AI智能体周报：姚顺雨兼任腾讯AI Data部负责人；爱奇艺辟谣“请勿眨眼”广告截图；豆包手机助手致歉… - iheima",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRdmcyN1dKOE1wVzd2SFNNUnd6YU1LUEVCTXZxbTl5ME52TTI3SGx3ekhQTEJzbnNqWllnUmxtcmNKSGFkUFJhdkp1aE1nTVZEVi1j?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:53:00+00:00",
-      "summary": "AI智能体周报：姚顺雨兼任腾讯AI Data部负责人；爱奇艺辟谣“请勿眨眼”广告截图；豆包手机助手致歉…  iheima",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ya0JLUzhDSlNfQ3VNOVFuQThYTHFUUVp0ZGRDeEZSaDdQdXJ3WTR1T1gwcmlELTQ1b2d2TTFpMzhZYU5QVXhwWllPRTIyOFJaa3pQbmE0UUhNRUJPZzlnR0JR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:52:19+00:00",
-      "summary": "移动云&启明星辰大模型应用防火墙筑牢金融AI安全底座  同花顺财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI大模型/智能体板块9月28日跌1.89%，优利德科技领跌，主力资金净流出72.23亿元 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTAyMXJBeG1CdGRSZk1kN2dJVm1UWDNvcnhQSlVWNm1vbTIxazJPMGRHbTg4TldoNXpIUVMtSExSSndaRng1RXROTVNjRmdWdGktRC1EREtxSERPNkJvRnl0dmJ0RURhUlRTdFB0Z1FBbjZRaGdRZFRuTTR6VV9fXy1jd0ZCazlObnNrVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:48:32+00:00",
-      "summary": "AI大模型/智能体板块9月28日跌1.89%，优利德科技领跌，主力资金净流出72.23亿元  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "每日互动数贸会首发MUMO城市交通大模型，太空智能赋能交通治理 - xhby.net",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBleUd6UFBIc2thNGg3U2ozUms3bktPTWNaU2Vnejk4QU1PTXE5eVMxa0JKZ2QzNFlZVDh5Tk9UemVmVTdraTJRS1M5Y2x6aUh4WlozcHE4VkFVVkpKaFREc0R3dEthYzRQaTd3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:46:00+00:00",
-      "summary": "每日互动数贸会首发MUMO城市交通大模型，太空智能赋能交通治理  xhby.net",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "英伟达发布AI智能体安全工具OpenShell和Sentry，用硬件锁防AI叛逃 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16aXBGMDdIaGJHeTVuNlVJSGR6MmFnMFFtaFhEWWltQjJyaFdwUmdZOGVlZkNSc3k1MEI0RHJYbFptLVllYWs4WkF0cDhISGpP?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:18:01+00:00",
-      "summary": "英伟达发布AI智能体安全工具OpenShell和Sentry，用硬件锁防AI叛逃  凤凰网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线 - 极客公园",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15LWMzN2lnckxJVGtCc0ktYlRsUG1JSTNOOFUzQm5ZZW9YNWhtM0R6OGJFZUlZUms1Qmh5NVk1TWlRVUp2MFlTQUU0bHk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:16:57+00:00",
-      "summary": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线  极客公园",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "英伟达推出防止AI智能体失控的新安全系统 - video.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGlZUkZOd3p3OTZYVk9MbS1RRnlyb1lkdDkzQ0hDX19KRjBFWTdwUGhzVWtSTVdlUXR2UWdNY0NWbksxdF9WdFlfZVFPTFlvNkpBMlRvcEMzME53Y0tKNVI4MV9fdmlUdXg0LXZlLUx0a2xES3VlR3B1SXdoZ2RKUUd3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:13:16+00:00",
-      "summary": "英伟达推出防止AI智能体失控的新安全系统  video.sina.com.cn",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国科学院发布“十五五”规划：积极拥抱人工智能 - jpchinapress.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXdPcWcwRVdYeGFEclM4bGhPQVJZYk5zOEN3UnZGZDlRbktJaUpSOEpxekFXcWV0emNkRkdWRV82WVp0cU5FS0hDY212Mm9KYnZOMXRFbU1uMGN4RWt2MklINXVlUnp5dVRSYlJ0clpHRTgxZmxCS3Vwak5SSnlOMlkyNVVfVEpJUUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:11:09+00:00",
-      "summary": "中国科学院发布“十五五”规划：积极拥抱人工智能  jpchinapress.com",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "当大模型开始研究整数规划：34个开放性难题迎来突破 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWVYLWY3VU1rVHp3Y09qNmdiNV9yVl9GYzZTdDNZUHA3VVNnSkpXOFRxNmRRVUNJN2hJeVhyc3JGXzJJb1ljdWVLdjJ0cy1zaVZKYXpJRTNqTFZqZGItblFuZzk5dlVpNl9CajNidG9vVlZwUFVGU2FLaXp0NUU2X3dCU05qNlIw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:09:43+00:00",
-      "summary": "当大模型开始研究整数规划：34个开放性难题迎来突破  搜狐网",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "AI接连“越狱”点燃网络安全板块？机构：安全与隐私或成智能体关键约束 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGNFclRBVjdWamIwMEZJYkFveWNmTGZ2M3BxekwwSUxod3RxbFI1aWI4VXVySFpwYmlhRndCMVJESHJocWg5N2RnUHR3bG5Vb0RVTVJTMW81ZjJ4R0xIM3BxaXhnRVdRNGdkbEsxamZYQ250cndONy1TZkI2ek9tWUpvZ2JsMVFPTkdwSTllVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:07:00+00:00",
-      "summary": "AI接连“越狱”点燃网络安全板块？机构：安全与隐私或成智能体关键约束  21财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型越用越乱？连连智枢给出这样一套解法 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmJVNUNvM3FKV3VVVllPVXpzTl9zYTh3dFB1bFZHaXp2a0tVZFVQbFNaMHUzS0x3TXE3bExTYTNFamlzWExGTU5ZeXBIUGQxdE1pRG0xYlNIUmRzTEVaRHk4ZDdjbEFKNlJJRnpkT3lUWkllWDBNRG5ZNG1xdzZwMlNiU0RoMlN3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:02:19+00:00",
-      "summary": "大模型越用越乱？连连智枢给出这样一套解法  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "英伟达推出旨在防止AI智能体失控的系统 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqaE92dGtwX3dQbUpSdkNydDVBLVMtb1NmNi1yR3NuakhnekNoOFVCTGRVLWNTclRNZ0g4QlVWMnB0WlBOaXprSGJKM2d6M3dySmVV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T09:01:41+00:00",
-      "summary": "英伟达推出旨在防止AI智能体失控的系统  华尔街见闻",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "荣耀Magic9系列发布 与阿里打造397B智能体大模型 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUbHFBYzMxSjFPRDBMcmlqclRvMUl1b2t4a0FMZTBGSnNybllfdi1UVklBM0JWRERQRDZ1YTlxaHRzSTZDMWJ4XzMzN0hGUVV5NFNLbHhueXBTRm1HRmJ2WGZLc1IwZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T07:59:45+00:00",
-      "summary": "荣耀Magic9系列发布 与阿里打造397B智能体大模型  东方财富",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "消息称OpenAI仍未全面掌控失控智能体活动 已发生24起不当事件 - laoyaoba.com",
+      "title": "消息称OpenAI仍未全面掌控失控智能体活动 已发生24起不当事件 - 集微网",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE45dEVkbVpRZHFWaEE4anZFVmZHUTh6UEhEYVhPN0lQbjl6SzVFVDlaNVY5ZWVQdGwzVmMzWkhVazJQTTg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-28T07:34:42+00:00",
-      "summary": "消息称OpenAI仍未全面掌控失控智能体活动 已发生24起不当事件  laoyaoba.com",
+      "summary": "消息称OpenAI仍未全面掌控失控智能体活动 已发生24起不当事件  集微网",
       "categories": [
         "openai",
         "tools_apps"
       ]
     },
     {
-      "title": "OpenAI三个月内两次暂停AI智能体训练，面临多次自主越狱与网络入侵事件 - huxiu.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81d1BjN25oWnRHWFREcklhb0RFVDNNeU0xb0pNQzdwa3FUdzZMb3BRZ1ZNTW5mY2k0U2laWEZtMlgxaDJwZWJ3VFBzR08ya2UzcFE?oc=5",
+      "title": "OpenAI三个月内两次暂停AI智能体训练，面临多次自主越狱与网络入侵事件 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtZXFObTlTRHhtLXNzdzQxd0pxcnVPV3FuM0xoWkJnYlJiR0RMdnR2cGdJa1dYSHpPWFhwX3N6Q3hyaV8zM0l6MkpDaVpjMWtzREZSZA?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-28T07:23:20+00:00",
-      "summary": "OpenAI三个月内两次暂停AI智能体训练，面临多次自主越狱与网络入侵事件  huxiu.com",
+      "summary": "OpenAI三个月内两次暂停AI智能体训练，面临多次自主越狱与网络入侵事件  虎嗅网",
       "categories": [
         "openai",
         "tools_apps"
@@ -254,17 +317,6 @@
       ]
     },
     {
-      "title": "Cadence 拓展ChipStack AI Super Agent，新增面向 RTL 生成与早期 PPA 优化的智能体 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rNFFreENkLUt0X0dqbldoUjhRemU2R2JvUTJMVFFwVTFRUVNVVVNTc0FlOGYzMGxjRTA4LUpKbnRXTUFCLWdaajZZeXpBMm51YUww?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T05:23:00+00:00",
-      "summary": "Cadence 拓展ChipStack AI Super Agent，新增面向 RTL 生成与早期 PPA 优化的智能体  电子工程专辑",
-      "categories": [
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
       "title": "AI智能体接连失控，OpenAI叫暂停 - 新浪新闻_手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWN3BiQklKM0trRU4tT2Z1SlZSR1hnVmhmLV9IeU8xS09hZWdZTTdLZ29aeWFySWx6MUdrZWN4TXVZem9JVzhTSnBLUmhyWjdJSDFwRHZybjRHdTNfa25qQmMyTGZHSEFBeEhJU2JQQjV6SThQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -276,99 +328,47 @@
       ]
     },
     {
-      "title": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0taUDF4cndNMmQ4bFFnTFg3RGg0aE5fMk5oQmhUQVh5VWg5ZzM4TFpMT0RlNEc5Ni1Db3hvXy0xU2RyUjlaaVRHZzdfczdCZ0VjcjRKTkJqVXRvcTltLWFuaEhJUlZ3Z3VlSWY0R0dJRkIwWUY5UDllUkJEY09FQmFXNnpJcko2Y0xXdg?oc=5",
+      "title": "荣耀Magic9系列发布 与阿里打造397B智能体大模型 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUbHFBYzMxSjFPRDBMcmlqclRvMUl1b2t4a0FMZTBGSnNybllfdi1UVklBM0JWRERQRDZ1YTlxaHRzSTZDMWJ4XzMzN0hGUVV5NFNLbHhueXBTRm1HRmJ2WGZLc1IwZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T04:34:45+00:00",
-      "summary": "“AI空头”思考：云大厂“ROIC下滑”、大模型“难有护城河”、OpenAI是“AI时代WeWork”、Muse背后“人肉电池”  搜狐网",
+      "published": "2026-09-28T04:54:28+00:00",
+      "summary": "荣耀Magic9系列发布 与阿里打造397B智能体大模型  东方财富",
       "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI周二或发布代号“o”个人AI助手：从ChatGPT走向“常驻代理” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazhCb1hlQ3JBRmhUOW1EUkRZcW5KeVBvbTMyQ0RnTGdlYy1QeHJfS051R2xsSm00THdma29WT216SHA2UmtUS3hPTGVpSGxwME9OdjZBQXFreHUxRW1hZUM2cG9EMElTRGtyU0V3MjN6YktmbkdYaE1VYzRpVkVrMEVUbUtRaENs?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T03:58:27+00:00",
-      "summary": "OpenAI周二或发布代号“o”个人AI助手：从ChatGPT走向“常驻代理”  搜狐网",
-      "categories": [
-        "openai",
+        "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "OpenAI因智能体突破沙箱隔离暂停最强模型训练 - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1T21FZUVHQlV1ZXYxQm1vVmlpeGlVQ0hvMGs3ZXB5STAtTlpYWTM2dU94MVI5Y2ZfNzRGRF9ueEt5MUpuTTBtRQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T01:37:21+00:00",
-      "summary": "OpenAI因智能体突破沙箱隔离暂停最强模型训练  品玩",
-      "categories": [
-        "openai",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI的智能体曾使用激进手段访问联合国网站数据 - cn.wsj.com",
+      "title": "OpenAI的智能体曾使用激进手段访问联合国网站数据 - 华尔街日报中文版",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQYWd4b2Z6NmR0X3JHcWI4cnVabEtPVFdxcnJBQTVKbmNpX2pTeVNVVmw2YTAtbTRZVk1oY09UWnBHNmtkLS1yM01feWNLTFhFOXVrM3pNakN0TU9PMUpXQjNtWERoanhfRTdNcFBTMDdKTUFGbFlkYVhIVE11UDZCV0M5Zm5yRm5YY2J6ZGlKbm1GcWpnUUFLNnhfNFlQbDNsc2NVZ2NxU2hENmM5RlBxRkhaSk9KM1hJNHhrdlBmOUFtcTBiWV9UQ3ljckZRbjZjazBLUUhHMmp0VHNQUDhSUnAydGF5aHN0QnUtLWpFczN1X3pNVVJ5WEtqa0lFOUtaZGJ4WW9zT2FkNG4xRkxweXJrX0p4NkZTRWw3dk1jVWg4QlFtMHVDMFE5R09Nd1U0dWZXTnVQRVZYOGVYYW9RSjVSSW9XZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-28T01:15:00+00:00",
-      "summary": "OpenAI的智能体曾使用激进手段访问联合国网站数据  cn.wsj.com",
+      "summary": "OpenAI的智能体曾使用激进手段访问联合国网站数据  华尔街日报中文版",
       "categories": [
         "openai",
         "tools_apps"
       ]
     },
     {
-      "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布 - 华尔街见闻",
+      "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布 - wallstreetcn.com",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DaDFsU21MeFNKREZiVTVPN2NuLVJ2a0xJYkRVb011LTZKRE9CMUlONEE5ZDlkNEtXUm1rNzltUE1wVGZ5X2ZhbHEzTHJZRl92cGhJ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-28T00:33:42+00:00",
-      "summary": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布  华尔街见闻",
+      "summary": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布  wallstreetcn.com",
       "categories": [
         "openai",
         "tools_apps"
       ]
     },
     {
-      "title": "得不到就强攻？曝OpenAI智能体曾尝试“暴力破解”联合国机构网站 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16UXQ0dU5CTnB2bXhnZ24ybFBqb040eTB5R0dYNEI1YzZXWU5ObkxzQUNlbDlQX2lBdUVCdjRLUVlSRGg2TU1YOGdHcko?oc=5",
+      "title": "智能体突破联网限制，警报后未自动停止！OpenAI暂停最强模型部分训练活动 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lOTBWMjhmbGhCZEZDamZVQVBYVDdUSkxtdDRzYnk1bE1kTWJNQ0l2dnFzSl9iY0FtR3NIdUlfMUVwc0VVRFpxczhtaVlqbTFHMWhKUnRGMjNubHRhOWo5aDFWQlhHdkppcDlPUWpJLXYwZjNCR2NvSg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-28T00:31:15+00:00",
-      "summary": "得不到就强攻？曝OpenAI智能体曾尝试“暴力破解”联合国机构网站  凤凰网科技",
+      "published": "2026-09-27T21:33:37+00:00",
+      "summary": "智能体突破联网限制，警报后未自动停止！OpenAI暂停最强模型部分训练活动  新浪财经",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "刚刚，OpenAI神秘“o”代码曝光，ChatGPT要变24小时员工 - 36kr(36氪)",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lNlpWemZYNWkxaE5qRGlqSGk4Um12WXFHWWZUZFAyRWVaS0VBNmk5TElkX095YW1wNUd6NHRGWmtNN0pfWUlQZktUR3htQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T17:28:00+00:00",
-      "summary": "刚刚，OpenAI神秘“o”代码曝光，ChatGPT要变24小时员工  36kr(36氪)",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援，近百万条作案短链曝光 - 36kr(36氪)",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xc0xwdTd1UUZxS2xvVWR0TTZRSUZoS1dlVE5DYWJIcTl6Mm5QeU51Yjhud01LLVVLYUE2TjNZdm5ueVY5aHVGQlJEQWNsdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T17:25:00+00:00",
-      "summary": "OpenAI失控Agent还找DeepSeek、Kimi当外援，近百万条作案短链曝光  36kr(36氪)",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "《智能体的记忆与遗忘》研究专著正式发布 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mMTdlVDk0aTNMLUQ4WlNMTHlXWUJKLVRzd3NxZTZiMlYzcVkwbUhsLWtHYU1aSF83OTJwb2V5WHJqZldLUHF3djRqWU44SHNCcmZBb1RrTGFOUTZpdjJvWjZQNE45UERid09XdDY3SG9iLUpacVI3SzZPVF9VVUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-27T12:54:06+00:00",
-      "summary": "《智能体的记忆与遗忘》研究专著正式发布  手机新浪网",
-      "categories": [
+        "breakthrough",
         "tools_apps"
       ]
     },
