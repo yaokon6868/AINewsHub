@@ -1,13 +1,117 @@
 {
-  "updated_at": "2026-09-29T16:57:56.456657+00:00",
+  "updated_at": "2026-09-29T21:20:35.833944+00:00",
   "items": [
+    {
+      "title": "OpenAI的最新功能直指应用商店模式",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T20:15:47+00:00",
+      "summary": "OpenAI 正在构建传统应用商店模式的替代方案，将 ChatGPT 转变为人们和人工智能代理等可以发现和使用软件的地方。",
+      "translated": true,
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T19:52:37+00:00",
+      "summary": "预计新一轮融资将是该公司推迟 2027 年公开亮相之前的最后一轮融资。",
+      "translated": true,
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "AI 需要 6T 美元的年收入来证明数据中心繁荣的合理性",
+      "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "source": "Hacker News - AI",
+      "published": "2026-09-29T19:21:25+00:00",
+      "summary": "150 赞 · 177 条评论 · Hacker News",
+      "points": 150,
+      "translated": true,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "这就是为什么 OpenAI 没有出现在 Nvidia 全行业范围内终结流氓 AI 代理的努力中",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T18:35:00+00:00",
+      "summary": "TechCrunch 获悉，OpenAI 并不是 Nvidia 开放代理安全平台的公开支持者，但它正在私下与 Nvidia 合作。",
+      "translated": true,
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI 与微软展开竞争，推出了一款非常像 ChatGPT 自己的办公套件的产品",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:45:51+00:00",
+      "summary": "OpenAI 新发布的办公功能套件使其与更传统的软件公司展开了更直接的竞争。",
+      "translated": true,
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI 推出 Dots，其充满活力的代理化身",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:17:15+00:00",
+      "summary": "Dots 旨在独立于任何特定硬件或接口进行操作，在后台持续追求用户定义的目标，同时将监督降至最低。",
+      "translated": true,
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI 通过类似应用程序的界面和自动化扩展了 ChatGPT 的插件",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI 正在通过专用侧​​边栏主页、交互式面板、文件查看器、改进的发现和对自动化的支持来扩展 ChatGPT 插件。",
+      "translated": true,
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI 推出 GPT-6.1 Sol，称其几乎与 GPT-6 Astra 相当，而且成本更低",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI 表示，GPT-6.1 Sol 在复杂的专业任务上比 GPT-6 Sol 有了显着改进，包括代码编写和调试、文档理解以及执行多步业务",
+      "translated": true,
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI 为 Codex 提供可跨设备运行的可重用云环境",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "summary": "OpenAI 正在通过可重用的云开发环境、带有语音控制的改进的 CLI、新的代码审查工具以及用于扫描存储库和准备的以安全为中心的产品来扩展 Codex",
+      "translated": true,
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
     {
       "title": "DraftKings 使用人工智能来针对长期赌徒的行为",
       "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "source": "Hacker News - AI",
       "published": "2026-09-29T16:30:48+00:00",
-      "summary": "27 赞 · 8 条评论 · Hacker News",
-      "points": 27,
+      "summary": "468 赞 · 326 条评论 · Hacker News",
+      "points": 468,
       "translated": true,
       "categories": [
         "other"
@@ -18,8 +122,8 @@
       "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
       "source": "Hacker News - AI",
       "published": "2026-09-29T14:15:24+00:00",
-      "summary": "140 赞 · 32 条评论 · Hacker News",
-      "points": 140,
+      "summary": "148 赞 · 38 条评论 · Hacker News",
+      "points": 148,
       "translated": true,
       "categories": [
         "other_big"
@@ -52,8 +156,8 @@
       "link": "https://www.withouthotair.com/",
       "source": "Hacker News - AI",
       "published": "2026-09-29T12:38:18+00:00",
-      "summary": "83 赞 · 46 条评论 · Hacker News",
-      "points": 83,
+      "summary": "122 赞 · 63 条评论 · Hacker News",
+      "points": 122,
       "translated": true,
       "categories": [
         "other"
@@ -75,8 +179,8 @@
       "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
       "source": "Hacker News - AI",
       "published": "2026-09-29T12:01:07+00:00",
-      "summary": "19 赞 · 0 条评论 · Hacker News",
-      "points": 19,
+      "summary": "35 赞 · 2 条评论 · Hacker News",
+      "points": 35,
       "translated": true,
       "categories": [
         "other"
@@ -87,8 +191,8 @@
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "source": "Hacker News - AI",
       "published": "2026-09-29T09:03:41+00:00",
-      "summary": "364 赞 · 117 条评论 · Hacker News",
-      "points": 364,
+      "summary": "397 赞 · 126 条评论 · Hacker News",
+      "points": 397,
       "translated": true,
       "categories": [
         "other"
@@ -99,31 +203,8 @@
       "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
       "source": "Hacker News - AI",
       "published": "2026-09-29T06:16:04+00:00",
-      "summary": "37 赞 · 11 条评论 · Hacker News",
+      "summary": "37 赞 · 12 条评论 · Hacker News",
       "points": 37,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Anthropic 的招股说明书详细介绍了亏损、增长，当然，还警告其人工智能可能会终结人类",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T05:13:43+00:00",
-      "summary": "Anthropic 在招股说明书中刚刚告诉投资者，它每年损失数百亿美元，但也在疯狂增长，而且——哦，是的——它自己的人工智能可能会对人类构成生存风险。",
-      "translated": true,
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "人工智能风险不是计算机的感知，而是人类的疏忽",
-      "link": "https://www.seattletimes.com/opinion/wa-needs-to-do-these-3-things-to-protect-us-from-ai-harm/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-29T03:51:04+00:00",
-      "summary": "29 赞 · 5 条评论 · Hacker News",
-      "points": 29,
       "translated": true,
       "categories": [
         "other"
@@ -134,8 +215,8 @@
       "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
       "source": "Hacker News - AI",
       "published": "2026-09-28T23:40:59+00:00",
-      "summary": "122 赞 · 128 条评论 · Hacker News",
-      "points": 122,
+      "summary": "130 赞 · 136 条评论 · Hacker News",
+      "points": 130,
       "translated": true,
       "categories": [
         "anthropic",
@@ -159,8 +240,8 @@
       "link": "https://blog.greenpants.net/ai-accountability/",
       "source": "Hacker News - AI",
       "published": "2026-09-28T22:05:46+00:00",
-      "summary": "36 赞 · 91 条评论 · Hacker News",
-      "points": 36,
+      "summary": "37 赞 · 92 条评论 · Hacker News",
+      "points": 37,
       "translated": true,
       "categories": [
         "other"
@@ -171,7 +252,7 @@
       "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
       "source": "Hacker News - AI",
       "published": "2026-09-28T20:47:26+00:00",
-      "summary": "82 赞 · 90 条评论 · Hacker News",
+      "summary": "82 赞 · 91 条评论 · Hacker News",
       "points": 82,
       "translated": true,
       "categories": [
@@ -183,46 +264,23 @@
       "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
       "source": "Hacker News - AI",
       "published": "2026-09-28T19:53:35+00:00",
-      "summary": "573 赞 · 243 条评论 · Hacker News",
-      "points": 573,
+      "summary": "590 赞 · 258 条评论 · Hacker News",
+      "points": 590,
       "translated": true,
       "categories": [
         "other"
       ]
     },
     {
-      "title": "Shopify 向基于浏览器的 AI 代理开放结账功能",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T19:33:57+00:00",
-      "summary": "Shopify 正在将 WebMCP 支持扩展到结帐，允许基于浏览器的 AI 代理更新订单详细信息并在买家授权的情况下完成购买。",
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Nvidia推出新平台来控制流氓人工智能代理",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T18:31:23+00:00",
-      "summary": "Nvidia 首席执行官黄仁勋周一推出了一个软件和硬件产品工具包，该工具包在人工智能代理周围添加了独立的安全层，以确保它们即使在测试环境中也能保持在测试环境中。",
-      "translated": true,
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "我为 AI 自动化创建了一个可视化工作区",
-      "link": "https://www.biom.dev/",
+      "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
       "source": "Hacker News - AI",
-      "published": "2026-09-28T17:53:14+00:00",
-      "summary": "29 赞 · 24 条评论 · Hacker News",
-      "points": 29,
+      "published": "2026-09-28T17:33:34+00:00",
+      "summary": "107 赞 · 111 条评论 · Hacker News",
+      "points": 107,
       "translated": true,
       "categories": [
-        "other"
+        "openai"
       ]
     },
     {
@@ -242,8 +300,8 @@
       "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
       "source": "Hacker News - AI",
       "published": "2026-09-28T16:11:42+00:00",
-      "summary": "376 赞 · 237 条评论 · Hacker News",
-      "points": 376,
+      "summary": "379 赞 · 238 条评论 · Hacker News",
+      "points": 379,
       "translated": true,
       "categories": [
         "other"
@@ -254,8 +312,8 @@
       "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "source": "Hacker News - AI",
       "published": "2026-09-28T15:46:36+00:00",
-      "summary": "216 赞 · 280 条评论 · Hacker News",
-      "points": 216,
+      "summary": "220 赞 · 288 条评论 · Hacker News",
+      "points": 220,
       "translated": true,
       "categories": [
         "other_big",
@@ -267,7 +325,7 @@
       "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
       "source": "Hacker News - AI",
       "published": "2026-09-28T14:55:34+00:00",
-      "summary": "72 赞 · 80 条评论 · Hacker News",
+      "summary": "72 赞 · 81 条评论 · Hacker News",
       "points": 72,
       "translated": true,
       "categories": [
@@ -279,44 +337,8 @@
       "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "source": "Hacker News - AI",
       "published": "2026-09-28T11:02:12+00:00",
-      "summary": "166 赞 · 77 条评论 · Hacker News",
-      "points": 166,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人工智能公司竞相展示其对人类最具威胁的模型",
-      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "source": "Hacker News - AI",
-      "published": "2026-09-28T08:35:40+00:00",
-      "summary": "434 赞 · 391 条评论 · Hacker News",
-      "points": 434,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-      "link": "https://arxiv.org/abs/2110.01834",
-      "source": "Hacker News - AI",
-      "published": "2026-09-28T03:23:53+00:00",
-      "summary": "175 赞 · 77 条评论 · Hacker News",
-      "points": 175,
-      "translated": true,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20%",
-      "link": "https://earnanhonestdollar.com/bench",
-      "source": "Hacker News - AI",
-      "published": "2026-09-27T17:24:17+00:00",
-      "summary": "90 赞 · 40 条评论 · Hacker News",
-      "points": 90,
+      "summary": "168 赞 · 79 条评论 · Hacker News",
+      "points": 168,
       "translated": true,
       "categories": [
         "other"
@@ -339,8 +361,8 @@
       "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "source": "Hacker News - AI",
       "published": "2026-09-27T16:19:46+00:00",
-      "summary": "392 赞 · 268 条评论 · Hacker News",
-      "points": 392,
+      "summary": "393 赞 · 268 条评论 · Hacker News",
+      "points": 393,
       "translated": true,
       "categories": [
         "other"
@@ -351,8 +373,8 @@
       "link": "https://tinyaiarena.com/",
       "source": "Hacker News - AI",
       "published": "2026-09-27T15:51:28+00:00",
-      "summary": "118 赞 · 45 条评论 · Hacker News",
-      "points": 118,
+      "summary": "120 赞 · 45 条评论 · Hacker News",
+      "points": 120,
       "translated": true,
       "categories": [
         "other"
@@ -375,23 +397,11 @@
       "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
       "source": "Hacker News - AI",
       "published": "2026-09-26T12:52:04+00:00",
-      "summary": "98 赞 · 169 条评论 · Hacker News",
-      "points": 98,
+      "summary": "99 赞 · 169 条评论 · Hacker News",
+      "points": 99,
       "translated": true,
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "没有人工智能的一个月",
-      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "source": "Hacker News - AI",
-      "published": "2026-09-26T10:08:21+00:00",
-      "summary": "188 赞 · 227 条评论 · Hacker News",
-      "points": 188,
-      "translated": true,
-      "categories": [
-        "other"
       ]
     },
     {
@@ -416,18 +426,6 @@
       "translated": true,
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "人工智能完成我所有的作业后我如何改变教学",
-      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "source": "Hacker News - AI",
-      "published": "2026-09-24T20:51:50+00:00",
-      "summary": "303 赞 · 281 条评论 · Hacker News",
-      "points": 303,
-      "translated": true,
-      "categories": [
-        "other"
       ]
     }
   ]
