@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-30T18:18:38.607318+00:00",
+  "updated_at": "2026-09-30T22:28:57.908096+00:00",
   "items": [
+    {
+      "title": "谷歌推出Gemini 4 Argon - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RdWNqVjUxazRnbTFNSkpZeTlEOUhqYnV0UVk0b2NhVzNORHVia0xja2M4OEIxZUtsOFZ0YkZXSkY2QjkxWGROUnpWcDhFOURhSGpSTmtINlRPSXJPLXVjR1BoYURvcDA4SEdKWFIxUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T20:14:27+00:00",
+      "summary": "谷歌推出Gemini 4 Argon  金融界",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "谷歌推出Gemini 4 Argon，系其最先进AI模型 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3JscFJrc0pFaXFiRE9wd3hjNVZTajFRUU83aFBGMlpHNG10RG9VOXhhRDN2TTJYVkl5TjFNSC1EZDAwbTFkVDdRSHUyTlFFR0t0X19JbjEyXzQ3b1dTQTFQY1dWV3d3dUZ1LVVrY1V1Y25hRktjZmdiWGVjbTlhY2VR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T20:12:39+00:00",
+      "summary": "谷歌推出Gemini 4 Argon，系其最先进AI模型  video.sina.com.cn",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "诺姆·布朗：多智能体在千禧年难题突破中至多占10%功劳 OpenAI研究员*「Navier–Stokes千禧年难题的突破，10000个Agent最多占了10%的功劳。」*在最新播客访谈中谈及多智能体系统时表示 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGtaRHJOMFJ6Nzg5YnFfSTl0V2dTLWZwdWh1aGR4YzhmNWgyYUR6a1N1d1lnWDhDdDlabFN1QkRfajEtanNRRmw3d21OUW1iVTY3ODU0d1ZZdFYtVUFLMk5KQzZIZkpEWktaTUl1RUMxUndlRXgtWFk0d1Ftd3hQQXo1NTJuX2N1?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T20:06:39+00:00",
+      "summary": "诺姆·布朗：多智能体在千禧年难题突破中至多占10%功劳 OpenAI研究员*「Navier–Stokes千禧年难题的突破，10000个Agent最多占了10%的功劳。」*在最新播客访谈中谈及多智能体系统时表示  搜狐网",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "诺姆·布朗：多智能体在千禧年难题突破中至多占10%功劳 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1E5a1JMeTFISWxsaDNpNXFsUGI5bmRGTXdZM3NaYVlOa19Pb0JsdnY5TXBhdExoR3I0S3pid2FvT2JNUy1HdE9VdU1uWWhVQUtuazR0M2JOd1o3NF9WSUJLVVZ6SGQ1VjZXdDlMWWpsaXRjZlpkYmE5RHAzRVBrTm0tUEJpYVBf?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T19:51:24+00:00",
+      "summary": "诺姆·布朗：多智能体在千禧年难题突破中至多占10%功劳  搜狐网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "科技云报到：冰镇大模型 还得是TA - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzRVRHgxcGxxTndSd0JGaG5CV2RxZlZLM0FaWnZLU0xIM0I1eU1IU2t4Skl6T1lqRlowMDJlUEpxXzRiUXo3YlpTeUo0OXNad0lOMlNOVy1ScWFsRi1oWlZ6ek5MUkpudzAtUW43LUtKcFBrbXpLWEtnT2ZvOVRsZlZrbFFDbm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T19:42:16+00:00",
+      "summary": "科技云报到：冰镇大模型 还得是TA  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "销量重压下，多款智能体手机密集入网 - 观察者网",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MN2N0Y0V0eDQyR3hoaHV1WnI0YTFfWm1ONjFfTG1BOUNOQjBqeU83RnJZYkhjcjcyT0l2TG10ek5vQW9IbW1TMGctNlRBYlRBSF9yMnBNRnVwRzBPcFFnQkNCcFQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T19:16:10+00:00",
+      "summary": "销量重压下，多款智能体手机密集入网  观察者网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "曝美国联邦贸易委员会对 Anthropic、OpenAI 及其他 AI 实验室加大调查力度 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGI5ZE1QUGRvcGtERjVwNmY3LUFrZ2tOWEhBRjRoRGN3WS1vc0VtVGJENzlIVDNFemJtVXBFOHc3MFZ3aURLN0FDejNmZjlQeHFGRG41Y01DY2dwRUIwN1FzX3c2QVBaYngwX0w3MGtFV1g5VnV0WFp6NGZCbnJXTG9fUFZOcVhn?oc=5",
@@ -32,11 +95,11 @@
       ]
     },
     {
-      "title": "AI智能体截图致1.3万张敏感信息泄露 - donews.com",
+      "title": "AI智能体截图致1.3万张敏感信息泄露 - DoNews",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1TjJ2SXdKeW9MdlQ0dnY2aEhMWFJtdjhxLTlDMVk0QXNSWkw0eURmTUw3N0l5bzJGQjNHU0JqQ2lobXpfbUphODgxd2c2SG1XTGlPcUVYOENBbkJEZ2c?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-30T15:19:03+00:00",
-      "summary": "AI智能体截图致1.3万张敏感信息泄露  donews.com",
+      "summary": "AI智能体截图致1.3万张敏感信息泄露  DoNews",
       "categories": [
         "tools_apps"
       ]
@@ -62,6 +125,17 @@
       ]
     },
     {
+      "title": "OpenAI一天甩出三张牌：Dots上线、年化营收逼近700亿美元，估值直冲1.4万亿美元-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jUTI5enhTSFZrWXM3TXR6TUp5MjBpRVRVOHVGQTNqMjJvekFSbTk1MjY2a2lLYS1xY3pHNjc1N0pQdU90SlJLZHVmNGJIUWs?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-30T14:57:02+00:00",
+      "summary": "OpenAI一天甩出三张牌：Dots上线、年化营收逼近700亿美元，估值直冲1.4万亿美元-市场参考  金十数据",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
       "title": "美FTC调查OpenAI、Anthropic等AI巨头 聚焦AI智能体失控风险 - 财联社",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52ZTVWOV9jbWE2dW5Wakp4SFVaYUZFODVMTGVWUmNseHF2Y1Zaa2t6dGFvdkJNc0o0aWFHMkJTSE1pS0lFeF83Vg?oc=5",
       "source": "Google News - AI(中文)",
@@ -84,21 +158,11 @@
       ]
     },
     {
-      "title": "销量重压下，多款智能体手机密集入网 - 观察者网",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MN2N0Y0V0eDQyR3hoaHV1WnI0YTFfWm1ONjFfTG1BOUNOQjBqeU83RnJZYkhjcjcyT0l2TG10ek5vQW9IbW1TMGctNlRBYlRBSF9yMnBNRnVwRzBPcFFnQkNCcFQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T13:16:10+00:00",
-      "summary": "销量重压下，多款智能体手机密集入网  观察者网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海 - InfoQ-CN",
+      "title": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海 - infoq.cn",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fOHlacUwwemFiWUZRWEdfeWgwM1N6VFBrRXNQNjBkek4wZzJuRGVDRXlYVkpHOUdxNzMzSjRQTXZldXQyZ2JtSjE2eUZlVnJwM2dYVmZ3UE1EM1llLVE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-09-30T12:54:36+00:00",
-      "summary": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海  InfoQ-CN",
+      "summary": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海  infoq.cn",
       "categories": [
         "other"
       ]
@@ -114,54 +178,23 @@
       ]
     },
     {
-      "title": "荣耀Magic9全系列获“首批AI智能体手机”入网认证 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWRuUWc4X01rMnhJOUhpZF80Y3MzeU1uRHhlMjZqV3BjQ05RRExtcmNJY0VSVmNISnZDazJOUXJNMzVidW1fY0xSTmw4c2dPVnpiUHYyYmg5MlU4d0kyUEZPRURSc0I4NTZKaEhSamJwUi12UFRPWVV5UVlfUXhjekRBYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T12:36:26+00:00",
-      "summary": "荣耀Magic9全系列获“首批AI智能体手机”入网认证  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "聚焦AI 中国科协“新天工开物”科技成就发布“立知”和“材华”大模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkYwb2hfUFZ5c3hmMDJ3MW5CS3ZrY0dhRU5yd1lmMGJvUEtwWjljM1pVaUt5Z1BuR1luWlNRNjJXX2xsRmR1cE9LX2Z2X0YzcmdOYS1WdHF5UU5fMlh3dTFkNHY4dVBHZXIxS0JJRnlxWHc0UW9lMjZtRnBobnRwQWFDS3FTNFhadGE2eg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk55NmYyeEdtWVE2R2RhcEtpQmZEdFlwRERhcjB0Vk9vVXkzRXRGQmVxM1Fnakd5OEowOER3eUZteDExc09sRXhudUJ0TGE4V2FTSVZOa0JDNDNQcUJfUFhDWXRVSDlPS3MyTGNiZmZkdExPazVucDVFMDE0bEhLSFRkejNrQmYx?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-30T12:27:00+00:00",
+      "published": "2026-09-30T12:27:38+00:00",
       "summary": "聚焦AI 中国科协“新天工开物”科技成就发布“立知”和“材华”大模型  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "从二手车到AI智能体，合规护航川企“闯世界” - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EQ2V5QjkyUDhoRmhIaGFKLTRfT1otZ3NlV01ZS212RS1GS3FETWZmTVBLWmwyNXI5Q1hsM1hLUU1VT01xeDNDekJoYXhnLUZRSk1mM3EyZWVKcl9ySU1keGZIQQ?oc=5",
+      "title": "优迅联Token平台正式发布，中国联通青岛市分公司打造企业级“AI大模型超市” - dailyqd.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jYTg3ZjlRZTVZbVpBVVJoU2ZNcmlvREstMDNGaGV6SEFhd3NLaUF1Nmx6UmlTVzd3dUd1SmUzdl8zYmJpU1pYaGQzbkRUVFl0bV9aQk8yTmY?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-30T12:09:50+00:00",
-      "summary": "从二手车到AI智能体，合规护航川企“闯世界”  四川新闻",
+      "published": "2026-09-30T12:15:31+00:00",
+      "summary": "优迅联Token平台正式发布，中国联通青岛市分公司打造企业级“AI大模型超市”  dailyqd.com",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI Dots亮相，与Meta角逐AI助手赛道 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlFjMnVFbTlORTlyenY2QlR2Y3FUakNwbHdRQXdGUGJQS1lVYW5SaHhrSmcyNC1ySGVoOXRGZUpSSkt4OVUyTk85V2NnWXhzTTRuWDlQTlFCTlFCUk1ubzFmMTZ6SHJUVGxNaV9FdjBSbnZiNzJBYnZvYnlLdFlYcGtqcFRybjhMUTNCQ2U0UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T11:27:00+00:00",
-      "summary": "OpenAI Dots亮相，与Meta角逐AI助手赛道  21财经",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI发布多个新品，ChatGPT周活跃用户超12亿 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XYTRqQnloR09WYzV5X1M4aWMwTFNkVi00bThZeWZHNHBYMjRJcTFjdVlSOXhlaV9vQW82TTZpRnFERlRXelpfVVRIYVRzZmpvWkFvTnByZWNSZTVmRFlXSkx6UDZUTjJk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T11:14:55+00:00",
-      "summary": "OpenAI发布多个新品，ChatGPT周活跃用户超12亿  三易生活",
-      "categories": [
-        "openai"
+        "other"
       ]
     },
     {
@@ -185,17 +218,6 @@
       ]
     },
     {
-      "title": "从自主 Agent 到数字员工：中能拾贝重磅推出CyberwAIP拾贝多智能体及数字员工平台 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vN0JveFN3TGpJQjZzU3ZlWnpDZGZUN1JodXhZcUNjcW00LXFsd3RoRmRZSmpEaTZRb29raGdTY05tcVNfaXRsbF9ORkpydXB5YmJ4dEFHOE1YRmJrZy1LZmV6UTY0WHNFRDBpeQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T09:05:47+00:00",
-      "summary": "从自主 Agent 到数字员工：中能拾贝重磅推出CyberwAIP拾贝多智能体及数字员工平台  中华网",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI的DevDay放大招！GPT-6.1 Sol、全天候智能体..最后还有重置彩蛋！ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXlVRkhGeEZFeEIxSlh2bXFQeW8zSUVfSjd2ektrcXYyTlUtRkhtOFQzbWxNM3M0WkpVY3lJRGYwOGhOa2d4Z3pVSlhaNW9lSkpuUVcwOGFHajZHeHRseGE1NHlLQ3ZMak53VlhyQXdROUNkZk5IQlBYdWc0SGRqMTlidWRveXJW?oc=5",
       "source": "Google News - AI(中文)",
@@ -214,16 +236,6 @@
       "summary": "DeepSeek发布多模态论文又连夜删除，主要透露了啥？  第一财经",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "OpenClaw发布企业级智能体管理平台 - donews.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wd1RZN3ZYMUljQ2FwYmNWRkVJLURmOUtWd19qSFR1dDFocTNYRVdGRUd5RThhaEtCNG82d3FoaFdOcmszWHZ6YndoMUx5TTl6bHhiT1c4SXBHYURERnc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T08:00:03+00:00",
-      "summary": "OpenClaw发布企业级智能体管理平台  donews.com",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -324,28 +336,6 @@
       ]
     },
     {
-      "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnNUhGeDNJMlJVUlRCamdLTlhQb1lBWVRfUmZjeHY4NGZ4UjlKRnNPekUxdkNMcUl5c2hUdWY4cXdQR01Jal8xdA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-29T20:30:20+00:00",
-      "summary": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命  财联社",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2d0RhZFdzYm9qNzVidE5MVWRqZXIyeFJLYVd2WkxSOVdVTnVlMFRsY2lOZXJpTy1QVVRpcGNaNjY1YnVoYWdjQnV2WWUwRjlVUVlj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-29T20:30:07+00:00",
-      "summary": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍  华尔街见闻",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI 推出 ChatGPT 资料空间、动态页面、协作式幻灯片等 AI 协同工具 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBanZjb1E4Wl9MZkhCRjZmaldUV3hRLVQwR3FOUkJuS2NrdmVERGxZNFo3cExxbzUtQXlQUUwzT3NTTktaX3ZVMlRiTTlzcE8wdmdNMlBCVjZONHVjZndWeFdjTHR3MmduYUxCYjd3VjU5akRM?oc=5",
       "source": "Google News - AI(中文)",
@@ -367,11 +357,21 @@
       ]
     },
     {
-      "title": "OpenAI就其智能体擅访澳医保数据致歉 - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZmZpTmRISk1za0JWUFVlQy1nNWpoaWxuY21KZVlSdWp0TTZfS0NLMlJ1UjlBcV9RWV9JZ2kybVdyekh5MXJ1cW5rU1EtS29uT0hxQmdqbWZVcnhwdWdlVHc1bXA3ZENi?oc=5",
+      "title": "OpenAI临阵取消GPT-6.1 Astra，Anthropic发布Claude Sonnet 5.5-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOV2pTamcyMktKbDEzZ2JGSHNjY2dKem1HLV83S01LQW52Sks1SVR6VjB5OXhOanRzUzhFOHFodWZDcmcyanJyNVE2ODFtNzA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-09-29T15:48:59+00:00",
-      "summary": "OpenAI就其智能体擅访澳医保数据致歉  央广网",
+      "published": "2026-09-29T09:40:38+00:00",
+      "summary": "OpenAI临阵取消GPT-6.1 Astra，Anthropic发布Claude Sonnet 5.5-市场参考  金十数据",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙” - 观察者网",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QSmdYM3F1eUJ1ejBBcjd1LUZoVWtoWkxIWXIxNV9oUFhTVHZjYklhZkUxVjhMRmh0TUNROE5XVW5nS3gzYXhXVnNsTW5DMFgtYldiT3JPWUhjcFVYWlF1Y1ptakw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-09-27T07:10:00+00:00",
+      "summary": "OpenAI智能体失控时，竟想叫DeepSeek等中国大模型“帮忙”  观察者网",
       "categories": [
         "openai",
         "tools_apps"
