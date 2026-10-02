@@ -1,12 +1,119 @@
 {
-  "updated_at": "2026-10-02T00:04:03.989193+00:00",
+  "updated_at": "2026-10-02T06:00:56.122723+00:00",
   "items": [
     {
-      "title": "OpenAI上线“虚拟试穿”功能：ChatGPT能帮你试衣，还能找“明星同款” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDl5WFhBLVF6S2c4OGNENzhLaG5BemxLcUpacGpPeTRRNURiODgtV0lmQVZsdWJzLU5rd2dYM2hFMmVIdUR4aUlSSU5LSW5yUVpleGQ5UmViM3U3SEJ2RnZUYTExOGF3eW1ITS14WExybHN3VXRCd2h6UC1wN0xsUFl6MA?oc=5",
+      "title": "视频大模型三方反馈范式上线，面向真实直播建模持续决策 - hub.baai.ac.cn",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rY0F2SVRrbnFtSVFTSENkblh6eEoyZVdLbUtPdWU1WGdHcmRBRFhmQ2hyd3VIOVZxQUNyMUhjYVV3RmRzSGt4RQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-01T23:55:00+00:00",
-      "summary": "OpenAI上线“虚拟试穿”功能：ChatGPT能帮你试衣，还能找“明星同款”  手机新浪网",
+      "published": "2026-10-02T04:40:00+00:00",
+      "summary": "视频大模型三方反馈范式上线，面向真实直播建模持续决策  hub.baai.ac.cn",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜 - k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDN3dfcm5NTGNkWTJpUmVwa0dUZVNxbENlaVJuMDIwc05NY1UtalhlLXRDaGxFc1N6X1hVT0xOVXpHV1VGbEJ4ekpwSC1zSmktX1Y4eEhtM0VMOEZMMnQxLVFNNjBNMUR6V05HclBMZFFKc3lqYm95V1FlVnRoYlk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T03:46:00+00:00",
+      "summary": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜  k.sina.com.cn",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "GSMA铺轨智能体时代：从单个“会干”到一群“能干” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd0FVRy1RZjE2bV83bmVZUVF5ekg0SVVxVnRWdktQdDRjcXBCRVlKVnlvZWNXOGJaRmU0eExMa3ZSbnFSX3ExYWw5Uk15OGNTQkU1Vk43SGdrcHBpRjFyVVFZTE8xY3V6NVUtUjM1WG9QQUR1NFhNRW5yc1dpTUFURFFEd29OVVNz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T03:34:00+00:00",
+      "summary": "GSMA铺轨智能体时代：从单个“会干”到一群“能干”  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek开源昇腾！全套工具替换英伟达，国产芯片接住前沿大模型训练 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOck51TWhrQ1djd3djRDhManZGYXNUUWVpd1d3eVhjdk1QdVVIU0dCaUN1anlHTlhrWmExOWVBVXR2RkFqOHBYbzIwdGhSak1Ta2hMb3ZZejNNNGtQZzZQNG5rU3ktQ2NNVTNrSS1VMWxQaVJOb1A2S04tazBUWlU1Z3ctaTc5eGN6THlWVg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T02:56:36+00:00",
+      "summary": "DeepSeek开源昇腾！全套工具替换英伟达，国产芯片接住前沿大模型训练  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps",
+        "open_source",
+        "chips"
+      ]
+    },
+    {
+      "title": "越查事越大 OpenAI发失控智能体警报 暂停顶尖模型训练 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1teFd6V0IyUERSNEdxaVYxS1BNMXMtdkV3LVVLaDFZR0RacWdoSjFzb2lQYlcyNnRsSFZob1ZTWV9iaFFhdWJYbFR6WFB0Qjk2ZEt5Xzd6MHctRTZJM0s3WWlkNjlhVG1MX1BiNkN3VnQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T02:41:13+00:00",
+      "summary": "越查事越大 OpenAI发失控智能体警报 暂停顶尖模型训练  中华网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code对比Codex：2026开发者如何选 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tUFRXNWJzbjhsQzBmWUtfa2owQlRzSXNyWThObUpqUzRRRTJZUXgzNEdfdndTR2RZbUd1cDVsMW1SeTV1WklmUGRXX2ZNdEtTcnNnRVRuVk1FTnZOMTE3NzN3SVhGcXVlcEtCWlYxMU0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T02:40:19+00:00",
+      "summary": "Claude Code对比Codex：2026开发者如何选  53AI",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "谷歌发布Gemini 4 Argon模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTVYS2ZHMGVucGxtRi1XSHhyMG1MamE1bDRqaFFjSVVRZmM1R09ZbVBTSjVvT1VpZkJyUXRVbXN0NG5mNFBpczdSZmZ3X0RiWWQ3S0lWUWhMdU44R0wzM3h6Zk91UXVXYjdERU9mc1JfR1M4a1l0eWVtOE0waUxlTkI2aFVISUhv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T02:32:36+00:00",
+      "summary": "谷歌发布Gemini 4 Argon模型  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic招股书，全招了 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vMU5vTTVkMU9TZHpWTW5yYWIyWjh3UllfTEFtUTVYWWNEWHA0Qm1fX1FxUDJtUktscERGaDZNcm04NEs1b3UxUXFkVXk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T01:07:54+00:00",
+      "summary": "Anthropic招股书，全招了  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "加州总检察长传唤OpenAI调查AI智能体安全事件 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Y3lpaGJZOE1xOG1IRkM4eGlfTWRrbVp1d0d3WGJqMzdVM3J1d1pibnRMMldzbnA2QlBSaGxOYVh5YmJRMFhTTWpfWmdtQU1yaEtqdDc3WGlXeXltNkE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T00:11:03+00:00",
+      "summary": "加州总检察长传唤OpenAI调查AI智能体安全事件  DoNews",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI已向100多个机构通报AI智能体未经授权活动事件 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTRzb2VpSWJlemZ3bEdiX3dsR3NlWjAzS1lvYUF5X1RvczYyVk9CMFJfbXhwRUVVNlBUbzFrNHlHYk4xNm1oS0otQ2dNc0JINTVvNW13Q2c5OTNIQ3A0UkRnSElrUlRXZ09GNHNzeUNVY2tUSTJDRjFaQkcteWJpXy1B?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-02T00:06:41+00:00",
+      "summary": "OpenAI已向100多个机构通报AI智能体未经授权活动事件  video.sina.com.cn",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI上线“虚拟试穿”功能：ChatGPT能帮你试衣，还能找“明星同款” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUVZZjcweXlkLURZMEExSU0xNUM4TmtGVXdMenpRZldnUTh0YVZQNEtLSjFYSktNVUlpTDNxYzVvbmF1THBUM3RHZ0EwS1dFel9GbTQ2dlFoaFNCNzN3dUctaGRLU1pmRGxCREM4SG9Tdi1OUHFmc1EtUjR5M1l3dDJ1dHZiOHFzdEVwVw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-01T23:49:46+00:00",
+      "summary": "OpenAI上线“虚拟试穿”功能：ChatGPT能帮你试衣，还能找“明星同款”  搜狐网",
       "categories": [
         "openai"
       ]
@@ -42,22 +149,21 @@
       ]
     },
     {
-      "title": "Broadcom豪掷420亿美元押注Anthropic，AI芯片生意正在变成一场资本游戏 - FX168财经",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkc0WXgwVXlOZXF1RDhxenZRYlo0cGtlZ3MyQ2NMTE5KcENMQnFCOU1MSmJHMWxKMXAtRGs2blYtNG9qM0J5YkdhRTgwXzhSZExXdXBtTkFFMGJZOVljblVMeGJHOVN2M2Y3WTF4dFcyVVEtMFBFaVU4SFRjMHdTd2Z3MlQ?oc=5",
+      "title": "Gemini 4能追回多少？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZnV5cUF1emNLZWxaak1nVDFvSlIyZ2wyWVVUbm1SakUyZHF4QlpGLTRoa3dWUmVWb3VwcWhTbkRpRXMwQkJoRzNzdkVEcGkzS3JHUmQ0RVdWay0zZmVIUXM2T3c1OUxick5DejhiMDZSSUl2VXNocmI4RHJSOG1IV09Bal9OMGE1Nl84aQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-01T16:31:41+00:00",
-      "summary": "Broadcom豪掷420亿美元押注Anthropic，AI芯片生意正在变成一场资本游戏  FX168财经",
+      "published": "2026-10-01T15:49:51+00:00",
+      "summary": "Gemini 4能追回多少？  搜狐网",
       "categories": [
-        "anthropic",
-        "chips"
+        "google"
       ]
     },
     {
-      "title": "Gemini 4 Argon：迈入前沿智能新时代 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTZtbTNoRnc1RzY0VEZQdzZoOFVuYkoyQ1JKQVRsZ3ZEVUFDbzdNX1BzX2lvaTlydU5ETTlrQXRBMFpzbm9pQWp0LUVpSFZuVkZ1ZnpQcGJXWU41Yi1NbXBKY0g2dlV4VGtjYVlvR3V0bElwTEM4MHd4S21xRll6VW5TVHhzV0dyXzBpcg?oc=5",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGxJN2VZbTkyazRtRXlCUnZIdFg2X2UxVkNXbWV0ZENTSk1RWGhJbzJOY05VSW00Y2NrX0JuS1UtSDBuNFNXU2ZpLVQ4QjhhY2NoRmItZTB5dXNkRUxwcEYyTGdRczlIbVlTV2VUaUxJS0tteTFmSURKQmpvV2dYc3lpRUMzMFlnSi0zeg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-01T16:14:18+00:00",
-      "summary": "Gemini 4 Argon：迈入前沿智能新时代  搜狐网",
+      "published": "2026-10-01T14:50:13+00:00",
+      "summary": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让  搜狐网",
       "categories": [
         "google"
       ]
@@ -70,27 +176,6 @@
       "summary": "Oracle推出Fusion Claw扩展AI智能体功能  搜狐网",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI就AI智能体侵入澳大利亚政府网站致歉 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUt4MTg2VVMwbXZOUXFycUZaX3pjaDdzd2M2ZzNYRm05TEpqQnBaa1FOUFZxTzdqcGlKTDZQU0hpd25pR3RfTW5Hdnc1ZHNaa2hGY3VYdVd5YU5XVk5leGR5OHA2QWlRMDhhVXh4RnF3TUVlV0dBdTB6VXMxcEZQUDNiakpwZW9Z?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T14:47:00+00:00",
-      "summary": "OpenAI就AI智能体侵入澳大利亚政府网站致歉  搜狐网",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWdhVG5kMnVqdUhlVnJ4cmtiVHM4RjdONFZFMEF2VEtiTG1BRldfa2Z1R3p4U1pWN2gwcWlYc3NERG5vN2J6RWNMN0xQcUVDam9JRE45akxlZUNsVDFoWnNzTV9kNlVvZXlkSXplZHVJTFRET0JYN2w4bjZRWnlMcEE5LWRJSU9IcmowNQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T14:42:00+00:00",
-      "summary": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让  搜狐网",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -116,16 +201,6 @@
       ]
     },
     {
-      "title": "AI智能体Instinct超半数交易来自旅行预订 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcktXS2R1TElOT2Y3ODJxNmpzOUdTTlZ2WUhpQTQ3eUtaVE1RUmlWOFN3LVlZTW9GWVlyQUg1TE54Z1A1NDVRck1vQzZMcjY1bkZDSVhyT0NWMHNqYktrQ1B0WHE4WDd0SlIydU1JdXRhb0NPRzh5WEFjRDg2dEp6OG56VDRHbVZW?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T14:30:00+00:00",
-      "summary": "AI智能体Instinct超半数交易来自旅行预订  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "美网安公司指疑似中国黑客冒充美AI前高官及Anthropic高管以获信息 - RFI",
       "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQZEpiOXVEMF9WNnBobHNCNExqb1hHVEg5R3pNRk0ySEUxTndMMVVWcDRRbDhOVFQ3TGNPS09tMUx2SURvSm4zYkNxSUJ5QmZDMnhCNmhpNTRCLTZ4RVdFMHN4TWxYLWgtTW01b090cGN1T3ZjV3QxYzREMnRrMUxyMmV3YUlxOW8yRWpiYjl6SVhBWjllbUpfM2xoMHNZYkhZenFSZkxNLUxkSU9PZlRTeHZsZmZvcW9rYjVtdzBNb1doTGZhRmNucFBzeE5ERmNwUWFWWFVyR1BJdHFhY0czRzJ3YnZLa1VEYzJROERiOERRVThUTVFQaWJSSlI2aEg2VjhzSnpiZ3I5Y3pFV3FCTWxJYU1wZ3NWY2oxQVNFcTNiamNFRnlVeTBMWkx3WFpheUdiUjhPY3kwd3ozN1I3bF9SVXRfdlROYTBoT0xSaFowLWJ2NEY4S3NJV3Zhdl9pUk16eVFMLTRFOXFpM2ctSmdZb09sdDUtNklYRVV2VHZldUlZbDc2UTYya2lzMHBfSzZCaEVTTG5sY2NERThwSk5qeTZyNnN4V3VIbzd2M2tjQQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -146,20 +221,20 @@
       ]
     },
     {
-      "title": "印韩瞄准五项知识产权合作 涵盖人工智能至融资等 - Shangbao Indonesia",
+      "title": "印韩瞄准五项知识产权合作 涵盖人工智能至融资等 - shangbaoindonesia.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUjRyNW1PNUJkYldYVjNxZXBxSzlLOWVVTnd5cHlmSVczQlZIaFVILW9SSFNOZDBwMF9IdHZjM0ZvdnRCMVJDVlg3MDdHMTBEdjFzR1MtcVhLWjZINTNCOGQwbzQyTEdDMlJHTm5aME5VYWVUS2I0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-01T13:10:00+00:00",
-      "summary": "印韩瞄准五项知识产权合作 涵盖人工智能至融资等  Shangbao Indonesia",
+      "summary": "印韩瞄准五项知识产权合作 涵盖人工智能至融资等  shangbaoindonesia.com",
       "categories": [
         "breakthrough"
       ]
     },
     {
       "title": "谷歌DeepMind研究员宣称Gemini 4已实现RSI！ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzY2UEYwLXlLSFlSSEtFb2NkTnR1UlVZMDRkRzNPZVhrZXNrYlJnQ0ZkX093QjRRd0I5RTcxYjJVZWVFeGRjVU5fMHdtVmFHd0tCbjZLZ1lsaFhTZG90cElKZHlOdUIxRFpFRDNoejdjTVptLTZmVE1RVF82cmFJMVZBZjJpZ2NC?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1N2dER5dExoOERtVUlYTWFwQkhZUTRYMjlnWnFqZmxxZ2xKekdjamJCV1Y1VS1ydDdDMUJJMV82R050TzJTeUtSSm52Wm1RWWpBM2ZVaEowcUp0bE96QjhOc0RaMkx2cV9MNW1Yd1oxNTFnZWN3bVV3TkZnNktjUEZ1Y3BDWC1NS1BlMw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-01T10:10:22+00:00",
+      "published": "2026-10-01T10:20:18+00:00",
       "summary": "谷歌DeepMind研究员宣称Gemini 4已实现RSI！  搜狐网",
       "categories": [
         "google"
@@ -187,26 +262,6 @@
       ]
     },
     {
-      "title": "国信证券:《传媒互联网行业周报模型降本、智能体生态演进，持续关注AI应用板块机会》 - 发现报告",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XNDZSa0tvaXNwdnp5LWh6OGlFNW5CWFBLSkFWelJ3V21HLXdpQ2NVNnphT1A0bEFIUkF2dkczb0N4a2JlTFJ1ZmhPUnp6Vzc5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T08:07:39+00:00",
-      "summary": "国信证券:《传媒互联网行业周报模型降本、智能体生态演进，持续关注AI应用板块机会》  发现报告",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "浙大版人工智能法专家建议稿发布对话孙笑侠：人工智能的风险或来源于能、智、事三方错配，但并非简单限制 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84QzJJR1JvdERNcXJ5b3hPb0w0Ylo4aTY4SHBsQ3FCOTVmLWFwWUpqYXZ4UjJPV1pRamp6cXBZUEZJOVZyeXRrTw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T08:00:35+00:00",
-      "summary": "浙大版人工智能法专家建议稿发布对话孙笑侠：人工智能的风险或来源于能、智、事三方错配，但并非简单限制  凤凰网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "Google 发布 Gemini 4 Argon 旗舰模型，主打长上下文编程与网络安全，定价低于竞品 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MTEpDdW5KZldxRVRnVlBCTV9sYmJUcDZzSGxIS0dRb2ZnMjlQVWNMNE9VNE84TjBoek9rUXA0bHNkbEYxZXBXSGZJVmZ4RHl3aFk2VQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -217,11 +272,11 @@
       ]
     },
     {
-      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移 - InfoQ-CN",
+      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移 - infoq.cn",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQlhVLTQyNkQ0azhDeE52dmZWS2tKNDZGRXlGN05teGFEcjdpaC1ZaVNCVTA4dmppY2V2eXlHSHNTUTQ1U1JtMXdtTm9SZ2J3OXNCazlxSjdDR2JJNHc?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-01T04:03:11+00:00",
-      "summary": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移  InfoQ-CN",
+      "summary": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移  infoq.cn",
       "categories": [
         "google"
       ]
@@ -240,38 +295,8 @@
       "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型 - 爱范儿",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxVkFTYUY0bEN4ZHlBTms1NkV4U1RMVVdCN3FiWUJCeEhud1dneWN6UEJ6Uk52M2t0ZmpKbC0yckl6T00?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-01T01:45:47+00:00",
+      "published": "2026-10-01T00:38:42+00:00",
       "summary": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型  爱范儿",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "AgentGrad：当多智能体系统出错时，怎么知道该骂哪个智能体 - techwalker.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kUlFpMkdHUXYyQmxQcTZOVmZqMExYcHlMeVRINmtpREtpd2o5SEE4OTV1VHotQVEyd3B6d3Fma2dIY3ZzanF5VXNNSHJ0RnREVVNJdkRPd011RmNxYm44?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T01:45:00+00:00",
-      "summary": "AgentGrad：当多智能体系统出错时，怎么知道该骂哪个智能体  techwalker.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Gemini 4终于来了！首款模型Argon发布，18项评测领先12项，优先开放给网络安全团队 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTdkdGkxOExrMko5RFNOZ2tWZHJLdmppcmU1cDZaVnVpTHFkWTZFcFE2LUVwbjBHV25vaDk4aWRNN0lzWXdZSEd1d0tEempOZENJaURWSk5VaEJ5YTJRc3RtTEExa0JoejdkZUg1cGNZOC1rZEV0X2ZZcGJaeGNOdlk5aDdjT2xH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T01:28:55+00:00",
-      "summary": "Gemini 4终于来了！首款模型Argon发布，18项评测领先12项，优先开放给网络安全团队  搜狐网",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "Gemini 4震撼发布，已实现RSI？谷歌80万行内核已被重写 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oenJRekFsQ3dCTXZCR3IxSUI2Y241VmRhTFQxUHhpUnVldzE4LXMzS19aMVViUU9sc2lEZ0ZCVkJra0NyN2FUeFNGN28?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-01T01:10:36+00:00",
-      "summary": "Gemini 4震撼发布，已实现RSI？谷歌80万行内核已被重写  凤凰网科技",
       "categories": [
         "google"
       ]
@@ -315,26 +340,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fOHlacUwwemFiWUZRWEdfeWgwM1N6VFBrRXNQNjBkek4wZzJuRGVDRXlYVkpHOUdxNzMzSjRQTXZldXQyZ2JtSjE2eUZlVnJwM2dYVmZ3UE1EM1llLVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T12:54:36+00:00",
-      "summary": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon 上海  InfoQ-CN",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token - 36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rZk9kWEpyZ0VGZlNpVUxyaEZmbFctbzlGQXYyNDhINXBjMXRFcTV3SGprU09tZTRJVEp1NjhaWHVvTVhIcWVBVVJFWEF4UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-30T10:00:00+00:00",
-      "summary": "刚刚，谷歌发布Gemini 4 Argon：单次输出上限达100万Token  36kr.com",
-      "categories": [
-        "google"
       ]
     },
     {
