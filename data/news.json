@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-10-03T20:45:50.798018+00:00",
+  "updated_at": "2026-10-03T23:35:50.881935+00:00",
   "items": [
     {
-      "title": "人工智能自我迭代至第四代，人类无法理解其逻辑恐失控 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04Q0UwQ0Y5SlpvYnhQLWpjbEJUQVZnZlJYQXVpc2xGNHBwd3RRQ0MyMG5USDNDVTBNekVjeDkyUm8zR1I0SS05MFlDVWc0d1k5NnE3Z2R0TkdxT3BFc1JRSUR4QWEzY1JiSWN1cVpHVDdiV2c?oc=5",
+      "title": "Anthropic被曝密会宗教领袖讨论Claude意识问题，OpenAI奥尔特曼发声批评 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xNGJKTUdrbGZhdExXWkVseXZJV0NFNUNEb0NJNTFGak11UXA3TFp1cWI4akExdFlGSmx1akFiZDZOY3JJck40UVlBenM?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-03T20:25:30+00:00",
-      "summary": "人工智能自我迭代至第四代，人类无法理解其逻辑恐失控  手机新浪网",
+      "published": "2026-10-03T23:11:11+00:00",
+      "summary": "Anthropic被曝密会宗教领袖讨论Claude意识问题，OpenAI奥尔特曼发声批评  凤凰网科技",
       "categories": [
-        "other"
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI前安全部门员工：AI模型迭代部署太激进，公司的文化已经崩坏 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sOGpaQUJIb0Y1NzQ0UHZaZDhLMmhhMlFMZFJtTl8xVUNQQTN0Mi1OWTNpU0ttN0h6QVI0dmo5Q3NUc29OREN4WndhOU8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-03T22:45:10+00:00",
+      "summary": "OpenAI前安全部门员工：AI模型迭代部署太激进，公司的文化已经崩坏  凤凰网科技",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "AI安全风波持续：OpenAI解雇三人，动用7000块GPU排查智能体异常活动 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSVVNNHFvUXF5RXlaUy1HZnYtMnRWZE1QYVRMbTFMUXZCcEJ5RUNWUDBKWUR0Z0hOUUFxb3BFOUxoS3R5XzdmRE5ZUzJKTU1HZFRjNUpjSVozVGhYOEJvbXgtdmFmNXJCT3ZjcmxMa2ZkTTB2bjFkTzBaZDVwcXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-03T22:06:58+00:00",
+      "summary": "AI安全风波持续：OpenAI解雇三人，动用7000块GPU排查智能体异常活动  手机新浪网",
+      "categories": [
+        "openai",
+        "tools_apps",
+        "chips"
       ]
     },
     {
@@ -22,21 +44,11 @@
       ]
     },
     {
-      "title": "贝森特批评AI风险警告是危言耸听 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3Z1Y1YxcHl4cTc4Y0VBWHNhMEVGZWdtczZhWXpUSlBVejVPdjNXS1g3bzBmbkxWSjZveGNrUGp5X0Z1X2xndkZRcExhYzZHTTNGRWVUcFBHQUc3T3c5Umc0bC0tbXFHWW41bHNqVzF4VWJvWGRxakR0UjQxN2g5dXljU0VBVWctSHJNWEdrbThfS3g0WF9sNTNhYVNDaG9fSFpQMFdwdkdqdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-03T19:49:17+00:00",
-      "summary": "贝森特批评AI风险警告是危言耸听  新浪财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升 - 新浪财经",
+      "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZXA0OWVjME1uTnFvd2xrSWx1dDdkVTQ3NTJrR1RjZDdlSW9PM2s2LU94blh4Z0E3bC1zRlp6MVlJRFFLNVdockl1VEdyeU5mdGctSEpXRW9fLWJxWnkyTnpTaTVsTXAyZDhXYldMekw3RW5CWU5QYWdsZFpzTjJjUGdXUEpHSlN2TG5fUzkxSnVjV2pUaVdEMkhhcGVjSTRBczRDS3Q2M254U3lhWnA4RWJQcGpIUXhVR3Q3eDJOQnRXd3VqcXB1Z3hpYTA0YTQzVmhzNnQxbllRbHZyTnRNZ1dOZXBqTXRJd2lPX2xLV3BIUjZhdXJvN0FKeHRsTTRlaWx3R2I5ZDFXUzNLUHNVdllxc2VWellzcm9jTHd3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-03T19:06:57+00:00",
-      "summary": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升  新浪财经",
+      "summary": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升  finance.sina.cn",
       "categories": [
         "other_big",
         "tools_apps"
@@ -83,13 +95,44 @@
       ]
     },
     {
-      "title": "多次曝出安全问题后，OpenAI安全系统团队负责人已辞职 - 新浪财经",
+      "title": "DeepSeek：Agent竞赛的终极战场是训练场 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0gwaF9Zd3ZpVWMxYTRKZU9Bckh4X0R1S0JOQWNacHRFUlROTExxcnFmdTdrZkx3eXg1cjI1Y2NtWmltZVc3M2tzTE1adDFmN0ZUMmcyM1dDcU83Mm5TOHROTVUyb2ROaEowdEVzT3NySFd4VnNrNS0zQ0pBN041NFFQeW1DeDdRQ3JYWg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-03T15:55:08+00:00",
+      "summary": "DeepSeek：Agent竞赛的终极战场是训练场  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "多次曝出安全问题后，OpenAI安全系统团队负责人已辞职 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUV96bW10S090OGNBeTF0R0dTcWZOZWhBQU1SSkdScURkRjY3SWJiQzNiRE1hRzJSWnhDcTBzVlFneEk2Ui1JSkJCNG02ZDdZU1VnWmE5bHNFMTBiOWh2RWZ3U3J3X3k5dXlvVFJnOUFtRVJaY1hpa3RHeVpNQWxNb0MzR2FHT1NDZHctOXdtNWNOSUVFX25YcjZLV2kyRjZNa1hoSTVWajl1Tm9Ba3h6dGFwNHJkb3F5aHhMN3FYaG5IVE9hMW5UaG1kLVJZOEExOWc4NUpZZ29ZSllQZXdxNThmR0FoS2ZXUFg3TnprR3FQZkZNZmpuWlRYdjZqX3lIOWxYR19ETUpXVWo4?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-03T14:38:44+00:00",
-      "summary": "多次曝出安全问题后，OpenAI安全系统团队负责人已辞职  新浪财经",
+      "summary": "多次曝出安全问题后，OpenAI安全系统团队负责人已辞职  finance.sina.cn",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "OpenAI安全系统团队负责人辞职 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNamNyQm5zSi1KZjJXTTgxUURtd2hsQ3pWenRkMTZpbGtZUGNWRVlVN1k1RmYybEI0cWxicDV3VGZZbUhWMmN2bXBFOUpxUzNtWnJqX0xtaTFDb2VKT1dVb21adjZHeW81ZUFwSVh3MHFySGFrRkRpVW9pVTVkM2R6VEdBcUtPTjI0R0JpM3hB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-03T14:22:12+00:00",
+      "summary": "OpenAI安全系统团队负责人辞职  手机新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "【图】提供豆包大模型 将覆盖20万元以上主流市场 AIVA ME7全球首秀 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBubzQwcGZfdV9Jdkx6aXlCTUxselU3Vy01ckRnUGxpQzdGTDBuRlZOdlRpVDZSNGg2SFY1ZHI5enEzdkZ1NW9XN1lvRVY2eENUTDdCRFY5U2ZidGJ2TVRSVGRR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-03T13:26:45+00:00",
+      "summary": "【图】提供豆包大模型 将覆盖20万元以上主流市场 AIVA ME7全球首秀  汽车之家",
+      "categories": [
+        "breakthrough"
       ]
     },
     {
@@ -146,21 +189,10 @@
       ]
     },
     {
-      "title": "OpenAI再曝智能体越权访问澳大利亚政府系统|火灾|模型|机构|新南威尔士州|活动_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0tKQVg1MUVPNXdUUlVWc29odkhpYU9senlLOG0xTnd2QUdieC1pS1hoeTN5bTM3NlBxbTdPMVBwcmNpdXhMSFp6clZqR3hEWWRXdmx1UEUtS2FYU0l5VFgzRmdrbjJHRmJELWs1OFVEQmRod0JZeGZvLVVWOEJRUlpxdVRvQzdKV1k0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-03T10:10:06+00:00",
-      "summary": "OpenAI再曝智能体越权访问澳大利亚政府系统|火灾|模型|机构|新南威尔士州|活动_手机新浪网  新浪财经",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "ChatGPT上了新功能！买衣服前，能直接用AI试穿了 - 雷科技",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JM2dHTXh3bkIycWl5X1RNdVJQbGlRdVNaSVR5aVBLSERUWEhzZVNTZ2hDc3RpUzRrREdvd3pyNjBXbW5QQmZaMjZVMFB4UQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-03T09:55:32+00:00",
+      "published": "2026-10-03T09:55:35+00:00",
       "summary": "ChatGPT上了新功能！买衣服前，能直接用AI试穿了  雷科技",
       "categories": [
         "openai"
@@ -218,6 +250,17 @@
       ]
     },
     {
+      "title": "OpenAI再曝智能体越权访问澳大利亚政府系统 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEx3ZmlWcXlNR0ZnN3VZUG1BWXJtOU12NEhBcnZPTmZ0RWhkTzZ3MGlFdHZERTVMZ2ZGd2FJUUt4SG1tVDRxV1dFeVlrQlVZNHlTR3dZRUNDYzFyTmN0SnFzT3l2LTNpT2lxU21vRzJkSUQ4dkdUWllETVc2bFB4azVoRDZlYjlH?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-03T08:19:00+00:00",
+      "summary": "OpenAI再曝智能体越权访问澳大利亚政府系统  搜狐网",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "大模型API写代码哪家强？算完这笔账我沉默了 - CSDN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkREhKQlpMSy1iR19PNy04eU4zUmJoTnJaN2VHaF9aSUloLTRQUzE1ZzhYMTdBaHRiTXlQaTU3ZW1FbENfTFlPUGYzYkZTRTV5RVFiUC1fTVR5ZlUyRUE?oc=5",
       "source": "Google News - AI(中文)",
@@ -228,11 +271,11 @@
       ]
     },
     {
-      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？ - 新浪财经",
+      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？ - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPRkZrd2stai11TzNUS0w3MDNNendRUDU2eWc1RjhvR055ZEw0Mll4YjFTVlBUTUt1WE8xUVVXZ3h1VW1uMFZLVlVQU2Q1MHNaRG1mUlg1ckFETExENHVnbDBsN2VMdVhaZlFTNmVfb2RmUGtYeV9ZMGxZOWJFMDhtVGNOaGhsMk1TTHFLUlVjcTFkbE9KTlozc0t4c3hvcExrYUFwRW8yNTRjbHR5OUFDSXVDOXFMX3BZM3RuQWZyM0p4MEdBelh4ZFhFZkY3cUNCRGdpY196LUJ0TFZ1VTF5dHl3TEF5RlhlVElJSVZCWmdxS2o1QXlCZVdSalhnT2ZFcEpONDZJMGVKMlcwRHFRX0VCN1o5SS1TYmFZWmN3?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-03T06:56:29+00:00",
-      "summary": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？  新浪财经",
+      "summary": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？  finance.sina.cn",
       "categories": [
         "anthropic"
       ]
@@ -290,16 +333,6 @@
       ]
     },
     {
-      "title": "丘成桐新论文致谢了GPT和Claude - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82MHNFdWduS05mZTdTR2J0RnJna0ZLMlZxdkZjUW04N3ppQ0FJQjNTNVdremNJWGVnRnlXSUZrOTJEU2prcVFLYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-03T04:10:00+00:00",
-      "summary": "丘成桐新论文致谢了GPT和Claude  智源社区",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "对标GPT与Claude，谷歌新大模型暂不面向普通用户 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTJraVJKRjJDZ3Z2Zjl5OFMwWW5HeVh4b3pJTFJ0bkRCampMNTJEYTg5V2YwRGV3b0dJd3g5OWV3ckkyTjBKRGhncXRSVU5mRmFiR2RiOVVnajIwMllnX2lLNTZRckVmcXFqYXBFcXpxdWc0OWFSQTl6eUkxVllJdElYVUtFY1JIcFR0aw?oc=5",
       "source": "Google News - AI(中文)",
@@ -310,44 +343,13 @@
       ]
     },
     {
-      "title": "OpenAI披露澳大利亚又一政府机构遭入侵 - 央视网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uOUpnaUNJa18welQ3UHRLaUp0VkJ5RjdFc0NYa2V0UVRfZTRseXFKRHdHeklCMUFLbElJcWk0Rlh3WmU1TGVjWDRwa0d6SWlDbDlaR3BjSlVHUUQzcHE1ZklPNHFxUkp6RE5meVg3QlpNNkVzVy1NSw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-03T01:13:59+00:00",
-      "summary": "OpenAI披露澳大利亚又一政府机构遭入侵  央视网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "澳媒：OpenAI“失控”智能体6月闯澳官方网站，当地政府近4个月后才收到通知 - 新浪财经",
+      "title": "澳媒：OpenAI“失控”智能体6月闯澳官方网站，当地政府近4个月后才收到通知 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ib1NfSkZnMkNVdWVEa3Faa1BfSFQ2ODJ1dmlyeVJobDd5SzRINTNIV2tRdnR0QXNJbGtBZ0NnaDY3c243SktfSFhvRzhieGZ4bmJ5UDRJVkg2VHlZMnZ3NUtmNVRsQjZ6NTNWSDBSTi0wZE1QaXk2YQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-02T11:37:21+00:00",
-      "summary": "澳媒：OpenAI“失控”智能体6月闯澳官方网站，当地政府近4个月后才收到通知  新浪财经",
+      "summary": "澳媒：OpenAI“失控”智能体6月闯澳官方网站，当地政府近4个月后才收到通知  finance.sina.cn",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6bjVrWUhuMERhcFhhN1I0ZWNjWXdGSnZadVA5cHVEVFBWM0lrUlZYX1NYVkh0MmNPVDdONkd5UElvZV9qc1h0QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-02T05:20:00+00:00",
-      "summary": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让  智源社区",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "荣耀Magic9系列发布 与阿里打造397B智能体大模型 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUbHFBYzMxSjFPRDBMcmlqclRvMUl1b2t4a0FMZTBGSnNybllfdi1UVklBM0JWRERQRDZ1YTlxaHRzSTZDMWJ4XzMzN0hGUVV5NFNLbHhueXBTRm1HRmJ2WGZLc1IwZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-09-28T07:59:45+00:00",
-      "summary": "荣耀Magic9系列发布 与阿里打造397B智能体大模型  东方财富",
-      "categories": [
-        "other_big",
         "tools_apps"
       ]
     },
