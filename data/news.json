@@ -1,35 +1,288 @@
 {
-  "updated_at": "2026-10-06T03:13:08.425460+00:00",
+  "updated_at": "2026-10-06T10:39:42.243666+00:00",
   "items": [
     {
-      "title": "亚马逊云科技接入智谱GLM-5.3，港股“大模型双雄”齐涨 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOR1JfSUdFVG0xNEd1R0VWZlB3cGFhNGNFY2staU5uOVQzWnpIVDBES1lub0oxWmd1cF94UEpqNVc5SEJfWlVWT1c1OTVqRWhjY0lnUExudlNMaUE1MXdJQ0k4NXNmbktMaTNGRnJhdmNSaUd0TkZKb1BCWUVXbnFmdVlGZ3o1VWJuSnkta0ZHNG5BN3BvNmkyaFJXakJFSjYwem1ITVEyZ3NaWUhaekViMGhsT09XU3BsQktubHo3bWc2Y05sRktQZ3dpaVJZTVFOc1VCeE51em9hTGp2amI3eEExSFJTNG5oemJGdFF6VTY5enBMRGFELU56OG1ucXJybzM1Zml1UDRoSGJEd3U3MkRXbGUzdHlsX21STENR?oc=5",
+      "title": "微软内部Claude相关支出削减三分之一|Anthropic|Copilot|开源模型|模型|客户 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEktTXlPQmZJS19wd053ZWlUbnowYkhmWE54My0wU19CaGFJWEZYWWNCdWFpblU3R2Q4RW42X3plNWptUUxaeGZGRnB4QW8tSGp5V3oxelh6VnNycHA3eFJ0QWRSczFpc0VEVW5wNzJ5eUVLQ25hcmNFbDFxNWo4NXFCNGZzM0tkNWc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-06T02:05:37+00:00",
-      "summary": "亚马逊云科技接入智谱GLM-5.3，港股“大模型双雄”齐涨  新浪财经",
+      "published": "2026-10-06T09:53:06+00:00",
+      "summary": "微软内部Claude相关支出削减三分之一|Anthropic|Copilot|开源模型|模型|客户  新浪财经",
       "categories": [
-        "other_big"
+        "anthropic",
+        "open_source"
       ]
     },
     {
-      "title": "95%的人不愿为AI付费，1%的超级玩家养活AI圈 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0c0JOMW01cUIzSlpfbXFNNkZ3R3oxeW50eXc3LU8ySThhWnhndG9IZDdDQjNvQnZ4ZmFObDFxMXFHVUgyYUVLeVczSmc?oc=5",
+      "title": "消息称Meta和微软要求员工减少使用Claude 多用自家AI节省成本|AI模型|格隆汇|Anthropic|格隆|预算 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ya0JWNUt5WVhmSFJHZDliYWltNjR0SzZDdTZhT1lBZVZKRzA1cTN5eU90QTkwX2JjYWQ5eThCcVNTU2JrLU1NRmxobHlhZHNHRkIwYXk1TWFUYlNmbFBva1o5cFBsT3lLNXE0M3pIU25QSFJUbWJyNQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-06T01:43:30+00:00",
-      "summary": "95%的人不愿为AI付费，1%的超级玩家养活AI圈  凤凰网科技",
+      "published": "2026-10-06T09:31:03+00:00",
+      "summary": "消息称Meta和微软要求员工减少使用Claude 多用自家AI节省成本|AI模型|格隆汇|Anthropic|格隆|预算  新浪财经",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "800亿！曝DeepSeek新融资，即将IPO - zhidx.com",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53X0RGTjNUSEE0SDlXbl9yQmhhWld5LUF2YWFGdnlGbGZ2b3A5SkR3VnZjMGstYm5YRE16OVM2U05Fdng0UEE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T08:57:36+00:00",
+      "summary": "800亿！曝DeepSeek新融资，即将IPO  zhidx.com",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "中美AI军事化背景下，美国国防部正式停用 Anthropic 的 AI 工具 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yRXNxTnhJYnl5UEh1QzU4Tk0yenZMRWIxRF9WSGt5QmxvYjNJNDAxczBFb2oyWTdZMnItSzFLVWJFUFR5ZFg3bmpUTTZ4bVl3SDZxWlg2QmRVeXN6LXctVHZOYnQ0ZTTSAWxBVV95cUxPTmViNUFrZTV4a3ZNQ0VMR3RGSm9vT0U5TXVYRU8tc1VfS0laVXYyWDBWWEpxak4wMlhzZ3NXeG9scmM3cGUteG9kUEduYm5PUW1TcjFvM2VoWjg0OWpGckliOFVBeXpRV1dxWmM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T08:48:31+00:00",
+      "summary": "中美AI军事化背景下，美国国防部正式停用 Anthropic 的 AI 工具  BBC",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI在其智能体擅访澳数据后采取新防范措施 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2hmZElqcHpjMDFCeFBmeF9kM0JTX2ZQc196WXV1OC1uWVZnbWhUS1dvaDRkRXNETHJ1dmFmbllhblMyT202SE9vdDI4NkRmZ3lna1NZd3A2NWVwek02eFBudDFJS3VfQXk3a0gyNlNNYnZacGZUX2FtcmJpVzZUal93?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T08:39:51+00:00",
+      "summary": "OpenAI在其智能体擅访澳数据后采取新防范措施  video.sina.com.cn",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI将在ChatGPT图像旁投放视觉广告 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQU5WeGs3RlVOWVR0WmFQU1dKeGpZbjJCbVBLQ0VucFlVLXBSZ1ZDU2dqb3lWRlZIWG80TUZ3OE5UNXpYMm5jSDM5UFlRTExCWTU0N0otbzBET3Nxb2g1QV9lLVNHM296S0k2YjB6cENOSlRfLUhQYjBfSWFZTlpaNzZyNnRKMGNwaVRKTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T08:30:30+00:00",
+      "summary": "OpenAI将在ChatGPT图像旁投放视觉广告  搜狐网",
+      "categories": [
+        "openai",
+        "image_video"
+      ]
+    },
+    {
+      "title": "Google大幅缩减Gemini免费权限，高性能AI走向付费 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjM4ZWIyd0VOWjh5RzlqVkJkZVYyaVNEbW04dlZpaUFiMlpTY2VWeHJqcnB4dXc2RnBXYTE2WHVYbWNrNnIxUkNWNlh0RW1kT0xLT0dmYnlmMjFmUXR1NXowM2poeWJ0Wjl0Y0U4VmwzVlR1c0xuRXQxOGFtU2VQNk5hSzFxLTFwbW84Uw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T08:25:37+00:00",
+      "summary": "Google大幅缩减Gemini免费权限，高性能AI走向付费  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "MCP Adapter 登陆 WordPress 目录, 官方插件让 AI 智能体连接网站 - pasqualepillitteri.it",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekU4NXlLYTRoRmVENEtmQTFZYndzcHZKOWxLZHpTVzVHVTFmZENITUdjRXRUcDFQUm1vTUZhVEdMZDBvSE9VVlZEaGZYZFcyUUVDa3Z6NU9sUnZJVjF3ajZZTzZsWHlzd3BFZ1ZXZnFRT2pnTXE2akkybTltbmJGVW4tX0xKZjBPRVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T07:53:40+00:00",
+      "summary": "MCP Adapter 登陆 WordPress 目录, 官方插件让 AI 智能体连接网站  pasqualepillitteri.it",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek拟融资至少800亿人民币 腾讯等参与投资 - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PckhrdmtjeEVlNE54Rmp6U0o1cTNidXZqS2pWU3dHYlJ5MWRVZ0VpcGRIcndZU1RmWlBSQ2QxckFmdmZkbEJLNFI3Yk5ZalZXV21UWVJ2U1lBRzFrVzRBakR6RXNpb1JwS1E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T07:45:40+00:00",
+      "summary": "DeepSeek拟融资至少800亿人民币 腾讯等参与投资  联合早报",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "OpenAI推出ChatGPT视觉广告,投放在用户等待图像生成的空档 - pasqualepillitteri.it",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVlYWHFxanQyNS01TE9COWJwOTJ4bXBTa2paaUd4ZnNneVZVbHduaEk4VGVQUmE2OWxRdjNLOVgzVENDVVAyWHI3WTBITjlrVHFiQUxGVEFDV1hsNjFSSU5aVmhWTl9ZNVNBTWZPa0dzZFlHMXh1Vks5Zm4yTUhHTlFlaTJWM1p0YjZsYVZn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T07:39:42+00:00",
+      "summary": "OpenAI推出ChatGPT视觉广告,投放在用户等待图像生成的空档  pasqualepillitteri.it",
+      "categories": [
+        "openai",
+        "image_video"
+      ]
+    },
+    {
+      "title": "微软将内部Claude 使用支出削减三分之一 - video.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUE9wSEIyTXlOMkxQclpPM09vWno4cWw0R1JFNlk2ZmRmS0xERG1DMXdrckV2dzByX00xLUZKZGkxdTlsVjFaQmhBZE92Y3IyTEZHbXRWNnFlUUNWSGlkdW1heUZwU1VTb1d3aFpfeThvaGxXV1FHbnlSeE9SVUV3YXRR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T07:33:18+00:00",
+      "summary": "微软将内部Claude 使用支出削减三分之一  video.sina.com.cn",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek据报新一轮融资至少800亿 远超预期 宁德时代和腾讯领投 - 星島頭條",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOWDVsYldyLVNNRzNVcmF6dzdrQVh6c0swd0k0NmIxSFo3VEg5dmZRa0YtUkowODRmUzYyNS1HMHFlV293b2I2SjRoMVBpdWdiZzRVV3NqRy1HS0xpSVRWR3ZrWDJLQk5zOEhJejNIYWJQdC1jYnFBd29IVjlLRTZ3N0czemZKdFZmaTlybVdtNm9zUWl0LXlVZlVKMUEzMmlLa3pRdWJPc1hIVGZXT0s1ZEktWTUtTFFFUTdqaEtFb2txYkpYY0xqbkdmX2wtWWV4a0hqc0lWUE16ejktNV9uMlQ0R0JzX3BrTzFHaU9BTGE0STlBMjlzMVBJTlZFMGRYMEZYM3Q4bmNEcFRfTVgzTzFUaDFZRWZUTE5tMVEtX1Q3TFFlU2lfSG1XUVNyN2o4ODBKeERic2lSdndwVzNhRWt2NTg4VE5MWkpZdTQtdDN2RmpwazNNYlZvdWZlWXZPRnhCc1VxVGd4bi1uRVdkQTRPX0lVWE5GY2duNko1U3k1b012S3FDTTZwR2NTc0t5S2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T07:27:17+00:00",
+      "summary": "DeepSeek据报新一轮融资至少800亿 远超预期 宁德时代和腾讯领投  星島頭條",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "韩国拟推4.7万亿韩元专项计划，明年3月起研发前沿AI大模型 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWkx3RnBrRTFfWncxMnFFa2xpaEc3SEdqRXlQVXZyYmlSYmJyM29adG8wRVBUaHhKNThDYW9iUTVkZTlBaVhaSmV1aXY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T07:20:04+00:00",
+      "summary": "韩国拟推4.7万亿韩元专项计划，明年3月起研发前沿AI大模型  凤凰网科技",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "GLM-5.3上架亚马逊AWS旗下大模型平台，智谱打开海外收入分成通道 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG4xaFVBUmRuVEpGMHU2NlFDLUgyVlo1SldOdm9TSXktdkIzYko2VktBUEh4bFRVbVh0a1BSZzNucTdLZVBMUXI1WVptTFAxclA3NHFyYU15cFdwLUdmVmt5bldlTTdyUmtMTTVfckFYYkFIUFVmaWtpUHVSOHlJamI3RkpoWXRq?oc=5",
+      "title": "DeepSeek据称接近锁定至少800亿元融资 腾讯宁德时代参与领投 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnOVVCV3oxNzA2RlFuTHgweHZ2Q0xQeVlTQTEyal9kZURUS0hzcUJFNnQxTzZEaU54NEZBZUwwOVVObkxaZHdyb2VfQ0dmbzhDdl9hUWl1dU9RMjRmR0dSNTNn?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-06T01:34:19+00:00",
-      "summary": "GLM-5.3上架亚马逊AWS旗下大模型平台，智谱打开海外收入分成通道  搜狐网",
+      "published": "2026-10-06T07:03:26+00:00",
+      "summary": "DeepSeek据称接近锁定至少800亿元融资 腾讯宁德时代参与领投  观点网",
       "categories": [
         "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aMkFUNGphN1BNMWg1QVNuNGFZSTA3M1BNT2h4LUFfODM4djMxbEx0TVhDR08yNjM4d3pBQkZ3QmZEX2c5RjZrenhsc1I?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T06:43:24+00:00",
+      "summary": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash  凤凰网科技",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wcS01X19JMTdJR1c4cWdvSzJnRWxUU0VEeG5SMEZpNVloaEJPcHZ0cUFNSUQ4MUN2NC1IZXNVbVFPT25JMk03Q2txb1E5aWdKa29J?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T06:26:17+00:00",
+      "summary": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投  华尔街见闻",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "全球大模型第一股，股价大涨 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkhzbkM3NVNJWUxSUldKS0hzZElTdWQySjN0ejB6RUtNZGhlbTY3WlFjbDQ2RW11aGNIb3h6eC1LMlFDNS03N3V6VTcwMlQ1MmVZdGtXN2U4U3U4MEdMN1MwZEh6eW1aUUt1Sy0zcjdyYlVNVWRidGJWbUU3aGJ2NEdtblBkc3JmZU5YdA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T04:46:30+00:00",
+      "summary": "全球大模型第一股，股价大涨  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI落地欧盟AI合规要求，ChatGPT生成文本全面植入隐形水印 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVm44ZzhjTWtqOTdZOUZBdFBFejV4WVk1bFhGalV4OHR0U3VQTFZtbzEwZ1FjMVJvbDZHX2Uwc3laQm9CU3Nnd3dMdmc0bDZOQ3JNMjEyTU9BX0FwbmtBLTQ0YldQNUxER0JUYmdpeUxrZndSb0dzT3NjVVMzTHVsLU5GY1piVHpxa19oN0tB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T04:43:00+00:00",
+      "summary": "OpenAI落地欧盟AI合规要求，ChatGPT生成文本全面植入隐形水印  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "智谱股价涨超5%，AWS Bedrock接入GLM-5.3并按调用量分成|云平台|大模型|阿里云|华为云|开源模型 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdk9QRHpkQ1NETTd4bEU3cTZLSHpPa3l3WFRrTmdmNjc0eHlVZHZSbWpnODd1NHNQTTkxUlRmaEVnTUEwNlNqWWxaVHZLNFVSQmk1anJxbzBweTZCSk80TjFwYm9tUUhvUjY0Q205NVFqUVBSY2ZTSG9WUUZTajdsUHhKc1pZNDBKWU1FRzZXNEFoaU1lWkUxNVo4Qmd3TFlhWFJWSlZ3N3ZHTzd5S0cwU0tsQlFIREM5M1pSWTEtX2FEb0E2VTBSeC1YbnFvc1l4NlVwT0drVnVpb3pIS28yOTgxNE9FX3NGaTBnWlpzM3pyWWNUVlBxYg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T04:39:17+00:00",
+      "summary": "智谱股价涨超5%，AWS Bedrock接入GLM-5.3并按调用量分成|云平台|大模型|阿里云|华为云|开源模型  新浪财经",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "智能体越狱频发：OpenAI踩刹车取消GPT-6.1 Astra发布，Meta猛踩油门边开边修 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pSm5qMEROODMyczZNSlV3Nm1kcjBfQnczeFNpNXM4bFNYTWtpQ1YybnBZVkp2emJqZE12V2F5bG1jQXk5SlNjVFNOZThyazlUTWNPR1hldURQQ01qb2lv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T04:32:06+00:00",
+      "summary": "智能体越狱频发：OpenAI踩刹车取消GPT-6.1 Astra发布，Meta猛踩油门边开边修  虎嗅网",
+      "categories": [
+        "openai",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "月之暗面估值达500亿美元 拟明年初赴港上市 - 早晨报",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Cb2ttSjd1RjNIRWFUZ2ZyM0M2ZWNUdzBpRjBySTVOWHVwTG1raWlzaUZzbThheldoS1hQM2xJaUQwdFQzM0xCcndiUUIzdVJfem1vY1hZWGI4ZXNXcjNERmRYQ2ozaFZyWGpV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T04:00:00+00:00",
+      "summary": "月之暗面估值达500亿美元 拟明年初赴港上市  早晨报",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Gemini 4 Argon 发布后，AI 的工作单位变成了一个项目 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yTG9CRm5ZUG1UQjZQTTE4Q29wNFRzY2hCNm5UR05udFRlNTZ5dTZHX3B6SkpnZ3NkVXFkZWkwLVZVVTBPWEx0YWh4TTh1QXpTLXBrbFhFU0RqTXM4OWVzVVZRWmdwTWV6TjZPZWxxekQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T03:43:09+00:00",
+      "summary": "Gemini 4 Argon 发布后，AI 的工作单位变成了一个项目  53AI",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "智谱GLM-5.3上架Amazon Bedrock|Anthropic|OpenAI|大模型|云平台|阿里云 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zaUtJY1liY1M4NUhteWFYWW9JRGNUT25xYjVDNWFLbmpLa2V5b3pTYkxKQUg2TmdQaHltaTF4M1M4M2dhSC0xTlFpb0U1QkhPeDk2c21TZ3Z0dmJsbHNWSGk0Z29fd1lhbUt1bmJJWlRNVkJYbEF4aQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T03:27:00+00:00",
+      "summary": "智谱GLM-5.3上架Amazon Bedrock|Anthropic|OpenAI|大模型|云平台|阿里云  新浪财经",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "欧洲央行前行长建议欧洲联合融资支持AI发展 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0x4bHZBSjh2R1o4LWlYMnVyb1BTeS1UTVEwVGFhNXNobXdYLVdHVVY0WFlHZWhDSnk5bWstSTRxMS14cVl3c2cyOFUxUVhpSldtM3hGdFZ6NnFkbzFKZ0Y5Y3dyTjVSa2lXYUF4SW8wUEJjY2xsUVpWQnpNM3Q1NHNVTVgxV3dq?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T02:49:24+00:00",
+      "summary": "欧洲央行前行长建议欧洲联合融资支持AI发展  搜狐网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Claude太贵了！微软砍掉超三成预算，Meta用户直接腰斩 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EM29RTEFFcDBNR2JnMGh2SUtpdUU3OVZUOUJyLUxIMFZaREhPU3g5d09JeVpGSHlkQU1hZ0ZfR3N6ZGg2ekoxNkYzaUg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T02:40:00+00:00",
+      "summary": "Claude太贵了！微软砍掉超三成预算，Meta用户直接腰斩  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "港股大模型相关个股走强 智谱涨超5% - 手机网易网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKbWpoQjZrdGp4TXNpamVUV3ZESk1wb2p5OFVwNzdzX0ZiRjBxWDhpbHFRYURVUktHODJPMWxkbVNBTGZ5ZGZDZ0xWUDF3WDhUd1ZQek9BdHZXemxDTkF2eldR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T02:22:36+00:00",
+      "summary": "港股大模型相关个股走强 智谱涨超5%  手机网易网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "[流言板]Gemini预测今日赛果：Hero连胜终结，DYG从AG手中拿下一局 - 虎扑",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TVFRxc3kycTNiMTNwZEJ1Q2M3UGR2M3BnT3ZKaDdBeTN1cXNKLUl3Q0J6aWJ4V1hLRXpUUmZ6NjUtYVNXdmkzbnRPQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-06T02:12:46+00:00",
+      "summary": "[流言板]Gemini预测今日赛果：Hero连胜终结，DYG从AG手中拿下一局  虎扑",
+      "categories": [
+        "google"
       ]
     },
     {
@@ -44,35 +297,13 @@
       ]
     },
     {
-      "title": "五角大楼停用Anthropic旗下AI工具，CEO上周刚与特朗普“破冰”会面 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWR6RHI2WHlzQUI3OTNWZFlsV3dIT2p4TGQ1VU42RmNaUnpNcVF4aHgwc2RQNGFQWGlsSi15Yjg1alhSVUtsdXVfR0hxejF4aFlVZzVldm5FQkRhbndSbGpqRXA2Zktaay1uUXBsTnJuWld4VjdkaVFURnJPM1lrTUlqbHRQWm9p?oc=5",
+      "title": "Jev 引爆 AI 新赛道：日处理万亿Token，硅谷集体布局决策模型|ChatGPT|OpenAI|华尔街日报|大模型|美国 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OSjdjdjRrQmZPOFdzTjlFM3RFYmxVcWtPQ29CTDVFLXFTMzJqM3RWZGR4Z3UyVGJ3VXJ1VlZGRjdlV2xhc2kyRlFWbGVJLUJiMXJrWkVhZUNuMkt6TDhKLXp5aVZISThaT0RQV2ctYkZwV0VzVUtobg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-06T01:10:47+00:00",
-      "summary": "五角大楼停用Anthropic旗下AI工具，CEO上周刚与特朗普“破冰”会面  搜狐网",
+      "published": "2026-10-06T01:01:03+00:00",
+      "summary": "Jev 引爆 AI 新赛道：日处理万亿Token，硅谷集体布局决策模型|ChatGPT|OpenAI|华尔街日报|大模型|美国  新浪财经",
       "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbzZTRHo5dDJudFRzSkxnWEJsTWJYVjZ5VGxlcnA5RXVvRmhaWlhOT1RJdFp6aU5MWWlmQXQtTmptNy1Lb3BPWl9ZbWlfd1hQY1I0UDJQdno3ZjNCMHk4NDJrQlBfLVgwaXJ1eDFIVUhvUU5mQnIzdGliTmdnWUJGYndzeDlrZ0g3Qi03UzBKZzhZLWZuZ3VndnFtTzZSUWNPTC0yeVpXNl9qckg0aWFFWGU5eDkwWnB3ODYtYnpwbloxX21yUHZnakFFT0lISDdvUGI3cjBxSEJ2eW1FVWtSMEdLTzNuQktpYUVfdVROdmhVanljYVV1SnROM3Z1VUhmbms1Vm9LZkZPaHgxVk1SVFBJWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-06T01:06:14+00:00",
-      "summary": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam  新浪财经",
-      "categories": [
-        "other_big",
-        "open_source"
-      ]
-    },
-    {
-      "title": "Flash-dLLM：给扩散语言模型装上\"闪电缓存\"，让AI写字快到飞起 - 科技行者",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kb3ZyaGt3S0NCZU5feGVoblNWSW5ZUkEybUF6U0xTQ1ZiVGRuRVVrWVZoRHphRFpxeklvbG50Y0dOREdqckRZbzg1T09KdzE2NHVOSkM5eFM2SEEtVkFJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-06T00:18:00+00:00",
-      "summary": "Flash-dLLM：给扩散语言模型装上\"闪电缓存\"，让AI写字快到飞起  科技行者",
-      "categories": [
-        "other"
+        "openai"
       ]
     },
     {
@@ -88,16 +319,6 @@
       ]
     },
     {
-      "title": "谷歌有望升级Call for Me功能：Gemini将支持代用户拨打私人亲友电话 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pd3pyVkplTGtIM2RJVmdCX2d5TkI1TU55aFBuRkd5R2pEeEtlb05KUWt5RWFlY0xOMHBOcVhpTHZMN09lenBuVm5DNE0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T23:47:09+00:00",
-      "summary": "谷歌有望升级Call for Me功能：Gemini将支持代用户拨打私人亲友电话  凤凰网科技",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fQVZYR0xuczJJWWF2Wl91VUdfWk1CWjdBcHpYTHBudUFYT1hDdEhzclVNY3gycmtuN0xSMWNpblJRTE15Z09ubGVWOEw?oc=5",
       "source": "Google News - AI(中文)",
@@ -105,76 +326,6 @@
       "summary": "OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5  凤凰网科技",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "大模型API平台怎么选？别踩坑，这份避雷指南请收好 - CSDN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15NHlHTm53N1J6OS1pZjJXbDdOVDl5QllIZGJ1dTBzVEVFRVhjSnpGR18ta3JsVU5SS1BJMkYxMTNQeEhTdl8yNElXcXBoUW1QazFRZXE3M3F6YVZSdEE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T23:30:10+00:00",
-      "summary": "大模型API平台怎么选？别踩坑，这份避雷指南请收好  CSDN",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "大模型API烧钱快到心慌？设置消费上限的隐藏入口到底藏哪了 - CSDN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CS252RnZOcEVkc3NVTVBVSTBsVV8xY0o3U1VoajZLSHJMMDQ4MXczTFFBbWVMYXRNMEo2Y2FfYmNTdkZEMEJubmcwbEF2ZjA1UXhKV1VGb3N3cFBGZ1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T23:00:53+00:00",
-      "summary": "大模型API烧钱快到心慌？设置消费上限的隐藏入口到底藏哪了  CSDN",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "“生成式把关”视野下的大模型信息回避行为——基于全球主流大模型的跨国比较分析 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1E5MVFEbERtTnFxbkk3c3EzSGs0RE9HLXQtMWdDcmlWX215ZWxYNUJ3UW5ZaFF2dnFlMTFnSGNDLW16MzU3NG0zcnRic1Zla013SjVtVElFd3B6cnFKV09rUjhobzFGSVh4OWp4bGJGTzZCRVpVaG1ya21RQzRwU1lDeDJLTUxoSk9DOA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T21:49:30+00:00",
-      "summary": "“生成式把关”视野下的大模型信息回避行为——基于全球主流大模型的跨国比较分析  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Meta、微软设法减少员工对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一 - 全天候科技",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3N2FfTWJ6NmRCZkRWZTY4Z0ZUekF0NnJjUzRuYVVLXzdCNW5LQnJEeWtnVnNJakJTX3AyUkRKZllDUUp5NzZpQmRB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T20:09:00+00:00",
-      "summary": "Meta、微软设法减少员工对Claude依赖：Meta内部使用人数减半，微软预算砍掉三分之一  全天候科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "努比亚手机怎么样？2026年实测：AI智能体+真全面屏，这3类人闭眼入+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTFZTVpQVmJwQ0JVTTFqaENFcENORHI0OTQ1Mmh3Qm1kU29IdDAtdFBVS3FzZnRNYV9VOHFTdlNtT1pvNFg3Q0RHX25CZlRGc1Z5dTBPWkpBTDNGTHh0aWRwdUR2b0tic2dsZUR3cWdiV2QwdXJ0WDJpSFhlSzViQw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T18:34:05+00:00",
-      "summary": "努比亚手机怎么样？2026年实测：AI智能体+真全面屏，这3类人闭眼入+FAQ  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI大模型聚合站谁家强？选错服务商算力直接打水漂 - CSDN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xdjNzc0FsV1FfYXZnazdRTURac1V6RmNWQWZLaGZrUXJhb1hubmphWC1GeXBscHZQRGlZQ2F3S3F3UVcwQ0JvSmk4ZDJxV0lFRTl0Zklyc2tSTjBZeGc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T17:22:22+00:00",
-      "summary": "AI大模型聚合站谁家强？选错服务商算力直接打水漂  CSDN",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179% - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjlsbC1KR3NvOGptdDQwZmUzT0lDa1ZVS29heUcxUDFlU3dEX2NkU2F5TmZYRmN1QjdJbFl0SXUxSE5xYWdzMEJMTXMyc3VlVUVlMkdIRExaS0d3d2dxdVpsZ1ZLMnhyV0VQNm1XaTRhdThNMXVfbnlaX1piMnlPeXF2ZURKLVRQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T16:27:00+00:00",
-      "summary": "中国AI大模型调用量连续二十三周领跑：匿名模型“太空兔”冲上榜首，环比增长179%  搜狐网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -188,26 +339,6 @@
       ]
     },
     {
-      "title": "LTM推出BlueVerse™ AgenTraceIQ - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xbElqMlJ1emdTM2RaQjRfeTJ6T0h3WHVPRFNnRC1lVGhvb0xOMGZmdm1scWYxdUItRy1QXzhNZnJfRUZKUllmMW5NSzJZWHgxOW9LaDhpVUd1aWw2TzJFeXBBN1hJdzVCWjlN?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T16:07:00+00:00",
-      "summary": "LTM推出BlueVerse™ AgenTraceIQ  Business Wire",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "4nm芯片+AI大模型，四款热门纯电SUV智能座舱实测：谁才是真正的“听劝”？ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Id1BqQ3JPN2xzQlR4dExFSlRfWWFZREtNLVBmS0tLYmNnYjRaNkZNaHZVQnZFenlON1d0bDh1U0RRN0dnYS04NTI0WVlzOFNuNmJXb3c1aVlSVkhJTU44ZW55UzJNVUlmX2NXdFJtTmpmd05IUjMzZGVXYmVqazA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T15:10:00+00:00",
-      "summary": "4nm芯片+AI大模型，四款热门纯电SUV智能座舱实测：谁才是真正的“听劝”？  手机新浪网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
       "title": "OpenAI将在ChatGPT中推出全新图片广告形式，不会影响生成结果 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XREhId0xfUHVjX1J1QTI4eURIczdoaHF5R1J5eng5MkswUUxtajhrYW1Jb19MSTF0UWZRR2ROWm8zTGJzY2tDMlBkWGg?oc=5",
       "source": "Google News - AI(中文)",
@@ -218,131 +349,11 @@
       ]
     },
     {
-      "title": "爱游戏·ayx官方网站AYX-X1 AI手机正式发布：AI赋能，重塑智能体验 - womenofchina.com",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTm9Cbnl6SXRGMnVjY1l4VzZVQVFfaWxRdklrdi1JUlV0SVdGWFV4amNuM3VSX1NaMDBySXlfanlCX20xblgyU0phNWFvVDAtLVhQbjNwTFVnZllDNEVPd293?oc=5",
+      "title": "Anthropic请多个宗教学者“教Claude做人”，且要求签保密协议|天主教|犹太教|锡克教|模型|道德 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVBfTkJNMXpWdVYxOXdCRGRjdlMtTG1RZ3pudlhLbFEyVVVOVG1aV1drWU5tMXVrdnk2NVpXMWV1a0VQU1BDa0FNZ1VYZ0V5S29tM3AyUzlaeUlNU1JrSE10akZLSjNqUXdKX01YUnZUTzBzejRGWFR5ajJBanh1Rm9lRUlLaExZZ0E?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-05T14:01:29+00:00",
-      "summary": "爱游戏·ayx官方网站AYX-X1 AI手机正式发布：AI赋能，重塑智能体验  womenofchina.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "把300B模型塞进笔记本和迷你主机 AMD锐龙AI Max PRO 400系列打造真智能体PC - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5saTZOR3M0M29Lb2gxNTl6ZXlIUTgyTWZJNndIbm9ZRUFvaDkwcDhTZ2RsaFpydTJ2YUtDOGh2NlNhRF9QM3Zxcm5tNmUzWFd6Y04tbWw2YTNabWxzc3FoQWVJMDFFVEN4X2xUQUJtWEY2U28zRWd2bzdZeU9yQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T13:54:37+00:00",
-      "summary": "把300B模型塞进笔记本和迷你主机 AMD锐龙AI Max PRO 400系列打造真智能体PC  手机新浪网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AIVA ME7首秀：豆包大模型上车，20万以上怎么打 - chejiahao.autohome.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82UVFoWE9ieW9MVHhmTFlMYzU4MGk5Unh4LWg3Mjdwd3lVMm5pY09zUkE5ZncyMkN1OXo4QzE3TDZ5MUI3VkZxbXgzX1ZKRFJObjJQMTdGb0JiZ00?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T12:52:16+00:00",
-      "summary": "AIVA ME7首秀：豆包大模型上车，20万以上怎么打  chejiahao.autohome.com.cn",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "OpenAI安全关键人物离职，揭露迭代部署致命隐患 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96SnRCX3JVZS1hczFJSVZMdHZxMW9pdDh0ZjF6cWdLNER6eVRMaUhqUWdwTjRaS3JDYW9zWVZTcGZXcVhoTXVQZUtubFlCVmktblhnZDdtR2tBZ0M1d0hMWjJCUDJUbmhDeF9wWEVtRjVwaWpLdExOVGlGcTVGUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T12:42:16+00:00",
-      "summary": "OpenAI安全关键人物离职，揭露迭代部署致命隐患  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "放养AI练棋，Claude暴涨250分！GPT-6越练越菜 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1RPRElEcnB0d2xRRXNxb1JpNHlZNXR4Yk5ETVdLTzVNZV96R3JNMjZ1TkFBR1pyTWdkeHdORF9rM0lzVlNEU1lFOUlITGVqeFMtZjRhMlNVZFhtaDF6c1pMUXJsRS1tSkxTazBXQmNvekxoTUUtcFNWdi1TbU1qVUJMMmJxazd1RDVVWA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T10:50:14+00:00",
-      "summary": "放养AI练棋，Claude暴涨250分！GPT-6越练越菜  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "ChatGPT正式推出文字水印功能 GPT-6研发进度提速50% - 36 Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90ZmpPNF91Q2FoN2Uwdl9icUNlMmRyNkYtemRsd0NlRV9ELVlRUmR6ckxsUjNieEZtaDFTdDlXVHd4dng0MWpJUGZZOGhTVlRMWU5z?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T10:08:00+00:00",
-      "summary": "ChatGPT正式推出文字水印功能 GPT-6研发进度提速50%  36 Kr",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic请多个宗教学者“教Claude做人”，且要求签保密协议 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2lnd29nMW5DMWpIMUs5enN6a05SMVlPNE94QXJxNHpqVzJtZjhjX1RwQlBTcVBUaFlqUEdDZjZTdmFNSTRfc3JjakFkZDhHSnc2NXhmdUUtS1dYa3Q3QWRRTWJkWjJnWHZlUFVYZ2ViVVhqUEFBSktFMWs5amNzc3NoQkduaWx1UF83VGt6Y3dwNnJqOHVvemVnRmFLVVdyakFCSjlzRmJKZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T08:49:28+00:00",
-      "summary": "Anthropic请多个宗教学者“教Claude做人”，且要求签保密协议  新浪财经",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "#花海一心想着千万撤离#Gemini把捡来的球全输给花海了 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkZLeDZkSTVHaEpQOVZTQVpkN3lyTGNHaXg1aklSNTR1ZUhUSURTMzFPVGJaZWlacEpDNUpRcUtsek1MOVZOTk9JaUdpU2VKcmJiU3p5WlZTcHVERG9DajZBZDdDN1BlbXRSY1o1bnRicUFOUG56LXdIdm1xa01YYjRn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T08:22:26+00:00",
-      "summary": "#花海一心想着千万撤离#Gemini把捡来的球全输给花海了  手机新浪网",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "“全球大模型第一股”，大涨 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TcHJjUHV2NzJqWllzOHBlQ09vM1hfcUN5MUoyWWpGa2htS1l4MnFnZXV1X0FCaF9makJ2Nm5wSWhfQlVsWkhtTzFRRnVRLUxuNk9hMEpfb2h4a0VuaFVRZEVJajdqNklISXRNYWpFWlN4NEYyWFhtdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T07:52:30+00:00",
-      "summary": "“全球大模型第一股”，大涨  新浪财经",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "全球AI大模型每周Token调用榜：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTN5eDc4bjBTVy01c2wwY0NPbFd4UDFUYUEyZmpoZGYyTXEyMWJWalBRdVg5UEoybTF5SGJsNTA3TkZ5SzJHSHduTUc4OXdUSkRBckUxMkV3QzYzYWhVcU5PS2NwbzI5eC1uZkhZLVVvT25EMVY3ZElmVWVvSnhyNHg4YjgzUXB4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T07:29:16+00:00",
-      "summary": "全球AI大模型每周Token调用榜：匿名模型“太空兔”冲上榜首，环比增长179%！DeepSeek V4 Flash预览版跌出榜单  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "看懂不等于做对：VA-Bench测出大模型空间智能的执行断层|GPT-5.6 Sol|Qwen 3|机械臂|GPT-6|Qwen3.8_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHM2dDd21OeGFsVEJrX3pLRFpHUmYyTVRhNnpYUXdaQVd3bkZ4Z2tIUkdRY0JqaVVyLWF4UV9wNkFUZ2NOSWJQMmFtckstdVNhVV9mcDNDWjhmMFh1eWVfMXhIV3AyTU54a3k4SGloSTRSV0ZZaFhoem51bS1nMkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T04:02:45+00:00",
-      "summary": "看懂不等于做对：VA-Bench测出大模型空间智能的执行断层|GPT-5.6 Sol|Qwen 3|机械臂|GPT-6|Qwen3.8_手机新浪网  新浪财经",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "OpenAI将连续28天更新Codex与ChatGPT Work功能 - donews.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIRWpuMWJQYmFEYmlDVUtfNDBZZ2RqbVItSXB1cUhmRlkzWHA5TVg4eWN3dXJTMTlFcHFIYkFzWGJuTXppT3BBQ0xlQ0NlUkVhaVdjdW0zYUV5eUtaSlE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-05T02:01:03+00:00",
-      "summary": "OpenAI将连续28天更新Codex与ChatGPT Work功能  donews.com",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Claude有意识吗？Anthropic找上神学家，奥特曼警告：别神化AI - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XXzdrQVhMYTU1cHlycFJuQW5GdkJ6SkxWNGtrVzNWQmJuVWkwS1FXWG12TkRvMmI4NU52SUxWYlB5QWhEUFUzUDktNXlGSFJGU3UxTGtVbEVoU2RRTkZiR21wZUZTVTQ0RTVSTVpEVE1uMS0xZXNzUjZVTmpPUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-04T13:09:00+00:00",
-      "summary": "Claude有意识吗？Anthropic找上神学家，奥特曼警告：别神化AI  手机新浪网",
+      "published": "2026-10-05T11:42:20+00:00",
+      "summary": "Anthropic请多个宗教学者“教Claude做人”，且要求签保密协议|天主教|犹太教|锡克教|模型|道德  新浪财经",
       "categories": [
         "anthropic"
       ]
