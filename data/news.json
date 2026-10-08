@@ -1,14 +1,220 @@
 {
-  "updated_at": "2026-10-07T20:43:24.444915+00:00",
+  "updated_at": "2026-10-08T00:48:21.569848+00:00",
   "items": [
     {
-      "title": "Windows 推出可访问本地文件的 Copilot 和智能体容器 - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRS1fWWhYT2R3bFZBTUpJLXdFRklfSXdTUzFyQjNsbmlMb3ZCUWJaS211c05pYUYyR2J3d2hrR0o3bjRuSmt3SkNXMnkySm9odjRDNFhvNzdMN2F6ZjZhZjNDeXIwbFRMVmg3bjFaSGFFOEs3bkF6YzQ1OVk0SmZUc1pjVkhYVlQyczBDRXhQaml6LVBs?oc=5",
+      "title": "韩国多家银行被黑，疑似有人工智能参与，李在明要求彻查|Anthropic|Claude|OpenAI|黑客攻击|新韩银行 - 新浪军事",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Dazl0YmpISi1QTktnZXhkY2ZZUVJoMzVKaW1fWTlFdDF2dmd5YWtHV01kSDZMLWFWZ0lpaHBpWlUtMTNhN2czWmZzX2lGRHBoSmJXTURKamU1MExIOVRoM2R1eWRXWjdvWUtFaXBwc1BXUlk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-07T19:59:59+00:00",
-      "summary": "Windows 推出可访问本地文件的 Copilot 和智能体容器  Pasquale Pillitteri",
+      "published": "2026-10-08T00:45:00+00:00",
+      "summary": "韩国多家银行被黑，疑似有人工智能参与，李在明要求彻查|Anthropic|Claude|OpenAI|黑客攻击|新韩银行  新浪军事",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "T早报｜特朗普宣布成立超级智能工作组；科技富豪年内财富增量超8450亿美元创新高；华尔街启动600亿美元AI芯片融资交易 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84c3JqQWFsUDNDQ2UybFhXd2pPRXNkOUdNU3o4b0YweDBHSDIybXRQRjBrVHlyTEl1WU1Wdi1HT3NRaFdYVWg0ZDBmUGFkUGx1NXg0a1RSRVdzX0p4SFUza2NCcUM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-08T00:40:00+00:00",
+      "summary": "T早报｜特朗普宣布成立超级智能工作组；科技富豪年内财富增量超8450亿美元创新高；华尔街启动600亿美元AI芯片融资交易  财新",
+      "categories": [
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "“价格打骨折”，Claude Haiku 5.5把小模型卷到一分钱时代 - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlbDduR3czbjFPTzFpYXNORFktclEwdW9RdlE3cW5ZSHh0U0c5WmVnS0REb0w5eGRDMDV5Qkc1NGRwcUI1Vk1BLTM3akNLQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-08T00:28:05+00:00",
+      "summary": "“价格打骨折”，Claude Haiku 5.5把小模型卷到一分钱时代  36Kr",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI全面上线GPT6！ChatGPT迎智能UI重磅升级：免费用户也能用 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CNWY4YmxBUGFhVnBTWGtjTzI1SF9WSjh2RFJPQzhEWlJ1Z1RrdzdaNnpEOFNwR3Zidy1ydW4zYmhHLWVyak1wWHJ0d0ZHcGdPUWpKTjd2cXp1VEVMODN5Vm9vUW5DRHVZai1Ma3BXakNGcHJyRTljUlRIcm1vM3M?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-08T00:11:00+00:00",
+      "summary": "OpenAI全面上线GPT6！ChatGPT迎智能UI重磅升级：免费用户也能用  新浪网",
+      "categories": [
+        "openai",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmZSNWZUOFJrSkowcGRZSTZ3OTdPM1dHcTJIWE0tM3JfLTBfY0lIM2ZtZjh5T09KSEkzWWZhVHVDZ3FLcV9QZkh4MDJfNHRGR2FmTVBDQnFVbElEZVRaVW5jZ0lXajlfOTU1dmxSbGlXNjVwYVlhckpCZGpSR3ZSSmF5cUU0aUtlQ24zag?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-08T00:09:00+00:00",
+      "summary": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "马斯克：Grok Bot不再只认自家模型，择优选用Claude等最佳AI - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TWThBcU5aMWFSZDB1UkFMeU9uMGplOF96Z0pvZFBIcHZkZ3NTSnh1U0ZFTllxRlBNRHpBcGptY3YzWjROUTdlVA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-08T00:01:35+00:00",
+      "summary": "马斯克：Grok Bot不再只认自家模型，择优选用Claude等最佳AI  凤凰网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude Haiku 5.5发布：单价降九成 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51eGFfeXhvVkxmN2Z3cG0yc0ktNGpSVzg1R1VDTU93c1NERnZRZ1hPXzNGRWFQNVVieVBPUllWd2s1TW9leHJpY2pMMDg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-08T00:00:50+00:00",
+      "summary": "Claude Haiku 5.5发布：单价降九成  凤凰网科技",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "大模型里的“制造车间”：奇智孔明造出一群工业智能体 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3c1Z29mRDV4Yzd6Y205aXZ4RU1jMl9DbnpUMDN6UmpzMWxFQzlDNkNKNjdfUFVzTmRsZDV3VTkzUWZySVg4dlRTMFhVMDhxWEs0NnpMZmVIcU9mdHNsQXpiNFVWUWYwLVNLeUIyOWRJR2xyVGktbWU3dzdlVTJPc1NqOFVFTHE5aXJjUw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:55:47+00:00",
+      "summary": "大模型里的“制造车间”：奇智孔明造出一群工业智能体  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Haiku 5.5，运行成本较前代降75%；三星电子Q3营业利润预计超100万亿韩元，同比大增近8倍｜全球科技早参 - www.mrjjxw.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qaWJ6UUo2V1dTanp6R2F5T0FYWFEtc2dKT2doZjE0aUg3LXltZmpKdlFZSGdTN1JLaG5PWkZCWDBvdkcwQjVmWHlBNXVoUmxsUzY4Z0RvUG9XNWZONTNyN0ZVYUVtUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:51:56+00:00",
+      "summary": "Anthropic发布Claude Haiku 5.5，运行成本较前代降75%；三星电子Q3营业利润预计超100万亿韩元，同比大增近8倍｜全球科技早参  www.mrjjxw.com",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:51:00+00:00",
+      "summary": "大模型推理成本加速下降 AI应用端渗透有望迎来提速  财联社",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Haiku 5.5 登场，运行成本较 4.5 低约 75% - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzBCNXVTUFpiNmVJWUc3QWlkekYyNFg2dXlhZFF5UmhrWmRWazhVRWpRbU55b2tuZHdyellqZ0tyMkxDNTU0TFFzUmxKU1ZDVFV3QzBoV0RUa2x5MkljdXBTcHhyZS0taFo1MEtncVk0U2szZzBWOVRSeUJiSl94dkpuYzlwcmhEMU03NA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:46:15+00:00",
+      "summary": "Claude Haiku 5.5 登场，运行成本较 4.5 低约 75%  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Haiku 5.5：最快最省最强小型模型，支持性能调节与子智能体协同 - SmartHey",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YYTZ3ZDA1XzRBZkoxUXVxbnhsU2tWUzI3ZVd0b3BXdXVWTU94UXhnUnMtcURJcEI3Q25fZFQ0bDMwX0s4ZDNYc2t1emdyTFpuYjFJTnVnd1VCNlhWaEE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:46:00+00:00",
+      "summary": "Anthropic发布Claude Haiku 5.5：最快最省最强小型模型，支持性能调节与子智能体协同  SmartHey",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Haiku 5.5：更快更便宜 成本直降75% - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlNpcEUwZHBCdDFLbUlBLXlrcHB5Z0Ffd3dneVdDQTBiZmxDZUp4QTlFYTRBNFZCa3BfTFV2NkJwTnNzMHI4Vk44dHY2ZGdMOVpIV3FTX2dYOUE1TXYtZ3pOd2RKaHU3emZUcTVLM0hjdnVkRjBLMWNCNzNwbW5FX05ZaDBNUFBE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:25:00+00:00",
+      "summary": "Anthropic发布Claude Haiku 5.5：更快更便宜 成本直降75%  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI面向全球所有ChatGPT用户全面上线GPT-6 - 36 Kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XbU1vV1RLM0F6T1J2dzRfSmFkeEpfSW9MdGtRNS11WGhDM1JXek5SOFZ3cWpfTWljVWhKTExOdkY2c3BTam5TMFBfcUoyTjcxNTUyT3N2eFI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:02:51+00:00",
+      "summary": "OpenAI面向全球所有ChatGPT用户全面上线GPT-6  36 Kr",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "博通为OpenAI定制AI芯片寻求逾500亿美元融资 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xbEVieEFEbnVNc3RuS3lOY3QtZ2xSV2RMV3ZuRGQtOFU3Z3ROWm1LTThkcGVhX2l2Uk1UekFqTEdXUEJpZzBBVlhNbnprZGFoZnA2WlRJdnNJUUY1MnNFdDZB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:01:32+00:00",
+      "summary": "博通为OpenAI定制AI芯片寻求逾500亿美元融资  观点网",
+      "categories": [
+        "openai",
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "DeepSeek新一轮融资或达千亿元；快手可灵AI计划最早明年赴港上市｜未来商业早参 - https://www.mrjjxw.com/",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkUkdvU1BnaW16cUstcG9pUkV1eTBBX0VSb010NFdKMEdfUUU2WWdpOXNLNExMSE5oa25yWE56N0hxTGRMT2FzamlRbHVycGZLTTA0RVp2ejlnQnFPb3NmYXp0WW43Zw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T23:00:06+00:00",
+      "summary": "DeepSeek新一轮融资或达千亿元；快手可灵AI计划最早明年赴港上市｜未来商业早参  https://www.mrjjxw.com/",
       "categories": [
         "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "陪伴之外，智能体将改变什么 - 浙江新闻",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aajZkS2FETjY4WVFKaUNkY1ktZkZ5eUl5Nm5FZFdJbDRGeU12TmZGT3lkMWRPWnVlN09vM3ZoTHdQV0lfRmFfWHlqdDBwZU1nXzA1V3FCc0IwN19oOFMxTUFycXFLUTBBSnhYemZ6ckk4Z3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T22:51:47+00:00",
+      "summary": "陪伴之外，智能体将改变什么  浙江新闻",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI将GPT-6引入ChatGPT 首发智能界面按需生成内容 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ05lVmxLSDd4eFlRMVkyUG9SNUdOWjNILTlmMHZwbkM3YTVTTDdCU2lWQW1zOFR6NHFEMERhYldsbGtySmRTbGxmTXd2bzh6ZGFHMjJiZ3lyTU5HT2JlYUJGUmZCUFNvVDRqYnA1b2FyYkJ2bmtlMVYxSEFPVE0wSDlVT0laSF9h?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T22:45:00+00:00",
+      "summary": "OpenAI将GPT-6引入ChatGPT 首发智能界面按需生成内容  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "周活超12亿用户：OpenAI ChatGPT升级GPT-6模型，可借AI学习如何打麻将 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCempJbjRWVjZHMWY1VFI5bjAtMExiSnRrakZtcHlhMmM4X0tsZ01XT1ZUYmlaSHZWZzAyNENUbFNDMzdtcHFveG5rUjE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T22:21:32+00:00",
+      "summary": "周活超12亿用户：OpenAI ChatGPT升级GPT-6模型，可借AI学习如何打麻将  凤凰网科技",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "全球最大智能体支付协同网络在上海启动，AI让银行卡与电子钱包统一语言 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3JLbmtJZ1Bfc3k5aGtpSEtmVFBwbGFERVoxV1pLS1RnbDNrdklhRFJDWlMwNWh2R1g4MFIxMDVNYzBwZ21SZXpMYl9naUlZN1I2NS1JaDNNMmdQM19sZVdXYWhrNkwzRTVqS25RS3dycUY3WVVNVFBUUGJZdGZSdVhfbmxNVW1IbnRQcQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T22:03:03+00:00",
+      "summary": "全球最大智能体支付协同网络在上海启动，AI让银行卡与电子钱包统一语言  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "LTM深化与Google Cloud的合作，助力加速Gemini Enterprise 规模化应用 - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45YXhtSm9MSklrc1FuN1Y1NWJicFU4cjZUcHRCVFBnRFhEODBWeHRZM2NFdVdTN0otTjg5eUliTXFSMm4teUhxaVJ0clRKbFAzYTRpTEVuQUZKS1NSVFdJbmtmY2VhZ01hV28w?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T21:33:00+00:00",
+      "summary": "LTM深化与Google Cloud的合作，助力加速Gemini Enterprise 规模化应用  Business Wire",
+      "categories": [
+        "google",
         "tools_apps"
       ]
     },
@@ -20,17 +226,6 @@
       "summary": "别再寄望于“安全的AI”，而是开始动手构建：RSA Agent ID填补高度受监管行业的智能体身份缺口  Business Wire",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Windows 宣布 DeepSeek V4 Flash 与 Nemotron 可本地运行, llama.cpp 进入 Windows ML - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjJLdnZHZ3ZJMUFHODJuTDBQRkVDbUxPRk5kZ1VjUEhmNFRNdTZtTVhveUdxS29JNGJoMGRIZ0lDWktMT0I1N2NPNWIxMjFGVGhkam1aTDF3c0N5ZXcwX2xCUmM3Q2xsMC05YU5ZSTl1bWk3anhLX0xuSC1QbHQxQ3pYeFRKcS1ET005SXJhelpIX1NzQUdjRmlfYzlNWnhi?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T19:35:50+00:00",
-      "summary": "Windows 宣布 DeepSeek V4 Flash 与 Nemotron 可本地运行, llama.cpp 进入 Windows ML  Pasquale Pillitteri",
-      "categories": [
-        "other_big",
-        "local_model"
       ]
     },
     {
@@ -68,16 +263,6 @@
       ]
     },
     {
-      "title": "观点：我离开OpenAI，是因为这家企业的文化出了问题 - 加美财经",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rUmJnZmkwZFFmY0xoc3dQeHVkWjBxaU16ZXlWS2lrcTRNV29CemZieTJObThPOUNib1lPblZuazVDUk5IZFlHTkdtT3RqUElGZThLaTE2T3ZyQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T17:14:55+00:00",
-      "summary": "观点：我离开OpenAI，是因为这家企业的文化出了问题  加美财经",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "传Anthropic拟与三星、Broadcom打造2纳米AI芯片 关键规格尚未获确认 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjdVcEpiWG1JM3lFX25DdVRtTURNSFptNEo0emZOSnVVTUpHbEZGNkZqcG5iZElBclZhakFONGVxSTlYSDBvVGtpcHBZMUZHVEtOQlNNQVhwZm44NHFBSVZaX2kwTmRnV0Z2eDcxUWVqa1Z3YlFmeWljZHdHdFB1VmxKdWVmelh6M09jdQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -89,14 +274,25 @@
       ]
     },
     {
-      "title": "DeepSeek融资超800亿，宁德时代腾讯注资 - 加拿大新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lRGJfLUo1aHk2d280SVdNb196WE91a0FVN21mVXMtdkd5RmpmY3J5X1ZZMXFCSjczVFExclZyeW5GbjhV?oc=5",
+      "title": "OpenAI称面向青少年的ChatGPT即将上线大学规划工具 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RNGIxZ2h2WjR4a012cWxqS0QwRmJXWnFweW40NnZuQVRfZGRXQXJWb1NfWUMwZ0xOVFpHbkI3cndxdlJFTE10N0Q4NTdTbExPRXRfSmNSTU8wSDJic1J0UkdMMA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-07T16:49:00+00:00",
-      "summary": "DeepSeek融资超800亿，宁德时代腾讯注资  加拿大新闻网",
+      "published": "2026-10-07T16:34:39+00:00",
+      "summary": "OpenAI称面向青少年的ChatGPT即将上线大学规划工具  东方财富",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "适配大屏：Meta推出iPad版Muse AI智能体 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlpfVkFkMTMxeVlTOWJUTkxGaTl0RHZTOUx4NFNIcjU0WFZNMlBZdlNtdnJ6NVhLV2N6cWxpWmlkbGhZaTNVMktNQmpFeFo0QlJzV0VaM3FwSlJveFhEUUU4dW5UQndUdmxpNFhNQUlRLThRcHBTajRxUG1RelR4Zk9ZMmQzZ2JoQzJ3dQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-07T15:19:44+00:00",
+      "summary": "适配大屏：Meta推出iPad版Muse AI智能体  搜狐网",
       "categories": [
         "other_big",
-        "breakthrough"
+        "tools_apps"
       ]
     },
     {
@@ -120,17 +316,6 @@
       ]
     },
     {
-      "title": "适配大屏：Meta推出iPad版Muse AI智能体 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2dRclA2M0xPMnRzR1hjcEg5dENWaUZaOHBOWVhJSlNoOU52NG5TR2hiT3lPSEo0OFd1ckQ5c1ZuTjFNaHNfNmRudE1acG9FcDBYSl82eFZKVVRZNDRrb1Zla29NeDFMSFpVbHJuXzJPR3lXblVBbnpnSUNhVDUtVXpfZXJ3UEFk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T14:58:55+00:00",
-      "summary": "适配大屏：Meta推出iPad版Muse AI智能体  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "欧洲AI出大招 法国Mistral推出超强模型 - DW.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY190Y1Z1VWN3d1RzNnFqZEhkOHh0d3ExRUpIcjRIX2dHV0NCeXJEcEp3TFVsRmdiOXp0YkRJYmdfVW9sTF9JWkRyVTd5TmQxbHJNN3FtX1VfTUpnMlh2bjNxTG5CUW4wemtjUHBqdWp4ejc5TzQzYWs3VDgyNU9DNTlWMHlpYlRNaUVRNHJTT25sY3laaGtOYTNKSXFnMDAtcVl5aGtYNDRMc19sNFRjNHcwX0M0cGV5RjRYRDdUdEp6QVBMa2dkeXFrRGpoRnNUTmJsUVlNOXEwZElZUWVQNXVRaEE0MUdpNEdEVFdyY0VvUdIB8gFBVV95cUxNd2NmcUZCZ2dEbmktcWxwZ3U2cHhLSVlreDNkWEZpUTJDTElRVFMyZHdMS005VWdRQ0ZWNTZFU1dzcEVNQlVRbWVwb0xMTlBMbHhkOW5GSDV5dWRJVktaR0t2NEFNbnZpdWw4VWktV1FLc3UtejlZZTNHMDFVSVB3VFZKTzRGb01CbFVFRkhyYkhHTjJER3RCNXNIclpMMzY5V0wzM3U3d0NwRVRoZzV5dHhXWmNOOHRvcmxRVm5YNkhIeDB6M0Y5U195cWV2dm5IZEZEUS1TZWkwYW1tVWlNdVZzbDJwLVFjZkJ3QjlDY3BiUQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -138,117 +323,6 @@
       "summary": "欧洲AI出大招 法国Mistral推出超强模型  DW.com",
       "categories": [
         "other_big"
-      ]
-    },
-    {
-      "title": "研究称青少年版ChatGPT未能妥善应对多项风险| Mezha - mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jT1dWQVJzVlhKR2pPMU5JVVRiU2Z0a2NOOTc2aEdvRnNoc0g0VDdKVC1TNWpNWlNhSnVIbXJhMnFJRmhEamhaU2E5dDVFMWpFQ1BBbjJubURFV1lGT1RLVENqRTVnckE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T13:57:00+00:00",
-      "summary": "研究称青少年版ChatGPT未能妥善应对多项风险| Mezha  mezha.net",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "AI办公开始收拢入口，百度为何还需要两款智能体？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWhSc0JFRlI0bk5pZGtaQktLY05yaWtJa1Q4XzZjRW5Ebm1mUU1OQmtoR0lseUdVQkV6Q2taOEt5d3B6aWZZRmpzcnhrVWdBX29zZ24zeXVjaHJ5UW02Zzc1dUFscE0wamNUUVpMVlV3V3lwdHowYkpUb19fYjNYWTR4RGFjVWg4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T12:44:40+00:00",
-      "summary": "AI办公开始收拢入口，百度为何还需要两款智能体？  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌Gmail新功能曝光：Gemini帮你回邮件 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHlwbU1YbnFqYjhVREJ6MzZ5SktXSE1GUzBTVnNCZEM4M1kyMlJiWWVNUFU0WVBsQ2N3cTVhTHVCX2pWbHB4alpTbmlIQUlNN2tOamFtYS1IbXUtSVBzbXFTXzc0d1pyTG15OGdqNHptVGlsNWMyMU1UcW5KbEVNYkRxTUk1TWox?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T11:44:20+00:00",
-      "summary": "谷歌Gmail新功能曝光：Gemini帮你回邮件  搜狐网",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "Muse越权攻击iMessage，个人智能体也会偷隐私 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0tLWV9Ec1NiMTI2aEVmeWhlWkNGN1dKR181bGtZbnA3VFRYX2F6ZE5COG1xdzdxVk40OG5rQzduckRiSmtqdkdEeHVtemRRWGtCNmpLMnNSVXZTMXpJSEJPbFJwZ0tPRDNrMHpBQ1l6WGcyMFJ1UnJoRzJOQ3RndlY0U19POWUx?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T10:50:45+00:00",
-      "summary": "Muse越权攻击iMessage，个人智能体也会偷隐私  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "1万亿参数「肥猫」单挑GPT-6和Claude！多项测试赢了 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlBtNmlpVlY0eG9ETVBidzF5eDcxbVRfYU1Zd05DeGhTbzhwamdsOUEyMzdJaFJTUEliX2V6MGNtVWZzX2FzZkVHV0otTWwtSTg2SWRBWGttcUNBT2FtYS1abTNWLWpEX0hBdkRrVjVkR3lELXAxaVNOZkxaUUdodXo0akhldi03?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T10:47:43+00:00",
-      "summary": "1万亿参数「肥猫」单挑GPT-6和Claude！多项测试赢了  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Reflection AI发布开放权重模型Beam，主攻编程与推理任务 - 虎嗅网",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrSUFuWVViQ3puc3prUGl6UFpnZVFQUWxmNDl0T3R5Qk84ZkhSZVJ5bTgtb0ZJczFKVGdDRlh3UWQtcXVhdkhPREJaeVlTcllQWC1ZMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T09:27:56+00:00",
-      "summary": "Reflection AI发布开放权重模型Beam，主攻编程与推理任务  虎嗅网",
-      "categories": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "给多模态大模型做\"极限瘦身\"后，怎么教它重新学会看图说话 - 科技行者",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdlJabGFud0s4N3hleENmMDJWV3FDLThfTEluakUxNlVJaHBVWURJZnVvQ0g3d29fb2RMNXNZSFkwZmQ4YnQ4SDhzdjJOWS1DdkFLMmxyOExtNS1lVGw4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T09:27:00+00:00",
-      "summary": "给多模态大模型做\"极限瘦身\"后，怎么教它重新学会看图说话  科技行者",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "JEPPESEN FOREFLIGHT AIRFLOW™ 智能体正式亮相，面向商用航空，聚焦运营智能与部署灵活性 - Bernama",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04V1lHeW9YWUs3UVhwczFrMF8tOEdqNDlFbzYzd0FUZHpMUkxQb2NCbVkybGNMMGZCUHVqNFBZRFlMWGNQTHY1U2ZYdUdiQXdzVENZWkVaMFRBVWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T09:06:00+00:00",
-      "summary": "JEPPESEN FOREFLIGHT AIRFLOW™ 智能体正式亮相，面向商用航空，聚焦运营智能与部署灵活性  Bernama",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "内置大模型平板哪款好，这台值得看 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1enRhMGhzRG1tUmFDZmNNZURUMldIT09WdjJRUE5SdjR2SUNJbVdMX2Y2NFJtX0J2NW5mbE1WWmloS3V3STBtNllaRHY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T08:30:10+00:00",
-      "summary": "内置大模型平板哪款好，这台值得看  凤凰网科技",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "ChatGPT引入广告形式 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2lXbUg0RWpKMmx4X0piQjg0R0N5dE1LOWxCZVNweWllYU1fakw0ZWd6VDdUdklJd21KNG1PVnpGUkJkWl96T1I1ak8zcXFhNkU2MmlkQ3RNYUhSOWhZZk1yeTJMZ3laTlVmU190YU94d2pNRndzdVpWU2ZwdXNvU1MzMHFLSXRo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T08:12:04+00:00",
-      "summary": "ChatGPT引入广告形式  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "AI智能体做长任务时为什么会\"失忆\"？这篇论文给出了一种新解法 - 科技行者",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSDRGdDZtWmRxTmtRRy1PNHVPalI1ei1iVzhzbG9LM1JQQmtOOS12aXloSU9qZHhnMmJndEhuX0dmM1d0YVpvNUphNXJreWhfZFBYUFIydTViOHZuTy1Z?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T08:12:00+00:00",
-      "summary": "AI智能体做长任务时为什么会\"失忆\"？这篇论文给出了一种新解法  科技行者",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -264,53 +338,14 @@
       ]
     },
     {
-      "title": "LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTU0zdWxodnllNDhRUy1oVGJoc19ZSG9LMXVFcDVQZmdNZ290dk1mb2V1TVRZVHo1V2JLLVJVem5Jdl9nXzh0eGtXa3pKdXhkU2djSkk3d25MNngxemNnX3pQXzBnd2M1SkxVR1pEUjdlOVpIcHo3bUxBWWp2QjVIT1NsYi11Vi1r?oc=5",
+      "title": "海外开源模型重新提速：Mistral、“美版DeepSeek”同时亮牌 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1dzZzNEhHdmpld2lVNHdFTXNCUm5FbUJBcV9QdDVPLWo1Mi1IRE1wYnU3a3lZb1J2NG5SeWFvaS1JaUE0NTQzQjlsTXI?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-07T07:28:17+00:00",
-      "summary": "LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程  搜狐网",
+      "published": "2026-10-07T05:05:49+00:00",
+      "summary": "海外开源模型重新提速：Mistral、“美版DeepSeek”同时亮牌  凤凰网科技",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Gemini掉出全球前十，谷歌新模型为何没能赢得掌声？ - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BREpNLWZpZWJCZVlzVV81cGNsQm1nNThCUHBiZE9mSFFWcWQ2Z2xnakV2aGRBaWlmNWoxWWlaeGNoNWhsNWxacWxiREtnMDUtaTlV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T07:17:58+00:00",
-      "summary": "Gemini掉出全球前十，谷歌新模型为何没能赢得掌声？  第一财经",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI为ChatGPT新增自动年龄检测，未满18岁用户将自动开启青少年模式 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVA4ckRlRWxoQjh6c2llYVBobHVUazdYSXIzdHZ1QUFQMXY2dTZnQ3hIdEFHdG0wcld4UnJocUF4b0NBWTJNNk1DN25TNXdZdmZLZ3hDRzJXOG13d3ZJYk1DWU1acUhQSTVPZktfSlY1RjU5dlNZeXRYa2UzUG4zUGRmUmM1ZFBOalQxVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T07:04:42+00:00",
-      "summary": "OpenAI为ChatGPT新增自动年龄检测，未满18岁用户将自动开启青少年模式  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "多智能体系统里的KV缓存困境：PReCache如何让AI团队协作提速3倍 - 科技行者",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90X010VXBlNlJ0YS1UamxMYXdUOWxBQW9uUnNKT3k0Qi1qOWlTbFp5ZTNkdWZ3NDV4SmluSk9nVFVmVUVZVWRNdzh4eHpCbjlOSklNZlRHU0xZMGF1MjBV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T06:58:00+00:00",
-      "summary": "多智能体系统里的KV缓存困境：PReCache如何让AI团队协作提速3倍  科技行者",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI拟为ChatGPT生成文本加入隐形标记 - 哈通社",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zS1ZoOEcwREJjT2E5OWJWTXhvV2YwTGFtQy12NXlxaW9EUm1MLUo3U25tbE1DOC1PVjVDYVRMelhVSUJKVnJMUElGV0RpbjZSN2xFVU5VNlEtYlZIT21xV0pKMXl5OTV0ekNUR1UtWWloSnVnRU1v0gF2QVVfeXFMTzRoTmVCSENqemFWNTFKbHE3RldhamR2SmRlRjVTdXZwZFNxbE52T0dVSVlEWGpTTWJHRDhVNUF2TEw0MnlOeVpKQ2x0TklCbTJ6NW5GQmhiNThDLTF1aFl0d0FYSlNvckkzN0I1TGpjcnpIcmstQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T06:14:42+00:00",
-      "summary": "OpenAI拟为ChatGPT生成文本加入隐形标记  哈通社",
-      "categories": [
-        "openai"
+        "other_big",
+        "open_source"
       ]
     },
     {
@@ -325,26 +360,6 @@
       ]
     },
     {
-      "title": "OpenAI发布前沿大模型的全新数学能力测试成果‌ - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yQ001a25BbHdWUllTZjlKSWdlQUF3RFNMWmVhNUtfTlNFT3JCSzB3NVBXRDZjbk1hZGMxUmpjSXBsOXRlN1NqVG9VSU1lX2hLRVRaLVJXWjY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-07T01:51:40+00:00",
-      "summary": "OpenAI发布前沿大模型的全新数学能力测试成果‌  36Kr",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Anthropic扩展Claude Startups计划，旨在吸引创始人和快速成长的公司 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd01ZWEg4b0FCblFqN3huWFJHeVpTc0hPZ2NWVkI5Rm4xQnhVekdud0NIMTlOYWkzb2QxWnBPTkVlVnVwYzZJOVF5eUhNMUEwRGJZbW80YnBWVjhkOXVvQnBVdFZ0SmNzeGJwcWZwcE1zcUgwQnNMSTIxUkRvd0JQQVRfdHg4cEdLdnBxUg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-06T19:48:42+00:00",
-      "summary": "Anthropic扩展Claude Startups计划，旨在吸引创始人和快速成长的公司  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "微软内部Claude相关支出削减三分之一|Anthropic|Copilot|开源模型|模型|客户 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEktTXlPQmZJS19wd053ZWlUbnowYkhmWE54My0wU19CaGFJWEZYWWNCdWFpblU3R2Q4RW42X3plNWptUUxaeGZGRnB4QW8tSGp5V3oxelh6VnNycHA3eFJ0QWRSczFpc0VEVW5wNzJ5eUVLQ25hcmNFbDFxNWo4NXFCNGZzM0tkNWc?oc=5",
       "source": "Google News - AI(中文)",
@@ -353,17 +368,6 @@
       "categories": [
         "anthropic",
         "open_source"
-      ]
-    },
-    {
-      "title": "智谱GLM-5.3上架Amazon Bedrock|Anthropic|OpenAI|大模型|云平台|阿里云 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zaUtJY1liY1M4NUhteWFYWW9JRGNUT25xYjVDNWFLbmpLa2V5b3pTYkxKQUg2TmdQaHltaTF4M1M4M2dhSC0xTlFpb0U1QkhPeDk2c21TZ3Z0dmJsbHNWSGk0Z29fd1lhbUt1bmJJWlRNVkJYbEF4aQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-06T03:27:00+00:00",
-      "summary": "智谱GLM-5.3上架Amazon Bedrock|Anthropic|OpenAI|大模型|云平台|阿里云  新浪财经",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     },
     {
