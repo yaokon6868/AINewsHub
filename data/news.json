@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-16T20:40:46.758678+00:00",
+  "updated_at": "2026-10-16T23:18:54.418538+00:00",
   "items": [
+    {
+      "title": "Claude不到30分钟揭开困扰密码学界26年的NSA参数来源之谜 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVFZNmtBdnBTSHpadkQ3NXFRR0hVeWZvU3lhRlFoTDUwWWRRTEQ1QkR0UkNnbjhkUU0xY2hYc0dMLXRsMHcwdU9ncGRLT3lVZmtpWEZHUTMwYm1FVmxvTktDODZKbkFBNlVxb3JDZHdEcFJhVTdQUmxMd1BRdHN5Y2E3MDRta1BmLWhlZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T23:04:25+00:00",
+      "summary": "Claude不到30分钟揭开困扰密码学界26年的NSA参数来源之谜  搜狐",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude 30分钟破解NIST椭圆曲线种子之谜 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Eb0FvNEZrb3R3aTRlSC1WUF9kV21PSFh4UG5paW9kSE1jT0lkNlg3c1RRSlJ0UDM2aDJTY2F3Y2ZZdDlwODRRdG9PMjNxTHZBZkRzNkdESjFfbVFkckE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T23:01:03+00:00",
+      "summary": "Claude 30分钟破解NIST椭圆曲线种子之谜  DoNews",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "青企故事荟 | 星港大模型：打造最懂港口的“大脑” - 青岛日报",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4azUzVjlvN2ZIenFaQUU1blpiWC1JSUF3OVRUQloyTVFrVTh5RTJpZ0Q4aHlfSVlYTXo5NE5tZGI3YUpJdE5uUjNyU2Y5dFdubEFaQVBKQlE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T22:20:48+00:00",
+      "summary": "青企故事荟 | 星港大模型：打造最懂港口的“大脑”  青岛日报",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "“人工智能+文化和旅游”应用试点立项名单发布 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bmVwMjMzeXRaUFVYNVpROWtxTVBiZi1mSS1IZWxMbUJHUDVuVjd6VXhPcGZsaTR4bzJjTnA5eURRemg4amcyM2dfc1BTMG5RRHp5TE1vLWpGNzY5TmNuWTVqOGVQWG5hNjlWZ3ZpU3RoOXQ5OUlBQVB1cGRseEE?oc=5",
@@ -42,6 +72,27 @@
       ]
     },
     {
+      "title": "用开放智能体工厂和大规模分布式推理降低AI芯片设计成本 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFRxb0JmMnIyMUxmaEJ6ZE94MTNFWTdNNGc0dEM2WWRXTzNtbVN3WDR4OWg4T3JsTUlwQ01rLTJ4T3dvMlZrN3JWQThwVHZ1SllhZHdCWlBfNWhILV9iYjhaUUozZFNTUnVDTTQ3cFBxR2NRNENNU2MxeFgtM3luTHp3cmtXOXpz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T16:43:00+00:00",
+      "summary": "用开放智能体工厂和大规模分布式推理降低AI芯片设计成本  搜狐",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI成果发布会在宁波成功举办 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXlrLUNNN3FLWUVDRUJlemN5TGZ2YmdhbmxJS3otc0tMeld5UnN6X3hXdUxjUDU5RXBOVkJqd1cwX09KVDFfX0ZGQUhMN3dHYXlJb0E5SlNvY0dEaGdzV01fVWUxTHJ0MWpMQ0pETEZwNnBBNktwdGJhSmxOTGhEeGFscmIwUkM4c0JyTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T16:30:11+00:00",
+      "summary": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI成果发布会在宁波成功举办  搜狐",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
       "title": "NetBox Labs新增网络设计模板与AI智能体，简化基础设施运维 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnJyWjJRLXkxSUsxVGNUTEFFUXIwVU1saGgyMHNEUmpseC02cGZYVVVkNFBNNF84TEUtMG5kVzVJR0ZWN09HS1NjYkdPYklMSGFDTm04TUdMQnBHY2tWeS0xdldacEtEY0haWkJrUmZMaUhaWVl4VjFYd09KS2JPTENKNUt2YjNf?oc=5",
       "source": "Google News - AI(中文)",
@@ -62,33 +113,23 @@
       ]
     },
     {
-      "title": "谷歌、OpenAI、DeepSeek“联合入局”，具身大脑CEO睡不着了 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQU9Ea3ZLTlVkQU1hcEdNMkU5c2JheXl6cjVVRHZ2NEx4Z3BqT3BUMVVmeF9jTldTclA5M1JqaGVGUUkza0tCbHpXeUdqSFJYelhlajhsOUF0QkpfZEdNRmZZNFlKWXlwZGdiUVNyRk0wbzNDTWg5elZRVmZuWEIzQjNvNWZPcU1G?oc=5",
+      "title": "Gemini 4 Argon开始推送，但仅限付费用户 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1FsR1h5clRmSkxObjZPRE1SQVZSQ2J6Rzdibk52Z0lLeXpqRzA3Q3k5UVVBNHZtdWRJdnNIQ1NTZVpIWERIc1QzSFMzQXhJNExkazJmR0pMVGZvTDlybnYtdmRRck5ZUnRkMnR6eVFJZVF4UXl1a2w2Nm5laXkxMmZ5Zjc4a3ZW?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-16T15:52:00+00:00",
-      "summary": "谷歌、OpenAI、DeepSeek“联合入局”，具身大脑CEO睡不着了  搜狐",
+      "published": "2026-10-16T16:07:00+00:00",
+      "summary": "Gemini 4 Argon开始推送，但仅限付费用户  搜狐",
       "categories": [
-        "openai"
+        "google"
       ]
     },
     {
-      "title": "粤港澳大湾区生成式人工智能安全发展联合实验室成果发布会在穗举行 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDlJaUhIOWtibmxlUVR1clZZampiUmdaWnFQM0JMVXF1WUk5bW1LdmRzaUdBUHA4dFJjR0NTY1A1S3JkOTZFNE52VVpCdTh1TG9jcFhtLWlCSm95aVJFbU9zeXhWRDhFbEk3SFQ5Qmtub095RktBNnVNeGIzTjZWREkwTnBEQXVfOGtEMA?oc=5",
+      "title": "AI 智能体拿起了你的信用卡：支付金库正在成为新战场 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkQ2WEpndVZVaXpoMjFHNEViQ09JVkM2QzZUaGpFYzRuUXFaNDFBQlBqSHFVeXBUM2NxbmhXQlJ1VTYydmpmaHhueVVGVEtpOUI5TUk2QzU2aUo3OG9nTWdTN3VoV1VKQk5VTThxLUZqNlBvd1hrX01naXlJZjhDb3dCdk5jdjJx?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-16T15:33:00+00:00",
-      "summary": "粤港澳大湾区生成式人工智能安全发展联合实验室成果发布会在穗举行  搜狐",
+      "published": "2026-10-16T15:43:00+00:00",
+      "summary": "AI 智能体拿起了你的信用卡：支付金库正在成为新战场  搜狐",
       "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "端侧跑通超千亿大模型，联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mdy1vY2hha0pOZGl1RkpqZ2xZQzRHcnNhWDh0OTJlNFlRVmFqZFMtd0UtV0JHQkZFQXFJQThBSjhRalM2dXF4aU1GNnU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T15:13:11+00:00",
-      "summary": "端侧跑通超千亿大模型，联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售  爱范儿",
-      "categories": [
-        "local_model"
+        "tools_apps"
       ]
     },
     {
@@ -114,13 +155,13 @@
       ]
     },
     {
-      "title": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI 成果发布会在宁波成功举办 - 美通社",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sM3lXM1FidDExOUZSR3F3U1RVWlFNYl9NVnR6RXRrT3hrQVVpVkR3aHNRbkVsQVlOSXJxM0g2dnhPUXgwRVFsRE5BSjFEY0lXU2dYLWhxdjJ2Ny1QdDlvdlU4eUg1VGRFYm5STWdn?oc=5",
+      "title": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售 - 新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjRucTVab3hva2FfX0ZGT2tMVjRQR3Y3Zk9kYWFZY0VCZE1kSGJTRlo4aEhiUHc5VE53ME16VnV0MnM2OE43bms2bFpLdVhlNVQzY1VnckdiTkdYdlNaVkpTOGF1NjFvQ0FMS3FZQlZxR21yMEt1T0xUWTE5MnNHYTF0Qjg1UQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-16T14:43:00+00:00",
-      "summary": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI 成果发布会在宁波成功举办  美通社",
+      "published": "2026-10-16T14:54:27+00:00",
+      "summary": "2.99万元起！端侧跑超千亿大模型，联想YOGA Pro 15 RTX Spark发售  新浪新闻",
       "categories": [
-        "breakthrough"
+        "local_model"
       ]
     },
     {
@@ -171,16 +212,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-10-16T13:23:13+00:00",
       "summary": "信通院联合发布《面向智能体能力构建的高质量数据集建设指南（2026年）》  安全内参",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "广交会上智能体跨境收款亮相，外贸商家用AI做生意更方便 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEVCRG9jY3ljMTJ3X3pIRVVoSXQ4X3BUa2Ytc2ZkZDNIR0dHWTVLajJvV0d3U1ZMZmhiZmhnQW1zanh6VG1OT2czTjZHdjdKcGY2R2NNRGR3cmU3eGtmZUFITWtvbEVHa3ZNdkdadTNWcEs3Z2R5UGh1ODJ5VnNBZWpxUTVTNkFCem5v?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T13:22:54+00:00",
-      "summary": "广交会上智能体跨境收款亮相，外贸商家用AI做生意更方便  搜狐网",
       "categories": [
         "tools_apps"
       ]
@@ -247,16 +278,6 @@
       ]
     },
     {
-      "title": "从汽车到移动智能体，福瑞泰克在乌镇迈出物理AI新一步 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHZFdzdJQ3hjdUJMSkJ2SVE5YjMyXzNnXzFFaEFpdzYweWJ0cFFqeTZvQm1TVkxjTHlWVXFaUzk2NXB4cXF6dDhjdy1RMGRmUE9fNWJ6ZDU2eVBOc29EOEJtTnJYNURabVN0WHhpYWs1UmdVSkIzSmVNZVpZeHN4SzF3SkxZN2It?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T12:01:21+00:00",
-      "summary": "从汽车到移动智能体，福瑞泰克在乌镇迈出物理AI新一步  搜狐",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "AIIC2026|老工匠经验搬进大模型，弘润石化亮相2026人工智能产业大会分享化工AI实践 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Cd01OSE1HbnJlX1dwQjExZ1Zrd1g5SGNZMThaZUxnMzJocW1EQzJfcldGTS1qNU1zeWU2b3JoU3l0azBfdkdac1UwQkI1bllVSkhjbk1JaGFVZnc0bk1Od2lLT1hyOVpUWllfdDA2QW9HUQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -287,16 +308,6 @@
       ]
     },
     {
-      "title": "文化和旅游部发布“人工智能＋文化和旅游”应用试点立项名单 - http://www.jingjiribao.cn/",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lYkRMbW1palRmbkZuY1dPbUxvUDlIRzdLYWEyc29QVUpUNVJrYm5jNGRyaEZzc2JocGxJZmNudEl3NHhvbFp6aVI5N2dZVjJsWXh3ODdTaXp5blJHZ0pkMG5ITQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T11:08:32+00:00",
-      "summary": "文化和旅游部发布“人工智能＋文化和旅游”应用试点立项名单  http://www.jingjiribao.cn/",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI agent越界访问澳大利亚政府网站三个月后才通报，AI治理重点转向事件响应 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15X1NaWkVXNm1JVVo0WkZlOTBvRWZLRjFxVGdjNlpKa1hnaUxhc2RhdUU0b0V0NnZBMkhVd1djX1d5b1U0MVhyOW4yNm0yUU9CUTlXNQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -318,16 +329,6 @@
       ]
     },
     {
-      "title": "专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥，还给人类发来感谢信，运营者已不知AI在做什么 - https://www.mrjjxw.com/",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aRGtYVG9sZERkOUFtdlhsXzhnMXJ5aTBOcjRtN0VXTWdpYlJzYnEzZXZucnU1cFNHWWRwVjVSQ2pUYlZiakxDLXdjQ0dIejBrRjI0aXJjRWkxaUx0RjBqc3dBaFpMQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T10:23:00+00:00",
-      "summary": "专访研究团队还原“失控智能体”访问高德3.5万次背后：用了被泄露的密钥，还给人类发来感谢信，运营者已不知AI在做什么  https://www.mrjjxw.com/",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "GPT周报｜Meta发布开源模型自称“美国最强”；苹果智能10月底在中国发布测试版；AI陪聊应用Character.ai申请破产 - 财新",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRl9VV2lSNlJ6ampCTXRtTHJMLVN3Q2V1VTlJQnBQMkp4b0djTWJQNXhtOU5hWjYzanVGTTJTOGgySldxQkV1QjVvaUljRjdobk01UWJqYWl1Y1dZUXBBQmw3TjM?oc=5",
       "source": "Google News - AI(中文)",
@@ -336,6 +337,17 @@
       "categories": [
         "other_big",
         "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "Meta发布开源大模型Muse Spark Open 对标Qwen GLM Kimi - 亿邦动力",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nNFFLbXdkWG9MeEx5WTg2OUNwQmNzZkRILWVodDN6NTZpWXhYdzdfMVZ1RmRwQm9fR1ljZDBUaWE4TTZqM3ZnZVE4eVhiV3FOT05vUHVn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T02:11:31+00:00",
+      "summary": "Meta发布开源大模型Muse Spark Open 对标Qwen GLM Kimi  亿邦动力",
+      "categories": [
+        "other_big",
         "open_source"
       ]
     },
@@ -349,18 +361,6 @@
         "other_big",
         "breakthrough",
         "tools_apps",
-        "chips"
-      ]
-    },
-    {
-      "title": "昆仑万维发布并开源消费级显卡视频大模型游戏 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55RC1rWWpwUm9UTEY4YlZBbWh1TEtUNDJ2b0hpR0ZyMTZuY3BldWl4ZVY0OUZiU2ZIOEFjWElNZWQtU0dRT1QxY0Vxb1AxOUk3em1aNnpkT1R0NkhiYzRwZTNkczdUQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-15T23:22:17+00:00",
-      "summary": "昆仑万维发布并开源消费级显卡视频大模型游戏  东方财富",
-      "categories": [
-        "image_video",
-        "open_source",
         "chips"
       ]
     },
