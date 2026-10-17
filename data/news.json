@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-17T17:27:18.574878+00:00",
+  "updated_at": "2026-10-17T19:39:23.952802+00:00",
   "items": [
+    {
+      "title": "Claude 揭开 ECDSA 曲线来源，NSA 的种子只是时间戳 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjktX0pLTXd3RU5TX1dPcTdrVDMtMHVzMlNLNkVGbnBKYjYyV2JyR0Z5OTJOb1JMTmI4bG9EM2tlUkhVWWl4VVdlUXoyMFBCRGpxc3A1Z1VEc1FQcm1pSHdMOWIyampqV24wNkF0NEI1cVZRUDk2aEZCcllBeUVmYy14bGFIcm84VGFYU0I5Tm1LVXBBM3NMSm1ZdDlNYVh5c28yNw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T18:23:15+00:00",
+      "summary": "Claude 揭开 ECDSA 曲线来源，NSA 的种子只是时间戳  Pasquale Pillitteri",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Claude Fable 5.5：三 GPU 的超人级演示，却因价格被拒之门外 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNai1Cb2FDc21USWZIWkV3RTdVZGRZNFBSTGdsRlozektycDdRUGpoVWxVeGR3a2VyajQ0cDlHV3E3LUVPam1HNFRFSEhTZkI0WU0xNzRVY2dSME1haFdHeEV5eVdzMTQ2Unk3SDhhNTBOVmNnRWpYRVdPTTU5VnFSag?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T17:25:36+00:00",
+      "summary": "Claude Fable 5.5：三 GPU 的超人级演示，却因价格被拒之门外  OrcaRouter",
+      "categories": [
+        "anthropic",
+        "chips"
+      ]
+    },
     {
       "title": "算力成草原新特产，大模型扎堆落地乌兰察布 - 京报网",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNTDRnOW9faEdYSnpVLXROVnNtNFQtNTdoSmRQamt5VFV4dnNJU0pMMV95YXdFazZQeGlFWU01a2pMeWNGbUpqYXBmRHozWTEwVV9ibjZsUkltbk1jU3c?oc=5",
@@ -62,30 +83,31 @@
       ]
     },
     {
-      "title": "探路AI+先进材料，欧科亿联合顶材科技发布“智刃”大模型 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkVVT0dFM05uNkYwa2NZeGRWeVpHY0xfcHVyZTllTEVuN0FMZ3pKVHdseFFPVnUtVk05R01lZzhLYktVV0RRcmo0Ujk0dUlKdjNDV2l2Y1lLaWFBSEhyVGRvZ3B1ZHZNOVZ2TEE0MjdsNlQ3SHlzMnpvZ1FnNm9LczVfQU53SmkzVGotdTBrZw?oc=5",
+      "title": "从理论到标准再到智能体：品牌种智理论体系正式发布 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RQ1JPZ2xtUFVpekRzZWtzT2dBTVpTTWZnclZfVGZQcno0WmtTX3FlaGV1RU40WE1XM2k0b1psR0lwdkQ5Skl2X3Z6VGo5MmVqcUhxV0ZCbnk5OUN0N2hJUmowc3oxRDRrSzlERzNR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-17T12:31:00+00:00",
-      "summary": "探路AI+先进材料，欧科亿联合顶材科技发布“智刃”大模型  21财经",
+      "published": "2026-10-17T12:27:01+00:00",
+      "summary": "从理论到标准再到智能体：品牌种智理论体系正式发布  中华网",
       "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXpsV2N5VVo5YXZmeFZYQUdvZUsxS20zRXhPZlB0VG00SVRNTkVYQnotZm4wZHlhYzRjMWxUd1VRbk54TjZoMWo0OUxTNGFhY2Qwd0hqVDltYVVFS2RQaURKNUt5UG9BWXVKWDVYR2diOXRScUFVOC1zQXh6N1hPWlRocDZkQ3JrSURtcQ?oc=5",
+      "title": "集微咨询发布《2026端侧AI芯片上市公司研究报告》 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVZkcFM5RFR6T3NDbWVLeUg4WXJHOFhtYTVOUGlDSmtXWk96NzlWMW15WTczRFIxbHVWMWNEV2VVWUUzTGZ2bkU0MWtOdVhuVWZDSkdQSnVjdTd0QXdieFBBWkNuMTBGWXY5VklmLV9sM3FmWGVDOEs1Z0U3M2xNRkFkMXQ2R1Za?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-17T11:57:00+00:00",
-      "summary": "突发！DeepSeek新模型发布，超级性价比斩杀一切  搜狐",
+      "published": "2026-10-17T12:14:00+00:00",
+      "summary": "集微咨询发布《2026端侧AI芯片上市公司研究报告》  搜狐",
       "categories": [
-        "other_big"
+        "local_model",
+        "chips"
       ]
     },
     {
       "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQngwNDVuNlQxcEtFaXFIVDVTU1NRU0JEUXJsbklEOHRWaWFLNS1YbG5BWHVGanpoQXRHNjdocTR4S1F3VDBMV3M0bmV4eHJIMVlNdVRXY0FvVVhPWmhUUUxHbHJiSUtjb2JBU0hIdWtod2t1RTdqZmxURkFEOXR3cW1qX3pHVGlHVDRqWg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGFISVFMMmJUSXRBQmJvNmxSTU90VTNjTXFZNVZPTHpRLUxjTXpRczRSOGhmZVhuQzdVRzRJZzVCMjhVQ3A0X1p4VXloeEhhVGp6WnlVNjN2Q2VCX3NoeVU5UlFWMEszMXdhM29SdkpGX2htQndfVnVtN3ZJR2FybGtHWDdxQ196clA3ZQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-17T11:30:00+00:00",
+      "published": "2026-10-17T11:49:35+00:00",
       "summary": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改  搜狐",
       "categories": [
         "tools_apps",
@@ -100,6 +122,16 @@
       "summary": "DeepSeek V4.1 Flash-1017 新版本发布：支持许愿式编程  DoNews",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "总编对话丨AMD纪朝晖：给智能体安个家，让每个人成为“超级个体” - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFdhM1JvTGsyem9oQjRXaEpNNWVOb3c5ZmVsWnh1UjVhNGpQcUdLa0djUl80QlVqc3NuUjFwcFVQS1hJbzFjZTZ5YjcyckdlanhPWTdKTjU5NXBEMWVCZjB0eDlXS09SRHlrNC05UVhWT2MyN0c5bGZUQnBaVGFhWEtubnVxZnNyV1NJUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T11:09:00+00:00",
+      "summary": "总编对话丨AMD纪朝晖：给智能体安个家，让每个人成为“超级个体”  搜狐",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -143,6 +175,16 @@
       ]
     },
     {
+      "title": "对话李胡升：山东垂域大模型正处于全国第一梯队-新闻中心 - 东营日报",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51TFYtdkNSb2lLOS1EVkEzZ3RHNXV3bDFjRTFTNkQwejRUUG1ia1BrclFCMTEyYTF4U1ZtbUZmMnlkYmZkWGF2aG1KaVltcTFvQ2swandCYXFTZGFQZ2ZrRTlUMHdpRTdtby01TUlLQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T10:09:00+00:00",
+      "summary": "对话李胡升：山东垂域大模型正处于全国第一梯队-新闻中心  东营日报",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "【视频】VLA大模型上车，27款坦克500“粗中有细”！#气场全开当红不让 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOXV4dlZKRzkyblA2dTZoVS1RNmU3OFVOd2lMYkQ3RW8wSm5rVC16bmRiOHBrZVFCc3NHNEgzbGt1OXEzQURtekw3bkx2cjhfRFluTDA0aWgtM3c?oc=5",
       "source": "Google News - AI(中文)",
@@ -173,16 +215,6 @@
       ]
     },
     {
-      "title": "对话李胡升：山东垂域大模型正处于全国第一梯队_山东新闻 - 大众网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlcm1URUFTeTBuTVphSXM3UHJlMFNfTVJZbUdjWk43OTBoX1RjSkJJMjdTbXo2eWF1b1g2SHBaeE5YSXgyMndZM2g3TmJRc29xSlh4T2laUWdMOFVDZ25wZGh5TVBwZmF4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-17T09:31:00+00:00",
-      "summary": "对话李胡升：山东垂域大模型正处于全国第一梯队_山东新闻  大众网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "【视频】硬派越野不再糙！VLA大模型上车，坦克500彻底进化 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SVVhSbUMtak85ZkxKdHdKWU1qVnJqbHlBZ3FOdkZLMFF3dWUxTzdReVhyWkhsdnp4MTM2NzdPMUZWNVdObm56d1NNcEFneGc3ZGd4RU9lQmRGWVU?oc=5",
       "source": "Google News - AI(中文)",
@@ -190,6 +222,26 @@
       "summary": "【视频】硬派越野不再糙！VLA大模型上车，坦克500彻底进化  汽车之家",
       "categories": [
         "image_video"
+      ]
+    },
+    {
+      "title": "ChatGPT 提示IP异常被限制？8个真实有效解决方法（2026） - X",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMMERlbHlyQ0w0bUY1X094MEtlY0UwMUd0OWVpaE1nc1o5b2NRNU4taEV0OTE0RDRRdVFyUC1IUEVRcFZ3UTNZbmJvRDFlVzg0ak0xVzRB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T08:42:25+00:00",
+      "summary": "ChatGPT 提示IP异常被限制？8个真实有效解决方法（2026）  X",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc19nNlQxVlVnU2gtcFlWbGJXRWVVemtTUXROZTVXR2FNcnFGaTRxWVFTcEFGVVpJcEhGbTMtZkp1WElZMFBuLXRESlI1N2dla1piQlF6ZkVrXzF1UngzQXdhS2ZRWW9rWTZZa3lJXzFqdVR1UDg3N3dFS2hYX2Rpb0ZEbmdaN2tz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T08:41:55+00:00",
+      "summary": "突发！DeepSeek新模型发布，超级性价比斩杀一切  搜狐",
+      "categories": [
+        "other_big"
       ]
     },
     {
@@ -224,17 +276,6 @@
       ]
     },
     {
-      "title": "英伟达RTX Spark系列智能体电脑京东首发 华硕售价18999元起、微星128GB 45999元 - 电商派",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GN1dGUnpVeEdBdGEtaWVGYjRNb05aUzZwc09DQlBGb3pkUmo2R2dyTXEwdEdVa1otd0d2OVB4NjUwak9EVnpiNXZBZ1poMXFUcHBkUkJOcEZiYmtJaUo5bg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-17T07:06:00+00:00",
-      "summary": "英伟达RTX Spark系列智能体电脑京东首发 华硕售价18999元起、微星128GB 45999元  电商派",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "山东：制造业大省借“行业大模型” 焕新升级 - 山东省工业和信息化厅",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5M0dqRlpsY1JPdUstVUItWFF3SjRfNUhqS3JkendRc2lhS1B1X0VOMjBxVmNvaWZnZExiaGNPRFlSaUd5UjVEV1JJYlh3QVMyTEtuSnN2MF96ckFWS0NDMUVoVzJPWkhuYUgzZGRGaU9UZjQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -242,16 +283,6 @@
       "summary": "山东：制造业大省借“行业大模型” 焕新升级  山东省工业和信息化厅",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "【关注】团区委 | 举办政企智能体AI落地分享会 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMi1FZVFQbmJZY1FseS1peGNpVTlRS0c5WmtlN0QweTA5UHdVRkpQcTg4QUJDaWIwMXQzaHY0SUtWUFJmNDZNbmdjRW80V1pLMTgtOVJROHlZZEp3MTNKSjcwTTNMRjdraGQzOG1UeEJWYjBxOE1uUV84Yi0zbU1KWWhjeGNkczBYOTNxdA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-17T06:43:38+00:00",
-      "summary": "【关注】团区委 | 举办政企智能体AI落地分享会  搜狐",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -275,12 +306,13 @@
       ]
     },
     {
-      "title": "AXP发布：确定性网络接入百万级智能体，AI通信底座开始“换挡” - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkEybVQxRWxxUTlnXzFvSXpxMnk0Wlh6dU54SlJjNmNJV1RabElpM0hCNno5QVV0Zi12clBDdVg3aUtOaGoyZHBmM05SalUwTUJYQ2I2Z2NxU2RFQUxHalJ0bF9tWXoxMzlqem5JUHc2NENoOFcyc3RnNlJSdURab1ZtQzdsMWhH?oc=5",
+      "title": "百度超级智能体“西进”：一场大会如何搅动西北AI生态 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kbjBYVWVkbEVXUjhDWWRUa2Znd1dPTUNEWnJUbnBaUDBrMXFUWHNybVBSVXgyd3ljdnpOZ3R1b0RsZlIwc1VNc1BEVnJrTVF0d1FSelV0Q01GTnFMSjVKQzRRdHE2dw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-17T05:26:00+00:00",
-      "summary": "AXP发布：确定性网络接入百万级智能体，AI通信底座开始“换挡”  搜狐",
+      "published": "2026-10-17T05:20:32+00:00",
+      "summary": "百度超级智能体“西进”：一场大会如何搅动西北AI生态  东方财富",
       "categories": [
+        "other_big",
         "tools_apps"
       ]
     },
@@ -326,45 +358,13 @@
       ]
     },
     {
-      "title": "《中国人工智能创新指数2026》发布湖北跻身全国前列- 湖北日报新闻客户端 - 湖北日报传媒集团",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4b0tuWTU0U2tuQWgzTjZCNUdlMnpZVXNScVQ4eVg3S1E3YlpHYXV2THpUMXgyN0JJMzVVWkE0LVZIMWUxbHlmUnJfbmVMSDYxSUF0clZWT24?oc=5",
+      "title": "探路AI+先进材料，欧科亿联合顶材科技发布“智刃”大模型 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ORDU3OXZ0NDduQm5Ed254Y01qTHRENXpYVVRqREdaOFg2dTlRSkNCSWt1Y3RFSHFFMGNJdHRaaWNydWhmS2RKZjQxY3Y2WjlyZFVPVTBaMFpsa0d3M1kwOUllSQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-17T03:31:16+00:00",
-      "summary": "《中国人工智能创新指数2026》发布湖北跻身全国前列- 湖北日报新闻客户端  湖北日报传媒集团",
+      "published": "2026-10-16T19:10:10+00:00",
+      "summary": "探路AI+先进材料，欧科亿联合顶材科技发布“智刃”大模型  东方财富",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "195款备案大模型 三年增长23倍 广东“AI生态雨林”何以繁茂生长 - 中山网",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPLTdyaVdhb0dEMUxmeWZTZXNuYnhuM3RtdGd1ZlhQUWVnT2xROXJJTS01c3R4aURmQ2h5bFhBenVpRUw5c2xLTDJCZ2NfcWxleEhUbjdTWTVudk5vV1dkMkwzLXNGeW16cTJYUFJuaw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-17T03:14:54+00:00",
-      "summary": "195款备案大模型 三年增长23倍 广东“AI生态雨林”何以繁茂生长  中山网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLRDk2OGtpN2ZFX21uazU2Q2M1TUJLcGFxUGk1XzMxX1lnanJsS2hYSUlSYjRXLXN3bEt5YW5NOW11WmtvY1haZlBCQjQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-17T02:42:00+00:00",
-      "summary": "为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天  凤凰网科技",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Meta发布“美国最强开源大模型”？ - 世界互联网大会",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwQlRDVUxldjB4a1VDdFVmWTF0dmp0dFVYeGFjT2F4QV9hckZzUjltOWZneE5VRThDMmlHNXg5OUczMjluaktOdkY5a2x4V19hSVdiVHF2dGIxYl9SX0tqd2lTMXprQUV2Y0E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T12:28:33+00:00",
-      "summary": "Meta发布“美国最强开源大模型”？  世界互联网大会",
-      "categories": [
-        "other_big",
-        "open_source"
       ]
     }
   ]
