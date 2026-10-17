@@ -1,22 +1,52 @@
 {
-  "updated_at": "2026-10-16T23:18:54.418538+00:00",
+  "updated_at": "2026-10-17T01:26:22.351251+00:00",
   "items": [
+    {
+      "title": "刚刚，Claude半小时解开二十多年密码学谜题 - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92WEV6U1F1enNHVG5NdTFpVmRHa3lfOXdKU1Q0MnlySTZRUF9VYkd3a1hINUR0YWg0UUdFZmgzNXZrb05KNEpxNHQzck1CMVdj?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T01:10:54+00:00",
+      "summary": "刚刚，Claude半小时解开二十多年密码学谜题  36Kr",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI升级适用于谷歌Chrome浏览器的ChatGPT扩展：能直接读取你的标签页 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84bGE2eS0xUllOd1cyUzhDZjFhM3g3VC1ZSXZBWWNOMFBQRHpEMW8tWlFHR3h6SVNteC1RcmtEYTI3MTJsN0FrVk5aNld1YUhncVZWcWRRdm9iSjNPeHd6akZaX2hWOEpoWlh4UE56THc2cXdVV1dsc3hCYUwwOWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T01:05:00+00:00",
+      "summary": "OpenAI升级适用于谷歌Chrome浏览器的ChatGPT扩展：能直接读取你的标签页  新浪网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "舆见｜垂域智能齐鲁七星，扎根实体向新而行|山东省|大模型|模型|人工智能|产业 - 新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBERGx6WFE5NHk1RDZfdG1uQmp1MW9rdEpYS0x1R0Vndl9yc1l5SGZDcEdCTFNhMmhoYUx5dzdqTkpLRE52emRfQlY1czNVcDhTb2dxZkxtWVpKZUR0VlRTUy1yVHBqd2EyYi16Y2NXbUdhM04taUE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T00:43:00+00:00",
+      "summary": "舆见｜垂域智能齐鲁七星，扎根实体向新而行|山东省|大模型|模型|人工智能|产业  新浪新闻",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "全球首款无花果智慧大脑“智果”将在第33届杨凌农高会发布 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWJ0WWFUZGxMSHh2aDUyRWRTOGUtd3ZHTUJKbGVRWDZQbmxmMmxJelJvOTdZRXoxUEItVlU5eExTaTlRaGs1Ry1pblpyNUVZRmxkS3c5Y1l1U1o2YnBJUHo0d2h1eTdPcUE3MDluV09pSTdQblRPUUNZRi1YLW90WHNoU2tXenl4XzFJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T23:57:00+00:00",
+      "summary": "全球首款无花果智慧大脑“智果”将在第33届杨凌农高会发布  搜狐网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
     {
       "title": "Claude不到30分钟揭开困扰密码学界26年的NSA参数来源之谜 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVFZNmtBdnBTSHpadkQ3NXFRR0hVeWZvU3lhRlFoTDUwWWRRTEQ1QkR0UkNnbjhkUU0xY2hYc0dMLXRsMHcwdU9ncGRLT3lVZmtpWEZHUTMwYm1FVmxvTktDODZKbkFBNlVxb3JDZHdEcFJhVTdQUmxMd1BRdHN5Y2E3MDRta1BmLWhlZw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-16T23:04:25+00:00",
       "summary": "Claude不到30分钟揭开困扰密码学界26年的NSA参数来源之谜  搜狐",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Claude 30分钟破解NIST椭圆曲线种子之谜 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Eb0FvNEZrb3R3aTRlSC1WUF9kV21PSFh4UG5paW9kSE1jT0lkNlg3c1RRSlJ0UDM2aDJTY2F3Y2ZZdDlwODRRdG9PMjNxTHZBZkRzNkdESjFfbVFkckE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T23:01:03+00:00",
-      "summary": "Claude 30分钟破解NIST椭圆曲线种子之谜  DoNews",
       "categories": [
         "anthropic"
       ]
@@ -62,6 +92,16 @@
       ]
     },
     {
+      "title": "主流大模型挑战最高难度《杀戮尖塔》，全都死于太过稳健…… - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEprSlk4ajZvMi1KbVl0ZGdtbWYtbHZfM3p0dnNWRG1QNTd3a3B6SWtFSlRPVGIybmdiNllzUkRCby1TN1hpWGNvdzJzRy0xQzZ1ZF9sTHdNMzBRcmdmOHpFbnJsaV9KYWR5WVJJUllnSERxSWM2ZHQ1UkFLa3BsNHBBOFJRQXEySm9PMg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T17:34:42+00:00",
+      "summary": "主流大模型挑战最高难度《杀戮尖塔》，全都死于太过稳健……  搜狐",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "同一批巨头对阶跃“开窗”、对豆包关门 智能体手机离大众换机还有多远？ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xdXJLUTlqSzA1cUxCQmhWeWh4Q1NMNmp6UTItMEhPZFhrLTJRcDl0SWpfa1NfNktDZzdHSER5Ylo4VlQwSDFuZkZtS2JCT0xtcU9acl9vVE02SWJLZE5zMTRSTzBwdF9XRWFZVWJ4bDgtN3NHRmp0dzJ5YkdwVnc?oc=5",
       "source": "Google News - AI(中文)",
@@ -83,21 +123,11 @@
       ]
     },
     {
-      "title": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI成果发布会在宁波成功举办 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXlrLUNNN3FLWUVDRUJlemN5TGZ2YmdhbmxJS3otc0tMeld5UnN6X3hXdUxjUDU5RXBOVkJqd1cwX09KVDFfX0ZGQUhMN3dHYXlJb0E5SlNvY0dEaGdzV01fVWUxTHJ0MWpMQ0pETEZwNnBBNktwdGJhSmxOTGhEeGFscmIwUkM4c0JyTQ?oc=5",
+      "title": "美国运通推出新框架，防止AI智能体进行未授权交易 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd09la0NFekJFZ0NWU1p1cDhhQTkwekc2ZVA4dlR0UEhKVWdoek41MWNDVEd1bG5XalRId0NuTUpXd0txTTZDWlJxMjMtdU5VN0d3TkdqSXhRdzZ3ejlLTzFoOU5vTS1KSEs5cG5CRC1EZlNOLXZjN05xN0VoVGxSLXREZTMtdWY5?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-16T16:30:11+00:00",
-      "summary": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI成果发布会在宁波成功举办  搜狐",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "NetBox Labs新增网络设计模板与AI智能体，简化基础设施运维 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnJyWjJRLXkxSUsxVGNUTEFFUXIwVU1saGgyMHNEUmpseC02cGZYVVVkNFBNNF84TEUtMG5kVzVJR0ZWN09HS1NjYkdPYklMSGFDTm04TUdMQnBHY2tWeS0xdldacEtEY0haWkJrUmZMaUhaWVl4VjFYd09KS2JPTENKNUt2YjNf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T16:13:00+00:00",
-      "summary": "NetBox Labs新增网络设计模板与AI智能体，简化基础设施运维  搜狐",
+      "published": "2026-10-16T16:30:00+00:00",
+      "summary": "美国运通推出新框架，防止AI智能体进行未授权交易  搜狐",
       "categories": [
         "tools_apps"
       ]
@@ -113,13 +143,23 @@
       ]
     },
     {
-      "title": "Gemini 4 Argon开始推送，但仅限付费用户 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1FsR1h5clRmSkxObjZPRE1SQVZSQ2J6Rzdibk52Z0lLeXpqRzA3Q3k5UVVBNHZtdWRJdnNIQ1NTZVpIWERIc1QzSFMzQXhJNExkazJmR0pMVGZvTDlybnYtdmRRck5ZUnRkMnR6eVFJZVF4UXl1a2w2Nm5laXkxMmZ5Zjc4a3ZW?oc=5",
+      "title": "195款备案大模型 三年增长23倍 广东“AI生态雨林”何以繁茂生长 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkNXR0RDWG9ueXdZengzZ2ZOSzBta2lmVWRuVHNwcVo1X0xBenZ2X1BtaWZGeG5sdVpGemlQVnNhbkZ1eW1ZSnNXLTBCZnYxRzhjeFp4VTVkb0NSei1XaEFTUzJuQkc1LUl2SlFxVFVHaTQtc1FwZDFuZjZEeXM0WW9rY0tyalBERDlV?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-16T16:07:00+00:00",
-      "summary": "Gemini 4 Argon开始推送，但仅限付费用户  搜狐",
+      "published": "2026-10-16T16:00:00+00:00",
+      "summary": "195款备案大模型 三年增长23倍 广东“AI生态雨林”何以繁茂生长  搜狐网",
       "categories": [
-        "google"
+        "other"
+      ]
+    },
+    {
+      "title": "沃土广东 备案大模型企业纷纷扎根 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNkZWYlFPSjl3c0tzdnpGdmY2WUFJRnM4THprV1lZNFRLTFhHcXNEbElJT2o3U2cyX2Q4bHAzaUVla3VqbGtUa0g4TEtMaXNvd2tfaGFhaFZzMWhCUWJRbjROVDU4VmhYakloUGxJLTFUZkRuekJLM3NpTnU5NHdlVWVSeTFUcFBNeTIw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T16:00:00+00:00",
+      "summary": "沃土广东 备案大模型企业纷纷扎根  搜狐网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -165,23 +205,22 @@
       ]
     },
     {
+      "title": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI 成果发布会在宁波成功举办 - 美通社",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jUU5ILTBLYS1iOFAzSmMyZ3A2cW5VQkZ3bFd3WGJUc3ZkTlF4OVJGSmo3SlAtUEhCZ3ZsajVPSmJ3dFAtbVVnRlZ0V3JDUjBmUG5UWE1Cbw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-16T14:43:00+00:00",
+      "summary": "定义下一代工业：人工智能赋能新型工业化深度行（流程工业）暨工业AI 成果发布会在宁波成功举办  美通社",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
       "title": "面壁智能发布大监督智能体，用AI重新定义行业 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalFnV2lxdWoyaVhLMFhCRDgyVGxabnNFcEN0U3JrU0RDZ2UtUy1RLTFaTnV5X2dwY0poZERFano5R1lCd2MwN2N5elN2TDVUOUdGV1piRlJIZm5kaWhFNWhBckVkMTZnTzFUc2NpZE1oYVJ3UjJMcEdrU3k1bHlHT09nUlFZQUlWT1g0?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-16T14:38:16+00:00",
       "summary": "面壁智能发布大监督智能体，用AI重新定义行业  搜狐网",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude等第三方AI智能体或将登陆Rivian 年底公布细节 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczhXdlZZb2oybnRDalZhbEpBcGpER25KVHNlYzBJcmFIZU1fbkxBWFMwd3I4VU9ENmQ0Nk03REk1TWtEdExFc1lVNFdZOXljeXdoYThlVWlXOEl1Yk9xNm9aTURuWjE0RXRxRUdFbFN0ZEdpeWNvM2JLU01CZFNNWnhRNS04cU1f?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T14:17:00+00:00",
-      "summary": "Claude等第三方AI智能体或将登陆Rivian 年底公布细节  搜狐",
-      "categories": [
-        "anthropic",
         "tools_apps"
       ]
     },
@@ -278,36 +317,6 @@
       ]
     },
     {
-      "title": "AIIC2026|老工匠经验搬进大模型，弘润石化亮相2026人工智能产业大会分享化工AI实践 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Cd01OSE1HbnJlX1dwQjExZ1Zrd1g5SGNZMThaZUxnMzJocW1EQzJfcldGTS1qNU1zeWU2b3JoU3l0azBfdkdac1UwQkI1bllVSkhjbk1JaGFVZnc0bk1Od2lLT1hyOVpUWllfdDA2QW9HUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T12:01:00+00:00",
-      "summary": "AIIC2026|老工匠经验搬进大模型，弘润石化亮相2026人工智能产业大会分享化工AI实践  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "场景够密，服务够近！备案大模型企业何以扎根广东 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVG9uMGdyZ2FkUFhaWk5kTGVnYzFHaFltOXAwZXlnY04wR25sZFdqcU9DRlZpODhUbUhIOWY5c1Jjc0NsZVU1aTRpcGp6NFVIcE1LMWlqaF9zalZyMlYzRi0yTEU2b0QwWEFNazVWN0NJcTI5N25PckRiaHNJRVZDU3dWcllpcml6?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T11:27:23+00:00",
-      "summary": "场景够密，服务够近！备案大模型企业何以扎根广东  搜狐",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "银行业的智能体威胁：分离信号与噪音 - IBM",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43WWpVeG1oMnV5M3ZEUHpqbDVjVlczMXJ3dnRYNlhpbjdGMHRRN3pyTTcyMld3Y2tRVW5rZ3BCOHZ1M19rRXRua3drTXhsdzR5YkRvSHdQbUZZUWZjSkgyN0VjRUdNZHQ1REV4U3NqbFJYQVpfcFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T11:19:08+00:00",
-      "summary": "银行业的智能体威胁：分离信号与噪音  IBM",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI agent越界访问澳大利亚政府网站三个月后才通报，AI治理重点转向事件响应 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15X1NaWkVXNm1JVVo0WkZlOTBvRWZLRjFxVGdjNlpKa1hnaUxhc2RhdUU0b0V0NnZBMkhVd1djX1d5b1U0MVhyOW4yNm0yUU9CUTlXNQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -315,16 +324,6 @@
       "summary": "OpenAI agent越界访问澳大利亚政府网站三个月后才通报，AI治理重点转向事件响应  虎嗅网",
       "categories": [
         "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "153款应用博弈豆包手机，AI智能体带来的巨变刚开始 - 凤凰网财经",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4aDdiVEFjY2pjSDVfLURUOGtZMEFhMkQ2VWVjNEJDNUJSZVR3WnZxNHUwYmd1UmcyVWk2TUhGQ1lZN05KZVIwTnRLaUlTUWtP?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-16T10:41:00+00:00",
-      "summary": "153款应用博弈豆包手机，AI智能体带来的巨变刚开始  凤凰网财经",
-      "categories": [
         "tools_apps"
       ]
     },
@@ -341,14 +340,13 @@
       ]
     },
     {
-      "title": "Meta发布开源大模型Muse Spark Open 对标Qwen GLM Kimi - 亿邦动力",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nNFFLbXdkWG9MeEx5WTg2OUNwQmNzZkRILWVodDN6NTZpWXhYdzdfMVZ1RmRwQm9fR1ljZDBUaWE4TTZqM3ZnZVE4eVhiV3FOT05vUHVn?oc=5",
+      "title": "蚂蚁国际面向中小企业发布新一代全球账户智能体Wyn - 移动支付网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZRXNhb1pKMzQwVlIyODNGZW1sWXhRNEt2SkRWNy1VMmNaOEx1eGJaVGp3Q0tlbXhkTVNYR21kQUY5Wnp4ejRSODIwWkN2NUdkX0VMcEpJb0tzVlg5QlBfc2RjZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-16T02:11:31+00:00",
-      "summary": "Meta发布开源大模型Muse Spark Open 对标Qwen GLM Kimi  亿邦动力",
+      "published": "2026-10-16T06:39:37+00:00",
+      "summary": "蚂蚁国际面向中小企业发布新一代全球账户智能体Wyn  移动支付网",
       "categories": [
-        "other_big",
-        "open_source"
+        "tools_apps"
       ]
     },
     {
