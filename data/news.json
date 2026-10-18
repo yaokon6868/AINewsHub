@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-10-18T16:48:05.450207+00:00",
+  "updated_at": "2026-10-18T19:18:10.901664+00:00",
   "items": [
+    {
+      "title": "谷歌发布 Harness2，能自我改进的 AI 智能体 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNG10a2tMOVIta0M1M3ByNDVhMWZGSmxsWXhSLXUzQ1NESl90M1VDTHIteldFbTB6ZEp1M0JyWElISDZkQXNoX0EwcXJUQ3Qtazd3LUppN1NneXU2UVhEcmc5T3pOaHhGaUNidmFwaDJuTFYyWC1NdENCNkNlcmRacVJVNE5jUTNOOWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T19:11:00+00:00",
+      "summary": "谷歌发布 Harness2，能自我改进的 AI 智能体  Pasquale Pillitteri",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "突发，GPT、Claude余额一夜清空！OpenCode爆雷 - 创业邦",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QQUpPang0Uk5ydVFXWS0zNXBCRG5YSTBPckVqeVdOdTByZzQxSGg5TnVYek02cmZtMHhsbWtBQjVad2oxVGNpck1Zc0ZQTHd4?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T17:30:25+00:00",
+      "summary": "突发，GPT、Claude余额一夜清空！OpenCode爆雷  创业邦",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "面壁智能李大海：大模型知识密度约每100天提升一倍 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXFoM3BqSHpCTXJVT0hSOC1mWE1XUzJlTHhsOW5JdnBwSm5wMlg1c2NkOF91UW5SODhZV2p4TU1ibWxwMDY0VTVTR3ZvYmoySENxaXFsazRjX0FlQTFYekN3b2oxcHdEaWM4Nm0wZU1aZTVMZGNTRlg1N3IwN09sUURURjlUZ0Zm?oc=5",
@@ -22,16 +43,6 @@
       ]
     },
     {
-      "title": "DeepSeek发布新版AI模型 性能提升且运行成本降低 - 早晨报",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yN19lWjNmaThWdW4wZW11UW5yV0FGc3h4MjNVTjBOcl9pYWZVTUNOOWNpMnBkbTQ5M1lfTFVRLUFyeTVzU3Q5ZXJWWk1ZNVlEdW9yUU95aGZTTXVuTHBrUEQ4WktITzFy?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T14:05:00+00:00",
-      "summary": "DeepSeek发布新版AI模型 性能提升且运行成本降低  早晨报",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "AI大模型狂飙，数据中心先扛不住了？ - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2NjZ1dyRGUxMERsVEJwbEtNSm81dmduQzdfUUV5WGNoa2tUSW1wRHV4QkVYcXR5MldSOFNsZWVKRkdDeWVYYXl1Wms1cU9oUFcwaHhjclVIRnN1Und3RTBJQ05MLUJSRnJ3MUh0SnZOaFloelItQ3JCVXRscXRNSHJfSGdnR3I1eWsweA?oc=5",
       "source": "Google News - AI(中文)",
@@ -39,16 +50,6 @@
       "summary": "AI大模型狂飙，数据中心先扛不住了？  搜狐",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "博士生和智能体组队辩论，“硅基队友”的嘴皮子有多厉害？ - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEdNVzhEV3VlSExKLTVsT3hNUkM1ZE1zc3M2ZjJsbi1IVU9mUGFFV2VDak8wcWZLUzlPb19wemVUZ3hHelVTckpWVnAtUHF3OHRjZHBxWi1Hc1BVXy1oSTduWTllblVEQ0NxcXdpNUJ2MmpicEVLcjdmOGZ6bHFQNzJYRFBQbG12?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T13:25:48+00:00",
-      "summary": "博士生和智能体组队辩论，“硅基队友”的嘴皮子有多厉害？  搜狐",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -62,13 +63,53 @@
       ]
     },
     {
-      "title": "吉利借谷歌生态出海，银河M7们能用上Gemini吗 - 汽车之家",
+      "title": "DeepSeek发布新版AI模型 性能提升且运行成本降低 - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNldlYmxtX2lUeEVGYi1IUFFkZlNjUVgtSmJHSksyMmFKNkRKUHFjazZ3VEVNNmhXak1CTy1aOU5XSE5PZ2NQVEdKTFZEbFJyV0RKbUxoVi0tSjk5ZjYwRmRYQVJuOVdHb2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T13:06:00+00:00",
+      "summary": "DeepSeek发布新版AI模型 性能提升且运行成本降低  联合早报",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "博士生和智能体组队辩论，“硅基队友”的嘴皮子有多厉害？ - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55N04wT3dfT1BkeFNycTA5RVJtOWJMV1dCb25IdlU5RkZFb2pYUlNYRk9xYlQwZFRFMlY1NUVxUS1GamxqLTlDa3M1SFU1ZjVMWEFKVk5QNDdsNFY1bHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T13:05:39+00:00",
+      "summary": "博士生和智能体组队辩论，“硅基队友”的嘴皮子有多厉害？  京报网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "吉利借谷歌生态出海，银河M7们能用上Gemini吗 - 车家号",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aZ2lSeVNCeXNJU1h5c0NaMnJPbmVhQTJ5T0lwTUJ1VzZLOVY1dEdTczNhVlRrNEo3MldZTm9vczdybGxzdDkteC1lbjVzV3ZBRnNPVER4Y2FfWVk?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-18T13:05:11+00:00",
-      "summary": "吉利借谷歌生态出海，银河M7们能用上Gemini吗  汽车之家",
+      "summary": "吉利借谷歌生态出海，银河M7们能用上Gemini吗  车家号",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "阶跃终端原生智能体手机STEPX Neo先行版发售；可灵AI新一代模型Kling 4.0正式上线｜一周未来商业 - https://www.mrjjxw.com/",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53RnFOMUJuLWhtbVctVDZnMXdzX0pLcDJ0NVpta0hHbTlDRTVnc1JFMkZkdmFzQzN5cnV4R0VjbXRHNS1GZ1NlUnNCZnpseFY3UmlCcVJ2aHIzU0hNSDVLZXcyVzdUUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T13:04:26+00:00",
+      "summary": "阶跃终端原生智能体手机STEPX Neo先行版发售；可灵AI新一代模型Kling 4.0正式上线｜一周未来商业  https://www.mrjjxw.com/",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "研究人员让6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvMW1nM19wcE8zV002bFFMclpYV0x2Y2d6ZF9rcC1NNUNYNEhRRHV5MHpvUmVxQWZ0bTdIWnZ1M21iUjdrT19BUTRZbG5Sb25EY2RiUUhCbw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T12:56:57+00:00",
+      "summary": "研究人员让6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险- 产业链  光通信Pro",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -102,21 +143,21 @@
       ]
     },
     {
-      "title": "宁夏大学新华学院主办 AI 智能体治理学术研讨会 学界实务界聚银川共探数字法治新命题 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSC1jX09wOHJ1MjViY2FZSXBoT0dkV1RXcFYwQ1N2ZHhHNV9nRDlKVUx3b29OZW13RmtmTHRVQkdaejgwcHYxNF8xNHJISnpGRUJGcmFRVmZTQjBiRE1xZnA0STh5TmdCdlFVS2QxRTFKekw0TkNHVkkwOThwcWtxTkNxNTI0dG1jMnVaag?oc=5",
+      "title": "第四届山东省信息技术产业发展大会｜海量智能体如何运维？“灵玑OS”给出解决方案 - 齐鲁网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02Zk1udjJZNFhkUF9EZk42SzFDUmNjcEpGQVYyanhnd2tVcTRzUEtBS2RDc1lPN3Vmc2huT3J3WndTZGZDSl9VMm5qZ2UzM2xfb1d1U2V0RWVWMEhKYnd4a0Zpd051LVRBWDNfRVpB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-18T11:58:24+00:00",
-      "summary": "宁夏大学新华学院主办 AI 智能体治理学术研讨会 学界实务界聚银川共探数字法治新命题  搜狐",
+      "published": "2026-10-18T11:59:10+00:00",
+      "summary": "第四届山东省信息技术产业发展大会｜海量智能体如何运维？“灵玑OS”给出解决方案  齐鲁网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "AMD祭出智能体主机、智能体PC两大新设备，让每个人都拥有自己的“AI军团”。 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1gwVTd3anBRV1pXNzVIdXdrNGlnRnpvOGhnMUFNVzdoVW82RXM2VmVWMjJZTW9hUHNEbFdnMVJFNS1IUW5Ka2JxN2hoS2lqN2VyUy1ZSkVRYUJsUG5KMkM4Z2gzbUJpWXdhbUVwZTVZNmlSZWxNMHl5THNSeVVMajNlajZkU1l6VUhMag?oc=5",
+      "title": "宁夏大学新华学院主办 AI 智能体治理学术研讨会 学界实务界聚银川共探数字法治新命题 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSC1jX09wOHJ1MjViY2FZSXBoT0dkV1RXcFYwQ1N2ZHhHNV9nRDlKVUx3b29OZW13RmtmTHRVQkdaejgwcHYxNF8xNHJISnpGRUJGcmFRVmZTQjBiRE1xZnA0STh5TmdCdlFVS2QxRTFKekw0TkNHVkkwOThwcWtxTkNxNTI0dG1jMnVaag?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-18T11:47:48+00:00",
-      "summary": "AMD祭出智能体主机、智能体PC两大新设备，让每个人都拥有自己的“AI军团”。  搜狐",
+      "published": "2026-10-18T11:58:24+00:00",
+      "summary": "宁夏大学新华学院主办 AI 智能体治理学术研讨会 学界实务界聚银川共探数字法治新命题  搜狐",
       "categories": [
         "tools_apps"
       ]
@@ -163,21 +204,11 @@
       ]
     },
     {
-      "title": "助力企业从产品出海到稳健经营，涉外法律智能体Nomos亮相第140届广交会 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1h2S25SRzk2Y2xkM05zckszYUNVLVFzc0M3c1B1azNyYkhlSlBaenpVWjc4TlA2ZHlOLTRpeUpYdFVYUmF6SGt6NkdMNzV6TmNscG1pQS1sYnhNWG5HQUNRUlJuc0FxOWdxbU9DTHVQbnZQSDBsTmJqWDRXdkZHRWI5aXNlaWpMU19NYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T11:08:33+00:00",
-      "summary": "助力企业从产品出海到稳健经营，涉外法律智能体Nomos亮相第140届广交会  搜狐",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "超级智能体大会（西安站）暨西安高新区人工智能生态链签约仪式举办 - www.jingjiribao.cn",
+      "title": "超级智能体大会（西安站）暨西安高新区人工智能生态链签约仪式举办 - http://www.jingjiribao.cn/",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zaVh2STd0cU5zbFFSS3FVajZXcHgxR1U1OGlUMDh2MGtTamg2NGs4S19CaUdBLXZteHc3bU95YjZWNjl3cDU2bjAxSS1EUFV2Ukl6T3h4d2dZUUFNTERVckxKcw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-18T10:49:34+00:00",
-      "summary": "超级智能体大会（西安站）暨西安高新区人工智能生态链签约仪式举办  www.jingjiribao.cn",
+      "summary": "超级智能体大会（西安站）暨西安高新区人工智能生态链签约仪式举办  http://www.jingjiribao.cn/",
       "categories": [
         "tools_apps"
       ]
@@ -317,28 +348,6 @@
       ]
     },
     {
-      "title": "Anthropic聘请法律人士，助力AI智能体完成交易谈判|Agent - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0M1QmpXejc2dGpVUzBWLWpTQU4yRnl4UFFpcUhnU0hDaDJGdndTckRGTFUyNFFFRmlBUFIzeTgzUW5zM2lqeGVDNV9lWGVNd1luSnl1c0drYzdxc0pBZmxTdGJBajlyM2tqTTVvSHBFVG94MkZkOGJuTkdHazNKZW9R?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T04:12:53+00:00",
-      "summary": "Anthropic聘请法律人士，助力AI智能体完成交易谈判|Agent  新浪网",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56R2NNeGE4SnhCdmFqbUtVb2ZGRHNfVkJUalhFV3JNZG95VGJ0WU95U0FDWnctNHRzamdNNkhQUEFUOTQ4Y0JwVg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T03:20:00+00:00",
-      "summary": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改  智源社区",
-      "categories": [
-        "tools_apps",
-        "open_source"
-      ]
-    },
-    {
       "title": "OpenAI下线对话内下单功能：智能体商务首回合遇阻，电商履约与结账仍由平台掌握 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QcUI3Q2RMdDN6S3NPS0hQVnVKNjNPVHdPcVA5aHJoX01pMldGenRIV3Y4MDFCMjE5WHB4QV9ZQ2ZqQUtwT1BwTTdmZTQ0dlB0aUxncA?oc=5",
       "source": "Google News - AI(中文)",
@@ -350,23 +359,12 @@
       ]
     },
     {
-      "title": "广东已备案195款大模型 位居全国前列 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15bDRINlpzLTNRSTk1WXI2a3lNLU9mR3NvZEx6cTZRV1dUSnRYNWtycTY2SmZRb28wVzZTaGg3bkhOblhHaHdVWDRnektZbkhrREF3VGRhQld0M0pCOGxzc1FKWWtCUjVJZ2lqSEEtdS1OUDFkZHRxWg?oc=5",
+      "title": "面壁智能发布大监督智能体，用AI重新定义行业 - 京报网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HbGVLNkJsVkd3R0djOXhOaE9GME5TUzAwTUdYYlhUV2JLU29MVmVWRDFHMzh3cUZwNnJ4SzZackJwQ3YzaHhpUm05OHNxZjlrYklBZ1NjejBObUNWQXc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-18T02:07:08+00:00",
-      "summary": "广东已备案195款大模型 位居全国前列  新浪财经",
+      "published": "2026-10-17T08:31:35+00:00",
+      "summary": "面壁智能发布大监督智能体，用AI重新定义行业  京报网",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WTl93ZGlmMmxUai11NDlOUlpOb2xlQU5uSXdTbGRzX29fZklBV1ZPbExfb1p0VTRvS3ZMdVFiMk91ZFJQR0thVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期  财联社",
-      "categories": [
-        "google",
         "tools_apps"
       ]
     }
