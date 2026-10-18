@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-10-18T19:18:10.901664+00:00",
+  "updated_at": "2026-10-18T21:42:19.284440+00:00",
   "items": [
     {
-      "title": "谷歌发布 Harness2，能自我改进的 AI 智能体 - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNG10a2tMOVIta0M1M3ByNDVhMWZGSmxsWXhSLXUzQ1NESl90M1VDTHIteldFbTB6ZEp1M0JyWElISDZkQXNoX0EwcXJUQ3Qtazd3LUppN1NneXU2UVhEcmc5T3pOaHhGaUNidmFwaDJuTFYyWC1NdENCNkNlcmRacVJVNE5jUTNOOWc?oc=5",
+      "title": "谷歌发布开源 AI 智能体 Artemis，可操控安卓手机 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcS1MOHZMb2twMFBhdTVuWC1ORExMT2lGUkRaeC0zXy11bDdBT1hCQTV5dDlvRG5ZQWNzdzlWdWZVaWFnemRzcE00Y0puYjgxY09YTHhBSFVXVElycFBXRkkwa0hma1JjVXk2dDUxR1dLWkl3YXQzN2NzQ2VMaGZqMjljRVZRTTdJT2tEUmpJZTc2RkZn?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-18T19:11:00+00:00",
-      "summary": "谷歌发布 Harness2，能自我改进的 AI 智能体  Pasquale Pillitteri",
+      "published": "2026-10-18T19:51:17+00:00",
+      "summary": "谷歌发布开源 AI 智能体 Artemis，可操控安卓手机  Pasquale Pillitteri",
       "categories": [
         "google",
-        "tools_apps"
+        "tools_apps",
+        "open_source"
       ]
     },
     {
@@ -43,31 +44,31 @@
       ]
     },
     {
-      "title": "AI大模型狂飙，数据中心先扛不住了？ - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2NjZ1dyRGUxMERsVEJwbEtNSm81dmduQzdfUUV5WGNoa2tUSW1wRHV4QkVYcXR5MldSOFNsZWVKRkdDeWVYYXl1Wms1cU9oUFcwaHhjclVIRnN1Und3RTBJQ05MLUJSRnJ3MUh0SnZOaFloelItQ3JCVXRscXRNSHJfSGdnR3I1eWsweA?oc=5",
+      "title": "DeepSeek发布新版AI模型 性能提升且运行成本降低 - 早晨报",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yN19lWjNmaThWdW4wZW11UW5yV0FGc3h4MjNVTjBOcl9pYWZVTUNOOWNpMnBkbTQ5M1lfTFVRLUFyeTVzU3Q5ZXJWWk1ZNVlEdW9yUU95aGZTTXVuTHBrUEQ4WktITzFy?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-18T13:30:00+00:00",
+      "published": "2026-10-18T14:05:00+00:00",
+      "summary": "DeepSeek发布新版AI模型 性能提升且运行成本降低  早晨报",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "AI大模型狂飙，数据中心先扛不住了？ - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2tsTEZQMC1HUTFHY1VxRGJFaXcxMmdjR09HRlFwSFdxTlFxZ0Vfd3RTU05yQU85Z2cwZDdKZjVJb3VtT21uRV94XzUwN2FULVdUWTlHTW1kelFOb1hpRHJacjUyRGg1MWQ5aDlOVV95MHl5amZzdGE1OVpzcGxMSGhkZjE4SXAyRG9DYQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T13:34:21+00:00",
       "summary": "AI大模型狂飙，数据中心先扛不住了？  搜狐",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "博士生和智能体组队辩论，“硅基队友”的嘴皮子有多厉害？ 10月18日，北京怀柔科学城上演了一场特殊的“人机辩论赛”！比赛采用“2名真人辩手+2名AI（人工智能）智能体”的混合组队模式，正反双方各有4名辩手，共计4名中国科学院博士生、4个AI智能体同台交锋。（北京 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXNNbklzZE9UUE5jLVloVHhoM0t2dkk2RUVKUGM2elVFS3dGcUxPNWZoMHpwWmdYMGU3WVlZNk9PR21tcW9yclBPVWxxb01ySDhXcHEtaDRPTDNYMlJ3WGpxdG1RU29mY1ZranB2SEI4ZXF3ZEp1LTE0MnZEUVoyZ1h4VWtfb0dF?oc=5",
+      "title": "DeepSeek发布V4.1-Flash-1017版本 API网页搜索每1000次收费5元 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lb1otTDhrZ2FaYW5IaElZMll2MS0xTXpxMUN2SXBMdkM2bFcwVDRHOVZWYnk2SjVRMlpXejVwNEVyTDVhRHNoOWh6Y0lQZlBoRlBoVDBjMzN6V0hXWk5FSm5n?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-18T13:25:25+00:00",
-      "summary": "博士生和智能体组队辩论，“硅基队友”的嘴皮子有多厉害？ 10月18日，北京怀柔科学城上演了一场特殊的“人机辩论赛”！比赛采用“2名真人辩手+2名AI（人工智能）智能体”的混合组队模式，正反双方各有4名辩手，共计4名中国科学院博士生、4个AI智能体同台交锋。（北京  搜狐",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek发布新版AI模型 性能提升且运行成本降低 - 联合早报",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNldlYmxtX2lUeEVGYi1IUFFkZlNjUVgtSmJHSksyMmFKNkRKUHFjazZ3VEVNNmhXak1CTy1aOU5XSE5PZ2NQVEdKTFZEbFJyV0RKbUxoVi0tSjk5ZjYwRmRYQVJuOVdHb2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T13:06:00+00:00",
-      "summary": "DeepSeek发布新版AI模型 性能提升且运行成本降低  联合早报",
+      "published": "2026-10-18T13:16:55+00:00",
+      "summary": "DeepSeek发布V4.1-Flash-1017版本 API网页搜索每1000次收费5元  观点网",
       "categories": [
         "other_big"
       ]
@@ -113,16 +114,6 @@
       ]
     },
     {
-      "title": "DeepSeek发布V4.1-Flash升级版 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmlRTWZ5aF9Da0d0NVBKQUo0bUFfckdDTFhOSFRjTFJtbGg4elJqQmpuNUhQS1dfOEhkNkRVUkJ4bHdtTWVRbWFLTVQxcjRGcGp6VVM3NTlPYm1nSERTSlk1Q0ZZbURpV2lGakVfb1FhRUpDV0lMNWxRMWxldmg2a1hQbF9uRWh1bzVz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T12:54:39+00:00",
-      "summary": "DeepSeek发布V4.1-Flash升级版  搜狐网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "报告 | 中国工业互联网研究院：工业智能体发展报告 - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbnZpMlR1SUd5d1gxVlhzRGtKTHRBMjZKZ2ZqeVU1U1hiM0d6Vk15WlZkQkd3Z2Q1Um9teU9ja1VtU0puVnN5WjAwVlY2aDA5Rmo4?oc=5",
       "source": "Google News - AI(中文)",
@@ -130,16 +121,6 @@
       "summary": "报告 | 中国工业互联网研究院：工业智能体发展报告  电子工程专辑",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "ChatGPT有了AI小队！GPT-6 Astra Pro升级，分头干活还能查进度 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXZETWtOR3lMVkx1MXlsbmVZejM0c295ZDBZZTg0TUl3VmRnVWs3Q1ZTT1JhV2JVOFdkdm1yR21XUVVIUVhMTEFxenU2dTVKOE1Za1lLLU5uSXlYbnJJQ00tTVZIeTh4Vk1hVFVqVHFJV2RsVUV0TTFEMEZqUnZEUU40V0UySlh2alh3QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T12:05:29+00:00",
-      "summary": "ChatGPT有了AI小队！GPT-6 Astra Pro升级，分头干活还能查进度  搜狐",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -170,6 +151,16 @@
       "summary": "编码智能体训练为何要重新审视源代码？  新浪财经",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "ChatGPT有了AI小队！GPT-6 Astra Pro升级，分头干活还能查进度 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjJIYUhCdEQySHdDWkRTRk1BLTNMQmZyV2ozSm5aQ3FCUFVuUkpGcUdHempUR1RxamxudWdPaHRMeUdib2FBX1I4WmhnWC1xRy1EV2Q1cVozTUlJSXBKT1hJbnNPTUdkYnFheXN2REVldFZzWC01VmdmSmtrelhYMWZmN0xxaU8t?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T11:44:58+00:00",
+      "summary": "ChatGPT有了AI小队！GPT-6 Astra Pro升级，分头干活还能查进度  搜狐",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -276,16 +267,6 @@
       ]
     },
     {
-      "title": "VLA与智能体上车 MONA L05加入大五座SUV竞争 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1oxWWZ1TlI1R3ItRnpwUHFOelpGeWRmeW8xY0daV2EzREFCM1dRSEJSR0NEcEdELW10TGZKUUFlZnZDLURMVHpoSFBNTUxWeFdSWWoyZkZGTDAyR2Vsb0t6NzJWaHBhdXlMWGNnRjEzbW1lR1NHbElRRVNqU05ra1dFeVNxRzRE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-18T09:09:26+00:00",
-      "summary": "VLA与智能体上车 MONA L05加入大五座SUV竞争  搜狐",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "前沿Claude和GPT，居然被国产AI联手超越？Scaling Law新解法来了 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdE5DUUZNUVM1bXJGT24wUGVOUlY0VVh5MnJBQXp2cjRob1c5OWFwaW4tZy1iSDdiQ0NmUXlyWjZ2ekgzZEU4RnVtbW52R2hVaGtQRWdVYlo0OU8tZ1VPb2JnZ1Q5TDYtV2hXMjhoeUlaMWpGV2VYX0ZrRDhJVWJUTkg1RnpOcm1aLWNPTQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -348,6 +329,17 @@
       ]
     },
     {
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56R2NNeGE4SnhCdmFqbUtVb2ZGRHNfVkJUalhFV3JNZG95VGJ0WU95U0FDWnctNHRzamdNNkhQUEFUOTQ4Y0JwVg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-18T03:20:00+00:00",
+      "summary": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改  智源社区",
+      "categories": [
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
       "title": "OpenAI下线对话内下单功能：智能体商务首回合遇阻，电商履约与结账仍由平台掌握 - 虎嗅网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QcUI3Q2RMdDN6S3NPS0hQVnVKNjNPVHdPcVA5aHJoX01pMldGenRIV3Y4MDFCMjE5WHB4QV9ZQ2ZqQUtwT1BwTTdmZTQ0dlB0aUxncA?oc=5",
       "source": "Google News - AI(中文)",
@@ -364,6 +356,16 @@
       "source": "Google News - AI(中文)",
       "published": "2026-10-17T08:31:35+00:00",
       "summary": "面壁智能发布大监督智能体，用AI重新定义行业  京报网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "椭圆时空自研星池时空大模型智能体平台AethraZ进入测试阶段 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEd2U1hZYWl0Qng3OEFTbVN6VlVPSW1nXzN0YzcxX0Qydkk1TzdkYUs2b1VJODJ5ZC0xTkZBOGhtVmtkZDJSYXVSRUZKNkh3Nm90Skg3UUJxY3RMaFozc3Rxam50UmhpZVFJMlV2dnpNZV82ZUctR2h5dWxxbV95OTJhaV9RY0VnZGNCYg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-17T07:35:48+00:00",
+      "summary": "椭圆时空自研星池时空大模型智能体平台AethraZ进入测试阶段  搜狐",
       "categories": [
         "tools_apps"
       ]
