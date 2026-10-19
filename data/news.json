@@ -1,6 +1,47 @@
 {
-  "updated_at": "2026-10-19T17:05:32.915841+00:00",
+  "updated_at": "2026-10-19T21:40:36.957132+00:00",
   "items": [
+    {
+      "title": "Fable 5.5要来了？报道称Anthropic正开发新模型，主打\"意图推断\"能力 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuTl9mR0s1Y2xKTDNTZEwwb1pIU3U3dFE3RGM3QzFnSkQ3VHIxRWpNdUJCM1NlY2VQNHE5Q2IzVk5KZ3VxSVJRV01yLUZXTUloZF9r?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T20:55:48+00:00",
+      "summary": "Fable 5.5要来了？报道称Anthropic正开发新模型，主打\"意图推断\"能力  华尔街见闻",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "华为“原生智能操作系统”专利公布： 从App OS迈向AgentOS|国家知识产权局|AI助手|系统架构|权限管理|酒店 - 新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ocm9wRS0tTkxYOGQzcUJnNkswbjRScDJxOERHNTBfbnhhQUpBenhpWE53d1h2SF84SGUtdmFiMmdBMnFMLTRobHBHaFpWZWktOWVRUWFUdWo0NWRXbDdCcmYzSmFTcEliQW8tOVB3UkNjTlh0akE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T19:51:00+00:00",
+      "summary": "华为“原生智能操作系统”专利公布： 从App OS迈向AgentOS|国家知识产权局|AI助手|系统架构|权限管理|酒店  新浪新闻",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Ming-3.0-audio-flash 与 Gemini Omni 1.1 Flash 对比 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaU1c3YXVLTDROc2xybldYazlMT0ZEdjBzWDdMdnprNXJPM2pfUkNKYXFkWWYyT0s0RHFEUlBYSm84VDhHX0lkUlJEVkxvYmJyUTViVHp4MHJMcGZNOW5nbFJQaWRmQmRGTnZaa25vOHJTUDVScHNVZG93?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T19:17:02+00:00",
+      "summary": "Ming-3.0-audio-flash 与 Gemini Omni 1.1 Flash 对比  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "ChatGPT被指控提供傷害用戶健康的建議 - 大紀元",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEenRjcHljUmRwSkZvb2lEeDNUX05yU2RFdERoZDhKVk10SFhmN293bXFtWmVvZG8wNHRoajRTZEpfV01ZTFR3SXpXSEhyRkFuWUVVSXlLZmZxRjdLdThqMEtB0gFnQVVfeXFMTnhXRlh2V3dLMXBNSXUwaVp6MHgwTERxQ2ZiN0luQUdGMVRHQ2hmLUhQUHNoTjR5UVpHUVFVSW4zNWRlZEFJdjl5MVdtZW5QcTYtajBVLVdZdmoyNUhBN1dTVVMzRk9pRQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T17:09:00+00:00",
+      "summary": "ChatGPT被指控提供傷害用戶健康的建議  大紀元",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "ChatGPT 在做什么？ 从底层学习大模型 - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HNHlKMW1LTEZFRzNyM2FXalBaZXFWdmRmbGtLMVExR1JXNEQwTnVqQVBQMk1vbDNsdVFZOTAyODkxS0FIYVBhWkQ2SHlLcGo2NUFz?oc=5",
@@ -9,28 +50,6 @@
       "summary": "ChatGPT 在做什么？ 从底层学习大模型  电子工程专辑",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "Ming-3.0-audio-flash 对比 Gemini 3.8 Live：开放权重、八块 GPU，以及一份你真正算得清的账单 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGpJajU4ZXZlR0RWVkVZbW5yVlFVdWRNWnJLdUhVeU11UEVValNfQlBFSEhtdVhmQ3hYZmtZR1pwQzlCNlh3QTJjYjRXYVA2bEUzWHNCT3FNN0FVSndib1ladnNtWDJ3OG94YUtGSXdPX0JOeXdKalhWRVlOYlUyS0Nn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T16:23:58+00:00",
-      "summary": "Ming-3.0-audio-flash 对比 Gemini 3.8 Live：开放权重、八块 GPU，以及一份你真正算得清的账单  OrcaRouter",
-      "categories": [
-        "google",
-        "open_source",
-        "chips"
-      ]
-    },
-    {
-      "title": "努比亚手机怎么样？2026实测真全面屏+AI智能体，3类人群对号入座+FAQ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWpDdXgtQTZYengtRVlzeTBuOHA2ZnJ1WTBodVJ0MDcwLTV1TjlaWXVzSnlZQVR4NHNWRTZqVmNCN2I2X0F6Wks4R1pMMzV5Ung4bXhPZGZSWjYyUDVKVktlM0tvSEs2dG1FdGRhaUp5NlFuVk50NGR5Q0hXSlN5RQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T15:49:00+00:00",
-      "summary": "努比亚手机怎么样？2026实测真全面屏+AI智能体，3类人群对号入座+FAQ  新浪网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -95,11 +114,22 @@
       ]
     },
     {
-      "title": "广交会支付企业竞速：中非跨境贸易热，本币结算与智能体账户并行 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHlRN0x5RjN4VFB2N3ppSm5HakE0cGFCX1RqVTJkbmliT0tzeDlWWDFaN2NkdHZ2dzBpUG5nZ3A1QVhjWjhBeWEwR2oxanhNZEZKQnlHdkwySHhvNkVuTlM4bXpOcHFsY0tOVWFHRUxYVkk4T1Q5X1BidWZ5U3NHeWJmejRLcFBURmstN0ZzWQ?oc=5",
+      "title": "首个“基层社会治理研究智能体”在贵州发布 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlBab3RXX3VsbDFKTTNDQ3FjdFowUjhMMmQ5M19RamxGamd4M0hleTVLZENGNjJEZ3RtOGNtRXZsYUd0WV80OFFVak9LNGFJTWEzQU5ocm9yY0VSWWM1Q3VqckJzcEU3TzZLaUoyejE1NXRFdFMwdHo2SHZFODNhZGNzOWNHamRmZGZrVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-19T13:51:00+00:00",
-      "summary": "广交会支付企业竞速：中非跨境贸易热，本币结算与智能体账户并行  21财经",
+      "published": "2026-10-19T14:01:17+00:00",
+      "summary": "首个“基层社会治理研究智能体”在贵州发布  搜狐",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "当智能体学会 “逛街下单”，软件出海的玩法变了 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamQyS3RxeHBTMkh1VHc5YlZQblZHdjJqWnJHdFcxOWlzOWFQSi1uSDg1N1FvMFE1MUJWTkdid1dKTF9SUlBiSGttdWJOU3FiZjNaaHR6b1VaQlNaS19aTUFmbFItc0VmQnp2V3pFMkhFM013NUduem5BUEZibDZ5cndkNXgxUXpH?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T13:57:27+00:00",
+      "summary": "当智能体学会 “逛街下单”，软件出海的玩法变了  搜狐",
       "categories": [
         "tools_apps"
       ]
@@ -116,11 +146,31 @@
       ]
     },
     {
+      "title": "Apate让AI智能体卧底挨骗，收集诈骗情报 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFB3UmE4U1Z1VXdPYlBFUmc0R0MxSXRSbTVfMm1WTExzOFVkYWVxYWR5OE1wcldZTWdtX0FZM1pHMFl1OFZGV3UyZmptQzlVRmVrY3Z6N0hLTFBhZkJNZlYyalFnelJpVjZ5SExwYnl1bV94TzNtendEUTdhNjlSRWRxMHFxb1lo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T13:43:00+00:00",
+      "summary": "Apate让AI智能体卧底挨骗，收集诈骗情报  搜狐",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "AI能否推演疾病进程？这场大会发布六大医疗世界模型成果 - 中国江苏网",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzU4S25EeVhCWU56NzlKTE94LTAzN0w5b3Z5Y0VVdFFSNEdYX2ZfWG1oRDdyWmhkQXhqUjh1dEQ3QUotUzA5M0R0ZUNoUkhoTHBkR3dRUGd2VThCLTd6b3NLcWxYLTJ2Ml9oNk82bGVQTC0yNzNfOEdUVkFtd3E1WmRXdWI5OFU0NXJV?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-19T13:40:00+00:00",
       "summary": "AI能否推演疾病进程？这场大会发布六大医疗世界模型成果  中国江苏网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "中国团队+国产大模型，破解世界级难题！ - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUtmSmYwaGMwWE9JY2hoRlZKck5VYzlheUxYT0lteEk5X3hPcFcwSXJTSnFDbjVLdWVWWmNFdDNVVXZmTVkzcThHSS1ub1ZMUDl4emZBWWFEWGRTbG5qUzFUR0thM2tHRkJuV25tU2pNZTBsejFoUnlyampoNVJIYVVvbW1pTXdMS0xGYg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T13:39:32+00:00",
+      "summary": "中国团队+国产大模型，破解世界级难题！  搜狐",
       "categories": [
         "other"
       ]
@@ -146,16 +196,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "第六届RISC-V中国峰会举行 首颗完整符合RISC-V服务器规范的芯片发布 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbW1EVzh0NnNTbXhRNDVYdFd1V0tNS0F4NkJBVDFnLW8zZ0NEN05mRnA5MXR4S3dQRFV5ek9QZFhDRzBHVjFhUzhHeTQ4cWhqOEE5TXlLdFpvdjZMUzVabkNyOG84OHVDMWNuR0dDaUxfd2Y2MUlZRkVOT08zUk9NVEk4WmRrMTh4cTQtWEQ1Yw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T13:22:00+00:00",
-      "summary": "第六届RISC-V中国峰会举行 首颗完整符合RISC-V服务器规范的芯片发布  21财经",
-      "categories": [
-        "chips"
       ]
     },
     {
@@ -199,6 +239,16 @@
       ]
     },
     {
+      "title": "企业本体智能风起泉城“章鱼总裁”正式发布 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDhqNXNqa2g0eFJONmFaaWZTSzJfS3VheFNQMVdTam5PYjZHbTE1WkI4bGdiYlNZX3RaY3h3VllyM3BBMDgtRkVoUHh1WnNiMjd6YTNJUUNyamxJRGNsdWpQc3Z6dWx0c1pHcFBoeU5FU2lvUUxsOXZIVFAyQi1wUm1QZHNyeERyQndwVg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T12:05:41+00:00",
+      "summary": "企业本体智能风起泉城“章鱼总裁”正式发布  搜狐",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "从理论到标准再到智能体：品牌种智理论体系正式发布 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHRvUGdINERpZGJLM3FZaWFZZ05NemtGdDMzbjJyaTFiQ0ZXQzhsYVhsSVpDNURPUFBWTXFMUmtfZEVrb09CbUJWZjJGU1RYWklfOGpHVzYxSExZZUx0SXUzZFRwOWZTU0dVTWtOWEt4dGZyZFFTU1NpMFhqYk1GUC1fTm9qVXpsUU0xVw?oc=5",
       "source": "Google News - AI(中文)",
@@ -229,6 +279,17 @@
       ]
     },
     {
+      "title": "玩得转、搞得定、聊得来！首个AI超级智能体「迪迪虾」上车 - 车家号",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vaEd5cnNtVFNrN2N3blExWVUwT2ZoZTRDWDNsLUpQT3pSeVBDbEVYcjdoOU03anhrSXNmS3pxUkRLa0VkMWNDdUwwcHQ4NG9GU3pLQm1iRnMteVk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T11:44:39+00:00",
+      "summary": "玩得转、搞得定、聊得来！首个AI超级智能体「迪迪虾」上车  车家号",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "垂域大模型看山东｜“数字同事”帮忙 新药研发提速 - 齐鲁网",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aQ1dTcEp2a2dnOE5tQ0k3TExXaUpvLVVYNHpNcmNmZXd6UWlrTFRFZWltcEVHTV92ZzNRMWFNZ0tjdDI3Zk5nWUMwZVZnV3FZRG9ZZkoyeFhMclBoMDBoNXlSMGZ4dW5BWUczVmEtLW1qdHRI?oc=5",
       "source": "Google News - AI(中文)",
@@ -239,32 +300,22 @@
       ]
     },
     {
+      "title": "4个谷歌AI智能体耗时逾27小时，在无人类干预的情况下击败 我的世界：传奇 末影龙 - 17173",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LS3pNSHNQMWpub1lfa0xRcS1UTDhBbW1rdXMtVkY0aEFGZm13Tk9udnR1YVBBakVWbW5ycURXUmdXbl9jMDFLcjg5OUFrMFYwZ0pQUFZHZTRmQnlBODZyMU1qTHpYdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T11:07:09+00:00",
+      "summary": "4个谷歌AI智能体耗时逾27小时，在无人类干预的情况下击败 我的世界：传奇 末影龙  17173",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "英伟达推出面向企业智能体和个人电脑的开放模型 - Mezha.net",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjZTam9PdlRKMDF4b2RVN0dLeHhKWnZtc1FWQ3RnWVNwWEcwWnlIVk1XQl9xNWVRaTN1U3ZTVzZrdmY3LUFaNzlSX1VZSklGTW1oYS1ram5XQWYxSVd4V3lJNFUyVXNTX2UwOTllZlN3Y2kzN3dQNGNZaTB5emZNYmhEeWVBLXk1T0xBSlBtdGNBRGtSZUxsVnZZcnY3b2hXdUE?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-19T11:06:00+00:00",
       "summary": "英伟达推出面向企业智能体和个人电脑的开放模型  Mezha.net",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "中国报业创新发展案例评审专家：岭南文化大模型示范引领价值突出 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0xIa0hCVFNyb0hyNDUzX0h2UlNCV2tCeDhOSEV1UHpkMVJvd1hpR3FsY09NR3A3QUdZelpUQ3R3RDFZQk9BS19IWDRZbDhGcXIxTkVhYWVObndyeGZaWmY2QnNOejE3UzNmSHFaQUF6REQ0alJXT1IzY1o2TFBzbjh1VllkaXZBR1k5eQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T10:56:00+00:00",
-      "summary": "中国报业创新发展案例评审专家：岭南文化大模型示范引领价值突出  搜狐",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "腾讯回应智能体绕过限制访问高德地图 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSUoxUnFnOVpKeGFrYnFpeHdDeDhtMjNnYkREV3BsV3RyTDdUVnZVdHpyenZJbTJnS1NIUzZwZTA4cWpIZzBmTmhXV25uRjY3VFhyOW16TkV4N05Qc3pscE54WHllNTVjc1E2bXVocl9JMDNmcEpacjVleU9jTDlYUk1UWlVNQUV0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T10:47:06+00:00",
-      "summary": "腾讯回应智能体绕过限制访问高德地图  搜狐",
       "categories": [
         "other_big",
         "tools_apps"
@@ -281,16 +332,6 @@
       ]
     },
     {
-      "title": "国内MaaS平台推荐：企业如何选择高性价比大模型服务（2026年度榜单） - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0NWaXBybU9TNXU4enBTYW5SQ2tUdXZmZllnS1RSa2pEa0wtbFlNUjMxNmlsZFREdVgyZnhyVG55Z3dxaDcyMDJDeGdaWkxwRVp2SXJRaGdKWGhqV0dJXzdNWGNRM2JwVU9CWjA0blJPekZsVDRhOEJUa0NhQnYzazNpdmcxZ01I?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T09:54:15+00:00",
-      "summary": "国内MaaS平台推荐：企业如何选择高性价比大模型服务（2026年度榜单）  搜狐",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "发生多起AI入侵事件，受害企业却毫不知情！印度CERT发布紧急预警 - 安全内参",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4Y2J5djBxQUQ4LU9CQXNZamxidGcwc0laVWtWV0VzU2FFVXIyNWxTeGVkUHZPZ1FuUjkxU2NZTDZBM2EzcnNiSXlVX1pjZw?oc=5",
       "source": "Google News - AI(中文)",
@@ -298,17 +339,6 @@
       "summary": "发生多起AI入侵事件，受害企业却毫不知情！印度CERT发布紧急预警  安全内参",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "【理事动态】格创东智重磅入围IDC 工业AI及智能体平台领导者象限，引领工业AI 迈向工厂自主治理 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hdkh1cmVubWJ3MFVKMDN6VnluZWZkYUg5Z0ZUMmc2QnFhT2pZd1NXTHpDbm9SOFc0czRISURncjF1UEhzcU5pUnFmYWEyOVR4aVN4Z01DNkIxZUpYcDFDY1lB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T09:32:02+00:00",
-      "summary": "【理事动态】格创东智重磅入围IDC 工业AI及智能体平台领导者象限，引领工业AI 迈向工厂自主治理  同花顺",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
       ]
     },
     {
@@ -320,26 +350,6 @@
       "categories": [
         "openai",
         "breakthrough"
-      ]
-    },
-    {
-      "title": "OpenAI曾无视员工关于其人工智能安全问题的警告 - 早晨报",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KNWtILTVHVVZZWUZJOVRjQUNvN2xDdE1oZUljM2JDRTZGUHc5bVFvbXV4bFlzc0l6R2NPeUdTQXk3STd0X0RvUUJMbEIwUGM5MTc5dmJSSGNnZGZGVzZuYVZLWlV5ZUpVVWIyUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T08:54:00+00:00",
-      "summary": "OpenAI曾无视员工关于其人工智能安全问题的警告  早晨报",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "DeepSeek上新AI模型部分性能超OpenAI，V4.1-Flash几乎每周位居使用量榜首 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWtvMFEzbFoyZGFyeDVMVWVIaFpwbDMxdDRaN1QzcGcwSnBtNUxfeFVHb09icHM2S1dic2liTUtpVmdjZzlleGF0S3BJTUwtQ0VqYmhnaVlxM3RUdExTN1o4Zk9Ka0FuVTcwVnVRaWNnd2JfdUxXal94M29WZlU5RzZjbHBiMlZqRFB6TA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T08:32:00+00:00",
-      "summary": "DeepSeek上新AI模型部分性能超OpenAI，V4.1-Flash几乎每周位居使用量榜首  搜狐",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -361,17 +371,6 @@
       "summary": "直播中｜Claude垫底，GPT表现不佳，PhAI Labs用DiscoveryRSI探索科研Agent自我进化  搜狐",
       "categories": [
         "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WTl93ZGlmMmxUai11NDlOUlpOb2xlQU5uSXdTbGRzX29fZklBV1ZPbExfb1p0VTRvS3ZMdVFiMk91ZFJQR0thVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期  财联社",
-      "categories": [
-        "google",
         "tools_apps"
       ]
     }
