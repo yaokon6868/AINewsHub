@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-10-19T21:40:36.957132+00:00",
+  "updated_at": "2026-10-20T00:57:13.592437+00:00",
   "items": [
+    {
+      "title": "AgentKernel：给AI智能体装一个操作系统内核 - 科技行者",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4c0JxQ282ejcyMHEySXViZzQzZHprR1hHcUJZRGdIeklGbHd2X01CVWVaUDRadVdQeEhlejJXYXl3Zm8tX0ZoaEJKMmMwU2ljUENIa2Q2QVFkaE9zUENR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T00:15:00+00:00",
+      "summary": "AgentKernel：给AI智能体装一个操作系统内核  科技行者",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "四个 Gemini 4 Argon 智能体成功通关《我的世界》，耗时 27 小时 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSjNOZkZaRVRwTlk2VTc5VkZDU0pZcUVxRFIxQ01hSWhYT0cySVVJWVFlcjJodW40N2F4S0N3RnpONzFuNXFnaUFEZjlRZmpoNG9DcEk0ZEFZN1BSQnpKWHpReWFHZzdvb05UUHk0LS1GazZnYVp4Q0pfY3FDeHlaYnQwNjkzTncxZFlHTg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T00:14:22+00:00",
+      "summary": "四个 Gemini 4 Argon 智能体成功通关《我的世界》，耗时 27 小时  搜狐",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code一段话爆改电视：极简零广告，安卓变「苹果」！ - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Xel9IVHJFcmdmOWlPcUhuaW9kdlZ1ZlVaYmxTYnRzVC1RcDR3dXRvRWdNeTdSRGxXYkdlNjlpQmN3cnBSTU1GNQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T00:10:00+00:00",
+      "summary": "Claude Code一段话爆改电视：极简零广告，安卓变「苹果」！  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "中国大模型周调用量连续25周超过美国；人工智能赋能钢铁行业首批标准发布｜数智早参 - https://www.mrjjxw.com/",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3amFjeHBUdXAwaGtVemJSbFRPMHJPY1M0RDdMMEVfS2l3dmo0TENvdjlmWEtKQ3hGNmhIMW5oVTRjWXZyVUNtQmtsZXQ4dDZYdWlNSXJsN2dmeE9GQ1BSeEhDVkRGZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T23:00:05+00:00",
+      "summary": "中国大模型周调用量连续25周超过美国；人工智能赋能钢铁行业首批标准发布｜数智早参  https://www.mrjjxw.com/",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "GoTo向公众发布其印尼语人工智能模型 - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeGkyYVZYemd3c0RFc0FpV2ZGNC1lUXR2R2NPbEJWZVdja0dNUExaSFZzbERmOENpbmxkWExyOFJGazBpMHozaGphMXJNUW1Za2dZUHg3LVAtbG9ZMF9MYkYtV2FMdEVVX3VTQXl4dmhnc0ZpMTkyTTQ4c1hDX1lzYnhtLThsSjNGMWl2UUtoUzcxNGt2cnNzVDZCMnhEUEZ1N0Jyd3NQMmRRTFU2dnc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T23:00:00+00:00",
+      "summary": "GoTo向公众发布其印尼语人工智能模型  The Business Times",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "Fable 5.5要来了？报道称Anthropic正开发新模型，主打\"意图推断\"能力 - 华尔街见闻",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuTl9mR0s1Y2xKTDNTZEwwb1pIU3U3dFE3RGM3QzFnSkQ3VHIxRWpNdUJCM1NlY2VQNHE5Q2IzVk5KZ3VxSVJRV01yLUZXTUloZF9r?oc=5",
@@ -20,6 +71,16 @@
       "categories": [
         "other_big",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "Gemini 4 Argon 助力拓展聚变反应堆磁场的数学解 - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU5oUzFUb3hGZmZIUEE5SkpmMGFIUWtuanlTZmZ2Ym9GSEtwYjBORW9zVjdoc19QM2pXWnRXRmRfVUZvVGIwaEVOX3lNTGhsUVdqc1lEdHVUb1FSY1BYWnNWZ2JSMWs3T3V0bnpUazJ3dmRZWGxOcnpFNGpyTTJPVUlNR1hjT3kxdUxFVEVycXc4OV9RU0s3RDlSYWNlYUk?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T19:22:00+00:00",
+      "summary": "Gemini 4 Argon 助力拓展聚变反应堆磁场的数学解  Mezha.net",
+      "categories": [
+        "google"
       ]
     },
     {
@@ -50,6 +111,17 @@
       "summary": "ChatGPT 在做什么？ 从底层学习大模型  电子工程专辑",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "Cognizant与谷歌云扩大合作联盟 加速企业智能体转型 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTS3JHVnpTcXlqN2VYbUx4TEdGQUVXUm1DSzJFVFhZZDZ6bi1JSEJVajd4Z05PckVlU0dXWFhtb0dzRUo0OVFtVnZkYmZUOGg5YWJmQWxxZkduVnc1VmZ4di0yQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T16:19:55+00:00",
+      "summary": "Cognizant与谷歌云扩大合作联盟 加速企业智能体转型  东方财富",
+      "categories": [
+        "google",
+        "tools_apps"
       ]
     },
     {
@@ -135,42 +207,21 @@
       ]
     },
     {
-      "title": "Deep Review：谷歌推出AI技术文档审核智能体 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWlIQjJnRXRWSDcwY3NnU1dKWTg4X1ZhY2JtTDVqWDYyRFNab1ZnLUhkWWhiQUJOZ3dmNTBMSmFUOWxfRkdvQTdzbDBRUmY2VUFkTFhHdnVkSzBRNE1od29OOS1oMHdhVWN4QlR4dzdRR3o4SlpLTWd4Z05XaXZldUEyYldTUnFl?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T13:50:00+00:00",
-      "summary": "Deep Review：谷歌推出AI技术文档审核智能体  搜狐",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Apate让AI智能体卧底挨骗，收集诈骗情报 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFB3UmE4U1Z1VXdPYlBFUmc0R0MxSXRSbTVfMm1WTExzOFVkYWVxYWR5OE1wcldZTWdtX0FZM1pHMFl1OFZGV3UyZmptQzlVRmVrY3Z6N0hLTFBhZkJNZlYyalFnelJpVjZ5SExwYnl1bV94TzNtendEUTdhNjlSRWRxMHFxb1lo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T13:43:00+00:00",
-      "summary": "Apate让AI智能体卧底挨骗，收集诈骗情报  搜狐",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI能否推演疾病进程？这场大会发布六大医疗世界模型成果 - 中国江苏网",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzU4S25EeVhCWU56NzlKTE94LTAzN0w5b3Z5Y0VVdFFSNEdYX2ZfWG1oRDdyWmhkQXhqUjh1dEQ3QUotUzA5M0R0ZUNoUkhoTHBkR3dRUGd2VThCLTd6b3NLcWxYLTJ2Ml9oNk82bGVQTC0yNzNfOEdUVkFtd3E1WmRXdWI5OFU0NXJV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T13:40:00+00:00",
-      "summary": "AI能否推演疾病进程？这场大会发布六大医疗世界模型成果  中国江苏网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "中国团队+国产大模型，破解世界级难题！ - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUtmSmYwaGMwWE9JY2hoRlZKck5VYzlheUxYT0lteEk5X3hPcFcwSXJTSnFDbjVLdWVWWmNFdDNVVXZmTVkzcThHSS1ub1ZMUDl4emZBWWFEWGRTbG5qUzFUR0thM2tHRkJuV25tU2pNZTBsejFoUnlyampoNVJIYVVvbW1pTXdMS0xGYg?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-19T13:39:32+00:00",
       "summary": "中国团队+国产大模型，破解世界级难题！  搜狐",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI能否推演疾病进程？这场大会发布六大医疗世界模型成果 - 新华报业网",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GTEp3Y0Z4NHcxb0V3WG16SVl5UElhc3JOZFFHM3BweHBjUkZDNWVkN2xyTXI0eTI4UGo0YWlPbFY3MHJISXlqQ1BkVzhEYVhCM3U4RkV3Sl9UN2FZajNYOXNXbVQxWjczY1hJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T13:39:00+00:00",
+      "summary": "AI能否推演疾病进程？这场大会发布六大医疗世界模型成果  新华报业网",
       "categories": [
         "other"
       ]
@@ -188,17 +239,6 @@
       ]
     },
     {
-      "title": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头 - 潮起网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13WWFkczE0bzh0Z2xObUoweXlfdklTbFdBZUszSnQwTEVTYnJ0VTEzU3p3RTRoM1Q4TEdVNkEtUkhSazUwRmtXdlVmYkRTUFZLZTlVY0VyMDM1WEpnYVdzckdKNA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T13:32:01+00:00",
-      "summary": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头  潮起网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Forrester：蚂蚁国际全栈AI产品 支付撬动智能体商业 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDdmRThWRUIwV0JWS1JOTnFpWU1ubFJYcVBtYkd5ZEFnZFRiRjJrRElaNkxqT2ZfSmJOb2duSG1EYlp3eXFGSmhzTFRRTVZGVWQ3S2VhRE9vVmRlOGxTTTB4eGswc1dWUFNHMUhaUjlsaHVYRWhxY0RRLWJLVlI2cWpTRXZ3dUl3d1Uzaw?oc=5",
       "source": "Google News - AI(中文)",
@@ -209,16 +249,6 @@
       ]
     },
     {
-      "title": "国新办发布科技兴商意见 开展人工智能加文旅试点 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZUlJZldoZVE2NnFlNXNwSlNBRWVRaGFXay1uTmV1bElqRzZuSGdHalNJMnV2RWZQN3VDdERTZG9zVWNMb25TNEFzTTlxMWpYd3dUTTNhdW44eFVnaWh4R3F2MEJWQ3prSmJmY1pVQ3pvb3AwYmpsT1B5UlBKQi1Ba25n?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T12:30:19+00:00",
-      "summary": "国新办发布科技兴商意见 开展人工智能加文旅试点  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "AI团队学会了自己开会：让多个大模型协作解题，效果超过完美路由器 - 科技行者",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yUnN5Yk5FYTJYN3V4aWtvME03cF9sd2w3M2JIM3BZTHFWUWRDM3I0TzVGWVktOU5DS3dnbHBueHdfTG5ZUkhEUWtZQTl4LWl1d3RPUHFlNUw0VU83NTgw?oc=5",
       "source": "Google News - AI(中文)",
@@ -226,36 +256,6 @@
       "summary": "AI团队学会了自己开会：让多个大模型协作解题，效果超过完美路由器  科技行者",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "思维光谱亮相2026人工智能产业大会，发布企业级AI搜索新品 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGpyNDB6SVg3UlotUFRPV05OVHkzeGNKbm8wRU9tLW9CYmkzdnZUR0ppbXRjbElCMEJ1REZ5NEFVU09vWkpzS21IRzVHbGJtbE15SWlZbHAweWpJcEpPOUdGRmdHTlFmdmVMTFJKcDl5cUxRUFVoSnZmV2M3ei1DTXdkbzVfeW1vdWpnT3k3aw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T12:06:07+00:00",
-      "summary": "思维光谱亮相2026人工智能产业大会，发布企业级AI搜索新品  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "企业本体智能风起泉城“章鱼总裁”正式发布 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDhqNXNqa2g0eFJONmFaaWZTSzJfS3VheFNQMVdTam5PYjZHbTE1WkI4bGdiYlNZX3RaY3h3VllyM3BBMDgtRkVoUHh1WnNiMjd6YTNJUUNyamxJRGNsdWpQc3Z6dWx0c1pHcFBoeU5FU2lvUUxsOXZIVFAyQi1wUm1QZHNyeERyQndwVg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T12:05:41+00:00",
-      "summary": "企业本体智能风起泉城“章鱼总裁”正式发布  搜狐",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "从理论到标准再到智能体：品牌种智理论体系正式发布 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcHRvUGdINERpZGJLM3FZaWFZZ05NemtGdDMzbjJyaTFiQ0ZXQzhsYVhsSVpDNURPUFBWTXFMUmtfZEVrb09CbUJWZjJGU1RYWklfOGpHVzYxSExZZUx0SXUzZFRwOWZTU0dVTWtOWEt4dGZyZFFTU1NpMFhqYk1GUC1fTm9qVXpsUU0xVw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T12:05:38+00:00",
-      "summary": "从理论到标准再到智能体：品牌种智理论体系正式发布  搜狐",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -279,11 +279,11 @@
       ]
     },
     {
-      "title": "玩得转、搞得定、聊得来！首个AI超级智能体「迪迪虾」上车 - 车家号",
+      "title": "玩得转、搞得定、聊得来！首个AI超级智能体「迪迪虾」上车 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vaEd5cnNtVFNrN2N3blExWVUwT2ZoZTRDWDNsLUpQT3pSeVBDbEVYcjdoOU03anhrSXNmS3pxUkRLa0VkMWNDdUwwcHQ4NG9GU3pLQm1iRnMteVk?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-19T11:44:39+00:00",
-      "summary": "玩得转、搞得定、聊得来！首个AI超级智能体「迪迪虾」上车  车家号",
+      "summary": "玩得转、搞得定、聊得来！首个AI超级智能体「迪迪虾」上车  汽车之家",
       "categories": [
         "breakthrough",
         "tools_apps"
@@ -322,6 +322,17 @@
       ]
     },
     {
+      "title": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDdzVW1PbW03bE13YXQ1UnRVTVB6TlFnSlF6ZkJ3cDRJNFZzUndnSWloaGFxcGRINDBObWdwdEdQUmRXNFB6SFhobExFNjRYenkzWW5iQ29ncXk5NVRPel9Mb2R0T0lJVnFadXVud21wNjBwUHVSYVdDcmtmQkxzTlBrQllyZnpn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-19T10:57:17+00:00",
+      "summary": "千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头  搜狐",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "GDIRI观察丨是噱头还是真实需求？大模型厂商杀入C端AI手机市场 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yUXNRS2RfWWpTTDE3QldocDM1dENmT2NWejBXZF8xOUxfNXd2MENNMDh6em1uRlFyQjVEbXh1b2JSaWVYVnN5QjdwcVVtZw?oc=5",
       "source": "Google News - AI(中文)",
@@ -332,13 +343,14 @@
       ]
     },
     {
-      "title": "发生多起AI入侵事件，受害企业却毫不知情！印度CERT发布紧急预警 - 安全内参",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4Y2J5djBxQUQ4LU9CQXNZamxidGcwc0laVWtWV0VzU2FFVXIyNWxTeGVkUHZPZ1FuUjkxU2NZTDZBM2EzcnNiSXlVX1pjZw?oc=5",
+      "title": "【理事动态】格创东智重磅入围IDC 工业AI及智能体平台领导者象限，引领工业AI 迈向工厂自主治理 - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hdkh1cmVubWJ3MFVKMDN6VnluZWZkYUg5Z0ZUMmc2QnFhT2pZd1NXTHpDbm9SOFc0czRISURncjF1UEhzcU5pUnFmYWEyOVR4aVN4Z01DNkIxZUpYcDFDY1lB?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-19T09:44:24+00:00",
-      "summary": "发生多起AI入侵事件，受害企业却毫不知情！印度CERT发布紧急预警  安全内参",
+      "published": "2026-10-19T09:32:02+00:00",
+      "summary": "【理事动态】格创东智重磅入围IDC 工业AI及智能体平台领导者象限，引领工业AI 迈向工厂自主治理  同花顺财经",
       "categories": [
-        "other"
+        "breakthrough",
+        "tools_apps"
       ]
     },
     {
@@ -360,17 +372,6 @@
       "summary": "行业首证,华为FusionSolar Agent光储智能体获信通院权威安全认证  能源界",
       "categories": [
         "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "直播中｜Claude垫底，GPT表现不佳，PhAI Labs用DiscoveryRSI探索科研Agent自我进化 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFV0Z2JPVzI3Rjl2QXZuOHpRYUo1NVlqWnV2VDhDMDNZbFpZYlIyeGQxWHZ1TUtWRXlTdU1LaTh6YlNoSExMSW9BeXpFOXIyQmYyb3hnRWNzRmZKUEFYM3lNNUlhMDVjTUVzN3N4c0pnTWNHbHc0cDFRYTZPS2EtWUNrcTlDN29Q?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-19T06:23:47+00:00",
-      "summary": "直播中｜Claude垫底，GPT表现不佳，PhAI Labs用DiscoveryRSI探索科研Agent自我进化  搜狐",
-      "categories": [
-        "anthropic",
         "tools_apps"
       ]
     }
