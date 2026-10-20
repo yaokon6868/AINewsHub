@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-10-20T15:46:30.034590+00:00",
+  "updated_at": "2026-10-20T19:53:48.421999+00:00",
   "items": [
+    {
+      "title": "谷歌宣布Claude Opus 5.5与Claude Sonnet 5.5现已接入谷歌Antigravity平台 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiOXRBU29HR1Y1RktDaW1UUnZuUy1IbE1xMEhHb09sQXAtd1ZRYUo0d2E1c3dxRDlKYUJYbmM1WmdWcENNLWZuVkZrS2ZBRUktVjdReXNYT0QwMy1NNmNqSA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T19:39:33+00:00",
+      "summary": "谷歌宣布Claude Opus 5.5与Claude Sonnet 5.5现已接入谷歌Antigravity平台  东方财富",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "中国大模型周调用量连续二十五周居全球首位 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFNyY3pYcEtKZVdjYnRlY0lpRW50dUFsVXB4TUVFYU12eFVONTdaOWpBVWZTdXl0dXA2RkprUngyay0xQUhoRmpSSG5ZSWJsN2VDakxuak96dEwtZHN6akJseXRKRV9JQ3hNNTRCM2RjVUd0WTluXzZvTFBLSENPR3dSQTlxeGl6?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T16:35:00+00:00",
+      "summary": "中国大模型周调用量连续二十五周居全球首位  搜狐",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "谷歌推出面向小企业主的全新Gemini工具 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsS0hGeThqM29VSzlvZmk0c3dLZEpIUGVGR3ZJVTZLdWZ3YUhDMFRpNW4zdHR4ZGVOZ1BxZ3pUZF9LRi1tbk5XaUdNcHp4TGxFM0ZuRWJac3YtLXNOMHVZUmYyNA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T16:32:18+00:00",
+      "summary": "谷歌推出面向小企业主的全新Gemini工具  东方财富",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
     {
       "title": "Mercury 3 对比 Claude Opus 5：同样是 1M 窗口，却是两份账单 - OrcaRouter",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95cWpvR2pmVF84NkRhVmhlcFlrMW9qRHM0ZkMxYXdBUTgzcmFvSWNiQmo3ZHZGbjBCSXRiS2JCSXp3UjN4MVRPQkFxeXplbDlHMXdFd3AtcDFzT1kxOXdYVkp6VWY0VnFSZEpGT25MZFY?oc=5",
@@ -12,24 +43,14 @@
       ]
     },
     {
-      "title": "智能电视广告引不满，部分用户借助Claude等AI智能体清理广告和预装应用 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TW13N0otWUdJdk9pOGRrdTd5ZTBFeVd5U0V2bzlIZHdBNHJMWW1KN0EzRDdpZGplZGktU2ZBWkZ5a1dKYTRkUkczNVdvb0hNQlpBbUNtXzVqdHBjZnFNaHJBSGJYajFiMTIwd055YXZLNnF2YlJlbDhIbEhvUnc?oc=5",
+      "title": "智能电视广告引不满，部分用户借助Claude等AI智能体清理广告和预装应用 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZG9rT2UyZHZ6NGZZUzdibkd4cGZYM2lfV01mNUdEazlwSTZ5MllHSDd5WUdmWnZzbWhhRGxzdDF5ZTlfUTh5X0JLdE5qMVpOTVoyaWFGZ3FjUlVwVERVaEcyMmRQZjc1ZWhiSXdaRUF2UWpLVHVRYVd0SmFRTFF4ZHBXbWJwOU54?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-20T15:10:00+00:00",
-      "summary": "智能电视广告引不满，部分用户借助Claude等AI智能体清理广告和预装应用  新浪网",
+      "published": "2026-10-20T14:40:36+00:00",
+      "summary": "智能电视广告引不满，部分用户借助Claude等AI智能体清理广告和预装应用  搜狐",
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "消息称Anthropic正与云计算服务商Nscale洽谈第二笔数百亿美元交易 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTZSM3hvSFo5NTJucXBFUnJ4WnkzVHRYTmdqZkpNMHVwMU5XQWZaMjB3a0RSVUtnTjZEby1RcF83ek4wZ19MQi1QaUZaYnZlMHJsSVBSZnVTQlVHdThMOTBDUDU5bENxRldXTXBEVDZpNHgxQkVYa2tzby14OU9HTDVUOFRBYkpETWpUeHBmT3Z2MXJYYjczcmRrcFdpNE9PdFc4Rw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-20T14:22:17+00:00",
-      "summary": "消息称Anthropic正与云计算服务商Nscale洽谈第二笔数百亿美元交易  搜狐",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -63,24 +84,35 @@
       ]
     },
     {
-      "title": "美国土安全部发布针对中国企业的联邦采购排除和移除命令通知，商务部回应 - ThePaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZmpFV0xDMmwwMFFUN1RYV3B2dFNUVndXYTE0emlRNFJSSFhBV0hqMGR1R3RRUFJIdEg2a3MxSXNuZEN6dGxrY1hQUVpCdnRxUUc5VUpUYjZKUjVYYXRscg?oc=5",
+      "title": "Google推出Gemini 4 Argon模型 聚焦长周期智能体任务 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlU5bnBLeG1IbTVrbWNmOGNqQTQwQjhLVUtzTFRWa0xJNDMtUnRZaFBLZml5dWtUaUw2NW9ZZWNmQWwyMW9vSjZwaFduUXJidHRhdkpzdF9xa1l3VGExQnJwXzhieTJHSUphLXZVNm1mNnFSUk15dFhPOThxU3prbzFDczY3VGll?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-20T13:34:00+00:00",
-      "summary": "美国土安全部发布针对中国企业的联邦采购排除和移除命令通知，商务部回应  ThePaper.cn",
+      "published": "2026-10-20T13:24:00+00:00",
+      "summary": "Google推出Gemini 4 Argon模型 聚焦长周期智能体任务  搜狐",
       "categories": [
-        "other"
+        "google",
+        "tools_apps"
       ]
     },
     {
-      "title": "刘韵洁：2035年智能体将达九千亿个，算力需求提升10万倍 中国工程院院士*「到2035年，智能体数量将达九千亿个，算力需求提升10万倍」*在第十届未来网络发展大会上指出 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHpUNmZXOFVyN3djRGxYMTJqeG9XNFcyNUhwWll0OUZDZE9vZy1fYTRNMUVBV0QyajczVlJkQUg0SXlWUmduNHhwOFlTZkNYc182cnVQS1ZvTFZ4Q2RzRzNwSlBTNk1BRmF3YlJ3OE5za3dWWWtlVU82LWphd29CMDI1TmhsaFJN?oc=5",
+      "title": "欧盟调查 OpenAI 与 Anthropic 智能体越界事件 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWphalRwRVFkQURkSkp3T3JrcTNLU3hkRWc0UnhGZDFDLVlCdmRXejkyWnJXakMyN3p0WVVNRlJmeE9KQ2tKOFhNc3RHRnJnd1MzSzZZT1ZWa1YxeWxCWFpwSWwzdHo0aEhKanQzNllLX0VvYko2X3V6Njd0YkpLN3NnSVlyVkR1?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-20T13:27:26+00:00",
-      "summary": "刘韵洁：2035年智能体将达九千亿个，算力需求提升10万倍 中国工程院院士*「到2035年，智能体数量将达九千亿个，算力需求提升10万倍」*在第十届未来网络发展大会上指出  搜狐",
+      "published": "2026-10-20T13:23:00+00:00",
+      "summary": "欧盟调查 OpenAI 与 Anthropic 智能体越界事件  搜狐",
       "categories": [
-        "tools_apps",
-        "chips"
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "从业人工智能“到广州海珠来”！广东首个一站式服务AI工厂发布 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmI0UGtNOUtlOUM3alB3bG5PR0ZUZmpGeUlCOUc2UG4yUUZfTTBiVjBRSDhXOEJkQU9ZOXEta3JBT3EyaE5IZ3lKTlNaMlVCZHZfM1FtZjBKRHhZTnZuVURsMERGNzRGeVFkTGt5aE5MWTRTRGRteWtlNG1jcU9aM1dGdDhjQ3Bl?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T13:15:27+00:00",
+      "summary": "从业人工智能“到广州海珠来”！广东首个一站式服务AI工厂发布  搜狐",
+      "categories": [
+        "breakthrough"
       ]
     },
     {
@@ -97,7 +129,7 @@
       "title": "榜单第一！润建股份“门神”网络安全大模型登顶CyberSec-Eval权威测评榜 - 同花顺",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLZUhEZE84VmxnXzM0SDFsUTBPMExsbm1YSnhpaHV4alNaejZWMkZUcEpnVFVOeHd3Z1Q4b29QT2hGSWdDT2tOS3ZZdjFLWnFPVUpaTFN0Znh6RVVEZ1ZpeUVR?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-20T13:03:47+00:00",
+      "published": "2026-10-20T13:02:43+00:00",
       "summary": "榜单第一！润建股份“门神”网络安全大模型登顶CyberSec-Eval权威测评榜  同花顺",
       "categories": [
         "breakthrough"
@@ -145,16 +177,6 @@
       ]
     },
     {
-      "title": "上海团队发布并开源记忆原生大模型MemT-1.0，让模型“会记住会成长” - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1Q3a0p2Snl5V0lLTld1Z09rWXo4OVh3bER6Q1U4VnpFRTM2WlhJb3o1N1pQdzRZeC1JSDM5bGx0cGhGMjNkOUU5VXFkMHlLa01OeGpYNVV5Q05yVEx4Yms4Mk03aWxPc0dVelJiTExqQTFZYVMtWDhMV04tS3d3RW5EbDVOV2drRmJDYllVZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-20T11:11:16+00:00",
-      "summary": "上海团队发布并开源记忆原生大模型MemT-1.0，让模型“会记住会成长”  搜狐网",
-      "categories": [
-        "open_source"
-      ]
-    },
-    {
       "title": "刚刚，DeepSeek发布新模型！用「许愿式编程」刷新斩杀线 - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTnJlTm1iblBwWVJ5OFZMbUZKM1ozcWxiYVBKVmV2SUFJbE80YUp5bUFmUEZQY0FQZHBDMXY5THBIV1oybzVPcWhqajY3b2FMdnlF?oc=5",
       "source": "Google News - AI(中文)",
@@ -162,6 +184,16 @@
       "summary": "刚刚，DeepSeek发布新模型！用「许愿式编程」刷新斩杀线  电子工程专辑",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "比亚迪发布迪迪虾AI智能体，腾势多车型OTA - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IdXgwYzY2alJnZXNUTTZDb2p5U2Nrc2xQN0FBOWZ2eTZvUmEyQmxwZEtjalB2RGpqOFM5bWpHVkRJaWc3OUE1OVJlTEtGVS1GcmltSHFtczZrVEU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T11:07:28+00:00",
+      "summary": "比亚迪发布迪迪虾AI智能体，腾势多车型OTA  汽车之家",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -196,6 +228,16 @@
       ]
     },
     {
+      "title": "滴普科技DeepWorks企业智能体平台开放自主注册 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82eVVDY0Y1ZHFUcTU4NllUVjVBdmYxbFhwQzZ0ZEZBOEdEajZwNXctaTY4cjhTRDBrVGFTVTFLUFNMS0FIU0xVeTFwZ20xUENzc3ZfTmlpRHBVSHVzX0lCNWs3MA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-20T10:25:26+00:00",
+      "summary": "滴普科技DeepWorks企业智能体平台开放自主注册  东方财富",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "报告：桌面端AI原生办公智能体访问量突破3亿次 - 新京报",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SSnZwd0VuUm5aOVF3TUZmdzhGUEhzejNWT1VUd1ZhRGUyQ0h5ZWtXYll6X3R1aWNvb2hucWJnbVBaZ3E3cnFDYzhmczF5YmVHeVdrZ2d2Q0lvWU5SM0dvZ2ZZVFk?oc=5",
       "source": "Google News - AI(中文)",
@@ -224,17 +266,6 @@
       "summary": "相芯科技：大模型时代一体化AI智能影像工作流  中华网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "广东召开“粤智赋万企行”专项行动新闻发布会，“粤智赋”平台集聚1200多家赋能机构、汇聚近3000项优质赋能资源，涵盖人工智能应用、研发创新、制造生产、品牌建设、市场销售、综合赋能六大领域– 智慧城市行业分析 - 智慧城市行业分析",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2dXejJLMldxRS1hNzRiLW51MkdGR2VYM2lyV2pnTEN3U0ZZeDVXNjlYM0JVa0pOX3RGWWVFeDhiWDNPVUNLZHJGQWllUFVKLTd4enRpcTdSeVZGU3k5Uy03N0VEbVdvWUYxSHFEYTBMNFY5dy1NM2JuN0k3X20zbW1tZUxmdTNuVXhqQldYZ3NKeWJFWlVKNF96M1BsNmxJb1VwX2ROZlpMaWx6bkg2TVh0X2l2Zw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-20T08:22:00+00:00",
-      "summary": "广东召开“粤智赋万企行”专项行动新闻发布会，“粤智赋”平台集聚1200多家赋能机构、汇聚近3000项优质赋能资源，涵盖人工智能应用、研发创新、制造生产、品牌建设、市场销售、综合赋能六大领域– 智慧城市行业分析  智慧城市行业分析",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
       ]
     },
     {
@@ -269,16 +300,6 @@
       ]
     },
     {
-      "title": "DeepSeek和MiniMax先后发布Flash模型，开启国产大模型新战场 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDNJbVhCVFZsQUgzTmhXRGlqTkdpR3cwVDhWN3VsZzJLekJLUnlfbE8xRWt6Skxuc3F1dDd6S1hRVVFRTFh5em9OV0FMZmd2SjRiWE9aOXhlczJwbTVoTmJUNEFXdl9KcU5haXdzWFl3VWx4Zzl2WGVDWk5zbnhLMkYyTXNHM1lwRXFnOA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-20T06:23:31+00:00",
-      "summary": "DeepSeek和MiniMax先后发布Flash模型，开启国产大模型新战场  搜狐",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "奇瑞全球创新大会：芯片、大模型、固态电池等 一天摆了七样东西 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EaG1mZWthWFBwWWZMZUZGVjMtc2lYWm9vNG1mVm5mWHNQTjhEd05MREFYR0hvenJMYUlnYkFOb09zVnk0NlVZaGFQMExvX0tpWW0wN19DdjV0MWM?oc=5",
       "source": "Google News - AI(中文)",
@@ -309,16 +330,6 @@
       ]
     },
     {
-      "title": "设计、实验、纠错全部自己来—— AI智能体自主完成湿实验室闭环测试 - 西藏自治区科学技术厅",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85TXB4bGpWYW1xNVZCQnFiRVZfb25FODVwb3hkWWdBZ1VqMjU5WXI5dllERlI0WWVnaG15OXdTTkVNZjJpN09seTBGb3QxS0ZoNnk0cWEwV2lxLXJ4TUpCcG5vX1NDNG1fSldQeFJjMUlzdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-20T03:35:41+00:00",
-      "summary": "设计、实验、纠错全部自己来—— AI智能体自主完成湿实验室闭环测试  西藏自治区科学技术厅",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "AIPC 尚未完全普及，智能体电脑已开始重新定义PC的竞争标准 - IDC | Trusted Tech Intelligence",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOQUNEX09ZYmR6b09mZ3dHZzhWbGJHeXlubm4zeEVzektxWENwNXJFYTdnaUdNeHNlMi1ndUZnUXNXVUdibHJhdmstdFVKZmVoX01yaW5IanVkODdUNWNVZVRVSTUxTzdlel9FV040OGg0clZiQzI2YTNWNGxqQ0lDSjYyYnpxNW9JUVpBUlpEY2dPR21DdHNrUEExOGR3RWlFZzA1NGdBaWlHbHJtSlM4V2xUbVBTY3A4TU1xSThFdVFIZmxnM3M1UmlhUXlMRm4zUmhGS0txZk5aNFJ3c0t1c2syQlRyQ2ZiN2hlNkJIdlhMTTE5Y0Jlb2w2ZWJBdkg0Zy1abHhubFBJYmJsMlpneEtFdlNJaUZSdlFRZG83U3l3dW9xNnI3OGRyc2VyQXFIVENEcEc4bks1N0Zzdl9xejgwdEE1UDJTc0dUcWp4d2M0eTVwX2VzOVB3?oc=5",
       "source": "Google News - AI(中文)",
@@ -346,16 +357,6 @@
       "summary": "《工业和信息化领域人工智能安全评测框架（2026版）》正式发布  安全内参",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "IBM旗下的风险投资部门IBM Ventures宣布：已投资企业AI智能体平台Leena AI - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSjF1R0ZQWUpsTFJRNDBaVndoZkhuMHJPaHgxcHQxbDVZdG02RjdLSk4zNzUzR2tyTjNmVUhoZ1NoUnk5OVlQTGZhc3F1QjdLczhkTWNSYnFlOEdqdkZ3bA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-20T01:03:53+00:00",
-      "summary": "IBM旗下的风险投资部门IBM Ventures宣布：已投资企业AI智能体平台Leena AI  东方财富",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
