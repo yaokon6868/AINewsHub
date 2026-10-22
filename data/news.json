@@ -1,24 +1,56 @@
 {
-  "updated_at": "2026-10-22T15:32:51.759544+00:00",
+  "updated_at": "2026-10-22T19:49:34.840112+00:00",
   "items": [
     {
-      "title": "系统性布局AI传播新赛道 每经智见百科语料平台与负责任GEO产品体系重磅发布 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWnVjM0lNSTFpMVd2SHUtY2I3MVdOXy1ycnlEZC1fTFozejVIM0ZmTTFVekpNYXQ3VTUtSXhUOXRHMEJWTVRXaE9EdElBMlp6bWJuOVZkQXd3S283QmxWX1A5RGdjaFFZdlJ6emIyeG42Rlc3WlB4RHBUM1lVRVk?oc=5",
+      "title": "DeepSeek被曝二轮融资1000亿元，宁德时代拟再投100亿 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGpfWlEyQTZuOEExUmZRa1U0SEVyRGo0TFFkUG1pYWtTYTFtZlFCNnp4VnRqbng4dDdYUnpHYVpHamZ3NkRLcHlKOUZIbmZXb1JNOHc1Wmw2M0J3SDJITTRDeWhwZ3QzbkNqYWNlaTlkc1d6dzB1Z1lZU0pWaXJxY0tfZ1V3b2Vyc005bA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T15:18:43+00:00",
-      "summary": "系统性布局AI传播新赛道 每经智见百科语料平台与负责任GEO产品体系重磅发布  新浪网",
+      "published": "2026-10-22T19:19:15+00:00",
+      "summary": "DeepSeek被曝二轮融资1000亿元，宁德时代拟再投100亿  搜狐",
       "categories": [
+        "other_big",
         "breakthrough"
       ]
     },
     {
-      "title": "基于ACT-Target计算智能体发现的ADAM17靶点：抗ADAM17抗体药物偶联物与CAR-T细胞治疗胆道肿瘤的临床前研究 - 生物通",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUU9rdi1KaWtiQnZ0NDVjSzdTaE9POEtITXBhNEVpS0xpZFVaRExDX0RPVXY4cWlSSVhHdDU4ZUdidWwtaW9QcG0tb05IUmpKcWNIeVNUV2N0c2xIT3pxeGhib3VtZ2NWUUNVdEQ4VQ?oc=5",
+      "title": "Anthropic因训练Claude AI模型使用受版权保护音乐遭起诉 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTZ5Zm1iSVJ6NnhfYWlvUlE5ZExnLUh6RFBEcEJ2WWhQMlR5OWVVWTcxcFdTV3Q1dkthMi1qWUhmUFUxR1N3ZzM1VWMxaTM2d2tBcGsyQ3k4R180aXJQbHVPMHZkN3BEbGlpVWJQa2J1NGNWNHNoeWY5Z3hjVnFDazFlMVdQajZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T14:44:25+00:00",
-      "summary": "基于ACT-Target计算智能体发现的ADAM17靶点：抗ADAM17抗体药物偶联物与CAR-T细胞治疗胆道肿瘤的临床前研究  生物通",
+      "published": "2026-10-22T18:03:39+00:00",
+      "summary": "Anthropic因训练Claude AI模型使用受版权保护音乐遭起诉  搜狐",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "中国工程院院士邓中翰：将CPU所承载的规则约束嵌入大模型底层，可减少AI幻觉 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnFXeERlQXcxMDNkREJfV2Z3dGZ4SkczWnhBNW9mMXBzVFgwZ21MZmV4YnFNN2VuWVc0bnJTRzYtTklHMG9ZbFY3VmY4MjJOV1YtcEJfNDN6anBhNzEzeDJKQ2hudWQtZC1HSnFybW9pZHUyZ1ZfUkd4SlBNcUp4UzVQZ3hTVVktRFAyRA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T17:13:13+00:00",
+      "summary": "中国工程院院士邓中翰：将CPU所承载的规则约束嵌入大模型底层，可减少AI幻觉  搜狐",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "一台专为AI智能体设计的电脑，会革PC的命吗？ - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IX3J4M2NuYm5mVDhnM3J6NmFMNVoydFc1Q2hnaGxBU0tRS1FRWWNhNDJKVl9HS3RqaHU4ckNDZmUxcG9UcXZHWnNHalRpcEpfT1pQS19oSWFLNXVUNmc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T16:16:51+00:00",
+      "summary": "一台专为AI智能体设计的电脑，会革PC的命吗？  DoNews",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek，拟获千亿融资 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkhKU1pGdGMxUzJrVEJDeFFDR2Nmd1NqU0p0NkxuQkc1UmVfWXVBa25PS2d2QW5COFdNZTI5czJNb0cxR0drQllfZU5BdUNPbnNfYjBRY1pxd3R1dlRVbDlnemJMMUVMQkstb3BjMWZWcEg5R1ZLZUgwd2FpdU1fRDZaTmpqb0xH?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T15:36:00+00:00",
+      "summary": "DeepSeek，拟获千亿融资  搜狐",
+      "categories": [
+        "other_big",
+        "breakthrough"
       ]
     },
     {
@@ -32,27 +64,6 @@
       ]
     },
     {
-      "title": "做PPT、进行数据分析……AI大模型付费权益“低价共享”靠谱吗？ - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hVkJlc0VWRlZQMVFHZmY1cTl4R0VCQnYzLVVlbDJIU2FEN3l5eUlma01OdUw0ZUZsSUg3VmJ3eC1mTWNyanRadXNvLVFtNC1qRHdQMlFyOUk1N1V3Zmk0MFRMTTNWakR0V2RHRzg5ZHprcEpZcWRmRk81a2xsbzA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T14:19:09+00:00",
-      "summary": "做PPT、进行数据分析……AI大模型付费权益“低价共享”靠谱吗？  新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "DeepSeek，拟获千亿融资 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWNXckluek01azBkVFZ5MDFHSFZaQ21laVFweGw5WVl0VDFkcktaUEI3dVZHVzk4SDcyVS1oU1hHemdleWRCWWRMb3RWVUVrQm1LN3hEY0ptdkJab2JtVVIwbmRYZng2ZG1VRnYyZFhrSk9jN2owcmdPUXlqSEc2UjFic0xmZ3hU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T14:18:09+00:00",
-      "summary": "DeepSeek，拟获千亿融资  搜狐",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "最新！毕马威发布《2026年全球首席执行官展望》！ - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSVlzbjZFOWowWDkybFhSMFNvaVBJQzlRa1NBbjUzZnF6YVlXQnVISDcwMHBOamNmLUxHSVMxYWUzSnJaQWV0MTJUbnBmb0kwRWNkSFo0WGJMb25yRkEyRUhvUTc3YlRvbE1XZnYzY01JblN2Y3ZDZU03bTV1UnoxWWFLYw?oc=5",
       "source": "Google News - AI(中文)",
@@ -60,17 +71,6 @@
       "summary": "最新！毕马威发布《2026年全球首席执行官展望》！  新浪网",
       "categories": [
         "breakthrough"
-      ]
-    },
-    {
-      "title": "120+语种眼前能翻译，AIPC支持端侧模型智能体，讯飞星火X2.6全新升级 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDFaaVV1TWFwYWJZQUZhWVRUYzZsZDV3NmtCc3FQYjMzMHhsUERGbTY1TVJ2OUhQOHRvcXFPM1VjRU1ka1lBSXIxZ2hpQWh2SFh6cnBuNjVQWXNudVkwczFTQVp3WnIwWl9IYmo3LXk5T20zOXNadGNhSVp1NGNsaXdha1Z4YXJkNHJ3Zw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T13:55:48+00:00",
-      "summary": "120+语种眼前能翻译，AIPC支持端侧模型智能体，讯飞星火X2.6全新升级  搜狐",
-      "categories": [
-        "tools_apps",
-        "local_model"
       ]
     },
     {
@@ -95,6 +95,16 @@
       ]
     },
     {
+      "title": "Gemini 4 Carbon 开启早期测试：3D 能力大幅跃升 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zVExqMVNkdVY3NXRvOTlnczI4eHpubWJoR3I1MWRnWnhhWExrTWJldTgxRVNlUnVSYXozVFhrMlZUb3lfYTViUGh4b0FpZnh1dHZzLTFLeGk3TWxMVnc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T13:30:41+00:00",
+      "summary": "Gemini 4 Carbon 开启早期测试：3D 能力大幅跃升  DoNews",
+      "categories": [
+        "google"
+      ]
+    },
+    {
       "title": "致敬科创中国新质力量丨2026科创先锋案例正式发布 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKamJpZHI0a3NRc2xkV1pCcTNMWXlMTmQ3TjZBZl9EMVF1S3pTbW9hVlIyM0lwbFlqc1loaWN6ZE1iYkFiMlA4RVN2TThJWm1tR0pwMVF4OHhjRFFVX0JURGpSSlFrZ2NHSW5hd1NONEY0cWtaN0NZQk1qYW9rYlE?oc=5",
       "source": "Google News - AI(中文)",
@@ -115,16 +125,6 @@
       ]
     },
     {
-      "title": "发布星火X2.6系列模型！科大讯飞1024大会又杀疯了 - 雷科技",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BYVZHanlmZFVudVNuVFlVdjJNTC03ZW1uZ0ZPLTN3WmRBcjZGdk9PVUsybTFhQldYU1FoOS1OTnc3dG9wSlg3SmIwb0hDZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T13:12:43+00:00",
-      "summary": "发布星火X2.6系列模型！科大讯飞1024大会又杀疯了  雷科技",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "宇树科技正预研物理AI自进化大模型 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDUzbnBDZzlnSHMyU2dnbXByVEtTVFVoVG43NHRxZVZDMk9XWnJpU1BrYUZDRVVJX09iaFpGNFZMQWVOUmRQdlJqd3NGd0lNZ0tWendyMmR0TUdGeEM2cXJBOGJ1MS1yWm9JeWtHUWo5TDB2M2tTempPSkpzcFFnalI1VERoUFhF?oc=5",
       "source": "Google News - AI(中文)",
@@ -135,11 +135,21 @@
       ]
     },
     {
-      "title": "AI心理韧性智能体上线，模拟“脑子飘走”的数字人，让20年教龄老师犯了难 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZE5XUDFEdDNuVHZaRUdJNjF2ZW9BaFF4V2hoM1l1dWtDcFJZWER6bFo3RjZPcmFkSFg4RWIzT1VUdk1YTldpZ1pRM3ZQWFNVUG9BMFVkQnJRa0lCNGcxMm9PbUZDR0E2RTVhYk1ZUjZVVUtzTXQ5ZkRYS0hqUXhYaktpMzh6cGUzTTk5TA?oc=5",
+      "title": "​科大讯飞发布星火语音基座大模型：从听清说了什么，到听懂发生了什么 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1gzajE1ZlR6dHh1QVFVSUpnMU1Ob2tXSU5kRUQtLU9PTWw0dHJkblZhTWEwVTRwOGNsWmdEWlNyUDVMOF9BMGtqajE2SkpUYzJjQTNqc3E2XzU2amRvbk0zU2hLbnZCYmxBQ3I5NHF5N0pEcFNnTXA2MXpiTlZqdDBVaXJwb2hrYVE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T12:47:06+00:00",
-      "summary": "AI心理韧性智能体上线，模拟“脑子飘走”的数字人，让20年教龄老师犯了难  搜狐",
+      "published": "2026-10-22T12:55:26+00:00",
+      "summary": "​科大讯飞发布星火语音基座大模型：从听清说了什么，到听懂发生了什么  广州日报新花城",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI心理韧性智能体上线，模拟“脑子飘走”的数字人，让20年教龄老师犯了难 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oTHBMRVlYbWw1aFpwUTRiWWtCWUZmTTBXcDFtbExEanh4OFhaTVRDMFdYR2ZrcVBhMWFQWjl4c3hPanRGamtYMkE4UGEwSk5ibHROSmRIMFA1dDR4c2c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T12:47:00+00:00",
+      "summary": "AI心理韧性智能体上线，模拟“脑子飘走”的数字人，让20年教龄老师犯了难  上观新闻",
       "categories": [
         "tools_apps",
         "image_video"
@@ -166,34 +176,44 @@
       ]
     },
     {
-      "title": "性能直追Astra 国产旗舰大模型Kimi K3.1开测：惊艳一众网友_大风号 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03OWYzLUFKaTNHUGlYdEFpRks5dko5VEpVbDc1NGhHTzZnZ3RPV3BEN0NveWFKOVh2b2RJUlltMkJCR3NHc3hpTWRvY0g?oc=5",
+      "title": "当AI开始自主行动，如何为智能体划定安全边界？ - 四川新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iczRCZDJlSkQzLXdCVlBwZVNVTS1BNHZuUlpLS0p5QVNMNEFkbndyYkFfeGE1UTYwZGk1UUk2dnYwWFlYdTRQV2l4V3JoNWlua250Z1NGcEFrcXMyZXNzMUhObw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T12:15:59+00:00",
-      "summary": "性能直追Astra 国产旗舰大模型Kimi K3.1开测：惊艳一众网友_大风号  凤凰网",
+      "published": "2026-10-22T12:11:22+00:00",
+      "summary": "当AI开始自主行动，如何为智能体划定安全边界？  四川新闻",
       "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "ChatGPT 现在可以用 PIN 码锁定聊天，但聊天内容并未加密 - Notebookcheck CN",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUDMyZFpRcThGNTU0dFJ4VllPUWJBMGppcVNxV0F4US1xdDJGaTM1TUl1QUlybnVtMlRzOUg0czZJcVY2a3k2T244RERyTTg2RUNMQW9kWHg3SWtrNUtlWV9QS2hsZ29rSWI0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T12:14:00+00:00",
-      "summary": "ChatGPT 现在可以用 PIN 码锁定聊天，但聊天内容并未加密  Notebookcheck CN",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "海南自贸港跨境AI智能体发布会在海口举行 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyQml6eFNuWU5MSTdPQVNxNlBvV0JFRzlOZHdvRnZ4dTg4MjJfeXJEdzVjNXZ3OVRWdnhLRU1WQVg4VnNFRDVNZlZGeXVuSUVXQUZHdnhOc0dKWUhZREwwWVNkV2t1ajRCYk5NdnpSU214LTVaRG1ZMTdKT2UtMkNiMEprU1hHcVpDYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T12:00:11+00:00",
-      "summary": "海南自贸港跨境AI智能体发布会在海口举行  搜狐",
-      "categories": [
-        "breakthrough",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌Gemini 4 Carbon首批实测曝光，手感直逼Opus 5.5 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cmVtZmtWV3NVU3I2U1hlM2VHYkNpa2lfMTExc2VPUlRJRzJYanJGejVUWWRhZHlnMngzak1tendwYnQwemMxZkhLQldoOV9hN25V?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T12:06:44+00:00",
+      "summary": "谷歌Gemini 4 Carbon首批实测曝光，手感直逼Opus 5.5  华尔街见闻",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "【视频】腾势N8L首搭AI大模型，L8续航960km还带闪充 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6ajNEcFp3WVhRaXM3QnVZQzNqRnRwV05LUDNEckxaa1VONTN4Q3ljdlpNeTc0Ujlma1ZxaUx1OFpobWhTVTdpSHdBc0JoRWJMRlBlTXppOEt5dHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T12:03:32+00:00",
+      "summary": "【视频】腾势N8L首搭AI大模型，L8续航960km还带闪充  汽车之家",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "谷歌发布新一代TPU v6e，面向大模型推理优化，云端推理成本大幅下探 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMElfUHozMnRsNmJrOGtKSE9zbGNIT3JqeHNVcUVEZDZzcjQxQkU1cXhWbkJvdk1rVGdQaGFSUlJfQUhxR2d0aXdTTmFsMENEbDJIMnduYktvR2l0ekRzZjk3djlxUnozMi1kZUdnTGMtM255Vk1IUFJQd0pzSGJOZWVaNkRUUVF3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-22T12:03:08+00:00",
+      "summary": "谷歌发布新一代TPU v6e，面向大模型推理优化，云端推理成本大幅下探  搜狐",
+      "categories": [
+        "google",
+        "chips"
       ]
     },
     {
@@ -207,11 +227,11 @@
       ]
     },
     {
-      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局，培育模型即服务、智能体即服务等新业态 - www.mrjjxw.com",
+      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局，培育模型即服务、智能体即服务等新业态 - https://www.mrjjxw.com/",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlR01OeFdwS21HSFVoUmVsdWRHa3llUXEzTG9pTURrYW95UXJpc3VUdGtXd29XZi02V0ZwQjZZLVdUVXhVX25BdUMzZkhtR0JJM2FtTk16NjNySzVFTk1YazQ2VmtzUQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-22T11:54:28+00:00",
-      "summary": "八部门：加强产业基础领域通用大模型和行业大模型研发布局，培育模型即服务、智能体即服务等新业态  www.mrjjxw.com",
+      "summary": "八部门：加强产业基础领域通用大模型和行业大模型研发布局，培育模型即服务、智能体即服务等新业态  https://www.mrjjxw.com/",
       "categories": [
         "tools_apps"
       ]
@@ -227,35 +247,23 @@
       ]
     },
     {
-      "title": "Anthropic发布Claude Duet，个人智能体大战升温 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDNpd25rTHdHWC0za3hlN1B4LUJNYzBLeDZNQWQyc2loT3RUT1E0VngzSGZQOGk5YzBEZE1fNk91MHJGd2xGWTBIWFo5RlJyT09HNlp3NFZXVW1SYTc3cTV1dHNuTlV0Q3o4S2Rad3lDZVJYd2FVNWtrdUJzamZOLTlvVUxHWGkwZFZRVU1hcw?oc=5",
+      "title": "八部门：加强产业基础领域通用大模型和行业大模型研发布局 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkx6dzBaUjk4bGRYRF91a2pPeXVQNlc1NUMzSFIyT2RrNlp5NjVIbzZmZFNHUmFtckx2UEh3SWF4dVI0YTBBQmJXb2FmZ0dkU19fQy1TaEYzR0JoWU1QZkl3dHNxdFhManV0QVdoWTJ6OFZCdGJ0Y2lDUU01MGQ2Y095bGtzVmktcm1falhGUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T11:33:00+00:00",
-      "summary": "Anthropic发布Claude Duet，个人智能体大战升温  21财经",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "敏感数据留在端，复杂任务交给云！讯飞星火X2.6大模型发布 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcV9mUHBMWlhDZWNMLV9Ud0xWclhtRUIyd2V5RTlvNGZHdkFrSDFZTUJLNnJsZ3V3QVFVSHlseFJKTng5X3AxVUJCNWJkWTRFemhPNVZYNVRYSlBH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T11:23:00+00:00",
-      "summary": "敏感数据留在端，复杂任务交给云！讯飞星火X2.6大模型发布  上观新闻",
+      "published": "2026-10-22T11:25:00+00:00",
+      "summary": "八部门：加强产业基础领域通用大模型和行业大模型研发布局  21财经",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "Anthropic 推出“主动式 AI Agent” Claude Duet——无需等你开口就干活、关键操作先问批准 - OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUWDV3alJVdkdHWTdtaVRTR1Z3bnBRY1RpRHdfODFjdGdMdFo5OU93UFV1OXprUmFDY3dXWUs4SVhUcTFsMEx0Sk40OXBqa1lIc3MzLUJkaHpIRFBTOTlNMGJVVDJTWF9LSXNpd1RPaFQ2eDd2Z3lCU05ERW4?oc=5",
+      "title": "敏感数据留在端，复杂任务交给云！讯飞星火X2.6大模型发布 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZU5EOHdfS1N1Z2lJVEc5eFQxRXdzOVB0YUNBdG5nTFdkbm16SV9WMXZ4UjQ2NWFXSjcxX016UGwteG5ySE5pSGVqZ0owTjVoX3loOEx1aXZoUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T10:53:52+00:00",
-      "summary": "Anthropic 推出“主动式 AI Agent” Claude Duet——无需等你开口就干活、关键操作先问批准  OSCHINA",
+      "published": "2026-10-22T11:23:00+00:00",
+      "summary": "敏感数据留在端，复杂任务交给云！讯飞星火X2.6大模型发布  上观新闻",
       "categories": [
-        "anthropic",
-        "tools_apps"
+        "other"
       ]
     },
     {
@@ -276,28 +284,6 @@
       "summary": "比亚迪发布AI超级智能体”迪迪虾” 多款车型已推送  汽车之家",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI收购Orchestra Bio，推动智能体进入药物开发 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOURURUE0ckVMZ0lzelpiSjhZNHFHN2lGOTRFSXVSY21NRmZTYnpKazZ3Unk4bndidWtHTm03UFpFcUx0bVVlcFZsTzRxRmk3NU82RWU4UlFCZWJtdWZMNkxTOFBLaWNCSjhrZmRtYm9iajRsbW9uREROcWJ3VHFLaXFFajJ5TWVJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T09:17:00+00:00",
-      "summary": "OpenAI收购Orchestra Bio，推动智能体进入药物开发  搜狐",
-      "categories": [
-        "openai",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude新增仪表盘生成功能对标OpenAI - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEVqUlBLejBNWi02eDdVeDBiV3BrTHd3MDZzSFlPNTFuaGpLek9GNUxoLXlLbEJnbWo0cUdoQUxOc2Q2NlI4QUxHQXRQLXo4X1lRU0Rtb2l2UF96RlI1d3VqTWJQbEIyY0JFek9uY09lMzM5RjJoVU42T0pzWGJHTVlYTVEtMkxq?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T09:04:00+00:00",
-      "summary": "Claude新增仪表盘生成功能对标OpenAI  搜狐",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -342,14 +328,25 @@
       ]
     },
     {
-      "title": "Anthropic杀入AI智能体战场：Claude Duet重磅亮相 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJV1FreV9QaUNHeUNJVDBnblBmNTIzdFRIZmVtQUp3cXE5NC1VSE1OTmJjZ1NHMUwwOVczaU0waUN3N3VQOHd0TFRWdlBpT0c5MnppQ0owMnlwdXJ5ZmVfUnpoeVhuQQ?oc=5",
+      "title": "Anthropic杀入AI智能体战场：Claude Duet重磅亮相 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HUUZldEFHOHMwTEpGUlBlS0JuTFkxMHFTM3VHbWxMY282U3E2aHIydWx4UTVUT202X2pyWmt4WUdka01wamJERw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-22T02:38:11+00:00",
-      "summary": "Anthropic杀入AI智能体战场：Claude Duet重磅亮相  东方财富",
+      "published": "2026-10-22T01:44:40+00:00",
+      "summary": "Anthropic杀入AI智能体战场：Claude Duet重磅亮相  财联社",
       "categories": [
         "anthropic",
         "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI - IT之家",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6a1BTWW1DMUFrVUtRTGN3cGE4dmFxYzYwYlZta3M5eUYzTlA5R1FBelk5QWR1NGszVjR2S0JfM3RpQWlKSTd2ZWlwcm1kUQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-21T22:44:00+00:00",
+      "summary": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI  IT之家",
+      "categories": [
+        "anthropic",
         "tools_apps"
       ]
     },
