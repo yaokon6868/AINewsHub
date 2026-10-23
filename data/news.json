@@ -1,6 +1,100 @@
 {
-  "updated_at": "2026-10-23T12:46:01.048952+00:00",
+  "updated_at": "2026-10-23T17:46:09.064223+00:00",
   "items": [
+    {
+      "title": "OpenAI联合研究机构部署数千个AI智能体：32分钟分析数百万个小鼠脑细胞，相当于人类数月时间 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3QlFkMHZqRVNDVWFpamxlMGRsYTBhWTlCMldxdDE1bVp0S244amdNdXhrSlF2TlJPOUprMUtrMVhVaTBpQlpRMzZsR0Y?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T15:07:32+00:00",
+      "summary": "OpenAI联合研究机构部署数千个AI智能体：32分钟分析数百万个小鼠脑细胞，相当于人类数月时间  凤凰网科技",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "国家信息化“十五五”规划：2030年智能体普及率超九成 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0IyOGFPZTh4NDBXNDh0ZlNIcFUzVzU5cGUzckhaTGladU1rWjc0OWd0aDZLSXVibzRpbUF3dWM2MFdSV3M5LXE3MHlnTVBGdXh2akt1cC1xbEZEY1hlMkhRSmhsMHB4bTRGdTdDaG1EX0h3aTRuazFZMXpfT1F5WTZEclUwazhW?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T14:03:02+00:00",
+      "summary": "国家信息化“十五五”规划：2030年智能体普及率超九成  搜狐",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek又要拿到一笔巨额融资了 腾讯宁德时代领投 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WYXJ2NHRMYzhkZE9LaGl2M2RaV1pWUEtWTlJFMlE1dENyRTl5Y0tBbU1KYm04M180RWx2WTBXOEtfRHY4SVVFaHFqeU05QlF2NFNRclhpRnpYTzNMV3ZYOVFNTERuVV9MQ0VKbFJ2dHQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T14:02:53+00:00",
+      "summary": "DeepSeek又要拿到一笔巨额融资了 腾讯宁德时代领投  中华网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "Claude给391行代码找Bug，狂写1.8亿行证明！首次大规模汇编层形式化验证 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjFEcnV6WXpjNUdLamh3cnhyWGttdW9fZld3WU1SbFJpVVZmSXlSa3dPTTZzT0drNzhwWEdiakV5Mkp5M25haVNwdlhycUo5a2ppMTJ3M1lxSDN5em1oLVlwQmR3M2l4TUk1WEFnclE0a21IWGRuSWtJQWFwWGUyeEdoVmhON3ZV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T13:47:15+00:00",
+      "summary": "Claude给391行代码找Bug，狂写1.8亿行证明！首次大规模汇编层形式化验证  搜狐",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "SemiAnalysis称Anthropic对Claude额度A/B灰测 周额度缩水20% - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6ajN1eUhUS3hkZWFWY0pTTkF2RlVoX0VsbVh1T01zQ0JZWkJQc0JZZ3lSMVNlUEJEVGdnQTlveVU5ZGJiTERSVk9lSl9BV1o5M3NvdVdic0QzeUNmRWpYeGJn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T13:33:31+00:00",
+      "summary": "SemiAnalysis称Anthropic对Claude额度A/B灰测 周额度缩水20%  观点网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "中国移动携手主流车企发布业内首个汽车行业AI基座 - 通信世界网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BN09rWDZBSS1RbXZQRkl2VDhFNU8tRi1ZRnZiQXh5MDNJZXpxQWZGR3JSUFMwMTdQUDRubHVzNUFYWWtIbmZ2LS16U1VXdVJrUXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T13:25:00+00:00",
+      "summary": "中国移动携手主流车企发布业内首个汽车行业AI基座  通信世界网",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "DeepSeek被曝完成1000亿元融资：中国 AI迎来高光时刻 ！ - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUtMT2RoYmlWa1U2SzVLYVZWLTU1VEVCbklfMXJ5ZV9SbkEzZE42R1ZkVXJSR2NZMFIyQjM4TXhsc1c2MlgteDh0eFI1QjVDV3RWNlFrYk5Zb1JtalV6OGlkWmVFMHg1TnUwVktKLWF5RmRLamxpclV6WHVJM0FxQTFuTkpLMks0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T13:23:40+00:00",
+      "summary": "DeepSeek被曝完成1000亿元融资：中国 AI迎来高光时刻 ！  搜狐",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "DeepSeek完成千亿融资后加速布局具身智能，投资宇树科技、Winverse AI与俞涛团队 - 虎嗅",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIc29LM2ZzUzhqQlBqdWtraHJWYUpSaEpxakFDOXhaQXE4Y0tWUllNeENOd3BoblB1cUdVT0NaaVZ4SGpjY0N2Um9JWmNxUWFRSjFDQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T13:05:28+00:00",
+      "summary": "DeepSeek完成千亿融资后加速布局具身智能，投资宇树科技、Winverse AI与俞涛团队  虎嗅",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "几块钱就能享受AI大模型高阶会员？小心这些风险 - 安全内参",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xcGRlQXRnb0xpeHA1MnBXQVdfM2liRXRaRmk5cl9IMmpxSHNQUGpzc0ZmS3NGZU1ncXo5Z2JPaGlkcURhdWxQOFBDM1Rzdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T12:54:29+00:00",
+      "summary": "几块钱就能享受AI大模型高阶会员？小心这些风险  安全内参",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "100个场景入围！2026年江苏省“人工智能+”典型应用场景发布 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDRJeEdkZWJZSE84LXg5ZjRBZ05yQy1ZWkU2VmZMUmY3cGhKdnZ6SnlaMzB5M3NXbndDQ1I3bDhoUEpnSTR6X0t3QXNIY3dwSXhrNExNOFpscUg4Sm1Ramg1VUNTREJoRFprR3MxeUNsNXpxYndUeGZHdTFodjlyYU43MWRHR1lE?oc=5",
@@ -52,6 +146,16 @@
       ]
     },
     {
+      "title": "AI智能体已准备好购物，但部分零售商持谨慎态度 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFFfYWw2TDJndVh4cnRwa0dmSVFKWURmWWgyYXBOVkRkWFdONng3bnZBUTI0VlVybEplREJiOWZLc1cxYWFCbGJ0TVlCVTV6YnNYU0J4bFVvWVRyOTh5X1JuWmtiQWVHX1RBZVdtNTBycWlhVWlLSUlNcGpxMjljNDJqRjFfWWNn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-23T11:05:00+00:00",
+      "summary": "AI智能体已准备好购物，但部分零售商持谨慎态度  搜狐",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "1Password推出智能体登录平台，密码永不外露 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaGRrcmo2SWVXWU1Oa3N1ZXJDMzFBTzlDaDZLZHRMd2poX0lzTGtab2JERC0zcjVFMVVSSGdseDhxek9BV2JrUzV2UFZCNTNuck5SMnBWMnJkemowWHZRYUFqZ0tTMW16Q3NicDloRW1vNE4weGtlenFfMTlDMi1BVld1R2xHUkJY?oc=5",
       "source": "Google News - AI(中文)",
@@ -93,17 +197,6 @@
       ]
     },
     {
-      "title": "Meta发布三季报及智能体Muse运营数据 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVNDaHpKYkc5ak02Zi11bFI0cHdXaVRwWjZNQ3hpTEp5dFdHZ0xycXRFNEM1UXN2NDYzMHAwOEdZM09zOUlsWVp6MmI0MlNuY09ySGd1WG5tTkNrTVUxdU9kLVQtWFJ2X0xYNkUtM0NBM3BuWkF1Ri0wbUVTa0s1ZFJ4RVN5NWZV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T10:27:15+00:00",
-      "summary": "Meta发布三季报及智能体Muse运营数据  搜狐",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "核心网走向智能体时代：华为AgenticCore的AI原生实践与产业信号 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzd1T2RBdGJLOXMwQUs3MklwTjFiYVZaX2FVUE82YlE4QmFWdnphLWNSb19zeFVUY09pMERqZDRxazYzTVh6S0tjcGF2VTliUHEtM29GdGZxdzNCaTZpMXRzWXRpQ2dkczRoNi1vc1Q1MnBraGR6dTZKZGVlUzdHbDZ4RVpVVWNI?oc=5",
       "source": "Google News - AI(中文)",
@@ -125,27 +218,6 @@
       ]
     },
     {
-      "title": "论文周报丨8篇论文聚焦Agent Harness新进展，覆盖编程智能体/具身控制/图像视频生成 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByVGVrUkJVT2tuN1NtODFWTHp2Mms1YlFSRTFLQW80cGpoVnd1eDlwYnRXczdpbC1XeERlUVRwenlaRXZXZTU1NA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T10:10:00+00:00",
-      "summary": "论文周报丨8篇论文聚焦Agent Harness新进展，覆盖编程智能体/具身控制/图像视频生成  智源社区",
-      "categories": [
-        "tools_apps",
-        "image_video"
-      ]
-    },
-    {
-      "title": "Claude 偷砍额度被抓包，AI会员正在集体变成「鬼秤」 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WLXNZd2NMRmNmSU8ybFhsUUxXVzY1cVNWVE56dmRIRUo5N3F2cG1CVnFjamowcndDOVFUQVBtTkFUVVVYd3Iya0hjdE1XQWp1?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T10:08:12+00:00",
-      "summary": "Claude 偷砍额度被抓包，AI会员正在集体变成「鬼秤」  36Kr",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "面壁智能亮相 CNCC 2026：第三届端侧大模型论坛成功举办，定义端侧通用人工智能 - 搜狐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDZYczBkbTNONzZ5SkZ0R1JLQ0xjM3VDblFBV2dla3Q4c08xTE9felp3bWZBNDdpVUZKd0x0dkVyZFhwSjltZ09RaEpWMUwzWWlPQXA0dWtmWG5QMi1VZ2xWUlYwV0FxRTVpd3R1RXFPRnBReXBGZHRzcGRUcmc3bE9pQTZlTWl4?oc=5",
       "source": "Google News - AI(中文)",
@@ -156,64 +228,13 @@
       ]
     },
     {
-      "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sakFSUGtYVVUwdlZqUjBYOVcwSGhPc1B2aVh1Wk0yLWducFl3bVNHNl9ZM19QWjNiZE1XOGxINExYc0tFQVlBQmg0VFNTb3hkVnZuNVJCWDJmdm5XZlE?oc=5",
+      "title": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制 - InfoQ-CN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NS0ljTzJBZmJlWUd1RE10ZWJLZ0lrZGlQaDdrSFdjNnBlZjZIZDNQbENBX3JoODFIZEdRNVlNRVBCX1pxUXJkTW90dEotbFFubHl1dWdINFF5RGl2Q0E?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-23T09:56:23+00:00",
-      "summary": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU  InfoQ-CN",
-      "categories": [
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
-      "title": "“让 Token 不空转”，讯飞如何把 Agent 推进企业核心流程 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9seTNtZnVWc1hvOTQ1LVNqa044S0lQZ0NDS3RLNkU4OXBsdS1qWWp5Q2VISHhJd2ZxNHZBWHNKbFl5clQ1SEpZVmt1a1hpUGI4RWIzblBTNlNBZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T09:41:24+00:00",
-      "summary": "“让 Token 不空转”，讯飞如何把 Agent 推进企业核心流程  InfoQ-CN",
+      "published": "2026-10-23T10:05:37+00:00",
+      "summary": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制  InfoQ-CN",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "荣耀亮相CEIC：Magic领衔AI智能体手机 全场景AI生态加速落地 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOUdJNG1sTUxwWTZiS3dEYmNlYVl4MElUdjktaVVwUWEwWUtaLS00bG1OWFBDYnRfNHlEamZiYTdtU2FPXzFZUlNhRGYtaUtGZWN2OTZOVkl5ZER3anhNVFZFS0tPNnlzeTI5c3oxUXIxX2p2NEtqRGhBTjM0UHp2MXQ0NndITTNf?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T09:41:00+00:00",
-      "summary": "荣耀亮相CEIC：Magic领衔AI智能体手机 全场景AI生态加速落地  搜狐",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Uber将ChatGPT Work推广至全部3万名员工-36氪 - 36kr.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VW1jM0J5cjlYZTJEY2RGaGk4Z29zSXJkdFR2TkFDallkSmZ3VTBUWC1ETjkydjNFYjZwb3UxM0w4RDVXVWJxV2ItOG5FcTFlRTc2ZEVtVVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T09:02:36+00:00",
-      "summary": "Uber将ChatGPT Work推广至全部3万名员工-36氪  36kr.com",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "天融信发布政务AI一体化安全方案，持续推进智能体安全落地 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qRkJ2WG80RVptNlBZcXNzTm9CTlFpbjdzUHBYRmZ0dTN1bEI0M1JpcEZPaEhJZWJlbVhxYXBZZFBLSzcteHZITGRFRFB0VXNQZ1ZqYW8yQXFvdXFBZ0cyWjlYUWUtOGk4N3lGZGZLUkg4VHYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T08:56:04+00:00",
-      "summary": "天融信发布政务AI一体化安全方案，持续推进智能体安全落地  金融界",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "大模型上天之后，太空算力的价值将流向哪里 | 太空经济对话 - 泰伯网",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tMEs4RUJvV3JYNjNKWU9BOExzOU5tbUxXTjlDcldFSWtBdW9iQkh0cXVuWU00S1hiODFncF9fOGREdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T08:30:00+00:00",
-      "summary": "大模型上天之后，太空算力的价值将流向哪里 | 太空经济对话  泰伯网",
-      "categories": [
-        "chips"
       ]
     },
     {
@@ -227,22 +248,13 @@
       ]
     },
     {
-      "title": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制 - InfoQ-CN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NS0ljTzJBZmJlWUd1RE10ZWJLZ0lrZGlQaDdrSFdjNnBlZjZIZDNQbENBX3JoODFIZEdRNVlNRVBCX1pxUXJkTW90dEotbFFubHl1dWdINFF5RGl2Q0E?oc=5",
+      "title": "比亚迪发布汽车行业首个AI超级智能体「迪迪虾」，多款车型将陆续推送 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUxhdXZuejFTR0Q4UnRRVUhxUmthTHcyaEFqUWJ6NmgxejlPcnlVS3lhaG84ei1IQmtGdGxRVTh5Z1VSaGtOUjV2TXZ3eHZoaDJRLXhXcE1YY3pVdmhScTAyUnJWVUl2U19HSTRlOVFXQlYzUmM5bElRN2xnWE9BM0FQMG5RX2ZW?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-23T07:16:12+00:00",
-      "summary": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制  InfoQ-CN",
+      "published": "2026-10-23T06:05:00+00:00",
+      "summary": "比亚迪发布汽车行业首个AI超级智能体「迪迪虾」，多款车型将陆续推送  搜狐",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "粮策智能体国际版正式发布 多国机构共建全球粮食数智治理体系 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWURESS00b0pHRnRGWVpOS0xFR0VWTDlUMm9WejJLZVc4OWFGVXROamh4dkp5eUFLTG9SYnJkUEJmcWpLNXhFM3pUQ25MSXpFQkFsekdzbnVFWnloOXZIaGF0OWNMRGdkMElIWlZyX1VTa1o2RkZHVjB5RlQ1ZzVYVXdpWFotQzZYTHVTYg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T06:15:48+00:00",
-      "summary": "粮策智能体国际版正式发布 多国机构共建全球粮食数智治理体系  搜狐",
-      "categories": [
+        "breakthrough",
         "tools_apps"
       ]
     },
@@ -315,16 +327,6 @@
       "summary": "从Anthropic到HoneyRoute：大模型安全路由如何走向主动防御？  安全内参",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "聚焦“垂类大模型+企业级智能体”深度融合，「中关村科金」将亮相GET2026 | 亮点前瞻 - 芥末堆",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ySGtTVXpsejFvVWlPc281YkY0R3ZGZlNHRVR5UUN3czFwbzUwb2lMYjFLR1p6ZnJ4eFNWbUs0bXZ4S0RIeFhhd2lqc1hjWlk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T02:30:28+00:00",
-      "summary": "聚焦“垂类大模型+企业级智能体”深度融合，「中关村科金」将亮相GET2026 | 亮点前瞻  芥末堆",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
