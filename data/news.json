@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-24T16:50:13.483872+00:00",
+  "updated_at": "2026-10-24T19:18:28.835871+00:00",
   "items": [
+    {
+      "title": "4nm芯片、AI大模型、AR-HUD全堆上，大众ID.AURA T6、马自达EZ-60、银河E5智能座舱谁最懂你？ - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZGVzbTBkUjV1cnRnM0JHOGQwUGg3eVVoQW5rVFJRU19sQlE1cENmVUZxMG5ISHJNLU5DOEtYTFY5R3lHQmJjUloydzJ6WHJfaWdpN3VLeFhDNFZ0bERwWVZZYWNVamVqZHNWNUx0THJ2c3VSRzhmb0VacWhpTk0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-24T18:37:00+00:00",
+      "summary": "4nm芯片、AI大模型、AR-HUD全堆上，大众ID.AURA T6、马自达EZ-60、银河E5智能座舱谁最懂你？  手机新浪网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "[流言板]悉尼一男子告诉Claude“自己想枪击托儿所”，被警方逮捕 - 虎扑体育网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05Q0NLUmJ5bHRjX2o4X3hiYTZDdXFKWlBJM3U3MW52MlVrbllQYlNjRm5oNWtBQk1SMmowMGVYWlp1V2RYQUN5OWx4bw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-24T17:47:25+00:00",
+      "summary": "[流言板]悉尼一男子告诉Claude“自己想枪击托儿所”，被警方逮捕  虎扑体育网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "1Password推出Agents平台：AI智能体可代登录，但始终接触不到密码 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUdTR2RfVXNXc2oyWFBnUDItOEFObnlGcE95YTJ5REJ5ekdQaXI5Z3lBbzZOdHZYQW5WZ0NUMUltZGo0LXpjeUZMTk1nOVpobHlsMm5URTFKa2pCTmFQUnVSWjJuZnpYck5vZDhhMk9QM3pQeExaclRpa0JQNEh3WlhubTJ3eVhY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-24T17:16:00+00:00",
+      "summary": "1Password推出Agents平台：AI智能体可代登录，但始终接触不到密码  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不” - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHd0ajdjLUxIVzVXTDZKODBkUTE2d1hUVzRNN0RiTHYtUDBKcVF0NGVEdG1wV3ZhWUduSEF5OE5pVkN4QzJRYlRvSmZYNzVLLWFPWUtHYks4WlJ3bEtVWGFTdEVrN3ZUb3VIME5QLWJFNXJhd3Q2QktHbWxQek9jX3p5dHdJYUluTkRB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-24T17:00:12+00:00",
+      "summary": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”  21财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "Claude给391行代码找Bug，狂写1.8亿行证明！首次大规模汇编层形式化验证 - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE55eUl6TXdtWmZRSUpPeWNnbjFOem1OSEV1NGw4ejkxeDI3Y0hyemRlT3A1QlFaenpJLWExY3pDcUc1blJPT1FqRA?oc=5",
@@ -9,16 +49,6 @@
       "summary": "Claude给391行代码找Bug，狂写1.8亿行证明！首次大规模汇编层形式化验证  智源社区",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "全球最大开源模型“上新”，带来了什么 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVV5Z0w1T3ZrR1BDWjRpNk1zUzlWT2VqMWFUdFdwNUdGSlR0dUdyN2tYTXltVEpFbTFxNktzb2xiNEY4VFh4N0FjeDlGc2pWN2Zka0lYYVU3R25yZjcxeGFoel8zZURDQjBCTVUxSG1SYTBBS1prbHpWVGV3X1lEeFA3Ny10SzBOemtlUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-24T15:20:01+00:00",
-      "summary": "全球最大开源模型“上新”，带来了什么  搜狐网",
-      "categories": [
-        "open_source"
       ]
     },
     {
@@ -63,6 +93,16 @@
       ]
     },
     {
+      "title": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTQ4ck5hSWk4al9qeUNvVElHYWtObDBzRDJ1anpVQVlQTDQ4MFVrSWUzVm9DbWRnbUFzZ082Vk9LcWtCejFHM2NjSUlfUWlCRlBjamh6MF90QkFUUTl5WXVKNkcxNHNPbjF0NDByWV9WaThCMXFRUkdGS0hVQkYtSld4ekxCQkNGQzJVWg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-24T11:30:00+00:00",
+      "summary": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVE3eEtMY0M3ejFJQ0VQMXdGenBSOVBqU2YtTWw5a2FaUk1LeEEyU3ZKY1VpVHhZN0dTdkFETGZab3ZIMTNJdUVURXJ4Y2l6c2V2NzNmTFVrTXZ2X2d5WE9WNk1XMXNXRXBzQmNkTm9meFpub053Wm9lSmlxRm5MbldxaXdEM1FGSk91Vg?oc=5",
       "source": "Google News - AI(中文)",
@@ -84,16 +124,6 @@
       ]
     },
     {
-      "title": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不” - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHd0ajdjLUxIVzVXTDZKODBkUTE2d1hUVzRNN0RiTHYtUDBKcVF0NGVEdG1wV3ZhWUduSEF5OE5pVkN4QzJRYlRvSmZYNzVLLWFPWUtHYks4WlJ3bEtVWGFTdEVrN3ZUb3VIME5QLWJFNXJhd3Q2QktHbWxQek9jX3p5dHdJYUluTkRB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-24T11:00:12+00:00",
-      "summary": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”  21财经",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "+(AI!(🥩) Top Free Adult AI Tools for Creating {VFRT01DD} - 小豆島町",
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOQXVpSXFROGNXME1UNzFWczhOaThKYlo0b2pGX3FwNTFHVEF4d3ZQdFFTNEtDV0dvMlJuS3JTekRRZkFGYm1uUFNMYU9iRWRBN3RmbnlZNHZRWHhXQlh0R3Q4TVljYkZOV2ZQcUUxNlhYNWtwYVJLMjJVR3hYSzVKNW5IT2F3dlU5NU9SVjZGRk5SYzF0QXBNcTBnSXctVkk5UlhNc2ZzZ2xURVVFWXV6aVAtczE1SUkzVmdKcTNQRkE4bWxYOVU2dUdMdkItMW9NeDRXMy1kellKNGlkQjI0ZkdqZUdCTDhaaXJnVjlSazlMdW5DQjBoQXdXWXEybFpCZS1CVkI0VkNEY3FmMUxlMTk0UExpVVpMSEl3aDlfdVBSV3dYdl85TXppLWFBcHRtbVI1eWZYV2FnaUl5NE82WTZ4RVZXaWxXb09VRS1wQ19fMVJ1RkYyRWJKWHFFQU5Gd0dHcnd3?oc=5",
       "source": "Google News - AI Tools",
@@ -101,6 +131,16 @@
       "summary": "+(AI!(🥩) Top Free Adult AI Tools for Creating {VFRT01DD}  小豆島町",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "​AI律师来了 涉外法律智能体Nomos亮相广交会 - 广州日报新花城",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNby1kVkVBUVJHaWRKYXRxelI2Smhka2NpR3d2SHFMR3ZVbXY1ajhaRU9sVlRuU1pYY0tfLUd6bk43YndHMEhfcXhtQk9jRGFScFVqM1YxYXd0TDd3bkhubUZNQzVPWDU5VGF3ZmROcC1ha3hpREIyUWR0N0lXZ0RwSG5henNwcDRZYkE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-24T10:46:18+00:00",
+      "summary": "​AI律师来了 涉外法律智能体Nomos亮相广交会  广州日报新花城",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -145,16 +185,6 @@
       ]
     },
     {
-      "title": "不卷大模型、不抢入口，中科创达的“自主智能”是门什么生意？ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YN1dWUm8yZklEUDJ1M252clRKOEE4YzJrWnI4WEdsdHFhQ3ZaOFBlSDZDa0JybGd2SnNiMXBEYU5JM3lGQURGQk9DZGtFOEFwbDI0cWc5cDBIWGM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-24T07:53:55+00:00",
-      "summary": "不卷大模型、不抢入口，中科创达的“自主智能”是门什么生意？  汽车之家",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "中国国际问题研究院在2026全球治理论坛（雄安）期间发布专题研究报告 《中国的人工智能治理：理念、实践和意义》 - 中国国际问题研究院",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12RWk2TXRVUjQ3SHM1eEk1c0ozaHAtUnN4OUdkRnc2bjRaTU5fak1sX1lVRjZaV2lXYU16SUdFTHZSNE5sbFQ2dEYtdzFTclZVQjIxcm5mOFNNOEZscGt3M0xjZXNNV1ZHLWZj?oc=5",
       "source": "Google News - AI(中文)",
@@ -195,13 +225,13 @@
       ]
     },
     {
-      "title": "全栈自主可控的大模型进厂，聆动通用加速具身智能落地 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORV9pR1d4cm5fYV9VYjEtUktRdlA5YmFKOWw2ajRXZzI5RVZDbGdfNnlJNEdQOS13Q3BfQl9hNDZMMDFpZGotZG82ZEVVX0JhRTJLbUZCUUlXTC1BRHNlRjk3WGx1QjN6Zm5WNWlDblNoRUQ1ajN6QldhSENETDBJaWNGTHZIdUtR?oc=5",
+      "title": "Kimi迭代3万亿参数大模型 首次推出Pro版本模型 - 财新",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvand6SGdDTElUNkd0Zkp3emFrX2NwYWpnOHRVUm5YNlEwd2xhWEZfTFB1V295M2hMb216eGZ6RUlCU3VxQ0NIRzd1VFJVdkNMaU9lSEU5MFdmOFItQlpQNVd4clk?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-24T05:00:00+00:00",
-      "summary": "全栈自主可控的大模型进厂，聆动通用加速具身智能落地  搜狐网",
+      "published": "2026-10-24T06:28:00+00:00",
+      "summary": "Kimi迭代3万亿参数大模型 首次推出Pro版本模型  财新",
       "categories": [
-        "other"
+        "other_big"
       ]
     },
     {
@@ -235,16 +265,6 @@
       ]
     },
     {
-      "title": "悉尼一男子告诉Claude“自己想枪击托儿所”，被警方逮捕 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56NkJObXk3Vzd3UDhzelM3SVh0bVEyeDV2NzBGNklwSy1DSVl6ZUFaQXp3NExvTjlrb05iSG5Nd2piUEJRbE1FZDhqM2c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-24T02:55:39+00:00",
-      "summary": "悉尼一男子告诉Claude“自己想枪击托儿所”，被警方逮捕  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "Kimi K3.1 Pro发布：多项测试超越GPT-6，最强开源模型回归 - 麻省理工科技评论",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15bU1wc2FGOWRqa3lZZTBzQkNTRXRiMHNGR2s4S1lQU3paM2VLUHZTam5IRzgwZDRlNnFjalhybDZwdzBBX1RHYWdwajBMZ01BUDQwNms2NA?oc=5",
       "source": "Google News - AI(中文)",
@@ -264,16 +284,6 @@
       "summary": "得州检察长起诉OpenAI，称ChatGPT对用户造成伤害  华尔街日报中文网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "166款App“婉拒”豆包，智能体赛道走向分层共生 - ThePaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44Ry1xTE5qUHFlSnVPbzBqcXczdjBKRkZKTXlCS1dCd2VQOHk2Tk8yNEotdlowcDF5cm5QR3lJZFg0ZkFpSkJpQXJyRjZZbGQtLU1qTTRTT2s1bThPaDBZZA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-24T00:42:00+00:00",
-      "summary": "166款App“婉拒”豆包，智能体赛道走向分层共生  ThePaper.cn",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -334,16 +344,6 @@
       "summary": "SemiAnalysis称Anthropic对Claude订阅额度实施A/B灰测，周额度缩水约20%  虎嗅",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "科大讯飞发布端云一体讯飞星火X2.6大模型：让敏感数据留在端，把复杂任务交给云 - 央广财经",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wSzJDOEpHdkhQeGNyYUVadURuVVphbE9BamM4RFQwcUNQMVhKQm12YlBibjV3b1h0TDZhcEVrVnBocGMwc1NCRkFTZzFZa0dYLWF0bVM3Zl9xWGI1RGpKX3FUTWRFREpFWHNJUWlEdUxtLXM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-23T03:41:21+00:00",
-      "summary": "科大讯飞发布端云一体讯飞星火X2.6大模型：让敏感数据留在端，把复杂任务交给云  央广财经",
-      "categories": [
-        "other"
       ]
     },
     {
