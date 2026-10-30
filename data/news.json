@@ -1,96 +1,290 @@
 {
-  "updated_at": "2026-10-30T08:17:25.778118+00:00",
+  "updated_at": "2026-10-30T15:11:59.193572+00:00",
   "items": [
     {
-      "title": "百融智能发布“百融声动” 诠释Voice AI如何进入企业服务流程 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWNpRU5PNmI4dlJvRF8yS2IxTjl1elphWmJYTEpaemszdklBeHNYb2VZLXUzZGJKeEtRVjZWN3VYcDBNUWFGR1FLaE1mMG95WjBpYkVPTnJ5M1BwZDRoYVZRZUZPNE1RX3NWOFdBZUczZU5ybzZkQW8zczhQNmI0ZHlxV1dJR1hBVVBN?oc=5",
+      "title": "Mistral开源发布Large 4大模型，提供主权级AI控制能力 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkZhNW84OTJmY1hPWlFVUWIxZmFNUkN2X0tNb0xucVpmOUlFbGlrZTEzR3YyV0RNVmRrQ3RpX19IVDJ3RWh5dXU5SFQxOWlQTnk4aGxBY1ZsQ0Jrc2VzY2Jlb1JoQU8yUk9PcVZNRjBZSGtaaDRURGNseGx6TFNnbU5JY3U5WlRZ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-30T08:09:20+00:00",
-      "summary": "百融智能发布“百融声动” 诠释Voice AI如何进入企业服务流程  新浪网",
+      "published": "2026-10-30T14:49:00+00:00",
+      "summary": "Mistral开源发布Large 4大模型，提供主权级AI控制能力  搜狐网",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "3.3亿参数打平通用大模型：垂直基础模型的算力性价比答案 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1FVSHJkTGhzLS1INVl2ZzlUdkl6OURwR3hkT19ORG1DaDNDanBxdmRoSDVoQVM5NC1rcXZtS0NUZDIxUDBLOTE1YTl2b1dncW0wU21BWDliYkVKY2ozaXVsd2FJRU1jcWlpTUV5X3ZBSmFTM2ZEV1FkV2JHMGgwbHdjMGtIZmVj?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T14:38:00+00:00",
+      "summary": "3.3亿参数打平通用大模型：垂直基础模型的算力性价比答案  搜狐网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "马自达CX-5接入Google Gemini，一句话调空调、设导航。 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xTlZidVZqaHFPQXAtR3FnMzEySWxfVmhIbzVJN2h2SVJvdFk4NTVrUmw0Zk9hM2RpSlVOOV84OFQxbWtnNEwyVXFocnUtWGVuOWdNb29DSHlxZHZ1aU1uVGc4RHQwcUpTNG1V?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T13:11:45+00:00",
+      "summary": "马自达CX-5接入Google Gemini，一句话调空调、设导航。  汽车之家",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "15家机构联合倡议：未经金融机构授权 智能体不得对金融客户端实施读屏、模拟点击或自动化操控 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2xEMVFlMXRENU1BT1NXMzlraUswdU14NExra2F6RE40N29wSm5oRHpDTUQ1QzRyc3F0RkFKVHA2R04wX2ExdENERXNuYWhEbktPR3hkclp3ZU1HVGd1VU0ycEkyRy1NTGN6X0tJbU93eDBWdDRVM01vZGY1S0V1c2pqaEJvWXpycFV0Ug?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T13:04:31+00:00",
+      "summary": "15家机构联合倡议：未经金融机构授权 智能体不得对金融客户端实施读屏、模拟点击或自动化操控  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "电科金仓发布AI数据库，大模型也能看懂私有数据 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2I0T2xldFRrS29XVnZBWlk2YXIxSEgxSGx5UXZ6NTFfOWxQMXFRaUhvY2RKRG5FWmpsU2ZyOGoyR2pxakdmZTNCTC1XYkZ5OEFNN1ZRQnNqTW0wVFJCQVpaYUh3dWlGXzBGRGpzcUdHc2xLOWpwWkN6UERzckNucVJacmpvZ1B1?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T12:55:42+00:00",
+      "summary": "电科金仓发布AI数据库，大模型也能看懂私有数据  搜狐网",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "DeepSeek千亿融资细节曝光：国资占比27% - 亿邦动力网",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Yb3RMekFvQUdPRWNSa3F3UVZRQzRSUE4wdDlSOFFadVdJQVVvZTdYVE9qOGlEalRRQTFENVU2anZFZVlqRnExeDFyY1dwV3JneDFodTRBM00?oc=5",
+      "title": "给大模型做知识编辑这件事，为什么能把事实说对，却答不对问题 - 科技行者",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYc1U2WWFLbDFEMk1PbnR1aW10Mm1LUWVZc3JHNFFsUzNDM0RuejU3WE1DcGFKSkF2aHVLRDVqOXlLcVlSR1ZXalRiaUFhSFNXTHdtRzBlWGRZVzJtakdN?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-30T08:05:16+00:00",
-      "summary": "DeepSeek千亿融资细节曝光：国资占比27%  亿邦动力网",
+      "published": "2026-10-30T12:35:00+00:00",
+      "summary": "给大模型做知识编辑这件事，为什么能把事实说对，却答不对问题  科技行者",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "双十一智能体电脑推荐华硕天选Air 2026锐龙AI Max版把本地模型带进日常工作 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkVEZWpuZzlxMzg5TElRR291Z3ZJZGotWGh6c09DaWxTU0RUMmdyUmNUSnZqYTJ1ZE9xbHFMZlFIREtyLVY2TVFfT09ZVHFXbEdDbmxyRmdYaWEtME9QcWJuUzRRTmU3LWpuUmJqTmVBekxaRi1HWTBzNHdOTmFxdVRzYzltTjJx?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T12:34:21+00:00",
+      "summary": "双十一智能体电脑推荐华硕天选Air 2026锐龙AI Max版把本地模型带进日常工作  搜狐网",
+      "categories": [
+        "tools_apps",
+        "local_model"
+      ]
+    },
+    {
+      "title": "聚焦工业智能体应用赋能中小企业培育新质生产力——青岛市中小企业数智化转型赋能服务工业智能体专场活动成功举办 - 鲁网",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4taHpiNXZ2dDBHT0UzTGJSTkdza2YzZFhQVV9JbURnZk9tUWprZFYwczE3RllSTlEzOXI0cTZmaUhNSHBGQWw3ZkhOV2pza1FFTWFLNXdxWXN2dnlBcTlvbWhkdWlxcFVfQzczSENaWQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T12:33:52+00:00",
+      "summary": "聚焦工业智能体应用赋能中小企业培育新质生产力——青岛市中小企业数智化转型赋能服务工业智能体专场活动成功举办  鲁网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "从智能批阅到教师智能体，科大讯飞探索AI教育应用新场景 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1REUXZObGlhSEkwSmc0NHVXajhJcm54YU1DSVJpZFJtMVFyZXcwdS1hR1B0ekJ3c190TlBmbW1LbXZvZ2RiczdiRGl3RDdLRFpfTEZwZ1lNemNiSHk4MkZfaDFXeUd4YkI4YklDZTdNeFUyMVoxSXZvSzBXZl9KMlA3dzAtWHo0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T12:31:12+00:00",
+      "summary": "从智能批阅到教师智能体，科大讯飞探索AI教育应用新场景  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "让AI智能体成“金牌董秘”得力助手，这堂课不容错过 - 新湖南",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lRnN3ZTdtdWVYODdYc1F6OWxRWUJGdU4zaGdZdXB4ZFZTd3VLeV9lNHhyaU42cllZY3ZPWXFTSGpacTlDeWxpR3BteUlXMlNBOVRRbUw4N0d3aWRmZ2RV?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T12:23:59+00:00",
+      "summary": "让AI智能体成“金牌董秘”得力助手，这堂课不容错过  新湖南",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "培育100家智能工厂、50个典型应用场景！临沂发布“人工智能+制造”三年行动方案 - 鲁网",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFM1pTRnBfX1ZYSFdvMUl3MDFobWdteWxaNU9ienItLTRoLW9aV1NDdGF1UzhieGhZTmJMX0xRMjFBbEc2N2VjNjMxT3NaekEwOTFHOElUZlhmdzJKYVFZdnRFanhNQW8tYjhOcA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T11:58:24+00:00",
+      "summary": "培育100家智能工厂、50个典型应用场景！临沂发布“人工智能+制造”三年行动方案  鲁网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek千亿元融资细节曝光 国资比例大幅提升 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWF9vU05DaFEzUVlGazIwWnVvdkdSYlowcVkwZzBvb2VIU210a2pKUmdyclhwTHlaMy1wRDhjUS00OVJuMktvY0x0R3VraVZwQVhhb2VxZTRFUG9KNUJ1SGx2WGFONjR3UVJMdWkwV2g?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T11:55:03+00:00",
+      "summary": "DeepSeek千亿元融资细节曝光 国资比例大幅提升  中华网",
       "categories": [
         "other_big",
         "breakthrough"
       ]
     },
     {
+      "title": "让终端智能体学会修齿轮和修机器人，这家公司是怎么做到的 - 科技行者",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fQWxTTElNbkl3WmdqNC1WcUl4Y2dVQ0J1NzBRejc1eGVtM052bTRXaTNnSnBHY0hObndGTUgwcno3b3FocWdhZGs2OHI5S1BvNWJsZ1BLandxdjE1X25N?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T11:33:00+00:00",
+      "summary": "让终端智能体学会修齿轮和修机器人，这家公司是怎么做到的  科技行者",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "国开行、工行、农行、中行等机构联合倡议，事关金融智能体安全应用 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnFFVDlOcnJ5cV9jcm9RdlJCNnRhMWRXRl85c3dESlNXdFNYX0tjWDBLRVQ0VmRnUGRRbjFkSU55T0NiU2VONUpIZEFnLXpRaWJxQzVFSjhfZU04N19xZDZDWTEzc2VyakNQYU96T0VWZUplVFZkM3ppSFZrb0VUMEQ2TkRSRUFEUW9mUnBfSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T11:29:00+00:00",
+      "summary": "国开行、工行、农行、中行等机构联合倡议，事关金融智能体安全应用  21财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Claude Code：别再给Claude过多提示词了... - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGpETlhMV2plT1MtV2dwb3hTdzJPUEZiOWRHY1E0eTdJTVpZZ3NFV0xuMEsxX1JUY0JHRVVHM3Q4VDJ2YWJYQVJEWkIxdGtscTNsQ0I3b0hKUVZhVmVxQnBvaE9WR3FmN0stSlFuZTkyQm9wTzA1dXRmVzc2OTh1SXFSNVJEWGFN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T10:53:20+00:00",
+      "summary": "Claude Code：别再给Claude过多提示词了...  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "押注大模型定义芯片：这家国产芯片公司三年造芯，八个月出货20万颗！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcm13anFzdDJBVmpiaGFVR0JKRjJSMGZ2SFdWdmE3VUpTenRKcWNuUnZuVVdDbW9SbFJuZHhXeHYwVy10SmVUTEVqZjAzREJJV3FBb1NhbWxLalcwUWRsQzY4ei00WjZjdkJPeWJEUzVpQnZvdVloWS1kY1cxTjN2d080Qi1xVWxwZmxxcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T10:53:00+00:00",
+      "summary": "押注大模型定义芯片：这家国产芯片公司三年造芯，八个月出货20万颗！  搜狐网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "面向教学创新的智能体设计——基于WorkBuddy的教师实践工作坊 - 西南交通大学新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fU3lqTFpHcXR1ZlhrVldMVms4LWdiUHVRUW1LNWtEVVVDY3U5REVoeS1Dd3ZKem9OTEJhc1h2M215enNQa05uRk9ha0xZanNldTk0cmcxVEUtQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T10:26:16+00:00",
+      "summary": "面向教学创新的智能体设计——基于WorkBuddy的教师实践工作坊  西南交通大学新闻网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNXUkhid1MxczFHYXRCMEU0cWlQc2VYZFVRRnczbHlla0FlYTlOTmN5UXFVOWd2NGtQVzVHSHM0UXRjZ0NtOHZVblljb2FuQlVJcTVfeDV2Zm94TXRBN2g1ZmhkMlBvZFBRNDZGVUNDeG9YU3NyUXdTYWVpNk5fY01fV3BEZVJKUGFJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T10:10:08+00:00",
+      "summary": "OpenAI重写大模型法则，第一条：忠于人类！！  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "阿里云霍嘉：大模型第一次让“学霸”的价值产业化了 全球最聪明的一批人卷出了“月度级”发布的大模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT01zYkhvUXZOWnl6OWZXLVo0WkdYMnVacmFudGxzLUN6NnlDbUxCSjZLWXlMMDdfeDN3NXJUeWlCeGhlVUtla2R4cWhkQkVWMlc1V24wNzF6aHM0ZmhYaFVqd1ZsbzU5QlV1WGFHNnhxTnRVTjFVUklNbkYzWFFqTTNlOGRCQUJJ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T10:09:35+00:00",
+      "summary": "阿里云霍嘉：大模型第一次让“学霸”的价值产业化了 全球最聪明的一批人卷出了“月度级”发布的大模型  搜狐网",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "千峰访谈磅旗科技：用“AI智能体调度+机器人集群执行+RaaS运营”让工厂轻松迈向无人化- B2B - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYmgtWFZwUXE0ZjZsLS0yeGJxdmNRMGR2MVphdlM3cGRmVkpNdmpvTS1tU2xFTW1MODFwUHFFdnNTVG91M3JaZ1dTVEh2VlZ6U2wyb3JR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:38:11+00:00",
+      "summary": "千峰访谈磅旗科技：用“AI智能体调度+机器人集群执行+RaaS运营”让工厂轻松迈向无人化- B2B  亿邦动力网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "闪电快讯｜XHEART发布大模型芯片X7 Ultra， 公布X9下一代研发目标 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXJjNGttVzhGcEZEWS1FRHlaY0NiNmVBNllGTng1OUZBaExKWXZJTDBmb045d1lNYXdaTllfV1pPRy1mMDZKdHJMN2llS3h4bllLYVR5N3F6VjMyS0Y4X1FySEMtdWFla2M3MGhMa0MwTmRDYTdILTVnVW9uTmdYYm5jb1dfZG9S?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:37:12+00:00",
+      "summary": "闪电快讯｜XHEART发布大模型芯片X7 Ultra， 公布X9下一代研发目标  搜狐网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "拟融资334亿！英伟达投的大模型独角兽又融资，冲击加拿大史上最大单轮融资纪录 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FamRFRGhuUjJmbExKSnBsVDFHUHBvdzRHZDVTT0pYYVNoZUlGVWc4bjVRcG0zS1RLVmJsZTZZVE9lMVVFQThNak04ZmM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:30:36+00:00",
+      "summary": "拟融资334亿！英伟达投的大模型独角兽又融资，冲击加拿大史上最大单轮融资纪录  凤凰网科技",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "【每日瞰AI】OpenAI宣布ChatGPT Pro全系额度翻倍；上半年中国MaaS市场达106.3亿元，火山引擎以45.1%份额位居第一 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZkgtemE4U2NJZmllTDhVWm5faHNhcm1lN09XbUE2NE1xcWFTZVpWT0daeWRzSkN2Nm16TnNqdUpzMWljdzFJbEtwdDhqdzQzUVlN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:30:00+00:00",
+      "summary": "【每日瞰AI】OpenAI宣布ChatGPT Pro全系额度翻倍；上半年中国MaaS市场达106.3亿元，火山引擎以45.1%份额位居第一  电子工程专辑",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "深圳市市场监督管理局关于发布《人工智能工具应用中的商业秘密保护指引》的通告 - 深圳政府在线",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fU2lFbnk0b1VCYVBhczJ4ZnBnY2lmM1lwbmZOV04tNHhOemFkY1QxRzcyVmRLR2VBa1hQR1pfMlZGWUJKQXd4d2NCeVpqOVdNLXZWWEl4RHRzZjg5WGRvM3luTWdmaXVnZ3cxcV9GQUNqb1NjcDhZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:09:00+00:00",
+      "summary": "深圳市市场监督管理局关于发布《人工智能工具应用中的商业秘密保护指引》的通告  深圳政府在线",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "智驾芯片竞赛走到算力之外，XHEART X7 Ultra押注\"大模型定义芯片\" - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFl0NldyUURPdl9uZVR0Z21iUFBDUS13cFVwRjdMLXBneXB1V0NnMXlSVk4wSXY2WDRhMlhaOW1UaHVzUHFSMDRmalJZb1dXUXVJSzY3WExkakNiXzV1clFsVXJxZXlnODF2OHBCeFJuc3pzQXp1bjVPTzlYNERjWnB4N3RyTXFn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:01:21+00:00",
+      "summary": "智驾芯片竞赛走到算力之外，XHEART X7 Ultra押注\"大模型定义芯片\"  搜狐网",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "电商晚报：Shopify联合卡组织推出智能体支付技术适配AI购物代理结算- 栏目 - 亿邦动力网",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rRnQyRjdZTFoyVmVNbWdoWGtJNlZtWW1CN0lyU0xmZzZVdjR3YU5ZT1FJWmVjcnpqQmhxYXhLODZWQ2VNMjBRaUtEX09TNlNwTjlZVDhB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T09:00:01+00:00",
+      "summary": "电商晚报：Shopify联合卡组织推出智能体支付技术适配AI购物代理结算- 栏目  亿邦动力网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "万联证券:《计算机行业跟踪报告：从Anthropic招股书看AI大模型商业化进程及算力需求》 - 发现报告",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12NGhzdjRneGRkMnJ2cmJxa1JHdzVzR0hyaUhyaGdhRFFwS3RUSlpKRVRqV1VnTzhfMl80SE9iYlBPOGhkRHdqMU1PY05oTVg5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T08:06:11+00:00",
+      "summary": "万联证券:《计算机行业跟踪报告：从Anthropic招股书看AI大模型商业化进程及算力需求》  发现报告",
+      "categories": [
+        "anthropic",
+        "chips"
+      ]
+    },
+    {
       "title": "新芯航途发布大模型芯片X7 Ultra 长鑫科技参与战略轮融资 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbU5JRzBPR0tQNHQ3RHlKTFVXUWo5Rm5RREZiOGpGVHRHQWpKbW95UEl6c0ctWmV0VEVKY3BiWDNGT1UtVVFKaXlIZHdOZHBaQjJMV0lDelhuWkR0aTJkaDNJanhTcHQ0dEtjcGp4SWVpVDB5NjdMbXVsdnVpSzMyYmpoT0s5VThWYXZLYg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbURZTzNSSnJuZTFjVzQ5RGlhU0FYUzIyZUVoM3M2ckRWMVB0eDZwZF9jR3dYWHRUQTVWOGlaajlPUEU0dVg5aEhINkVrR2xvSmg4V2pUY0g2akVWaVktbkl3QjdVa0xDNHdRS2lhd0JGNEZDNkpnOTEwMjZTTnpEQkxWQWt2Z2dDWlBzUlF4cw?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-30T08:00:51+00:00",
       "summary": "新芯航途发布大模型芯片X7 Ultra 长鑫科技参与战略轮融资  搜狐网",
       "categories": [
         "breakthrough",
         "chips"
-      ]
-    },
-    {
-      "title": "AIIA重磅发布《人工智能产业链划分指引》 第零智能深度参编并连获核心发明专利 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVThJTTVLb2MwWi1TNGlmWWFFeE9yUXJKZU56T21fbUxuODJqVnJ5bWFienZHelFibkJLQllVajVCdE5FTDVGUFN3SGNhTmZWc01SZ0xGeEc4eEpSRHR0bDlSVWROMjNhLVB4eWRJUzlKSEhqNmhBUWFkYV9McThlQk8xaW1IUzhOVUxVcA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T07:56:37+00:00",
-      "summary": "AIIA重磅发布《人工智能产业链划分指引》 第零智能深度参编并连获核心发明专利  搜狐网",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "伊朗发布AI视频“再见吧，互联网”，暗示或攻击霍尔木兹海峡海底7条重要通信光缆 - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jbGRta2dINjllVWh2d3JFLWJhbTZ3Q2w3WXg2UzRFRlZSa29IOGs0UWVRclUyaU9tTmRVcUQwOGxtdmU3RDNvcWZpWFc4al9SbndzOWRQX2JPR2hKbXpjRktyQVZla1NHUHpKNnBtYnk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T07:56:00+00:00",
-      "summary": "伊朗发布AI视频“再见吧，互联网”，暗示或攻击霍尔木兹海峡海底7条重要通信光缆  新浪新闻_手机新浪网",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
-      "title": "网易云音乐评论区上线变声玩法 “小宝”智能体让你一键趣味变声 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSVhpdUpQcUdzS3dYek5RSmx4NWstZThxWXVBRUdxeDczMm8wRlFpNEx2YnB4WHBDNGFCM0pINTJ5WlltdjRmaDUySEcyLXlXYXNmX2hEX0VhS24wbjFTZGlaVThUVmtQSXg2UWVHRjVfN1FlcEd6OXVNYmowcVg2UHlTSW4zd2VJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T07:46:40+00:00",
-      "summary": "网易云音乐评论区上线变声玩法 “小宝”智能体让你一键趣味变声  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "2026广播电视精品创作大会｜超高清视听+人工智能创新发展论坛议程发布 - 新浪新闻_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40dlNQRF9DYlZYT1NFUzNfUnRLZnlENnVVb1BkTE5iUGZtQUJRVUs2YmpVUDhnTXNmMXJrQXhMOHNia0RFRTk0SDROT3dtTm5YUVd4Q1ZqcVNIajMzc1psNVdNS21LeWtSakFhR2VkZVd3Tkk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T07:44:00+00:00",
-      "summary": "2026广播电视精品创作大会｜超高清视听+人工智能创新发展论坛议程发布  新浪新闻_手机新浪网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9EQXFzRHNCNGExUFRUbUxkMFdhMzNpV2h5U2ZSeE1NcEhIczBUMUhvaGt4N3VNSFJTdHNFNE5MaE5oaGM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T07:42:58+00:00",
-      "summary": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令  爱范儿",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "苹果CarPlay现接入Claude，用户开车也能语音问AI - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanhKcEZpVVFrV0tLQS1SWnhRVWtYdDNEZ0NPYjZMbHAtVWFUcG42SzVxSmJyVk9iRlRYMVdCaWdscE1KXzViNTlSWUdjOE5GaVBrM0Y2V0NtTFE4UkFBY0FZeGZqZmVVT1YtQ2FVdUlLZXRZR0pHQmtqZGdTc0pUVlRuVkROWC1I?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T07:08:15+00:00",
-      "summary": "苹果CarPlay现接入Claude，用户开车也能语音问AI  搜狐网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -104,34 +298,13 @@
       ]
     },
     {
-      "title": "镇江海事局智能体全天候监测8类通航风险 - 中国交通新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQ3ZnRXVpaE1MTnFsMDZUajhTb3dCaGVqOElHZ2M0QkgwWm8yUHNvem12TFQwX3JzUlVwSnNsZko3UlFyNG42dXM3VXBabGVzdDBvT2Izc0lqZ2wzcjNHYWZ3?oc=5",
+      "title": "大模型定义芯片！XHEART发布X7 Ultra，2028年成L4引爆点 - 雷科技",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaS2FRTTE2cFcyYmNOQnZZSXZXR2hUYkdEX0JhRGRaZGlNbkxwTnF4QVJRS2xCdFE0clJpSzVDNG5ISHRDUUZzVVJXYzNkUQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-30T06:50:04+00:00",
-      "summary": "镇江海事局智能体全天候监测8类通航风险  中国交通新闻网",
+      "published": "2026-10-30T06:42:19+00:00",
+      "summary": "大模型定义芯片！XHEART发布X7 Ultra，2028年成L4引爆点  雷科技",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "万联证券:《计算机行业跟踪报告：从Anthropic招股书看AI大模型商业化进程及算力需求》 - 发现报告",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12NGhzdjRneGRkMnJ2cmJxa1JHdzVzR0hyaUhyaGdhRFFwS3RUSlpKRVRqV1VnTzhfMl80SE9iYlBPOGhkRHdqMU1PY05oTVg5?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T06:44:47+00:00",
-      "summary": "万联证券:《计算机行业跟踪报告：从Anthropic招股书看AI大模型商业化进程及算力需求》  发现报告",
-      "categories": [
-        "anthropic",
         "chips"
-      ]
-    },
-    {
-      "title": "IDC 报告显示：中国大模型 MaaS 市场半年规模破百亿，火山引擎以 45.1% 份额居首 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanJCc2FvYW5Eai1SY014Y3Q2QWFuYzhzY0ZvUUhMc0lVN0Q4NkkteGxfVEVSRHYyOGQxUC1OQXF4cll1WmRINTlpcGp2YTJDdG1ma2VZNDBzR29QV3FWSHFHeXdhRU1zRTRMMG9pZ2JkSWJIRHdhTVFCanRxOUp3ekdOWGE5Umty?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T06:29:00+00:00",
-      "summary": "IDC 报告显示：中国大模型 MaaS 市场半年规模破百亿，火山引擎以 45.1% 份额居首  搜狐网",
-      "categories": [
-        "other"
       ]
     },
     {
@@ -156,124 +329,11 @@
       ]
     },
     {
-      "title": "DeepSeek的千亿融资，梁文锋的AGI野心 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1QzZvMktlbkZaTFpQYXExd0tTSTQ5cFUxdWxKdkNUSXkyWVZENS11OWI5algzVms5VjZIX2VPYVd5bDQwWlNlUkVDNkpYLTZ6SjZR?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T05:55:00+00:00",
-      "summary": "DeepSeek的千亿融资，梁文锋的AGI野心  电子工程专辑",
-      "categories": [
-        "other_big",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "算力协同·推理破局丨大模型推理技术与工程实践Meetup在京举办 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SaWU0d3ktRFpGNlgyd0g2TnphbmZ1XzJ2V25qLUNJcDJsRTk4TzA4UklTTVA3MGI3Y3JNVkFRaWRVMUN6MkFDTGlnTU14VmhuWlRTVjhLZUpGMEVhUHdrZE5ZM3NvTkdEQmV2bA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T05:52:41+00:00",
-      "summary": "算力协同·推理破局丨大模型推理技术与工程实践Meetup在京举办  中华网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "Claude新模型曝光：新Fable，新Opus… - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGxPVjFRZDY1dnc5X2k3ZkVObkZObmczSDRwTlZIbFpoNVVESjEydGdST0RWQ0VvSFJKQnVQTF91YnVidjFpZ3dCeEkxbmVET1Vsel9VT2lra25MYUhTUWdOcmREcEVMS0Rid2pEUnpITTFUX1BYeUlnazFUdURSbEpuVE1LOHdWYmRraw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T05:52:00+00:00",
-      "summary": "Claude新模型曝光：新Fable，新Opus…  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "基于AI本地化应用的金融智能体开发 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXEzMXpHZzlSOFAxbWdvcWRka2pBQXZMSW9MUUc3YUtHN1ljTVJCS3p0WkNwVTA0NUg5YUZiWlY0Z2pmQ2FiY2hEblNnRzdrcXpyLXFDSGg1ZmplTkhScHRIbDRLOTlDSWlUMUVwcEc1YmY0QzNtRFBlRXdSQmp6ODlPREZ0UWpj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T05:50:52+00:00",
-      "summary": "基于AI本地化应用的金融智能体开发  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "腾讯发布智能座舱 TAI 智能体，元宝上车打通 \"能聊也能办\" - 盖世汽车",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vMnB2RmYzcjA5OUZvcHczc3NhV3FjUmN0MUJCTXVLUXBhRnRWME1zMEU5Q09LQlptRVpXZ3BWRUg0UGdBMTZnRUxuR1dUNXZp?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-30T05:48:45+00:00",
       "summary": "腾讯发布智能座舱 TAI 智能体，元宝上车打通 \"能聊也能办\"  盖世汽车",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌重夺大模型第一，华尔街却不买账 - ThePaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SMTN0cFhnSmFKQU9GaEdibHhrZFhtQXUtalM3NFd3YTFOM2VyZVdXUFQ0WjgwTWp0TVJKbXdCMzZLUDAtTG5oOHBGTUl1a0Iyai1lSnM5ZjZ5RHAxWW1wZA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T04:53:28+00:00",
-      "summary": "谷歌重夺大模型第一，华尔街却不买账  ThePaper.cn",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "企业智能体排名与企业规模：三个档位看不同的名单 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTlGRUZqZHJXb1Nka19xR3JfalBybnVZTGdZMnpwOUxSLUo1Y0pvS1AwdkFPa2RWTnpQcENoc0MzemNTeGRuMS1PejE1MnRCeFhEX0x2STNuVVRTZDlpQkloTG5BeDQzUVdxeDNURDZqOVpMVXpneDktbFR4SWtsSHAyeEpmQlpk?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T04:21:31+00:00",
-      "summary": "企业智能体排名与企业规模：三个档位看不同的名单  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "双十一AI智能体电脑推荐 天选Air领衔四款32GB轻薄本 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTA1VDUtVTBlOWVTS2I0RXRteGpaZmkyZHljVFk3ZHoyZHBSLWZyVm1MWWtNWEY1Ui1uM0czR081OFNFTC1HV1VIUXdkT0czcXUwTW8yS3NZb3AtZ19kSUFYRzlabV9yblJzSDJ1VDh2cG1oQ2ZzOW1KSXB6d1prdkszWm9nWUUt?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T03:58:00+00:00",
-      "summary": "双十一AI智能体电脑推荐 天选Air领衔四款32GB轻薄本  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "从零到百亿估值六年，Supabase把Postgres补成了智能体能用的样子 - ThePaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLYWVDTERUX0xES2ZMZ1hFUE1Gb3hTRUs1YkhuamRhMDk1TkNBMmhXZU1sbzhwcC13ZEdLQ2Y2enpNZEs0c1FtRjQ0Vl9aeGR6cjdGamR6cEJaaDZkemJTOQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T03:50:35+00:00",
-      "summary": "从零到百亿估值六年，Supabase把Postgres补成了智能体能用的样子  ThePaper.cn",
-      "categories": [
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "突发，ChatGPT Pro所有档位额度，官宣翻倍 - 投资界",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZekZMT2xULWd2QkxzMmIyaHRIRW1WX2Jub1dmelRNNk5WVlBxbEJTcHR5UC1zY21WOFFXVlRyNXRzcTR2dGlJOEI1Mk1xa0g1ZlV1Wi13?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T03:50:00+00:00",
-      "summary": "突发，ChatGPT Pro所有档位额度，官宣翻倍  投资界",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "心言机器人发布具身家庭智能体“巴布”，售价9499元 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVNEdkV3LTBlNWRQNVN1SUVvMEJZemhXLWJZMFBzdjlDWTBKYWh0UXdsdDlTZ3EwdDRvUTc5Z2xpSVdwdVcwNTFaWlJRQk5lUUl6NE1zeVV4MWtKdUlCYjgyTnpJbUkzRmlaWkZUSHVCZk9IX0wwRWdreVFoX2RjcThpZmhxU2N2?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T03:34:58+00:00",
-      "summary": "心言机器人发布具身家庭智能体“巴布”，售价9499元  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4YzZJUjJFYkNfOTBHTjFIVHZHSHJQZWgxSkJfUFpYRkhZSFZTOENhX2NqWGhRSjR5SlBMYTZWeWFsV0ZZbnBhakVDREJXWUJ5WkVLQXZDZkpIek90cVdZUFVSZ0tqN01OYlNF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T03:13:02+00:00",
-      "summary": "腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口  汽车之家",
       "categories": [
         "other_big",
         "tools_apps"
@@ -287,37 +347,6 @@
       "summary": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划  新浪网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "四川首个可商用矿产勘查垂域大模型发布 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLUhWWlNicHhWNktYNTJic2RGTlYtSFptaFk1VE1SX1hLZi1IOXZKRjctY1AweFUzakt2OWVBaGJNbmEzOXg2UEFmaFVKWkhKTlBDcmJoNVkyYWNfNV91bExCSHhXS3B5ZnBNZlZzWlRKWEtZOEhuTGFRd2s5dmhQYzAzT04zT1U1TGswRQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T02:20:33+00:00",
-      "summary": "四川首个可商用矿产勘查垂域大模型发布  搜狐网",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "大模型定义芯片：XHEART发布X7 Ultra，可部署模型参数提升10倍 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZENvaDBVd25MNTE2bTFWRnZTYzhwei1jM0FwN19VRGQ5YUx5X2pZb05rQnpYbV9rMVFCMjA3cWFmM1NTWjkydGJOdFhfNnpKQWNzYUlGeFE1MC1uc0diVFR0N1k2UWhLU0NRQk5OYVEzRHdKVXFfUGcwMm1yb3dvVU9qRnlVekdo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T02:10:14+00:00",
-      "summary": "大模型定义芯片：XHEART发布X7 Ultra，可部署模型参数提升10倍  搜狐网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "Mistral AI开放Large 4模型权重：1T参数，编程智能体更省Token - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwSHJxemRmY1Roa09MeGdnOUhrNklUS0RNc08xck0wQVUtOVBjVHZpN3V4bWtvS2FJLXJ6NDZ3V1pqMXdUU0hjemdUanY?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T01:20:07+00:00",
-      "summary": "Mistral AI开放Large 4模型权重：1T参数，编程智能体更省Token  凤凰网科技",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     },
     {
@@ -339,37 +368,6 @@
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌发布 Gemini 4 Carbon，安全能力先开放给白帽子 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vemRQVGt1djRQTlBxM1JOYzNpQ3VqNDVVMkw2NE1fLVlKRDVxaDlsUHptTm5TMV9oYTlQcE80YWUxcmZKcTRVLXJvbjZZVzgwNTh6OHp4eUZGc1IwWVQweDRXdWk3dXpNNUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-29T11:14:34+00:00",
-      "summary": "谷歌发布 Gemini 4 Carbon，安全能力先开放给白帽子 - OSCHINA - 开源 × AI · 开发者生态社区  OSCHINA",
-      "categories": [
-        "google",
-        "open_source"
-      ]
-    },
-    {
-      "title": "700 TOPS参数！新芯航途发布大模型智驾芯片，台积电等产业伙伴到场 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oaG1pdkdWS2wzX2x1RWx4NE5FdXZpd2J4NndDWEM1QjFmSDJ1eXd6akQ4QkRDaTlWLWloejY4OUJHbTljWXMzYQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-29T09:55:00+00:00",
-      "summary": "700 TOPS参数！新芯航途发布大模型智驾芯片，台积电等产业伙伴到场  财联社",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "31岁华人女工程师疑按ChatGPT建议减药后死亡，父母起诉OpenAI - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQmlZNWVsc2ppbjhvTkxYMDVLT0owZEpkeDEtQ0RRbVdPS0xaYVB1YzRBbGU0c3lSdXlPaXRWUlJVVWhrN2pWRV9IeGEweWFWcFNIVmtLbWFGdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-29T07:41:00+00:00",
-      "summary": "31岁华人女工程师疑按ChatGPT建议减药后死亡，父母起诉OpenAI  上观新闻",
-      "categories": [
-        "openai"
       ]
     }
   ]
