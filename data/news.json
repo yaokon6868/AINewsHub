@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-30T19:59:51.957438+00:00",
+  "updated_at": "2026-10-30T23:38:24.317560+00:00",
   "items": [
     {
-      "title": "Gemini发布18个月后谷歌再承压，顶尖研究员流失推新放缓 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjVhVDNkbTI3WFFDLXg3S1N3elVsMEdsUnBjWXh4al9BUnJJWF9QY0NReHl3RDQ2RWRVektWekY4UGVnT194NmlZYmwxblp6U055dFI3RDNzbmRnY095Zi1XV2tYTkt0dUVLRnVjTW44UGNRSDNSRnFwOWdMLWlCbHNua0k?oc=5",
+      "title": "法国Mistral发布新一代AI模型 瞄准企业网络安全市场 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kdHlSeS00dXBfbkc2aXFFWlVnVUhyVjZDTVVUVFZpY3FGcXI3aDFEMXE0cVYzM1laQ0JFNUxFNnl4ZDc2V0JqOA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-30T19:40:06+00:00",
-      "summary": "Gemini发布18个月后谷歌再承压，顶尖研究员流失推新放缓  手机新浪网",
+      "published": "2026-10-30T21:54:07+00:00",
+      "summary": "法国Mistral发布新一代AI模型 瞄准企业网络安全市场  财联社",
       "categories": [
-        "google"
+        "other_big"
       ]
     },
     {
@@ -52,11 +52,42 @@
       ]
     },
     {
-      "title": "3.3亿参数打平通用大模型：垂直基础模型的算力性价比答案 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1FVSHJkTGhzLS1INVl2ZzlUdkl6OURwR3hkT19ORG1DaDNDanBxdmRoSDVoQVM5NC1rcXZtS0NUZDIxUDBLOTE1YTl2b1dncW0wU21BWDliYkVKY2ozaXVsd2FJRU1jcWlpTUV5X3ZBSmFTM2ZEV1FkV2JHMGgwbHdjMGtIZmVj?oc=5",
+      "title": "谷歌Gemini上线文件直接编辑功能，支持多种格式 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2NFaHdpOTZlU3A0YWtlTjZ1TnVRYVZneUFEalhTNFEzNktGN2ZrWkh2OW53Ni1vLUE5dmFkaVB3dm5yOEJMMGZsdkVvckxmUmdOc3o5d3lpd1FSZnJkM1Bkci1NU0ktZ1F4UUE0QS0xc1k0eUdBX3VFTlhZX2V4MEM4LUVrMmto?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-30T14:38:00+00:00",
-      "summary": "3.3亿参数打平通用大模型：垂直基础模型的算力性价比答案  搜狐网",
+      "published": "2026-10-30T15:04:00+00:00",
+      "summary": "谷歌Gemini上线文件直接编辑功能，支持多种格式  搜狐网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Mistral推出开源大模型Mistral Large 4，性能领先 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLTNJNlNaMlZqS3I2R0F0VlhQV3RTeGlpaFRldmRYcURqZlhsalhVVlVncnFtUTJJMjQ0M0pRZ3VKeVZNank5TElJWWdZalJGYkpOekFRQ1A5bnM3QjVTVE9sZm5BaVhEU2w1S3BIckZQN1MweXFxMzFhcUhSX1dMNm1hckt6ZWph?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T14:59:00+00:00",
+      "summary": "Mistral推出开源大模型Mistral Large 4，性能领先  搜狐网",
+      "categories": [
+        "other_big",
+        "open_source"
+      ]
+    },
+    {
+      "title": "让AI智能体成“金牌董秘”得力助手，这堂课不容错过 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SaE5JaGszSzFmSU9wMU8zMmVaakFGeVRxcTZKSGZPTEk5SkpWbjRCdDdjVUNTNXA5S2ZCeGlkZHVmc1Zod29zZjIyOWM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T14:07:34+00:00",
+      "summary": "让AI智能体成“金牌董秘”得力助手，这堂课不容错过  凤凰网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "8个月出货20万颗、拿下40+车型，这颗国产大模型芯片凭什么？ - 麻省理工科技评论",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80WEh6T25LOFBCOUttSHJETGdRcVYtSnFpTFZfNGxGZnZqYXg1UENJUEpna3FlNmpDOV9MZUxzTVhBWEdNZ3NSQWRubDBiU2x1LWRWYU5JQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T13:52:45+00:00",
+      "summary": "8个月出货20万颗、拿下40+车型，这颗国产大模型芯片凭什么？  麻省理工科技评论",
       "categories": [
         "chips"
       ]
@@ -107,16 +138,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-10-30T12:33:52+00:00",
       "summary": "聚焦工业智能体应用赋能中小企业培育新质生产力——青岛市中小企业数智化转型赋能服务工业智能体专场活动成功举办  鲁网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "让AI智能体成“金牌董秘”得力助手，这堂课不容错过 - 新湖南",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lRnN3ZTdtdWVYODdYc1F6OWxRWUJGdU4zaGdZdXB4ZFZTd3VLeV9lNHhyaU42cllZY3ZPWXFTSGpacTlDeWxpR3BteUlXMlNBOVRRbUw4N0d3aWRmZ2RV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T12:23:59+00:00",
-      "summary": "让AI智能体成“金牌董秘”得力助手，这堂课不容错过  新湖南",
       "categories": [
         "tools_apps"
       ]
@@ -173,6 +194,16 @@
       ]
     },
     {
+      "title": "面向教学创新的智能体设计——基于WorkBuddy的教师实践工作坊 - 西南交通大学新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fU3lqTFpHcXR1ZlhrVldMVms4LWdiUHVRUW1LNWtEVVVDY3U5REVoeS1Dd3ZKem9OTEJhc1h2M215enNQa05uRk9ha0xZanNldTk0cmcxVEUtQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-30T10:25:58+00:00",
+      "summary": "面向教学创新的智能体设计——基于WorkBuddy的教师实践工作坊  西南交通大学新闻网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "OpenAI重写大模型法则，第一条：忠于人类！！ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNXUkhid1MxczFHYXRCMEU0cWlQc2VYZFVRRnczbHlla0FlYTlOTmN5UXFVOWd2NGtQVzVHSHM0UXRjZ0NtOHZVblljb2FuQlVJcTVfeDV2Zm94TXRBN2g1ZmhkMlBvZFBRNDZGVUNDeG9YU3NyUXdTYWVpNk5fY01fV3BEZVJKUGFJ?oc=5",
       "source": "Google News - AI(中文)",
@@ -193,17 +224,6 @@
       ]
     },
     {
-      "title": "360图龙锋登顶AI安全“世界杯”CyberGym 打败OpenAI和Anthropic - 央广网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wWFU2aU1xRlROdEctQ0ZxZUozUlQ4UGFnanU0eUtnN1EtbF9sU09YRW1oaFVlSW1BT3p1cVQzcjdhTlgxYWMwOGlwV083VVJvZFp1OFdzbnlXMFJsSGVLTmY0MVBWa0pFaXVrM2ln?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T09:40:32+00:00",
-      "summary": "360图龙锋登顶AI安全“世界杯”CyberGym 打败OpenAI和Anthropic  央广网",
-      "categories": [
-        "anthropic",
-        "breakthrough"
-      ]
-    },
-    {
       "title": "千峰访谈磅旗科技：用“AI智能体调度+机器人集群执行+RaaS运营”让工厂轻松迈向无人化- B2B - 亿邦动力网",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYmgtWFZwUXE0ZjZsLS0yeGJxdmNRMGR2MVphdlM3cGRmVkpNdmpvTS1tU2xFTW1MODFwUHFFdnNTVG91M3JaZ1dTVEh2VlZ6U2wyb3JR?oc=5",
       "source": "Google News - AI(中文)",
@@ -221,26 +241,6 @@
       "summary": "【每日瞰AI】OpenAI宣布ChatGPT Pro全系额度翻倍；上半年中国MaaS市场达106.3亿元，火山引擎以45.1%份额位居第一  电子工程专辑",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "深圳市市场监督管理局关于发布《人工智能工具应用中的商业秘密保护指引》的通告 - 深圳政府在线",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fU2lFbnk0b1VCYVBhczJ4ZnBnY2lmM1lwbmZOV04tNHhOemFkY1QxRzcyVmRLR2VBa1hQR1pfMlZGWUJKQXd4d2NCeVpqOVdNLXZWWEl4RHRzZjg5WGRvM3luTWdmaXVnZ3cxcV9GQUNqb1NjcDhZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T09:09:00+00:00",
-      "summary": "深圳市市场监督管理局关于发布《人工智能工具应用中的商业秘密保护指引》的通告  深圳政府在线",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "电商晚报：Shopify联合卡组织推出智能体支付技术适配AI购物代理结算- 栏目 - 亿邦动力网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rRnQyRjdZTFoyVmVNbWdoWGtJNlZtWW1CN0lyU0xmZzZVdjR3YU5ZT1FJWmVjcnpqQmhxYXhLODZWQ2VNMjBRaUtEX09TNlNwTjlZVDhB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T09:00:01+00:00",
-      "summary": "电商晚报：Shopify联合卡组织推出智能体支付技术适配AI购物代理结算- 栏目  亿邦动力网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -328,11 +328,11 @@
       ]
     },
     {
-      "title": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHRHQWV5VDhmZU1kbzdrSlVnM1d3dENmRkNpajdWeXFCaEFvV3pHeDJYZ25NTDJzLUlmWFZBVHVmbTlZUGl5aUJ1ekszVjhmOWdPVWY4bVNfRW1KUjJfTGg0Ql90NnVXUDNTTHRpNHB6Q2dtZG5lN2s4ekpyVnlPUG9Vc2xZYW8?oc=5",
+      "title": "OpenAI上调ChatGPT Pro系列额度 Codex与Work用量翻倍 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hdDdreDdqUEp0THpESzNpX1V4UFA5QWlvV2JzWFZlSWhaNUNvZWpVX1lvUzJpWlRKN2MzTHFfQTBPWjhkcGwyUA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-30T02:25:37+00:00",
-      "summary": "OpenAI“服软”：ChatGPT Pro 订阅用量翻倍，取消 Pro 200 砍半计划  新浪网",
+      "published": "2026-10-30T02:22:42+00:00",
+      "summary": "OpenAI上调ChatGPT Pro系列额度 Codex与Work用量翻倍  品玩",
       "categories": [
         "openai"
       ]
