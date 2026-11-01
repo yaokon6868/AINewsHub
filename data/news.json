@@ -1,15 +1,169 @@
 {
-  "updated_at": "2026-10-31T23:09:49.797213+00:00",
+  "updated_at": "2026-11-01T02:28:22.948248+00:00",
   "items": [
     {
-      "title": "DeepSeek发布最新Agent架构，让AI指挥AI干活 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN3BCeWxsWm5Bck9uVjFLNjVKS1g2VzFQaUk2dEV2aFlIZFM0OFVjRURQTnp6ak9tQmlIdldDSUNCbC1OWUF3QUhLdlBEQ1dxMnU1T0l2bzNsZmI5cWtLMHltVnpuWGJNNDljV2dqbUxQNnYtQndBNVRGaGp0c3RSeG5CUGJkMkRCOGhUTA?oc=5",
+      "title": "【视频】强得可怕，超级智能体迪迪虾已上车 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oMVlIUlA0eHZuRzhIeWZVM1ZBY0dYbVVRakM0cW9vbGN2YklIalVpSTZ3c0k5ZC1rRF9rN21QckVOY1lsXzQxQ2J4UWNxeUJOdDdwcDkzMVdzMUNBX0ZfZ2xiRlJwNkhFR1N3?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-31T22:53:22+00:00",
+      "published": "2026-11-01T02:21:19+00:00",
+      "summary": "【视频】强得可怕，超级智能体迪迪虾已上车  汽车之家",
+      "categories": [
+        "tools_apps",
+        "image_video"
+      ]
+    },
+    {
+      "title": "海外观察｜AI正在改写SEO：零点击时代对公关意味着什么 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIZk1TTUl4YlRkNEVCZGZRQTN6NW1nUWNLTDVuTmhyNUUxNkRfYWFqTlVUUVRja01aM29hcVlHRnBpc052TEFNVmwwdXFsdi16T1dhdm5MaTZ3V09WZ1h2ZzZrR2NJcHhsOGl6ZURjTkNpS1o0VlRkQkhzQ0Y4TFU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T02:18:45+00:00",
+      "summary": "海外观察｜AI正在改写SEO：零点击时代对公关意味着什么  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI危险吗？顶尖科学家在沪揭开“技术面纱” - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbldiT0Z6YWdNeEVUeDZNaUxWME1wWXFFZHVwTlhHVWJtQTJUYUsyeU0xMXpMZVR0U1JUQ3BBWkpITzE4d0Z6QUlZQ2J6MDNYVWNXUElQYzBXSEgxaVhjeS1TTWlWMjRWbGU1RUJkWFlCTDRKLTNUWnRkZmZNdDZ1Z3Zn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T02:13:06+00:00",
+      "summary": "AI危险吗？顶尖科学家在沪揭开“技术面纱”  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI首次介入美国中期选举 影响选民认知与政治倾向 - 中华网",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNjRBTFc3NDJVdFFKb2plY3BUMnRQMm9yb29GT3c3cEFQRHZ0dlBoWnh0Y3dHTHBJb3gzRkZJWVRKRkQxbllrV2Q3Z1pLSE56Tm1Mb3o0RDVHSnI5WS1ncnl1amZFTlcyRjVHVXdwVEs?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T02:09:21+00:00",
+      "summary": "AI首次介入美国中期选举 影响选民认知与政治倾向  中华网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "OpenAI宣布ChatGPT部分任务将与Codex共享额度 - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zOXhoWU0xWUUyY2FrNTRUQlk4QjhkaUxDSGRtTFNJUnN2WThFTE5KYjNMSEpnMkJJNXFsdDJrc3lqaEFTVUZXaElybVk0ZjFqMlpIMklKSm8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:56:34+00:00",
+      "summary": "OpenAI宣布ChatGPT部分任务将与Codex共享额度  36Kr",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕 - 财新周刊",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oR004U2l6aVpUZmdfUHpKVHRJbVVPaERBRmZHMHh1OVJKR3czSnlJUl9LdzdJNXRsQklkUEdyZk5jWFNVYmFtSVVGTnJKSlprZHFsNUp1czk4c0U3NUx6cw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:50:54+00:00",
+      "summary": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕  财新周刊",
+      "categories": [
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "DeepSeek，怎么就变成了一条「大肥鱼」 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40Vkp2dE5Ubm5Uc3FTVEhPZFdqX2FQd18wMzZMV2ZoclhLZjBSSjBRZUlOVzBkSTF3aFdjUzN1UXpzQ19HYzNnc3FGTFM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:50:33+00:00",
+      "summary": "DeepSeek，怎么就变成了一条「大肥鱼」  极客公园",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53WHpQckVuYmJSYkhWWkpjQWl2MnZ0b2Mzel80SGt0bmVYVFZEd2RxaDVwZXVVM0lJMktUMnc0T3NlbWl0QVBydg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:40:00+00:00",
+      "summary": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek公布下一代agent harness理念 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rZEkxd0toWW5FQ0FybU12VnZ2MUViVWpLWHFKcF9tMW9vS29vRXpCN0VRSm42akQ5eGVDNzRSc2dIMjZwcXFYMGhncUdtYUtSUnlv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:37:03+00:00",
+      "summary": "DeepSeek公布下一代agent harness理念  华尔街见闻",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "DeepSeek发布最新Agent架构，让AI指挥AI干活 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlBpN05WTmZCa1VJOERIQ2ZDSXFCdGY0UUxUeFptamVfYUdfUC1hYXRwZmNHQU1zU0MtWkVMTkVzSVhMR3BOaHdzemV6LWYzUFI5RUZ5UHVRT2pYTHktZDIzSm1lTmY5Vkc0R2EyWGRqaExyOU8xNXhpVmFhdkRnV0hLTTAwUGM0bTdmcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:32:00+00:00",
       "summary": "DeepSeek发布最新Agent架构，让AI指挥AI干活  搜狐网",
       "categories": [
         "other_big",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hWWwtdjF1dEp4QkpMdjIzZ0pYanRfVl9YX0o2ZVNSYnZqU3kwR2tXeDg2clpfdXlhdHlwdmZpWFNsRFdHeTFZMg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T01:00:00+00:00",
+      "summary": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVljcFZlUEJmS0p5aEZ0SXhtaGJNYWtKazctMFZ4TmEzWkc4di1NS05XbGk0SzRPV0dJLWc5LV9rRDRvQk51SXBpZEdsZFhiOThacmJBRWplZG1UUXRmbGRnSW44RHZCSm5oeW1BYWlpZkd2ZlFvbUx4ZWVEVXdCd2swalIwTzhhSjhOcA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T00:51:47+00:00",
+      "summary": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造Muse 机器人 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56ODVBSEM3OUZTRFhoT3dTNTVKdDF0Wi0yZjhaZjhDVThKNXJISmFmRFZreS0zZ0tQX0h0Z1RpS29NZkdZcTA3UlRrbVI?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T00:34:11+00:00",
+      "summary": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造Muse 机器人  极客公园",
+      "categories": [
+        "other_big",
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "3.3亿参数打平通用大模型：垂直基础模型的算力性价比答案 - ThePaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ra0dsZzRvbTJjbUM0Q2hXVFViTXFtVkVtbzdmNDUzckg2cS1ZQXp3ZkdsOG4zQ3pBdGJSbEc3M2l5bExJNGNZWHdfd09oRm5XN3hIX2tkbWhaT1d2MHNwZg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T00:27:30+00:00",
+      "summary": "3.3亿参数打平通用大模型：垂直基础模型的算力性价比答案  ThePaper.cn",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "AI推导出「外星数学」！38年无解混沌难题，被GPT-6联手Claude终结 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNW9BRVpZYVFGWXE2MkFQYlFNN1p0OGJFamsxdzF3U3NCUVNsczJUcFVfNjBHV3dqTktzVkY0Z3RPVDZ3d19UZl9Kd1hremE0T0ZBeEVIdGFZb3JRVlRvX1ZvUU9qRlVZSjBHR1B6VjE2dWxDRGx3cDVsSXMzd1piZV9tVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T00:10:00+00:00",
+      "summary": "AI推导出「外星数学」！38年无解混沌难题，被GPT-6联手Claude终结  手机新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "4万亿大模型芯片市场，跑出中国王牌组合 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQODFJdWxlZ2lpekZDWFNwRTF6eEM0SF9Fakw0V0dPcTRYSl9WdDVBX1NVOXU4UjBQUjFlY1dxaVRwSDRGTC1QZDgtNzdiRV95cUM0RVlWcEZNcmRyQlJDU3hoNGQtZTJpVUNTZzNuOTlRbFZTR3pxMUh4eTlOWFJhVFEzQWo5OW9H?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-31T23:13:00+00:00",
+      "summary": "4万亿大模型芯片市场，跑出中国王牌组合  搜狐网",
+      "categories": [
+        "chips"
       ]
     },
     {
@@ -20,16 +174,6 @@
       "summary": "Claude取消5小时限制套餐大战换挡 Claude取消5小时限制，大模型套餐战换挡  搜狐网",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "“隔空取物”，通信将不受天地限制，万物互联也能更安全……2026AIoT产品与应用展“看点多” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44UzJsWUJabktRZ0xNUmhaZGZ2X1plcnZWWl9TYnBGelRHQnpiNEpQWlktTWF6dkhpZ0xFYWIzakJSZG0tRmRPd1NWS0ZGRVBnRWYwYUJqa0NtR1d3dmJWVmNJWE0yMWxsM3BLd3l1aHd3cnFpbXJHOE10Y3RvQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T22:14:00+00:00",
-      "summary": "“隔空取物”，通信将不受天地限制，万物互联也能更安全……2026AIoT产品与应用展“看点多”  手机新浪网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -46,13 +190,23 @@
       ]
     },
     {
-      "title": "努比亚手机怎么样值得买吗？3个维度说清真全面屏+AI智能体+FAQ - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Fbm9teUNueno1c2t6aXJVVzZsS3g2dnhSQ040OS16UDdpVDVrb1hfVDlZTmlxcTJTTnhCWUxWQWllZWpTRFpWUTdFN1JQdEt6M3BtWmZ2QUdHTGYyc2c4?oc=5",
+      "title": "上汽集团与XHEART围绕700TOPS大模型算力芯片开展合作 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BY1lLRXV5enNYOHhoblY4UENBd0M5c2N2ZlNZWlZsMzEyUWhqTk5rWnp1NHNULWtobjRWSkV4RWEwQUg4Vm9XUlY1QWloZEpTQWc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-31T16:42:41+00:00",
-      "summary": "努比亚手机怎么样值得买吗？3个维度说清真全面屏+AI智能体+FAQ  手机新浪网",
+      "published": "2026-10-31T16:45:17+00:00",
+      "summary": "上汽集团与XHEART围绕700TOPS大模型算力芯片开展合作  搜狐网",
       "categories": [
-        "tools_apps"
+        "chips"
+      ]
+    },
+    {
+      "title": "AI开始亲手打造下一代AI！Claude“自我进化”时间表提前至2027年 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oOUFrRF9XX25hazNaMGZmVF9pQVZPMWo5YXR5RWppRWlTVl9VU0J0d3hnNHNEVkhfOG9KOG9TWm41MG40dWhJQWVSUDU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-31T15:14:27+00:00",
+      "summary": "AI开始亲手打造下一代AI！Claude“自我进化”时间表提前至2027年  凤凰网科技",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -67,24 +221,14 @@
       ]
     },
     {
-      "title": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02VDRyMVNuckM2TGxtTnlqQ3NZTlBMcXVFS1B5cExKVEdyQ0x6aThpaTZXOTFZVmJxVGQyWlRGQVVFYlFELWR5SlV5OUw4MWE3cnJIall1bw?oc=5",
+      "title": "DeepSeek提出Super-agent架构设计：Router与Worker双层架构 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92WGU0M01FaFBrUG5rQWFEbnlPa2lUdVRLWTdZdm5sd25heFlKZEl6N25EYmM1U1U4bzNkSlR6Y1YyaXN2YjdaQUlzRjQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-31T13:50:02+00:00",
-      "summary": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统  光通信Pro",
+      "published": "2026-10-31T13:37:32+00:00",
+      "summary": "DeepSeek提出Super-agent架构设计：Router与Worker双层架构  凤凰网科技",
       "categories": [
         "other_big",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "马斯克挖走Claude最强“产品大脑”Jenny Wen - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdF9rSUxrMEpTRGRTaEI4TGwxakRySHRHellZeXo4X2VFQ0ZKTTk0dkI3WG15S0laa3ZXeVNIT2xCR2hDV2pnVDhTOXdpQTBKZFZ0RWtTNU9VdlFXcFh0a1llRzFfWGhoSTF6V1J6ejl2V3l2SkxDMVBaQVlBa25qdVVmZ0hoLTc0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T12:52:15+00:00",
-      "summary": "马斯克挖走Claude最强“产品大脑”Jenny Wen  搜狐网",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -98,11 +242,11 @@
       ]
     },
     {
-      "title": "腾讯智能体WorkBuddy累计完成90亿次任务请求 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFJsc1ZjWElyU1FaSVoxa1RXelBENUdvTDVWMWdsRW14TVFHbm5mbEtpNlFVbVFfNU91QkFJNl9OMnZ4Tl9VMW1EYnJiM1hoN3htVk5qUnE2MmRvWW1RVXhTUl9XdlAyS2hobURRcDBDTU1SZU1kdndxNWlSS2ZYOWlJT1kzWkVVSDNZaA?oc=5",
+      "title": "腾讯智能体WorkBuddy累计完成90亿次任务请求 - http://www.jingjiribao.cn/",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0R3NFU05mT1ljSTJjeHptSVM2clZmR0ItV0RlT1ZWMXljQ2tqVHlJUXlvZmNDaXNmcVZldlRaRlhYU1NUeFM1eGVTUlM0UFB0N0tBbmRSOUtYRXp6TzVlOWdUQQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-31T12:00:47+00:00",
-      "summary": "腾讯智能体WorkBuddy累计完成90亿次任务请求  搜狐网",
+      "published": "2026-10-31T11:48:24+00:00",
+      "summary": "腾讯智能体WorkBuddy累计完成90亿次任务请求  http://www.jingjiribao.cn/",
       "categories": [
         "other_big",
         "tools_apps"
@@ -119,27 +263,6 @@
       ]
     },
     {
-      "title": "【视频】跳出芯片旧思路！XHEART新芯航途大模型造芯，国产智驾能否突围? - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fdzhxQjNMS0NiV0RmLUhBQ19TU1dPRDBzdWdtMWZXbWRMbVgyWjNnc1dKWXRld2M5SXNKd1FCWTh5Y2E3ZDRxay1hU3hVWTVhMjJCNlhHZXpiaFE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T09:21:32+00:00",
-      "summary": "【视频】跳出芯片旧思路！XHEART新芯航途大模型造芯，国产智驾能否突围?  汽车之家",
-      "categories": [
-        "image_video",
-        "chips"
-      ]
-    },
-    {
-      "title": "ChatGPT网页端及移动端上线多账户切换功能，最多可同时登录两个账号 - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNnE3dGZ3eXAwd280elJyVVF1cERRblJJRkJNN0NGS2VfLU1JQXA4dnk4WUg3UFNRbUZEOWg4VXFLU2JRamtFVGpnTDRFQ3Q5bGVwZm9lNkM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T07:57:03+00:00",
-      "summary": "ChatGPT网页端及移动端上线多账户切换功能，最多可同时登录两个账号  36Kr",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "【视频】大模型能定义芯片？XHEART新芯航途发布X7 Ultra，能更好适配？ - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjSFJMOWF6Ny1zaEtpMFpaNTBpaEd0UHo4SU9JZW5nQ0FqVUdNdU1LNHRlWHBUamdERVlrckpoejhsNF85TGJHWENIZEJrUXdSZzJHLXA1SW43MVU?oc=5",
       "source": "Google News - AI(中文)",
@@ -151,23 +274,13 @@
       ]
     },
     {
-      "title": "Anthropic出手：Claude Opus 5.5不再帮你“AI复刻游戏” - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9weno5VVNnNWcyNE5BVHRteUdVdzFfaFpqbWphOWFXNFZMNExRbGJtcHZYZGRNWnBkWnN0NloyNmJBa055dW91dngxQUo?oc=5",
+      "title": "不用反复退登了：ChatGPT支持多账号切换，AI工作号/生活号不再打架 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxaTdBbVZZcjlrVDlfUTUwbG85QS1hdl9KazRCUU1UdVJsc2sxS0F6WVNrRWVMMkpSQjgyNWhpMVY1dllTeVVXVmdpZks?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-10-31T06:31:23+00:00",
-      "summary": "Anthropic出手：Claude Opus 5.5不再帮你“AI复刻游戏”  凤凰网科技",
+      "published": "2026-10-31T06:15:16+00:00",
+      "summary": "不用反复退登了：ChatGPT支持多账号切换，AI工作号/生活号不再打架  凤凰网科技",
       "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "中国“慧眼”植被健康智能体发布 深度结合人工智能与空天信息 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVE42UHpsSnpwMHl2azA3bE1oM1VNRkYtWlhpNnRWYkgyNDZSTXZtazJlckRHd0hweVZJM2NvQk5KWXNLY0Y1Q3NRaXFzQUFrWGpxZUdfVlRaaUFSNXFnV0o5UFpDV3lNOGlnVWVwRmU1bTZucGRjdlpFdGlkRnljTmlMNFp1X2dNckNCNg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T06:28:00+00:00",
-      "summary": "中国“慧眼”植被健康智能体发布 深度结合人工智能与空天信息  搜狐网",
-      "categories": [
-        "tools_apps"
+        "openai"
       ]
     },
     {
@@ -192,36 +305,6 @@
       ]
     },
     {
-      "title": "“大营裘智”AI智能体 从灵感到成品一键搞定 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fN0tJZC1udjVJRWdhbXNNRWtQUVBtQXM0dnBQcC1iaHI3RU9NdjVDZFlWYXJMUndqemJXXzhacTIxQzh4ZTctag?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T05:01:10+00:00",
-      "summary": "“大营裘智”AI智能体 从灵感到成品一键搞定  凤凰网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "难怪Claude突然封号！Anthropic自曝：你聊的每句话，它都在后台悄悄举报 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1hZV1Z4cTZ0NnFZanpYcjd0M0p2aUNqTHNFaGNQYmIxYk9YRk1Fb0FadDZCUktRa0J3SlRJdGNyV05BOHJMSVBYTjRKZm1zdXk3VVRUZTZOaktpRk9KbHZCMmE1b3lqZzZmMDkwdS1HY3E1N1diSVVrUTYtUWtTQzVfRUJFQWdF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T03:55:52+00:00",
-      "summary": "难怪Claude突然封号！Anthropic自曝：你聊的每句话，它都在后台悄悄举报  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "逛展、出行、通信……AI智能体组团“上岗”进博会，记者实测，不会迷路了 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qQW9WaEoxcGVsSkhjMkRCLWJzeWlpZTVQWFE2ZEJXaWJvWW01NnNNTEhEOUhvWXZMVWM1XzNzWVN1bC10Z19QOUpMcVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T03:42:54+00:00",
-      "summary": "逛展、出行、通信……AI智能体组团“上岗”进博会，记者实测，不会迷路了  凤凰网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "Claude官宣取消5小时限额！ChatGPT负责人：最好宣布28天重置期 - 智东西",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yQXg3NFJOTVQzR0duR3FyWkxtSms2OTdpWFJiQnE2VjBOWTBFY2ZWOFY5YmJERG1Ma2VyeE42VWtDSW9CSkJzbQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -242,66 +325,6 @@
       ]
     },
     {
-      "title": "今天起ChatGPT Pro额度翻倍 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0ycmVmVUxuMlNRbzRQb09rUTZYbG9WRkQtVE96UGFYN095YXpMNUd2TFJ4dGw0RUdlMGpqb3lZS09UYzczQzdMUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T01:40:00+00:00",
-      "summary": "今天起ChatGPT Pro额度翻倍  智源社区",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "聚焦工业智能体应用赋能中小企业培育新质生产力——青岛市中小企业数智化转型赋能服务工业智能体专场活动成功举办 - 青岛新闻网",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRHE1M0Z1Y2tqUXg4VzgxSzdaS2thNWotVDVsOTB5YTFUb1k2c3JxSmE5OWFEMnptVVFJaThlTlQ1U3kwczlhSkhQcFF5YlVBSVZCZEZEVmZrODlBNVJ1U0VrSjlib01XcGFUalBwSnI4Wkpnb2E2c0Zocw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T01:23:58+00:00",
-      "summary": "聚焦工业智能体应用赋能中小企业培育新质生产力——青岛市中小企业数智化转型赋能服务工业智能体专场活动成功举办  青岛新闻网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNLeXJwQUlTeXlTakkzbGNZdTVXN2k4bHZoUmlpMUI5QjJLazBrSnJxdlExRlFHZXNjcER1VkxWS0NwS19KOG9Xd3JxQVAyS2U2TmJLX2UyV0tacGdMVVVoeUUxeEdoZUVpS0ZvWWctbEJLZ282Wk8yTEVoM2xBRG53LVNpTHJD?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T00:09:38+00:00",
-      "summary": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlotSEg5TmJfeDF1NjdEUHZUNTRCaFJLa2plNXRLTDhrR1pLb3RlUU9yblQwTWdSZUxUVzVRVlpHN291ZTVkSmg3MEVlYzZPeUlrWWk5Rk8wMHlyYy0wWjBjS0tKbTZWTzhWaDVlRDBmZHNzLWd0UWd1Y191UHk0X0V2RFNoU3k3V21KbQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T00:06:42+00:00",
-      "summary": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消  搜狐网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "铜梁：加快推进“龙小天”气象服务智能体建设 - 华龙网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtMlRDYmpFdDJkZWtXbVZBeE52RFJDTWs3NjdBRTFXbGtPQmJpTkpCaDlpSnRQZ3FQYnkxa1JnR3FzRnA0SFdOd0VaTlB3em95N01MYUx1TXJGTnF6V0t6TWs5VnAycTk5TEhj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T22:30:43+00:00",
-      "summary": "铜梁：加快推进“龙小天”气象服务智能体建设  华龙网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "新芯航途发布X7 Ultra芯片 “大模型定义芯片”理念实现产品力转化 - 央视网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Um5MRndiRkNCLXNyWlRfV3VlTFFSXzJ6MUdWS2tsc0h6VnRVbFNxaDJQM1g5VzNRRkdVU3NYNHlfVnFvTUd2UzIteF9pejZ6aEE5WFFrSnQ4djBVNS1GRjlPeHNRWkM2azYyWXJTX1F5T0ZxOVExXw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T08:33:57+00:00",
-      "summary": "新芯航途发布X7 Ultra芯片 “大模型定义芯片”理念实现产品力转化  央视网",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
       "title": "谷歌发布Gemini 4 Carbon重夺大模型第一：Artificial Analysis智能指数力压Claude Opus 5.5与GPT-6 Astra - 电子工程专辑",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GWnVhQUUxbEZ6ZkFqN3I3VE1nYVN5OWU3RC1meExEWlM4cTY5M1UwYk40dDJFTkkyOEdvNUZOd3RXOGloWjVDZXJmZ0daQUhYSFBDa3BldjNKcXp0?oc=5",
       "source": "Google News - AI(中文)",
@@ -309,27 +332,6 @@
       "summary": "谷歌发布Gemini 4 Carbon重夺大模型第一：Artificial Analysis智能指数力压Claude Opus 5.5与GPT-6 Astra  电子工程专辑",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "“大模型定义芯片”落地：新芯航途发布X7 Ultra，加速规模量产 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WS1XRlk3NkV1MWlxai1EQ3QxRlFaNklSQnJsUUhTalBOR0xkZEdQNkJqZHgzLXVJVlJBTVBFcXNTMHAxRVFER3ZuVnNQY0xicDNJdXZXb1hJdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T06:01:00+00:00",
-      "summary": "“大模型定义芯片”落地：新芯航途发布X7 Ultra，加速规模量产  上观新闻",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "腾讯发布智能座舱 TAI 智能体，元宝上车打通 \"能聊也能办\" - 盖世汽车社区",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TQ3FMZ0puLWdQZ21EcExpSFNUa3diS1djVFprMXppX2FudkJUQkV4ZDFlWEFxVi1kcTZ5ZEVuY3VSTG13ZjUtU1RFa0JvUVBV?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-30T05:06:30+00:00",
-      "summary": "腾讯发布智能座舱 TAI 智能体，元宝上车打通 \"能聊也能办\"  盖世汽车社区",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     },
     {
