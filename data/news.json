@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-01T16:38:29.706954+00:00",
+  "updated_at": "2026-11-01T20:59:50.238522+00:00",
   "items": [
+    {
+      "title": "Google Antigravity 使用教程，从零上手智能体协作开发 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMWZTWnhVdTBLSGhnWjRjMWp1Qm1UY1NndHFYY1c1T1RRdm9YZDNES3M5UFF2ckYwdTNhVjBiNVF2eVRCZ2x2c0RORW91TDZaelRqb3V2bmd3dHNkeW5uUENYMXo0NFpOaDJ6V0xLbm53WWhaeVMtRFpyQ2oyT2FHOHl5cmNfTUp3V0xacnNXZXplX21k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T20:41:26+00:00",
+      "summary": "Google Antigravity 使用教程，从零上手智能体协作开发  Pasquale Pillitteri",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "合肥出台25条措施，推动智能体创新发展 - 凤凰网安徽",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3NUg1c2hESnBZb1lXenJoN2N0enY3YS03TDRxV1lEdmdlaHFQY1hSU21uQ3FJcnRsejFKY0pkWUxEYkFXWUtMRmpB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T17:49:00+00:00",
+      "summary": "合肥出台25条措施，推动智能体创新发展  凤凰网安徽",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "马斯克挖走Claude最强“产品大脑”Jenny Wen - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yWmhQMHN2djd4aDlyOW5vbGxPaUpiaDZyaUV5SlBjN1JZdENqR0lxMm5RZkE0a1ZzeE1raE1ESGZ6bTNKZE5MNQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T15:10:00+00:00",
+      "summary": "马斯克挖走Claude最强“产品大脑”Jenny Wen  智源社区",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "DeepSeek提出Super-agent架构设计：迈向更自主的Agent系统 - Pchome电脑之家",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4R2VMclh6Q2p6ZHJsRDBtT1JMdW92VEZUa09jalRsV3V2T0xYS1BJNWNlZXZmMkNwa2xxeV8xMXduWXBPbzJBTEFCR0FRV3dwMDQtTA?oc=5",
@@ -14,23 +45,13 @@
     },
     {
       "title": "【视频】XHEART X7 Ultra发布，一款大模型定义的芯片！ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiclJsa3AwZThuYjBueFd3WFlRSHRxR0JsYWZmaWtVak1UdVBYWlNJcUZ5OTlJcHRtS3poT2k4eXhMTjFCWXo5bWZuRDJWeUFwYjFOaTlYR1E2N2dnSjVVcWZ1WDJFTkJmZko4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44T0IyRVVaRkc3TVRQUS1TLWgtN1Zwc3hwQm5QX1ptMmZjXzdSX0oxVS11LURRWi0zdjNHLVZ3LWpWbmo5WkZodEhrczIyME1QVkYyd2RUUjFNVVU?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T13:45:54+00:00",
+      "published": "2026-11-01T13:45:57+00:00",
       "summary": "【视频】XHEART X7 Ultra发布，一款大模型定义的芯片！  汽车之家",
       "categories": [
         "image_video",
         "chips"
-      ]
-    },
-    {
-      "title": "当Agent遇上猪队友！实测多Agent冲突场景，前沿大模型如何应对 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ST0swNWpybE9sVmc1b1Z6b0pOdWE2QlgyMVAzM3NsNEJQU3lDMzZUR1RCSUVKLTlIWi1IMEFXODhHSHp2dkpRWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T13:30:00+00:00",
-      "summary": "当Agent遇上猪队友！实测多Agent冲突场景，前沿大模型如何应对  智源社区",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -44,23 +65,24 @@
       ]
     },
     {
-      "title": "刚刚，Claude每月200美元套餐取消5小时限制 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlpfc1VrcFpqSG16OFpuX3Y0cTh4UVRYTTF6LURwNGJvVG1NRk1ONXYtUWF2dFQya1hMRXltaFFyaEVjN0RTT3NZRW55U1FyWjRYQm5KWmYwZ2NxUVRnbzFweDNxZEQwXzlZNXF1TDFnVmxxUk13UmtsWkthVXZvRDJIM3Z3OUNZ?oc=5",
+      "title": "Linus Torvalds 使用 Claude Code 编写 Linux 内核：这项实验揭示了什么 - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85TGl0YnFQbWZDUEVrM21hOXR4a1ZLdk15OVJZYUUyVGJlM1RfdDgwX3hNNFlnRUE3UEpPc2djQVBxZGlPaE0zUXBTTlhUN084V3pHYjg3enJnM0Rrcl9OMFRHOTRSWVRHdEMxeVZ2bw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T12:51:55+00:00",
-      "summary": "刚刚，Claude每月200美元套餐取消5小时限制  搜狐网",
+      "published": "2026-11-01T13:18:00+00:00",
+      "summary": "Linus Torvalds 使用 Claude Code 编写 Linux 内核：这项实验揭示了什么  Mezha.net",
       "categories": [
         "anthropic"
       ]
     },
     {
-      "title": "“链上鲁渝”大模型专场产业协作对接活动在渝举行 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYi1Oek16Z054ZmhoLWdDUktTTVhsUUxQR3E2Vnp1aFFqcDRuQkdQVk5UX0xoNVI1T1Z1U1VfaUZLN0VjYnZ6emwzLUd2TXlzS01vMnA5bVpGRklxcEkxZzdUdUNkQ0lFRW9PVzFpbDVRUzliRWc2ekY2TXN2cGZ4V0d0TDBRaWFva1lWZQ?oc=5",
+      "title": "OpenAI计划采购Google AI芯片，拓展Nvidia之外的算力来源 - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV253OEdaN09QN3M2cWVYZEFmVmZFU0xGcDRiOVplM3BNV2xlazJGY2pCZ2QyV0VVNl9OdHNNTTJ5c1UyemctQnZhSHNEOGdOclFYanhQdWRxWWpzMlBjVFdZVGUzenBZYllzYllPbG16QjU1R016RUt3Wml5bWFWU2NFV09mQXlwRDg2TXZLZUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T12:19:01+00:00",
-      "summary": "“链上鲁渝”大模型专场产业协作对接活动在渝举行  搜狐网",
+      "published": "2026-11-01T12:24:00+00:00",
+      "summary": "OpenAI计划采购Google AI芯片，拓展Nvidia之外的算力来源  Mezha.net",
       "categories": [
-        "other"
+        "openai",
+        "chips"
       ]
     },
     {
@@ -87,7 +109,7 @@
       "title": "融资1055亿！DeepSeek扩列AI硬件朋友圈：生态第一，模型第二 - 雷科技",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BMG52LXpMbndULW5HRjVfQm5VT255YzJrOURHemRXYUUtd3Z2b2hHUmRzYWcwMVNGbjktRWFtVXhvaDlaMmEtajVGOEJUdw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T08:52:06+00:00",
+      "published": "2026-11-01T08:52:29+00:00",
       "summary": "融资1055亿！DeepSeek扩列AI硬件朋友圈：生态第一，模型第二  雷科技",
       "categories": [
         "other_big",
@@ -136,11 +158,11 @@
       ]
     },
     {
-      "title": "【视频】XHEART发布大模型芯片X7 Ultra，Momenta预告R7 Ultra世界模型 - 汽车之家",
+      "title": "【视频】XHEART发布大模型芯片X7 Ultra，Momenta预告R7 Ultra世界模型 - 车家号",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KMFJRXzQ2N0VsdTdacjFrTU9pdFdXak5GWU8zRjg2S2dfR1YydklPZkxVMGI3TXZhSmNEQVZ4cXMwQ0JjR1UtN1dnNXdrREVLLXBqYkVNeVF6ZGM?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-11-01T06:52:47+00:00",
-      "summary": "【视频】XHEART发布大模型芯片X7 Ultra，Momenta预告R7 Ultra世界模型  汽车之家",
+      "summary": "【视频】XHEART发布大模型芯片X7 Ultra，Momenta预告R7 Ultra世界模型  车家号",
       "categories": [
         "image_video",
         "chips"
@@ -167,22 +189,21 @@
       ]
     },
     {
-      "title": "腾讯云ADP升级：五大行业、25个场景包，FDE体系助力企业智能体落地 - 人工智能",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lODJpWXZMTjRIa0otQUVjeU90c2pLLTFBT1VPVFpRQi1vVTltbkY0cEtGTEJZWDhLVlJZR1dUZzZPa3lTTDlfa0JqVjVQVUJ2alE?oc=5",
+      "title": "Claude Code：别再给Claude过多提示词了... - CSDN博客",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vRlVUTDRjUE5IWnZyVHExYXlZTzVMaVRzYmRGTGRwMGFacVdJVTZKM1R6Y25MY0FvcXdEM2pXZXFKZjhISjN1WGdZcEFCVWJUdkdEaUJ2VE03SFNORDNqM244Z19qcEVDM215dnpn?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T04:54:00+00:00",
-      "summary": "腾讯云ADP升级：五大行业、25个场景包，FDE体系助力企业智能体落地  人工智能",
+      "published": "2026-11-01T05:48:50+00:00",
+      "summary": "Claude Code：别再给Claude过多提示词了...  CSDN博客",
       "categories": [
-        "other_big",
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDVUcTdhakxNRnd6SUo0NVlXUnl0eFdhNk1RRHJTV0wtZVlJOWttWEFjbHRDZElya2dDYjI5bG05VDFLWVpFZHp3VjZoZkRwb1R4YU9SaU1PV01DdTU3UktzZWh4bHpJRVlmVUIzVFBLRGF6YUwyblFNQ1E2RXdISkJLaVVuakRM?oc=5",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FS1BVSTQ4MUo5SHhBcXoyUE1MWEtpbU9manhmakk3M2dTZHpGVHc5eTNlY25SdHQ2cllWQmFvSndKUnVXYjJhLVUtT2dQVmlmUHJRSjEwSQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T04:42:53+00:00",
-      "summary": "Claude紧急叫停！暗改Harness禁止逆向游戏  搜狐网",
+      "published": "2026-11-01T05:41:55+00:00",
+      "summary": "Claude紧急叫停！暗改Harness禁止逆向游戏- 产业链  光通信Pro",
       "categories": [
         "anthropic"
       ]
@@ -195,17 +216,6 @@
       "summary": "启元机器人：具身导航的终局，从大模型到后训练的范式迁移｜甲子光年  搜狐网",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "最新Gemini设计面向所有Android设备，应用升级文件生成 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUNuMTFQSF9TQ0dYRWxFU0NBdHBHdXB5blFpSFRNeHdsZERKZHhZNHlXVnlxODdTMXJuY0p1T3BKa2xQTHVXNUwtWnI3aGloYnlFV1NnVFdfY1hBakdtVmppdE9JWkVoT2hnNDlBcTVIM1pEQmRyX0pEMFpqTUo5ZmRSZnNWS1ND?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T04:00:54+00:00",
-      "summary": "最新Gemini设计面向所有Android设备，应用升级文件生成  搜狐网",
-      "categories": [
-        "google",
-        "tools_apps"
       ]
     },
     {
@@ -232,14 +242,14 @@
       ]
     },
     {
-      "title": "DeepSeek公布下一代agent harness理念 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rZEkxd0toWW5FQ0FybU12VnZ2MUViVWpLWHFKcF9tMW9vS29vRXpCN0VRSm42akQ5eGVDNzRSc2dIMjZwcXFYMGhncUdtYUtSUnlv?oc=5",
+      "title": "【视频】强得可怕，超级智能体迪迪虾已上车 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NMHBRU2tJa0w3a29fQ1g3VTVVRjJuUjJhNXZaQ3Vwd29pWFhoeHlyTEJnT0kyaFpYSFhyN0I3djd6blVIV3lNUjN4VFNsN1h2QkxmWXVpYUMyMU0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T01:37:03+00:00",
-      "summary": "DeepSeek公布下一代agent harness理念  华尔街见闻",
+      "published": "2026-11-01T02:21:41+00:00",
+      "summary": "【视频】强得可怕，超级智能体迪迪虾已上车  汽车之家",
       "categories": [
-        "other_big",
-        "tools_apps"
+        "tools_apps",
+        "image_video"
       ]
     },
     {
@@ -260,6 +270,26 @@
       "summary": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」  智源社区",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUm9fVnJsaEpnRUl6aU0ycjRTNkN6SEREZGk0Rmd4TGd3a0VZZ2w1VHl3S1lKOGZDSnFFSmxwTkJQTm85UVRGdk9aWkFpemJiczEwSmplc3hyMS1HQ2JzTlI5ZXlNSVB0SnBONnBpYnBYeXlsRF9RRERkTGdnSWhSTklKX0s4LV9yajd5NjBtTWdVTGNDUDVFOEZIekZ6Y3Ryd3Q0eQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T00:51:47+00:00",
+      "summary": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。  搜狐网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "DeepSeek发布新架构让AI调度AI - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbXFQWXZMRHJMNzliNF8xSUt6RUlLYkVOWU5iOWN3N2REZExvZ1hNdDBXRWdXREgteU9GU05oX3hlYXlBMXFwbXIzcnk2QTMzd2lOa1ZLZ3Y0ejlCWUNvOTM3VnFBTnhYc3c?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T00:45:17+00:00",
+      "summary": "DeepSeek发布新架构让AI调度AI  联合早报",
+      "categories": [
+        "other_big"
       ]
     },
     {
@@ -305,19 +335,6 @@
       ]
     },
     {
-      "title": "DeepSeek开源Agent底座：智能体从“单会话”走向“常驻系统”，算力与网络迎来新变量 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQ1lidmVxdl9OZGxtNVJnb1ZKQzcyM0dEWi1JT1NoWTdBQ3NiZDdUYnVLUVhKNlpzVFY2cWxucnc2UTRPa2dxMnhHdVRBX0lpalE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T17:32:00+00:00",
-      "summary": "DeepSeek开源Agent底座：智能体从“单会话”走向“常驻系统”，算力与网络迎来新变量  搜狐网",
-      "categories": [
-        "other_big",
-        "tools_apps",
-        "open_source",
-        "chips"
-      ]
-    },
-    {
       "title": "OpenAI重写大模型法则，第一条：忠于人类！！ - 智源社区",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QR3pCNzUzQkhkTHFxZC1nS0g3YWd4cFc5WjE5M0hhOE1WcUtMOVd1Z29CQVZxaldVdVhLSVA4WDh2OGl2c2M3eQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -325,6 +342,16 @@
       "summary": "OpenAI重写大模型法则，第一条：忠于人类！！  智源社区",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "开发者称，Claude 会阻止游戏逆向工程和常规工作，但 Anthropic 尚未证实这一据称存在的规则 - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG9UUDlFSjEyb0tGMWg3WHhodGlaWkNReW9Bc1IwMS1MVjVaOWJpajhWMm5UNlRaN1MydnNUWHBEMmpkOTY3WWVNSlc2UUtfeUg0Y1hmTHBTVjJSSU9CUEZkOHVCN1VOZFNlX3Z2RGI5UFRWUFlPa3cxN0dsUmNaYTFSVlBCZW5KR0FMSFhWeVFsUWN0TUtueDFTY2N2ZGRL?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-10-31T06:30:00+00:00",
+      "summary": "开发者称，Claude 会阻止游戏逆向工程和常规工作，但 Anthropic 尚未证实这一据称存在的规则  Mezha.net",
+      "categories": [
+        "anthropic"
       ]
     },
     {
@@ -338,29 +365,6 @@
       ]
     },
     {
-      "title": "Anthropic杀入AI智能体战场：Claude Duet重磅亮相 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDTTJCY2ZiQ0I0Y2VYeDBZenNUQVRZQlR0Vk9fUnNWRWRtTGt1QVQ1WGFlVFYzcUlRdkxpSzVUTTVINFYzdkJrd21za1FiZThFNUlEeTY5cFJDTG5QdG1hdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-22T07:00:00+00:00",
-      "summary": "Anthropic杀入AI智能体战场：Claude Duet重磅亮相  东方财富",
-      "categories": [
-        "anthropic",
-        "breakthrough",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "将工作交给 ChatGPT 智能体 - OpenAI",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdW50VGFPcWZDZnRyMmRMZjFXMDhKRzB4aU1VazY2TjU0QU9hNWZiS2R0c1hBZ01CX3FLTFhRSHg0MUw2OHQzemwxeWpQcy1pbkc1ZF82V1NwdVMwYWtzdHA1SnNTcDNQRVQ4QkQwbXd0RmU1ZzMzRGFCSl9GMDdTcTVB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-21T08:51:32+00:00",
-      "summary": "将工作交给 ChatGPT 智能体  OpenAI",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude - 量子位",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWXEybS1iMzFZZGhWeS1DQ29ONEFqNDB6VU5GMS1RaXNpY2YtbHdCTjFTcmhMenRvZmNHQzNZV3FWZGoyeXU0R0xKQzA0bkVUX3c5Yg?oc=5",
       "source": "Google News - AI(中文)",
@@ -368,17 +372,6 @@
       "summary": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude  量子位",
       "categories": [
         "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌发布Gemini智能体：能写代码、创作内容 自主推进任务 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BQlA3TnNvTGRlMTBxTnFqc25NeXhCenFZMTRQT1F2S09nWU8tNWVOUWpQbHVBT3ZDcWRSTVo1VUZfVzZuQ0d1d3RFTWhrbmRZSllqQ0FpQVpvZDFpckFxbm0xeWRET3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "谷歌发布Gemini智能体：能写代码、创作内容 自主推进任务  东方财富",
-      "categories": [
-        "google",
         "tools_apps"
       ]
     }
