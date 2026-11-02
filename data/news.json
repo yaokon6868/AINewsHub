@@ -1,6 +1,99 @@
 {
-  "updated_at": "2026-11-01T20:59:50.238522+00:00",
+  "updated_at": "2026-11-02T00:34:48.400830+00:00",
   "items": [
+    {
+      "title": "传苹果逐步淘汰非触控MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场 - 极客公园",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xajhwMTZZQUNEcXhKaDR0NGVrUzRPZXdWd0FRT2hLaTZYeDB3elBQNW0tX1RZR2NWYjBNSVdUTkxnY3dsbGU4ckhwaEg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-02T00:27:26+00:00",
+      "summary": "传苹果逐步淘汰非触控MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场  极客公园",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "OpenAI、Claude新旗舰同日曝光！ - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVWm1xUVdqSVBDc1JrQjMzNlcwem5WZDc5d2FUOVZPMDNoYlpMTENTT0RoT0x5VmYzSDZpWWRMTG8yMGh0RDdoQ0pMcUltYlg1UjRn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-02T00:27:11+00:00",
+      "summary": "OpenAI、Claude新旗舰同日曝光！  华尔街见闻",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "图观中国| 激增1400倍的Token背后，中国大模型正在悄悄改变什么？ - 观察者网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xVVVwS3R3UzRVQmtHelF4eW0wcHNOd3B3WlE1SmtNdk9rak1vQWFmRHVodi1LZjg1YWgtY1JqTFRhMXFKN3VUbjRWVVlnS3k0MWlrYTNZNUFRU0oteWIxcDdrWkF4MDV3dThRMTZ3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-02T00:17:00+00:00",
+      "summary": "图观中国| 激增1400倍的Token背后，中国大模型正在悄悄改变什么？  观察者网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "AI算力产业链维持高景气度-36氪 - 36kr.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LY1pyeHR3Xzh2Z25GU3djQmpiSklOZDBYU196V0RMMGw5TDNnb0F1TVc4M0trbElmTTVZZTZtSWJWSmVuMHFpRXhCcFpnOGkzVHJWN3BYaGRZX1Z4V0F1WQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T23:51:58+00:00",
+      "summary": "AI算力产业链维持高景气度-36氪  36kr.com",
+      "categories": [
+        "chips"
+      ]
+    },
+    {
+      "title": "DeepSeek千亿融资细节曝光，国资占比升至27% - 全球定制网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nUHVGVmtSR05CVXFqVHVWWkFqd2tWa2RXVm5mY25EWm85dUNZcmd4RDEySW5QMnV3ZUdBOTJlY2IxcHptQlUwcFZrY290dw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T23:30:18+00:00",
+      "summary": "DeepSeek千亿融资细节曝光，国资占比升至27%  全球定制网",
+      "categories": [
+        "other_big",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "OpenAI宣布ChatGPT部分功能将与Codex共享额度；苹果和阿里巴巴达成合作｜数智早参 - https://www.mrjjxw.com/",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45SEw4SWhXVXVjdWg2em85UkRKVG9nUXlBUE9XN3JuVHJOVV9TM05NT2hBWmZJWGttX1BaTHpvY0Nxd1VJMV9yRFEzMDNXUGpkS3JqVU9wY3RGMTQtX3lIZVF2Wm52UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T23:00:11+00:00",
+      "summary": "OpenAI宣布ChatGPT部分功能将与Codex共享额度；苹果和阿里巴巴达成合作｜数智早参  https://www.mrjjxw.com/",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI调整使用额度：ChatGPT与Codex将共用，12月起适用于Plus、Pro和Business套餐 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GaldpMkNDRmgwYUUtQUJEdjdMVHBtV3B3VnlHcEZZUk4zNlNlN25ERTFTczhZdGQyNTloRXZXNllLREdqSUR0M21JUWJUSGJTSEE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T22:43:30+00:00",
+      "summary": "OpenAI调整使用额度：ChatGPT与Codex将共用，12月起适用于Plus、Pro和Business套餐  凤凰网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "OpenAI考虑将数据中心重新包装为“AI算力园区” - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hQmxjb3pxandUSjBubUZraHVpNVprQjJaSWNjLTRrZ0o1aXNMM2pXREVPNjZzVGpQaE0wdkVfMVZOV3RORnU5cw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T22:16:45+00:00",
+      "summary": "OpenAI考虑将数据中心重新包装为“AI算力园区”  凤凰网",
+      "categories": [
+        "openai",
+        "chips"
+      ]
+    },
+    {
+      "title": "伪造的 ChatGPT 应用程序通过 Google 传播恶意软件 - VOI.ID",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmc0pYSjdEeUtYZDJKbllPaEFxbjRFX3RKeGZQWVJHTUhESThuM3gzMG5jTjRidFJtZTNuUjR3R092XzBvU0F2c1FuRlpXOHfSAUJBVV95cUxOTzFodVR2c3Q2ZExlR2hYODBsT1RLcmxOZzVWT052d0lvTEZiU1pUSTBuZjRHMktjYWtLS05YY3RRTWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T22:05:00+00:00",
+      "summary": "伪造的 ChatGPT 应用程序通过 Google 传播恶意软件  VOI.ID",
+      "categories": [
+        "openai",
+        "tools_apps"
+      ]
+    },
     {
       "title": "Google Antigravity 使用教程，从零上手智能体协作开发 - Pasquale Pillitteri",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMWZTWnhVdTBLSGhnWjRjMWp1Qm1UY1NndHFYY1c1T1RRdm9YZDNES3M5UFF2ckYwdTNhVjBiNVF2eVRCZ2x2c0RORW91TDZaelRqb3V2bmd3dHNkeW5uUENYMXo0NFpOaDJ6V0xLbm53WWhaeVMtRFpyQ2oyT2FHOHl5cmNfTUp3V0xacnNXZXplX21k?oc=5",
@@ -30,17 +123,6 @@
       "summary": "马斯克挖走Claude最强“产品大脑”Jenny Wen  智源社区",
       "categories": [
         "anthropic"
-      ]
-    },
-    {
-      "title": "DeepSeek提出Super-agent架构设计：迈向更自主的Agent系统 - Pchome电脑之家",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4R2VMclh6Q2p6ZHJsRDBtT1JMdW92VEZUa09jalRsV3V2T0xYS1BJNWNlZXZmMkNwa2xxeV8xMXduWXBPbzJBTEFCR0FRV3dwMDQtTA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T14:12:16+00:00",
-      "summary": "DeepSeek提出Super-agent架构设计：迈向更自主的Agent系统  Pchome电脑之家",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     },
     {
@@ -78,7 +160,7 @@
       "title": "OpenAI计划采购Google AI芯片，拓展Nvidia之外的算力来源 - Mezha.net",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV253OEdaN09QN3M2cWVYZEFmVmZFU0xGcDRiOVplM3BNV2xlazJGY2pCZ2QyV0VVNl9OdHNNTTJ5c1UyemctQnZhSHNEOGdOclFYanhQdWRxWWpzMlBjVFdZVGUzenBZYllzYllPbG16QjU1R016RUt3Wml5bWFWU2NFV09mQXlwRDg2TXZLZUE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T12:24:00+00:00",
+      "published": "2026-11-01T12:36:00+00:00",
       "summary": "OpenAI计划采购Google AI芯片，拓展Nvidia之外的算力来源  Mezha.net",
       "categories": [
         "openai",
@@ -93,6 +175,17 @@
       "summary": "Claude Code悄悄更新：不让Opus 5.5复刻游戏  搜狐网",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkdrNDNBQ3VMVVk5ZW9SdnpwWE1RSVNTRHdQcHl5ODQwSDZpMnN1X1IyV0JHNnVVX0lLaHdXLXI0OVdIWDZYcURla21SUWlWTzVJdTJabkxrNlZwZzBHUWdSSEYwV2NoQlFaU0pmWFEwS2Q3Q1hVWUJRbV80RkI4UWdoWmR2dmM0?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-01T10:19:06+00:00",
+      "summary": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？  搜狐网",
+      "categories": [
+        "other_big",
+        "tools_apps"
       ]
     },
     {
@@ -148,16 +241,6 @@
       ]
     },
     {
-      "title": "让AI自己做脑部手术，初创公司成功让智能体给小鼠治疗癫痫 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Zd3VjdGQ5MXJjZWdaSVZuaWUyTDJMV1hrNWQwblVmWmVHbE9hUWxwXzFQR21IUFQwVXkwc0tjSDc3Z01GWU14ejJxT00?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T07:20:39+00:00",
-      "summary": "让AI自己做脑部手术，初创公司成功让智能体给小鼠治疗癫痫  凤凰网科技",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "【视频】XHEART发布大模型芯片X7 Ultra，Momenta预告R7 Ultra世界模型 - 车家号",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KMFJRXzQ2N0VsdTdacjFrTU9pdFdXak5GWU8zRjg2S2dfR1YydklPZkxVMGI3TXZhSmNEQVZ4cXMwQ0JjR1UtN1dnNXdrREVLLXBqYkVNeVF6ZGM?oc=5",
       "source": "Google News - AI(中文)",
@@ -169,20 +252,10 @@
       ]
     },
     {
-      "title": "物业设备巡检走过场，怎么解决？用物业智能体做 AI 智能巡检，让每一次巡检都核得到 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXJmQkVvRUVqSVpkdjJzMG00dHJ1TllaYVBEdTdKRmVEWnZjci1UeTcxbVBlUkZaQlF1SEJWa044TUR0cDBDWjhYSkUxNXU4NklHeXdhd1dnQlRzTDhZdDJFQ2FBYVFrdEdESzJMQmhRMVRDU1ZldHdTTlEtdzNLMEloZ2djWXl1dGhBbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T06:47:56+00:00",
-      "summary": "物业设备巡检走过场，怎么解决？用物业智能体做 AI 智能巡检，让每一次巡检都核得到  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "50智能体殖民地始终未能兴旺，逐渐陷入官僚主义 - Mezha.net",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXd5aUl2RjI3Vk5jVVY2WWxLaGZVbEM3MDlDbG1UdjNnLTN2T09tdFhsYzJNbHV2Qm1kZGxfU015dWRlRm9EYjZYSHNLVVlGdDFyRk9nUHpGYjJ2QUZicGliTkRJRk44RkhfNUlkRnh1emg4d1ZfazUxeEg5ck5HVDU0QjV1cmZsQTlTcUlkNGNrM1l0RXdEZ3BBcFV6UQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T06:39:00+00:00",
+      "published": "2026-11-01T06:51:00+00:00",
       "summary": "50智能体殖民地始终未能兴旺，逐渐陷入官僚主义  Mezha.net",
       "categories": [
         "tools_apps"
@@ -219,77 +292,14 @@
       ]
     },
     {
-      "title": "让AI成为芯片医生：玖熠科技亮相DFT智能体，推动可测性设计从经验驱动走向半工程自治 - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WNkw1ZjRobjFBYUg4ZDBBdXEyRkxDcF95TXRxQmtlSEwtbE5VWEhKTHlwSDNkNG5wT19zZzc3em5hR1NaekE2NHJUU0dtdFlWWXZZ?oc=5",
+      "title": "DeepSeek 提出 Super-agent 架构设计：探索更自主的智能体系统 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yQ1lCVm90akY5b2tueUllMTJ2UllJVUF5VTNfVWlCQmsya0NCdGZ5cE9QMS01UjM2QXNqSkJkMjVxbTRsMmhKSENmUi1TUlhUOWFxcW9BUVdCTWl1ZVE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-01T03:45:00+00:00",
-      "summary": "让AI成为芯片医生：玖熠科技亮相DFT智能体，推动可测性设计从经验驱动走向半工程自治  电子工程专辑",
-      "categories": [
-        "tools_apps",
-        "chips"
-      ]
-    },
-    {
-      "title": "DeepSeek重磅发布：AI开始指挥AI干活 开源重塑行业生态 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xb3V1VnZYN2hrX1RtZHhBVUctR3BTakJ2cHJZbnRkM1k1NnFLNlBUS2xpbEszN0ZSQWM3bGRMclJScGcyb1JPcV91QzczRmhoWkQ1UGdmc1pTSGJ2RER2a2lXelFwOVBycm5UZ0ZNVVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T02:58:01+00:00",
-      "summary": "DeepSeek重磅发布：AI开始指挥AI干活 开源重塑行业生态  中华网",
+      "published": "2026-11-01T01:16:07+00:00",
+      "summary": "DeepSeek 提出 Super-agent 架构设计：探索更自主的智能体系统  DoNews",
       "categories": [
         "other_big",
-        "breakthrough",
-        "open_source"
-      ]
-    },
-    {
-      "title": "【视频】强得可怕，超级智能体迪迪虾已上车 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NMHBRU2tJa0w3a29fQ1g3VTVVRjJuUjJhNXZaQ3Vwd29pWFhoeHlyTEJnT0kyaFpYSFhyN0I3djd6blVIV3lNUjN4VFNsN1h2QkxmWXVpYUMyMU0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T02:21:41+00:00",
-      "summary": "【视频】强得可怕，超级智能体迪迪虾已上车  汽车之家",
-      "categories": [
-        "tools_apps",
-        "image_video"
-      ]
-    },
-    {
-      "title": "所有芯片都会变成“大模型芯片”，XHEART 已经这么做了 - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02anpaS0RfeUY1UExPTVMyYk9TZkYtcjg0ZjdHSVVGY0Ruam9CMzZCSHJPY1p3aWUtM0haSHI5WFFMUFNvNk9wTQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T01:14:21+00:00",
-      "summary": "所有芯片都会变成“大模型芯片”，XHEART 已经这么做了  品玩",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hWWwtdjF1dEp4QkpMdjIzZ0pYanRfVl9YX0o2ZVNSYnZqU3kwR2tXeDg2clpfdXlhdHlwdmZpWFNsRFdHeTFZMg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T01:00:00+00:00",
-      "summary": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」  智源社区",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUm9fVnJsaEpnRUl6aU0ycjRTNkN6SEREZGk0Rmd4TGd3a0VZZ2w1VHl3S1lKOGZDSnFFSmxwTkJQTm85UVRGdk9aWkFpemJiczEwSmplc3hyMS1HQ2JzTlI5ZXlNSVB0SnBONnBpYnBYeXlsRF9RRERkTGdnSWhSTklKX0s4LV9yajd5NjBtTWdVTGNDUDVFOEZIekZ6Y3Ryd3Q0eQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T00:51:47+00:00",
-      "summary": "ChatGPT和Codex要共用额度了，无限聊天的时代结束了。  搜狐网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "DeepSeek发布新架构让AI调度AI - 联合早报",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbXFQWXZMRHJMNzliNF8xSUt6RUlLYkVOWU5iOWN3N2REZExvZ1hNdDBXRWdXREgteU9GU05oX3hlYXlBMXFwbXIzcnk2QTMzd2lOa1ZLZ3Y0ejlCWUNvOTM3VnFBTnhYc3c?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-01T00:45:17+00:00",
-      "summary": "DeepSeek发布新架构让AI调度AI  联合早报",
-      "categories": [
-        "other_big"
+        "tools_apps"
       ]
     },
     {
@@ -313,11 +323,11 @@
       ]
     },
     {
-      "title": "OpenAI宣布重大调整！ChatGPT与Codex将共享额度 12月起实施 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tSFNhSXJlYXZ4eDR0R2JnNUtrMmFncHVLSXFhaUlnM19GaURIdmtFazN3bWlzOURvM1RMemlqcUVZVlAxSlZzWWtsN0o?oc=5",
+      "title": "OpenAI宣布重大调整！ChatGPT与Codex将共享额度 12月起实施 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlR4QW16QllKNUZvQ1ZfcDN3WGtzSXVpbFRpbVBfRV9oaDl1S3o3QVZzN2xIa2F6SldPRDVRN1JJNm1MTkFIcm1DclFuUTVGRzFDazljV18wVElsLV95WXpuTVBYOVgyczh5bGRUV1JDTTdkUkhBVDVZa282dGpxQnd2MmhyUjY1?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-10-31T23:34:14+00:00",
-      "summary": "OpenAI宣布重大调整！ChatGPT与Codex将共享额度 12月起实施  凤凰网科技",
+      "summary": "OpenAI宣布重大调整！ChatGPT与Codex将共享额度 12月起实施  搜狐网",
       "categories": [
         "openai",
         "breakthrough"
@@ -342,16 +352,6 @@
       "summary": "OpenAI重写大模型法则，第一条：忠于人类！！  智源社区",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "开发者称，Claude 会阻止游戏逆向工程和常规工作，但 Anthropic 尚未证实这一据称存在的规则 - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG9UUDlFSjEyb0tGMWg3WHhodGlaWkNReW9Bc1IwMS1MVjVaOWJpajhWMm5UNlRaN1MydnNUWHBEMmpkOTY3WWVNSlc2UUtfeUg0Y1hmTHBTVjJSSU9CUEZkOHVCN1VOZFNlX3Z2RGI5UFRWUFlPa3cxN0dsUmNaYTFSVlBCZW5KR0FMSFhWeVFsUWN0TUtueDFTY2N2ZGRL?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-31T06:30:00+00:00",
-      "summary": "开发者称，Claude 会阻止游戏逆向工程和常规工作，但 Anthropic 尚未证实这一据称存在的规则  Mezha.net",
-      "categories": [
-        "anthropic"
       ]
     },
     {
