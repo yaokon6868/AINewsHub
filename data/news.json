@@ -1,76 +1,131 @@
 {
-  "updated_at": "2026-11-05T18:14:27.048839+00:00",
+  "updated_at": "2026-11-05T23:46:55.508688+00:00",
   "items": [
     {
-      "title": "谷歌推出Gemini Omni 1.2 Flash视频生成模型 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BdDkyUU14bFlsZ1NhQjZMV0VObHN0LXY1a1pVZmJKbXppcHd0UFVnQWVqNnlrR2I5UjVVZVlhSmpCcXROcE9uTVhQVzBmV2FWZTBEZXQzR3RZWTVJeks3Qw?oc=5",
+      "title": "NVIDIA Vera CPU：兼顾智能体吞吐量与速度 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WlBCZ0pmMU9RdlN3cmxQeXI2ai1wOGwtZU9QNEd4c2ZnT20wYkdkcDZLRndwWWhOS0x5SjRrR0VxekkxQUVFUXF0cDQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T17:25:36+00:00",
-      "summary": "谷歌推出Gemini Omni 1.2 Flash视频生成模型  东方财富",
+      "published": "2026-11-05T23:23:54+00:00",
+      "summary": "NVIDIA Vera CPU：兼顾智能体吞吐量与速度  凤凰网科技",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌发布Gemini Omni 1.2 Flash视频模型：支持15秒视频与对话编辑，价格降30% - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WXzd4TEVnQWxCT3B1SEJPMnRmUWFwVEFGeHh1cmhsbmp5NVdPd1R1VWt5aHlhU05yU1pQNWZGS3NwMkpjNEM3a0l3a2dtbG8wVHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T23:18:47+00:00",
+      "summary": "谷歌发布Gemini Omni 1.2 Flash视频模型：支持15秒视频与对话编辑，价格降30%  凤凰网",
       "categories": [
         "google",
         "image_video"
       ]
     },
     {
-      "title": "2026世界顶尖科学家论坛丨智能体化的全模态世界模型：迈向下一代世界智能 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXBEaWNRSHFjTTlNX2F1d1RvZXdSOHY5RVNvTVhnRl9oRExLWEtxSkpZT3hCV2kzb1o2d08wY2tBaWVJZUVjNk1adm1vdGowUzluRnpvYUxXelJVR0tRZWx5THlEUEN0empTMEo1aUs3THdGdUM3UGo4MW5ZdnJRbTlXUTR5Mmxq?oc=5",
+      "title": "AI视频模型卷出新高度：谷歌Gemini Omni 1.2 Flash发布，原生15秒生成 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zMWZLMjFMS1lhYWF3NkJYSmNwb1U2UzN2Ykt0eEJ4N0dtbkRQdm52b19PMHo3cUJ3VnZic21NR2IySU1XZl9NOEx4TVdFMzVMaFlnMkVNektoc2RoVHJ4M0VVWnZVWmo4c2UtWDNjWlRodDJYNTRCS1loOGt6dw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T17:22:00+00:00",
-      "summary": "2026世界顶尖科学家论坛丨智能体化的全模态世界模型：迈向下一代世界智能  搜狐网",
+      "published": "2026-11-05T23:02:00+00:00",
+      "summary": "AI视频模型卷出新高度：谷歌Gemini Omni 1.2 Flash发布，原生15秒生成  手机新浪网",
+      "categories": [
+        "google",
+        "image_video"
+      ]
+    },
+    {
+      "title": "Anthropic推出个人财务功能：Claude可接入银行账户，回答用户理财问题 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cDNjR0ZleGtyanZVelpfdWhvYkg4Q0c5X29JbEJRZFd1bEVFOFR0WGRBeW9maElWdlF2cl9nR05mYWUzOTZDb2FPMDEwWUNtcHcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T21:29:48+00:00",
+      "summary": "Anthropic推出个人财务功能：Claude可接入银行账户，回答用户理财问题  华尔街见闻",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "【视频】大模型芯片+世界模型上车2027款风云T11将成软硬一体智驾首搭车型 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wWEg5bjBiZG9ib01pM0xaY01ERGgxQ3YyYmpUTFJUSXUwaWJxQVhJYmcxb1ZnVmU0RjJDQzRoNlBYZW1oSGdaMnpQNEdjc3VISm9BVnJrM0VVYmM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T21:11:02+00:00",
+      "summary": "【视频】大模型芯片+世界模型上车2027款风云T11将成软硬一体智驾首搭车型  汽车之家",
+      "categories": [
+        "image_video",
+        "chips"
+      ]
+    },
+    {
+      "title": "世界互联网大会秘书长 「重点就人工智能开源开放理念与实践开展交流，为人工智能赋能网络空间发展提供有益探索」 在2026年乌镇峰会新闻发布会上介绍 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVF3aEFzUnZJNEhEeC1mdEdSb3R2ZHhPYWJRNWJxVkxHMV91b194OTdpazl6RGRhTjhLUmdRd1N1ZGQ3eF9nNWFkcjJRc1hQWlljbmhQU0YxZXhmcXV1NVFNTzgtYUpOV1o3dXcyMlBmeGFYZXpyX0REczlZZmZTRUVZV1JxdUZm?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T19:48:56+00:00",
+      "summary": "世界互联网大会秘书长 「重点就人工智能开源开放理念与实践开展交流，为人工智能赋能网络空间发展提供有益探索」 在2026年乌镇峰会新闻发布会上介绍  搜狐网",
+      "categories": [
+        "breakthrough",
+        "open_source"
+      ]
+    },
+    {
+      "title": "MariaDB 以智能体就绪平台和全新品牌强势进军智能体时代 - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hVEFCNGdxN0FSVHNpa3d3LU9mMXNNeU9pcDRSUklaVFZaVHVoRmVzQldOZXhIX09YenMwbklQdTZqN1lYY2w1WmRRVWphc2d0LUl5NWhBWG5KbktuSFpiMTVJNnUycGUteWNZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T19:37:00+00:00",
+      "summary": "MariaDB 以智能体就绪平台和全新品牌强势进军智能体时代  Business Wire",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "谷歌：Gemini ......_7x24快讯_新浪财经 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UQ3ZhcExaU1RLOU5zcnozbFpBZ0JkZDltRUJsWHM3Z3A3SmV2SEFxMWE1VHRKVEZzZ0hCNEZuM1JjbGVaSHFLNjFkQQ?oc=5",
+      "title": "Meta正在为其个人AI智能体Muse推出语音聊天功能 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nRTZkWVgzbENuNERTbFRwSzFIbzJNdU13TUtBSWxqWUlrcXdGdmV1WkZFeG53T3lUaERVVnMyckhUS09fdi1TUzVFTHVFRXc1eGJPcDliN01ES1lNZ0thMg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T17:07:28+00:00",
-      "summary": "谷歌：Gemini ......_7x24快讯_新浪财经  新浪网",
+      "published": "2026-11-05T18:40:38+00:00",
+      "summary": "Meta正在为其个人AI智能体Muse推出语音聊天功能  东方财富",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "信息新、答案准、帮助大！全球记者在进博会点赞“问海”智能体 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84dEVfUERLUEc0bTI3b29TV1h0aHZrM1ctNmZrQ0hhZnlKcHBPVGZKTkhpV3V1akJxY0l1LThTR290WWQtV08wenJuaWV5SEV3ekdZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T17:43:18+00:00",
+      "summary": "信息新、答案准、帮助大！全球记者在进博会点赞“问海”智能体  第一财经",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Gemini Omn......_7x24快讯_新浪财经 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XSGVOekdIZVJ5N1lsZVJxRFVXTFE4QWNIRk8waWw1REtUa2FYRjd2ZzVMQ25Pck94bGpGOElES1lYdHF1MzQtVzJtZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T17:09:19+00:00",
+      "summary": "Gemini Omn......_7x24快讯_新浪财经  新浪网",
       "categories": [
         "google"
       ]
     },
     {
-      "title": "OpenAI/阿里达摩院等都在卷，10篇具身智能论文汇总，从统一具身大脑到机群自我进化 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VVkVsaEs3bGM5MExLbVNRM1NJMFNES3Y2Z3pOWkM4QlhIVG9BT013S3kxUV91SWFzREVyYjlpczF5MHNOWjBhSA?oc=5",
+      "title": "Perplexity推出面向工作的AI智能体Teammates - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUC0zS1hBT2xPbjFWVWVWMVFJX3lUdE8xXzhzNXZqU2lXSkI3LWt0SlFTbFhlSmRvODZDS05fWEtkbU9WS0RvbFlMcElPVzNZSnFOWDY5WnliTjMzVTMwbkNBbWlHT0ZOQkRMMkxpenJfWGRSM3RTdjVlaWR3RUt0Tm1lbGZtdUNlYnJ0NVFDOVhHZkJnR0RJQ21SeXBzdXdJbnc?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T15:20:00+00:00",
-      "summary": "OpenAI/阿里达摩院等都在卷，10篇具身智能论文汇总，从统一具身大脑到机群自我进化  智源社区",
+      "published": "2026-11-05T16:29:00+00:00",
+      "summary": "Perplexity推出面向工作的AI智能体Teammates  Mezha.net",
       "categories": [
-        "openai"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
       "title": "地平线“整车智能体技术平台”获世界互联网大会领先科技奖 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92bDdGT2RKTXpETVZ1Zko0SWpKeTd6bEQ2WlIwam9ZY1RIdUVJdEZkT1pKOVNwbi1fVEFsYmxoTFE5Ynp1QmowSVI2dEYtMHMyandKV1B3eHdRNE0?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T15:14:30+00:00",
+      "published": "2026-11-05T15:12:13+00:00",
       "summary": "地平线“整车智能体技术平台”获世界互联网大会领先科技奖  汽车之家",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Anthropic 的智能体自主性报告反对强制规定 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzFNdEtkQmJwcFlaTXU0U0dka0tjd2FyZ0xta25wMm9VcWEza2F4WHRocXRCQmdNMDZDRC1LbC1SZ0NITFg5Q3JyZ0U0R2hWYnRuOGp2anJYaEZDVnVZY1Zhd3RnWUc1YWlRU0xqNThlUXg4S0k4VXR1cHBwMjh6cEZHSG1hQzFjbkE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T15:09:21+00:00",
-      "summary": "Anthropic 的智能体自主性报告反对强制规定  OrcaRouter",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "ChatGPT 锁定模式：它能拦截什么，无法拦截什么 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FMUFleWlQZ3ZtMVZTVFlFTDg5UVRIRnVZSUxTXzJ6MkdqOFd4ZU5YbkJzY2dGTHk2MEJ0LWY1cG43ZHRvUmVkaUFNV0NJVzE0ZXREdXdueTdzZ0hlM1QzZmlkdTlDVV84cnl2YnBZU3J4TFFKdGZqdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T14:53:00+00:00",
-      "summary": "ChatGPT 锁定模式：它能拦截什么，无法拦截什么  OrcaRouter",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -81,6 +136,27 @@
       "summary": "苹果的大模型选秀：要的不是最强，是最不麻烦  川观新闻",
       "categories": [
         "other_big"
+      ]
+    },
+    {
+      "title": "ChatGPT现已支持生成动态GIF图像 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGxHT3lFdGRSZDVmRnNwRk9VSjE2Y3BZVnZOUTA1SHU5UW5yRnJ3YmNyUU4xZmg3MWpHRG5SRG5WSkN1TVZUWlh3NV91Y1VFQ1U0WEhIZ1U4M29aTUpIVlVFUExrMVB1NEwxUEhJSlN2RV9LcUNUUEhNbjRUVVhKOUhfQzNTV2JR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T14:42:00+00:00",
+      "summary": "ChatGPT现已支持生成动态GIF图像  搜狐网",
+      "categories": [
+        "openai",
+        "image_video"
+      ]
+    },
+    {
+      "title": "乌镇有“远”见丨AI智能体 可以替代谁 - 新蓝网",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTC0wRzYxd1NkbWlYVTNWczBseXFYV3ZvSHBJR0t2VUhIcHh3N2NVSUZmTDlzVzg4VXhuYUJrRjFlQjk4Mk1RUmtkT0lzekE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T14:38:00+00:00",
+      "summary": "乌镇有“远”见丨AI智能体 可以替代谁  新蓝网",
+      "categories": [
+        "tools_apps"
       ]
     },
     {
@@ -95,33 +171,33 @@
       ]
     },
     {
-      "title": "乌镇有“远”见丨AI智能体 可以替代谁 - 新蓝网",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTC0wRzYxd1NkbWlYVTNWczBseXFYV3ZvSHBJR0t2VUhIcHh3N2NVSUZmTDlzVzg4VXhuYUJrRjFlQjk4Mk1RUmtkT0lzekE?oc=5",
+      "title": "覆盖基础教育全学段的生涯大模型来了，海亮科服发布OpenSpan - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQend2dWtjaklsOXVjQjc5RFp1NHYzT3F6QTdpc1pPZEtPOGpLczBHNXpGOWozdEJPbjJwVy1Ta3R6N2dJTFR2UE45ZDVfV0hRU3Y5SXhpaU9qZTNZbzRoNUF1V0VpcDJoS01VTmxNU3gzcjVpNVVmZXZKUXFFNHFwQWxjWmVPdE9QUEdNdg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T14:38:00+00:00",
-      "summary": "乌镇有“远”见丨AI智能体 可以替代谁  新蓝网",
+      "published": "2026-11-05T14:26:34+00:00",
+      "summary": "覆盖基础教育全学段的生涯大模型来了，海亮科服发布OpenSpan  搜狐网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "金融机构加速布局多智能体系统与模型路由技术 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkhUQTdrVWVaUGZBRWxDVlp1UWtzRERMM0FKNkJrcVR2YTlUdXdFbUtoTUtLWHJSSElGamxYTk1EaTJzYjdaS0VKeFpVS0ZiV2lmM1pfeG16VmgyelgwdWZ4RTg1SlUzdXRYTjdfLW1iRTNKT0hleW5wXzVnZzlFNVY5QzZELS1Y?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T13:40:00+00:00",
+      "summary": "金融机构加速布局多智能体系统与模型路由技术  搜狐网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "Claude Opus 4.6 的 500 个零日漏洞：三个补丁说明了什么 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OMEFhM191MmRwZUNxRDM1LThHbHI3UEs1aFFleFBUMEhqSWFCQkVZdEFJUjJrS1ZrR1YwbjNNLUdSODFfMkJ5Snp6LTVaeG1JWVN0eG4zOU9QSHJIYmNiM1BlT3U3LW9yaFVOTEU0R01aQUpHMi1rSzFYZlc5SVk?oc=5",
+      "title": "OneBox智能体协作平台，把“能用的 AI”变成“政企敢用的 AI” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjFjWFdhaXlfeV9SRm5rVTRGOEZvX3doMHdmc0RKc0k0MWVMTklxTXJqdjJLN3dNdjZOZ0JjWDRKMno0WW9TS2Z1c0lQYnB0TEIyUUVmeXN5ZFVBenkxbFBKVDFWS0NGODVXZmRoM3cyQ2ZZNXBUZTBzbDkwMVpPYV92WFRUUWVV?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-05T14:09:47+00:00",
-      "summary": "Claude Opus 4.6 的 500 个零日漏洞：三个补丁说明了什么  OrcaRouter",
+      "published": "2026-11-05T13:38:00+00:00",
+      "summary": "OneBox智能体协作平台，把“能用的 AI”变成“政企敢用的 AI”  搜狐网",
       "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "全球首个仿生人形机器人新闻主播正式发布 - 中证网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pdmFKV0VoT19DU05xLWlvdUp3aVE3ZHpST3luOWZLR0tJbVRNeGt6clE2ZWlaNjh2YVFWaW1JcUdTeDRnc3NlQTU3V0hTdENxRERWNjVIY1pUSjRaUExWdVZ3aUQ3UE1QZHJINUZLVkVsNnhuTkFvaQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T13:39:00+00:00",
-      "summary": "全球首个仿生人形机器人新闻主播正式发布  中证网",
-      "categories": [
-        "breakthrough"
+        "tools_apps"
       ]
     },
     {
@@ -158,16 +234,6 @@
       ]
     },
     {
-      "title": "AI全链路赋能：TCL上线智能体超1万个 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uNEVmblBScEV6TENRU3k0Sy1LM19yTGhfYkNqV2pzU2hManZjQ19YQjBnVU5fQjFDWXBac1hUSmZFN2pMMS1JNy1sTG9QLVQ4dGtqbDZGVDBabHA3VWUzUFA0OWlEbjdFWDhwZGtn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T13:03:20+00:00",
-      "summary": "AI全链路赋能：TCL上线智能体超1万个  中华网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "换块芯片就要重写适配层，中科院院士呼吁补齐大模型四大缺口 - 上观新闻",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tOWMyZ1hwYU5pQ1MwX1RzbTF0S1R0LUpWNzZqLTVtV21YUWFNTW1DTFVzU25ZWnBfRHRGbFM4YlloUmFtSE5nUFNmXzc5N0x6LXEwM3JPTEEwV0s0WXc?oc=5",
       "source": "Google News - AI(中文)",
@@ -175,6 +241,26 @@
       "summary": "换块芯片就要重写适配层，中科院院士呼吁补齐大模型四大缺口  上观新闻",
       "categories": [
         "chips"
+      ]
+    },
+    {
+      "title": "你用的大模型，后头坐着谁？ - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QWF91YkxOUHczV3ZOVjFsWG9XRzdlUWZMTTUzYzd2dWlHcG1lSWs4SHl3TVlVenNKZUxJVkdtTHAwYUZWaGY4Sw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T12:50:00+00:00",
+      "summary": "你用的大模型，后头坐着谁？  智源社区",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "一个账号，调用主流AI大模型 - 长江网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdlVCY1FMclZCMHVBNnFYc1l4MHUwd3gwUWZiYUp0eG1YT285REkwUXhkRGZCbHh0eTRlZWNkczVMb1lVeXFZaTNXOUxPVFJPM2tOcnYtQ2FaUHRNSTlsekRn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-05T12:30:00+00:00",
+      "summary": "一个账号，调用主流AI大模型  长江网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -188,51 +274,11 @@
       ]
     },
     {
-      "title": "2026顶科论坛：梅涛提出构建智能体化全模态世界模型 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95VnJwVDhpZWxuLXRGZmk5ZVZUS1A1X2RzdEFibElYRGROZDk2LTZ2TFZyM2I0YU5WVml4c0QxVnktM0gtaVBKTkpLYzI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T11:51:05+00:00",
-      "summary": "2026顶科论坛：梅涛提出构建智能体化全模态世界模型  凤凰网科技",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "保定市人工智能赋能企业发展推进会举行——保定市人工智能赋能企业发展暨智能体应用落地推进会举行 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HZDB1WnBRNUtoajlsbjNtZXp0Y2xhOHFyb3FEeUtvWXVMUWVQYm92WTl2OGl0Nng3dnFvN3IyQjQ2Ui14UWRRMEgzWUp4MVBiazdkQzBQUFJBdXItR0R0d1Rla3k3SzBHcl8xRQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T11:50:18+00:00",
-      "summary": "保定市人工智能赋能企业发展推进会举行——保定市人工智能赋能企业发展暨智能体应用落地推进会举行  中华网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "NIST发布超级智能安全事件管理报告，提出完善人工智能安全响应机制 - 安全内参",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lYlBZV25KdnBOc3JybG9nVXpDbTlRaUl4OHgyNGc4VEtpZ1J6cGlRLVlTdjhMR3dIQl9vQ2hKQkcxWUdUaFFOWWJmZk9uUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T11:23:49+00:00",
-      "summary": "NIST发布超级智能安全事件管理报告，提出完善人工智能安全响应机制  安全内参",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "Anthropic公布Claude生物学成果 蛋白质颗粒纯化流程缩至90分钟 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tUTNrVFhWZ1VUREU4a3d6TFNjaDJSODluaTc2MWpzOWQyaDRleVhSQTBvbnM4TWRueERfZVM3bElGT3g4ZlRpR1NMZnMwenhmc21wN3ZHYWc3ZHJQSW9JWWpn?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-11-05T10:49:54+00:00",
       "summary": "Anthropic公布Claude生物学成果 蛋白质颗粒纯化流程缩至90分钟  观点网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI挖走Claude Code核心操盘手！前产品负责人Cat Wu正式加盟 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAwRnpTZGNzeXZVcUQtQjZONll4RFU1X2hxblgybmxjWHk0VmJ2QUJHc2xlNFBQNVFhVVJadXhobnJCNGtvT0t6UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T08:58:17+00:00",
-      "summary": "OpenAI挖走Claude Code核心操盘手！前产品负责人Cat Wu正式加盟  凤凰网",
       "categories": [
         "anthropic"
       ]
@@ -269,16 +315,6 @@
       ]
     },
     {
-      "title": "Anthropic 更新 Claude 关于复制游戏的规则 - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjhhbHoyUV95ZVNJbHlBeF91bUF1c2l1em1ZTmtobWVpS2JjZlJ4dXN1dmdVTUpfa3ZNNE5vc1N5c1pELXlsalBDdkRfdUs3YWVuS2huNzZaSG5PTWVfUXpFZEhkb1A5WjB5djR6SS1IYXNKbHd2VVh4R3o4dnVTbDcwMC13dnFCZGpOcXUwY1EwSW1lcll3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T05:33:00+00:00",
-      "summary": "Anthropic 更新 Claude 关于复制游戏的规则  Mezha.net",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "收购Pierre、挖角Anthropic，OpenAI切入微软编程腹地 - 第一财经",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RS19fdUhsZENpbzZKLVZDU2pJNGtlZ0RoT3hfRlpMa0h0RTdqU1U2MFpWeDZyQVFkMFlLT2pXeFhlMGNUZHhwU2xxVGpoVElqcGFV?oc=5",
       "source": "Google News - AI(中文)",
@@ -310,16 +346,6 @@
       ]
     },
     {
-      "title": "SuperCLUE发布办公智能体端到端实战测评：豆包工作位列第一 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Tb0F0eUM2a0FKNmlrbE43VmxuUXJfMEh4LVh3ZWk1LXhiYkwtdnQ1akJXUGpsNUVzeE9tQklxUHBDNFc2N2lRdWJWMTY2TVVDWEFaY2ZjNTBEOHRyNVE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-05T01:58:26+00:00",
-      "summary": "SuperCLUE发布办公智能体端到端实战测评：豆包工作位列第一  DoNews",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
       "title": "OpenAI发布ChatGPT Images 2.6 图像生成速度提升50% - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vc3JTaVhWakxSVHZtUTlMaVR4S2NMWUNNYklBWEtrUTM3OVRKQjUzSS1EX0ktU21RSDVtUVVoZ0sxU3Vjb3VNNFpTOEYtRWp5UDYyRkQzOElNenJKTHJlbUNB?oc=5",
       "source": "Google News - AI(中文)",
@@ -328,16 +354,6 @@
       "categories": [
         "openai",
         "image_video"
-      ]
-    },
-    {
-      "title": "OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画 - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OcWZ2TkEzYWZ4V1lhNUFnTVh2d0dJSnE1ZDBhS0tPa0xSOUdtYmRvMWJVMjNWenVhWnhkbFkzbG1oY3BMSGxRNy1ZYWFONTBhYVA3am5xM0hhbS0wSEE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-04T23:51:20+00:00",
-      "summary": "OpenAI 升级 ChatGPT 图片能力，支持直接生成和编辑 GIF 动画  DoNews",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -358,17 +374,6 @@
       "summary": "OpenAI上线Images 2.6：ChatGPT可原生生成并编辑GIF动图  凤凰网",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude - 量子位",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWXEybS1iMzFZZGhWeS1DQ29ONEFqNDB6VU5GMS1RaXNpY2YtbHdCTjFTcmhMenRvZmNHQzNZV3FWZGoyeXU0R0xKQzA0bkVUX3c5Yg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude  量子位",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     }
   ]
