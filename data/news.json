@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-06T20:18:42.562791+00:00",
+  "updated_at": "2026-11-07T00:13:03.642752+00:00",
   "items": [
+    {
+      "title": "Anthropic研究称AI智能体可以靠“做梦”变得更聪明 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sOEFXN3BYRFdsVkxDS3pSMk4tQ21HSG5mRjRjNFotbzRUNFRFcDhkV3dRZ2IycG9adUhPZF81aklhUFNYT0c4cW9NOFhIZEM0bDU1V2JTVFlmVG12Wk85VHJoZnZEdHdjU1NXc0tvMHZ5dXhkUWViYTU1Q0haVHM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-07T00:07:00+00:00",
+      "summary": "Anthropic研究称AI智能体可以靠“做梦”变得更聪明  手机新浪网",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "院内数智化升级，医疗大模型推荐聚焦临床闭环落地能力 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCSWpTQnJBQ3hmQm03eXVBQ0xya3RJeG5BTVlCVFlydUhjOHdJeGhUS1R2a3lZODBFU3pxZXpJMnFhc0RmWW9qMg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T23:18:23+00:00",
+      "summary": "院内数智化升级，医疗大模型推荐聚焦临床闭环落地能力  品玩",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "发挥生态合力：智能体时代，英特尔如何推动算力落地真实应用场景 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TQm55QW1aR0ZQNEtuRjBqWDEtQ3ZncC1Hd3J0TkhLYVdlT1RkdWs4cWNGakZRSUozMGkwbGRuVkF4X3lWbHlILQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T23:18:09+00:00",
+      "summary": "发挥生态合力：智能体时代，英特尔如何推动算力落地真实应用场景  品玩",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
+      "title": "AI编程工具Cursor新功能：支持与智能体实时语音聊天 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YTDVTaTY5c1Jzc2hCYVlWbkZ0N29maDhIc0NQUWUtSEFGbmE3SHNoWml1d3o3b2NyeUpyc1FpcmwtOTdJU0NWZVMwLXY?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T23:12:22+00:00",
+      "summary": "AI编程工具Cursor新功能：支持与智能体实时语音聊天  凤凰网科技",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "【视频】同级唯一端侧大模型？ID.ERA 5X智能互联能打吗 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HV2I3MEVFOUZyV1hTLW05ZUd6T0Vwd3VFcmZ5ajg1M1FEOWhGQnptTzhHa3VjdTN0YzZqSU4zQ1k4LTEzNWxWa3JqNEtua2xpN2JpOF9uQTlhb0U?oc=5",
@@ -23,6 +65,17 @@
       ]
     },
     {
+      "title": "【AI 智能运维平台】本周更新：AI 智能体新增作业工具，支持脚本下发与文件分发- OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fS0RVeWtRdmtTeWotOWpBTXFIUUEyb3NPLWtYSF9DSjBrM2F2Z2I4aTZoX0dnNFR4cndZOF83MEZabzNuVW85TzlYSQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T16:55:00+00:00",
+      "summary": "【AI 智能运维平台】本周更新：AI 智能体新增作业工具，支持脚本下发与文件分发- OSCHINA - 开源 × AI · 开发者生态社区  OSCHINA",
+      "categories": [
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
       "title": "中国信通院、华为、阿里、腾讯、小米等联合发布公约 - 京报网",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uSE5HRHRRX0JuQ2JNU0wyd1pRQ09tUGR5X1M5dElxT010S1NFaHpOODJ4S2t4MFJYd00tQlJxaHJYUFVaT0RRa0t5SUdpSTZsOGZaSDlRdEJWZDZkYmc?oc=5",
       "source": "Google News - AI(中文)",
@@ -33,10 +86,31 @@
       ]
     },
     {
+      "title": "Meta在墨西哥推出AI智能体Muse——Mexico News Daily - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXZUNkN4TXBuNXN0WElkX2wyMU1USzlkaVhneWd6cFJmZW9VTnRfWnR6RS1iLUY1VGdxSkM1TVFsQ2ppR1Y4d3U0REdCNW1vNUJkSTFGbE9yNUVmd1N2ckJlazgxVWxKWkgzdVVXR09YcWJkakRjZVlGQ2ZOSzN5NUktMFlnMGdzeUUxbGZHRlM3UGtsUnZZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T16:19:00+00:00",
+      "summary": "Meta在墨西哥推出AI智能体Muse——Mexico News Daily  UA.NEWS",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "CNAS｜主权智能体：通往不可逆失控的路径【智库观察】 - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNcGdoYlR3aVFuYTdkRW5WUEJ3WWxid0dSNXc1U0JtdEQ1V202THlYZmNKVEJXQ0dDRVdrQlRtVVpKWnBndTF1aQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T15:40:00+00:00",
+      "summary": "CNAS｜主权智能体：通往不可逆失控的路径【智库观察】  智源社区",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "全新腾势N8值得入手吗？车顶激光雷达加迪迪虾大模型，续航1003km - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQ2kwZGZnNzBLVmxsYW9tMFVaaDk1NVowZXFGXzVtdG9xVFVFcnNGZ0IzVEdlQ21FaWhibTRBdWtfYl9hUG1naXlvbVJQa3Rwc1dYU0VFaUs0cjg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-06T15:28:34+00:00",
+      "published": "2026-11-06T15:27:18+00:00",
       "summary": "全新腾势N8值得入手吗？车顶激光雷达加迪迪虾大模型，续航1003km  汽车之家",
       "categories": [
         "other"
@@ -44,33 +118,45 @@
     },
     {
       "title": "院士专家齐聚、百款新品亮相 2026中国多智能体应用大会在蓉举行 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazdnQXhnRVBqZjRYU1ZTV2V6czNfMUdReEVjWWlWeUsxWllMU1dCUEs3YmVZUzJZN09ZdWpBNW9laGVVbUl1NEhVbzdXVUx3M1phaVhNUUx1VlE2bXp1ajdEYmtVZ3h6alpZWDAxUERmRlZBLV92UzZQZjFUbUY5cGlsVV8tdi1y?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMDlrdFRGUWpSQ283VnVWVGxBbFhlZVBHRm1odHZ0VmdkZGRQX19GTTZQYnFmVEhVODZ5d2lNaDN6bkdiVlRLeUhtU0tfczNQbVdNd0ZWclMzaWlQU2E1UjI2RTNCal9tNHEtU2RTRmRYb0YwbnUzckhUX2FJVkM0QUlNd0ZMWC10VGRMNg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-06T15:19:12+00:00",
+      "published": "2026-11-06T15:19:00+00:00",
       "summary": "院士专家齐聚、百款新品亮相 2026中国多智能体应用大会在蓉举行  搜狐网",
       "categories": [
         "tools_apps"
       ]
     },
     {
-      "title": "【视频】从工具变伙伴，AIc超级智能体迪迪虾解锁全新出行方式 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HajJSMnc1emFGeEhtcmFDd2t2TFlfTTA0X1JsZTA4RmJPekhIbDYwMlNVNXp5RWEwUG9RUm1LcG1meUMyQ1hzYmtTbldheFI4T1l6emtxTmk5NDQ4SEVNZmZnb1E0eEYyZzZ3?oc=5",
+      "title": "qKnow 智能体构建平台开源版 v2.4.4 发布：智能 Agent 能力增强，编排资源支持导入复用 - OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wOW1nWXJ2SFVtUWF0ejZtR2tRTER0QTRuTVFEOV9GWm9zT0dBMXJiQ1g3T3J6RjVvQVhjcFdBMUxOTVhSa3N2Ny1tYw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-06T14:23:58+00:00",
-      "summary": "【视频】从工具变伙伴，AIc超级智能体迪迪虾解锁全新出行方式  汽车之家",
+      "published": "2026-11-06T14:51:00+00:00",
+      "summary": "qKnow 智能体构建平台开源版 v2.4.4 发布：智能 Agent 能力增强，编排资源支持导入复用  OSCHINA",
+      "categories": [
+        "tools_apps",
+        "open_source"
+      ]
+    },
+    {
+      "title": "【视频】比亚迪腾势智能体迪迪虾，傲娇的毒舌模式好有趣 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vMDg4Z2V0MmlMWjdKdExmenNLRlM3RC1VZllLd3VrZmo0LVVReF94NV9pWmxELWxOV0NkOUtKZ3pQUU91NDA3NzdUdzk5a1hhUXppWnd1NlZPb3ZYd08xekZFQU4yb1ZPVlhN?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T14:43:52+00:00",
+      "summary": "【视频】比亚迪腾势智能体迪迪虾，傲娇的毒舌模式好有趣  汽车之家",
       "categories": [
         "tools_apps",
         "image_video"
       ]
     },
     {
-      "title": "前Claude Code负责人加入OpenAI，负责核心产品 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3X1VUS3VHZC12aXN2ZUZyWEQtN0I0ZHUzZTBiRnNoUUtzRktHTG4ybEs1Y3ZDRkRyNkMtTXZORTFHMjEyTTFlb3FkV01MUnh2dFgxOEF5a3dESk8tQmh0cW5leTNBb2lX?oc=5",
+      "title": "【视频】从工具变伙伴，AI超级智能体迪迪虾解锁全新出行方式 - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12OE52U3I2N2ZsdW81aGlaOFJHYmRlZHBjNGNGYXNVMTlFWkRkcmJ6Y3hldF9vT2FDbW1RX3Z6dDhFVDVjdjF5ajRCNExweU5DR1NxOW5sWTE5MlE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-06T14:16:08+00:00",
-      "summary": "前Claude Code负责人加入OpenAI，负责核心产品  三易生活",
+      "published": "2026-11-06T14:23:57+00:00",
+      "summary": "【视频】从工具变伙伴，AI超级智能体迪迪虾解锁全新出行方式  汽车之家",
       "categories": [
-        "anthropic"
+        "tools_apps",
+        "image_video"
       ]
     },
     {
@@ -95,27 +181,6 @@
       ]
     },
     {
-      "title": "CSIS发布：美国政府的人工智能支出 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNE04dGx2WnM2R0tWSnVNc2xfWDJqQ3NzWS1RREFJOTJLc3RuQ1lYRDR2Z1liZXU2RmR0ZnlyOXdpYVY1NWlLajRubGlVYmxCOVNzVDdkd0Y1VEJEVTN2NGh2aGRoeDVIOEpncHVsOG15ZjRTeGR0cmMzSGEydlNvZkl4WG9OT3NnMi00cw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T13:18:00+00:00",
-      "summary": "CSIS发布：美国政府的人工智能支出  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "【AI 智能运维平台】本周更新：AI 智能体新增作业工具，支持脚本下发与文件分发- OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fS0RVeWtRdmtTeWotOWpBTXFIUUEyb3NPLWtYSF9DSjBrM2F2Z2I4aTZoX0dnNFR4cndZOF83MEZabzNuVW85TzlYSQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T13:06:21+00:00",
-      "summary": "【AI 智能运维平台】本周更新：AI 智能体新增作业工具，支持脚本下发与文件分发- OSCHINA - 开源 × AI · 开发者生态社区  OSCHINA",
-      "categories": [
-        "tools_apps",
-        "open_source"
-      ]
-    },
-    {
       "title": "赛迪顾问：千亿参数以上大模型投资回报率仅5% - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhTk83YmVablZpMFo4TGVqanZub1ZZSndTR0FXbDN0eHNCWHpWMmZqcEVpaHVNZ2F5cEV5VGJkdE1hVjlWamZDa2RTcHlONDVrYnljZ3JYUHktV1hKMGFXQ0R3?oc=5",
       "source": "Google News - AI(中文)",
@@ -133,17 +198,6 @@
       "summary": "事关智能体终端！工信部发布新规，约束智能体强制调用等行为  21财经",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌发布Gemini 1.2 Flash：支持15秒视频与多轮编辑 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWENxeGk2MXI3SHVzc1NHRXRCLXRaRW81c3Y2N2xwem1OVG8tNENqSUp0R0luYkI4MEwzX2J1cTl5Y3FVUE8yaHpKNFE5RjI3Zy12TDllVGtkT2thLWlSY2g5Wms1NjROMUpiTTYtNzlIQm5VTFVaUFdsSlZNM3EwaDUycGpWSExrTm5DMA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T12:01:57+00:00",
-      "summary": "谷歌发布Gemini 1.2 Flash：支持15秒视频与多轮编辑  搜狐网",
-      "categories": [
-        "google",
-        "image_video"
       ]
     },
     {
@@ -177,26 +231,6 @@
       ]
     },
     {
-      "title": "号称超级AI黑客！OpenAI GPT-6 Cyber正式登场 - 安全内参",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Pc3BEcTJFV3k1XzBOdmFVc2h5N0ZHLXhDOWR6U1g2aGV4ck1BeWswRWxCaEJuanQyUjg3Z2Z0RTREWmtZZ1ZWNDROOU5RZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T11:34:57+00:00",
-      "summary": "号称超级AI黑客！OpenAI GPT-6 Cyber正式登场  安全内参",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "ChatGPT相关数据公布，周活跃用户已达12亿 - 三易生活",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81alFxMUQxRlZBS1diU09vR3VMZ05hSUkyRGgxazlKaXhtN1piVWdJSWdpa3h5Tk9jQUZwVDJHY3dyQXFoalItNG91aEZkNDVRNGlvbmFzOTF2cW9idG5TQUt3dU1TN0NH?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T11:30:31+00:00",
-      "summary": "ChatGPT相关数据公布，周活跃用户已达12亿  三易生活",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "爱彼迎披露AI智能体计划2027年上线 助用户规划旅行 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WOWtBaHhIck5FT2tRRVRnSlg1RFA0MHpENkxySUhzd1J5VzJLTTZCdU5OYmprMjFPTGE1T2JnWkdONGlMQUlGR0xxRU41SEd4NkJKWU5EQVU5N2hjbHZFOXNR?oc=5",
       "source": "Google News - AI(中文)",
@@ -207,13 +241,13 @@
       ]
     },
     {
-      "title": "三星高管会见OpenAI首席执行官，探讨人工智能转型 - 集微网",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9DWWdpQW51X0JWOEZjdUpsY1NZc2FtbDdQRFVxTlk2WDMzdGZHV2MwZEpDNmlvZUFjaUE0MjlOT1hucDA?oc=5",
+      "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84dVQzQTNzcXpyUkhLRjZvTE5nQkRxdUxiOWtUT19iSGlQUUhPbW9RaHVndnFfN1hMa1hnN1FueTctNUtGWTNzMWJLcw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-06T11:26:55+00:00",
-      "summary": "三星高管会见OpenAI首席执行官，探讨人工智能转型  集微网",
+      "published": "2026-11-06T11:11:24+00:00",
+      "summary": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行  新浪网",
       "categories": [
-        "openai"
+        "tools_apps"
       ]
     },
     {
@@ -247,6 +281,16 @@
       ]
     },
     {
+      "title": "爱彼迎将推AI旅行智能体，2027年上线 - DoNews",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sSFpseWRzLWFiNjdIWEVYVDhrYUF2R25oV2JrRDJwQ3oyN0RCS2JQMld0MnFPeWw1dnZkTm1tZ1hhVVNMS3d0VlFodkIzV3JVWUgyd0l6VjhvaV80VGc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-06T10:27:03+00:00",
+      "summary": "爱彼迎将推AI旅行智能体，2027年上线  DoNews",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
       "title": "以临床需求为核心｜当前医疗大模型有哪些上层应用完成价值转化？ - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YeVZoMVJucUgzVVRMTDhtY0pGaUdxZ3lwZDl1ZWppM1M1UU5QQmVOcTQ0YjNONXcydjV1LUtkS29SaW5PSTllRjFiY2c?oc=5",
       "source": "Google News - AI(中文)",
@@ -254,37 +298,6 @@
       "summary": "以临床需求为核心｜当前医疗大模型有哪些上层应用完成价值转化？  凤凰网科技",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Gemini Omni 1.2Flash发布！PixPix全网首发接入 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9adEZ4eC1nNFpDWmo4OTBvdUZWbUdKZE1XUHlxdjJPMmx6T2xaSHJXdWktLVZ6RjVpLU9Tc0FNMWhsU2VLdlBVcXYwSC1fRmNnckJIaHd3VzBFR1lKQ3FqYUpZaGtSVTVLWjBFX1NB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T09:31:13+00:00",
-      "summary": "Gemini Omni 1.2Flash发布！PixPix全网首发接入  中华网",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "qKnow 智能体构建平台开源版 v2.4.4 发布：智能 Agent 能力增强，编排资源支持导入复用 - OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wOW1nWXJ2SFVtUWF0ejZtR2tRTER0QTRuTVFEOV9GWm9zT0dBMXJiQ1g3T3J6RjVvQVhjcFdBMUxOTVhSa3N2Ny1tYw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T07:46:35+00:00",
-      "summary": "qKnow 智能体构建平台开源版 v2.4.4 发布：智能 Agent 能力增强，编排资源支持导入复用  OSCHINA",
-      "categories": [
-        "tools_apps",
-        "open_source"
-      ]
-    },
-    {
-      "title": "Anthropic 在 Claude 上发布个人理财功能，帮助用户监控财务状况 - VOI.ID",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwTUt5VDlnUWJ1ZTgwNFgybWtSMkVkZDV6aXo1aGhBblBwRkN5SmNpcExCQnAzNlp2eFZRNWJaemtGOTZtS3p5R0lrNzdlX1HSAUJBVV95cUxQZmxxdnVmWkpZd0JsdHdWM2xHbjRkc1R3S0dmMHljNkU4NzJoZ3piYUdaamRreVZGekFfT0NXdnVLMXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T07:05:00+00:00",
-      "summary": "Anthropic 在 Claude 上发布个人理财功能，帮助用户监控财务状况  VOI.ID",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -313,16 +326,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-11-06T02:35:01+00:00",
       "summary": "中之杰科技飞符离散工业大模型+X-Agent斩获全国一等奖  新华丝路",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "工信部发布智能体终端设备进网管理通知 预置智能体须开展适配验证 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93dGVnQ3hnS3NhaWk4ZnN6bllDMUIzWDRPVllZbzZjQTdfMFBGVGs4LUdWeUU5NFZjOUd2dWFaU2pGRkozV01pWEVlZ1RnRHF4cmtINXNlWHliV1lnNzZHcmlB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-06T02:20:12+00:00",
-      "summary": "工信部发布智能体终端设备进网管理通知 预置智能体须开展适配验证  观点网",
       "categories": [
         "tools_apps"
       ]
