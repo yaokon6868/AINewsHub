@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-08T20:16:15.746435+00:00",
+  "updated_at": "2026-11-08T23:55:12.082697+00:00",
   "items": [
+    {
+      "title": "会做梦的AI，记性反而更好？Anthropic新实验：写了413份笔记的，输给只写9份的 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5S1N6aDNEMUpIbGZrcHpYVFM3LXR1MTQ5RGM2Vm91X0owZ0RLTElVRGxUMFNrc0Eyel9ZZnlmeDVCd1BzSHluRHJ0Ylg4cERIWjZ3NjM5UFFsMXlod19BaDVaaHVQQk8yNzZlaDhiVmM3R29sbllPbGpFNFZNX0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T23:29:21+00:00",
+      "summary": "会做梦的AI，记性反而更好？Anthropic新实验：写了413份笔记的，输给只写9份的  手机新浪网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "英伟达董事会启动安全调查：AI芯片巨头的高管风险与供应链信任大考 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUo5NlpUbGVVLXFGRGk1T0hzYVp4dllXM0p6VWJXTGI4NXVTOWg3N3N3RXNNMXJlTXozR0ppRkhCcTZ4Vm9kMEdHeGFSZmdoRkJWeHFLMkFxTkJTNTNRNzZtS0VwQ3FTUnB2TGpfSWdfeVJOQmFhbnhMOEV1TE1SbDZKT0piLWt5?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T23:16:00+00:00",
+      "summary": "英伟达董事会启动安全调查：AI芯片巨头的高管风险与供应链信任大考  搜狐网",
+      "categories": [
+        "other_big",
+        "chips"
+      ]
+    },
+    {
+      "title": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBua0lNbTFJX1ZmSTRWLWhCR0VyazNEa2NNVmlGLThYVVJ1UllmNm1kTWFMWnZ0Rl9zRWJEQzk0UGhRV09WdXNXbngtc3U5eVJySVE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T23:10:04+00:00",
+      "summary": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层  凤凰网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "腾讯元器停止服务，明年1月起不再受理数据导出申请 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VVnpQNGFFYWxyRG5FN0RDWFNIaVpnOFI3amk5THRWcjJGWF9Kb09FdEMxdDNKTGFCaFZ6ajNscWpwN1U0XzBjd0RtdEQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T23:06:13+00:00",
+      "summary": "腾讯元器停止服务，明年1月起不再受理数据导出申请  凤凰网科技",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "强化学习训练大模型，到底改变了什么 - 科技行者",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXWUcwb01Cb01WNy03Xy01NGpsQnFuZUdfNDlOWnY5bTVIb2hzR2FaT2daOXJCNkhobm9nb1pMWjQ3T0syZDZNc1ctVi1KcGdQd0JySVRyYnYxdDVSRlRB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T23:04:00+00:00",
+      "summary": "强化学习训练大模型，到底改变了什么  科技行者",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "苹果AI计划曝光：古尔曼称最早明年让Siri更像智能体 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54VTJFakVkam5EOTVLUi1ia3ExUnVwaEh5RnJ4emVTZVNoQ0ZDZ1RMdjJEOFBpVVJaSndHdWtyUnJCajYza2lHNUtGdXgxZ0IwZ0E?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T22:30:38+00:00",
+      "summary": "苹果AI计划曝光：古尔曼称最早明年让Siri更像智能体  凤凰网",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "中国气象早期预警方案“妈祖”在沪发布十大创新场景 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tVE5DYXZuaVpkYWNDRkZ2eXlyZ0NZSmY1RXltQnM0VDdVVUVkZGxTUXE5cmxjOTBrbW83eklvaHZfVUoyU2Rhc1FESmJLaVRuQTBBcmVrZngzdEZuaURGX0M4UzhhNFV3UUZfcEZuX21YQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T21:10:00+00:00",
+      "summary": "中国气象早期预警方案“妈祖”在沪发布十大创新场景  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
     {
       "title": "MoMA平台汇聚大模型中移动：降企业AI开支 - 星島頭條",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPZU12S0w0elFZYXJ2R2s4NjJzak93dWFvaDdhUl84U3Z2WVNBMV9rdFBBc0RPdF9XNl9PTHZEeV9BeXdYMlJKTGdWb29WaWc5ZFhHbjUxRDlnR0YtWk50TjczTlQxRFRnMms5emp6SDRUalpjcEdJYTI2dGlnN2EwSHlndzlLSmlYVjBFTFdqOU1yaktaTERqaUozZFhaVWJISkd6b0YyNUVRQWF0U2RUcnRyU2RTOTN5VVd0RmJwOEdyeVpuNG80MHZUeEpoOVUwTHg5cXdDMVlnY2NaNWU0VVJBMWJGRXhKZU80TEhHNjRBRGs2WFNwek9QRHYxZ2Y5blNOVTVDc0hjajZaZm1qZ1ByS2RVNDhLTERyMHdIaWgwNkx1?oc=5",
@@ -12,23 +84,13 @@
       ]
     },
     {
-      "title": "新华鲜报｜世界媒体峰会上，北京亮出AI“新名片” - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aM1IzcXRuMXVWY1dJUUVPZHotb0xhWENRY3d5SXlaSWtMM25BV0ZSWDNHWFQ3bFVSYXNLemU2Wm5iR2cxUlh3b1gwdDFIZ0FudmdRMzZFRExhZktzX1NVYUZlNl9BUU1mcnB0MWh1dTkyZw?oc=5",
+      "title": "四维图新发布向移动智能体领域拓展战略布局 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kb1dMMzFQazdkN1ZNRFNOWHRKUXFRZ0QwbnJLZVNLcHY0eHJadEhaRGJJVTQ0bFRPYzBtVUFGNHpoMXJLZjg2SUhJQm02NHFrZGFldFVMVDhocG1tMmxVOGk2UQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-08T17:38:00+00:00",
-      "summary": "新华鲜报｜世界媒体峰会上，北京亮出AI“新名片”  手机新浪网",
+      "published": "2026-11-08T17:48:52+00:00",
+      "summary": "四维图新发布向移动智能体领域拓展战略布局  东方财富",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了 - 区块周刊BlockWeeks",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KRzctZURKcDFIVUFIN1UzaV9sZU8yRW82QTFheWxpV3AyZWZYTGFlSG8taUE1N2tuSHE3YnBzN0lxT1QzRUFOSzhB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T16:56:37+00:00",
-      "summary": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了  区块周刊BlockWeeks",
-      "categories": [
-        "other"
+        "tools_apps"
       ]
     },
     {
@@ -52,16 +114,6 @@
       ]
     },
     {
-      "title": "中国气象早期预警方案“妈祖”在沪发布十大创新场景 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEJNdzBqaEYxSFJwdnZRMC1ZTzFua016YVM5eF9VcG04N1FtM21VOHB5cC1icFN3dXloN3pYWUtjZ2hTWGNEUjVJSlRXMWZ5VTBXMWI0WFpVbDFib1RzOF9TUXQ5SzJRLTFGVmJBNUIxZXNzWUlBTzZ3c0RJRmJZNlZfVEJyRjFLNmVHQg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T13:46:51+00:00",
-      "summary": "中国气象早期预警方案“妈祖”在沪发布十大创新场景  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "广东广播电视台联合推出全国首个APEC主题智能体 - https://guan.media/",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzRUpBYlFBZEZ6b1Zka0dWS0MtektEb19oNW1veWJHdU56c1FnaGM0ZW43TjlXZEQ3eHcyWWhvM29iRng5T1FuOE9YN3JRTTVUcS1z?oc=5",
       "source": "Google News - AI(中文)",
@@ -70,6 +122,16 @@
       "categories": [
         "breakthrough",
         "tools_apps"
+      ]
+    },
+    {
+      "title": "通用人工智能环伺，教育垂直大模型能否跑通“C端”商业化？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjN2M0lTU3JmbWQ2Uk82S1NhWHctUkNTODhMWDBLODdMVklzUGwtc0xtenRkckNvSDg3RjU4c0FqZ0hocmExaWoyLVdxQXdaOF9GZHpsM1NIOFNIUTVJV0owaVpxcnoyLWV5T09rdzlDWVo2VTI0dExtWEh1bE5nUEdJNlRIdk1j?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T11:16:08+00:00",
+      "summary": "通用人工智能环伺，教育垂直大模型能否跑通“C端”商业化？  搜狐网",
+      "categories": [
+        "other"
       ]
     },
     {
@@ -115,17 +177,6 @@
       ]
     },
     {
-      "title": "Claude dreaming，Anthropic发布智能体记忆测试结果 - Pasquale Pillitteri",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXFDbExYZV9oNEZCWTFtU1o3RFlWMF9rR09pTjVBU2pfNzFyWnZneVlFT1RzWFVLTnVjU3VUaW14ZFFJUDJIRUdIb2lHdEk3TWRVUkNNRTVyb2hvQV9LQU9EeTlNRGkwTDZYWmg3djFQbEZPUFdhc3Q2aVloeWw4YldFUFBtYkt3SWpWcmJkY0w5YjUx?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T10:01:51+00:00",
-      "summary": "Claude dreaming，Anthropic发布智能体记忆测试结果  Pasquale Pillitteri",
-      "categories": [
-        "anthropic",
-        "tools_apps"
-      ]
-    },
-    {
       "title": "ChatGPT 现在可以制作 GIF，并保存你的照片以便在后续聊天中使用 - Notebookcheck CN",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FM2hYOVFYRnZGQVQ2MFJxQkpXaVFKemsxdHo1U2JQYUlIWFJ3aUc3REkzdE8xbm12RUFEaDd2UnJ1NDVyR0lxcEtuU2d5dnY0MHZrNFAyUzhSUnM2Tnl3MjhlNWFiMkc0OUc4?oc=5",
       "source": "Google News - AI(中文)",
@@ -147,11 +198,21 @@
       ]
     },
     {
-      "title": "垂域大模型看山东｜宠物口粮谁说了算？AI大模型当上“配方师”-新闻中心 - 东营日报",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWTBJYlZhUko3amNtcDJOd3JBaGlPMWl3SjBlX1JyR3U5NTNHM0l4bEdiX1hiSnk3eExoTVBTQ2trRkpfRHZsQUdoOVF0TWRuTV8xM2x2MUViQnpZSFVleGtRTVNYVHlsby1IV2pIWQ?oc=5",
+      "title": "NeurIPS'26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97% - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYlh2YUwwcnNsNEJwTFlDQ1k3RzNyMEtnMmdWNEQ2a1dQbjdVbmp1TDJqQk43QTZLZDdoLUkwNmtvSktRanJKVGwtM096NXdZZGJsNmJZQkwzNWFPNGk1WEJsdXo3M1R1aG9sZGhGMzhKT2RXOXBEM0VQOVU4c1NxdFFrdHJFTmd2?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-08T09:45:00+00:00",
-      "summary": "垂域大模型看山东｜宠物口粮谁说了算？AI大模型当上“配方师”-新闻中心  东营日报",
+      "published": "2026-11-08T09:47:14+00:00",
+      "summary": "NeurIPS'26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97%  搜狐网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "垂域大模型看山东｜宠物口粮谁说了算？AI大模型当上“配方师” - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEswMmZiY0ZxelBFb0ptNERYSHkyWGJYcGhxS0xXSHFCRTRGeS1XSVd0MUd4SWZQYUlSYW42bjZfbDI1Yy1lcTVtckM5X3ByZWFjc0dGTGtWQTlHX1ZIV19aejJfeDU0akd1OXJyeW94alZVbThLTnJRNzBGSnlZN1FlRnlTU1U5dHVmaw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T09:46:03+00:00",
+      "summary": "垂域大模型看山东｜宠物口粮谁说了算？AI大模型当上“配方师”  搜狐网",
       "categories": [
         "other"
       ]
@@ -178,6 +239,16 @@
       ]
     },
     {
+      "title": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44T1JkeWpMN0tmRzQ5OWRRN2FGWllTNzYyM2Z5UlFRQms5NU81aVNnUzFhMElhcjQtenp2dUZ2d1plaTZJSWJHRlAyTkxnVVhHdVBPZHVIcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-08T08:48:30+00:00",
+      "summary": "GPT-6之后，具身大模型画地为牢！明年自研预算估计悬了- 产业链  光通信Pro",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "Anthropic研究指出AI智能体团队存在伦理风险——CNBC - UA.NEWS",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFJzOFhCeEZzWTZyejhzX2xrNjhoWWVOX2xSb0JfNE1VT2tteEFmeUhIclNfcW0tNUZhWXdnT2UyM1U3SkV5S0FnNjhseXcxY0gtVXpVWkNRX3cyWkpoTFdEZ1lYZ0NjcVg1TGtTOHQyN0tqQnBMRUNScXFfSkVZb2ZPV0d5OHRubGRNd0ZjMXhuMFNnc1dlZWt5RTVKODBTalpEYVNzMXRpdw?oc=5",
       "source": "Google News - AI(中文)",
@@ -186,17 +257,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "高通万卫星：终端侧AI从单点应用走向智能体体验- 产业链 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VcC16TTNMd3JOSWdjd1JHQ0ZlWW1FVnhfWXFVZ2t6ZmtJSmZaQkdOYWlBakFtcURMX3pPbU95RkpJb0xMZGUzODRjUkViZkNTT1JZdElraw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T08:13:24+00:00",
-      "summary": "高通万卫星：终端侧AI从单点应用走向智能体体验- 产业链  光通信Pro",
-      "categories": [
-        "tools_apps",
-        "local_model"
       ]
     },
     {
@@ -241,63 +301,15 @@
       ]
     },
     {
-      "title": "从“会算账”到“会驾驭智能体”：这场大赛把企业真实业务搬进考场 - 华龙网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRODU4dHpMLWxJN0Y1VnFTbXQ2bXIwOHo2aFZrLTJaQWtUb1Y4bXBVcGlmTUZHZE9pYjZhNHpWaU9tOEJwYUE1cUpkUXR3VWkyVTNOcnkzaWtMUVg1RW9nTThvUFhKdm9NLVJZ?oc=5",
+      "title": "终端侧AI走向智能体：MoE如何突破20亿参数天花板 - 茉莉花新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tMFhwQk1KaDViS3Qtb1FIR2laazNyazFxN2RaZUNZdHZVN0U2QXdpY3BWZk5xYkhRRGZYb0ZIbXFTLTBJRVE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-08T02:44:33+00:00",
-      "summary": "从“会算账”到“会驾驭智能体”：这场大赛把企业真实业务搬进考场  华龙网",
+      "published": "2026-11-08T03:05:23+00:00",
+      "summary": "终端侧AI走向智能体：MoE如何突破20亿参数天花板  茉莉花新闻网",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "从“自证清白”到“因果链条”：智能体如何重塑运维排障效率 - 53AI",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMcHJfWmVsbzRxQUNMbUlsX09SN1YxcFhFcU1pZEszeFplSjNOR3FlcmxxZ0NCdEcwS05rT3dhVm5wYjVGSmNRcVNGb1BBUVBzczlfZFN2WDlUdWdYaDlRLTJubkJtZFpvZ2JYWU5NNmI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T02:10:44+00:00",
-      "summary": "从“自证清白”到“因果链条”：智能体如何重塑运维排障效率  53AI",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "“人工智能+”“人形机器人”“词元”……2026年度“十大”科普热词发布- 科教 - 中工网",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbE0xbHVOaEFmNUc4Qk0ydS1pcWxsNDVMV0RTTU0xR2o3RmxIWHhRdzhoNnhIOGQ1alE3VExpQWkwOTZFcUxxZGlMTWE1WS01dTJzZFlhZnF1R1F0X0hr?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T01:59:00+00:00",
-      "summary": "“人工智能+”“人形机器人”“词元”……2026年度“十大”科普热词发布- 科教  中工网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "ChatGPT突现账号停用风波 含200美元Pro用户在内多人被封 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91V3NPNDdFZmN2SGxYb19ya2tveWozZXNPZXRUZGJVWVdsdXdVY0h0TEJGd1lVc3ctLVoyQnUtZXNkSGhiRXBLR1pWcTBIN2xER1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T01:40:25+00:00",
-      "summary": "ChatGPT突现账号停用风波 含200美元Pro用户在内多人被封  凤凰网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布 - 凤凰网山东",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqaVV3TnJEUVh0XzZkZEVNWm5nRVA0S2t5bzZpOHBaM2QtS1AwazcxMHJrQVE4QUZOYm9XZnZYeUM4S05TbjExNnB3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-08T00:05:39+00:00",
-      "summary": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布  凤凰网山东",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "大模型都迭代了，人还不变，时代进步亚当也进步 - 腾讯新闻",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hUDZqSEJvZlR3NFNpR0l4d3IxeUZlMGM3eWZpd3NEWjdRem5tbzRCbE9uLTYtUjhSQjBid1VGdXhReFpWa1BjT3lBbzR3dWhZcHoxMTV3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-07T23:10:00+00:00",
-      "summary": "大模型都迭代了，人还不变，时代进步亚当也进步  腾讯新闻",
-      "categories": [
-        "other_big"
+        "breakthrough",
+        "tools_apps",
+        "local_model"
       ]
     },
     {
@@ -358,17 +370,6 @@
       "source": "Google News - AI(中文)",
       "published": "2026-06-15T07:00:00+00:00",
       "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "华为将发布Agentic Core解决方案，加速智能体网络商用- 华为 - Huawei",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWkFJdmx4ZWVBdVk1UlFzb185MldobjNwclFPX0tOT2pwTmg5WHM4WHVuVzFlSFk2enlfeHFRZV85ZmRlQmhKNDlPTWUxRFdLRDd3YmRVaGlyZ2hkNGRSbmY2M2dJUng2QTZvSVp6UmI?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-03-01T08:00:00+00:00",
-      "summary": "华为将发布Agentic Core解决方案，加速智能体网络商用- 华为  Huawei",
       "categories": [
         "other_big",
         "tools_apps"
