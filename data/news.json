@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-11-10T15:27:42.662658+00:00",
+  "updated_at": "2026-11-10T21:23:55.248977+00:00",
   "items": [
+    {
+      "title": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42UktFRFRnOHBsRGwtZnBONXR5R0ZnMW1OeGhrWGlaRTJaZk9faVdjSE8zazE1ZElOamRBdl83bU81QlZnTmVGOEk3WVFFUVdPZkZv?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T21:12:07+00:00",
+      "summary": "OpenAI推出ChatGPT企业功能，向谷歌广告市场发起挑战  华尔街见闻",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "20个创新应用场景集中发布 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFTHpZMHVxVWd3R181VVJ2OE1UcmFybWswaGFxWnBoMW9EWjVSbUFraHpjLVkzMkZ5a1c5ZThySm1tbE56LVFIMHd1NTV5cXdWQnpXV2gtN2llT2dKVGRSMllyNUZ1TjZCaGVjakF0djhOdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T20:36:00+00:00",
+      "summary": "20个创新应用场景集中发布  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "ERNIE Light DT 1.0 对比 Gemini 3.5 Flash-Lite：缓存还是眼睛 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3BUWkxLbDRWY1o0RGJqeDlnSjV4Tm9HNFJEMUo1V3lvWjA2d0h4bVpGQ2xJSlVBRkgzVE40WWdnNFZOX2NRd2s3WWpRSWlqS25fSlB3WFJ4bk9BTDF5SXBBSlVxemJPZ01mcXRMYXhWOVJaMUFxMmtqamUySk5fN2xLLXRRXzA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T20:29:32+00:00",
+      "summary": "ERNIE Light DT 1.0 对比 Gemini 3.5 Flash-Lite：缓存还是眼睛  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "微软盘中一度跳水超3% Anthropic上市前夕推出AI办公套件 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQm1jVEhzSE9wZW9jdDNhcFViNXlCRkJTT1dFZUs3T21KMFQ1T0Q2elF2djVXMXpDX1hudVpzUjJOLWZiM0c5SWZsVFRHdjNQbWUzeGVpSE44Z2t2MHFnQnRwMGdoV25yMkN1R0lBU05lRE8xZXY3YjJfRlY4YkVaZlZabEJyS2R6bV9SSg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T18:54:26+00:00",
+      "summary": "微软盘中一度跳水超3% Anthropic上市前夕推出AI办公套件  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "实测完Claude Fable 5.2，我感觉A厂还在藏东西。 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFZxX2xQYk9MZG5QUHhiSDVuQS1RQVl4aTM2NG5SQU5vM2JLMHJkdUZfMkFLODdWc002ZXJwYVRMMUZMYW9qcXFTTmhIekFaVkZMX0dNY0RpR1dvQUV6elo2N3lQTDBxZF9wbWJidXhyb2JFOEkyU21mcExWSTg0d3ZkT3J6MEtmQk5zaQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T18:50:08+00:00",
+      "summary": "实测完Claude Fable 5.2，我感觉A厂还在藏东西。  搜狐网",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon 对比 DeepSeek V4 Pro：37 分，4.4 倍成本 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoejhNZktaV1I5Q0pObnFRb2kzeVpmR0Y4NDV4Y2R6T2V1STBtcDRWS1ltaE45MkpHS0F3ek90UnNYOHBCV0ZPdkxsVk9xV2RtWk9lYThKWlBqdmRQcmFSSU1fQlJXNVRrbUtZWmwtNVBfdGJyNDBDUHR6NA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T17:34:58+00:00",
+      "summary": "Gemini 4 Carbon 对比 DeepSeek V4 Pro：37 分，4.4 倍成本  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon 现已可调用，价格将于 12 月 1 日翻倍 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQRnFMYjM2dC14NXJnTUZ5NmZ2Vm5lUUV3V0N2WFVjcGFvTGJjWjViNUhOWWV2VlFQN3NzV0hpTlh3MG1iOFNKNzlGVk5xODJ5ZzBJckxxekhkdEZ2Q2Zfd3dpRkRxSnVqamZld3AzRTJ6ZkUz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T17:32:22+00:00",
+      "summary": "Gemini 4 Carbon 现已可调用，价格将于 12 月 1 日翻倍  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon 现身 Antigravity 构建，带来 Low、Medium、High 三档 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEdJa1JnYlZlWUxWZmdHUmNMamRBWTJZR2s4ek92aU82b1lCUEJrV1FwOXY1bXRGcjlMcU9ITndZZDgyUzlGa3p3YVBTNXNYLUVPNmprLUIzUzYtMGFKYU05SnVHWU1hRmYwQTQtbzFiZnk5RGxDTS1icmJGdGJQa2ZPaGo1eTBIdVFBWVdjVVE4czda?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T15:49:45+00:00",
+      "summary": "Gemini 4 Carbon 现身 Antigravity 构建，带来 Low、Medium、High 三档  Pasquale Pillitteri",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Claude“做梦”机制大公开，AI睡一觉学会通关宝可梦 - 创业邦",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuUTlXbGphNGtEaGxRUHZPZlRaLVpkR3pVN0xPYl9QYi1Vems2V1BBc2VFLWZSZm9ZUlZSbENvOWRQSURTS2MtUzlJUWxkV095?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T15:11:20+00:00",
+      "summary": "Claude“做梦”机制大公开，AI睡一觉学会通关宝可梦  创业邦",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic、英伟达同日上新 机器人真的要“长脑子”了？ - 财联社电报",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiY2VKTWxKZ1NVbFowVzJxMkVVYmsyT0lZNTB0RlkxeTZPbUhnS0dUZmUtX0tPS0FGMll5N1Y5S1hhS0hMenc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T15:10:08+00:00",
+      "summary": "Anthropic、英伟达同日上新 机器人真的要“长脑子”了？  财联社电报",
+      "categories": [
+        "anthropic"
+      ]
+    },
     {
       "title": "浙大发布《人工智能法》建议稿2.0版：细化智能体授权、跨生态接入与责任规则 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBncC1YUG52a0dVQjJyUGZpSkg1T3dsaTVpdE10M2VUUGUwUGg5Y3czVnpLUnJCYmdkMHRGRFl3TlVIeGJJdkJ1LUNYcFdGdTF3WXFCVDVaWEVNQkY4MmpJd3ZYYTZSU2J2WVRqMGVFQUFwZkNEdXJNWlhWeVZSczA?oc=5",
@@ -12,14 +112,13 @@
       ]
     },
     {
-      "title": "【图】以数据与算力为基，四维图新驶向“移动智能体”新航路 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNndFc3dUMk9mamRYQU9yVmNJTzBkc3pWbzF0Si15U1VXS2Y1UEl6R0xQNHZhSUhkbnpCaEV6N0ZqZGJRRmswTktYNlNZYjM2WnBUeEpENzdtVkFpSmJUeXJn?oc=5",
+      "title": "号称行业首个具身全模态端到端交互大模型！智元机器人发布WITA-Omni - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTZaM2V5Qkg1dlhBbjRKUWpuYXd3YnZvaklBWkdUT2xieHNiaFJMUWk3bFRTUU85TTFEZWJ5a0toR1VSODdtREFNZDBpa1NkdUI4NTVsT0NHNUd3VVVxREtqVmxXdENwY2VKbDl2bUwtT2xRSnI0WWxoS0phSWllOUlxRUo5UWw5?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-10T15:04:06+00:00",
-      "summary": "【图】以数据与算力为基，四维图新驶向“移动智能体”新航路  汽车之家",
+      "published": "2026-11-10T14:42:26+00:00",
+      "summary": "号称行业首个具身全模态端到端交互大模型！智元机器人发布WITA-Omni  搜狐网",
       "categories": [
-        "tools_apps",
-        "chips"
+        "breakthrough"
       ]
     },
     {
@@ -43,6 +142,50 @@
       ]
     },
     {
+      "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词- 产业链 - 光通信Pro",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zT0ZveHFTNU9UQXRZRlBaN0NVTTkycFhCVmxyaTlJaW1ZcDUtYUhRb2lZeHVibG82T3lVRURzbFlSbHZXeS11dko0ajRPRUZGbVJuMTlKMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T14:10:58+00:00",
+      "summary": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词- 产业链  光通信Pro",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "【视频】比亚迪智能体迪迪虾，毒舌模式也会被怼到“生气” - 汽车之家",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ESlgxbmVURUtrUXNpV2dONUJmcXhpLXF6RjF4SlRjRzRWbUUzaV9QODZRWEFEQ2VORnQwcTEwRFhEdjBHc3Fwd1BFbGFvU0I5T3V1dFNkQ055Y2M?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T14:02:07+00:00",
+      "summary": "【视频】比亚迪智能体迪迪虾，毒舌模式也会被怼到“生气”  汽车之家",
+      "categories": [
+        "tools_apps",
+        "image_video"
+      ]
+    },
+    {
+      "title": "DEEPX发布三星2nm工艺端侧AI芯片 功耗只有约5瓦 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3VqYnhfc0s1VXl3QVRucFVld25KNmJlTVE2RXdTNzRDMlRsUDJCc2J5NDUtTHJ0ZVo0ZEFpdy1UZW04UWlHLV9uQkFBU2hJSWZyNjBpTHotV1hxWEFheTh5LWktaW5jRllqeTNxcHJmNTlSWTR1X1JnbFREeFVQaDBtajBaeG9Y?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T13:30:00+00:00",
+      "summary": "DEEPX发布三星2nm工艺端侧AI芯片 功耗只有约5瓦  搜狐网",
+      "categories": [
+        "other_big",
+        "local_model",
+        "chips"
+      ]
+    },
+    {
+      "title": "21专访｜AMD全球副总裁唐晓蕾：智能体时代，算力要跟应用走 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdTFmWUpfNFAwMGlaakhDZGRfakQ1N2ZNSEIzTU9RVlFVVUNZMEVOSTB6YzRJSjMtN21MU3pTQ245WklPRXdwUjZTdnlkel9XeVV6dW92UHkwNG5sMUh5UlZJOXZvRGE3eHFaX21hYlpWdTVnQmYxLV9LdXBpM0VwSEVzUUFOQ3BrSzhZMjJIMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T13:19:00+00:00",
+      "summary": "21专访｜AMD全球副总裁唐晓蕾：智能体时代，算力要跟应用走  21财经",
+      "categories": [
+        "tools_apps",
+        "chips"
+      ]
+    },
+    {
       "title": "20万颗出货量之后，大模型能给新芯航途们带来多大机会？ - 21财经",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHZHU2I5WVJXeUR3RkJlTVlOSkFkaTE0RjJnb2hZYXBBNkpUbmI1TFowUW9RWlNrV2V1SmZodUNtWEN3cEFoU2RKTjVhX0tRaWg2NlRGVnFCbXV5WG1uYmNNNXp5MUxtazJIeTA0SHYyM1NKOUQwd09uMHJHOUlCRUhDYm9NdER2UTR1d2xRSQ?oc=5",
       "source": "Google News - AI(中文)",
@@ -50,16 +193,6 @@
       "summary": "20万颗出货量之后，大模型能给新芯航途们带来多大机会？  21财经",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "谷歌云：Gemini for Healthcare今日在美国开放预览。 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IQ2RwYk9XSFdZdTNwaUpibDc1YlV0NG9jNUJoZWtYTWluMlVTS0VOZEVHR3d0c2o1VXVvMVlWSzFjbWhmT1ZSLTZwRQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T13:12:10+00:00",
-      "summary": "谷歌云：Gemini for Healthcare今日在美国开放预览。  新浪网",
-      "categories": [
-        "google"
       ]
     },
     {
@@ -74,13 +207,13 @@
       ]
     },
     {
-      "title": "Anthropic、英伟达同日上新 机器人真的要“长脑子”了？ - 财联社电报",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiY2VKTWxKZ1NVbFowVzJxMkVVYmsyT0lZNTB0RlkxeTZPbUhnS0dUZmUtX0tPS0FGMll5N1Y5S1hhS0hMenc?oc=5",
+      "title": "总投资超7200万元 重庆市国资委发布人工智能应用场景机会清单 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3ktUnpIZmpuNXV5YlNSWFNKZ0pRWGptdzhYelVvdHJqN3daTkJiSkN4QWdSR0d6dkExajIxRzNJMXRKTTk2TFFwNmxBN0luV083WUVvOENYdTBKU2VrZWluTkJzNi0tSmdiRno1djhuZXBFS19uRlRkRE8tdkVSUy1DZE16RGlp?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-10T12:51:22+00:00",
-      "summary": "Anthropic、英伟达同日上新 机器人真的要“长脑子”了？  财联社电报",
+      "published": "2026-11-10T12:54:20+00:00",
+      "summary": "总投资超7200万元 重庆市国资委发布人工智能应用场景机会清单  搜狐网",
       "categories": [
-        "anthropic"
+        "tools_apps"
       ]
     },
     {
@@ -125,13 +258,13 @@
       ]
     },
     {
-      "title": "台积电(TSM.US)10月营收飙60%：AI需求仍旺，却难挡市场对“监管+融资成本”的担忧 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZUU5EVW16SDdvNWtTSVdWVjJKelNyNC1aUkdGSXotME9tcjFJUjZ6Q2JVbXd3Yng2Z2dzeWVFRDZVRjZnTFR2Y1JrY2xET1F4WnhqLWJ6TXNsblptU3Y5VjB3?oc=5",
+      "title": "对话红帽：中国AI的底牌，不只是大模型 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUlocjNtTHU1ZjJ1c0I0V3plTnBlaTBnNGZYa0c4X2VoSDlxd0ZsRDBQWi0zVUJ2ODJKZ1ZkclhjdjIzNEE5QXJvZi1UV2hpQUhkbGFxelJ0S3NUVW14UlpZMHdWei1maGpZa3Q1WEFjRHktOXFIY050TEp3NVp2bWRyX2hPdWF4V0hVLQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-10T11:47:30+00:00",
-      "summary": "台积电(TSM.US)10月营收飙60%：AI需求仍旺，却难挡市场对“监管+融资成本”的担忧  同花顺财经",
+      "published": "2026-11-10T11:48:50+00:00",
+      "summary": "对话红帽：中国AI的底牌，不只是大模型  搜狐网",
       "categories": [
-        "breakthrough"
+        "other"
       ]
     },
     {
@@ -146,13 +279,13 @@
       ]
     },
     {
-      "title": "Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rRmdLVFJEbzBTbXhmYkJmRThDbS1rc2VLVE9Bdl9CcUtmVE9fX19FZTVqY0lHSWZ6Tm9PRnhoSVQ2RkVKMVl1Sw?oc=5",
+      "title": "AMD高管称，Zen 6并非专为智能体AI设计 - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlFzVmxhMV9OeUVjTHBFV2puVkwyNWxzaVdTeXVCN2pEZGtHMFNvNEVqMkFNS1hGeUJqWXlKM3Vmb3AzeEpmajJ1cklBMkpaeEJtNFZ6R0tVZEFvSFhmd2UwZmc0Q0ZkNEVtTnhWaTloTi1nUVpwVXItVnYtek9TV2FLeGtVRm9McEctSVU3WQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-10T11:20:00+00:00",
-      "summary": "Claude「做梦」机制大公开！AI睡一觉学会通关宝可梦  智源社区",
+      "published": "2026-11-10T11:29:00+00:00",
+      "summary": "AMD高管称，Zen 6并非专为智能体AI设计  Mezha.net",
       "categories": [
-        "anthropic"
+        "tools_apps"
       ]
     },
     {
@@ -176,118 +309,34 @@
       ]
     },
     {
-      "title": "金融大模型如何从“辅助”走向“决策大脑”？这场交流会给出实践路径 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2FlYXRzY1R4SGZyT2VWVXJYQnhOZnNaZ2hEczhaTXlZVXcwMTNtaHU5ZFZGVkhRTnAxLWVrdF9SeUZFRUpiSnhyOVJsRE1feVBVa2NYUXRCMVVSQTVhSmw1VGVKMDZRaHJvSmRBRTdTUzBOaHg1Y2JjN1BkZGNsQjF0a1VvbVh0QWxwUw?oc=5",
+      "title": "Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkFEcEVaSTlhbFdpWGdkaHI1ZUhDbHV3UC0wdmt0clVQdVpXUDNGcHA3ZTZERGJLbktkYUVjdHJpSktlMWU5WWw4ZnJ5TDlIWFVrd2VmNDlueEtDZmI3UExxMDJxWXVVT0ZubE9hcXdIMGJZYUZLeEZxYlBVeEUyWVBRU3dSa0NQMGg5YQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-10T10:05:25+00:00",
-      "summary": "金融大模型如何从“辅助”走向“决策大脑”？这场交流会给出实践路径  搜狐网",
+      "published": "2026-11-10T10:24:01+00:00",
+      "summary": "Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准  搜狐网",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "金融大模型如何从“辅助”走向“决策大脑”？这场交流会给出实践路径 - 上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yMEVoWTVKdEl4RzA4ZzllY2NzMGl2NHVvN3pmRlB6REhjWGk1LWNBUTFKd0JneEJDT1gxV24zOU9VNWo5VkFvTjhQdUNadmxKWl9ZWVdpS2Y5T1VKbXc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-10T10:05:00+00:00",
+      "summary": "金融大模型如何从“辅助”走向“决策大脑”？这场交流会给出实践路径  上观新闻",
       "categories": [
         "other"
       ]
     },
     {
-      "title": "对话红帽：中国AI的底牌，不只是大模型 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUlocjNtTHU1ZjJ1c0I0V3plTnBlaTBnNGZYa0c4X2VoSDlxd0ZsRDBQWi0zVUJ2ODJKZ1ZkclhjdjIzNEE5QXJvZi1UV2hpQUhkbGFxelJ0S3NUVW14UlpZMHdWei1maGpZa3Q1WEFjRHktOXFIY050TEp3NVp2bWRyX2hPdWF4V0hVLQ?oc=5",
+      "title": "AI招商智能体“聚荷”首发 荷花池国际商贸产业园发布《产业地图》 - 四川新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mS3M1WXFmUE52VU8xa1p0UFBTN3UtWjRyT3NVenFEdXAwSEc1cGV3VVduTmVGQkxNYjJIeGE4TGYtMEdNMGQ0WnhyMFRCQ3lwd3Q3WEhXbGlrNjdZcHA3MmpzOA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-10T09:53:55+00:00",
-      "summary": "对话红帽：中国AI的底牌，不只是大模型  搜狐网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "视频｜计划总投资7200余万元 重庆市属国企发布人工智能应用场景两张“清单” - 华龙网",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2THZVTEVKY2ppWDFNdWlJRXFNbDZSRnNZMnYwdEZfOHBOcUh0SHp0aUF6N3l0bnd5S0pSNjVmTkswYTlJdkNkSk9zUTE4MWFPY1otNTk0Rjh0Tmt5bnRzd3RJRVB5cS1fbFlF?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T09:18:12+00:00",
-      "summary": "视频｜计划总投资7200余万元 重庆市属国企发布人工智能应用场景两张“清单”  华龙网",
-      "categories": [
-        "tools_apps",
-        "image_video"
-      ]
-    },
-    {
-      "title": "打造“AI查询智能体” 解锁“智能秒解”新技能 - 中国钢铁新闻网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80X1lpUy1tMS1uRnlyUDI5V001OXdZeFhuMlhOdmNnRk56ZE01MlNWVzhQWDZXbkFqUloxOGNmdnQ0V0RQQk12S0sxSGpnY2c2Q2NzWVZ6UjdWQjdaLXdKdTh3SGZ6SzJ4dzZNODhpR1ozQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T09:08:00+00:00",
-      "summary": "打造“AI查询智能体” 解锁“智能秒解”新技能  中国钢铁新闻网",
+      "published": "2026-11-10T09:45:23+00:00",
+      "summary": "AI招商智能体“聚荷”首发 荷花池国际商贸产业园发布《产业地图》  四川新闻",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "AI智能体攻入湿实验室！登上Nature头条：上海交大团队构建AI原生实验室，自主设计并执行生物学实验 - ByDrug",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mb3V4Z1E4YVpOX2JQMWdBSWlUWnJfb0RNcWpFREMtTnVwTGExT01OdzZ2Y01FM3N6SWo5VXJkcTcwT3dwOGZ5anRzSWJ0N1otWmxkaDZKeFYzWTRNTXdpNnhsMklvbDNBNkhnMUhiRjRJcFp0YzZHWERmRHR5QQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T09:00:00+00:00",
-      "summary": "AI智能体攻入湿实验室！登上Nature头条：上海交大团队构建AI原生实验室，自主设计并执行生物学实验  ByDrug",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "高通 1.2 万人洞察：AI 智能体将成可穿戴核心卖点，约 70% 期待协同管设备、办事情- 产业链 - 光通信Pro",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NNjcyMThXbWswZUJXOXVTa2pfOEplWjRONUljbEJlRjZnNDN6RGhaN0t6ci03SW1TX251V3J6bUwwRUItMm9kcVVjRmsweDVlWjVXbGhETQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T08:55:10+00:00",
-      "summary": "高通 1.2 万人洞察：AI 智能体将成可穿戴核心卖点，约 70% 期待协同管设备、办事情- 产业链  光通信Pro",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "双11攻略太烧脑？天玑9600 Pro用主动式AI让手机智能体帮你比价 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHB4X0tFbU5aSU9WZThNZ094UzdWTmNXeHRSdFVNaEtodHdFcTdpZ3p6QTJUZzlXaE5rRzV2b3ZCYTYwWE13eTNBaDFsa192bmlXeEtvNDNQTDRIRmFlX2lBX1M0bkVIUWxaT3psb2d4TkZYZjFOT3hTSTZWYXgtYWU0bE9IcENM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T08:54:21+00:00",
-      "summary": "双11攻略太烧脑？天玑9600 Pro用主动式AI让手机智能体帮你比价  搜狐网",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "你点过的Claude Code“不再询问”，可能把数据库密码送上GitHub - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtKb1FWS1FWNFJXNDhQTnBEWTR5NEdFUTQ4N2dWd2RXNy03UTgzcUF4UjBrNTN1SmlVb1NTd3J3bmRRN0d0cVZHQ2xrYUo2LWV3dEVTNG9fT1l4alNVbm5qVjBvOXFuQXY1VjhxOU5vN3BQVTlxN281T0dhTjBkTkdzdl9IWHF0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T08:45:01+00:00",
-      "summary": "你点过的Claude Code“不再询问”，可能把数据库密码送上GitHub  搜狐网",
-      "categories": [
-        "anthropic",
-        "open_source"
-      ]
-    },
-    {
-      "title": "Arm AGI CPU 软件生态赋能智能体 AI - 电子工程专辑EE Times China",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPRjd4N0JiTWdvY3g3cVdQLVdxNFoySVllXy1aV1YteExGRGQ3cWdnZmlIMTRuNkg1TW9YSW0yZ2ctbTRrNzg4MDhZdVMwNllzbEFj?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T08:27:40+00:00",
-      "summary": "Arm AGI CPU 软件生态赋能智能体 AI  电子工程专辑EE Times China",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "DeepSeek Harness 日活 154 万，官方开始给插件作者发 Token：Agent 生态要靠开发者了 - InfoQ.cn",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82YW5OeDlDVDdaWDJFckdjYWcxSm51anlibVJPTHVmR0VOMDhaam9sT09IaTBzNzhMVlY3dWFISU5paUZqX3dVTnN1T3g4czRBeS1oOUNQQWdzUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T08:23:36+00:00",
-      "summary": "DeepSeek Harness 日活 154 万，官方开始给插件作者发 Token：Agent 生态要靠开发者了  InfoQ.cn",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI日报：腾讯AI游戏陪伴Agent鹅次元内测；Anthropic发布Claude Fable5.2；美团开源LongCat-2.5 - AIBase",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUDc4ME1ua3FSSVBSWkluUkcyT0NfX0dKc3F3MnI3eHcxTEhMR1hKa3Y5b3NYSVFiNlFFc1c2TUoxZmI0WDdEdHk5bUJBZUE?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T08:09:00+00:00",
-      "summary": "AI日报：腾讯AI游戏陪伴Agent鹅次元内测；Anthropic发布Claude Fable5.2；美团开源LongCat-2.5  AIBase",
-      "categories": [
-        "anthropic",
-        "tools_apps",
-        "open_source"
       ]
     },
     {
@@ -309,60 +358,6 @@
       "summary": "又一 FPGA 厂商推出 AI 智能体：复旦微 GREVO 正式发布  电子工程专辑EE Times China",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "实测 Claude Fable 5.2：从写代码到建模做视频，它把创意活也接了 - https://www.me.news/",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FWGl2LUFhTW14TTlzdXIzN3oxaUJISUk4cFRTZElmZ2pNdU9SLVdwYkdQNnFjb2JlQ3ZkRXlxMmk5ZFpNNDhpQ0o0dw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T07:20:08+00:00",
-      "summary": "实测 Claude Fable 5.2：从写代码到建模做视频，它把创意活也接了  https://www.me.news/",
-      "categories": [
-        "anthropic",
-        "image_video"
-      ]
-    },
-    {
-      "title": "《通用大模型人气周榜TOP20》NO.8：Google Gemini登顶 零一万物跃居第三 豆包跌出前五 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnk5SHJLX1VGbzhmRlNJaWdsTWxhQ2JjUnZLRnQ0Vk9wSk5RcDFNdjBBOHhwX2h5RFMxRUhtbzRsLVNZbzFhWFo1QXczc3JCc3A0OTF4Uk96MFZSblN2Ykxta0xldjQzRFpDMEpvaUxsWE5iNXQ4Yjk5ampJazN1OFk5cFR4ckViV0Y0ZA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T04:05:10+00:00",
-      "summary": "《通用大模型人气周榜TOP20》NO.8：Google Gemini登顶 零一万物跃居第三 豆包跌出前五  搜狐网",
-      "categories": [
-        "google",
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "35秒内“叫停”失控的AI智能体，OpenAI部署“控制室”系统 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOHUzblhieXpBWFcyOXNYM29YLUdIUmpmdnpacDdUd2o2cmR0MFRXN04xaUsxM0xwc2t2eDZKQ2Q5T2p6dTFPMXFnX1hia0xwT1ZFX3E1c21XU2JEaE52OFRVbzlvd0tteDRxMGtHb0I2NVZWZldkU0o4UlN2ajg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T02:42:39+00:00",
-      "summary": "35秒内“叫停”失控的AI智能体，OpenAI部署“控制室”系统  手机新浪网",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线 - AIBase",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wZGZiOHVfeklMZ1NBcFFLNDFJclN2WV8xYWQteXZIOFhydTlHdExjaXN6d3JyRmlmY01BZDJyTkVmWGdyOVA1R1QxM2pGZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T02:42:00+00:00",
-      "summary": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线  AIBase",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude Fable 5.2 两天跑完费马大定理形式化，Anthropic 一次放出两款旗舰 - https://www.me.news/",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pWVZJX3pGZFljR19JR09QSkFDWmF6bG5COHIycEZGekZrU19iN3lyTFQyWlM4bFprM0pzdnNnMVAwN25xeHVxeTZDbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-10T01:20:07+00:00",
-      "summary": "Claude Fable 5.2 两天跑完费马大定理形式化，Anthropic 一次放出两款旗舰  https://www.me.news/",
-      "categories": [
-        "anthropic"
       ]
     },
     {
