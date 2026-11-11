@@ -1,14 +1,115 @@
 {
-  "updated_at": "2026-11-11T16:28:59.097455+00:00",
+  "updated_at": "2026-11-11T22:58:01.091282+00:00",
   "items": [
     {
-      "title": "35秒内阻断失控的智能体，OpenAI部署“控制室”系统 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXlRdGVQUG5SZDctX01FdU5QbXQ4WTV3VXlqVmQ3b25WanJjMW8teUNLM2pWTUhkVUEzRkJjTDNpM2tmaV80SENyQVJaQ29oWEpTa2RzQnMxcmttZE5hdGdUZTNOYW5LM1MzVHVrczVZY2kzQWdiaVdxSmhpMGZMVWI5aGs5MENI?oc=5",
+      "title": "谷歌Gemini上车CarPlay：可免提对话，支持日程、邮件与模拟演练 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1V3dRRnZYX3pzNjVkRG44QVhKcFNnc21JNDJrZEt2Tml0RUxKcWRZLS00Z0xKQ2g1eW5LMlg2RGJhQjNiZV9jcUVFSUxTM0pia0E?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-11T14:35:55+00:00",
-      "summary": "35秒内阻断失控的智能体，OpenAI部署“控制室”系统  Sohu",
+      "published": "2026-11-11T22:49:09+00:00",
+      "summary": "谷歌Gemini上车CarPlay：可免提对话，支持日程、邮件与模拟演练  凤凰网",
       "categories": [
-        "openai",
+        "google"
+      ]
+    },
+    {
+      "title": "谷歌A2UI 1.0发布：AI智能体可用交互界面作答，字节跳动提前布局 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ReWVIYm85a2J2akdVNzVXUGdGeDIyLWlXLUJIVDlvQWlWUDFLV0ZxdS1rajVUMFhSU2pQNExwRGw0aVpGVXBxaldzWWJ3M21WNmc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T22:25:49+00:00",
+      "summary": "谷歌A2UI 1.0发布：AI智能体可用交互界面作答，字节跳动提前布局  凤凰网",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Gemini Decision 1 对比 Microsoft-Decision-1：66 对 62 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFhKS3NLYW92LUltOVdJY0ZFMjZ2ZlFQRWd3ZlV4N3VtbzVrdDdDQjZmTUJGU2lGc2xsbVV2WndxMV8ySzZRUVBMSElTQ2RBajktZC12WjlIeUdvSWt0ZWtqbGVtNk9ka1BVUV9UNmk1d3liSS0zMldNTUZENWkzSWd6Vzc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T22:10:44+00:00",
+      "summary": "Gemini Decision 1 对比 Microsoft-Decision-1：66 对 62  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Gemini Decision 1 对比 Laya：租用 262K Token 还是自有 512 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IVU56Q0VfeFZOZVBOcmg1YWxKcHFSYURCZTVlaFNTQm9WXzk3MUgxbWJiMTRveTJHNlNNZzJNN2k4UzNtWjl1elIzMzZSMkpDQUJuWkFWZDlmdXowY1hLOGhiamVHOVRrTXhhRzhOcw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T22:08:00+00:00",
+      "summary": "Gemini Decision 1 对比 Laya：租用 262K Token 还是自有 512  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "谷歌推出Gemini Decisions API 每百万输入token收费0.10美元 端到端延迟150-250毫秒 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZfd25NbDcyYUU4cFpTa1FmMlktN2ZjXzBjM3dxaGVQcnVQYWQySGFXRzNGZ24wTmd3Y0ZWWVZKVnRnVFpSOW83SHlaR0F4RmJNTHU5N3V3U1ZtMDVEbzdzMzMxNGwtZVZLcGdRSmhYbzdaa2lGcVk0dWlOb1NCTEtORDV3bDJFOVhYSw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T21:53:32+00:00",
+      "summary": "谷歌推出Gemini Decisions API 每百万输入token收费0.10美元 端到端延迟150-250毫秒  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "谷歌联合Artificial Analysis推出MKA基准测试：Gemini 4 Carbon多模态知识工作测试获第二 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDOEQ3T3FhNnp2bTZNc0ItTkhBVVVDY1ZFbGY0TWhPaFdsTXhWNmVoeXprZFp6VTNuRG1vdUNma2dTV1ZFTWxFRi1jRi1jeXQ1cDNZRDhmWG55dlNPY0g0aVdhMU9UZThaOVVQN1BmbTlDZVFJU2NmcjFvVmRzNDQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T20:18:00+00:00",
+      "summary": "谷歌联合Artificial Analysis推出MKA基准测试：Gemini 4 Carbon多模态知识工作测试获第二  手机新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hWGVGM0FzMUZvbGRHei12Y2xJb3pxQkw0R0Nja1ZKbmpaSFN3aFpWRmx5S0M4RzNseTZQXzJQMzZYTWV6ME56ald4NWdHZUN3Ukt4ZzlNN3puT0dpQXNkVDVHOHV0Q1R1dUhjSnFFU0U4S0pCZG1xdTJIclVUZw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T19:49:00+00:00",
+      "summary": "Gemini Robotics 2.5 登场，会系蝴蝶结、已在奔驰生产线上岗  手机新浪网",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "中关村科学城发布67项人工智能全景赋能典型案例 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmb0loWHdSZmxIaDB5dThuektnOE45OXlDWG9Zc1RqMWxfZWZkSmI0UEhydEg3R2JULUJ4b0lPX2hQXzdpZnU2aWZxaGF0bXNkZVQ1WEpFS0RnQkFHNXFZTEdmbGhxNmJFZ1JpTFF2NW04dw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T19:11:00+00:00",
+      "summary": "中关村科学城发布67项人工智能全景赋能典型案例  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "谷歌云发布医疗专用Gemini智能体 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmw2NU11OWJUNlhkMlFiTnpqUFA5bXoxSFBGNE9GT3NoLVk1R0Q2VDVGWEhRb3ZCV05OVU1OSXlvZXFaZDBUN0VLUHNzd1h1bnJzNU42UXhSdGtCb0J3VEF3Z1RNMV9CcDVIRVJqR0ZrLW02YjVveFcwNFdBNUczWEFEYkZVVm1O?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T16:26:00+00:00",
+      "summary": "谷歌云发布医疗专用Gemini智能体  Sohu",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "AI需要XR：世界模型，为大模型补上物理世界的眼睛 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEZ2anBRY1hQTXBIM0twVUJ4MjJrT0JiQzNDakNJUENrdkhucHlNLUVrQkxqN2F3bDNNNHFEQ3JQOVpISF9lQkN0dnNwOGhpb1NiZjlnb1hSV3dzSDJUTF94LXhZNVQxTkF1dlRjM2xfQVpHa2FlTjNGOUxmTnlMNlVwaE14Y0df?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T14:56:00+00:00",
+      "summary": "AI需要XR：世界模型，为大模型补上物理世界的眼睛  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "跳出“AI权益”竞争！招行信用卡接入两大外部智能体，业内判断：同业将分层跟进 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFYSzRxUW5WSHJxNXJEZlhHWjNPYkYwRWZZNlJVTVNNQU1WUERPVmpPVGp1N1Z5LWNDdERUY3EtZW80dDB1MjNVT1lrS3h1bTR6NmQ1WWdYWUYtSlRkY3ZGY2k1ZTV0dnN3Vkd5TlZlR0h1SnJMMVhRdzh5NENSUFkxUlhZTjZrQ193eQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T14:39:37+00:00",
+      "summary": "跳出“AI权益”竞争！招行信用卡接入两大外部智能体，业内判断：同业将分层跟进  Sohu",
+      "categories": [
         "tools_apps"
       ]
     },
@@ -23,22 +124,23 @@
       ]
     },
     {
-      "title": "Qwen4-Max Preview 对比 Claude Opus 5.5：14 天对比一张价目表 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BV1c4QTk0SlBtVnFfbWtGV1I4a3NqOTlqR19MaHlickFnMW1Gd1owWmtCUUdocUluTmhxOERIaUJDT1JiUW92Z0JGNDVfbkQ2RnFQUktvR3l2b29fQklGN0pKSmkyWlpOOW0yXzNHOEN5WnA5OVhSWjBRckNmTU0?oc=5",
+      "title": "大模型厂商扎堆天猫，Token成了双11爆款 - 潮起网",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05NGxXVEQ0cTZVLV9VeWZNMkZ5LVh2cmJEMUR6cEhxX0NyRmpZeHRQRnYwSDNHVXhaMEs4S1VLSGVjX3dUTWdrNVdCTDdXTTR6Mmk3clF5RndyZnFXeXJhSno3WQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-11T14:15:54+00:00",
-      "summary": "Qwen4-Max Preview 对比 Claude Opus 5.5：14 天对比一张价目表  OrcaRouter",
+      "published": "2026-11-11T13:30:14+00:00",
+      "summary": "大模型厂商扎堆天猫，Token成了双11爆款  潮起网",
       "categories": [
-        "anthropic"
+        "other"
       ]
     },
     {
-      "title": "跳出“AI权益”竞争！招行信用卡接入两大外部智能体，业内判断：同业将分层跟进 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTNzSmR0YXdKQ2d1dlFQci1NRjFIVWJNSE9jQmtvSEhOY05Bd3RFYzZSSDlMdS01TjJpZ3NXZnVycG91NUdoZmNVVjJpYUY2cXN3SklsalpNVVdOdVdNeGtITlkzd0lsb2plT3ZoZ3hBbVNPdkJVcU5ydFI1VWlFblJ1eUVhMnREMjZEeg?oc=5",
+      "title": "谷歌最强模型Gemini 4 Carbon 全面开放：一夜重写OpenCode 桌面应用、价格仅为Fable 5.2 的 1/4 - InfoQ 中文",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51MlNPeTY1QktCRTVPR1hwVHF1TTNpcGdHeUxTeVFlUkc0ODVTTmlFU0hxeXduMlBvQVZBUE82RFh0T01waFRHeTZEcE14Z1pxZDB2bExPaTlQbTA1aFE?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-11T14:07:05+00:00",
-      "summary": "跳出“AI权益”竞争！招行信用卡接入两大外部智能体，业内判断：同业将分层跟进  Sohu",
+      "published": "2026-11-11T13:09:54+00:00",
+      "summary": "谷歌最强模型Gemini 4 Carbon 全面开放：一夜重写OpenCode 桌面应用、价格仅为Fable 5.2 的 1/4  InfoQ 中文",
       "categories": [
+        "google",
         "tools_apps"
       ]
     },
@@ -103,16 +205,6 @@
       ]
     },
     {
-      "title": "阿里新一代大模型曝光，全球开发者抢测Qwen4 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFVks5WHo4RHVkVS1GN1dMUWpXaGNReHdlaTVvQW01YTFLRXF0b3l6bU1GNFNnWUdCb2NvNGFQTVM5WDhhN2VCUA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T11:30:30+00:00",
-      "summary": "阿里新一代大模型曝光，全球开发者抢测Qwen4  凤凰网",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
       "title": "Anthropic Claude仅用3天完成AI模型适配AMD GPU，英伟达CUDA护城河遇挑战 - 凤凰网科技",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MMXhMWG9XaVN5bnVVNFdScW1laGpKa3pEeEVaV2VvOER1MUpvNjJEeG1hQjI0aGd3aTRETFdzRnlaNXRhLVQxMk5fZEo?oc=5",
       "source": "Google News - AI(中文)",
@@ -121,37 +213,6 @@
       "categories": [
         "anthropic",
         "chips"
-      ]
-    },
-    {
-      "title": "Adobe全面押注智能体AI技术 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXl1WjNwUlVsYlkwNW5pMUJUTVc2ZkF1eXNIc0dQZHJFUkJwazFKdnJxNHQwc1ZiU1NjUjdqRW9DNmdlaFp1YUM4Rlo1RmRxSDRvSEdvQmtRR3RieG1zX09LMkFBcXVEdDUyNGV4dkFsRjEwQ29JRlBwMWdsV2JCVUEtQmFJSXhn?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T11:26:00+00:00",
-      "summary": "Adobe全面押注智能体AI技术  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "eBay似乎已关闭第三方AI智能体访问通道 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzlsVVhTV0x6Rk5EYlRrV0w2TnBpLXlxMVp4djdtbGE0REZJakhZcTFyVk05WG5zTGFwaEVZQnlVODY0T3RZZFl3d0xqdkczem16cmRQMm45emI1d0dScVdfNjF2LW1aTFd4bnZ5MDlCeWxqRTRLZkRUSzVjWl9tRlpUQTEtQjYz?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T11:22:00+00:00",
-      "summary": "eBay似乎已关闭第三方AI智能体访问通道  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "谷歌发布Gemini 4 Carbon，搭载智能体“群组”功能 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRFNYOUdXOTlmVkRfWEg0T1h1Nk13N0ZneEQ1dzFqam5xdXNMOVoyTlJwSUs5OUdnOWs4OFhIbVgyRkk4UnZ4c2oxWXc5YmJabXFSVC13REZMQUpIc19sRDVQc2VtVloySkJIOEFnTTZ5YzhXRjk2RTM5TlZlUXdqaWtHUDVkWDcx?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T11:20:00+00:00",
-      "summary": "谷歌发布Gemini 4 Carbon，搭载智能体“群组”功能  Sohu",
-      "categories": [
-        "google",
-        "tools_apps"
       ]
     },
     {
@@ -166,83 +227,13 @@
       ]
     },
     {
-      "title": "大模型深度越堆越多，为什么反而学不动了？ - 科技行者",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FOXUyM1o1cWc2SmpndzRING14YV9qcDNZTzhOZk9QalRWTWYzeDZKUEM4Ny1LMkYyRWhUQlhfTld4WDllTXBmQll0VW1CejYtcTFTU3NUTGZzTm9QRHFV?oc=5",
+      "title": "OpenAI推出企业资料功能，让ChatGPT更像谷歌 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNXV0THRpNVlZVGhRcVIzQTN0ekYyQVUwZGIxX3d5NUotOXl0REwtSWJHbkpKQ0UwdUJkUzZONlR3WFROT0Y4aVVKSHNCS2xPdm8zMklNeW1MT0ZWaXd5RjJNZEs4TG82eFJPNEsyekl5ZVp4bmw1OEhEUkxfbGgwQkVVenlsNnhf?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-11T11:11:00+00:00",
-      "summary": "大模型深度越堆越多，为什么反而学不动了？  科技行者",
+      "published": "2026-11-11T11:05:00+00:00",
+      "summary": "OpenAI推出企业资料功能，让ChatGPT更像谷歌  Sohu",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "江苏省广播电视总台“新闻智能体集群”正式上线，数智化集群协同重构新闻传播新范式- 科技 - www.chinafabu.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xd0VXbFN6Sk1MdmpwT0RrQURrcC1tdUFwdFlHMjNmOWZUampMcGFCakNjVHZxWVFSUl9SMUJQZFpJR1RpQkNpTUlKb1FtMmplV1JvQVdMbm5nN3YyeWNwV1JBVHZvUmM?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T11:09:00+00:00",
-      "summary": "江苏省广播电视总台“新闻智能体集群”正式上线，数智化集群协同重构新闻传播新范式- 科技  www.chinafabu.com",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "11月Pixel更新带来Gemini智能，Pixel 10全系升级 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEx0SWI3WDh0bGhseElndWl4R3Z4eHhISjZETzFVcnM3aHNxNXdJRVRIVHZoX0VOWUVSSDJ3dmtmWlVESnlHM0Jxb29FaUxpUnBkTm5KUWY0OVZrQWp5UFdKMGhiZXVjVDh3czV0c2pPV09BSWJheXIzbG9QbnJrQi1DejVOZW9B?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T10:58:00+00:00",
-      "summary": "11月Pixel更新带来Gemini智能，Pixel 10全系升级  Sohu",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "港股大模型高开跳水再翻红！智谱计划40亿港元回购、MiniMax发新模型，难题还在后面？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmxnMzh1TjdQbUV1TURqMGM3NzZSb2RqOXBIS3dJYjh3Nm42TkczV21EdG1nZVNtWnpDZXFOTmh4ZjhfZ2Y4QnpPSDFBZ1lHVzZLOGRMOGtHRGZ0WjZPUDg4VGljMDZ6NnRZeGpnQkJZYVB1YmU5cUF6bHhjSjM1X05Hd2FNRmpkUDhJVQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T10:26:06+00:00",
-      "summary": "港股大模型高开跳水再翻红！智谱计划40亿港元回购、MiniMax发新模型，难题还在后面？  Sohu",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "AI让大模型学会\"换个角度看问题\"：SpatialASM如何补上空间推理的最后一块拼图 - 科技行者",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zOTFEOWlkdWxBLUJYX25raHBBYU5iV09faDBweDlkaG9PT2tOTGs5MjZIMGxpOUpySUp0OWNoZEJRMF8xbmRVYl9kV0dCYXhjU3BVLTlvblpGb043Mmd3?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T10:04:00+00:00",
-      "summary": "AI让大模型学会\"换个角度看问题\"：SpatialASM如何补上空间推理的最后一块拼图  科技行者",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "测了147款AI助手后，他们发现智能体要做的远不止帮你节省时间丨a16z最新访谈 - 创业邦",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvQ0hjc1EwSkJBV2dxMFBTQXNmMVlQUlZBaFI2Ykc5ellfUm5UNzlnSUFSXzU2SmIyeWd1cFd1S2lDZWVyb0NRQ0JTbnRPNElC?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T09:43:11+00:00",
-      "summary": "测了147款AI助手后，他们发现智能体要做的远不止帮你节省时间丨a16z最新访谈  创业邦",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI十年内攻克癌症？Anthropic CEO阿莫迪预测引发医学界质疑 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yem14bEY0ZUZSWVU5czdoMFB4YWNMdzBvcHhaclpudldZQVZLdlhyOE44OF8yNm1SdGNtT1Z3Zmw0Sm1fZEE1bUdlU2w?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T09:38:20+00:00",
-      "summary": "AI十年内攻克癌症？Anthropic CEO阿莫迪预测引发医学界质疑  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "阿里全新一代千问大模型Qwen4即将发布，预览版已首发上线 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VVzd3dThoSG5ZNnJfQkVTV3pPTEhNR1JQYXY1YkNNYWR6aThrWmVyV05acVR4NVZOajFQaWNkeVp3dFljeS1sSm15ZEtYcDFUYlpreEZnRFc5ZHV0ZUN4VmpxSjZHcG1HQTFQM0hMNl93eTJoVjVIb283dU1LS0k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T09:32:00+00:00",
-      "summary": "阿里全新一代千问大模型Qwen4即将发布，预览版已首发上线  手机新浪网",
-      "categories": [
-        "other_big"
+        "openai"
       ]
     },
     {
@@ -253,6 +244,16 @@
       "summary": "Gemini具身RSI发布！御三家连续暴击垂直具身模型，太惨了  Sohu",
       "categories": [
         "google"
+      ]
+    },
+    {
+      "title": "OpenAI发布Businesses in ChatGPT测试版 三季度营收环比增近50% - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96TXJOd2FaR0FzakVsVHhPMFg2RGlyVzN1cl9kbXFaTi1UbW9KbTI0QlVMRXJENHBJc2tPcEIteVhmR3J2LXRURjdOZjE0OHdRZUxKZ2oyX1dlRGpxUVNoRlpn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-11T09:27:36+00:00",
+      "summary": "OpenAI发布Businesses in ChatGPT测试版 三季度营收环比增近50%  观点网",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -318,23 +319,24 @@
       ]
     },
     {
-      "title": "谷歌DeepMind发布Gemini Robotics 2.5 入驻奔驰生产线分拣成功率96% - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0Q1lfV3hETXdmLWJLaU40NXVsYlNpM0ZQZTd6bE9mMG5oXzdkN1FRa2dqZTM0QTBzQ2hxNzc5Sk9jNHRYcmpaX0NwY0xJdzM3TE40QWdwVzc2b1lBM1FCNGZR?oc=5",
+      "title": "谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RWEVwVDdBYXhsekk2TWVfQjZqYUYzU29yZTFXcWJQTHdBYzZPRC16cFdWSjM3NUQ5cHN5SWhhRFNmMjV1NHBhcQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-11T04:46:18+00:00",
-      "summary": "谷歌DeepMind发布Gemini Robotics 2.5 入驻奔驰生产线分拣成功率96%  观点网",
+      "published": "2026-11-11T02:27:03+00:00",
+      "summary": "谷歌 Gemini 4 Carbon 今日正式开放上线 面向复杂知识工作与长周期智能体任务  品玩",
       "categories": [
-        "google"
+        "google",
+        "tools_apps"
       ]
     },
     {
-      "title": "社区供稿 | LongCat-2.5：面向智能体任务的原生多模态模型 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yR3Z3RWh0U2hPU2pnU0VjeUtqRHA2UU00cGlQXzdHNHMxR1YzaWU0dmZmaXB4LThkWHFZVVV3S1l3cVZlMXE2dg?oc=5",
+      "title": "Anthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YaWVNVGF2em5JcTRLRTJDSVU3ZVZjNWtZVGNRTXBEeURLX2NlSl9ZcTBwTWFfenpydnZDUUltLVlKVk9WYTczaA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-11T04:30:00+00:00",
-      "summary": "社区供稿 | LongCat-2.5：面向智能体任务的原生多模态模型  智源社区",
+      "published": "2026-11-11T02:02:13+00:00",
+      "summary": "Anthropic 推出 Claude 办公套件 覆盖会议、白板、表格与数据  品玩",
       "categories": [
-        "tools_apps"
+        "anthropic"
       ]
     },
     {
