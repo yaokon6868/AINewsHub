@@ -1,14 +1,78 @@
 {
-  "updated_at": "2026-11-13T17:00:30.044744+00:00",
+  "updated_at": "2026-11-13T22:46:35.084501+00:00",
   "items": [
     {
-      "title": "微软大规模宕机持续数小时，波及OpenAI和Anthropic - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RR3dmXzl0UEJxdlRKb3NKQm9oUDRNa281N2M3UnZzRDFHZWJudXVKb01iVlF2RHprdXZLWlFnMEFYOTY2a214ODROeGRZLWFndkd6NklKZkJlSTZPYnF6VFhING9FS3RreXRhM2hOUDA?oc=5",
+      "title": "DeepSeek发布全家桶应用API - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43Q29sVUI5aktyajBpVlFlUzYySktHdjBoOTFaWEdwd0pHNzdLT1dCdUNLRWRhbkJfdTJvcUN1b1A5VmFlek5hUTU1Ylk4R1VGaWZF?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T16:54:40+00:00",
-      "summary": "微软大规模宕机持续数小时，波及OpenAI和Anthropic  手机新浪网",
+      "published": "2026-11-13T21:53:56+00:00",
+      "summary": "DeepSeek发布全家桶应用API  华尔街见闻",
+      "categories": [
+        "other_big",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "GPT-6 Luna 对比 Gemini 3.8 Flash：每项任务费用高达 50 倍 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjWGZIRHZYUmkwRVQ1ZzAwdWp2LWhEWnBHSm5oN2tYcTQ4T0pwWG9UNHRVakVnemF1WVhTYW1qZmtMcEhJdHpQbzk1bGRrV0h6VjZKaWdvLUc2Q3pOZlpJTEhNdXN2RExTaWFZeFZocWN1WmRFaEE?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T19:17:34+00:00",
+      "summary": "GPT-6 Luna 对比 Gemini 3.8 Flash：每项任务费用高达 50 倍  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "GPT-6 Luna vs Claude Sonnet 5.5：20 倍价格，两大差距 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PQU10LU1aQWU0ZXFrWDlodHNqX05KMWp0WTVQbnAzQkpGRWcwSEY1R0ZEaTU4VmZrN3ZNN3FJSGdQMDFuUEgwd0laM1NZSFVDWVlrdjBiOFc5dkRLRy1XNHlWbnZUVEJKWHRQend3dFNJYkVSMWRZ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T19:15:30+00:00",
+      "summary": "GPT-6 Luna vs Claude Sonnet 5.5：20 倍价格，两大差距  OrcaRouter",
       "categories": [
         "anthropic"
+      ]
+    },
+    {
+      "title": "黄仁勋离任后英伟达那些投资怎么办？|Anthropic|AI芯片|云服务|IPO|风投_手机新浪网 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWmhFQmJreHdsN2ZyeHB4eThYYWJwSjJZRGdrWE8zRzRBeXZoSmExY0ZxdzdDWnd3VThGVDJFQUoyY09fcXhFY3FEUzdDOVpkbnp6dERGN1VkdllwMWVkM1l2azE4dUIwX0doaDNfcW1VWWdEVTlnRzd0YWRQZ2Q3d2QtdjVpZzJCYWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T19:15:25+00:00",
+      "summary": "黄仁勋离任后英伟达那些投资怎么办？|Anthropic|AI芯片|云服务|IPO|风投_手机新浪网  新浪财经_金融信息服务商",
+      "categories": [
+        "anthropic",
+        "breakthrough",
+        "chips"
+      ]
+    },
+    {
+      "title": "Drex for Finance 与 Gemini 决策 1：77.3 对 66.0 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iS2NHN2pscnFZSzlQOEp1YzhRUmdjbmE5MXh3c01OMGdZNzRldlhuNDk2RXpnNFYtT1R6bG1rdXJyQTJsemZoN29XUEpfQTBSWTFsdFlFMUpVaF9aNGRaLXJSNGVqdWVxUnZaQUg2S3I2OFl6RlM5eTBTZWdZREU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T18:57:03+00:00",
+      "summary": "Drex for Finance 与 Gemini 决策 1：77.3 对 66.0  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "ChatGPT突然放大招！联手Visa、万事达卡推出AI钱包，今后购物付款都能交给AI？ - FX168财经",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sV0t1bHpPbDc0SVJ0VnlRMXVEVmJZNGZBeEZJT2phaE55R0pBOUdEcUVfZGVreFE0NEpzVzlwcXprdFBDRndaUUhTNjNnZnZhOU1nZnhNU1lWaUM3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T17:12:07+00:00",
+      "summary": "ChatGPT突然放大招！联手Visa、万事达卡推出AI钱包，今后购物付款都能交给AI？  FX168财经",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "谷歌：Gemini将谷歌钱包纳入个人智能应用。 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KSlNudFRGa0hScHBpSk03WXp6TXZJM2Y1a21LZXhBcTJqNC0xYkNKVnBSNDNveW9qWTFBR0I1NW4xWnpfcnJlNmxqdw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T17:08:58+00:00",
+      "summary": "谷歌：Gemini将谷歌钱包纳入个人智能应用。  新浪网",
+      "categories": [
+        "google",
+        "tools_apps"
       ]
     },
     {
@@ -22,23 +86,13 @@
       ]
     },
     {
-      "title": "OpenAI推出ChatGPT钱包：联手三大支付网络，为AI代理付款铺路 - 手机搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlhYYzVNWVpyNjZad3A1ZndoXzhwazMyS0t4RnB6b3ctMmRBOWJpT2J4TEJVdFhmNVRfWFQyenhPWmJfUXBfQzNkMV9acWNzeGJjNlVHZGtJc3hmcUpXS2lBUGlBLTRId2xZV0tqajhBLUp0MmFZWVlHRFppVmxiTE5Nb29UVjFlRmVxdg?oc=5",
+      "title": "OpenAI推出ChatGPT钱包：联手三大支付网络，为AI代理付款铺路 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlRkZndZc0diVWMxeXR1SEN3ZFY1LVJjT081dDJwTmFKcmRvOFU1UGNTWUJhQVZ1eXRSQkl5N0o2Q1I5eGI2NDFSZjlEbGZqSzBWN1YyQXBIU09UV3pMb2JVYjhSaG5TeU5ueGRrY05RNFl1cEtYekdYd242NS1sZXNtWm9xSEJxY2VV?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T16:44:44+00:00",
-      "summary": "OpenAI推出ChatGPT钱包：联手三大支付网络，为AI代理付款铺路  手机搜狐网",
+      "published": "2026-11-13T16:26:00+00:00",
+      "summary": "OpenAI推出ChatGPT钱包：联手三大支付网络，为AI代理付款铺路  Sohu",
       "categories": [
         "openai"
-      ]
-    },
-    {
-      "title": "网络运维也开始走向智能体自治了 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDloS2VRQ1ViWk1BOTZxSWgwSzVIZE8ydFJRaGREMGhOeTh0RFc5QlN2dWdrZ3dRbHV2OGxCZGFSYTY0TVdfZ01vUFE0aEdJQVU1TlViMVRpQzZmY29MQ09od0lRY0U5cXc2aVVEV1FaRkludjE4VHprUnNiRmxjN0NVVzVOYU95?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T16:42:18+00:00",
-      "summary": "网络运维也开始走向智能体自治了  Sohu",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -53,32 +107,11 @@
       ]
     },
     {
-      "title": "Anthropic对外披露，Claude.ai、API以及Claude Code当前的错误率为正常水平。_外汇动态报道 - 汇通网",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMU5tQXltRTY0U3dDWTBmc1JmM2UtWEhrQXZqWnB2YVJ1TlpHVFYyNXFIczQ0WnZ3SW5MLUlSekJaVGxWZFZjRE4zUzdSWFl5emkwNno2bkxvMERIckR5SGJLQkdXSXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T16:02:28+00:00",
-      "summary": "Anthropic对外披露，Claude.ai、API以及Claude Code当前的错误率为正常水平。_外汇动态报道  汇通网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "OpenAI推出ChatGPT钱包，支持其Dots智能体替用户下单采购 - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVk4yZ0JKX25GdlpDTkM4MWIxdkRfUGloeVhrbW9fS0h1TDlyRnMyRzU2Zk80TXc4UnllaV9ENHRPSEYxU3pXZDBPbkZYSl9KVk43cE9HZWVPbERWeFlJTW1vRlprd2V4dXRZYjlGWFRTbWJORFJlSHlGRWFjOUEzNThCZ2pvVlJKQ09rSQ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-11-13T15:15:15+00:00",
       "summary": "OpenAI推出ChatGPT钱包，支持其Dots智能体替用户下单采购  Sohu",
-      "categories": [
-        "openai",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI推出ChatGPT钱包（ChatGPT Wallet），这是一项新的支付功能，使其“dots”AI智能体能够代表用户进行购买。 ChatGPT钱包最初将向美国年满18岁及以上的OpenAI Pro（专业版）订阅用户开放。 OpenAI在与美国运通、万事达卡和Visa合作的基础上开发了ChatG - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NcHVUUnlIeFJYMDBFT1NUOUVtUXVDbXBfLWN3U2x4Nm8xZDBySG9xaUROVEtWUmJ3QVNnZTFGb1IxbmR6RThWRS16RnE0SWhNZlA4?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T15:09:02+00:00",
-      "summary": "OpenAI推出ChatGPT钱包（ChatGPT Wallet），这是一项新的支付功能，使其“dots”AI智能体能够代表用户进行购买。 ChatGPT钱包最初将向美国年满18岁及以上的OpenAI Pro（专业版）订阅用户开放。 OpenAI在与美国运通、万事达卡和Visa合作的基础上开发了ChatG  华尔街见闻",
       "categories": [
         "openai",
         "tools_apps"
@@ -92,6 +125,16 @@
       "summary": "OpenAI推出ChatGPT钱包  全天候科技",
       "categories": [
         "openai"
+      ]
+    },
+    {
+      "title": "AI大模型等港股热门概念股跌幅扩大 智谱跌超11% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qV0xHYlpzeFdoUS04QU9kUUM3aGRUY0dzemFVZnhYUW80X3UxdUVtTVJETVpMYjZTTmlRTjNrWjZhQnpqMklIR1pUNzl5bHRGRThXR1dwQmZJdGpwaDkwS2g4UQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T15:00:09+00:00",
+      "summary": "AI大模型等港股热门概念股跌幅扩大 智谱跌超11%  东方财富",
+      "categories": [
+        "other_big"
       ]
     },
     {
@@ -137,13 +180,13 @@
       ]
     },
     {
-      "title": "88比12！在攻克癌症这件事上，垂类AI比国际主流通用大模型和人类医生都在行？ - 智东西",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15bmZwaENhRmRVaWlvZm5KVENic09rZzI1NVQzR0dBNXh4cEtLbUthNVZ3c0VsZC1mZkVHTlNESGIxNjBWR29IVw?oc=5",
+      "title": "告别英伟达 智谱、DeepSeek在国产集群上“硬刚”万亿大模型训练 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZlQzM1hmMXpSdktVZVdGNDluWFRaN2xYbTVqbU1pVkdmRnRZVFhELWtDMWswaUI3ZGJTMC1nTGRGeDBsQmdGOW81QnJKTGFxWTczQ2NrelpHU3VaVG5OQnpKVFVCd2RLWmNmTW9PX0pPUHpLUmJyOTQxT3Q4NlNtVTBZUHMwaERu?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T14:00:18+00:00",
-      "summary": "88比12！在攻克癌症这件事上，垂类AI比国际主流通用大模型和人类医生都在行？  智东西",
+      "published": "2026-11-13T13:59:50+00:00",
+      "summary": "告别英伟达 智谱、DeepSeek在国产集群上“硬刚”万亿大模型训练  Sohu",
       "categories": [
-        "other"
+        "other_big"
       ]
     },
     {
@@ -157,13 +200,15 @@
       ]
     },
     {
-      "title": "Pixel专属：Android Auto将搭载Gemini主动建议功能 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HMzJ0bC0xWkh1aHQ3cjFya0daaXk0XzBmV05ocDhBVUdNU1FITTd6LUdCMDZwR3B6blo4Rk05VEZyaWJ4WUQ4bVNVU3ltQmtmT3c?oc=5",
+      "title": "刚刚，Anthropic开放Claude智能体整套平台本地部署，连控制台都能搬回家 - 53AI",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWM1Etdl9LQkhLSUxfV0pJb3g3czRpajVlc3NDMDVSZTg5R0g1eURXS0hDSUhfX0hRenhhQVAzVmhJVjJjQ3AyUUFUZGdaWERNczVKUzNBR2xEM01nUTFDaGZKYVgzSmtXUVVSV1lUWVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T13:13:22+00:00",
-      "summary": "Pixel专属：Android Auto将搭载Gemini主动建议功能  Sohu",
+      "published": "2026-11-13T13:47:07+00:00",
+      "summary": "刚刚，Anthropic开放Claude智能体整套平台本地部署，连控制台都能搬回家  53AI",
       "categories": [
-        "google"
+        "anthropic",
+        "tools_apps",
+        "local_model"
       ]
     },
     {
@@ -177,33 +222,13 @@
       ]
     },
     {
-      "title": "国家发改委重要发布会透露四大信号，事关“十五五”产业投资与民生 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWRpVVdmN3Z1ODRLdExaUWdVODNqaEpfdXd1eEthbGNOY2NmSlRDU0FQWkpLd2JFZHFxWkUyZW1IZ0FqMDJQZFBrOUZLbEc5cm9pY1JjTmNwQm9wR1pyWHoxS0ZwQW5DNkxROWlfQkdjenZkazdvSlQ5aDcxVThzNFlkNzJOd2tRMmR0Rko1SQ?oc=5",
+      "title": "AI进化速递 | 谷歌发布Gemini 4 Hydrogen - 手机搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnZDZDNPbHVlSkJPYjI5OFNSZm9xSU9GemF3YTJtaUJPeHJYTmxsdGFTZS1JeDd5aEtyOExPYW1YcjJXRU81M2xSZ2hjMzA4UFY5a0V2aEpidWtJdmZXeGV6cHlKajB1bFZaLW93TmY1T2dodnJlaVdQbUZQNmVsR1lab2d2QnNr?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T13:08:00+00:00",
-      "summary": "国家发改委重要发布会透露四大信号，事关“十五五”产业投资与民生  21财经",
-      "categories": [
-        "breakthrough"
-      ]
-    },
-    {
-      "title": "Google发布Gemini 4 Hydrogen：极速高效，全平台上线 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMS1RZ2NTWWFDVEdxemlEMGtMemhFV0hjN0FfZld5cU56SUNPMllLTFlYSkdlenJoc2dldE40U3RMQUUwNnRQSFpoeDlYYlc3T095WU9vUzBuLWxZb3lBN1BxTlpaWnlQaGtJWGgxWTdYLWkxMTE1LVVNR2FoZnRNajFWZmJMcUVCVm9QRw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T12:52:11+00:00",
-      "summary": "Google发布Gemini 4 Hydrogen：极速高效，全平台上线  Sohu",
+      "published": "2026-11-13T12:52:00+00:00",
+      "summary": "AI进化速递 | 谷歌发布Gemini 4 Hydrogen  手机搜狐网",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "英国央行调查：80%金融机构已用AI智能体，仅2%赋予高自主权 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84QjRDRjRPT2N1X2VOOWtJcU8yRTAtX0RidlcwU1Q5bFZwa2pHelRnbzZ0WERzckt2dFdHMmlTU1dXdDEweUNxRVVIcEVDeVNDS1E?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T12:48:01+00:00",
-      "summary": "英国央行调查：80%金融机构已用AI智能体，仅2%赋予高自主权  凤凰网",
-      "categories": [
-        "tools_apps"
       ]
     },
     {
@@ -227,13 +252,24 @@
       ]
     },
     {
-      "title": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统 - Sohu",
+      "title": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统 - 手机搜狐网",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm1lYXRGbDZEdDNadWNYLWJIUGJMM3Y3elMySWtpUDJacXA5a1g0LWF6VUFaOEgzYzk2TU02WmJSSm9iN09MeFJ4SFdlUXlham5BVGJqLXZxNUpaNk5xSFFhX1g3cVJXQ1ZaOFRjcUV0VHlPZkJKaTA5b2FFS09SbWNWTUhxUnl5?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-11-13T11:12:23+00:00",
-      "summary": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统  Sohu",
+      "summary": "以智能体视角，清华首发具身智能综述：从端到端策略到自主系统  手机搜狐网",
       "categories": [
         "tools_apps"
+      ]
+    },
+    {
+      "title": "iPhone Duo也能跑Win11？Gemini两小时适配 iPhone Duo也能跑Win11？！谷歌AI Studio产品与设计负责人借助Gemini改造开源项目，在iPhone Duo上演示桌面系统，还能用语音给AI派编程任务。#iPhoneDuo #Gemini #Windows #AI #掌上笔记本电脑 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYnJLV2J6VjRQZW1VMUludGdOTmNpOUdDT3M4Z2NVZVl2b0QtOWJUcVBMNC05b2VhV3d1VVJiNUhvYlJDRVdlQlB0U3NSTUdFaS1xSlBBa1hyTTdCWVhlSWVnTkVwWVhqa3NwV0t0VGdteWF5dE9wcFdING9VdVM3OEpYdzFzX0Ewb1hxRA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T11:05:50+00:00",
+      "summary": "iPhone Duo也能跑Win11？Gemini两小时适配 iPhone Duo也能跑Win11？！谷歌AI Studio产品与设计负责人借助Gemini改造开源项目，在iPhone Duo上演示桌面系统，还能用语音给AI派编程任务。#iPhoneDuo #Gemini #Windows #AI #掌上笔记本电脑  Sohu",
+      "categories": [
+        "google",
+        "open_source"
       ]
     },
     {
@@ -243,17 +279,6 @@
       "published": "2026-11-13T10:52:46+00:00",
       "summary": "智能体加速落地，“数字员工”走进千行百业|中兴通讯|Agent|南京市|供应链|Token_手机新浪网  新浪财经_金融信息服务商",
       "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "AI智能体基础设施公司「以太之心」完成数千万种子轮融资 - 品玩",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0RzQtZVFuTVkwX1FlSFFhb3puSHZRSTZDamc2MVRhaEstcmdJeTE5MHVkbnJmb09pV2xvRnY4MDlkM3d4NGU3VQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T10:48:37+00:00",
-      "summary": "AI智能体基础设施公司「以太之心」完成数千万种子轮融资  品玩",
-      "categories": [
-        "breakthrough",
         "tools_apps"
       ]
     },
@@ -268,6 +293,17 @@
       ]
     },
     {
+      "title": "AI智能体基础设施公司「以太之心」完成数千万种子轮融资 - 投资界",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaM2lER3hzSXkwUVd6N2s5SzhucElFUE1aV05GbHVVYktrWU5WRFlXMi1YVUxTa1AwVE5pUnlCcnVJeFhyZzhScE1qSHFfOWNlNXQ2M25B?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T09:26:00+00:00",
+      "summary": "AI智能体基础设施公司「以太之心」完成数千万种子轮融资  投资界",
+      "categories": [
+        "breakthrough",
+        "tools_apps"
+      ]
+    },
+    {
       "title": "【每日瞰AI】谷歌发布Gemini 4 Hydrogen，接入搜索和免费开发工具； 百度推出大模型交易平台「词元所」，首月日均调用超7000 亿词元 - 电子工程专辑EE Times China",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyM055Q1pWTld2Z0EyNkdOTFhXdmtIcTlkOGFHa1NZYkNHTXpnR3FPdTN0OTczbWlmMDhqdXZad3NzbzBoSDFrRHhlWGhwNnZYTUpB?oc=5",
       "source": "Google News - AI(中文)",
@@ -276,16 +312,6 @@
       "categories": [
         "google",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "Gemini 4 Hydrogen 与 Claude Haiku 5.5：每任务成本对比 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93TkV6Uy1UTnZNTzNVOGF4blpjT0Y4SVJUMU5CTWRyaC11dUswUzJSM0VYWWVFcmktVE15dGpNc1l3MlJTZ0dFOHZvRWF4Y1JpMFFUbjlITHE5TGJ3UXhFeHVQTHJjWlBJT1N2SV9WN3V1NGZSSGotWXFvN1dvYVU?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T07:55:39+00:00",
-      "summary": "Gemini 4 Hydrogen 与 Claude Haiku 5.5：每任务成本对比  OrcaRouter",
-      "categories": [
-        "anthropic"
       ]
     },
     {
@@ -317,26 +343,6 @@
       "summary": "百度发布两款应用模型，李彦宏：会持续研发基础大模型  国际科技创新中心",
       "categories": [
         "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智能体全天候运行，大模型开始拼“智能单价”。竞争不再只看谁“最强”，还要看谁更“省”，模型价值正进入按任务算账的时代。 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0hZYUh1VW1tWG02TnNUYk5nRlZ4RGxfenVCaWV4dy1GeU1Ebms0bF9LV2tURG5VRWR4T0RSd3hRUXVmM0NLQ19rNHBIblF1bWZ1OWRndElQblhwWW4zS0phU2RsanpOeWdyMGNkNXVUSTctckQwdGhSRjNxaElHWWFtMUVpNnFq?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T05:45:07+00:00",
-      "summary": "智能体全天候运行，大模型开始拼“智能单价”。竞争不再只看谁“最强”，还要看谁更“省”，模型价值正进入按任务算账的时代。  Sohu",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "智能体全天候运行，大模型开拼智能单价 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3ZQM2VDNmZkS1BTUEtkVGpSZjdqTVRudm5ELXd0MEJjckhrQkIxMXg2d3JIS2JodjVUa01ZS0RaQW5IcEZ2cVl3TkJ6Z1RTMEJiMHJGNkhvd0pVa3RDakJ6VU5WQ0l2VVdBY0UxQ3o3UXZ3N2RhelVTWldhXzYtUU5RN3NsZVBo?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T05:09:52+00:00",
-      "summary": "智能体全天候运行，大模型开拼智能单价  Sohu",
-      "categories": [
         "tools_apps"
       ]
     },
