@@ -1,55 +1,300 @@
 {
-  "updated_at": "2026-11-13T01:22:27.290055+00:00",
+  "updated_at": "2026-11-13T08:35:15.033306+00:00",
   "items": [
     {
-      "title": "百度世界2026聚焦“智能组织” 智能体落地办公场景呼唤成熟语音入口 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXdQSkUyRUxvY0FzQXdkUVlzOUlpbkk2OWFhS0NVa25CZmZCbTJndl9BckVSdnJFY2syd2FpbTNMM28wdGN5b0EyS0VZbkI0QUpfQzNPNVMwdHlZWUNVaGFEOFBzZVo3Nk9MQzBGcXJzR0VDbEk1dVhnQUdPdUwwbmpFRlkzWGdF?oc=5",
+      "title": "Claude Opus 5.5 发现 AttnRes-Canon：哪些依然站得住脚 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5veU04M2JLMWU5U3ZueGtBNjdOVjdveHNJVEhBVW1OMkVLY3d6c3MxZTh0c2RST3RLLXN4RHkydzZ2VWczQ3RtY01FZ2M1NlY4R3Q2WDJZMGl6TGxiOE9MMmRwXzhmaTV0UFFPYkV6QVBBRUM4RUtKOWZRNA?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T01:08:13+00:00",
-      "summary": "百度世界2026聚焦“智能组织” 智能体落地办公场景呼唤成熟语音入口  Sohu",
+      "published": "2026-11-13T08:12:19+00:00",
+      "summary": "Claude Opus 5.5 发现 AttnRes-Canon：哪些依然站得住脚  OrcaRouter",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "CES 2027 首批创新奖：撕掉「配件」标签，大模型走进更灵巧的硬件 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaEowOVkxV2NRTThiTGlKSkNNeG5iZEFwanNIQWZrSVU5WmJfMW9iQTlBVE5MRWJvakJFRHViYlVZbnFWOWJlOTRGcmtITnhpOE9idDl2bVhSd3o4N1BhN2hyRjA1cnNJRnNtMjZEN0FXWl9yU2NUblc1Z0s4YjEzX2lCVTYyZUUz?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T08:05:32+00:00",
+      "summary": "CES 2027 首批创新奖：撕掉「配件」标签，大模型走进更灵巧的硬件  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "1000个智能体证完费马大定理 | 你以为AI会做数学了？华尔街笑了，打工人慌了 - ThePaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMWUwR253MFhWeS1Jbl9fUmpUZDhvbmE0a3FBdHowT25CcFk2dXZKbm9uUkFCakVUWEgwMlpxd04yd3FfcktEd0Q4SGl3cG0xdUIyX0NNMzloZ0ZwTmlVVw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T08:04:52+00:00",
+      "summary": "1000个智能体证完费马大定理 | 你以为AI会做数学了？华尔街笑了，打工人慌了  ThePaper.cn",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Gemini 4 Hydrogen 与 Claude Haiku 5.5：每任务成本对比 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93TkV6Uy1UTnZNTzNVOGF4blpjT0Y4SVJUMU5CTWRyaC11dUswUzJSM0VYWWVFcmktVE15dGpNc1l3MlJTZ0dFOHZvRWF4Y1JpMFFUbjlITHE5TGJ3UXhFeHVQTHJjWlBJT1N2SV9WN3V1NGZSSGotWXFvN1dvYVU?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:55:39+00:00",
+      "summary": "Gemini 4 Hydrogen 与 Claude Haiku 5.5：每任务成本对比  OrcaRouter",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Gemini 4 Hydrogen 登陆 Antigravity：需要检查哪些内容 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wa05OVDY3S05YalRjZ2RaLUlHekxsZ0lJVnJEbVVyQjVBWEIxSEVSZk5OOXdHTkFCNlNNcXNGSjRtZWVXZVJDbUcxZGwtckNBcmtnMEo1UklJRmh0RUs3ZGQtQmdpb2tObVB3NzItNzZ1d0ZUeFdYV0tBLVNUYWc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:53:20+00:00",
+      "summary": "Gemini 4 Hydrogen 登陆 Antigravity：需要检查哪些内容  OrcaRouter",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "2026世界中文大会发布国际中文教育垂直大模型 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0FQaTN0S2ZWZTZRTGt1cDFyNjhxOGFkOW15RmNWZGFpSG91RjQzNEdMT21SY2NVcU5DeGFzVkhOZmk2LXIxTm9ZZU56WEFxeWt3YWtpdGMwemlxVzVaNG5WbTJuLWxYNms5eEI5Z19LX0JnendqcEZaYjNVR2JSa3NXZFJvelBvQUdOMA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:53:12+00:00",
+      "summary": "2026世界中文大会发布国际中文教育垂直大模型  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "百度李彦宏：AI下一幕是智能组织|大模型|Token|文心|进化|机会_手机新浪网 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zLXlCam1VNjNiOWMtMG5lXzcxNTNCM1ZiWFNtVm9WckN5a1poRGtxLXdaN0FoNlZBMTBMS214T3c4S2p0YTdLT3ZlcmRQLVh5T09LSmVPYnM1R2JmdEFnWU9valNzSVFCbjg2NUhOS0lrZVRfNEgzTkl2dGplVW8?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:49:09+00:00",
+      "summary": "百度李彦宏：AI下一幕是智能组织|大模型|Token|文心|进化|机会_手机新浪网  新浪财经_金融信息服务商",
+      "categories": [
+        "other_big"
+      ]
+    },
+    {
+      "title": "英伟达员工发帖要求挽留黄仁勋，已有1600条留言；3年前ChatGPT之父被免职，700名员工联名写信要求回归 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUS1YNl9nb25pZG1Ed21pd0dueTlVNWUtQjVVdU15aUxLTnhaZm45SnBYdldNZzVVYnp6ZGYtOC1kZ3VIbzA1eUprZEh0a04wQzB0ZjNOWE91WVJpV05RM3c0T25EZy0tandVNE1ZOEVFNWNmbV9Ld05BZG5hek9RYmVPTHNVcHJ1R29J?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:45:38+00:00",
+      "summary": "英伟达员工发帖要求挽留黄仁勋，已有1600条留言；3年前ChatGPT之父被免职，700名员工联名写信要求回归  Sohu",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "大湾区第一：自变量 GreatWall 通用具身大模型完成备案 - 具身之家",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwTng0MW9kaTBNdUdTSWh1SzU1RnBGbjZ6VGhOWHV5cHJCRUxOOFRleTg1eWVRRDVyQnFkOUVUWVpwYVhmbmJDald1dw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:39:08+00:00",
+      "summary": "大湾区第一：自变量 GreatWall 通用具身大模型完成备案  具身之家",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "数智投行：面向投行业务的专业智能体应用实践 - 信息化观察网",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjTVRpNzBFRTh2UkpDdlh5bTkyaWlLaU5zQ3ZyVklIN2s3dUhiS3N5Z0hpM1VBN0NHQ1IxVk8wZ2pZQnlvMUJwTU5lTHlqaElYYmxydl9ldmVYWTQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:33:40+00:00",
+      "summary": "数智投行：面向投行业务的专业智能体应用实践  信息化观察网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "chatgpt关于波切蒂诺执教成果的最后判断 - 虎扑",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XR0duclZGZ2d3blhxUkk1bFBWUTVsQjZ3TmxVcjFrNGZUZ0VRZGY5em5zVEQ0VDYtVGxCR3pfMzY0UExrZ1JaRVZpelVrQQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:27:56+00:00",
+      "summary": "chatgpt关于波切蒂诺执教成果的最后判断  虎扑",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "谷歌联手多品牌推出 Gemini 智能眼镜，起售价 395 美元 ｜#AI资讯# #Google# #智能穿戴# - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUdWT2hhbEtpNkNWQUhaalRTRC1mNnF0Ml8tS3hOcE9DazVMY2Y5bkUxUTRnQWw1dFRTYTc5elRwaFNVZXE3ZGZwVEVpcEFRdmRKOVg4MjgybFJMRC1EeDF2TVByclJLNjkwVWFoZzhyVmVqWTg5R2xWZ1RqdDNsM2hubWk0NlJVV2RaeQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:16:23+00:00",
+      "summary": "谷歌联手多品牌推出 Gemini 智能眼镜，起售价 395 美元 ｜#AI资讯# #Google# #智能穿戴#  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "Anthropic估值缩水，压力给到国内大模型公司 - ThePaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85VllTLUt2bUhCMnp2dW1oRWc5bjBsa1o2UVFsWGhuUlNuODV3QWh1YXNZRk9JaXlGSDlFR0dpbTJ5OXl1SGVSNHl5Q090OVRBcmthaVBCU0UxWHJ4VmU4TQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:14:02+00:00",
+      "summary": "Anthropic估值缩水，压力给到国内大模型公司  ThePaper.cn",
+      "categories": [
+        "anthropic",
+        "breakthrough"
+      ]
+    },
+    {
+      "title": "AI接管手机迈出关键一步：谷歌Gemini自动化应用名单曝光，当前共计134款 - 凤凰网科技",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kQkRfc1c1cTRtVFRLMUY4VTZsLWN4MWZvbmxhV2hGS0EwV1BoNGt4cnEyRlNONHhOcDVSM2JaaHgxcFFsdmotaWNTT0Y?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T07:10:10+00:00",
+      "summary": "AI接管手机迈出关键一步：谷歌Gemini自动化应用名单曝光，当前共计134款  凤凰网科技",
+      "categories": [
+        "google",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌搜索接入 Gemini 4 Hydrogen 模型 提升复杂问题理解能力 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53WWtIN05Qcml4RUhKelQ5UnpwZkhnWDJtZmpJYjFxd1RQWEtrV0lFNUtsR05pSmZEZkhEeHFGU0pGeHJnVGVNcA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:53:10+00:00",
+      "summary": "谷歌搜索接入 Gemini 4 Hydrogen 模型 提升复杂问题理解能力  品玩",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "大模型入局、机器人站台！慧聪品牌盛会终极评审收官，谁在领跑视频物联？ - 美通社",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydENNNE5jMW5ieEFxRkdlaHVtbDc4dmRFNlBORFNXUHV0YmF6dmFEbnpTQWNqVGRFcWhlZ244c3NxejhJSGc4ZDFTbDk5RmZ0V2JxcUJ2eDBXb21SNlJqN1hRZFJhX1ZGLTRZX0FR?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:50:00+00:00",
+      "summary": "大模型入局、机器人站台！慧聪品牌盛会终极评审收官，谁在领跑视频物联？  美通社",
+      "categories": [
+        "image_video"
+      ]
+    },
+    {
+      "title": "席位订阅、OA嵌智能体，中小银行拥抱AI“办公搭子” - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PYlc2aFVLRVN1SWxWSTM4ckxiUTBKbFRjNWhHV3JUVFhCLVpCeW5JRVNVNU12VDllemNBbjFPSFRsMjM1RFRrMTZPbGU2REp1RkZXZ3hqV05ocHNyWl9Hc3FUbUJqTzREUzBBQmFtRUJCb1hQbS1yZg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:33:02+00:00",
+      "summary": "席位订阅、OA嵌智能体，中小银行拥抱AI“办公搭子”  新浪财经_金融信息服务商",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "“进解优促”面对面——人工智能垂类大模型专场活动在成都市民营经济发展促进中心举办 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGljV3BFbkxqUVdXYUE4c0syRC1LbkVFV0V3TG5sZGxQNldLbDU2c0VWLUVBR2pJWk1vY3AwRGlOekJWUFBZbHBXckhXSl9QVEZpLVFCRk5JSW5Ca253WjhCT0k3VUltRmdjbFFMYk5MaDY3dUtBUk1RcDF1VXQ3dEc2ZHprZ21k?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:29:26+00:00",
+      "summary": "“进解优促”面对面——人工智能垂类大模型专场活动在成都市民营经济发展促进中心举办  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "企袖KeyAction探路主动式商用AI智能体落地 - m.zqrb.cn",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FOURjLVZjNmVyUC12aWctZDMzV2hUMDlNS2FNbl81S0d4a2swSFE4VmpMTWt4ZXdUZlRiMjA3Y1ZhLVh6cGNwUy1LNVZNLTFSOGQ4d0hWdkpabzVBS1YwdTA3dWJIQWhHcE50LVBIOA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:24:00+00:00",
+      "summary": "企袖KeyAction探路主动式商用AI智能体落地  m.zqrb.cn",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "WorkOS 数据泄露溯源至一名研究人员逃逸的 ARTEX 智能体 - OrcaRouter",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2JPUl9jR0V0N3gxbVMtbFFqbXViNU8zTnplNGFTbEs2b0tSbVNJOXN4RUJFTDU2bS1yQnhGLVFLbFBzTjlqVmRldGtveFJxdXVVWDEzejgxYlRmWFRNNDQtSWh1c2N4V1h1REFEcWFUZnZKbEhFS1FOUXVWTTZ2OXlCbGhzYlVW?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:21:14+00:00",
+      "summary": "WorkOS 数据泄露溯源至一名研究人员逃逸的 ARTEX 智能体  OrcaRouter",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "谷歌六周连发三款大模型，压力给到OpenAI - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjVoeTlodk54aVcyWjBvLWxoUlB1U2VYN29iZUctY0UtVW8wMzJJNVExZGRpMWRLS3Y3TXgzTk9ieGJreS1NM1hnRVVCZ1dkaGRIS0VkeExGdlhDcDdSdnotbzNXNjA1RWVGMzdybDE0cDU2aV9VR1VRMWZ6MkUxY09RM1BlbDZ6QkdQcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:18:28+00:00",
+      "summary": "谷歌六周连发三款大模型，压力给到OpenAI  Sohu",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "李彦宏：AI下一幕是智能组织，百度日活智能体增至3.7万个 百度创始人、董事长兼首席执行官*「过去一年，百度内部的日活跃智能体从约5000个增至3.7万个」*在百度世界2026大会上披露 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTJyX1JTV25pT1ctYmFSaVpYTHB6elI5LWdwUHBScmc3dk9MVFN6M2pnclphQWNTYUZVci1rMC10R2h5d0xKUmJDVkVkd2lTRDRvbEhLYzR6NXJNbi1NdU9hQWVNVlVyNE01b0lqRUFIU0hJTDJocDFzZ0NiR2lUSFRzZnZDdy1C?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T06:05:13+00:00",
+      "summary": "李彦宏：AI下一幕是智能组织，百度日活智能体增至3.7万个 百度创始人、董事长兼首席执行官*「过去一年，百度内部的日活跃智能体从约5000个增至3.7万个」*在百度世界2026大会上披露  Sohu",
       "categories": [
         "other_big",
         "tools_apps"
       ]
     },
     {
-      "title": "【理论】用好人工智能上好“大思政课”|高素质技术技能人才|职业教育|大模型|教学|制度_手机新浪网 - 新浪财经_金融信息服务商",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uR0VFRWdLR1g5bW12V2FiWkFkTFc0OGtKdFRxQVZYNHV6UU9QSHZiY0tVcnRZWDkxYndaQUxkNElUYnFlMHp3RW4wWFRJeHVjMHI5eTR6Tko4OUlWMFl3UDRMMTdzYndZREpkcXhxTWMzNlJlUkJIeg?oc=5",
+      "title": "AI大模型等港股热门概念股跌幅扩大 智谱跌超11% - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMklacnp0U3NZN1gteTMzVXowX2d6OXpLd3o0ZGtwY2ZMQ2ZlZ0RfeE1YLWJJSWktaGg0cm0yOEI2YVpta19DbTJzLXJoYzVPUW02Ykhrejg4SF9vWnd4Z0tOWHFLUWJ4NzBjTE95WlJKQ2VWRmxsYU81TXljeXV6VlBvZXZMUnNXdVljVQ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T01:07:29+00:00",
-      "summary": "【理论】用好人工智能上好“大思政课”|高素质技术技能人才|职业教育|大模型|教学|制度_手机新浪网  新浪财经_金融信息服务商",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "科技云报到：大模型狂奔三年，百度词元所重新定义AI生意 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFhOdHpnYlJldWtONXd0SW1LaGFLMTZvNG9JcWxzaTV2ZGptODNWWGVqSFlwT0EwUDltS1dmeVRLTklJZ0pWVkdJQ1l3SkhpNURjcUsydkpTUm9lXzhVeVVHNm5QcTl0RExyNVZzekpHcGlkSHlJTDNpVE9rZGNmSWFIT1lyTW8y?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T01:07:18+00:00",
-      "summary": "科技云报到：大模型狂奔三年，百度词元所重新定义AI生意  Sohu",
+      "published": "2026-11-13T06:01:00+00:00",
+      "summary": "AI大模型等港股热门概念股跌幅扩大 智谱跌超11%  Sohu",
       "categories": [
         "other_big"
       ]
     },
     {
-      "title": "日本AI独角兽被指核心技术源于中国 开源模型引发质疑 - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZajV0WlkyLUlMalhEV1hwV0VqZFp6SkVXLW1qSzgyOEtJZmdCMnlRbi1PckFkSDQyWkNUcmJMUE51MFdNUk5tekt6Ui1TVmtBdFE3MGJBWURYdDB0Nko3WE1QSnhSRnRBN212MHcyV2U?oc=5",
+      "title": "百度发布两款应用模型，李彦宏：会持续研发基础大模型 - 国际科技创新中心",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IY3BMR3pidGpDM0RpMFpXVmh2VGJsYTcyVmNpcXY2OTNVSG1pTkZxNEpmYzR1WmRhS1FTNmRseWFxZm5zejltUVMzT3FzcEtuT0x4enZ0YVFHU2lvcjVjTTFyVHZZZ2hLX21HWWYxc0k?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T00:58:16+00:00",
-      "summary": "日本AI独角兽被指核心技术源于中国 开源模型引发质疑  中华网",
+      "published": "2026-11-13T05:46:22+00:00",
+      "summary": "百度发布两款应用模型，李彦宏：会持续研发基础大模型  国际科技创新中心",
       "categories": [
-        "open_source"
+        "other_big",
+        "tools_apps"
       ]
     },
     {
-      "title": "星辰大模型驱动AI场景向善 Token经营打通产业落地通道 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmw1MFU1MnRnRnpjcTJfV3RYX1RiNGV3V01mZTVvcFVvc3B3VUdra0hqeWdIMUs4MThLdndyeFltSXk4LVgwR2pDWkJLZU9INGNnZkRUX0xJLTlGMzB5YlpZNW1PUE5IMnBKYVJaOVVGYkRFSm9kNVhGS2RRaUttQmJiVklUcVFR?oc=5",
+      "title": "智能体全天候运行，大模型开始拼“智能单价”。竞争不再只看谁“最强”，还要看谁更“省”，模型价值正进入按任务算账的时代。 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0hZYUh1VW1tWG02TnNUYk5nRlZ4RGxfenVCaWV4dy1GeU1Ebms0bF9LV2tURG5VRWR4T0RSd3hRUXVmM0NLQ19rNHBIblF1bWZ1OWRndElQblhwWW4zS0phU2RsanpOeWdyMGNkNXVUSTctckQwdGhSRjNxaElHWWFtMUVpNnFq?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-13T00:57:47+00:00",
-      "summary": "星辰大模型驱动AI场景向善 Token经营打通产业落地通道  Sohu",
+      "published": "2026-11-13T05:45:07+00:00",
+      "summary": "智能体全天候运行，大模型开始拼“智能单价”。竞争不再只看谁“最强”，还要看谁更“省”，模型价值正进入按任务算账的时代。  Sohu",
       "categories": [
-        "other"
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "智能体全天候运行，大模型开拼智能单价 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3ZQM2VDNmZkS1BTUEtkVGpSZjdqTVRudm5ELXd0MEJjckhrQkIxMXg2d3JIS2JodjVUa01ZS0RaQW5IcEZ2cVl3TkJ6Z1RTMEJiMHJGNkhvd0pVa3RDakJ6VU5WQ0l2VVdBY0UxQ3o3UXZ3N2RhelVTWldhXzYtUU5RN3NsZVBo?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T05:09:52+00:00",
+      "summary": "智能体全天候运行，大模型开拼智能单价  Sohu",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "Anthropic推出Claude Meetings：AI助手可直接加入视频会议 #AI资讯# #Anthropic# #智能办公# - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHpUWUVMbERnaUlzNE1kcV9vOUxuWjJNNDJIU2ZNOWQ2bHlZTjJ1MmFXbWptX0JLWE8zWFNDMm9UY21zWTdwR1lrQmlIX2FJRmR4TWVhU19tUGZVLV9NUU5oUnZ2UEs3VkJaZFdYM1IyeHlNc25hS3M3a0NXWmI2MXI2RW90ZGhJZnUwQw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T04:10:32+00:00",
+      "summary": "Anthropic推出Claude Meetings：AI助手可直接加入视频会议 #AI资讯# #Anthropic# #智能办公#  Sohu",
+      "categories": [
+        "anthropic",
+        "tools_apps",
+        "image_video"
+      ]
+    },
+    {
+      "title": "谷歌发布 Gemini 4 Hydrogen 反杀旗舰 速度提升 2.5 倍 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkN0WGVpOVlIcHg0SEJYV1NPNFZMSE5zbUJuQWxJLXdSY3BMRFBiT1Z6dXNZNWFNOUlhWlR3S2NVNzhlMndxSDBwZTlqemdkSVRQMmxHT2g3dTZwaUZnb0lrajdqUGJGbzhJeUFUbElGMGhELUQzbnB3bFFrZXR2LUc5UE9yNVRjb0tEcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T03:23:30+00:00",
+      "summary": "谷歌发布 Gemini 4 Hydrogen 反杀旗舰 速度提升 2.5 倍  Sohu",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "谷歌发布新一代大模型 Gemini 4 Hydrogen 主攻日常场景高效推理 - 品玩",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HMm5VUU1LTzVRUDY0MjA4RWJldzM0ekNjb1U0UV9jTEJ4MWplWVdYUXpkUThMOElXSnE0Y3dIN1hkR1Uyd1g2TA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-13T03:21:39+00:00",
+      "summary": "谷歌发布新一代大模型 Gemini 4 Hydrogen 主攻日常场景高效推理  品玩",
+      "categories": [
+        "google"
       ]
     },
     {
@@ -63,91 +308,11 @@
       ]
     },
     {
-      "title": "【视频】搭载豆包大模型大众ID.ERA 5X正式上市 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrTnJkejBpMEJEOEhJQnpxV0R4S3ZMd3k0UXhMRnhBVk5ESXdzTVhlUTNIbWRtcjI0UWF5Y2t0dV9YdnFzMDhuc3ZSZkI2dlNkQnlUa0JYOC1Tb1k?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T00:40:52+00:00",
-      "summary": "【视频】搭载豆包大模型大众ID.ERA 5X正式上市  汽车之家",
-      "categories": [
-        "image_video"
-      ]
-    },
-    {
-      "title": "百度世界2026发布多项AI成果，李彦宏首提“组织进化三原则”|AI技术|模型|文心|岗位|服务_手机新浪网 - 新浪财经_金融信息服务商",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPdkZfMkRYQy1kRnY5ejl5M3pJekhSblVSc2JHTnFITXVzWTNKRW1XSG1CSVVtQUU0Rld3djJvbWR5WTBXZ05UeExoT0plWURiby1lOG9GSE1IMGRUSWtnRzdhVVhvRGJiRmVtdTN2c3ZWUjZkSHVVNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-13T00:15:13+00:00",
-      "summary": "百度世界2026发布多项AI成果，李彦宏首提“组织进化三原则”|AI技术|模型|文心|岗位|服务_手机新浪网  新浪财经_金融信息服务商",
-      "categories": [
-        "other_big"
-      ]
-    },
-    {
-      "title": "边警告AI风险边开发先进模型：OpenAI、Anthropic、谷歌等五家AI巨头遭起诉 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SMllVWlp5RjBVNjF5UFA0LXRiRG5uOTJlbHRmc1ZIYmxHR2lDY2ZJRE9qNi1ndzR2OUt5cy1kSmc1Mm92UHExMl8tOF8?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T23:58:13+00:00",
-      "summary": "边警告AI风险边开发先进模型：OpenAI、Anthropic、谷歌等五家AI巨头遭起诉  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "五家AI巨头遭起诉，被要求叫停ChatGPT等产品 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Pa0hacWFDZi04VWQ5a0lIQ2xWZHpLa2pUTV9acjdpWjhSYTRocUFnOWY5MU1DcDZKNFRxWXFfS3NLMUZiVm01QmxNM1FobUMwbERWVnBBcjJHXzEwZTNSUnZZSzduVF9Kb2JzazkxbWl6ZDRWZTY2Zkh6WUh3UQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T23:58:05+00:00",
-      "summary": "五家AI巨头遭起诉，被要求叫停ChatGPT等产品  手机新浪网",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "Gemini 4 Hydrogen 与 Gemini 3.8 Flash：什么会出问题 - OrcaRouter",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RnNXcmkxZnkzcThsMlBOcUZnUzl2ZXg3SFA4WmkyUlVGZWxnTDdtLXhqUXVjT0dLbkZPNEwwQlNhLUhNQ2xiMXZqN2xSbzgwTFhBSXEwSDVTWVZfWENpQ3VGX3ZjVUtYZlEyazE3Q21wVHVNY0xzRU54TE5xMjA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T23:32:54+00:00",
-      "summary": "Gemini 4 Hydrogen 与 Gemini 3.8 Flash：什么会出问题  OrcaRouter",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "福建最新发布！事关“人工智能+” - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS3FJVk1SV0QtcWdQZ011NFpoc1FjYVJkQ1lIYm11WWtFOTNSNnhWZ0JmNTdwU0N1QlI1MVQtWmhJdGt0N0JGUWl4MTdubUE4QzlxQmtab2hKUmJIWjdEbnBJbm1iQWZjT3NMT095dEdIZ1NvdV93YVpjS2FHVHVPeU9pVXNEaWxNQkNJ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T23:21:26+00:00",
-      "summary": "福建最新发布！事关“人工智能+”  Sohu",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用 - 爱范儿",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1jZXUxd19FOTIzSkdJcHhoMWxVeUF1NUtud0pxcTVwbkhUZ2ZmS19rSHJHcHJEbUdlR2tCb0VQQzRrY0U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T23:11:11+00:00",
-      "summary": "刚刚，Gemini 4 新模型叒来了，终于人人可用  爱范儿",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "不用Flash命名，谷歌发布Gemini 4 Hydrogen：幻觉减少5倍，速度翻倍 - 华尔街见闻",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vV0QwcEFNdE1nZnViSnpYUHdzUFU5Z0pmRjRSX1ViSk9LQjBvVlRua1dJcXp1b0t6cjA5dEw1V3M4aGpWVklFMUxoRzdXQ0Qwb3VJ?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-11-12T21:23:32+00:00",
       "summary": "不用Flash命名，谷歌发布Gemini 4 Hydrogen：幻觉减少5倍，速度翻倍  华尔街见闻",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "谷歌发布Gemini 4 Hydrogen模型 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHJRYzZQS3ZyLXdUb2hfb2xKcEkwa2JZZUN6Z05KbHVlWEYwdW1rSlFIOExsVlU1NENpa3l1bWhnNDd3MHk1MTBlcm94bzJreFdrOFk4RzNFXzRXX1ZEQW80aDdHR2s4RGRIZW1RYkhkcm9sOGdNdzh1UGlWTHd4eTlUdUJFNEE3XzctNw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T19:04:16+00:00",
-      "summary": "谷歌发布Gemini 4 Hydrogen模型  Sohu",
       "categories": [
         "google"
       ]
@@ -184,96 +349,6 @@
       ]
     },
     {
-      "title": "谷歌地图CarPlay版正式接入Gemini 支持全自然语音完成导航全流程操作 - 新浪财经_金融信息服务商",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90cHFTN1ZTSk1jTmg0OEpPX3BuWURNSGhSeWRwRXdlbjJHd0NqRlFWMENzbXdzWk9IYjhjNE9hdEkyZkd5QXZLRGUwV2FaczZhTDk0V0NnNmx2LUNnM1pvcXkyWE1pNHIyU1ZGdG8xNEpoZmRHUkRoSg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T18:11:15+00:00",
-      "summary": "谷歌地图CarPlay版正式接入Gemini 支持全自然语音完成导航全流程操作  新浪财经_金融信息服务商",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "OpenAI高管：印度已成ChatGPT全球最大周活市场 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1hXNUVZa1J4SlV6M3h4MUplWHl1RjItQnFocEFsR1NZbXNjVmJjLWVNNTV2a1FBMUw2dDFEanNfNWJUWUZudndVaGFTbTBZUjJDVHBvR0RITnpLRy1jUDc0Mzc4UHJmVXNNQXB4V0FuVUlhdVlxd3JpUkJMVU5pSVRLS3BaOGczRHg1Uw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T15:51:28+00:00",
-      "summary": "OpenAI高管：印度已成ChatGPT全球最大周活市场  Sohu",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "InterSystems携手Google Cloud，成为Gemini for healthcare 的发布合作伙伴 - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OQVZvUWRCQjF3MGcyaXBxUFFNZXRLMWlTVlRoS3Q2a0dOZjVVckFWZXAxYXhqRnpvendobHh0dDE2TEJpdXNUOTdRYllTSnlWQTJ0Z1dpekI2cnJFejFKUzYyeWRIbWVXRncw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T15:45:00+00:00",
-      "summary": "InterSystems携手Google Cloud，成为Gemini for healthcare 的发布合作伙伴  Business Wire",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "AI 开始画高速 PCB 了，Claude Fable 5.2 连 DDR3 都安排上了？ - 电子工程专辑EE Times China",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nVHVoZnp1U0JZU0dvbVo1YW05c1J4UjJRaVBnYkFDS1JicHJiMGhXWkxQNnBZbEZUbUFfVEI3dGhISnFsSG42WUxlV25NM0VfT2NB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T15:45:00+00:00",
-      "summary": "AI 开始画高速 PCB 了，Claude Fable 5.2 连 DDR3 都安排上了？  电子工程专辑EE Times China",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "AI智能体并未发现此前未知的玛雅遗址 - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSW02M1U1ZzloNkc4cHZyZzhpRHNzNDh4UlU5NEJKN0Yzb0RUWW5UQjRoRXE1Vy1MSURjd1Nwdm04cEdnRlFDdFhGTmhtXzBTak1hdHd6dDhjV1NnaUNTbXdJVFk2Mk9SWUIxTHF5SWlWMFFyTWhpWEF0ZnBpeEFKOW5fTDhZTnRuR3p6S2labw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T13:46:00+00:00",
-      "summary": "AI智能体并未发现此前未知的玛雅遗址  Mezha.net",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Google 表示，Gemini 4 Hydrogen 将提升 Search 对复杂问题的回答能力 - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVYwMTFoeGtRWmRMX0NfSVBlOXdkcUhscFIzdjhIcmsxMTBYaUE4TmVhcUtTQzU3MDZQaWd5M3FzbU81LXgybDdnWE84UGNYYnBYSE1FWnRDTk1RYl9sbjVrcFhQaW1lLUdrZWdNcC15WS1wRm5jUG5qQ3NveEJWcWMzeTdrd2doLVpibjhJNElpREJKckRZ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T13:37:00+00:00",
-      "summary": "Google 表示，Gemini 4 Hydrogen 将提升 Search 对复杂问题的回答能力  Mezha.net",
-      "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "Nectar推出AI智能体，帮助品牌自动寻找创作者并开展联络 - Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYlFiVXJBcW1iUU5KMGpuQTg1NlYtYThSX18ycW9XNUh1TWNwTGkxdENzeDUyeTZMdk5LajlMRnJhT3Y2U1ZJRGNVQWxmdDR6cGZDeVdmcG5tckwxSWRPVVE1ZEZoYXBNM0tvZWtVcGoxdnNJamU2ZUFnZXphUVlTa084NGxmNjQ5TEhlQ3BfaEdGZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T13:37:00+00:00",
-      "summary": "Nectar推出AI智能体，帮助品牌自动寻找创作者并开展联络  Mezha.net",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "Claude狂挖3.8万个漏洞，竟然管挖不管埋？！ - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YUDNZRDBjSDlkOGxtV3lraFB1MUk5dkxSWkp3V3J1RFpxQ2l0eUsyNHJvSzhLYTZGMzFucmVlbm1YX2ZBa3lCaQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T12:30:00+00:00",
-      "summary": "Claude狂挖3.8万个漏洞，竟然管挖不管埋？！  智源社区",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic被曝为Claude加入限制：禁止生成宝可梦相关游戏素材 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90dWpCQ3J0UXdSTy1EalkteWhfMGVDdFNDTXBHT0pFYnZQd3BrTDJMeEZTRlhtdE5aaXBXdXRzMFBBWXNMQUxYS1FKZ1Q?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T10:54:27+00:00",
-      "summary": "Anthropic被曝为Claude加入限制：禁止生成宝可梦相关游戏素材  凤凰网科技",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "新加坡三部门联合发布个人AI智能体安全须知 - 安全内参",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92TWxMTXQ0eXZKSXRfUzlZNHVtelhub016QUlBZDdmaHY3c3R2NmxJRUYyaVNCWlRIcTNfQlFoYl95cm52djBLdkZRTVVVZw?oc=5",
       "source": "Google News - AI(中文)",
@@ -284,85 +359,14 @@
       ]
     },
     {
-      "title": "Gemini具身RSI发布！御三家连续暴击垂直具身模型，太惨了 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tSi0wVEFyT3o1WFAwVHY2VzkyMV9UNmZiaVlMUzRkZGRWamQyVGRUWEQzWHlBb3pQOHQwcDFtd1N0b1JqVzNXNA?oc=5",
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude - 量子位",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWXEybS1iMzFZZGhWeS1DQ29ONEFqNDB6VU5GMS1RaXNpY2YtbHdCTjFTcmhMenRvZmNHQzNZV3FWZGoyeXU0R0xKQzA0bkVUX3c5Yg?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-12T10:20:00+00:00",
-      "summary": "Gemini具身RSI发布！御三家连续暴击垂直具身模型，太惨了  智源社区",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude  量子位",
       "categories": [
-        "google"
-      ]
-    },
-    {
-      "title": "35秒内阻断失控的智能体，OpenAI部署“控制室”系统 - 安全内参",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01cElCQU04Q2JvSzdycXZIcHVod0E1YUxyUlpyckZ2XzI4My0wTy1oSlA3OXpiYXVUNE41bVdKSGlpbXo1Ylh3RlVxbUVBZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T09:33:56+00:00",
-      "summary": "35秒内阻断失控的智能体，OpenAI部署“控制室”系统  安全内参",
-      "categories": [
-        "openai",
+        "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "中关村科学城人工智能全景赋能典型案例：覆盖AI4S、具身智能、医药健康、城市运行、文旅消费等近20个领域，同步发布4款中科大脑政企智能体和51项“AI CITY·人工智能赋能城市实践”样本 – 智慧城市行业分析 - 智慧城市行业分析",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVFN1dGR6N3hsLXEzNmJKTWIxZzFSM1FpdzlzeFRTZmx6c3ZEYlNNVUUwX1o2TFU2MjdNMDFIMGthdjAyRy10Q3Z3QjVsVUs0YkNSdUFXMFpTMFZUNG9qVDZ2enhLY0RJSVNiMU1md2d2aHZKOXo1d0pCaHpGT0stYXU0a0g1VzFnX0dpaVZ4bzdnajlEd2hzdHZGYzVxclNJeW9NOXBmTjRQeWg5eU1wbkhMcTdCbDVzbEdGblZpSHluSVVsUllDUVRkTGFNQXI3cnp3Mk54RlUwcE90bnI3NmlDTjFESVdsMUNpV0VySlJQd3ItQ293QUgwSjgtUQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T08:50:00+00:00",
-      "summary": "中关村科学城人工智能全景赋能典型案例：覆盖AI4S、具身智能、医药健康、城市运行、文旅消费等近20个领域，同步发布4款中科大脑政企智能体和51项“AI CITY·人工智能赋能城市实践”样本 – 智慧城市行业分析  智慧城市行业分析",
-      "categories": [
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "四通集团发布 STONE BUDDY AIO AI 智能体办公一体机：软硬一体、本地部署，破解企业 AI 落地三大难题 - 美通社",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiMFk3RW9ld2NmR1plTjRzZ1pBcHFEcDZlVmd1WFhrVnZMNjV3dEhwNk14cWFxUnBDOExYUU1nSU94NzJFcDVRM2d5Y2pPVEk0clN3cXRlWQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T06:46:00+00:00",
-      "summary": "四通集团发布 STONE BUDDY AIO AI 智能体办公一体机：软硬一体、本地部署，破解企业 AI 落地三大难题  美通社",
-      "categories": [
-        "tools_apps",
-        "local_model"
-      ]
-    },
-    {
-      "title": "Claude 10 月网站访问量 12.53 亿次创历史新高，超过 ChatGPT 和 Gemini - DoNews",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FYUJTc3hkRVpoQjlTMmZlVzFLU2Jpal9hbFBYRjdJMUFoak9xNGZreUhQemVDMFhOS1dTRm9JcVNidW1PakV6YzlKMUdXTUJPYk5lZVpuNTBNMlFETXc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T06:29:57+00:00",
-      "summary": "Claude 10 月网站访问量 12.53 亿次创历史新高，超过 ChatGPT 和 Gemini  DoNews",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
-      "title": "OpenAI推出“Businesses in ChatGPT”测试版 - 国际科技创新中心",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zRWZydWZGbFhpN1l2TXVQU0xLWFRKcUN4ckFIV0lmLU5lS2FaYnczTXJLS0tSb2h3R21uR1lEYlZyR3I0ckpHMi1GQUdKQ3duMktSdW02cUhtVHBLczdTd0xLc0RObUtNSGkyeVZUeFZ3ajVPTnlPb0d1a2tfQQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T05:33:03+00:00",
-      "summary": "OpenAI推出“Businesses in ChatGPT”测试版  国际科技创新中心",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "无创光学脑机PBM大模型发布 - 国际科技创新中心",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wak5mcjlCWi14Y2NsblpidGM3VGRDdWhmYk5YQThybzBvcVA1VTdYUEFhVTRCU21kLXVWQlZfQ1I3dUFKY2ZDRHFLY21EcXMxalBhejZaTjlITjExTTQ4dU1SSS1UcVJwQWlTcjBDQUVqUGt6Q2k2SHBKMTJfdw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-12T05:17:48+00:00",
-      "summary": "无创光学脑机PBM大模型发布  国际科技创新中心",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "TestingCatalog 报告 Gemini Decision 1 现身 Google APIs：附截图，发布时未经 Google 证实 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tdmp0UGRCSXlrZW40azJTSDNRX1ZseWRLQmZ3Wm1YU1drWWs2eXMxbVdYNDlMdnhlMlVrbDk2MW9jbHZ0aWJOQg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-11T19:05:00+00:00",
-      "summary": "TestingCatalog 报告 Gemini Decision 1 现身 Google APIs：附截图，发布时未经 Google 证实  智源社区",
-      "categories": [
-        "google"
       ]
     }
   ]
