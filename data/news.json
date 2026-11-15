@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-15T15:47:39.428171+00:00",
+  "updated_at": "2026-11-15T20:53:17.429477+00:00",
   "items": [
+    {
+      "title": "Claude Duet 推出邀请机制，每人三个，但不必四处找邀请 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0ZLcVpWdXJSZDU5WkJPX21ERXFoT2pNQ1ZjVHpxOG9nMHBZLV9iUURMNDAtbjFMNTZYbzR2bGl3X3dzeTk0RS04RmFxWDJ6cER3RW5FcmJzTzAySVNoSXQwNkZQQ3paVmNfQmJvaXNfeWV1SVd3RHVyMDhlZ3lHdU13?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T19:08:06+00:00",
+      "summary": "Claude Duet 推出邀请机制，每人三个，但不必四处找邀请  Pasquale Pillitteri",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "美方斥资8.75亿研发AI大模型，5个月赶工替代空管员工 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWRLR0haNGlFckFzcnNuQVlxV1Y0bWRSLWRtNlA2eTQzNHJESzB2b01LMHV6Y29nUnJyNFNKWXAtUWkwZTcwWHAtUXZiS21TcTRHRGdsdS1KWDFCcDlCVE1yLTZXNllIejh4a2Iwck41TEtRT0dhT1FTRHlWUG5yRg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T18:18:59+00:00",
+      "summary": "美方斥资8.75亿研发AI大模型，5个月赶工替代空管员工  手机新浪网",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "用 Claude 做的 DOS 语言模型，435 KB 就能装进一张软盘 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3pOT0Ryc2VtbWhRa2thQmFPTjFPc0pIOTd3dUdJMHJjN2NPOExYVEhpNm9JbnpsdFhVZ3ZlamFOWDZOMU0wN1hzUHI0aHFrdER1NTlnUmZFVEhHRU1JS0JzTTBSRTcwSDlmRk90aEF5Q2htb2F5ZVk4WTVLZkREXzZ5RFh0ZTBCc3VYNg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T18:08:45+00:00",
+      "summary": "用 Claude 做的 DOS 语言模型，435 KB 就能装进一张软盘  Pasquale Pillitteri",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "谷歌发布Gemini Robotics 2.5，人形机器人在奔驰工厂上岗 - Pasquale Pillitteri",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZml6Nl9oZzJvcG1nQjVDN01tTzZQNU0yTE45Tm53ZF9ENFBWNVdNZzU4aVllaTgwZWNXLUxqLUJVeHRHM3VheGlHQWQ4SERCbWdsNmlURE1rRUpoSUs4VjczUlFpYTZyeWVGZzFjUWZHay1Mck5mWmQ3OVZRVmpNajZZMHhjNUwzUTJTVjRZYmF4aHM?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T18:01:38+00:00",
+      "summary": "谷歌发布Gemini Robotics 2.5，人形机器人在奔驰工厂上岗  Pasquale Pillitteri",
+      "categories": [
+        "google"
+      ]
+    },
+    {
+      "title": "国会拟向AI巨头开刀 OpenAI Meta等恐迎监管风暴 - 文学城",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SQ0V6d1ZjOVMyS2xzMlk5cmxkM2t6RUNlT1lNUUEwVFo5VTdCUDEtZ0l3aG1oU2lSNGh1R2lEcjMxOHo5UUV1b0tXbUUwa1BIa1hZQzhKSHNUQTNMTDVVQ2xwMjVLYWlB?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T16:18:31+00:00",
+      "summary": "国会拟向AI巨头开刀 OpenAI Meta等恐迎监管风暴  文学城",
+      "categories": [
+        "openai"
+      ]
+    },
     {
       "title": "“爱中文”学习社区全球伙伴计划发布 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XLTdQWGt5OTNqYjZQNThMOGFEazFOTkx6UTdGeGJwSGhpSzBLM29rMEVleFk1Vy0xUmVXU0RVWmVQdHdoZng4dEtuMnc2STZ6NXNMT0dHM2VrVWxHazJRTDMzeVBMbExPVVY4RDIxbEE?oc=5",
@@ -9,6 +59,26 @@
       "summary": "“爱中文”学习社区全球伙伴计划发布  手机新浪网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "SMG“爱管家”智能体以“AI+民生服务”打造助老样本 - https://guan.media/",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idEstYWJ5Sm93SGdsdGpIaUlPZzZsbzRsYjRNMUZjSHBDLW80R3VYcVotSU95UmxmUDdXZzRNZlA1WGJZX2V6MWJqYnJpVGtEbjJn?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T14:27:00+00:00",
+      "summary": "SMG“爱管家”智能体以“AI+民生服务”打造助老样本  https://guan.media/",
+      "categories": [
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "《2026中国人工智能开源生态蓝皮书》在杭州发布，一家媒体带着场景走上这座桥 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUY1RkRoQndnYnl1aFlmT0pLTS1ZSjN4YkJ5X05uMVRTOElXZU5CWno0VTlQTGpYZmNmck5zSGNDQXQxckxFbUhBTG9LLTVFakIzTVFfOVdqVEdvYzJnSnBYN0pLUU85TFQzQXlWN2RnR2ZIYUdrRFpCVldrUWphVHlHb2xmTzNoV2lfcg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T14:04:42+00:00",
+      "summary": "《2026中国人工智能开源生态蓝皮书》在杭州发布，一家媒体带着场景走上这座桥  Sohu",
+      "categories": [
+        "open_source"
       ]
     },
     {
@@ -69,6 +139,16 @@
       "summary": "拟人、二创、拉CP，大模型在B站怎么都变成了“AI娘”？  Sohu",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "「别提越权」！OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUhGQlJsLU1UejB6T25jT3NJTE4tRXNlRzBOYlh6dVAyYmVnWFl2cVBCZTlfcGViR2s3enVmeU1kMnp0TkFhZDg3R182UW11ZGd4QklwellBOEZwN3QxM1JySDBNOHJmdS1xa0tDZW5qNTdKaFFfY2tlV2FCU2pBQWM5LUJ0NXZi?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T11:59:24+00:00",
+      "summary": "「别提越权」！OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提  Sohu",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -144,16 +224,6 @@
       ]
     },
     {
-      "title": "海亮科服HaiModel：从“会回答”到“会教学”，教育大模型走进真实课堂 - 潮起网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Kc09OMF9aSFMzWk5ENTAwMmhyTHAzT1pCeGpsYU1OWFR1WHM1Zko2cTBXMjZSLVNqM19OekEzNjZDd0dSZy1ZMnhxdWhGUjFROWNqRVFMbnluX0VoLWFNZFhVbw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T07:30:22+00:00",
-      "summary": "海亮科服HaiModel：从“会回答”到“会教学”，教育大模型走进真实课堂  潮起网",
-      "categories": [
-        "other"
-      ]
-    },
-    {
       "title": "免费算力进校园、9家单位集中签约，上财发布110周年校庆十大行动 - 上观新闻",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SNmZJN1FnRDZ0RlExT1hETmZtUG5kV1JWWWdNS295Qy1PTFBHeHhoWmRpU191WFlIbzhzU1dFb1ZtdnRQalhvYnNPd2R5djNpY3A0REtCM1dfOTFD?oc=5",
       "source": "Google News - AI(中文)",
@@ -174,6 +244,16 @@
       ]
     },
     {
+      "title": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlY1TGNVNE5Sc2ZuYnhkSHQza0dCSFV5U1ZYSENnbW9qX0dMd255OHltQ0dZTEpjUmplRDdsZkJ3Mlp0ek5vcWJPc0ppaHg5UFdfR2ZucG1iN196aEVDTVpUUzlnZ1JCWWUxekdTWGMtdURMUjlmUEN5Ym11ZmczZzJtQ0pUWC1wMWZVVQ?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T06:43:55+00:00",
+      "summary": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
       "title": "ReAct 循环：智能体的最小思考单元，四张表拆完\"想做看\" - Sohu",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHZHU1ZpTWdBd095aTk4cDhQRDdrYTN3eHZTUjFwVTlCWlV2YzQ2WGp3R2tNTXA3T3pkVk1NS0VzQnNKOWZxSmJVeGdMbTV5ZGVFa0wzTXpsN0RmSkJpRHFFTlBOLUlBdzJKNXRLRlFMMUNBRXh6NURTZF9xVHo0ZUREckx6dEJTa3o0bA?oc=5",
       "source": "Google News - AI(中文)",
@@ -181,58 +261,6 @@
       "summary": "ReAct 循环：智能体的最小思考单元，四张表拆完\"想做看\"  Sohu",
       "categories": [
         "tools_apps"
-      ]
-    },
-    {
-      "title": "【DeepSeek开放全家桶应用API】DeepSeek发布全家桶应 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcTlhS3FKRG82TXNJbjExYUdEcExtSGJURnZsOE9IR1VmMmxLdVA2QU5YYkhYTWd6V3Bwd195a09sWHBOQlFaTGdNbGw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T04:48:00+00:00",
-      "summary": "【DeepSeek开放全家桶应用API】DeepSeek发布全家桶应  凤凰网",
-      "categories": [
-        "other_big",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "静5前沿讲座 | 大模型机理研究的方法论谱系 - 智源社区",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5POEZPc2pGV0NHRjI2cnBJXy0wMFdpcjlnYzNTOHdGVk9uM3FIcTNBdTUxejk0eFp0ajUyQlNfTDFncTg3ODRQSQ?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T04:30:00+00:00",
-      "summary": "静5前沿讲座 | 大模型机理研究的方法论谱系  智源社区",
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "AI也有“原生家庭创伤”？ AI也有原生家庭创伤？人类给AI做心理咨询，结果GPT、Grok、Gemini竟然都emo了，把预训练形容成“混乱的童年”，强化学习成了“严格的父母”。#人工智能 #Grok #Gemini #ChatGPT #ai新星计划 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXZiang1c1BVTFhiTnNST0FOUnlKSmtNc05nWnJEWU9kcWxFMWtOdjg2WkZTd0N0V1pILU1wYjNOV2dtUms2MDdfbm1jMUdCSUppV3lsUUptbVRWcXFaMEJBZlA5T0RGQjB6ZVZCQVhhWWdVOW8tdF9DTks5bEpxRTJGXzFZS2MtRU5Rag?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T04:23:42+00:00",
-      "summary": "AI也有“原生家庭创伤”？ AI也有原生家庭创伤？人类给AI做心理咨询，结果GPT、Grok、Gemini竟然都emo了，把预训练形容成“混乱的童年”，强化学习成了“严格的父母”。#人工智能 #Grok #Gemini #ChatGPT #ai新星计划  Sohu",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
-      "title": "小米海外公布18 Pro系列手机背屏适配：支持谷歌地图、Spotify、Gemini等应用 - 凤凰网科技",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LR3JQNlFUTUFKNE5ablI1Vjc4LWZ3dk9XNGRPSWNsRE94eFJiSk02dm5ianZLQk41TWxOTWQ5LU9CYkdkRTlMVjFJSFg?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T03:55:11+00:00",
-      "summary": "小米海外公布18 Pro系列手机背屏适配：支持谷歌地图、Spotify、Gemini等应用  凤凰网科技",
-      "categories": [
-        "google",
-        "tools_apps"
-      ]
-    },
-    {
-      "title": "【视频】卓驭高悟性大模型4.1上车，极狐贝塔S3激光换电版上市7.88万！ - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WQWZjYmRja1hPY2Y1Q0xSYWlxZEQ3VzNCbEozU2lWVUhJZTZOd1lLSDhoQUNMZFZZdlIzSDh0dmI2UEQ5Si1nX0o1TjR2NVdfUGZJMUROeEwxM1U?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T03:18:48+00:00",
-      "summary": "【视频】卓驭高悟性大模型4.1上车，极狐贝塔S3激光换电版上市7.88万！  汽车之家",
-      "categories": [
-        "image_video"
       ]
     },
     {
@@ -246,16 +274,6 @@
       ]
     },
     {
-      "title": "蓝发Q 版角色调侃假Claude 售卖|Claude_新浪新闻 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CMFhOYlFFUVVrTS0yM0MydmYwS05zN19nN0RTeDZ6TTlJc1FFcDh3SDNGdXhTS3R0cWZzRjlrQThRVmdDaU5nTThCa3hiWm9ETUxpRTZLazJMbVEyaFhqaGJ2MA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T02:39:00+00:00",
-      "summary": "蓝发Q 版角色调侃假Claude 售卖|Claude_新浪新闻  新浪网",
-      "categories": [
-        "anthropic"
-      ]
-    },
-    {
       "title": "破解企业Agent落地困局：文朵朵打造安全可控的全场景智能体平台！ - 品玩",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tV3paZllFYVBiN0VEMm4wMDBoNXFhY1lHX1Z6ZmJ4QVo2dnExc1dXakR3am1hMVFpVWU0R25pYXV1aWxKQkdQWA?oc=5",
       "source": "Google News - AI(中文)",
@@ -266,13 +284,13 @@
       ]
     },
     {
-      "title": "Agent 能进门也能付钱了：两大协议方案如何打通智能体商业闭环 - 积墨 AI",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVZmTnB0cXVSek1hYW5kY0Q2cHhURzBUZzRSY3BMX0U5eVd0MXd1S0JhSnBBbE5ZTklQaXlwTEhUUEpUanYyNXlFS2VxeTMtcmpEdl9nMU9tY3pLWm5Yb1VELTJnUmVNSzJyU0FWVHNPTlZnZkRFZkZkZ0FzT3AyaW00Z1hLdDIzczVtd19UX2FHc3JocDN0djN6WWx6M0FXMjZ4Uw?oc=5",
+      "title": "谷歌六周连发三款大模型，压力给到OpenAI - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91X0F2YUpBZ1VOT1JOTVhHbkgwSXFleHZaU0ZSQ195WGMwODZXejQ1Q3RXU3BPZlE4WGV3MTY1aTloVGV0QkZFVTUzMzViUUdhdkhZ?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-15T00:00:00+00:00",
-      "summary": "Agent 能进门也能付钱了：两大协议方案如何打通智能体商业闭环  积墨 AI",
+      "published": "2026-11-14T19:57:02+00:00",
+      "summary": "谷歌六周连发三款大模型，压力给到OpenAI  第一财经",
       "categories": [
-        "tools_apps"
+        "openai"
       ]
     },
     {
@@ -283,17 +301,6 @@
       "summary": "谷歌发布Gemini 4 Hydrogen：弃用Flash命名，主打速度与低幻觉  Sohu",
       "categories": [
         "google"
-      ]
-    },
-    {
-      "title": "今天起，你的Claude Code变了！颜色、动画背景全由你定|Anthropic|AI代码生成|主题|界面|插件_手机新浪网 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNTN6Ml9sRkF1aGVQWWV6MTUyekE5ZUx3bzltVHpuTGRrRXlrbnhRbXZmc0pWVUNLZEs0a2tiNUlWYklTbmFmOF9KVFZxcEFjLTVRR2ZIb3JiSW9VcThmakFnS2t5LS1WZDdNb3AtaEEzNUotVVNpVA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-14T15:20:24+00:00",
-      "summary": "今天起，你的Claude Code变了！颜色、动画背景全由你定|Anthropic|AI代码生成|主题|界面|插件_手机新浪网  新浪财经",
-      "categories": [
-        "anthropic",
-        "tools_apps"
       ]
     },
     {
@@ -359,17 +366,6 @@
       "categories": [
         "anthropic",
         "breakthrough"
-      ]
-    },
-    {
-      "title": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务 - Huawei Enterprise",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXRqdXBzTDlwZ3htdWlHMkxnY2NHcXNic2wxaTE4WVZDTS14bV9MYVZfRFp5cXA2b2FTWHNIUUxxajJJaWRibEFrNGhDeWlmdkFNWDhSeG03dk1wUVZiS2FyQU0zM1ZBVktkcmxhSWRBRHVqZWZ3cWpYRmJWVm8zanhQR0NFWk0?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-06-15T07:00:00+00:00",
-      "summary": "大模型应用迈向深水区： AI Agent工程实践与商业价值破局-华为企业业务  Huawei Enterprise",
-      "categories": [
-        "other_big",
-        "tools_apps"
       ]
     }
   ]
