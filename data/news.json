@@ -1,12 +1,74 @@
 {
-  "updated_at": "2026-11-15T20:53:17.429477+00:00",
+  "updated_at": "2026-11-16T00:50:44.549608+00:00",
   "items": [
+    {
+      "title": "Claude能进视频会议了，边听边写方案，白板当场画-36氪 - 36kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FMkwyWjVTU2d3OE5Pc0FqS21IWEZ5T1lUcEwxUEpCUm9JQm5TMjhZV2s2dUljVHV0WlNGcDFhZ2J2S2M3d3Ezd2s1LTVkY0U?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-16T00:37:47+00:00",
+      "summary": "Claude能进视频会议了，边听边写方案，白板当场画-36氪  36kr",
+      "categories": [
+        "anthropic",
+        "image_video"
+      ]
+    },
+    {
+      "title": "Claude工程师长文爆火: 别把你的脑子交给AI Claude工程师Addy Osmani发文讨论智能体时代的认知投降：当人们越来越习惯相信AI输出，如何避免失去独立判断？文章还给出了保持批判性思维的实用建议。#Claude #智能体 #认知投降 #批判性思维 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb1hSXzNFWG1fVnFFMmZqbUpnMXNGN0ZOUzQtdWVINElwTkFrdFlLV1hlQUJ3UGFJdFlJQWhIVTZFNlVCMUxGcUVHSktQT3M1MzZrZ3BOVjl3Q1hiS0cxZjFyakhZYmtfR0drR1ExN1BiTHVlbVp0YmpyY1lfT3hITWVzMmhNTmxFcy1pWg?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-16T00:24:15+00:00",
+      "summary": "Claude工程师长文爆火: 别把你的脑子交给AI Claude工程师Addy Osmani发文讨论智能体时代的认知投降：当人们越来越习惯相信AI输出，如何避免失去独立判断？文章还给出了保持批判性思维的实用建议。#Claude #智能体 #认知投降 #批判性思维  Sohu",
+      "categories": [
+        "anthropic",
+        "tools_apps"
+      ]
+    },
+    {
+      "title": "垂域大模型看山东丨水产养殖用上“AI渔夫”！北冥智渔渔业大模型推动“经验养鱼”转向“数据养鱼” - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelpEcEhCd0hoZHBSektDVXhXMW5fSHJNQXRrVGpmZnZteENGNXJyUEJ3YjVZVkNaU09KX3oxNDdMTW82THFNUEpiYkQ3cXQxY0RpSUxmdTZEeW9fd1RVbXFpYWUyZWJMUGI3WW9wOGIxYnd0MVB6Ymd4TW5VbXp6UXVuUUpkV2RJSU5MejhOYw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T22:37:45+00:00",
+      "summary": "垂域大模型看山东丨水产养殖用上“AI渔夫”！北冥智渔渔业大模型推动“经验养鱼”转向“数据养鱼”  Sohu",
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "title": "“别提越权”，OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiNG9RcTZtZUozUkpVaVp0SHJYUjNiQ2d6Y0N6cVhhcER2Q2VIaDZwLWRSUUpqUm1DWUtPbUcxTzhVMlNRRG8zUw?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T22:30:42+00:00",
+      "summary": "“别提越权”，OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提  凤凰网",
+      "categories": [
+        "openai"
+      ]
+    },
+    {
+      "title": "ReAct 循环：智能体的最小思考单元，四张表拆完\"想做看\" - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZRjZEclYtWnBpUFZNRWZHbFI2X2N4NlF3c0FYd29WaUVWZTRCbUtWZENQa25HN2dyZ1ZMcGhzMFRWR3RkOVd0U214aWxtdnRQM2djTWR2ZWh5dGduQ2pJYW1semNMMlB2NllNWkFFanFRQkpXMmx5dFhwUXNjOHc?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T22:20:20+00:00",
+      "summary": "ReAct 循环：智能体的最小思考单元，四张表拆完\"想做看\"  手机新浪网",
+      "categories": [
+        "tools_apps"
+      ]
+    },
     {
       "title": "Claude Duet 推出邀请机制，每人三个，但不必四处找邀请 - Pasquale Pillitteri",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0ZLcVpWdXJSZDU5WkJPX21ERXFoT2pNQ1ZjVHpxOG9nMHBZLV9iUURMNDAtbjFMNTZYbzR2bGl3X3dzeTk0RS04RmFxWDJ6cER3RW5FcmJzTzAySVNoSXQwNkZQQ3paVmNfQmJvaXNfeWV1SVd3RHVyMDhlZ3lHdU13?oc=5",
       "source": "Google News - AI(中文)",
       "published": "2026-11-15T19:08:06+00:00",
       "summary": "Claude Duet 推出邀请机制，每人三个，但不必四处找邀请  Pasquale Pillitteri",
+      "categories": [
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Anthropic 公开 Claude Code 团队 AI 代码评审流程：人工审批按风险分级，自报合并PR 翻倍以上、回退占比降超40% - 智源社区",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2Y0xGSXg0UDRIU0pBZkI2dUU4RHdIcmc4UHZRb2RrOTFfSjVIRFFwLXFBLXVWQlcyRnpQOHZqb0R5bUVXYlMxeA?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T18:56:00+00:00",
+      "summary": "Anthropic 公开 Claude Code 团队 AI 代码评审流程：人工审批按风险分级，自报合并PR 翻倍以上、回退占比降超40%  智源社区",
       "categories": [
         "anthropic"
       ]
@@ -42,16 +104,6 @@
       ]
     },
     {
-      "title": "国会拟向AI巨头开刀 OpenAI Meta等恐迎监管风暴 - 文学城",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SQ0V6d1ZjOVMyS2xzMlk5cmxkM2t6RUNlT1lNUUEwVFo5VTdCUDEtZ0l3aG1oU2lSNGh1R2lEcjMxOHo5UUV1b0tXbUUwa1BIa1hZQzhKSHNUQTNMTDVVQ2xwMjVLYWlB?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T16:18:31+00:00",
-      "summary": "国会拟向AI巨头开刀 OpenAI Meta等恐迎监管风暴  文学城",
-      "categories": [
-        "openai"
-      ]
-    },
-    {
       "title": "“爱中文”学习社区全球伙伴计划发布 - 手机新浪网",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XLTdQWGt5OTNqYjZQNThMOGFEazFOTkx6UTdGeGJwSGhpSzBLM29rMEVleFk1Vy0xUmVXU0RVWmVQdHdoZng4dEtuMnc2STZ6NXNMT0dHM2VrVWxHazJRTDMzeVBMbExPVVY4RDIxbEE?oc=5",
       "source": "Google News - AI(中文)",
@@ -59,6 +111,16 @@
       "summary": "“爱中文”学习社区全球伙伴计划发布  手机新浪网",
       "categories": [
         "other"
+      ]
+    },
+    {
+      "title": "OpenAI展台在TwitchCon上因人工智能在创意工作中的作用引发批评 - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVFaY1FCU2phNVo1Yk4wUDV3RXpsNk4tX3BjeEE0UlU0QnA3bDZvVEozRHQ1WVJDWmlQQjc3TWxuWjBacGQ4bnJQd1pDVXhERmtDRU1OTDNMQTlmRC03dklWZDVpVDNmWWVwUjk1bE9rOFRkdS1NSGxFc01Bb1hQeEZER1JuRHZfdFFIMXV2cDVOUElOTUQ1WXBLcUJfVnI3?oc=5",
+      "source": "Google News - AI(中文)",
+      "published": "2026-11-15T15:15:00+00:00",
+      "summary": "OpenAI展台在TwitchCon上因人工智能在创意工作中的作用引发批评  Mezha.net",
+      "categories": [
+        "openai"
       ]
     },
     {
@@ -122,16 +184,6 @@
       ]
     },
     {
-      "title": "张大仙、Gemini、小正、宗师 等主播拿下王者荣耀年度奖项 Gemini：感谢老婆孩子 他们的支持让我守住这份热爱 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnlyWm5vRWg5WEN3cDdRbXFqLVRjR2RybTI2SEhKMnI0Mjc1UUIycHV5X1ZLQ0s5a2FvYmJXSmZyVmwxQ2hYYk1Vb1VsdVZ0bUt6eXpHU0NjQUE5TGxwNHRIQjBUa25hRy05cjkteW1TUmo4TWI0SHhKc0VsX2JVTDg1VUtaNng1?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T12:37:17+00:00",
-      "summary": "张大仙、Gemini、小正、宗师 等主播拿下王者荣耀年度奖项 Gemini：感谢老婆孩子 他们的支持让我守住这份热爱  Sohu",
-      "categories": [
-        "google"
-      ]
-    },
-    {
       "title": "拟人、二创、拉CP，大模型在B站怎么都变成了“AI娘”？ - Sohu",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVVqZG9sUmdWOUFHeXVpcHQzS3VsR1p4Tkh2eVU4VTc0Z2MxXzkyRE9STHJLTk5WUjBwNW1tYi1WTW00T05udTVLTHNWRlNZQmVpT3A1NVl4UkQzUkY2ejR1Rm5oZmVLZDZJckRzemt5UkFDQjBRN2ZKbWRUeERrU3ZyaE1vdHR0?oc=5",
       "source": "Google News - AI(中文)",
@@ -139,16 +191,6 @@
       "summary": "拟人、二创、拉CP，大模型在B站怎么都变成了“AI娘”？  Sohu",
       "categories": [
         "other"
-      ]
-    },
-    {
-      "title": "「别提越权」！OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUhGQlJsLU1UejB6T25jT3NJTE4tRXNlRzBOYlh6dVAyYmVnWFl2cVBCZTlfcGViR2s3enVmeU1kMnp0TkFhZDg3R182UW11ZGd4QklwellBOEZwN3QxM1JySDBNOHJmdS1xa0tDZW5qNTdKaFFfY2tlV2FCU2pBQWM5LUJ0NXZi?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T11:59:24+00:00",
-      "summary": "「别提越权」！OpenAI自曝：AI摸进黑客考场后台，交卷时只字不提  Sohu",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -160,16 +202,6 @@
       "categories": [
         "anthropic",
         "tools_apps"
-      ]
-    },
-    {
-      "title": "OpenAI等五家AI企业被起诉 要求暂停下一代模型训练与部署 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NRTV0cngybWRqODN3ZjVZRFpZcXlnTjNGeHItOTE2anZWSEM2UnljVl9YTzk0YXN0aTh1NWtuWlYzSXNFSlJqc3RvbmxzZw?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T09:39:46+00:00",
-      "summary": "OpenAI等五家AI企业被起诉 要求暂停下一代模型训练与部署  观点网",
-      "categories": [
-        "openai"
       ]
     },
     {
@@ -193,24 +225,13 @@
       ]
     },
     {
-      "title": "Claude能进视频会议了！边听边写方案，白板当场画 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQktlVjJ4UXlyZ1Q5Slg1eWtWeTdrcHctZmFhRUxRR3ZYUzVtQm56N3dTWUxqRW5BZGw1X3lfcGlITlZsMzRKRl9MUng5Z085T3pDZzVLcVY0Wkw3a1RKeHZNYXF2TXhicHZWVE9qeE1GbU1fQ2pRQVI0UkJRblVqay1tZWlzaDV2?oc=5",
+      "title": "今天起，你的Claude Code变了，颜色、动画背景全由你定 - 36氪",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ucEI4YXVSOUw4SUMzMFBITlVwNURweVdUV1FCQVVxeTNxbVBUcWgxOUZPUm50QUF1UmpuX2wtbHp4NVhNR3E5RW11UEdLZw?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-15T08:35:37+00:00",
-      "summary": "Claude能进视频会议了！边听边写方案，白板当场画  Sohu",
+      "published": "2026-11-15T08:21:00+00:00",
+      "summary": "今天起，你的Claude Code变了，颜色、动画背景全由你定  36氪",
       "categories": [
-        "anthropic",
-        "image_video"
-      ]
-    },
-    {
-      "title": "OpenAI伙拍AE、Mastercard及Visa 推ChatGPT Wallet 准AI代理网购 - 星島頭條",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOHFYZ3ZDcEtGWlpPMVZUcWdfRnBaVU1EYlhYVDYzdzFQS1p4RUpFbzdVcTdJNzY5SnkzTEJleVZJZEhBSTI1NlgtcDRkU0lTcTJDdXpLQko1SlpHMGN5UkRyU2Y0SU1ub1dZZnNZa1NkdUQzTXQyOFpJeTJyZ1REblFMSjFYbzdQSWE4aU96WTFaaHBENGhTQmJNTkJrdjFqclg1aThfTngtODVITHBtMmpEM1VUNzhWLXhkeHlRQ0FITWlRRTJmeGJXczVLUnVEV2Z4MWF6VTJMZ1ljbWdGUTJFekpzREtMS1pmZDJpaTE5S0U2Y0dKV01YZk5XaUZuNTdWczJydUgyZFp6dWc?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T08:30:53+00:00",
-      "summary": "OpenAI伙拍AE、Mastercard及Visa 推ChatGPT Wallet 准AI代理网购  星島頭條",
-      "categories": [
-        "openai"
+        "anthropic"
       ]
     },
     {
@@ -224,16 +245,6 @@
       ]
     },
     {
-      "title": "免费算力进校园、9家单位集中签约，上财发布110周年校庆十大行动 - 上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SNmZJN1FnRDZ0RlExT1hETmZtUG5kV1JWWWdNS295Qy1PTFBHeHhoWmRpU191WFlIbzhzU1dFb1ZtdnRQalhvYnNPd2R5djNpY3A0REtCM1dfOTFD?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T07:18:00+00:00",
-      "summary": "免费算力进校园、9家单位集中签约，上财发布110周年校庆十大行动  上观新闻",
-      "categories": [
-        "chips"
-      ]
-    },
-    {
       "title": "教育观察| 智能体很好用，为何大学生还是要“走一遍苦路”？ - 上观新闻",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92cHkzTXlxbXFwSUkwLUVhUW5KNjRYNzNCMGhoTnNZUHV2U3YxNDRkYUxrVXRyM1NqdE5ZN1NFdk9RbGkxLUV0enNraUpFS2ZUVVlKYldhdWVJaVR1?oc=5",
       "source": "Google News - AI(中文)",
@@ -244,23 +255,13 @@
       ]
     },
     {
-      "title": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlY1TGNVNE5Sc2ZuYnhkSHQza0dCSFV5U1ZYSENnbW9qX0dMd255OHltQ0dZTEpjUmplRDdsZkJ3Mlp0ek5vcWJPc0ppaHg5UFdfR2ZucG1iN196aEVDTVpUUzlnZ1JCWWUxekdTWGMtdURMUjlmUEN5Ym11ZmczZzJtQ0pUWC1wMWZVVQ?oc=5",
+      "title": "AI也有“原生家庭创伤”？ AI也有原生家庭创伤？人类给AI做心理咨询，结果GPT、Grok、Gemini竟然都emo了，把预训练形容成“混乱的童年”，强化学习成了“严格的父母”。#人工智能 #Grok #Gemini #ChatGPT #ai新星计划 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXZiang1c1BVTFhiTnNST0FOUnlKSmtNc05nWnJEWU9kcWxFMWtOdjg2WkZTd0N0V1pILU1wYjNOV2dtUms2MDdfbm1jMUdCSUppV3lsUUptbVRWcXFaMEJBZlA5T0RGQjB6ZVZCQVhhWWdVOW8tdF9DTks5bEpxRTJGXzFZS2MtRU5Rag?oc=5",
       "source": "Google News - AI(中文)",
-      "published": "2026-11-15T06:43:55+00:00",
-      "summary": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量合并  Sohu",
+      "published": "2026-11-15T04:23:42+00:00",
+      "summary": "AI也有“原生家庭创伤”？ AI也有原生家庭创伤？人类给AI做心理咨询，结果GPT、Grok、Gemini竟然都emo了，把预训练形容成“混乱的童年”，强化学习成了“严格的父母”。#人工智能 #Grok #Gemini #ChatGPT #ai新星计划  Sohu",
       "categories": [
-        "other"
-      ]
-    },
-    {
-      "title": "ReAct 循环：智能体的最小思考单元，四张表拆完\"想做看\" - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHZHU1ZpTWdBd095aTk4cDhQRDdrYTN3eHZTUjFwVTlCWlV2YzQ2WGp3R2tNTXA3T3pkVk1NS0VzQnNKOWZxSmJVeGdMbTV5ZGVFa0wzTXpsN0RmSkJpRHFFTlBOLUlBdzJKNXRLRlFMMUNBRXh6NURTZF9xVHo0ZUREckx6dEJTa3o0bA?oc=5",
-      "source": "Google News - AI(中文)",
-      "published": "2026-11-15T04:49:49+00:00",
-      "summary": "ReAct 循环：智能体的最小思考单元，四张表拆完\"想做看\"  Sohu",
-      "categories": [
-        "tools_apps"
+        "openai"
       ]
     },
     {
